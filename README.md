@@ -32,7 +32,7 @@ git checkout -b staging origin/staging
 
 Conventions
 -----------
-This is a list of few conventions we follow when writing documentation that help keep the repository well organized and consistent. Feel free to use any other file in the docs as reference. We also have a [skelethon](Skelethon.md) with all the conventions in place and with many examples of Markdown in use.
+This is a list of few conventions we follow when writing documentation that help keep the repository well organized and consistent. Feel free to use any other file in the docs as reference. We also have a [skeleton](Skeleton.md) with all the conventions in place and with many examples of Markdown in use.
 
 * Every change/pull request must be applied or requested to the [staging branch](https://github.com/rockettheme/docs/tree/staging). Once reviewed, approved and pulled, it will get merged into the **master** branch and automatically picked up by the website.
 
