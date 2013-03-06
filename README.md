@@ -39,15 +39,15 @@ This is a list of few conventions we follow when writing documentation that help
 * Folder and file names must be written in snake_case. For example, if you wanted to convert “How to Install” in snake_case, you would name it “how_to_install”.
 
 * There are some reserved names that can’t be used for anything but the scope they are intended for:
-    * **README.md**: [_file_] This is a reserved name of GitHub, used to describe the content of a particular repository directory, like this you are reading right now.
+    * **README.md**: [ _file_ ] This is a reserved name of GitHub, used to describe the content of a particular repository directory, like this you are reading right now.
 
-    * **TOC.md**: [_file_] TOC (Table Of Content) does represent the structure of a project. Its content is a list of links to the various documents in the project. The TOC is represented as sidebars in the [RocketTheme Docs](http://rockettheme.com/docs).
+    * **TOC.md**: [ _file_ ] TOC (Table Of Content) does represent the structure of a project. Its content is a list of links to the various documents in the project. The TOC is represented as sidebars in the [RocketTheme Docs](http://rockettheme.com/docs).
 
-    * **INDEX.md**: [_file_] This file defines the default content for a folder. Exatly like HTML pages, if you hit a folder without specifying any file, INDEX.md (if found) will be assumed.
+    * **INDEX.md**: [ _file_ ] This file defines the default content for a folder. Exatly like HTML pages, if you hit a folder without specifying any file, INDEX.md (if found) will be assumed.
 
-    * **REDIRECT.md**: [_file_] This file sorely purpose is to redirect projects to different locations. For example, if a project `/docs/project/subproject/` contains a `REDIRECT.md`, when hitting on the web the `subproject` page, you’ll get redirect to `project`. By default it takes you back one level, although you can configure where to redirect to through YAML headers ([read more about YAML headers below](#yaml-headers)).
+    * **REDIRECT.md**: [ _file_ ] This file sorely purpose is to redirect projects to different locations. For example, if a project `/docs/project/subproject/` contains a `REDIRECT.md`, when hitting on the web the `subproject` page, you’ll get redirect to `project`. By default it takes you back one level, although you can configure where to redirect to through YAML headers ([read more about YAML headers below](#yaml-headers)).
 
-    * **ASSETS**: [_folder_] When the project requires assets, such as images, they can be placed in the `ASSETS` folder. Any filename inside `ASSETS` must follow the same rules as any other file name (snake_case, no reserved names, etc).
+    * **ASSETS**: [ _folder_ ] When the project requires assets, such as images, they can be placed in the `ASSETS` folder. Any filename inside `ASSETS` must follow the same rules as any other file name (snake_case, no reserved names, etc).
 
 * Every header, except for the title one, must be precedenced by 2 empty lines and succeeded by no empty line.
 
