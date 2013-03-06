@@ -47,7 +47,7 @@ This is a list of few conventions we follow when writing documentation that help
 
     * **REDIRECT.md**: [ _file_ ] This file sorely purpose is to redirect projects to different locations. For example, if a project `/docs/project/subproject/` contains a `REDIRECT.md`, when hitting on the web the `subproject` page, you’ll get redirect to `project`. By default it takes you back one level, although you can configure where to redirect to through YAML headers ([read more about YAML headers below](#yaml-headers)).
 
-    * **ASSETS**: [ _folder_ ] When the project requires assets, such as images, they can be placed in the `ASSETS` folder. Any filename inside `ASSETS` must follow the same rules as any other file name (snake_case, no reserved names, etc).
+    * **assets**: [ _folder_ ] When the project requires assets, such as images, they can be placed in the `assets` folder. Any filename inside `assets` must follow the same rules as any other file name (snake_case, no reserved names, etc).
 
 * Every header, except for the title one, must be precedenced by 2 empty lines and succeeded by no empty line.
 
