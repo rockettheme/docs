@@ -1,4 +1,4 @@
-docs
-====
+RocketTheme Docs
+================
 
 RocketTheme Official Documentation
