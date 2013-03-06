@@ -1,5 +1,5 @@
 ---
-title: Skelethon Title
+title: Skeleton Title
 parent: ../../
 parent_title: Skeleton Back Link
 ---
