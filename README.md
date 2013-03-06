@@ -49,7 +49,7 @@ This is a list of few conventions we follow when writing documentation that help
 
     * **assets**: [ _folder_ ] When the project requires assets, such as images, they can be placed in the `assets` folder. Any filename inside `assets` must follow the same rules as any other file name (snake_case, no reserved names, etc).
 
-* Every header, except for the title one, must be precedenced by 2 empty lines and succeeded by no empty line.
+* Every header, except for the title one, must be preceeded by 2 empty lines and succeeded by no empty line.
 
 * Headers sub lines (`=` and `-`) must always align to the header text. Because this can easily get confusing, be sure to use a mono-spaced fonts. Here a couple of examples of well aligned headers:
 
