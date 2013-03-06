@@ -18,4 +18,4 @@ Content goes here.
 
 How to Use
 -----------
-Using RokBox is extremely simple. Have a look at the [Editor Button](editor_button.md) page.
+Using RokBox is extremely simple. Have a look at the [Editor Button](editor_button.md) page, you can also follow the tutorials.
