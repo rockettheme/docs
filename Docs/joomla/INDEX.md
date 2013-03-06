@@ -22,7 +22,7 @@ landing: true
 
 <!-- -->
 
-* Templates
+* Club Templates
 
 	- [Chapelco](templates/chapelco)
 	- [Lumiere](templates/lumiere)
@@ -39,3 +39,5 @@ landing: true
 	- [Ionosphere](templates/ionosphere)
 	- [Clarion](templates/clarion)
 	- [Halcyon](templates/halcyon)
+	- [Visage](templates/visage)
+	- [Enigma](templates/enigma)
