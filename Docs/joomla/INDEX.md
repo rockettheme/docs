@@ -9,7 +9,7 @@ Joomla Documentation
 
 Joomla is a hugely popular open source Content Management System (CMS) and the platform this site is built upon. This section enables you to find out more about Joomla and how to use it with RocketTheme templates and extensions.
 
----
+* * *
 
 * [Basic](basic/)
 
