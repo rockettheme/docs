@@ -1,7 +1,6 @@
 ---
 title: Joomla! Documentation
 landing: true
-
 ---
 
 Joomla Documentation
@@ -10,6 +9,28 @@ Joomla Documentation
 Joomla is a hugely popular open source Content Management System (CMS) and the platform this site is built upon. This section enables you to find out more about Joomla and how to use it with RocketTheme templates and extensions.
 
 * * *
+
+* Start Here
+
+	- [What is Joomla?](start/)
+	  Find out why Joomla is one of the most popular open source CMSs.
+
+	- [How to install Joomla](start/install.md)
+	  Step-by-step through the installation procedure for Joomla.
+
+	- [Joining the Club](start/join_the_club.md)
+	  Find out about the benefits and capabilities of joining the RocketTheme Joomla Club
+
+	- [Entitlements & Domains](start/entitlements_domains.md)
+	  What do Entitlements & Domains mean in relation to club membership.
+
+	- [Joomla Templates](start/templates.md)
+	  Find out exactly what a Joomla template entails and what its relationship is with other Joomla extensions.
+
+	- [Joomla Extensions](start/extensions.md)
+	  Discover how RocketTheme Joomla extensions help you to create a powerful site.
+
+<!-- -->
 
 * [Basic](basic/)
 
