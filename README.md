@@ -69,8 +69,8 @@ Our Markdown implementation uses special [YAML headers](http://www.yaml.org/spec
 ~~~ .yaml
 ---
 title: Project Title
-parent: ../../
-parent_title: Return to the Generic Projects
+breadcrumb: /joomla:Joomla/!extensions:Extensions/project:Project
+
 ---
 ~~~
 
@@ -83,22 +83,24 @@ Below is a list of supported YAML variables that can be used and a description o
     ~~~
     ---
     title: Hello World!
+
     ---
     ~~~
 
-* **parent**: _(defaults: ../)_ This is the reference for the back link to point to.
+* **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The breadcrumb is specific for `TOC` files only, on other MD files it will be ignored.
+
+    The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, delimited by `:`.
+
+    For example, for a project that resides at `/wordpress/extensions/project`, the breadcrumb format would look like `/wordpress:Wordpress/!extensions:Extensions/project:Project/`.
+
+    When a folder starts with the exclamation point `!`, it means it won't be converted into a clickable link, otherwise it will.
+
+    It is important that the pathway follows the real Documentation folder structure.
 
     ~~~
     ---
-    parent: ../extensions/
-    ---
-    ~~~
+    breadcrumb: /joomla:Joomla/!extensions:Extensions/project:Project/`
 
-* **parent_title**: _(defaults: Return to the previous Documentation)_ The text to be associated to the `parent`.
-
-    ~~~
-    ---
-    parent_title: Back to Extensions!
     ---
     ~~~
 
