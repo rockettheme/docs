@@ -1,5 +1,7 @@
 ---
 title: Basic
+breadcrumb: /joomla:Joomla/!basic:Basic
+
 ---
 
 * Basic

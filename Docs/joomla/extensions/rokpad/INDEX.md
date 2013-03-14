@@ -1,7 +1,6 @@
 ---
 title: RokPad
-parent: ../../
-parent_title: Return to Joomla! Docs
+
 ---
 
 RokPad

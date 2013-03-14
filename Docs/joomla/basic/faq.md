@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent_title: Return to Joomla! Docs
+
 ---
 
 FAQ

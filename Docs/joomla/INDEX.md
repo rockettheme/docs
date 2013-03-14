@@ -1,6 +1,7 @@
 ---
 title: Joomla! Documentation
 landing: true
+
 ---
 
 Joomla Documentation

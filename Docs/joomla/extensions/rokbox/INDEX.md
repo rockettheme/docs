@@ -1,7 +1,6 @@
 ---
 title: RokBox
-parent: ../../
-parent_title: Return to Joomla! Docs
+
 ---
 
 RokBox

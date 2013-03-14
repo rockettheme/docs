@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-parent_title: Return to Joomla! Docs
+
 ---
 
 Getting Started

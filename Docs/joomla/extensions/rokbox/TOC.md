@@ -1,3 +1,9 @@
+---
+title: RokBox
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
+
+---
+
 * RokBox
     * [Introduction]()
     * [Editor Button](editor_button.md)

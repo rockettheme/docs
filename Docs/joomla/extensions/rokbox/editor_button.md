@@ -1,7 +1,6 @@
 ---
 title: Editor Button
-parent: ../../
-parent_title: Return to Joomla! Docs
+
 ---
 
 RokBox Editor Button
