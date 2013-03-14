@@ -10,19 +10,19 @@ Here you'll find the latest and greatest documentation and information concernin
 
 * * *
 
-* [![](assets/toc-sample.jpg) __Joomla__](joomla)
+* [__Joomla__](joomla)
 
-* [![](assets/toc-sample.jpg) __WordPress__](wordpress)
+* [__WordPress__](wordpress)
 
-* [![](assets/toc-sample.jpg) __Magento__](magento)
+* [__Magento__](magento)
 
-* [![](assets/toc-sample.jpg) __phpBB__](phpbb)
+* [__phpBB__](phpbb)
 
-* [![](assets/toc-sample.jpg) __Accounts & Billing__](accounts_billing)
+* [__Accounts & Billing__](accounts_billing)
 
-* [![](assets/toc-sample.jpg) __Hosting Help__](hosting)
+* [__Hosting Help__](hosting)
 
-* [![](assets/toc-sample.jpg) __Technical Tips__](technical_tips)
+* [__Technical Tips__](technical_tips)
 
-* [![](assets/toc-sample.jpg) __Gantry Framework__](gantry)
+* [__Gantry Framework__](gantry)
 
