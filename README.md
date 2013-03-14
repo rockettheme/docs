@@ -87,9 +87,7 @@ Below is a list of supported YAML variables that can be used and a description o
     ---
     ~~~
 
-* **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The breadcrumb is specific for `TOC` files only, on other MD files it will be ignored.
-
-    The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, delimited by `:`.
+* **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, delimited by `:`.
 
     For example, for a project that resides at `/wordpress/extensions/project`, the breadcrumb format would look like `/wordpress:Wordpress/!extensions:Extensions/project:Project/`.
 

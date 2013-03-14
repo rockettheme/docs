@@ -1,6 +1,7 @@
 ---
 title: Joomla! Documentation
 landing: true
+breadcrumb: /!joomla:Joomla/
 
 ---
 

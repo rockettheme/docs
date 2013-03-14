@@ -1,7 +1,6 @@
 ---
 title: Skeleton Title
-parent: ../../
-parent_title: Skeleton Back Link
+breadcrumb: /joomla:Joomla/!extensions:Extensions/
 
 ---
 
