@@ -3,8 +3,8 @@ title: RokBox
 
 ---
 
-RokBox
-======
+Introduction
+============
 RokBox is a very powerful popup that handles many media formats such as *images* and *videos*
 
 ![](assets/featured.jpg)

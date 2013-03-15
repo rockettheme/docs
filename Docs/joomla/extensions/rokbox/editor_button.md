@@ -3,8 +3,8 @@ title: Editor Button
 
 ---
 
-RokBox Editor Button
-====================
+Editor Button
+=============
 RokBox has a built-in editor button that can be used to easily integrate RokBox links into your content.
 
 From the Editor Button popup you can customize every option available in RokBox and even pick the images you want to be linked or show as a thumbnail [^1].
