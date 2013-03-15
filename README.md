@@ -76,7 +76,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/project:Project
 
 The headers allow for a much flexible output. For example we can define a title of a Markdown file based on its header title variable, rather than the file name itself.
 
-Below is a list of supported YAML variables that can be used and a description on what they do:
+Below is a list of supported `YAML` variables that can be used and a description on what they do:
 
 * **title**: The title of the article. This is used whenever a page needs to be referenced.
 
@@ -86,6 +86,18 @@ Below is a list of supported YAML variables that can be used and a description o
 
     ---
     ~~~
+
+* **description**: Describes the project. This is usually set in the `TOC` and should describe the project in a generic way, although it is also possible to override the `TOC` description from another MD doc file.
+
+    The description supports Markdown inline syntax, such as _strong_, _italic_, _links_. You should not be using anything else, such as _headers_, _images_ and such.
+
+    ~~~
+    ---
+    description: The most powerful project you have *ever* seen
+
+    ---
+    ~~~
+
 
 * **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, delimited by `:`.
 
