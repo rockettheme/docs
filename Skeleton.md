@@ -6,12 +6,24 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/
 
 Header H1
 =========
-Paragraph below H1.
+Paragraph below H1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatum ea explicabo odit labore suscipit enim architecto voluptatem sint deleniti minus recusandae nisi illum quos quia tempora quas quasi totam.
 
 
 Header H2
 ---------
-Paragraph below H2.
+Paragraph below H2. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam nesciunt quas ipsam ratione provident debitis non accusantium facilis error officia? Iure maiores culpa accusamus repellat ipsa consequatur consectetur vitae aut.
+
+### Header H3
+Paragraph below H3. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur nihil repellendus velit perferendis recusandae dolore modi fuga impedit iste pariatur animi minus iure amet laborum quae! Aut architecto numquam ipsum?
+
+#### Header H4
+Paragraph below H4. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quisquam inventore eaque vel adipisci aperiam doloremque dolor facilis quas veniam iusto iure omnis dolorum quae saepe fugit velit ut dolorem!
+
+##### Header H5
+Paragraph below H5. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum consequatur dolorum expedita quibusdam voluptate optio perferendis error a beatae eveniet placeat reiciendis asperiores esse doloribus! Alias ullam nisi reprehenderit!
+
+Lists
+-----
 
 * This is
 * an Unordered
@@ -21,9 +33,13 @@ Paragraph below H2.
 2. an Ordered
 3. List
 
-Paragraph with **bold text** , _italic text_ and `inline code`.
+Inline Styling
+--------------
 
-An horizontal rule
+Paragraph with **bold text**, _italic text_ and `inline code`.
+
+Horizontal Rule
+---------------
 
 * * *
 
@@ -73,11 +89,18 @@ Blocks of code.
 </html>
 ~~~
 
-### Header 3
+Line Breaks
+-----------
+
+A `<br />` tag can be recreated by using two or more spaces at the end of a line.
+This should text should be on a new line.
+
 An Image Example
+----------------
 
 ![Alt Text](http://octodex.github.com/images/plumber.jpg "Optional Title")
 
+Footnotes should be put at the bottom of a page:
 
 [^1]: Footnote
 
