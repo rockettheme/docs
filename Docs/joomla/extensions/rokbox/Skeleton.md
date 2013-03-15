@@ -45,6 +45,9 @@ Horizontal Rule
 
 Another paragraph with a [link](#url-goes-here), an automatic link <http://example.com>, a [^1] and a [link reference][ref].
 
+BlockQuotes
+-----------
+
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
@@ -52,15 +55,17 @@ Another paragraph with a [link](#url-goes-here), an automatic link <http://examp
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
-Another blockquote example.
+Notices
+-------
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+Notices are produced by using two levels of block quote for example `> >` to generate the required styling
+
+> > this is a notice
+> >
+> > This is another line of the same notice
 
 Blocks of code.
+---------------
 
 ~~~ {.prettyprint .linenums}
 <!DOCTYPE HTML>

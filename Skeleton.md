@@ -35,15 +35,24 @@ Lists
 
 Inline Styling
 --------------
+<<<<<<< HEAD
 
 Paragraph with **bold text**, _italic text_ and `inline code`.
 
+=======
+
+Paragraph with **bold text**, _italic text_ and `inline code`.
+
+>>>>>>> skeleton updates
 Horizontal Rule
 ---------------
 
 * * *
 
 Another paragraph with a [link](#url-goes-here), an automatic link <http://example.com>, a [^1] and a [link reference][ref].
+
+BlockQuotes
+-----------
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
@@ -52,15 +61,17 @@ Another paragraph with a [link](#url-goes-here), an automatic link <http://examp
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
-Another blockquote example.
+Notices
+-------
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+Notices are produced by using two levels of block quote for example `> >` to generate the required styling
+
+> > this is a notice
+> >
+> > This is another line of the same notice
 
 Blocks of code.
+---------------
 
 ~~~ {.prettyprint .linenums}
 <!DOCTYPE HTML>
@@ -92,7 +103,11 @@ Blocks of code.
 Line Breaks
 -----------
 
+<<<<<<< HEAD
 A `<br />` tag can be recreated by using two or more spaces at the end of a line.
+=======
+A `<br />` tag can be recreated by using two or more spaces at the end of a line.   
+>>>>>>> skeleton updates
 This should text should be on a new line.
 
 An Image Example
