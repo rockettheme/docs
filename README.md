@@ -66,7 +66,7 @@ YAML Headers
 ------------
 Our Markdown implementation uses special [YAML headers](http://www.yaml.org/spec/1.2/spec.html). These headers are encapsuled in between a set of three dashes and an empty line. This is how a YAML header looks like:
 
-~~~ .yaml
+~~~
 ---
 title: Project Title
 breadcrumb: /joomla:Joomla/!extensions:Extensions/project:Project
