@@ -43,7 +43,7 @@ This is a list of few conventions we follow when writing documentation that help
 
     * **TOC.md**: [ _file_ ] TOC (Table Of Content) does represent the structure of a project. Its content is a list of links to the various documents in the project. The TOC is represented as sidebars in the [RocketTheme Docs](http://rockettheme.com/docs).
 
-    * **INDEX.md**: [ _file_ ] This file defines the default content for a folder. Exatly like HTML pages, if you hit a folder without specifying any file, INDEX.md (if found) will be assumed.
+    * **INDEX.md**: [ _file_ ] This file defines the default content for a folder. Exactly like HTML pages, if you hit a folder without specifying any file, INDEX.md (if found) will be assumed.
 
     * **REDIRECT.md**: [ _file_ ] This file sorely purpose is to redirect projects to different locations. For example, if a project `/docs/project/subproject/` contains a `REDIRECT.md`, when hitting on the web the `subproject` page, you’ll get redirect to `project`. By default it takes you back one level, although you can configure where to redirect to through YAML headers ([read more about YAML headers below](#yaml-headers)).
 
@@ -78,7 +78,7 @@ The headers allow for a much flexible output. For example we can define a title 
 
 Below is a list of supported `YAML` variables that can be used and a description on what they do:
 
-* **title**: The title of the article. This is used whenever a page needs to be referenced.
+* **title**: The title of the article. This is used whenever a page needs to be referenced. When the title is set on a `TOC` file, it globalize the title for each document in the project itself.
 
     ~~~
     ---
@@ -87,9 +87,9 @@ Below is a list of supported `YAML` variables that can be used and a description
     ---
     ~~~
 
-* **description**: Describes the project. This is usually set in the `TOC` and should describe the project in a generic way, although it is also possible to override the `TOC` description from another MD doc file.
+* **description**: Describes the project. This is usually set in the `TOC` and should describe the project in a generic way, although it is also possible to override the `TOC` description from another MD file.
 
-    The description supports Markdown inline syntax, such as _strong_, _italic_, _links_. You should not be using anything else, such as _headers_, _images_ and such.
+    The description supports Markdown inline syntax, such as _strong_, _italic_, _links_. You should not be using anything else (ie, _headers_, _images_ and such).
 
     ~~~
     ---
@@ -99,17 +99,35 @@ Below is a list of supported `YAML` variables that can be used and a description
     ~~~
 
 
-* **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, delimited by `:`.
+* **breadcrumb**: _(defaults: false)_ Represents the pathway to the current project. The format of the breadcrumb is a UNIX path format with each folder being the real path and the display name of the folder, separated by `:`.
 
     For example, for a project that resides at `/wordpress/extensions/project`, the breadcrumb format would look like `/wordpress:Wordpress/!extensions:Extensions/project:Project/`.
 
     When a folder starts with the exclamation point `!`, it means it won't be converted into a clickable link, otherwise it will.
 
-    It is important that the pathway follows the real Documentation folder structure.
+    It is important to remember that the pathway follows the real Documentation folder structure, it has to start from the root and it can't miss folders in between.
 
     ~~~
     ---
     breadcrumb: /joomla:Joomla/!extensions:Extensions/project:Project/`
+
+    ---
+    ~~~
+
+* **redirect_to**: _(defaults: ../)_ This property can only be used in `REDIRECT.md` files and allows to have a project redirecting to a different specified path. The path to redirect to can be either relative or absolute, by default it redirects one level up.
+
+    Examples:
+
+    ~~~
+    ---
+    redirect_to: ../../
+
+    ---
+    ~~~
+
+    ~~~
+    ---
+    redirect_to: /joomla/
 
     ---
     ~~~
