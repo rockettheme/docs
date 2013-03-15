@@ -9,3 +9,5 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
     * [Editor Button](editor_button.md)
 * Tutorials
     * [Album Gallery]()
+* Skeleton
+    * [Unit Test](Skeleton.md)
