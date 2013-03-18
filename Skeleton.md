@@ -35,15 +35,9 @@ Lists
 
 Inline Styling
 --------------
-<<<<<<< HEAD
 
 Paragraph with **bold text**, _italic text_ and `inline code`.
 
-=======
-
-Paragraph with **bold text**, _italic text_ and `inline code`.
-
->>>>>>> skeleton updates
 Horizontal Rule
 ---------------
 
@@ -103,11 +97,7 @@ Blocks of code.
 Line Breaks
 -----------
 
-<<<<<<< HEAD
-A `<br />` tag can be recreated by using two or more spaces at the end of a line.
-=======
 A `<br />` tag can be recreated by using two or more spaces at the end of a line.   
->>>>>>> skeleton updates
 This should text should be on a new line.
 
 An Image Example
