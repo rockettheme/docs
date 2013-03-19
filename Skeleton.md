@@ -67,7 +67,7 @@ Notices are produced by using two levels of block quote for example `> >` to gen
 Blocks of code.
 ---------------
 
-~~~
+~~~ .html
 <!DOCTYPE HTML>
 
 <html>
