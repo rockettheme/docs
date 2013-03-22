@@ -1,0 +1,872 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>rokbox_2_user_guide</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: d5e7ce436666e7d4a2eeb12e7f8261dacceb3565 */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+.markdown-body img {
+  max-width: 100%
+}
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+</style>
+<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css"></script>
+</head>
+<body>
+<hr><p>title: RokBox2 Docs<br>
+description: RokBox2 is a <em>state-of-the-art</em> responsive modal solution for Joomla with support for images, videos, and widgets.<br>
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox2 Guide</p>
+
+<hr><h1>Introducing Rokbox2  </h1>
+
+<h2></h2>
+
+<p>The More Ultimate Javascript Powered Multimedia Box<br><br>
+RokBox2 is a fully responsive modal pop-up plug-in for Joomla. It displays images, videos, embedded widgets, Ajax content and Joomla modules.</p>
+
+<p>RokBox2 contains a Content plug-in and Button Editor plug-in. The Content plug-in can auto-generate thumbnails of local images that can be used as content for your RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device. The Button Editor plug-in allows for easy creation of RokBox2 style snippets with just a few clicks.</p>
+
+<p>RokBox2 Auto generates thumbnails of local images that can be used as content for your RokBox2 links. All thumbnails generated are responsive so that they can be easily adapted to any device. RokBox2 improves on the original as now it comes with a Syntax Creator, for those who like less coding. So now the choice is yours, code your RokBox2 statements or let the Syntax Creator do it for you. RokBox2 is available for Joomla 2.5 and Joomla 3.0   </p>
+
+<p>RokBox2 Content plugins also provides backward compatibility for the old discontinued RokBox that allowed writing snippets through the {rokbox} syntax. To enable this feature please use these settings in both the <code>plugin_manager -&gt; CONTENT_rokbox -&gt; backward_compatibility -&gt; selectbox</code> and the <code>plugin_manager -&gt; SYSTEM_rokbox -&gt; backward_compatibility -&gt; selectbox</code>:   </p>
+
+<p><a href="assets/plugin_manager-CONTENT_rokbox-backward_compatibility.jpg" target="_blank"><img src="assets/plugin_manager-CONTENT_rokbox-backward_compatibility.jpg" alt="RokBox2 plugin_manager-CONTENT_rokbox-backward_compatibility" style="max-width:100%;"></a></p>
+
+<p><a href="assets/plugin_manager-SYSTEM_rokbox-backward_compatibility.jpg" target="_blank"><img src="assets/plugin_manager-SYSTEM_rokbox-backward_compatibility.jpg" alt="RokBox2 plugin_manager-SYSTEM_rokbox-backward_compatibility" style="max-width:100%;"></a></p>
+
+<hr><h1>Key Features</h1>
+
+<h2></h2>
+
+<blockquote>
+<ul>
+<li>
+<strong>HTML5 and CSS3</strong> </li>
+<li>
+<strong>Fully Responsive</strong> </li>
+<li>
+<strong>Auto thumbnails generator</strong> </li>
+<li>
+<strong>Captions supporting HTML syntax</strong> </li>
+<li>
+<strong>Ajax Content listener</strong> </li>
+<li>
+<strong>Multiple media types supported:</strong>  <strong>Images: base64 encoded, jpg, gif, png, bmp, webp</strong> </li>
+<li>
+<strong>HTML5 Video and Audio</strong> </li>
+<li>
+<strong>TwitPic</strong> </li>
+<li>
+<strong>Instagram</strong> </li>
+<li>
+<strong>YouTube</strong> </li>
+<li>
+<strong>Vimeo</strong> </li>
+<li>
+<strong>Telly (ex TwitVid)</strong> </li>
+<li>
+<strong>Metacafe</strong> </li>
+<li>
+<strong>Dailymotion</strong> </li>
+<li>
+<strong>Spotify</strong> </li>
+<li>
+<strong>Google Maps</strong> </li>
+<li>
+<strong>Fit/Unfit Screen: If an image is too big it gets shrunk to fit the view-port but you can always click the Fit Screen icon to expand it and scroll.</strong> </li>
+<li><strong>Albums to group related images</strong></li>
+<li><strong>Key Bindings for easy navigation: ← (Previous), → (Next), f Fitscreen/Unfitscreen, esc Close</strong></li>
+</ul>
+</blockquote>
+
+<hr><hr><h1>Rokbox1 versus Rokbox 2</h1>
+
+<h2></h2>
+
+<p>Rockettheme strives to be <strong>responsive</strong> to our customers needs. In keeping with this mission we introduced Kirigami, the August 2012 template release, as the first responsive RocketTheme template. Knowing that a lightbox can be an integral part of any template design, Djamil Legato's began creating RokBox2. It's key feature is being "natively" responsive to the platform it's being viewed on. So no more media queries or CSS'ing required to get a perfectly sized RokBox2 container to display your content on ANY device.  </p>
+
+<p>Let's take a look at Rokbox1 displaying content in a responsive template, on a desktop screen:<br><br><a href="assets/rokbox1-desktop_size_screen.jpg" target="_blank"><img src="assets/rokbox1-desktop_size_screen.jpg" alt="RokBox2 rb1 desktop responsive" style="max-width:100%;"></a></p>
+
+<p>This is Rokbox1 displaying content in a responsive template, on a smartphone screen:<br><br><a href="assets/rokbox1-smartphone_size_screen.jpg" target="_blank"><img src="assets/rokbox1-smartphone_size_screen.jpg" alt="RokBox2 rb1 smartphone responsive" style="max-width:100%;"></a></p>
+
+<p>No problem, RokBox2 to the rescue. Again on the desktop:<br><br><a href="assets/rokbox2-desktop_size_screen.jpg" target="_blank"><img src="assets/rokbox2-desktop_size_screen.jpg" alt="RokBox2 rb2 desktop responsive" style="max-width:100%;"></a></p>
+
+<p>Now on the smartphone screen:<br><br><a href="assets/rokbox2-smartphone_size_screen.jpg" target="_blank"><img src="assets/rokbox2-smartphone_size_screen.jpg" alt="RokBox2 rb2 smartphone responsive" style="max-width:100%;"></a></p>
+
+<h1>Installing Rokbox 2</h1>
+
+<h2></h2>
+
+<p>Installing RokBox2 is just a matter of few minutes. RokBox2 consists of 3 plug-ins: Content, System and Editor Button. Make sure to have a look at all three plug-in manager pages to get an idea of what they do. It also provides a "Backward Compatibility" mode for RokBox1 style <em>{rokbox}</em> <strong>syntax</strong> <em>{/rokbox}</em>.</p>
+
+<p>The one for content makes it easy to include media content in your pages. The one for system is the core of the plugin. The RokBox Editor Button allows injection of RokBox snippets into your Content.</p>
+
+<p>You can install RokBox for Joomla! 2.5 &amp; 3.0 in few steps, just go into the administrator panel and:  </p>
+
+<ul>
+<li>
+<strong>Select from the top menu: Extend -&gt; Extension Manager -&gt; Install.</strong><br>
+</li>
+<li>
+<strong>Click on Upload Package File "Choose File" button.</strong><br>
+</li>
+<li>
+<strong>Select rokbox-2.zip from your local drive.</strong><br>
+</li>
+<li><strong>Click the "Upload &amp; Install" button.</strong></li>
+</ul><p>RokBox is now installed. You can customize both plugins accessing from: Extend -&gt; Plug-in Manager, where they are listed as "Content - RokBox" and "System - RokBox".</p>
+
+<hr><h1>Using RokBox2</h1>
+
+<h2>RokBox2 Window Layout</h2>
+
+<p>Let's familiarize ourselves with the new RokBox2 layout, shown below.<br><br><a href="assets/rokbox-controls.jpg" target="_blank"><img src="assets/rokbox-controls.jpg" alt="RokBox2 Layout" style="max-width:100%;"></a></p>
+
+<p>You can insert your RokBox2 code just about anywhere. Here is an example of a typical RokBox2 statement:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"/Chapelco25/images/rocketlauncher/rokbox2/rokbox_eg_2.jpg"</span>
+<span class="na">data-rokbox-album=</span><span class="s">"RokBox2"</span> <span class="na">data-rokbox-caption=</span><span class="s">"rokbox_eg_1"</span> <span class="na">data-rokbox-generate-thumbnail</span><span class="nt">&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>Let's see what they do:</p>
+
+<ul>
+<li>
+<strong>data-rokbox</strong>  - this initiates the generation of the Rokbox2 itself.</li>
+</ul><blockquote>
+<ul>
+<li>
+<strong>data-rokbox-album</strong> - allows you to define the Rokboxed content as part of a user defined album.<br>
+</li>
+<li>
+<strong>data-rokbox-caption</strong> - allows you to create a Caption at the bottom shaded area</li>
+<li>
+<strong>data-rokbox-element</strong> - specifies the <strong>DOM</strong> element you wish, e.g "#rt-popup"</li>
+<li>
+<strong>data-rokbox-generate-thumbnail</strong> - introduced into the RokBox2 statement, this will auto-generate a thumbnail in the same folder as the original image. Thumbnail size settings are controlled in the Plug-in Manager: Content - RokBox.<br>
+</li>
+</ul>
+</blockquote>
+
+<h2>RokBox2 Syntax Creator</h2>
+
+<p>To start the Syntax Creator, just click the Rokbox button in your article editor.</p>
+
+<p><a href="assets/rokbox-editor-button.jpg" target="_blank"><img src="assets/rokbox-editor-button.jpg" alt="RokBox2 editor button" style="max-width:100%;"></a></p>
+
+<p>This will bring up the RokBox2 GUI interface to help you create the syntax required for a Rokbox.  </p>
+
+<p><a href="assets/rokbox2-syntax-creator.jpg" target="_blank"><img src="assets/rokbox2-syntax-creator.jpg" alt="RokBox2 Syntax Creator Screen" style="max-width:100%;"></a></p>
+
+<p>The Link and Content fields use the Media Manager window to allow you to select files or you can enter in the required information manually. Once your satisfied with the data entry just click <strong>"Insert and Close"</strong>. If you need to additional statements are needed then just click the  <strong>"Insert and New"</strong> button.</p>
+
+<h2>RokBox2 Examples - Single image RokBox2 - auto generated thumb</h2>
+
+<p>Here we will create a single image RokBox2 with an auto-generated thumbnail. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">images/rocketlauncher/rokbox2/rokbox_eg_2.jpg</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">RokBox2</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">rokbox_eg_1</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">Blank</td>
+</tr>
+</table><p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"/Chapelco25/images/rocketlauncher/rokbox2/rokbox_eg_2.jpg"</span>
+<span class="na">data-rokbox-album=</span><span class="s">"RokBox2"</span> <span class="na">data-rokbox-caption=</span><span class="s">"rokbox_eg_1"</span> <span class="na">data-rokbox-generate-thumbnail</span><span class="nt">&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/single_image_rb2_auto_generated_thumb.jpg" target="_blank"><img src="assets/single_image_rb2_auto_generated_thumb.jpg" alt="RokBox2 auto_generated_thumb" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - Single image RokBox2 - user defined thumb</h2>
+
+<p>Here we will create a single image RokBox2 with a user defined thumbnail. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">images/rocketlauncher/rokbox2/rokbox_eg_3.jpg</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">RokBox2</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">rokbox_eg_3</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/rokbox-thumb-1.jpg</td>
+</tr>
+</table><p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_3.jpg"</span> <span class="na">data-rokbox-album=</span><span class="s">"RokBox2"</span>
+<span class="na">data-rokbox-caption=</span><span class="s">"rokbox_eg_3"</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox-thumb-1.jpg"</span> <span class="nt">/&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/single_image_rb2_user_selected_thumb_large_img.jpg" target="_blank"><img src="assets/single_image_rb2_user_selected_thumb_large_img.jpg" alt="RokBox2 single_image_rb2_user_selected_thumb_large_img" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - Album slideshow using user selected thumb </h2>
+
+<p>Here we will create a multiple image RokBox2 to display as an Album slideshow using a user selected thumbnail. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">images/rocketlauncher/rokbox2/ <strong>rokbox_eg_2.jpg</strong>
+</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center"><strong>springpics</strong></td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">rokbox_eg_2</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/ <strong>rokbox-thumb-6.jpg</strong>
+</td>
+</tr>
+</table><p>Click <strong>"Insert and New"</strong> and you are ready to save the next statement line:</p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">images/rocketlauncher/rokbox2/ <strong>rokbox_eg_3.jpg</strong>
+</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center"><strong>springpics</strong></td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">rokbox_eg_3</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">Blank</td>
+</tr>
+</table><p>Continue for the next four images. When finished our first statement will use the thumb as a launchpad for the Album slideshow using all images that are part of the album " <strong>springpics</strong> ".</p>
+
+<p>The rest of the images shouldn't be visible on the page so we'll hide them from display using a </p><div> statement:
+
+<div class="highlight"><pre><span class="nt">&lt;div</span> <span class="na">style=</span><span class="s">"display: none;"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">data-rokbox-album=</span><span class="s">"springpics"</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_3.jpg"</span><span class="nt">&gt;&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">data-rokbox-album=</span><span class="s">"springpics"</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_4.jpg"</span><span class="nt">&gt;&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">data-rokbox-album=</span><span class="s">"springpics"</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_5.jpg"</span><span class="nt">&gt;&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">data-rokbox-album=</span><span class="s">"springpics"</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_6.jpg"</span><span class="nt">&gt;&lt;/a&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">data-rokbox-album=</span><span class="s">"springpics"</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_7.jpg"</span><span class="nt">&gt;&lt;/a&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 multi-image Album slideshow that looks like this:<br><br><a href="assets/multi_image_album_rb2_user_generated_thumb.jpg" target="_blank"><img src="assets/multi_image_album_rb2_user_generated_thumb.jpg" alt="RokBox2 multi_image_album_rb2_user_generated_thumb" style="max-width:100%;"></a></p>
+
+<p>I've staggered the images so you can get the idea.   </p>
+
+<h2>RokBox2 Examples - Single image RokBox2 - sized by CSS </h2>
+
+<p>Unlike the original Rokbox, RokBox2 doesn't allow user defined dimensions for the Rokbox. This was done in deference to wanting to keep RokBox2 compliant with our state-of-the-art Responsive templates. However you can easily size your RokBox2 window with some simple CSS. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">images/rocketlauncher/rokbox2/ <strong>rokbox_eg_1.jpg</strong>
+</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center"><strong>CSS sized</strong></td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">rokbox_eg_1</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/ <strong>rokbox-details-thumb.png</strong>
+</td>
+</tr>
+</table>
+<p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox_eg_1.jpg"</span> <span class="na">data-rokbox-album=</span><span class="s">"CSS sized"</span>
+<span class="na">data-rokbox-caption=</span><span class="s">"rokbox_eg_1"</span><span class="nt">&gt;&lt;img</span> <span class="na">src=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox-details-thumb.png"</span> <span class="nt">/&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>Now all the RokBox2 containers to this point have been sized at 100% of a template width of 1680px. This will display the natural size of our images which are all 960px x 700px. In keeping with responsive content layouts we will issue a CSS statement that constrains our RokBox2 container to a maximum width of 40%. So 1680px x 40% = 672px. As a result our images will be scaled down to our new RokBox2 containers sized at 672px x 490px.<br>
+Here's the CSS:</p>
+
+<div class="highlight"><pre><span class="nc">.menu-rb2-tutorial</span> <span class="nc">.rokbox-container.rokbox-type-image</span> <span class="p">{</span><span class="k">max-width</span><span class="o">:</span> <span class="m">40</span><span class="o">%</span> <span class="cp">!important</span><span class="p">;}</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/single_image_rb2_user_selected_thumb_CSS-sized.jpg" target="_blank"><img src="assets/single_image_rb2_user_selected_thumb_CSS-sized.jpg" alt="RokBox2 single_image_rb2_user_selected_thumb_CSS-sized" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - RokBox2 - popup Member Login</h2>
+
+<p>Here we will create a RokBox2 that opens to the popup version of the Login form. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">#</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">#rt-popuplogin</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">Login</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/login.png</td>
+</tr>
+</table>
+<p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"#"</span> <span class="na">data-rokbox-element=</span><span class="s">"#rt-popuplogin"</span> <span class="na">data-rokbox-caption=</span><span class="s">"Login"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"images/rocketlauncher/rokbox2/login.png"</span> <span class="na">alt=</span><span class="s">""</span> <span class="nt">/&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/member_login-RB2-user_thumb.jpg" target="_blank"><img src="assets/member_login-RB2-user_thumb.jpg" alt="RokBox2 member_login-RB2-user_thumb" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - RokBox2 - popup module</h2>
+
+<p>Here we will create a RokBox2 that opens to a popup user created custom HTML module. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">#</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">#rt-test-module</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">RB2 Module Call</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/rokbox-thumb-5.jpg</td>
+</tr>
+</table>
+<p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"#"</span> <span class="na">data-rokbox-element=</span><span class="s">"#rt-test-module"</span> <span class="na">data-rokbox-caption=</span><span class="s">"RB2 Module Call"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox-thumb-5.jpg"</span> <span class="na">alt=</span><span class="s">""</span> <span class="nt">/&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/module_call-RB2-user_thumb.jpg" target="_blank"><img src="assets/module_call-RB2-user_thumb.jpg" alt="RokBox2 module_call-RB2-user_thumb" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - RokBox2 - YouTube video popup</h2>
+
+<p>Here we will create a RokBox2 that opens to a popup YouTube video. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center"><a href="http://www.youtube.com/watch?v=p6kdz3vH-c4">http://www.youtube.com/watch?v=p6kdz3vH-c4</a></td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">YouTube on RB2</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">images/rocketlauncher/rokbox2/rokbox-thumb-4.jpg</td>
+</tr>
+</table>
+<p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"http://www.youtube.com/watch?v=p6kdz3vH-c4"</span> <span class="na">data-rokbox-album=</span><span class="s">"YouTube on RB2"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"images/rocketlauncher/rokbox2/rokbox-thumb-4.jpg"</span> <span class="nt">/&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/site_popup-RB2-user_thumb.jpg" target="_blank"><img src="assets/site_popup-RB2-user_thumb.jpg" alt="RokBox2 site_popup-RB2-user_thumb" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 Examples - Menu Item popup Login</h2>
+
+<p>Here we will create a RokBox2 that opens to a popup Member Login by clicking a menu item. Filling in the Syntax Creator with:   </p>
+
+<table>
+<tr>
+<th align="left">Field</th>
+<th align="center">Data</th>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="center">#</td>
+</tr>
+<tr>
+<td align="left">Dom Element</td>
+<td align="center">#rt-popuplogin</td>
+</tr>
+<tr>
+<td align="left">Album</td>
+<td align="center">Blank</td>
+</tr>
+<tr>
+<td align="left">Caption</td>
+<td align="center">Login</td>
+</tr>
+<tr>
+<td align="left">Content:thumbnail</td>
+<td align="center">Blank</td>
+</tr>
+</table>
+<p>Click <strong>"Insert and Close"</strong> and you will see this RokBox2 statement in your article:</p>
+
+<div class="highlight"><pre><span class="nt">&lt;a</span> <span class="na">data-rokbox</span> <span class="na">href=</span><span class="s">"#"</span> <span class="na">data-rokbox-element=</span><span class="s">"#rt-popuplogin"</span> <span class="na">data-rokbox-caption=</span><span class="s">"Login"</span>
+<span class="na">data-rokbox-generate-thumbnail</span><span class="nt">&gt;&lt;/a&gt;</span>
+</pre></div>
+
+<p>From this statement the only part we need is this:</p>
+
+<div class="highlight"><pre>#" data-rokbox-element="#rt-popuplogin" data-rokbox-caption="Login"
+</pre></div>
+
+<p>So our menu item will look like this:<br><a href="assets/menu_setup-RB2-member_login_popup.jpg" target="_blank"><img src="assets/menu_setup-RB2-member_login_popup.jpg" alt="RokBox2 menu_setup-RB2-member_login_popup" style="max-width:100%;"></a></p>
+
+<p>This will result in a RokBox2 that looks like this:<br><br><a href="assets/Menu_Item-RB2-member_login_popup.jpg" target="_blank"><img src="assets/Menu_Item-RB2-member_login_popup.jpg" alt="RokBox2 Menu_Item-RB2-member_login_popup" style="max-width:100%;"></a></p>
+
+<h2>RokBox2 versus Rokbox1 in a RokSprocket module</h2>
+
+<p>One of the shortcomings of Rokbox1 was it was very compliant in our newest technology such as our RokSprocket module. Rokbox1 didn't handle very well being called from things like a page from a RokSprocket Lists module. When you would click on the hyperlink content to launch the Rokbox1 it would simply open that content's actual location in Full screen:   </p>
+
+<p><a href="assets/rokbox1-in-RokSprocket_Lists_layout.jpg" target="_blank"><img src="assets/rokbox1-in-RokSprocket_Lists_layout.jpg" alt="RokBox2 rokbox1-in-RokSprocket_Lists_layout" style="max-width:100%;"></a></p>
+
+<p>Whereas RokBox2 handles this situation properly:   </p>
+
+<p><a href="assets/rokbox2-in-RokSprocket_Lists_layout.jpg" target="_blank"><img src="assets/rokbox2-in-RokSprocket_Lists_layout.jpg" alt="RokBox2 rokbox2-in-RokSprocket_Lists_layout" style="max-width:100%;"></a></p>
+
+<hr>
+<h1>RokBox2 in a RokGallery module</h1>
+
+<h2></h2>
+
+<p>RokBox2 works seamlessly in our RokGallery module's when you set the <strong>Link Type</strong> to " <strong>Link to RokBox Full Image</strong> ".   </p>
+
+<h4>RokGallery - SlideShow</h4>
+
+<p><a href="assets/rokbox2-in-rokgallery-slideshow-smartphone.jpg" target="_blank"><img src="assets/rokbox2-in-rokgallery-slideshow-smartphone.jpg" alt="RokBox2 RokGallery - SlideShow" style="max-width:100%;"></a></p>
+
+<h4>RokGallery - Gallery View</h4>
+
+<p><a href="assets/rokbox2-in-rokgallery-gallery_view-smartphone.jpg" target="_blank"><img src="assets/rokbox2-in-rokgallery-gallery_view-smartphone.jpg" alt="RokBox2 RokGallery - Gallery View" style="max-width:100%;"></a></p>
+
+<p>If you wish to download this exciting new Rockettheme product, please visit us at <a href="http://www.rockettheme.com/extensions-joomla/rokbox">Extensions/RokBox</a>   </p>
+
+<p>If you require support for this product, please visit us at <a href="http://www.rockettheme.com/forum/index.php?f=201&amp;rb_v=viewforum">Joomla Extensions &gt; Products &gt; RokBox</a></p>
+</div>
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
