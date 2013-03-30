@@ -15,15 +15,15 @@ RokBox2 is bundled with:
 2. a Button Editor plug-in
 3. a System plug-in
 
-The **Content plug-in** can auto-generate thumbnails of local images that can be used as content for your RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
+The **Content plug-in** can auto-generate thumbnails of local images that can be used as content for the RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
 
-The **Button Editor plug-in** allows for easy creation of RokBox2 style snippets with just a few clicks.
+The **Button Editor plug-in** allows for easy creation of RokBox2 snippets with just a few clicks.
 
-The **System plug-in** is responsible of loading the assets necessary for RokBox2 to work.
+The **System plug-in** is responsible for loading the assets necessary for RokBox2 to work.
 
 >> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plug-in.
 >>
->> Be aware that the Backward compatibility can slow down the load of your site. It is highly suggested that you convert the old syntax into the new one.
+>> Be aware that the Backward compatibility can dramatically slow down the loading of your site. It is highly suggested to convert the old syntax into the new one.
 
 Requirements
 ------------
@@ -61,9 +61,9 @@ Key Features
 
 How to install
 --------------
-Installing RokBox2 is just a matter of few minutes. Firstly [download][rokbox-download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x.
+Installing RokBox2 is just a matter of few minutes. Firstly [download][rokbox-download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed.
 
-Once downloaded the package, you can install RokBox2 in just few steps. Go into the Joomla administrator and:
+Once downloaded the package, go into the Joomla Administrator and:
 
 * Select from the top menu: `Extend -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

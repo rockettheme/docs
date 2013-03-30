@@ -5,7 +5,7 @@ title: How to use
 
 How to use
 ==========
-The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Exactly as any `<a>` link, you can place a RokBox2 link just about anywhere in a page.
+The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Exactly as any `<a>` link, a RokBox2 link can be placed just about anywhere in a page.
 
 The most basic and simple example of a RokBox2 snippet to get it up and running is:
 
@@ -13,17 +13,17 @@ The most basic and simple example of a RokBox2 snippet to get it up and running 
 <a data-rokbox href="images/my_image.jpg">This is a RokBox 2 Link</a>
 ~~~
 
-As can be noticed, it is a regular `<a>` link. The only extraneous bit is the data-set `data-rokbox`. Being just a normal link, it implies that you can have any type of content you want. In this case we used `This is a RokBox 2 Link` as simple text, but it could have been an image and worked the same way.
+As can be noticed, it is a regular `<a>` link. The only extraneous bit is that data-set `data-rokbox`. Being just a normal link, it implies that you can have any type of content you want. In this case we used `This is a RokBox 2 Link` as simple text, but it could have been an image and worked exactly the same.
 
 >> NOTE: RokBox2 snippets can be easily generated using the user-friendly [Editor Button Plugin][editor-button].
 
 Data-sets
 ---------
-Data-sets are introduced with HTML5 and allow to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for settings reference.
+Data-sets are introduced with HTML5 and allow to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for referencing settings.
 
-Moving away from class names in favor of data-sets, allow not only to keep the HTML cleaner but also to avoid possible conflicts with the class names.
+Moving away from class names in favor of data-sets allows not only to keep the HTML cleaner but also to avoid possible conflicts with the class names.
 
-RokBox2 has different data-sets, each with a specific meaning and all optional except for `data-rokbox` which is what triggers RokBox2 to identify a link. If the `data-rokbox` is not specified, the link will be skipped and will just function as a regular plain link.
+RokBox2 has different data-sets, each with a specific meaning and all optional with the exception of `data-rokbox` which is what triggers RokBox2 to identify a link. If the `data-rokbox` is not specified, the link will be skipped and will just function as a regular plain link.
 
 Below is a summary of implemented data-sets for RokBox2.
 
@@ -39,9 +39,10 @@ Below is a summary of implemented data-sets for RokBox2.
 #### data-rokbox-caption
 The caption is an optional data-set and will be shown on the popup when the specified link gets triggered.
 
-If desired, a caption can also be written using HTML code, but it has to be converted into [html-entities][html_entities], in order to work. It is also suggested not to abuse the HTML code in a caption, in order to avoid potential layout issues. Tendentially the preferred HTML syntax one would be using are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
+If desired, a caption can also be written using HTML syntax, but it has to be converted into [HTML entities][html_entities] in order to work.  
+It is suggested not to abuse the HTML syntax in a caption, to prevent potential layout issues. Tendentially the preferred HTML syntax one would use are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
 
-These are a couple of examples of a RokBox2 link with a caption, both plain caption and HTML caption.
+Here are a couple of examples of a RokBox2 link with caption, both plain caption and HTML caption.
 
 ~~~ .html
 <!-- Plain Caption -->
@@ -55,13 +56,13 @@ These are a couple of examples of a RokBox2 link with a caption, both plain capt
 <a data-rokbox data-rokbox-caption="The description of &lt;strong&gt;my picture&lt;/strong&gt;" href="images/my_image.jpg">RokBox 2 HTML Caption</a>
 ~~~
 
-If you don't know how to convert to HTML entities, you can find [many][convert_1], [online][convert_2], [tools][convert_3], to do it for you.
+If you don't know how to convert to HTML entities, you can find [many][convert_1], [online][convert_2], [tools][convert_3], to do it for you. You could also use the [Editor Button][editor-button] which does convert automatically your caption into HTML entities.
 
 
 #### data-rokbox-album
-Assigning the same album value to different RokBox2 links will trigger the navigation on the popup. You can see the album as a way of grouping certain media into the same context. You can navigate forward or backward either by clicking on the arrows with the mouse or by using the keyboard left and right arrows (`⇠` / `⇢`).
+Assigning the same album value to different RokBox2 links will trigger the navigation on the popup. You can see the album as a way of grouping certain media into the same context. You can navigate forward or backward either by clicking on the arrows or through the left and right arrows keys (`⇠` / `⇢`).
 
-Imagine having 3 pictures of a product that you want the user to be able to navigate through. This is how you would achieve it:
+Imagine having 3 pictures of a product that you want the user to  navigate through. This is how you would achieve it:
 
 ~~~ .html
 <a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Front View" href="images/product1.jpg">Product 1</a>
@@ -69,7 +70,7 @@ Imagine having 3 pictures of a product that you want the user to be able to navi
 <a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Back View" href="images/product3.jpg">Product 3</a>
 ~~~
 
-As can be noticed, all three links share the same album name. The album name any string and it won't be visible anywhere but on the rendered code. For this very reason it is adviced to keep the album name as simplistic as possible. Try avoiding using unicode characters or spaces or any special characters as they might cause issues during interpretation from RokBox2.
+As can be noticed, all three links share the same album name. The album name is just an identifier string and won't be visible anywhere. For this very reason it is adviced to keep the album name as simple as possible. Try avoiding using unicode characters or any special characters as they might cause issues during interpretation from RokBox2.
 
 
 #### data-rokbox-element
