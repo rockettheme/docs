@@ -6,7 +6,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
 ---
 
 * RokBox
-    * [Introduction]()
+    * [Introduction](INDEX.md)
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
 * Advanced
