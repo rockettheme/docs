@@ -8,5 +8,9 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
     * [Introduction]()
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
-* Tutorials
-    * [Album Gallery]()
+* Advanced
+    * [Tweak Modal Size](#)
+    * [Album Slideshow](#)
+    * [Menu Item Integration](#)
+    * [RokGallery Integration](#)
+    * [RokSprocket Integration](#)

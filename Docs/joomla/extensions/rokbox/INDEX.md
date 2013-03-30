@@ -20,6 +20,9 @@ The **Button Editor plug-in** allows for easy creation of RokBox2 style snippets
 
 The **System plug-in** is responsible of loading the assets necessary for RokBox2 to work.
 
+>> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plug-in.
+>>
+>> Be aware that the Backward compatibility can slow down the load of your site. It is highly suggested that you convert the old syntax into the new one.
 
 Requirements
 ------------

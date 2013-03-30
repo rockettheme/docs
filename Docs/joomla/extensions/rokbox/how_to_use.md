@@ -115,7 +115,26 @@ And this is the syntax used to achieve it:
 
 
 #### data-rokbox-generate-thumbnail
-WIP
+RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plug-in Manager -> Content - RokBox -> Core Options`.
+
+![][rokbox2-thumbs-settings]
+
+In these settings you can set the max width, max height and quality of a thumbnail. All thumbnails are saved as **JPEG**.
+
+When you have a RokBox2 link pointing to a local image, setting the `data-rokbox-generate-thumbnail` will trigger RokBox2 to create a thumbnail for you, at the same location where your local image resides and with the `_thumb` suffix appended to the name. It will also load it for you automatically, as if you were manually specifying the thumbnail to render.
+
+~~~ .html
+<a data-rokbox data-rokbox-generate-thumbnail href="images/planes.jpg"></a>
+~~~
+
+As can be noticed in the example above, we left the content of the `<a>` tag empty. Even if there was text written there, it would have been removed and replaced by RokBox2 with the auto-generated thumbnail.
+
+The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page like in the screenshot below.
+
+![][rokbox2-generated-thumb]
+
+>> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible. 
+
 
 
 
@@ -131,3 +150,5 @@ WIP
 [dom_specs]: http://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 
 [rokbox2-data-element]: assets/rokbox2-data-rokbox-element.png
+[rokbox2-thumbs-settings]: assets/rokbox2-thumbs-settings.png
+[rokbox2-generated-thumb]: assets/rokbox2-generated-thumb.png
