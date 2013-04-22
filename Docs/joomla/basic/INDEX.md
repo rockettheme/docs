@@ -23,7 +23,7 @@ You can find the RocketLauncher file by visiting the main template page and sele
 
 (image)
 
-After you download the RocketLauncher zip file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site.
+After you download the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site.
 
 (image)
 
@@ -57,9 +57,25 @@ If you're using a pre-created database, you'll want to pay close attention to th
 
 The final installation page will go over your email address, confirm your database configuration, and alert you to any server-side settings which might conflict with the use of Joomla. You can see a detailed list of these settings and what they mean here (link). Only the settings listed under **Pre-Installation Check** are mandatory in order for Joomla to function properly.
 
-### Installing a Template Bundle
+Once you've verified the settings on this page, just hit *Install* and your Joomla site will be set up for you. You will be prompted to remove the installation folder in the next page. By clicking this, you will have completed the installation process. 
 
+### Installing a Template Bundle
+Assuming that you already have Joomla installed and just wish to migrate your existing site to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you're looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
+
+>> Note: The Bundle template is only necessary if the Gantry Library is not installed at `/components/com_gantry`.
+
+You can find this bundle package on all Gantry-supported template download pages. Simply download the bundle ZIP file and install it to your existing Joomla site. 
+
+The easiest way to do this is by going to **Admin → Extensions → Install/Uninstall → Choose File → Select file → Upload File & Install** within the Administrator area of your site. Joomla will automatically unzip the package and install its components for you. Once this is done, a series of green messages will appear on the upload page indicating that the template, and any included components, have been successfully installed.
+
+(image)
+
+The downloads page for the template might indicate one or more extensions are required for it to operate properly. These extensions will be linked on the downloads page. You can install them using the same process listed above. Make sure that you do not already have these extensions installed, beforehand.
+
+Once you've successfully installed the bundle, you can navigate to **Admin → Extensions → Template Manager** and select the star next to your new template to set it as the default template for the front end of your site.
 
 ### Installing a Standalone Template
+The standalone template is the bare bones of the template itself. If you already have the Gantry Library installed on your site, then adding another Gantry-enabled template is just a matter of selecting the standalone ZIP file from the template's downloads page and uploading it via the administrative extensions uploader described previously.
 
-### Other Files and Options
+### Other Available Files
+There are several other files that you might find useful on the template's download page. For example, the **Source PNG(s)** including some of the image files exclusive to the template are made available so that you may customize them to meet your individual needs. 
