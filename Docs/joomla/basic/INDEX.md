@@ -12,14 +12,14 @@ How to install a Joomla! template
 ----------------------------------
 There are several different ways to install a Joomla template from RocketTheme. You can start your Joomla install from scratch (including building a new database) by downloading the RocketLauncher for your desired template. This will give you everything you need to hit the ground running, including a preconfigured version of the demo for the specific theme, the Gantry framework, and any extensions required for the theme's demo build to work. 
 
-If you have an existing site, but haven't yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framwork.
+If you have an existing site, but haven't yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.
 
 If you have an existing site running a Gantry-enabled template, you need but to download and install the standalone template along with any required/recommended extensions listed on the template's product page.
 
 ### Installing a Template Using RocketLauncher
-RocketLauncher is a bundle of everything you need to have what you see on the demo live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs. RocketLaunchers are not available with all of the older RocketTheme templates, but it will be listed prominantly on the template's downloads page when it is available.
+RocketLauncher is a bundle of everything you need to have what you see on the demo live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs. RocketLaunchers are not available with all of the older RocketTheme templates, but it will be listed prominently on the template's downloads page when it is available.
 
-You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be avaiable for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.0+. If you have a set of extensions in mind that you wish to use on your site that don't presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
+You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.0+. If you have a set of extensions in mind that you wish to use on your site that don't presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
 
 (image)
 
