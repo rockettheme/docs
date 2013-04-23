@@ -18,7 +18,7 @@ It's important to think of Joomla not as a limited platform on which a specific 
 You can find out more about Joomla! by visiting [Joomla.org](http://www.joomla.org/).
 
 How to install Joomla!
-----------------------------------
+===
 Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you're installing to a localhost or remote hosting environment.
 
 ### Technical Requirements
@@ -63,6 +63,9 @@ For most users, a conventional installation will work just fine. You'll need to 
 
 Upon downloading Joomla 2.5 or 3.x, you'll need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
 
+#### Joomla Web Installer for 2.5
+
+#### Joomla Web Installer for 3.x
 (image)
 
 The first step in browser-based installation using the Joomla! Web Installer is to name your site and give it a description. This description will be used by search engines as a reference to what it is your site is about. Ideally, it'll be the cached description Google displays when people search for something that can be found at the root of your site. See the example below.
