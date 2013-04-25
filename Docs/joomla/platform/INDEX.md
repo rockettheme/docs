@@ -5,6 +5,8 @@ title: About the Joomla Platform
 
 What is Joomla?
 ===
+(Joomla Image)
+
 Joomla is an open source platform on which Web sites and applications can be created. It's a content management system (CMS) which connects your site to a MySQLi, MySQL, or PostgreSQL database in order to make content management and delivery easier on both the site manager and visitor.
 
 Joomla's primary focus has been on usability and extensibility since its initial release in 2005. It's because of this that the project has been the recipient of numerous awards, including being a three-time recipient of the PACKT Open Source Content Management System Award.
