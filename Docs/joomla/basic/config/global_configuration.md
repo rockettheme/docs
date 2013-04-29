@@ -9,78 +9,49 @@ Global Configuration Menu
 System
 -----
 
-### Site
+### Global Configuration
 
-### System
+| Name        | Description                                                                                             |
+|:------------|:-------------------------------------------------------------------------------------------------------:|
+| Site        | Site name, offline status and messaging, meta information, feed and list properties, and default editor.|
+| System      | System, log files, debut, cache, and session settings.                                                  |
+| Server      | Temp folder location, database, location, FTP, and mail.                                                |
+| Permissions | Global permissions for specific user groups.                                                            |
+| Text Filter | Text filter settings by user group. Useful to defend against malicious code injection.                  |
 
-### Server
+#### Site
 
-### Permissions
+#### System
 
-### Text Filters
+#### Server
+
+#### Permissions
+
+#### Text Filter
+
 
 Component
 -----
-The Component area of the Global Configuration menu enables you to set specific global permissions and attributes for various components within your Joomla site.
 
-
-| Tables        | Are           |
-| ------------- |:-------------:|
-| Banners       | right-aligned |
-| Cache Manager | centered      |
-| | |
-| | |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-* Banners
-
-* Cache Manager
-
-* Checkin
-
-* Contacts
-
-* Articles
-
-* Smart Search
-
-* Installation Error
-
-* Joomla! Update
-
-* Language Manager
-
-* Media Manager
-
-* Menus Manager
-
-* Messaging
-
-* Module Manager
- 
-* Newsfeeds
-
-* Plugins Manager
-
-* Redirect
-
-* Search
-
-* Template Manager
-
-* Users Manager
-
-* Weblinks
-
-* Others / Extensions 
+| Name        | Description                                                                                             |
+|:------------|:-------------------------------------------------------------------------------------------------------:|
+| Banners              | |
+| Cache Manager        | |
+| Checkin              | |
+| Articles             | |
+| Smart Search         | |
+| Installation Manager | |
+| Joomla! Update       | |
+| Language Manager     | |
+| Media Manager        | |
+| Menus Manager        | |
+| Messaging            | |
+| Module Manager       | |
+| Newsfeeds            | |
+| Plugins Manager      | |
+| Redirect             | |
+| Search               | |
+| Template Manager     | |
+| Users Manager        | |
+| Weblinks             | |
+| Other / Extensions   | |
