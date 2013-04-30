@@ -35,6 +35,14 @@ breadcrumb: /!joomla:Joomla/
 
 <!-- -->
 
+* [Platform](platform/)
+
+	- [Introduction](platform/)
+	- [How to install Joomla 2.5](platform/install_joomla_25.md)
+	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
+
+<!-- -->
+
 * Club Extensions
 
 	- [RokBox](extensions/rokbox/)
