@@ -9,7 +9,18 @@ RokBox has a built-in editor button that integrates with the Joomla Content and 
 
 ![][rokbox2-editor-button]
 
+:   1. **Link Property** **(mandatory)** The link you wish to link to. It can be a YouTube link, a local image, a remote image, etc. [10%,10%]
+    2. **Title** Many links sharing the same album will can be navigated. [30%, 30%]
+    3. This **item** has no _title_, the position is invalid. [50%,50%]
+    4. **Invalid Position** This item has an invalid position [90%, 90%]
+
 The Editor Button popup is meant to be as user-friendly as possible and as can be noticed from the screenshot above, it is very self explainatory.
+
+This is a normal DL DT
+
+:    This is a DL DD
+
+:    And another one
 
 
 Link
@@ -23,7 +34,7 @@ The link field also provides an image picker. On the right side of the input fie
 
 DOM Element
 -----------
-The DOM Element field takes a CSS-Style syntax value that needs to be targeting an Element in the page. Whenever you start filling this field, the [Link][link] will get disabled and auto-populated with an hash `#`.  
+The DOM Element field takes a CSS-Style syntax value that needs to be targeting an Element in the page. Whenever you start filling this field, the [Link][link] will get disabled and auto-populated with an hash `#`.
 This is because a DOM Element type link is not a true link and doesn't point to any actual link.
 
 More details on how DOM Element works and how to use it can be [found here][data-rokbox-element].
