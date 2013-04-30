@@ -1,7 +1,7 @@
 ---
 title: Joomla Docs
 description: Joomla is a powerful and versatile CMS.
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!joomla:Joomla/
 
 ---
 
