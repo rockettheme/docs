@@ -1,5 +1,6 @@
 ---
 title: Joomla! Hosting
+breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 

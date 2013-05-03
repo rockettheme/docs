@@ -1,5 +1,6 @@
 ---
 title: About the Joomla Platform
+breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 

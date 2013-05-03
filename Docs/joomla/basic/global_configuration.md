@@ -13,7 +13,7 @@ System
 
 | Name        | Description                                                                                             |
 |:------------|:--------------------------------------------------------------------------------------------------------|
-| Site        | Site name, offline status and messaging, meta information, feed and list properties, and default editor.|
+| Site        | Site name, offline status and messaging, metadata, SEO, feed and list properties, cookie settings, and default editor.|
 | System      | System, log files, debut, cache, and session settings.                                                  |
 | Server      | Temp folder location, database, location, FTP, and mail.                                                |
 | Permissions | Global permissions for specific user groups.                                                            |

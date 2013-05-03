@@ -1,5 +1,5 @@
 ---
-title: How to Change Background and Foreground Images in Parallex
+title: How to Change Background and Foreground Images in Parallax
 breadcrumb: /joomla:Joomla/!extensions:Extensions/
 
 ---

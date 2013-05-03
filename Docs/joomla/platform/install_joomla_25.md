@@ -1,5 +1,6 @@
 ---
 title: How to Install Joomla! 2.5
+breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 
@@ -44,46 +45,80 @@ Joomla Web Installer for 2.5
 ----------------------------
 Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There are seven general steps that need to be completed before your site is ready to go.
 
+![][installation_j25_1]
+
+:   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [20%, 90%]
+
 First, you'll need to select your language of choice. Joomla is supported in a wide range of languages, including several English dialects. Once you've chosen your desired language, hit the *Next* button in the upper-right corner of the page.
 
-(image)
+![][installation_j25_2]
 
-The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks come up missing, you'll need to correct the issue prior to continuing the installation process.
+:   1. **Extensions** This will open the Extensions drop-down menu in Administrator. [35%, 90%]
+    2. **Extension Manager** This will open the Extension Manager where you can install any extension packages. [70%, 90%]
 
-In the *Recommended Settings* section under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options aren't required to run Joomla, but are recommended if you want to get the most out of your experience. Once you've confirmed the data on this page, you can hit the *Next* button to continue.
+The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks (point 1) come up missing, you'll need to correct the issue prior to continuing the installation process.
 
-(image)
+In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options aren't required to run Joomla, but are recommended if you want to get the most out of your experience. Once you've confirmed the data on this page, you can hit the **Next** button to continue.
 
-At this point, you'll be asked to agree to the GNU General Public License that Joomla! is released under. All you need to do here is select *Next* if you agree to the license terms.
+![][installation_j25_3]
 
-(image)
+:   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [20%, 90%]
 
-The fourth step of this process is also perhaps one of the most important. The *Database Configuration* page is where you enter the database type, host name, username, password, database name, and table prefix you would like to use for Joomla.
+At this point, you'll be asked to agree to the GNU General Public License that Joomla! is released under. All you need to do here is select **Next** (point 1) if you agree to the license terms.
 
-The *Database Type* field offers you a list of supported database types you can use to connect to Joomla. For most users, MySQLi is the best choice, though you do have the option to stick with standard MySQL or alternatives including MSSQL and PostgreSQL.
+![][installation_j25_4]
 
-Your web hosting provider should supply you with a *Host Name* to place in the listed field. Most hosts use `localhost` as the host name, though some do request that databases be hosted from a different IP address.
+:   1. **Database Type** Select your preferred database type (MySQLi, MySQL, PostgreSQL, or MSSQL) from the list. [35%, 42%]
+    2. **Host Name** Where is your database hosted? [41%, 42%]
+    3. **Username** What is your database username? [47%, 42%]
+    4. **Password** What is your database password? [53%, 42%]
+    5. **Database Name** What is the name of your new or existing database you wish to use for Joomla? [59%, 42%]
+    6. **Table Prefix** What would you like the table prefix to be for any Joomla tables in the database? [66%, 42%]
+    7. **Old Database Process** Do you want to back up or remove existing database information from previous Joomla installations? [75%, 42%]
 
-Your host will also either issue or request that you register a username and password for database management. This can sometimes be "root", though not always. If you're running on a shared hosting plan, this name will likely be different. You can typically create new usernames and passwords through Cpanel or any other hosting management system.
+The fourth step of this process is also perhaps one of the most important. The **Database Configuration** page is where you enter the database type, host name, username, password, database name, and table prefix you would like to use for Joomla.
 
-The *Database Name* field should be filled out to match the full name of your desired database. Some hosting providers allow Joomla to create a new database here by entering a database name that doesn't already exist on the server. Others will require that you create the database with the host prior to entering it in this field.
+The **Database Type** field (point 1) offers you a list of supported database types you can use to connect to Joomla. For most users, MySQLi is the best choice, though you do have the option to stick with standard MySQL or alternatives including MSSQL and PostgreSQL.
 
-The Table Prefix field is usually best left randomized, though instances where a single database may be used for a larger set of information or multiple applications can benefit from some recognizable association. Essentially, this prefix will appear prior to the name of a table created for the purposes of serving Joomla-specific information.
+Your web hosting provider should supply you with a **Host Name** (point 2) to place in the listed field. Most hosts use `localhost` as the host name, though some do request that databases be hosted from a different IP address.
 
-At the bottom of this page, you'll be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you're creating a new database for this purpose, your decision here really doesn't make as much of a difference.
+Your host will also either issue or request that you register a username (point 3) and password (point 4) for database management. This can sometimes be "root", though not always. If you're running on a shared hosting plan, this name will likely be different. You can typically create new usernames and passwords through Cpanel or any other hosting management system.
 
-(image)
+The **Database Name** field (point 5) should be filled out to match the full name of your desired database. Some hosting providers allow Joomla to create a new database here by entering a database name that doesn't already exist on the server. Others will require that you create the database with the host prior to entering it in this field.
+
+The **Table Prefix** field (point 6) is usually best left randomized, though instances where a single database may be used for a larger set of information or multiple applications can benefit from some recognizable association. Essentially, this prefix will appear prior to the name of a table created for the purposes of serving Joomla-specific information.
+
+At the bottom of this page (point 7), you'll be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you're creating a new database for this purpose, your decision here really doesn't make as much of a difference.
+
+![][installation_j25_5]
 
 The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It's only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
 
-(image)
+![][installation_j25_6]
 
-The *Main Configuration* step is where you name your site and set up your administrator account. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
+:   1. **Site Name** What do you want the name of your site to be? [35%, 42%]
+    2. **Username** What is your database username? [53%, 42%]
+    3. **Site Offline** This is where you determine whether the site should be online after installation, or made available to visitors right away. [70%, 42%]
 
-You'll need to enter an email address, username, password, and a site name before you can continue.
+The **Main Configuration** page is where you name your site (point 1) and set up your administrator account. Here, you can name your site and set up the meta description and keywords you wish to have search engines use to rank and list your content. You can also opt to have the site taken offline (login credentials required to view) while you work on it (point 2).
+
+You'll need to enter an email address, username, password, and a site name (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
 At the bottom of the page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you've finished building your site, you can easily remove this sample data in favor of your own.
 
-(image)
+![][installation_j25_7]
 
-The final step in the process is aptly named "Finish." This page is where you remove the installation folder so your settings during initial setup are locked in. You will not be able to access your site until this step has been completed. Just select the *Remove Installation Folder* and select either Site or Administrator to start building your new Joomla site.
+:   1. **Site Name** What do you want the name of your site to be? [57%, 57%]
+
+The final step in the process is aptly named "Finish." This page is where you remove the installation folder so your settings during initial setup are locked in. You will not be able to access your site until this step has been completed. Just select the *Remove Installation Folder* (point 1) and select either Site or Administrator to start building your new Joomla site.
+
+![][installation_j25_9]
+
+[installation_j25_1]: assets/installation_j25_1.png
+[installation_j25_2]: assets/installation_j25_2.png
+[installation_j25_3]: assets/installation_j25_3.png
+[installation_j25_4]: assets/installation_j25_4.png
+[installation_j25_5]: assets/installation_j25_5.png
+[installation_j25_6]: assets/installation_j25_6.png
+[installation_j25_7]: assets/installation_j25_7.png
+[installation_j25_9]: assets/installation_j25_9.png

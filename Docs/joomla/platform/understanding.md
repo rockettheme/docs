@@ -1,5 +1,6 @@
 ---
 title: Understanding Joomla!
+breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 
@@ -13,7 +14,9 @@ If a Joomla site were to be compared to a car, then Joomla itself would be the e
 
 The site's template would be the body of the car, defining its look and feel, as well as providing much of the area in which the driver operates. In many ways, it also makes up the steering wheel and gear shift, allowing the user to interact directly with the site and tell it what to do.
 
-Plugins and extensions make up additional components like the gear shift, glove box, and mirrors. They're often helpful, and potentially essential for carrying out operations requested by the user.
+Plugins and modules make up additional parts like the gear shift, glove box, and mirrors. They're often helpful, and potentially essential for carrying out operations requested by the user.
+
+Components, which are a specific type of extension, would be the materials that went into making the engine and other vital system components.
 
 All of these components work together to ensure that your site looks and operates the way it's supposed to. If everything is set up correctly, it should be a consistent experience whether you have one visitor, or one thousand.
 

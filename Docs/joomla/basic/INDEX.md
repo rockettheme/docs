@@ -14,7 +14,7 @@ There are several different ways to install a Joomla template from RocketTheme. 
 
 If you have an existing site, but haven't yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.
 
-If you have an existing site running a Gantry-enabled template, you need but to download and install the standalone template along with any required/recommended extensions listed on the template's product page.
+If you have an existing site running a Gantry-enabled template, you need but to download and install the standalone template along with any required and/or recommended extensions listed on the template's product page.
 
 ### Installing a Template Using RocketLauncher
 RocketLauncher is a bundle of everything you need to have what you see on the demo live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs. RocketLaunchers are not available with all of the older RocketTheme templates, but it will be listed prominently on the template's downloads page when it is available.
