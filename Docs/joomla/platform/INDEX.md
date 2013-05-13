@@ -1,11 +1,12 @@
 ---
-title: About the Joomla Platform
+title: What is Joomla?
+description: An Introduction to the Joomla Platform
 breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 
 What is Joomla?
-===
+-----
 (Joomla Image)
 
 Joomla is an open source platform on which Web sites and applications can be created. It's a content management system (CMS) which connects your site to a MySQLi, MySQL, or PostgreSQL database in order to make content management and delivery easier on both the site manager and visitor.

@@ -1,125 +1,96 @@
 ---
-title: How to Add Images to Articles and Modules
-breadcrumb: /joomla:Joomla/!extensions:Extensions/
+title: Adding Images to Articles and Modules
+description: How to add images to articles and modules using Joomla 2.5 and 3.x.
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
 
 ---
 
-Header H1
-=========
-Paragraph below H1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatum ea explicabo odit labore suscipit enim architecto voluptatem sint deleniti minus recusandae nisi illum quos quia tempora quas quasi totam.
-
-
-Header H2
+How to Add Images to Articles and Modules
 ---------
-Paragraph below H2. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam nesciunt quas ipsam ratione provident debitis non accusantium facilis error officia? Iure maiores culpa accusamus repellat ipsa consequatur consectetur vitae aut.
+Let's face it: A site without images can be a fairly dull thing. Joomla has a number of different methods you can use to add images to articles and modules. While we're somewhat impartial to [RokGallery][rokgallery], you can use the default tools provided by a basic Joomla installation to apply images to your articles and modules with relative ease.
 
-### Header H3
-Paragraph below H3. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur nihil repellendus velit perferendis recusandae dolore modi fuga impedit iste pariatur animi minus iure amet laborum quae! Aut architecto numquam ipsum?
+For the interest of this area of documentation, we'll discuss the most commonly found image options. If you're looking for a more detailed how-to surrounding our [RokGallery][rokgallery] extension, you can find it [here][rokgallery].
 
-#### Header H4
-Paragraph below H4. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quisquam inventore eaque vel adipisci aperiam doloremque dolor facilis quas veniam iusto iure omnis dolorum quae saepe fugit velit ut dolorem!
+Adding Images to Articles
+---------
+![][add_image_1]
 
-##### Header H5
-Paragraph below H5. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam illum consequatur dolorum expedita quibusdam voluptate optio perferendis error a beatae eveniet placeat reiciendis asperiores esse doloribus! Alias ullam nisi reprehenderit!
+:   1. **Editor** This button allows you to insert an image and modify the details of an existing one. [35%, 31%]
+    2. **Image Button** This is the primary built-in image tool for Joomla. It gives you direct access to your media directory, as well as the ability to upload a new image without having to navigate away from the article editing page. [55%, 19%]
+    3. **Images and Links** Fields under **Images and Links** are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. This may not be supported by all templates. [69%, 20%]
 
-Lists
------
+The little **image icon** (point 1) in the text editor is included and supported by the editor itself. Some editors (like TinyMCE pictured above) have very basic image insertion tools. Generally, this tool is used to modify an image that has already been inserted into an article by way of the Image button located below the main text field. 
 
-* This is
-* an Unordered
-* List
+>> [RokPad][rokpad] is another alternative worth mentioning here. It isn't a WYSIWYG editor, but it does offer more for users and developers that want a little more control over what appears in an article fron a text editor that makes scripting easier.
 
-1. This is
-2. an Ordered
-3. List
+The **Image button** (point 2) located below the main text field is the primary method most users insert images into their article. It gives you immediate access to the media folder as well as an upload option. You can set the image alignment, title, description, and caption using this option.
 
-Inline Styling
---------------
+Fields under **Images and links** (point 3) are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. This may not be supported by all templates.
 
-Paragraph with **bold text**, _italic text_ and `inline code`.
+![][add_image_2]
 
-Horizontal Rule
----------------
+:   1. **Select** This field is where you select the image within your media directory you wish to use in this instance. [19%, 20%]
+    2. **Image Float** This option allows you to set where (in relation to text) the image will appear. Not all modules or templates support this option. [25%, 20%]
+    3. **Alt Text** This gives you the ability to insert text which appears in place of the image when image rendering is unavailable. [32%, 20%]
+    4. **Caption** This field allows you to set the text which appears as a caption to the image in supported instances. [39%, 20%]
 
-* * *
+The **Images and Links** area of the article editing screen gives you the ability to add images in a way that is supported natively by various templates and modules. 
 
-Another paragraph with a [link](#url-goes-here), an automatic link <http://example.com>, a [^1] and a [link reference][ref].
+In this instance, we're creating an article using the Alerion template made on Gantry Framework for Joomla. This template, and its supporting modules, support the Intro and Full Article image fields listed in this area below the main editing box.
 
-BlockQuotes
------------
+To insert an image into one of these preset fields, simply click the **Select** button (point 1) and choose your desired image from the media library that appears in the popup. You can alternatively upload a new image by scrolling down within that popup and using the upload tool.
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
->
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+From there, you can set the **Image Float** option (point 2), though not all templates or modules will support this option.
 
-Notices
--------
+**Alt Text** (point 3) allows you to add text that appears in place of the image in cases where the image is unable to render. For instance, a blind visitor using a braille display may only be able to read what appears in this field.
 
-Notices are produced by using two levels of block quote for example `> >` to generate the required styling
+The **Caption** (point 4) is whatever you'd like to appear as a caption on the article. This, like **Image Float** depends on the template and/or module for support. It's likely that captions will appear when the Intro or Full Article image is in the body of an article, but not if it appears in a module.
 
-> > this is a notice
-> >
-> > This is another line of the same notice
+![][add_image_3]
 
-Tables
-------
+:   1. **Link Property** The link you wish to link to. It can be a YouTube link, a local image, a remote image, etc. [15%, 40%]
+    2. **Title** Many links sharing the same album will can be navigated. [43%, 22%]
+    3. **Insert** This adds the selected file(s) to your article. [12%, 71%]
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |    *column* |  **column**  |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+The Joomla media management tool gives you the ability to access files in your media directories, as well as upload new ones. You can access this popup by hitting the **Image** button under the text editor of your new article page.
 
+The top portion of this tool gives you basic navigation and selection controls (points 1 and 2). You can use this to quickly select your image or media file of choice. Once you've done this, hit **Insert** to add the selected image to your article.
 
-Blocks of code.
----------------
+If you wish to use an image hosted separately from your site, or define the image's settings beyond the defaults, you can do so using the bottom portion(s) of the utility (pictured below).
 
-~~~ .html
-<!DOCTYPE HTML>
+![][add_image_4]
 
-<html>
-    <head>
-        <title>I am a Title</title>
-        <link rel="stylesheet" type="text/css" href="some.css"></link>
-        <script>
-            window.addEvent('domready', function(){
-                alert('hello world!');
-            });
-        </script>
-    </head>
-    <body>
-        <div class="content">
-            <h1>Lorem Ipsum</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut <strong>labore</strong> et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis <a href="#bogus">aute irure dolor</a> in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui <em>officia</em> deserunt mollit anim id est laborum.</p>
-        </div>
-    </body>
-</html>
-~~~
+:   1. **Image URL** This indicates where the selected (or external) file is located. [17%, 35%]
+    2. **Image Description** A description for the image which will appear on mouseover. [37%, 35%]
+    3. **Caption** This sets the caption (if you want one) that will appear around the image on the article. [48%, 35%]
+    4. **Align** The image's location in relation to surrounding text. None allows for the template default. [17%, 75%]
+    5. **Image Title**  The title of the image. [37%, 75%]
+    6. **Choose Files** Allows you to select the file in your local drive for upload. [72%, 23%]
+    7. **Start Upload** Uploads the new file and adds it to your media directory. [72%, 67%]
 
-Line Breaks
------------
+The lower portion of the utility gives you control over how the selected image appears in your article. It also allows you to set an external URL for instances where an image you need to insert is purposely hosted elsewhere (point 1). 
 
-A `<br />` tag can be recreated by using two or more spaces at the end of a line.  
-This should text should be on a new line.
+You can also set the **item description** (point 2), **caption** (point 3), **alignment** (point 4), and **image title** (point 5).
 
-An Image Example
-----------------
+If you have not yet added your new image to the media library, you can do so using the upload tool at the bottom of this popup (points 6 and 7).
 
-![Alt Text](http://octodex.github.com/images/plumber.jpg "Optional Title")
+![][add_image_5]
 
-Footnotes should be put at the bottom of a page:
+:   1. **Dimensions** This sets the dimensions of the image as it appears on the article. [37%, 40%]
+    2. **Border** This option allows you to set a border thickness in the event that you wish to have a border around your image. Some templates may offer mixed support for this option. [43%, 32%]
+    3. **Vertical and Horizontal Space** This option allows you to specificy the amount of space between your text and the image. [50%, 32%]
+    4. **Update** This locks in the changes you've made using this tool. [70%, 24%]
 
-[^1]: Footnote
+The integrated image tool built in to TinyMCE is very simple, though it does offer several useful features for refining how your image looks when placed in the inline editor.
 
-[ref]: http://example.com
+For example, you can set the **Dimensions** (point 1), **Border** (point 2), the **Vertical and Horizontal Space** between your image and the surrounding text (point 3), configure image alignment, and set an image description which appears when you move your mouse over the image.
+
+Once you've made your desired changes, hit **Update** (point 4) to lock them in.
+
+[add_image_1]: assets/add_image_1.png
+[add_image_2]: assets/add_image_2.png
+[add_image_3]: assets/add_image_3.png
+[add_image_4]: assets/add_image_4.png
+[add_image_5]: assets/add_image_5.png
+[rokgallery]: ../extensions/rokgallery/
+[rokpad]: http://www.rockettheme.com/extensions-joomla/rokpad

@@ -1,7 +1,7 @@
 ---
 title: RokPad
-description: The Power of Desktop Text Editor in a Joomla
-breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokpad:RokPad
+description: Your Guide to Using RokPad for Joomla
+breadcrumb: /joomla:Joomla/extensions:Extensions/!rokpad:RokPad
 
 ---
 

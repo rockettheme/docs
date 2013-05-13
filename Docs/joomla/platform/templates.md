@@ -1,11 +1,12 @@
 ---
-title: Joomla Templates
+title: How Joomla Templates Work
+description: Your Guide to Installing and Setting Up Joomla Templates
 breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 
 What is a Joomla Template?
-===============
+-----
 Joomla templates are basically the shell of your site. They're comprised of a series of files that determine the look and feel of a site once your content and modules have been put into place. A template determines things like fonts, colors, menu styles, navigation controls, basic layout design, and certain images such as the header and background (in some cases). A template isn't an entire website in and of itself at all. It's more accurately described as a base on which your site's appearance and layout are formed.
 
 Templates offer you the ability to completely separate a site's content from its design. This enables you to quickly switch between templates with only a small amount of necessary changes in the backend versus having to completely rebuild the site from the ground up. A CMS, like Joomla, gives you this ability.
@@ -14,8 +15,8 @@ While some templates offer a great degree of control over layout to users, other
 
 You can also modify an existing template to appear slightly differently depending on which page you're accessing. For example, many sites are designed with a different layout for the home page than a single article page. You might not want some modules to appear in specific areas of your site. By [duplicating the template style](../basic/create_duplicate_template_styles.md) and assigning the adjusted layout to specific pages, you can do this fairly easily.
 
-How to install a Joomla! template
-===============
+How to install a Joomla template
+-----
 There are several different ways to install a Joomla template from RocketTheme. You can start your Joomla install from scratch (including building a new database) by downloading the RocketLauncher for your desired template. This will give you everything you need to hit the ground running, including a preconfigured version of the demo for the specific theme, the Gantry framework, and any extensions required for the theme's demo build to work. 
 
 If you have an existing site, but haven't yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.

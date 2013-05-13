@@ -1,11 +1,12 @@
 ---
-title:  Understanding Joomla Extensions
+title:  How Joomla Extensions Work
+description: Everything you need to know to get started using Joomla extensions.
 breadcrumb: /joomla:Joomla/!platform:Platform/
 
 ---
 
 What is an Extension?
-=====
+-----
 Extensions or anything you can add to Joomla to extend its default functionality. While Joomla has plenty of useful features out of the box, it's not uncommon for someone to want to add something extra to set their site apart. 
 
 There are five different extension types in Joomla: Components, Modules, Plugins, Templates, and Languages. These extension types can all be installed in much the same way, though they can perform incredibly different jobs for your site. For example, a plugin and a template are very different things, though each of them extend your site's inherent function and form beyond what comes with the base Joomla package.

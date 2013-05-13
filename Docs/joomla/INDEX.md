@@ -47,6 +47,12 @@ breadcrumb: /!joomla:Joomla/
 
 	- [Getting Started](basic/)
 	- [FAQ](basic/faq.md)
+	- [Creating a New Article](basic/how_to_create_an_article.md)
+	- [Installing a Template](platform/templates.md#installing-a-template-using-rocketlauncher)
+	- [Creating a Menu](basic/menu_manager.md#how-to-create-a-menu)
+	- [Using Menu Manager](basic/menu_manager.md#managing-your-menus)
+	- [Creating a Menu Module](basic/menu_manager.md#creating-menu-modules)
+	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
 	- [Add Images](basic/adding_images.md)		
 	- [Change the Background](basic/change_the_background.md)
 	- [Configure Parallax](basic/configure_parallax.md)

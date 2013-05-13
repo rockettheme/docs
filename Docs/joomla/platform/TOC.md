@@ -1,6 +1,4 @@
 ---
-title: Joomla Docs
-description: Joomla is a powerful and versatile CMS.
 breadcrumb: /joomla:Joomla/!joomla:Joomla/
 
 ---
@@ -16,6 +14,4 @@ breadcrumb: /joomla:Joomla/!joomla:Joomla/
     * [How to Install Joomla 3.x](install_joomla_3x.md)
     * [How to Install an Extension](extensions.md#how-to-install-an-extension)
     * [How to Update an Extension](extensions.md#how-to-update-an-extension)
-    * [Placeholder](#)
-    * [Placeholder](#)
-    * [Placeholder](#)
+    * [How to Install a Template](templates.md#how-to-install-a-joomla-template)
