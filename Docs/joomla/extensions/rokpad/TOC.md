@@ -1,11 +1,13 @@
 ---
-title: RokPad
-description: Your Guide to Using RokPad for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokpad:RokPad
+
+breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 
 * Basics
     * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+    * [Requirements](index.md#requirements)
+    * [How to Install](index.md#how-to-install)
+    * [Configuration](rokpad_plugins.md)
+    * [How to Use the Editor](rokpad_use.md)
+    * [Keyboard Shortcuts](keyboard_shortcuts.md)

@@ -12,3 +12,4 @@ breadcrumb: /joomla:Joomla/!basic:Basic
 	* [Using Menu Manager](menu_manager.md#managing-your-menus)
 	* [Creating a Menu Module](menu_manager.md#creating-menu-modules)
 	* [Adding Images to Articles](adding_images.md#adding-images-to-articles)
+	* [Adding Modules to Articles](how_to_add_a_module_to_an_article.md)
