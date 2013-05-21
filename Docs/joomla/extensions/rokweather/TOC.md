@@ -1,11 +1,11 @@
 ---
-title: RokWeather
-description: Your Guide to Using RokWeather for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokweather:RokWeather
+
+breadcrumb: /joomla:Joomla/extensions:Extensions/rokweather:RokWeather
 
 ---
 
-* Basics
+* RokWeather
     * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+    * [Module Configuration](rokweather_use.md)
+    	* [Basic Options](rokweather_use.md#basic-options)
+    	* [Advanced Options](rokweather_use.md#advanced-options)

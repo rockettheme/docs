@@ -1,11 +1,12 @@
 ---
-title: RokStock
-description: Your Guide to Using RokStock for Joomla
+
 breadcrumb: /joomla:Joomla/extensions:Extensions/!rokstock:RokStock
 
 ---
 
 * Basics
     * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+    * [Requirements](INDEX.md#requirements)
+    * [Key Features](INDEX.md#key-features)
+    * [How to Install](INDEX.md#how-to-install)
+    * [Setup](rokstock_use.md)
