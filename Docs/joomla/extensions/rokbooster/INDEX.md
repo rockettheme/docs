@@ -7,11 +7,57 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokbooster:RokBooster
 
 Introduction
 -----
-![][RokBooster]
-
 Increase the speed of your site by enabling the RokBooster plugin. This advanced extension will compress and combine your CSS and JavaScript into as few files as possible each. RokBooster can also convert page and background images to data URLs for increased performance.
 
+In the chart below, we detail some of the performance increases possible with RokBooster using our free template, [Afterburner2][afterburner]:
+
+![][RokBooster]
+
 RokBooster can dramatically reduce the number of HTTP calls a browser has to make, and sending those compressed files GZipped means your pages will load faster with less load on your server.
+
+Looking beyond Afterburner2, RokBooster can benefit just about any updated Joomla site. Here, we'll break down how exactly RokBooster can benefit your site. For the interest of comparison, we've tested with both Afterburner2 and our default Gantry template.
+
+|                 | Afterburner2*| + RokBooster | Gantry | + RokBooster |
+|:--------|:------------|:------------|:------|:------------|
+| Requests | 12                   |        5               |     18    |         7             |
+| Time        | 428ms            |   342ms          | 555ms |  375ms           |
+| Size         | 510KB             |        173KB      | 640KB  |      219KB        |
+
+>> *All statistics use Afterburner2 in 960Fixed mode.
+
+**Requests**: Requests are the number of items that are loaded on a page. Reducing the number of requests improves performance. With RokBooster enabled, which we recommend once you have finished development, the total requests are 5: 1 CSS, 1 Javascript, 1 Font, 1 Image and Text/HTML data; an incredibly low count.
+
+**Time**: The time, in milliseconds, for the page to finish loading all requests. In local tests, the template with RokBooster enabled is about 1/3 of a second.
+
+**Size**: The size, in kilobytes, of all requested item. Smaller file sizes lead to speedier loading. The necessary files have been optimized to reduce their overall footprint, for example, the logo is only 1.5KB, the only image file loaded by Afterburner2. With RokBooster enabled, the footprint is 173KB which is a significant reduction.
+
+### What Does RokBooster Do?
+
+RokBooster takes what would otherwise be a bulky and complex site and compresses it down to make it lighter and easier to serve. 
+
+Think of your site as a grocery store. All of the individual files that goes into it are items in that store. Your visitors will have a hard time shopping if they have to grab every item on the shelf with each trip. RokBooster acts like a shopping cart, making it possible to easily and quickly grab the items you need and get out the door. It groups useful data together from various different sources to make it easier for your browser to download and render.
+
+When you're working with a template that has many different built-in features, it could be pulling from a great deal of different CSS and JavaScript sources. This means your visitor's browsers are making many different independent requests which can drag down load times. 
+
+This is where RokBooster comes in. It combines and compresses CSS and JavaScript into as few files as possible. This is done using GZip compression, which is used to send CSS and JavaScript files. 
+
+#### CSS
+With RokBooster, all of these separate CSS files are combined into as few files as possible. This reduces the number of requests, and optimizes page loading. If you're using a template with several different header, body, footer, background, etc. options to choose from, there's no sense in having to load CSS calls to components and options you aren't actively using at the time.
+
+#### JavaScript
+The same goes for JavaScript files. Sites that feature a lot of functionality are often heavily reliant on scripts and other miscellaneous blocks of code to create a smooth and useful user experience. Unfortunately, this results in an increase in individual requests to the site, increasing the size and frequency of data that has to be transferred with each page view. RokBooster compresses and combines these files in order to streamline the process. The visitor can experience faster load times due, in part, to the browser having to download and render less individual blocks of data.
+
+#### Images
+Images are another area that RokBooster comes in handy. It's capable of converting inline and background images below a certain file size into data so they are loaded faster and smoother. This data is placed directly into the HTML, replacing the call to an external file.
+
+### A Note About RokBooster as a Solution
+RokBooster was created to help solve an issue facing site administrators responsible for sites in a variety of different situations. Whether your site is hosted on multiple servers and/or CDNs internationally, or sitting on a shared server hosted by a busy hosting provider, its intention is to assist in streamlining your site by reducing the number of requests made by visitors, compressing CSS and JavaScript, and the optimization of image files.
+
+It's important to note that RokBooster is just one piece of the optimization puzzle. Site speed ranking tools like YSlow and Google PageSpeed don't tell the full story of your site's real-world experience with users. While these rankings are often considered important for SEO (some search engines consider site speed in page rank) there is much more you can do to improve your site that a single extension can't do.
+
+Optimizing your MySQL database, finding a good hosting provider and spending the extra money for a dedicated server, keeping your sites free of extension crawl, reducing the amount of information you pull from external sources for each page view, and implementing site caching are just some of the ways you can incrementally improve site performance for your visitors. 
+
+RokBooster is there to assist in optimization where it can. While useful, this is still no magic bullet. It's just one part of a larger optimization strategy.
 
 Requirements
 ------------
@@ -25,7 +71,6 @@ RokBooster has the following requirements in order to operate:
 
 Key Features
 ------------
-
 * Combine and compress CSS and JavaScript into as few files as possible
 * GZip compression used to send CSS and JavaScript files
 * Compress Inline CSS and JavaScript
@@ -41,7 +86,7 @@ Key Features
 
 How to install
 --------------
-Installing RokBooster is just a matter of few minutes. Firstly [download][rokbooster-download] the latest version of RokBooster. The package you will download is a bundle containing all the required plugins to get RokBooster up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed. There is also a version of RokBooster for Joomla 1.5 available.
+Installing RokBooster is just a matter of few minutes. Firstly [download][rokbooster-download] the latest version of RokBooster. The package you will download is a bundle containing all the required plugins to get RokBooster up and running. It's compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
 
 Once downloaded the package, go into the Joomla Administrator and:
 
@@ -71,3 +116,4 @@ You can access the RokBooster configuration page by navigating to **Extensions â
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokbooster]: assets/rokbooster.png
 [details]: assets/RokStock_details.png
+[afterburner]: https://www.rockettheme.com/joomla-templates/afterburner2

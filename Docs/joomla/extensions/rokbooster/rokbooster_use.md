@@ -47,7 +47,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 
 2. **Sort Method** to set the type/method for CSS files sorting, **Keep Absolute Ordering** or **Place External Links at Top**.
 
-3. **Compress Inline CSS Blocks** combines all inline css blocks together.
+3. **Compress Inline CSS Blocks** combines all inline CSS blocks together.
 
 4. **Compile Imported CSS Files** gets the files referenced in CSS via **@import** rules and add them to the compression. This will slow down the compilation and processing, but not the scanning.
 
@@ -94,7 +94,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
     2. **Scan Method**: The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".  [44%, 3%]
     3. **Use Background Rendering**: Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.  [53%, 3%]
     4. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.  [63%, 3%]
-    5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Dont change unless you need to.  [73%, 3%]
+    5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.  [73%, 3%]
 
 1. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line.
 
@@ -104,7 +104,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 
 4. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.
 
-5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Dont change unless you need to.
+5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.
 
 ### Debug Settings
 ![][rokbooster_setup_7]

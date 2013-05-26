@@ -47,7 +47,7 @@ Key Features
 
 How to install
 --------------
-Installing RokPad is just a matter of few minutes. Firstly [download][rokpad-download] the latest version of RokPad. The package you will download contains all the required data to get RokPad up and running with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed.
+Installing RokPad is just a matter of few minutes. Firstly [download][rokpad-download] the latest version of RokPad. The package you will download is a bundle containing all the required plugins to get RokBooster up and running. It's compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed.
 
 Once downloaded the package, go into the Joomla Administrator and:
 
