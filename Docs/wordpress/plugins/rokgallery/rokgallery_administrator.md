@@ -116,24 +116,8 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 
 Uploading images to RokGallery using the built-in file uploader is the best way to get images into RokGallery. The standard media uploader included in Joomla will add files to the media folders, but won't actually include them in RokGallery's directory.
 
-[rokgallery]: assets/rokgallery.png
-[rokgallery_component]: assets/rokgallery_component_1.png
-[rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.png
-[rokgallery_component_upload]: assets/rokgallery_component_upload.png
-[rokgallery_image_editor]: assets/rokgallery_image_editor.png
 [rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.png
-[rokgallery_module_1]: assets/rokgallery_module_1.png
-[rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.png
-[rokgallery_module_basic_1]: assets/rokgallery_module_basic_1.png
-[rokgallery_module_error_1]: assets/rokgallery_module_error_1.png
-[rokgallery_plugin_manager_1]: assets/rokgallery_plugin_manager_1.png
-[rokgallery_plugin_manager_2]: assets/rokgallery_plugin_manager_2.png
-[rokgallery_plugin_manager_3]: assets/rokgallery_plugin_manager_3.png
-[rokgallery_administrator]: assets/rokgallery_administrator.png
 [rokgallery_tags]: assets/rokgallery_tags.png
-[rokgallery_galleries_manager]: assets/rokgallery_galleries_manager.png
-[featured]: assets/wp_rokgallery.png
-[rokgallery_download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
 [rokbox]: ../rokbox/
 [admin1]: assets/wp_rokgallery_admin_1.png
 [admin2]: assets/wp_rokgallery_admin_2.png

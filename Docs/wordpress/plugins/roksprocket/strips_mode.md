@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Strips Layout Mode
 description: Your Guide to the Strips RokSprocket Layout Mode for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/plugins:Plugins/roksprocket:RokSprocket
 
 ---
 
@@ -34,7 +34,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
-6. The **Content Provider and Layout Type** secion gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
 7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
@@ -57,11 +57,11 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 27%]
     16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 27%]
 
-1. The **Theme** opiton sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your template and/or personal taste.
+1. The **Theme** option sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your template and/or personal taste.
 
 2. The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
 
-3. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurences of controls overlaying the description and make your strips more uniform.
+3. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurrences of controls overlaying the description and make your strips more uniform.
 
 4.  The **Strip HTML Tags** option removes HTML tags from the description of an article.
 

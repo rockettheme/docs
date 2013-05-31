@@ -33,7 +33,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
     * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the article is used. 
 
-6. The **Content Provider and Layout Type** secion gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
 7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the headlines. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
@@ -43,7 +43,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
     2. **Display Limit** The amount of articles to show when rendering. [17%, 27%]
     3. **Label Text** This is where you input the text you wish to appear as the label preceding the headlines text. [23%, 27%]
     4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [29%, 27%]
-    5. **Arrow Navigation** This option configures the arrow naviagtion behavior in the module. [35%, 27%]
+    5. **Arrow Navigation** This option configures the arrow navigation behavior in the module. [35%, 27%]
     6. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [40%, 27%]
     7. **Autoplay** Sets whether you want the module to start rolling through headlines automatically when the page loads, or to await a command from the visitor. [45%, 27%]
     8. **Autoplay Delay** Sets the amount of time between cycled headlines in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [51%, 27%]
@@ -52,7 +52,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
     11. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [77%, 27%]
     12. **Default Link** Determines which link field the module will default to when locating a link for the feature. [83%, 27%]
 
-1. The **Theme** opiton sets the theme for displaying headlines in the module. These themes determine how the headlines look within the module. You can choose the one that best fits your template and/or personal taste.
+1. The **Theme** option sets the theme for displaying headlines in the module. These themes determine how the headlines look within the module. You can choose the one that best fits your template and/or personal taste.
 
 2. The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
 
@@ -60,7 +60,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
 
 4. **Preview Length** sets the amount of words you wish to limit the preview to within the module's article display. 
 
-5. **Arrow Navigation** configures the arrow naviagtion behavior in the module.
+5. **Arrow Navigation** configures the arrow navigation behavior in the module.
 
 6. The **Animation** dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next.
 

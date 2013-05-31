@@ -35,7 +35,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
     * **Tags** - Comma separated list of tags for filtering on the frontend.
 
-6. The **Content Provider and Layout Type** secion gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
 7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
@@ -66,7 +66,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display.
 
-5. **Strip HTML Tags** removes or perserves HTML tags in the description of an article.
+5. **Strip HTML Tags** removes or preserves HTML tags in the description of an article.
 
 6. **Blocks Per View** sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear.
 

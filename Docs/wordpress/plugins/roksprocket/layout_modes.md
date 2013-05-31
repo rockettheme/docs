@@ -1,21 +1,19 @@
 ---
 title: RokSprocket: Layout Modes
 description: Your Guide to RokSprocket Layout Modes for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/plugins:Plugins/roksprocket:RokSprocket
 
 ---
 
 Introduction
 ------------
-RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the administrator interface.
+RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the RokSprocket Admin interface.
 
-![][roksprocket_module_1]
+![][admin1]
 
-:   1. **RokSprocket Module** This option within the Module Manager's **New Module** type list will initiate the creation of a RokSprocket Module. [37%, 4%]
+To start, you can configure a new widget with your layout mode of choice by heading to the **RokSprocket Admin** tool located in the sidebar of the administrative area of WordPress. This page gives you the ability to create and manage widgets prior to placing them in the Widgets Manager.
 
-To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you'll initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you've created the new module, you'll be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
-
-Below, you'll see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
+Think of this page as a list of presets you can apply to one or more different widgets. Each preset can be set with a specific layout type.
 
 You can jump to a specific layout mode using the menu in the sidebar, or clicking the mode's name below:
 
@@ -23,7 +21,6 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Tabs][tabs_link]
 * [Lists][lists_link]
 * [Mosaic][mosaic_link]
-* [Strips][strips_link]
 * [Headlines][headlines_link]
 
 [features]: assets/features.png
@@ -51,3 +48,11 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 [tabs_2]: assets/tabs_2.png
 [roksprocket_module_1]: assets/roksprocket_module_1.png
 [strips_demo]: assets/strips_demo.png
+[admin1]: assets/wp_roksprocket_admin_1.png
+[features1]: assets/wp_roksprocket_features_1.png
+[headlines1]: assets/wp_roksprocket_headlines_1.png
+[lists1]: assets/wp_roksprocket_lists_1.png
+[mosaic1]: assets/wp_roksprocket_mosaic_1.png
+[tabs1]: assets/wp_roksprocket_tabs_1.png
+[widget1]: assets/wp_roksprocket_widget_1.png
+[widget2]: assets/wp_roksprocket_widget_2.png

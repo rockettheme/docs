@@ -22,7 +22,7 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
     * **Icon** - This allows you to set an icon (generally a small, squared image) which will be placed next to the article title in the module.
     * **Link** - If set, the link will show a *Read More** button as well as link the title. This is the article introtext by default.
 
-2. The **Content Provider and Layout Type** secion gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+2. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
 3. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
@@ -60,7 +60,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 8. **Pagination** gives you control over whether or not you wish to show pagination.
 
-9. **Strip HTML Tags** removes or perserves HTML tags in the description of an article.
+9. **Strip HTML Tags** removes or preserves HTML tags in the description of an article.
 
 10. You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used.
 

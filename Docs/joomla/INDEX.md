@@ -71,17 +71,6 @@ breadcrumb: /!joomla:Joomla/
 * Advanced Tutorials
 
 	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
-	- [Placeholder](advanced/#)
 
 <!-- -->
 
@@ -108,6 +97,7 @@ breadcrumb: /!joomla:Joomla/
 	- [RokCandy](extensions/rokcandy/)
 	- [RokComments](extensions/rokcomments/)
 	- [RokBridge](extensions/rokbridge/)
+	- [RokUpdater](extensions/rokupdater/)
 
 <!-- -->
 

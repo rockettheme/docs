@@ -58,13 +58,13 @@ Below the **Content Filter Rules** section are two options areas specific to the
     14. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 27%]
     15. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 27%]
 
-1.  The **Theme** opiton sets the theme for displaying lists in the module. These themes determine how the lists look within the module. You can choose the one that best fits your template and/or personal taste.
+1.  The **Theme** option sets the theme for displaying lists in the module. These themes determine how the lists look within the module. You can choose the one that best fits your template and/or personal taste.
 
-2. The **Collapsible Preview** toggle gives you the ability to choose whether or not the lists should include a collapsable preview feature. When enabled, only one article preview at a time will show expanded.
+2. The **Collapsible Preview** toggle gives you the ability to choose whether or not the lists should include a collapsible preview feature. When enabled, only one article preview at a time will show expanded.
 
 3.  The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
 
-4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurences of controls overlaying the description and make your lists more uniform.
+4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurrences of controls overlaying the description and make your lists more uniform.
 
 5. The **Strip HTML Tags** option removes HTML tags from the description of an article.
 
