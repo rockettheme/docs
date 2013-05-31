@@ -63,25 +63,25 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
     9. **Gallery Style** This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the module. [67%, 30%]
     10. **Gallery Layout** Galleries can be laid out in a Grid, Slideshow, or Showcase pattern. [72%, 30%]
 
-1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences.
+1. **Gallery**: This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences.
 
-2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all.
+2. **Link Type**: This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all.
 
-3. **Default Linked Item** If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to.
+3. **Default Linked Item**: If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to.
 
-4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery.
+4. **Show Title**: This option sets whether or not the title of a slice is shown in the gallery.
 
-5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [48%, 30%]
+5. **Show Caption**: This option sets whether or not the caption of a slice appears in the gallery.
 
-6. **Sort By** This option sets the default sorting order for images in the gallery.
+6. **Sort By**: This option sets the default sorting order for images in the gallery.
 
-7. **Sort Direction** You can choose to have items sorted in ascending or descending order based on the **Sort By** setting.
+7. **Sort Direction**: You can choose to have items sorted in ascending or descending order based on the **Sort By** setting.
 
-8. **Slice Limit** You can set the limit of slices which appear in the gallery.
+8. **Slice Limit**: You can set the limit of slices which appear in the gallery.
 
-9. **Gallery Style** This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the module.
+9. **Gallery Style**: This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the module.
 
-10. **Gallery Layout** Galleries can be laid out in a Grid, Slideshow, or Showcase pattern.
+10. **Gallery Layout**: Galleries can be laid out in a Grid, Slideshow, or Showcase pattern.
 
 Each layout option comes with one or more specific settings. These settings appear at the bottom of the **Basic** module options, depending on which **Gallery Layout** you've selected.
 
