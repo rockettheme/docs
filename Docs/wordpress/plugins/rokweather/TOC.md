@@ -1,11 +1,9 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokweather:RokWeather
+breadcrumb: /wordpress:WordPress/plugins:Plugins/rokweather:RokWeather
 
 ---
 
 * RokWeather
     * [Introduction]()
-    * [Module Configuration](rokweather_use.md)
-    	* [Basic Options](rokweather_use.md#basic-options)
-    	* [Advanced Options](rokweather_use.md#advanced-options)
+    * [Widget Configuration](rokweather_use.md)

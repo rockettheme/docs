@@ -13,7 +13,7 @@ Requirements
 ------------
 RokSprocket has the following requirements in order to operate:
 
-* WordPress 3.x - ensure you are using the latest version
+* WordPress 3.x - Ensure that you are using the latest version.
 * Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
@@ -33,7 +33,7 @@ Key Features
 
 How to install
 --------------
-Installing RokSprocket is just a matter of few minutes. Firstly [download][roksprocket-download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both WordPress 2.5.x and WordPress 3.0.x. It does not need to be uncompressed.
+Installing RokSprocket is just a matter of few minutes. Firstly [download][roksprocket-download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both WordPress 2.5.x and WordPress 3.x. It does not need to be uncompressed.
 
 Once downloaded the package, go into the WordPress Administrator and:
 

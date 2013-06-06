@@ -19,7 +19,7 @@ Requirements
 ------------
 RokGallery has the following requirements in order to operate:
 
-* WordPress ???? - ensure you are using the latest version.
+* WordPress 3.x - Ensure that you are using the latest version.
 * Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
 * PHP support for the SQLite PDO driver
 * PHP support for the MySQL PDO driver
@@ -61,7 +61,7 @@ Installing RokGallery is just a matter of few minutes. Firstly [download][rokgal
 
 Once downloaded the package, go into the WordPress Administrator and:
 
-From WordPress ???:
+From WordPress 3.x:
 
 * Select from the top menu: `wp-admin -> Plugins -> Add New -> Upload`
 * Click on the **Choose File** button
