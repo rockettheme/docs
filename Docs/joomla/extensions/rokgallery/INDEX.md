@@ -56,9 +56,11 @@ Key Features
 
 How to install
 --------------
-Installing RokGallery is just a matter of few minutes. Firstly [download][rokgallery-download] the latest version of RokGallery. The package you will download is a bundle containing all the required plugins to get RokBooster up and running. It's compatible with both Joomla 2.5.x and Joomla 3.x.
+Installing RokGallery takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -89,7 +91,7 @@ We recommend downloading and installing [RokBox][rokbox] in addition to RokGalle
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 
 [featured]: assets/roksprocket-layout.png
-[rokgallery-download]: http://www.rockettheme.com/extensions-downloads/club/2216-rokgallery
+[download]: http://www.rockettheme.com/extensions-downloads/club/2216-rokgallery
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokgallery]: assets/rokgallery.png
 [rokgallery_install_1]: assets/rokgallery_install_1.png

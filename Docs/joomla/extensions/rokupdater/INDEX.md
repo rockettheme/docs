@@ -27,11 +27,11 @@ Key Features
 
 How to install
 --------------
-Installing RokUpdater is just a matter of few minutes. In most cases, RokUpdater will be installed as part of RocketLauncher, as well as being included in extension packs. You can, however, opt to download and install RokUpdater independently in order to start using it with existing supported extensions.
+Installing RokUpdater takes just a matter of few minutes. In most cases, RokUpdater will be included with supported extension packs. You can, however, opt to download and install RokUpdater independently in order to start using it with existing supported extensions.
 
-Firstly [download][rokupdater-download] the latest version of RokUpdater. The package you will download is a bundle containing all the required plugins to get RokUpdater up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokUpdater. The package you will download is a bundle containing all the required plugins to get RokUpdater up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
 
-Once downloaded the package, go into the Joomla Administrator and:
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -58,4 +58,4 @@ Once installation is complete, a message highlighted in green should indicate it
 [rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.png
 [rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.png
 [rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.png
-[rokupdater-download]: http://rockettheme.com
+[download]: http://www.rockettheme.com/extensions-downloads/free/3490-rokupdater

@@ -47,9 +47,11 @@ Key Features
 
 How to install
 --------------
-Installing RokPad is just a matter of few minutes. Firstly [download][rokpad-download] the latest version of RokPad. The package you will download is a bundle containing all the required plugins to get RokBooster up and running. It's compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed.
+Installing RokPad takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokPad. The package you will download is a bundle containing all the required plugins to get RokPad up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -76,7 +78,7 @@ If everything worked properly, you will get a notification indicating as much. Y
 Go to **Site → Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
 
 [featured]: assets/rokpad-layout.png
-[rokpad-download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad
+[download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [core]: assets/rokpad_core.png
 [details]: assets/rokpad_details.png

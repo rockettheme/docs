@@ -31,9 +31,11 @@ Key Features
 
 How to Install
 --------------
-Installing RokAjaxSearch is just a matter of few minutes. Firstly [download][rokajaxsearch-download] the latest version of RokAjaxSearch. The package you will download is a bundle containing all the required plugins to get RokAjaxSearch up and running and it is compatible with both WordPress 2.5.x and WordPress 3.x. It does not need to be uncompressed.
+Installing RokAjaxSearch takes just a matter of few minutes.
 
-Once downloaded the package, go into the WordPress Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download is a bundle containing all the required plugins to get RokAjaxSearch up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the WordPress Administrator and:
 
 From WordPress 3.x:
 

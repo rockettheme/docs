@@ -86,9 +86,11 @@ Key Features
 
 How to install
 --------------
-Installing RokBooster is just a matter of few minutes. Firstly [download][rokbooster-download] the latest version of RokBooster. The package you will download is a bundle containing all the required plugins to get RokBooster up and running. It's compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+Installing RokBooster takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you’ll need to do is [download][download] the latest version of RokBooster. The package you will download is a bundle containing all the required plugins to get RokBooster up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -112,7 +114,7 @@ Once installation is complete, a message highlighted in green should indicate it
 You can access the RokBooster configuration page by navigating to **Extensions → Plugin Manager**. In the list, you will find **System - RokBooster**. Click the name in order to enter RokBooster's Plugin Manager. The plugin needs to be set to **Enabled** to operate.
 
 [featured]: assets/roksprocket-layout.png
-[rokbooster-download]: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster
+[download]: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokbooster]: assets/rokbooster.png
 [details]: assets/RokStock_details.png

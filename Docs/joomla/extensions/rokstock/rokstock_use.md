@@ -58,7 +58,7 @@ Administrator Options
 :   1. **Default Stocks** The module displays the stock information of a valid stock title. This option decides what stock information is displayed in the module. Separate stock titles by a comma to show multiple stocks. For example, .DJI, .INX, .IXIC will display stock information from Dow Jones Industrial Average, S&P 500 INDEX, and NASDAQ COMPOSITE.  [24%, 5%]
     2. **User Interaction** You can set this parameter to allow the user to interact with RokStock in the frontend. If enabled, the user can add, remove, reorder the stocks. All modifications will be visible to the user only. [30%, 5%]
     3. **Save/Restore Status** When enabled, this option stores the users modification in the frontend, like the stock index they added, remove, or reordered details in a cookie. It changes when the cookie has expired.  [38%, 5%]
-    4. **Open links in new page** You can set this parameter to define whether the stock information page should be opened in a new window or the same window, when the user click on the stock index title. [46%, 5%]
+    4. **Store Duration (days)** This parameter is self explanatory. You can set the duration in days for the cookie to be kept.  [46%, 5%]
     5. **Open links in new page** You can set this parameter to define whether the stock information page should be opened in a new window or the same window, when the user click on the stock index title. [52%, 5%]
     6. **Show main chart** At the top of the module you can see the graphic chart. When enable, the module will display the graphic chart.  [60%, 5%]
     7. **Tooltips Details** If this parameter is enabled, when the users hovers over the stock index title, it will show its details. [68%, 5%]

@@ -34,9 +34,11 @@ Key Features
 
 How to install
 --------------
-Installing RokWeather is just a matter of few minutes. Firstly [download][rokweather-download] the latest version of RokWeather. The package you will download is a bundle containing all the required plugins to get RokWeather up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed. There is also a version of RokWeather for Joomla 1.5 available.
+Installing RokStock takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you’ll need to do is [download][download] the latest version of RokStock. The package you will download is a bundle containing all the required plugins to get RokStock up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -59,7 +61,7 @@ If everything worked properly, you will get a notification indicating as much.
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.png
-[rokweather-download]: http://www.rockettheme.com/extensions-downloads/club/1003-rokweather
+[download]: http://www.rockettheme.com/extensions-downloads/club/1003-rokweather
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokweather]: assets/rokweather.png
 [details]: assets/rokweather_details.png

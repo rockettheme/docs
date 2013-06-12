@@ -33,9 +33,11 @@ Key Features
 
 How to install
 --------------
-Installing RokSprocket is just a matter of few minutes. Firstly [download][roksprocket-download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed.
+Installing RokSprocket takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you’ll need to do is [download][download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -58,5 +60,5 @@ If everything worked properly, you will get a notification indicating as much. Y
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.png
-[roksprocket-download]: http://www.rockettheme.com/extensions-downloads/free/2841-roksprocket
+[download]: http://www.rockettheme.com/extensions-downloads/free/2841-roksprocket
 [install]: ../../platform/extensions.md#how-to-install-an-extension

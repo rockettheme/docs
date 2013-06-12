@@ -35,9 +35,11 @@ RokStock uses the Google Finance API to show its data. There are a wide range of
 
 How to install
 --------------
-Installing RokStock is just a matter of few minutes. Firstly [download][rokstock-download] the latest version of RokStock. The package you will download is a bundle containing all the required plugins to get RokStock up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed. There is also a version of RokStock for Joomla 1.5 available.
+Installing RokStock takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you’ll need to do is [download][download] the latest version of RokStock. The package you will download is a bundle containing all the required plugins to get RokStock up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
@@ -60,7 +62,7 @@ Once installation is complete, a message highlighted in green should indicate it
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.png
-[rokstock-download]: http://www.rockettheme.com/extensions-downloads/club/1000-rokstock
+[download]: http://www.rockettheme.com/extensions-downloads/club/1000-rokstock
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokstock]: assets/rokstock.png
 [details]: assets/RokStock_details.png

@@ -1,11 +1,13 @@
 ---
 title: RokBox
+description: Your Guide to Using RokBox for WordPress
+breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokbox:RokBox
 
 ---
 
 Introduction
 ============
-RokBox2 is a fully responsive modal plug-in for Joomla and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and Joomla modules and takes advantage of the new technologies such as HTML5 and CSS3.
+RokBox2 is a fully responsive modal plug-in for WordPress and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress widgets and takes advantage of the new technologies such as HTML5 and CSS3.
 
 ![][featured]
 
@@ -29,7 +31,7 @@ Requirements
 ------------
 RokBox2 has the following requirements in order to operate:
 
-* Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
+* WordPress 3.2 or above - ensure you are using the latest version
 * Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
@@ -61,19 +63,23 @@ Key Features
 
 How to install
 --------------
-Installing RokBox2 is just a matter of few minutes. Firstly [download][rokbox-download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed.
+Installing RokBox2 takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
-* Click on Upload Package File **Choose File** button
-* Select the `rokbox-2.zip` that you just downloaded from your local drive.
-* Click the **Upload & Install** button.
+Once you've downloaded the package, go into the WordPress Administrator and:
 
-If everything worked properly you will get a success message notification. You can customize both plugins accessing from: `Extend -> Plug-in Manager`, where they are listed as **Content - RokBox** and **System - RokBox**.
+From WordPress 3.x:
 
->> NOTE: RocketTheme packages do not require you to first uninstall and then install again. You can simply install and the package will determine if it requires to update your currently installed RokBox (whether is RokBox1 or RokBox2) or if it requires to update it.
+* Select from the top menu: `wp-admin -> Plugins -> Add New -> Upload`
+* Click on the **Choose File** button
+* Select the `wp_rokbox.zip` that you just downloaded from your local drive.
+* Click the **Install Now** button.
+
+Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokGallery right away, select **Activate Plugin** from this confirmation page.
+
+>> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 
 [featured]: assets/rokbox2-layout.png
-[rokbox-download]: http://www.rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download
+[download]: http://www.rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download

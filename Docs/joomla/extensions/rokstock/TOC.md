@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokstock:RokStock
+breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
 ---
 

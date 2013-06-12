@@ -33,9 +33,11 @@ Key Features
 
 How to install
 --------------
-Installing RokSprocket is just a matter of few minutes. Firstly [download][roksprocket-download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both WordPress 2.5.x and WordPress 3.x. It does not need to be uncompressed.
+Installing RokSprocket takes just a matter of few minutes.
 
-Once downloaded the package, go into the WordPress Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the WordPress Administrator and:
 
 From WordPress 3.x:
 
@@ -49,7 +51,7 @@ Once installation is complete, you'll receive a message (shown above) indicating
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.png
-[roksprocket-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
+[download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [admin1]: assets/wp_roksprocket_admin_1.png
 [features1]: assets/wp_roksprocket_features_1.png

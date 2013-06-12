@@ -34,9 +34,11 @@ Key Features
 
 How to install
 --------------
-Installing RokSprocket is just a matter of few minutes. Firstly [download][roksprocket-download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with both WordPress 2.5.x and WordPress 3.x. It does not need to be uncompressed.
+Installing RokWeather takes just a matter of few minutes.
 
-Once downloaded the package, go into the WordPress Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokWeather. The package you will download is a bundle containing all the required plugins to get RokWeather up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the WordPress Administrator and:
 
 From WordPress 3.x:
 
@@ -45,12 +47,12 @@ From WordPress 3.x:
 * Select the `wp_rokweather.zip` that you just downloaded from your local drive.
 * Click the **Install Now** button.
 
-Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokSprocket right away, select **Activate Plugin** from this confirmation page.
+Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokWeather right away, select **Activate Plugin** from this confirmation page.
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.png
-[rokweather-download]: http://www.rockettheme.com/extensions-downloads/club/1003-rokweather
+[download]: http://www.rockettheme.com/extensions-downloads/club/1003-rokweather
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokweather]: assets/rokweather.png
 [details]: assets/rokweather_details.png

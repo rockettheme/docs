@@ -61,9 +61,11 @@ Key Features
 
 How to install
 --------------
-Installing RokBox2 is just a matter of few minutes. Firstly [download][rokbox-download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.0.x. It does not need to be uncompressed.
+Installing RokBox2 takes just a matter of few minutes.
 
-Once downloaded the package, go into the Joomla Administrator and:
+The first thing you'll need to do is [download][download] the latest version of RokBox2. The package you will download is a bundle containing all of the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
 
 * Select from the top menu: `Extend -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
@@ -76,4 +78,4 @@ If everything worked properly you will get a success message notification. You c
 
 
 [featured]: assets/rokbox2-layout.png
-[rokbox-download]: http://www.rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download
+[download]: http://www.rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download
