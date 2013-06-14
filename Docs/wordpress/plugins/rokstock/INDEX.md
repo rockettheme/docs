@@ -1,7 +1,7 @@
 ---
 title: RokStock
 description: Your Guide to Using RokStock for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokstock:RokStock
+breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
 ---
 
@@ -48,7 +48,7 @@ From WordPress 3.x:
 * Select the `wp_rokweather.zip` that you just downloaded from your local drive.
 * Click the **Install Now** button.
 
-Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokSprocket right away, select **Activate Plugin** from this confirmation page.
+Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokStock right away, select **Activate Plugin** from this confirmation page.
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
