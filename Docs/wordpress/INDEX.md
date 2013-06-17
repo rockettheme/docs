@@ -8,25 +8,22 @@ breadcrumb: /!WordPress:WordPress/
 
 * Start Here
 
-	- [What is WordPress?](platform/)
+	- [What is WordPress?](start/)
 	  Find out why WordPress is one of the most popular open source CMSs.
 
-	- [How Does WordPress Work?](platform/understanding.md)
+	- [How Does WordPress Work?](start/understanding.md)
 	  Learn what the basic components of WordPress are and how they fit into your site.
 
-	- [How to install WordPress 2.5](platform/install_WordPress_25.md)
-	  Step-by-step through the installation procedure for WordPress.
-
-	- [How to Install WordPress 3.x](platform/install_WordPress_3x.md)
+	- [How to Install WordPress 3.x](start/install_wordpress_3x.md)
 	  Find out about the benefits and capabilities of joining the RocketTheme WordPress Club
 
-	- [Understanding Hosting](platform/hosting.md)
+	- [Understanding Hosting](start/hosting.md)
 	  Helpful tips and tricks to get you started with the right hosting provider.
 
-	- [WordPress Themes](platform/Themes.md)
+	- [WordPress Themes](start/themes.md)
 	  Find out exactly what a WordPress template entails and what its relationship is with other WordPress plugins.
 
-	- [WordPress plugins](platform/plugins.md)
+	- [WordPress plugins](start/plugins.md)
 	  Discover how RocketTheme WordPress plugins help you to create a powerful site.
 
 <!-- -->

@@ -4,7 +4,7 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
 ---
 
-* Basics
+* RokStock
     * [Introduction]()
     * [Requirements](INDEX.md#requirements)
     * [Key Features](INDEX.md#key-features)

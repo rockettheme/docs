@@ -1,12 +1,12 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
+breadcrumb: /wordpress:WordPress/plugins:Plugins/!gantrybuddypress:GantryBuddyPress
 
 ---
 
-* RokIntroScroller
+* Gantry BuddyPress
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
     * [How to Install](INDEX.md#how-to-install)
-    * [Setup](rokintroscroller_use.md)
+    * [FAQ](faq.md)

@@ -4,7 +4,7 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokfeaturetable:RokFeatureTabl
 
 ---
 
-* Basics
+* RokFeatureTable
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
