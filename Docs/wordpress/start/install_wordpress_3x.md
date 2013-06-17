@@ -4,3 +4,6 @@ description: How to do a Fresh Install of WordPress
 breadcrumb: /wordpress:WordPress/!start:Start/
 
 ---
+
+Introduction
+-----

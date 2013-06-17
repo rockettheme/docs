@@ -4,3 +4,6 @@ description: Your Introductory Guide to Installing and Using Plugins in WordPres
 breadcrumb: /wordpress:WordPress/!start:Start/
 
 ---
+
+Introduction
+-----
