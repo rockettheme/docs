@@ -22,9 +22,9 @@ Accessing the main RokGallery Administrator within Joomla is fairly easy. You si
 
 ![][rokgallery_administrator]
 
-:   1. **Image Controls** Provides image-specific control options. [18%, 20%]
-    2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [18%, 51%]
-    3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [32%, 2%]
+:   1. **Image Controls** Provides image-specific control options. [18%, 20%, se]
+    2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [18%, 51%, se]
+    3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [32%, 2%, ne]
 
 RokGallery's Component Administrator is broken into two main areas. 
 
@@ -56,11 +56,11 @@ The tag popup allows you to select a gallery for quick tag associations, add/rem
 #### Jobs Manager
 ![][rokgallery_jobs_manager]
 
-:   1. **Refresh** Refreshes the status of all current and completed jobs in the list. [18%, 52%]
-    2. **Clean** Removes completed jobs from the list. [18%, 59%]
-    3. **Wipe All** Removes all jobs from the list. [18%, 66%]
-    4. **Update Individual Job** Updates the status of an individual job. [33%, 62%]
-    5. **Delete Individual Job** Removes an individual job from the list. [33%, 70%]
+:   1. **Refresh** Refreshes the status of all current and completed jobs in the list. [17%, 52%, sw]
+    2. **Clean** Removes completed jobs from the list. [17%, 64%, sw]
+    3. **Wipe All** Removes all jobs from the list. [17%, 80%, sw]
+    4. **Update Individual Job** Updates the status of an individual job. [33%, 72%, ne]
+    5. **Delete Individual Job** Removes an individual job from the list. [33%, 81%, nw]
 
 The Jobs Manager gives you a real-time look at processes being executed by RokGallery. When you change the size or tag gallery association of a photo, it renders a new file that matches the specifications needed to meet these needs. This takes time, and the Jobs Manager is a great resource to check and see if your changes aren't appearing on your site correctly due to misconfiguration or the time required to process these requests.
 
@@ -77,15 +77,15 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 #### Galleries Manager
 ![][rokgallery_galleries_manager]
 
-:   1. **Galleries** Select an existing gallery, or create a new one. [12%, 25%]
-    2. **New Based On** Create a new tag gallery based on an existing one. [12%, 59%]
-    3. **Name** Enter or change the name for the current or new gallery. [20%, 25%]
-    4. **Tags** Enter tag(s) for the gallery, separated by commas, which should be present on associated images. [30%, 25%]
-    5. **Image** Set the image preferences for images appearing within the tag gallery. [40%, 25%]
-    6. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery. [40%, 49%]
-    7. **Ordering** The **Ordering** button allows you to manage the ordering of the gallery, manually. [70%, 25%]
-    8. **Publish** The **Publish** button publishes images associated with the selected gallery. [74%, 25%]
-    9. **Delete** The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well. [78%, 25%]
+:   1. **Galleries** Select an existing gallery, or create a new one. [12%, 08%, ne]
+    2. **New Based On** Create a new tag gallery based on an existing one. [12%, 63%, ne]
+    3. **Name** Enter or change the name for the current or new gallery. [20%, 08%, ne]
+    4. **Tags** Enter tag(s) for the gallery, separated by commas, which should be present on associated images. [30%, 08%, ne]
+    5. **Image** Set the image preferences for images appearing within the tag gallery. [40%, 08%, ne]
+    6. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery. [40%, 49%, ne]
+    7. **Ordering** The **Ordering** button allows you to manage the ordering of the gallery, manually. [70%, 08%, ne]
+    8. **Publish** The **Publish** button publishes images associated with the selected gallery. [74%, 08%, ne]
+    9. **Delete** The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well. [78%, 08%, ne]
 
 1. **Galleries**: Select an existing gallery, or create a new one.
 
@@ -116,8 +116,8 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 #### Upload
 ![][rokgallery_component_upload]
 
-:   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [64%, 25%]
-    2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [64%, 58%]
+:   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [64%, 23%, nw]
+    2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [64%, 62%, ne]
 
 1. The **Browse** button opens a file browser enabling you to select one or more image files to upload to RokGallery. This is useful if you'd prefer not to click and drag files manually into this popup, or if your browser doesn't support that functionality.
 

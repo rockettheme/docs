@@ -45,15 +45,15 @@ You can find this bundle package on all Gantry-supported template download pages
 
 ![][install1]
 
-:   1. **Extension Manager** This is where you'll want to go to install any extensions. [12%, 55%]
+:   1. **Extension Manager** This is where you'll want to go to install any extensions. [12%, 55%, se]
 
 The easiest way to do this is by going to **Admin → Extensions → Extension Manager** (point 1) within the Administrator area of your site. 
 
 ![][install2]
 
-:   1. **Install** This sidebar indicates which area within the Extension Manager you're in. [35%, 13%]
-    2. **Browse** Locate the template's ZIP file on your local drive. [53%, 85%]
-    3. **Upload and Install** This will begin installation of your new template. [70%, 36%]
+:   1. **Install** This sidebar indicates which area within the Extension Manager you're in. [35%, 13%, nw]
+    2. **Browse** Locate the template's ZIP file on your local drive. [53%, 85%, sw]
+    3. **Upload and Install** This will begin installation of your new template. [70%, 38%, ne]
 
 Once you've done this, you should be at an installation page (indicated by the sidebar in the image above). From here, you'll need to select **Browse** (point 1) and choose your template package zip file you downloaded previously. After you've made your selection, hit **Upload and Install** (point 2). Joomla will automatically unzip the package and install its components for you. 
 
@@ -65,7 +65,7 @@ The downloads page for the template might indicate one or more extensions are re
 
 ![][install4]
 
-:   1. **Default** Selecting the star will set the template as default template for the visitors side of your Joomla site. [74%, 65%]
+:   1. **Default** Selecting the star will set the template as default template for the visitors side of your Joomla site. [74%, 67%, ne]
 
 Once you've successfully installed the bundle, you can navigate to **Admin → Extensions → Template Manager** and select the star next to your new template (point 1) to set it as the default template for the front end of your site.
 

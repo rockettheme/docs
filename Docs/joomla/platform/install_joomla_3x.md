@@ -49,10 +49,10 @@ Joomla Web Installer for 3.x
 ----------------------------
 ![][installation_joomla3x_2]
 
-:   1. **Select Language** What language do you wish to use? [15%, 6%]
-    2. **Site Name and Description** What name would you like your site to have? What description would you like to give search engines for your site? [29%, 9%]
-    3. **Administrator Information** This is where you set up the administrator email, username, and password. [29%, 51%]
-    4. **Site Offline** Do you want to site to be live immediately after installation? [79%, 9%]
+:   1. **Select Language** What language do you wish to use? [15%, 6%, ne]
+    2. **Site Name and Description** What name would you like your site to have? What description would you like to give search engines for your site? [29%, 9%, ne]
+    3. **Administrator Information** This is where you set up the administrator email, username, and password. [29%, 51%, ne]
+    4. **Site Offline** Do you want to site to be live immediately after installation? [79%, 9%, ne]
 
 The first page in the Joomla! 3.x Web Installer is to select your preffered language. This can be done using the **Select Language** drop-down menu (point 1) on the **Configuration** tab within the installer.
 
@@ -64,12 +64,12 @@ Once you're done with this page, hit the **Next** button.
 
 ![][installation_joomla3x_3]
 
-:   1. **Site Name** What do you want the name of your site to be? [21%, 6%]
-    2. **Host Name** What is your database username? [30%, 6%]
-    3. **User Name** What is your database username? [39%, 6%]
-    4. **Database Name** What is the name of your current or new database? [58%, 6%]
-    5. **Table Prefix** This sets the prefix that appears on any Joomla-related tables in the database. [67%, 6%]
-    6. **Old Database Process** This option gives you the opportunity to back up or remove previous Joomla install data. [81%, 6%]
+:   1. **Site Name** What do you want the name of your site to be? [21%, 7%, ne]
+    2. **Host Name** What is your database username? [30%, 9%, ne]
+    3. **User Name** What is your database username? [39%, 10%, ne]
+    4. **Database Name** What is the name of your current or new database? [58%, 6%, ne]
+    5. **Table Prefix** This sets the prefix that appears on any Joomla-related tables in the database. [67%, 8%, ne]
+    6. **Old Database Process** This option gives you the opportunity to back up or remove previous Joomla install data. [81%, 8%, ne]
 
 The next step in installation concerns the database you wish to use. If Joomla is your content management system, then your database is where this content is stored and made available. Joomla will actually create a database for you so you don't have to bother with setting this up on your end. Some Web hosts don't allow this feature, so you may have to create it yourself using Cpanel or another administrative tool your provider gives you to create a MySQL, MySQLi, or PostgreSQL database.
 
@@ -85,8 +85,8 @@ If you're using a pre-created database, you'll want to pay close attention to th
 
 ![][installation_joomla3x_5]
 
-:   1. **Install Sample Data** This option gives you some sample data to work from while building your site. Select the data type that works best for you, or none at all. [40%, 16%]
-    2. **Email Configuration** Do you want your installation configuration emailed to your administrator address? [80%, 5%]
+:   1. **Install Sample Data** This option gives you some sample data to work from while building your site. Select the data type that works best for you, or none at all. [40%, 16%, ne]
+    2. **Email Configuration** Do you want your installation configuration emailed to your administrator address? [80%, 5%, ne]
 
 The final installation page will go over your email address, confirm your database configuration, and alert you to any server-side settings which might conflict with the use of Joomla. You can see a detailed list of these settings and what they mean here (link). Only the settings listed under **Pre-Installation Check** are mandatory in order for Joomla to function properly.
 
