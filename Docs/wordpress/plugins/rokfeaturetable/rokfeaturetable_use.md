@@ -11,11 +11,11 @@ You can access RokFeatureTable's main widget settings by navigating to **Admin -
 
 ![][widget1]
 
-:   1. **Title** Sets the title for the RokFeatureTable widget. This is not a required field. [26%, 33%]
-    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [35%, 33%]
-    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No. [45%, 33%]
-    4. **Template Selection** RokFeatureTables has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [55%, 33%]
-    5. **Current Table Layout** This area of the menu sets the size and content of the feature table. It's the most important component of the widget setup process. More details about this menu are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [70%, 33%]
+:   1. **Title** Sets the title for the RokFeatureTable widget. This is not a required field. [26%, 12%, ne]
+    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [35%, 12%, ne]
+    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No. [45%, 12%, ne]
+    4. **Template Selection** RokFeatureTables has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [55%, 12%, ne]
+    5. **Current Table Layout** This area of the menu sets the size and content of the feature table. It's the most important component of the widget setup process. More details about this menu are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [70%, 12%, ne]
 
 1. **Title**: Sets the title for the RokFeatureTable widget. This is not a required field.
 
@@ -33,12 +33,12 @@ You can access the table layout options via the widget properties menu featured 
 
 ![][widget2]
 
-:   1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content. [21%, 15%]
-    2. **Rows** Each column can have an independent number of rows. You can add or remove rows using the **+** or **-** controls. Each row within a column acts as a single cell. [30%, 49%]
-    3. **Class** You can use the class control to add a unique CSS class to the cell. [30%, 55%]
-    4. **Subline** This option allows you to add a sub-line of text to the cell. This is useful for disclaimers or extra information. [30%, 62%]
-    5. **Link** You can have a particular cell link to a specific URL. [30%, 69%]
-    6. **Style** This option allows you to assign custom style rules to the cell. [30%, 76%]
+:   1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content. [21%, 5%, ne]
+    2. **Rows** Each column can have an independent number of rows. You can add or remove rows using the **+** or **-** controls. Each row within a column acts as a single cell. [29%, 49%, sw]
+    3. **Class** You can use the class control to add a unique CSS class to the cell. [29%, 56%, sw]
+    4. **Subline** This option allows you to add a sub-line of text to the cell. This is useful for disclaimers or extra information. [29%, 64%, sw]
+    5. **Link** You can have a particular cell link to a specific URL. [29%, 72%, sw]
+    6. **Style** This option allows you to assign custom style rules to the cell. [29%, 80%, sw]
 
 1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content.
 

@@ -15,27 +15,27 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 
 ![][plugin1]
 
-:   1. **Preset Themes** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [11%, 6%]
-    2. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work. [14%, 6%]
-    3. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [18%, 6%]
-    4. **Show Description** Set to yes to show a description with each search result. [22%, 6%]
-    5. **Show Read More** Set whether the Read More link should be display. [26%, 6%]
-    6. **Read More Label** Set a label you'd like to have displayed for the **Read More** link. [29%, 6%]
-    7. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [33%, 6%]
-    8. **Display Content** Gives you access to item-specific settings for the articles title, description, image, and link. [37%, 6%]
-    9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [40%, 6%]
-    10. **Items Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [44%, 6%]
-    11. **Limit Items** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [48%, 6%]
-    12. **Google Web Search** When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work. [51%, 6%]
-    13. **Google Blog Search** When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work. [55%, 6%]
-    14. **Google Image Search** When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work. [58%, 6%]
-    15. **Google Video Search** When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work. [62%, 6%]
-    16. **Image Size to Search** Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large. [66%, 6%]
-    17. **Safe Search** Choose between the different Google preferences, either Strict, Moderate or Off. [70%, 6%]
-    18. **Show Pagination** Set to Yes to show pagination for search results. [73%, 6%]
-    19. **Show Category** Sets the content filter rules for the widget. [77%, 6%]
-    20. **Show Estimated** Show the estimated result for Google searches. [80%, 6%]
-    21. **Include Link** Set to yes to show a link to all search results. [84%, 6%]
+:   1. **Preset Themes** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [11%, 4%, ne]
+    2. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work. [14%, 4%, ne]
+    3. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [18%, 4%, ne]
+    4. **Show Description** Set to yes to show a description with each search result. [22%, 4%, ne]
+    5. **Show Read More** Set whether the Read More link should be display. [26%, 4%, ne]
+    6. **Read More Label** Set a label you'd like to have displayed for the **Read More** link. [29%, 4%, ne]
+    7. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [33%, 4%, ne]
+    8. **Display Content** Gives you access to item-specific settings for the articles title, description, image, and link. [37%, 4%, ne]
+    9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [40%, 4%, ne]
+    10. **Items Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [44%, 4%, ne]
+    11. **Limit Items** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [48%, 4%, ne]
+    12. **Google Web Search** When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work. [51%, 4%, ne]
+    13. **Google Blog Search** When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work. [55%, 4%, ne]
+    14. **Google Image Search** When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work. [58%, 4%, ne]
+    15. **Google Video Search** When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work. [62%, 4%, ne]
+    16. **Image Size to Search** Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large. [66%, 4%, ne]
+    17. **Safe Search** Choose between the different Google preferences, either Strict, Moderate or Off. [70%, 4%, ne]
+    18. **Show Pagination** Set to Yes to show pagination for search results. [73%, 4%, ne]
+    19. **Show Category** Sets the content filter rules for the widget. [77%, 4%, ne]
+    20. **Show Estimated** Show the estimated result for Google searches. [80%, 4%, ne]
+    21. **Include Link** Set to yes to show a link to all search results. [84%, 4%, ne]
 
 1. **Preset Themes**: Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module.
 
@@ -83,7 +83,7 @@ Widget Settings
 -----
 ![][gantrywidget]
 
-:   1. **Title** If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate. [14%, 32%]
+:   1. **Title** If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate. [14%, 10%, ne]
 
 1. **Title**: If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate.
 

@@ -11,10 +11,10 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 
 ![][mosaic1]
 
-:   1. **Title** This is the title of your widget. [16%, 08%]
-    2. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [53%, 50%]
-    3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 85%]
-    4. **Content Filter Rules** Sets the content filter rules for the widget. [56%, 78%]
+:   1. **Title** This is the title of your widget. [16%, 10%, se]
+    2. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [53%, 55%, nw]
+    3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 80%, nw]
+    4. **Content Filter Rules** Sets the content filter rules for the widget. [56%, 80%, sw]
 
 1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the widget should appear in.
 
@@ -34,20 +34,20 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][mosaic_2]
 
-:   1. **Theme** This sets the theme for displaying features in the widget. [11%, 27%]
-    2. **Display Limit** The amount of articles to show when rendering. [15%, 27%]
-    3. **Columns** Sets the number of columns articles are displayed in. [20%, 27%]
-    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's article display. [25%, 27%]
-    5. **Strip HTML Tags** This option removes HTML tags from the description of an article. [29%, 27%]
-    6. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [34%, 27%]
-    7. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the widget. [38%, 27%]
-    8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 27%]
-    9. **Ordering** Ordering options available to users on the frontend. [52%, 27%]
-    10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates. [61%, 27%]
-    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used. [72%, 27%]
-    12. **Default Article Text** This field allows you to set default article text for all features in the widget. If this is not changed from its default, then the article's introductory text is used. [76%, 27%]
-    13. **Default Article Image** Determines which image field the widget will default to when locating an image for the feature. [81%, 27%]
-    14. **Default Link** Determines which link field the widget will default to when locating a link for the feature. [85%, 27%]
+:   1. **Theme** This sets the theme for displaying features in the widget. [11%, 08%, ne]
+    2. **Display Limit** The amount of articles to show when rendering. [15%, 08%, ne]
+    3. **Columns** Sets the number of columns articles are displayed in. [20%, 08%, ne]
+    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's article display. [25%, 08%, ne]
+    5. **Strip HTML Tags** This option removes HTML tags from the description of an article. [29%, 08%, ne]
+    6. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [34%, 08%, ne]
+    7. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the widget. [38%, 08%, ne]
+    8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 08%, ne]
+    9. **Ordering** Ordering options available to users on the frontend. [52%, 08%, ne]
+    10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates. [58%, 08%, ne]
+    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used. [72%, 08%, ne]
+    12. **Default Article Text** This field allows you to set default article text for all features in the widget. If this is not changed from its default, then the article's introductory text is used. [76%, 08%, ne]
+    13. **Default Article Image** Determines which image field the widget will default to when locating an image for the feature. [81%, 08%, ne]
+    14. **Default Link** Determines which link field the widget will default to when locating a link for the feature. [85%, 08%, ne]
 
 1. **Theme** sets the theme for displaying features in the widget.
 
