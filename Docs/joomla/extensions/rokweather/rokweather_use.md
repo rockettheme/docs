@@ -14,10 +14,10 @@ RokWeather is a highly configurable module that allows you to control the variou
 
 ![][options3]
 
-:   1. **Sources** Choose between Yahoo or Wunderground. [28%, 4%]
-    2. **Default Location** Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO. [48%, 4%]
-    3. **Location Display Override** This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town. [56%, 4%]
-    4. **Forecast Items to Show** This setting determines how many days ahead the module will display a forecast for. [77%, 4%]
+:   1. **Sources** Choose between Yahoo or Wunderground. [30%, 64%, sw]
+    2. **Default Location** Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO. [50%, 64%, sw]
+    3. **Location Display Override** This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town. [59%, 64%, sw]
+    4. **Forecast Items to Show** This setting determines how many days ahead the module will display a forecast for. [79%, 64%, sw]
 
 1. **Sources**: Choose between Yahoo or Wunderground. For Wunderground, you will need to sign up to their API and enter their reference in the API key field: [http://www.wunderground.com/][wunderground]
 
@@ -31,15 +31,15 @@ RokWeather is a highly configurable module that allows you to control the variou
 
 ![][options2]
 
-:   1. **Default Degree Type** Choose between degree Celsius or Fahrenheit for the default temperature reading. [12%, 4%]
-    2. **User interaction** This parameter allows to disable user interaction so they cannot change the location and weather data. [20%, 4%]
-    3. **Enable Units Switch** This option allows you to configure whether the Celsius/Fahrenheit switch is displayed. [29%, 4%]
-    4. **Enable Location Cookie** A cookie is created when a user enters a location which will be stored for when the user visits again. This option allows you to disable the setting of a cookie, and therefore, the default location will be shown on each refresh. [38%, 4%]
-    5. **Enable Icon Display** Determine whether or not the weather icon displays in the top left of the module. [46%, 4%]
-    6. **Enable Humidity Display** An option to display humidity for the selected location. [54%, 4%]
-    7. **Enable Wind Display** An option to display wind data for the selected location. [63%, 4%]
-    8. **Default Windspeed Type** Determine what units to display for wind speed, either MPH, KPH or KTS. [71%, 4%]
-    9. **Enable Weather Forecasts** Enable the display of forecast weather data. [82%, 4%]
+:   1. **Default Degree Type** Choose between degree Celsius or Fahrenheit for the default temperature reading. [14%, 62%, se]
+    2. **User interaction** This parameter allows to disable user interaction so they cannot change the location and weather data. [22%, 62%, se]
+    3. **Enable Units Switch** This option allows you to configure whether the Celsius/Fahrenheit switch is displayed. [31%, 62%, se]
+    4. **Enable Location Cookie** A cookie is created when a user enters a location which will be stored for when the user visits again. This option allows you to disable the setting of a cookie, and therefore, the default location will be shown on each refresh. [40%, 62%, se]
+    5. **Enable Icon Display** Determine whether or not the weather icon displays in the top left of the module. [48%, 62%, se]
+    6. **Enable Humidity Display** An option to display humidity for the selected location. [56%, 62% se]
+    7. **Enable Wind Display** An option to display wind data for the selected location. [65%, 62%, se]
+    8. **Default Windspeed Type** Determine what units to display for wind speed, either MPH, KPH or KTS. [73%, 62%, se]
+    9. **Enable Weather Forecasts** Enable the display of forecast weather data. [84%, 62%, se]
 
 1. **Default Degree Type**: Choose between degree Celsius or Fahrenheit for the default temperature reading.
 
@@ -63,14 +63,14 @@ RokWeather is a highly configurable module that allows you to control the variou
 
 ![][options1]
 
-:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [16%, 4%]
-    2. **Caching** Selects whether or not to cache the content of this module. [28%, 4%]
-    3. **Cache Time** This option sets the time between module recaching. [36%, 4%]
-    4. **Module Tag** This sets the HTML tag for the module. [47%, 4%]
-    5. **Bootstrap Size** This option specifies how many columns the module will use. [55%, 4%]
-    6. **Header Tag** This field sets the HTML tag for the module header/title. [63%, 4%]
-    7. **Header Class** This field sets the CSS class for the module header/title. [71%, 4%]
-    8. **Module Style** This option allows for an override of the template style for its position. [79%, 4%]
+:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [18%, 45%, se]
+    2. **Caching** Selects whether or not to cache the content of this module. [30%, 80%, sw]
+    3. **Cache Time** This option sets the time between module recaching. [38%, 45%, se]
+    4. **Module Tag** This sets the HTML tag for the module. [49%, 80%, sw]
+    5. **Bootstrap Size** This option specifies how many columns the module will use. [57%, 45%, se]
+    6. **Header Tag** This field sets the HTML tag for the module header/title. [65%, 80%, sw]
+    7. **Header Class** This field sets the CSS class for the module header/title. [73%, 45%, se]
+    8. **Module Style** This option allows for an override of the template style for its position. [81%, 80%, sw]
 
 1. **Module Class Suffix**: A suffix applied to the CSS class of the module. This allows for individual module styling.
 

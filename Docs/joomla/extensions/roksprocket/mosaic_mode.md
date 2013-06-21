@@ -11,13 +11,13 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 
 ![][mosaic_1]
 
-:   1. **Title** This is the title of your module. [16%, 08%]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [14%, 45%]
-    3. **Status** Sets the publishing status for the module. [21%, 45%]
-    4. **Access** Sets the access level for the module. [16%, 68%]
-    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [53%, 50%]
-    6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [47%, 85%]
-    7. **Content Filter Rules** Sets the content filter rules for the module. [56%, 78%]
+:   1. **Title** This is the title of your module. [19%, 13%, se]
+    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [19%, 59%, se]
+    3. **Status** Sets the publishing status for the module. [26%, 64%, nw]
+    4. **Access** Sets the access level for the module. [19%, 85%, sw]
+    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [53%, 50%, sw]
+    6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [52%, 82%, sw]
+    7. **Content Filter Rules** Sets the content filter rules for the module. [62%, 79%, sw]
 
 1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the module should appear in.
 
@@ -43,20 +43,20 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][mosaic_2]
 
-:   1. **Theme** This sets the theme for displaying features in the module. [11%, 27%]
-    2. **Display Limit** The amount of articles to show when rendering. [15%, 27%]
-    3. **Columns** Sets the number of columns articles are displayed in. [20%, 27%]
-    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [25%, 27%]
-    5. **Strip HTML Tags** This option removes HTML tags from the description of an article. [29%, 27%]
-    6. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [34%, 27%]
-    7. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the module. [38%, 27%]
-    8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 27%]
-    9. **Ordering** Ordering options available to users on the frontend. [52%, 27%]
-    10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates. [61%, 27%]
-    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used. [72%, 27%]
-    12. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [76%, 27%]
-    13. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 27%]
-    14. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 27%]
+:   1. **Theme** This sets the theme for displaying features in the module. [13%, 50%, sw]
+    2. **Display Limit** The amount of articles to show when rendering. [16%, 72%, sw]
+    3. **Columns** Sets the number of columns articles are displayed in. [21%, 48%, sw]
+    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [25%, 72%, sw]
+    5. **Strip HTML Tags** This option removes HTML tags from the description of an article. [30%, 43%, se]
+    6. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [35%, 69%, sw]
+    7. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the module. [40%, 43%, se]
+    8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 78%, sw]
+    9. **Ordering** Ordering options available to users on the frontend. [52%, 78%, sw]
+    10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates. [62%, 44%, se]
+    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used. [73%, 42%, se]
+    12. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 65%, sw]
+    13. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 42%, se]
+    14. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 65%, sw]
 
 1. **Theme** sets the theme for displaying features in the module.
 

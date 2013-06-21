@@ -11,9 +11,9 @@ Next, go to **Extensions → Plug-in Manager**. From the list, find **Editor - R
 #### Details Tab
 ![][details]
 
-:   1. **Status** Enables or disables the RokPad extension. [27%, 13%]
-    2. **Access** Sets the access level, determining which user groups have access to the RokPad editor. [33%, 13%]
-    3. **Ordering** Sets the order at which RokPad appears in the editor list. This has little to no impact on user experience. [39%, 13%]
+:   1. **Status** Enables or disables the RokPad extension. [29%, 29%, sw]
+    2. **Access** Sets the access level, determining which user groups have access to the RokPad editor. [35%, 18%, se]
+    3. **Ordering** Sets the order at which RokPad appears in the editor list. This has little to no impact on user experience. [41%, 34%, sw]
 
 1. **Status** Enables or disables the RokPad extension.
 
@@ -24,19 +24,19 @@ Next, go to **Extensions → Plug-in Manager**. From the list, find **Editor - R
 #### Core Options Tab
 ![][core]
 
-:   1. **Enable Auto-Save** Enables or disables the automatic save feature in RokPad. [12%, 22%]
-    2. **Auto-Save Every** Sets the duration between autosaves. [18%, 22%]
-    3. **Theme** Sets the theme you'd like to have applied to the RokPad editor. [30%, 22%]
-    4. **Font size** Sets the font size within RokPad. [36%, 22%]
-    5. **Code Folding** Determines how RokPad handles code folding. [41%, 22%]
-    6. **Soft Wrap** Allows long lines to wrap so they're entirely in view without sidescrolling. [47%, 22%]
-    7. **Full Line Selection** Determines how RokPad handles selections. [52%, 22%]
-    8. **Highlight Active Line** Sets whether or not the current line should be highlighted. [58%, 22%]
-    9. **Highlight Active Word** Allows matching words to be highlighted when a word is selected. [63%, 22%]
-    10. **Show Invisibles** Shows or hides invisible characters such as new lines and spaces. [69%, 22%]
-    11. **Show Gutter** Shows or hides the gutter, which gives the lines number on the left side of the editor. [75%, 22%]
-    12. **Show Print Margin** Shows or hides the print margin in the editor. [80%, 22%]
-    13. **Autohide Fold Widget** Determines if the fold widgets next to the gutter should be automatically hidden or always visible. [85%, 22%]
+:   1. **Enable Auto-Save** Enables or disables the automatic save feature in RokPad. [13%, 49%, sw]
+    2. **Auto-Save Every** Sets the duration between autosaves. [18%, 40%, se]
+    3. **Theme** Sets the theme you'd like to have applied to the RokPad editor. [31%, 54%, sw]
+    4. **Font size** Sets the font size within RokPad. [37%, 40%, se]
+    5. **Code Folding** Determines how RokPad handles code folding. [42%, 65%, sw]
+    6. **Soft Wrap** Allows long lines to wrap so they're entirely in view without sidescrolling. [48%, 49%, sw]
+    7. **Full Line Selection** Determines how RokPad handles selections. [53%, 40%, se]
+    8. **Highlight Active Line** Sets whether or not the current line should be highlighted. [59%, 49%, sw]
+    9. **Highlight Active Word** Allows matching words to be highlighted when a word is selected. [64%, 40%, se]
+    10. **Show Invisibles** Shows or hides invisible characters such as new lines and spaces. [70%, 48%, sw]
+    11. **Show Gutter** Shows or hides the gutter, which gives the lines number on the left side of the editor. [75%, 40%, se]
+    12. **Show Print Margin** Shows or hides the print margin in the editor. [81%, 49%, sw]
+    13. **Autohide Fold Widget** Determines if the fold widgets next to the gutter should be automatically hidden or always visible. [86%, 40%, se]
 
 1. **Enable Auto-Save** enables or disables the automatic save feature in RokPad.
 

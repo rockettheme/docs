@@ -1,111 +1,102 @@
 ---
 title: RokAjaxSearch
-description: Your Guide to Using RokAjaxSearch for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!!rokajaxsearch:RokAjaxSearch
+description: Your Guide to Using RokAjaxSearch for Joomla
+breadcrumb: /joomla:Joomla/extensions:Extensions/!rokajaxsearch:RokAjaxSearch
 
 ---
 
-Plugin Settings
+Module Settings
 -----
-Getting to the primary RokAjaxSearch settings menu is fairly straightforward. While RokAjaxSearch is identified as a widget, it is centrally managed via its Plugins page which can be found (once it is activated) under the Plugins area of the main Admin menu on the backend of WordPress. This settings page has a variety of different customization commands and options for you to choose from.
+Getting to the primary RokAjaxSearch settings menu is fairly straightforward. Once the module is created using the **New Module** tool in Joomla's **Module Manager**, you can select from a wide variety of options to refine its look and functionality.
 
-![][plugin2]
+### Options
+The **Options** area of the greater RokAjaxSearch settings menu has a long list of different settings to choose from. This is where you set the module's look and determine how it will function. The options menu is split into several different subcategories in order to make navigation easier. You can choose different Basic, Style, Advanced, Google, and other settings to make RokAjaxSearch function in a way that fits your specific site's needs.
 
-All settings set through this page affect every instance of the RokAjaxSearch widget. The widget itself can only be given a custom title by default, with other display options available via a separate plugin (such as Gantry).
+For the interest of this guide, we've broken the **Options** menu into several sections and detailed what various options make possible.
 
-![][plugin1]
+![][settings1]
 
-:   1. **Preset Themes** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [11%, 4%, ne]
-    2. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work. [14%, 4%, ne]
-    3. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [18%, 4%, ne]
-    4. **Show Description** Set to yes to show a description with each search result. [22%, 4%, ne]
-    5. **Show Read More** Set whether the Read More link should be display. [26%, 4%, ne]
-    6. **Read More Label** Set a label you'd like to have displayed for the **Read More** link. [29%, 4%, ne]
-    7. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [33%, 4%, ne]
-    8. **Display Content** Gives you access to item-specific settings for the articles title, description, image, and link. [37%, 4%, ne]
-    9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [40%, 4%, ne]
-    10. **Items Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [44%, 4%, ne]
-    11. **Limit Items** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [48%, 4%, ne]
-    12. **Google Web Search** When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work. [51%, 4%, ne]
-    13. **Google Blog Search** When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work. [55%, 4%, ne]
-    14. **Google Image Search** When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work. [58%, 4%, ne]
-    15. **Google Video Search** When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work. [62%, 4%, ne]
-    16. **Image Size to Search** Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large. [66%, 4%, ne]
-    17. **Safe Search** Choose between the different Google preferences, either Strict, Moderate or Off. [70%, 4%, ne]
-    18. **Show Pagination** Set to Yes to show pagination for search results. [73%, 4%, ne]
-    19. **Show Category** Sets the content filter rules for the widget. [77%, 4%, ne]
-    20. **Show Estimated** Show the estimated result for Google searches. [80%, 4%, ne]
-    21. **Include Link** Set to yes to show a link to all search results. [84%, 4%, ne]
+:   1. **Search page URL** This field sets the relative path of your search page. [27%, 10%, se]
+    2. **Advanced Search page URL** This field sets the relative path of your advanced search page. [33%, 10%, se]
+    3. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work. [46%, 10%, se]
+    4. **Theme Style** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [55%, 10%, se]
+    5. **Searchphrase** This option allows you to choose whether the phrase entered into the search bar is returned with any words, all words, or exact phrase matches. [68%, 10%, se]
+    6. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [74%, 10%, se]
+    7. **Limit** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [80%, 10%, se]
+    8. **Results Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [86%, 10%, se]
 
-1. **Preset Themes**: Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module.
+1. **Search page URL**: This field sets the relative path of your search page.
 
-2. **Load Default CSS**: The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work.
+2. **Advanced Search page URL**: This field sets the relative path of your advanced search page.
 
-3. **Google API**: This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key.
+3. **Load Default CSS**: The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work.
 
-4. **Show Description**: Set to yes to show a description with each search result.
+4. **Theme Style**: Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module.
 
-5. **Show Read More**: Set whether the Read More link should be display.
+5. **Searchphrase**: This option allows you to choose whether the phrase entered into the search bar is returned with any words, all words, or exact phrase matches.
 
-6. **Read More Label**: Set a label you'd like to have displayed for the **Read More** link.
+6. **Order**: Set the order of the search results. For example, if you set to Oldest First then 
+the oldest item will be loaded in the search result. There are a variety of options to chose from.
 
-7. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*.
+7. **Limit**: Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
 
-8. **Display Content**: Gives you access to item-specific settings for the articles title, description, image, and link.
+8. **Results Per Page**: Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
 
-9. **Order**: Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from.
+![][settings2]
 
-10. **Items Per Page**: Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
+:   1. **Google Web Search** When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work. [13%, 12%, se]
+    2. **Google Blog Search** When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work. [21%, 12%, se]
+    3. **Google Image Search** When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work. [29%, 12%, se]
+    4. **Google Video Search** When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work. [38%, 12%, se]   
+    5. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [47%, 12%, se]
+    6. **Show Pagination** Set to Yes to show pagination for search results. [52%, 12%, se]
+    7. **Google Safe Search** This option allows you to set strict, moderate, or no safe search using Google Safe Search. [60%, 12%, se]
+    8. **Image Size to Search** Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large. [71%, 12%, se]
+    9. **Show Estimated** Show the estimated result for Google searches. [85%, 12%, se]
 
-11. **Limit Items**: Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
+1. **Google Web Search**: When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work.
 
-12. **Google Web Search**: When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work.
+2. **Google Blog Search**: When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work.
 
-13. **Google Blog Search**: When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work.
+3. **Google Image Search**: When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work.
+    
+4. **Google Video Search**: When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work.
 
-14. **Google Image Search**: When enabled, an option will appear in the module to search Google Image Search. The API key needs to be correctly completed for this to work.
+5. **Google API**: This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key.
+    
+6. **Show Pagination**: Set to Yes to show pagination for search results.
 
-15. **Google Video Search**: When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work.
+7. **Google Safe Search**: This option allows you to set strict, moderate, or no safe search using Google Safe Search.
 
-16. **Image Size to Search**: Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large.
+8. **Image Size to Search**: Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large.
 
-17. **Safe Search**: Choose between the different Google preferences, either Strict, Moderate or Off.
+9. **Show Estimated**: Show the estimated result for Google searches.
 
-18. **Show Pagination**: Set to Yes to show pagination for search results.
+![][settings3]
 
-19. **Show Category**: Sets the content filter rules for the widget.
+:   1. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [24%, 13%, se]
+    2. **Link to All Results** Set to yes to show a link to all search results. [32%, 13%, se]
+    3. **Show Description** Set to yes to show a description with each search result. [45%, 13%, se]
+    4. **Show Category** Sets the content filter rules for the module. [59%, 13%, se]
+    5. **Show Read More** Set whether the Read More link should be display. [73%, 13%, se]
 
-20. **Show Estimated**: Show the estimated result for Google searches.
+1. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [24%, 13%, se]
 
-21. **Include Link**: Set to yes to show a link to all search results.
+2. **Link to All Results**: Set to yes to show a link to all search results. [32%, 13%, se]
 
-Widget Settings
------
-![][gantrywidget]
+3. **Show Description**: Set to yes to show a description with each search result. [45%, 13%, se]
 
-:   1. **Title** If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate. [14%, 10%, ne]
+4. **Show Category**: Sets the content filter rules for the module. [59%, 13%, se]
 
-1. **Title**: If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate.
-
-All other options listed in the above image are added via Gantry. If you are using a theme build on [Gantry framework][gantry], then these options may allow you some additional variations on the widget's appearance and positioning. Here is a quick look at these options:
-
-* **Widget Style**: Sets the widget style for the gallery. You can choose from Flush, Flush Bottom, or Flush Top.
-* **Box Variation**: Sets a background look for the widget box, based on the active theme.
-* **Title Variation**: Allows you to choose from different title variations, based on the theme.
-* **Shadow Variation**: Allows you to choose from different shadow appearances, based on the theme.
-* **Corner Variation**: Allows you to choose from different corner appearances, based on the theme.
-* **Align Variation**: Allows you to choose from different alignment variations, based on the theme.
-* **Margin Variation**: Allows you to choose from different margin variations, based on the theme.
-* **Padding Variation**: Allows you to choose from different padding options.
-* **Title Style**: Allows for standardcase, uppercase, and lowercase titling. 
-* **Custom Chrome**: Allows you to decide between basic, menu, and standard custom chrome options. This is theme-specific.
-* **Custom Variations**: This field allows you to add custom variations, determined in the theme's primary LESS file.
-
+5. **Show Read More**: Set whether the Read More link should be display. [73%, 13%, se]
 
 [featured]: assets/rokajaxsearch.png
-[rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download
-[plugin1]: assets/wp_rokajaxsearch_plugin_1.png
-[plugin2]: assets/wp_rokajaxsearch_plugin_2.png
-[gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.png
+[rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch
+[settings1]: assets/rokajaxsearch_settings_1.png
+[settings2]: assets/rokajaxsearch_settings_2.png
+[settings3]: assets/rokajaxsearch_settings_3.png
+[module]: assets/rokajaxsearch_module_1.png
+[advanced]: assets/rokajaxsearch_advanced.png
+[gantrymodule]: assets/wp_rokajaxsearch_gantrymodule.png
 [googleapi]: http://code.google.com/apis/ajaxsearch/signup.html
 [gantry]: http://gantry-framework.org

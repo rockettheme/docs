@@ -48,7 +48,7 @@ Once installation is complete, you'll receive a message (shown above) indicating
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
-[featured]: assets/wp_rokajaxsearch.png
+[featured]: assets/rokajaxsearch.png
 [rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.png
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.png

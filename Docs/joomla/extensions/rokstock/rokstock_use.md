@@ -21,16 +21,16 @@ Administrator Options
 ### Details
 ![][rokstock_setup_2]
 
-:   1. **Title** This is the title of your module. [22%, 15%]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [29%, 15%]
-    3. **Position** Sets the publishing status for the module. [35%, 15%]
-    4. **Status** Determines the publishing status of the module. [45%, 15%]
-    5. **Access** Sets the access level for the module. [51%, 15%]
-    6. **Ordering** Sets the ordering for the module. [57%, 15%]
-    7. **Start Publishing** Determines when the module should be published on your site. [63%, 15%]
-    8. **Finish Publishing** Sets an end date/time for your module to appear on the frontend. [70%, 15%]
-    9. **Language** Allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site. [77%, 15%]
-    10. **Note** A place to jot down a note which appears in the module list on the backend. [83%, 15%]
+:   1. **Title** This is the title of your module. [24%, 39%, sw]
+    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [31%, 30%, sw]
+    3. **Position** Sets the publishing status for the module. [37%, 43%, sw]
+    4. **Status** Determines the publishing status of the module. [47%, 43%, sw]
+    5. **Access** Sets the access level for the module. [54%, 38%, sw]
+    6. **Ordering** Sets the ordering for the module. [60%, 22%, se]
+    7. **Start Publishing** Determines when the module should be published on your site. [66%, 38%, sw]
+    8. **Finish Publishing** Sets an end date/time for your module to appear on the frontend. [73%, 22%, se]
+    9. **Language** Allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site. [79%, 38%, sw]
+    10. **Note** A place to jot down a note which appears in the module list on the backend. [86%, 22%, se]
 
 1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look.
 
@@ -55,14 +55,14 @@ Administrator Options
 ### Basic Options
 ![][rokstock_setup_3]
 
-:   1. **Default Stocks** The module displays the stock information of a valid stock title. This option decides what stock information is displayed in the module. Separate stock titles by a comma to show multiple stocks. For example, .DJI, .INX, .IXIC will display stock information from Dow Jones Industrial Average, S&P 500 INDEX, and NASDAQ COMPOSITE.  [24%, 5%]
-    2. **User Interaction** You can set this parameter to allow the user to interact with RokStock in the frontend. If enabled, the user can add, remove, reorder the stocks. All modifications will be visible to the user only. [30%, 5%]
-    3. **Save/Restore Status** When enabled, this option stores the users modification in the frontend, like the stock index they added, remove, or reordered details in a cookie. It changes when the cookie has expired.  [38%, 5%]
-    4. **Store Duration (days)** This parameter is self explanatory. You can set the duration in days for the cookie to be kept.  [46%, 5%]
-    5. **Open links in new page** You can set this parameter to define whether the stock information page should be opened in a new window or the same window, when the user click on the stock index title. [52%, 5%]
-    6. **Show main chart** At the top of the module you can see the graphic chart. When enable, the module will display the graphic chart.  [60%, 5%]
-    7. **Tooltips Details** If this parameter is enabled, when the users hovers over the stock index title, it will show its details. [68%, 5%]
-    8. **Tooltips time axis hours** This is the parameter controls whether the time format, that appears via tooltips, is in the 12h or the 24hr format. [76%, 5%]
+:   1. **Default Stocks** The module displays the stock information of a valid stock title. This option decides what stock information is displayed in the module. Separate stock titles by a comma to show multiple stocks. For example, .DJI, .INX, .IXIC will display stock information from Dow Jones Industrial Average, S&P 500 INDEX, and NASDAQ COMPOSITE.  [24%, 65%, sw]
+    2. **User Interaction** You can set this parameter to allow the user to interact with RokStock in the frontend. If enabled, the user can add, remove, reorder the stocks. All modifications will be visible to the user only. [32%, 32%, se]
+    3. **Save/Restore Status** When enabled, this option stores the users modification in the frontend, like the stock index they added, remove, or reordered details in a cookie. It changes when the cookie has expired.  [40%, 32%, se]
+    4. **Store Duration (days)** This parameter is self explanatory. You can set the duration in days for the cookie to be kept.  [48%, 32%, se]
+    5. **Open links in new page** You can set this parameter to define whether the stock information page should be opened in a new window or the same window, when the user click on the stock index title. [54%, 32%, se]
+    6. **Show main chart** At the top of the module you can see the graphic chart. When enable, the module will display the graphic chart.  [62%, 32%, se]
+    7. **Tooltips Details** If this parameter is enabled, when the users hovers over the stock index title, it will show its details. [71%, 32%, se]
+    8. **Tooltips time axis hours** This is the parameter controls whether the time format, that appears via tooltips, is in the 12h or the 24hr format. [79%, 32%, se]
 
 RokStock is a highly configurable module that allows you to control the various aspects of its appearance and functions. Details of each options are as follows:-
 
@@ -85,14 +85,14 @@ RokStock is a highly configurable module that allows you to control the various 
 ### Advanced Options
 ![][rokstock_setup_4]
 
-:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [34%, 4%]
-    2. **Caching** Selects whether or not to cache the content of this module. [43%, 4%]
-    3. **Cache Time** This option sets the time between module recaching. [49%, 4%]
-    4. **Module Tag** This sets the HTML tag for the module. [56%, 4%]
-    5. **Bootstrap Size** This option specifies how many columns the module will use. [62%, 4%]
-    6. **Header Tag** This field sets the HTML tag for the module header/title. [68%, 4%]
-    7. **Header Class** This field sets the CSS class for the module header/title. [75%, 4%]
-    8. **Module Style** This option allows for an override of the template style for its position. [81%, 4%]
+:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [34%, 61%, sw]
+    2. **Caching** Selects whether or not to cache the content of this module. [44%, 35%, se]
+    3. **Cache Time** This option sets the time between module recaching. [51%, 60%, sw]
+    4. **Module Tag** This sets the HTML tag for the module. [58%, 34%, se]
+    5. **Bootstrap Size** This option specifies how many columns the module will use. [64%, 60%, sw]
+    6. **Header Tag** This field sets the HTML tag for the module header/title. [70%, 34%, se]
+    7. **Header Class** This field sets the CSS class for the module header/title. [77%, 60%, sw]
+    8. **Module Style** This option allows for an override of the template style for its position. [83%, 34%, se]
 
 1. **Module Class Suffix**: A suffix applied to the CSS class of the module. This allows for individual module styling.
 

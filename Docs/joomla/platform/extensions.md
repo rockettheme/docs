@@ -42,8 +42,8 @@ Alternatively, you can opt to install directly from a folder hosted on your Web 
 
 ![][upload_extension1]
 
-:   1. **Extensions** This will open the Extensions drop-down menu in Administrator. [10%, 61%, nw]
-    2. **Extension Manager** This will open the Extension Manager where you can install any extension packages. [16%, 62%, ne]
+:   1. **Extensions** This will open the Extensions drop-down menu in Administrator. [12%, 72%, nw]
+    2. **Extension Manager** This will open the Extension Manager where you can install any extension packages. [17%, 65%, ne]
 
 The first step to installing an extension using the **Upload Package File** method is to access the Extensions manager. This can be done through **Administrator > Extensions > Extension Manager** from the top menu.
 
@@ -51,11 +51,11 @@ If you don't see the **Install** page (see the figure below), you can navigate t
 
 ![][upload_extension2]
 
-:   1. **Upload Package File** This is the most common way to install extensions. [25%, 28%, sw]
-    2. **Install from Directory** Useful if you're installing an unzipped extension from a server directory. [25%, 43%, sw]
-    3. **Install from URL** Useful if you need to install from an external Web server. [25%, 55%, sw]
-    4. **Browse** This will open a file manager window you can use to point to the extension package file on your hard drive. [42%, 85%, sw]
-    5. **Upload and Install** Click this button after you've selected the package file from point 4. [57%, 35%, ne]
+:   1. **Upload Package File** This is the most common way to install extensions. [30%, 28%, sw]
+    2. **Install from Directory** Useful if you're installing an unzipped extension from a server directory. [30%, 43%, sw]
+    3. **Install from URL** Useful if you need to install from an external Web server. [30%, 55%, sw]
+    4. **Browse** This will open a file manager window you can use to point to the extension package file on your hard drive. [49%, 90%, sw]
+    5. **Upload and Install** Click this button after you've selected the package file from point 4. [60%, 40%, ne]
 
 From there, you'll be able to upload the package file directly by selecting *Browse* within the *Upload Package File* tab of the Extension Manager. 
 
@@ -80,11 +80,11 @@ To access the Update menu, navigate to **Administrator > Extensions > Extension 
 
 ![][update_extension1]
 
-:   1. **Update** Navigate to the Update menu from within the Extension Manager. [38%, 11%, nw]
-    2. Select the extension(s) you wish to update. [46%, 22%, ne]
-    3. **Update** This button applies the discovered updates to selected extensions. [20%, 7%, nw]
-    4. **Find Updates and Purge Cache* This will scan your extensions for available updates. Purge cache will refresh your update cache. [20%, 23%, nw]
-    5. **Options** Allows you to set update permissions and cache cycle times. [20%, 37%, nw]
+:   1. **Update** Navigate to the Update menu from within the Extension Manager. [40%, 11%, nw]
+    2. Select the extension(s) you wish to update. [49%, 25%, ne]
+    3. **Update** This button applies the discovered updates to selected extensions. [22%, 11%, nw]
+    4. **Find Updates and Purge Cache* This will scan your extensions for available updates. Purge cache will refresh your update cache. [22%, 29%, nw]
+    5. **Options** Allows you to set update permissions and cache cycle times. [22%, 41%, nw]
 
 From there, you'll want to hit the **Find Updates** button (point 4) to get a complete list of extensions. If you know an extension has an available update, and it doesn't appear in this list, you can try selecting **Purge Cache** (point 4) which will remove the existing update cache and refresh the list.
 

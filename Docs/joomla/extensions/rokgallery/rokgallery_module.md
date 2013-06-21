@@ -18,16 +18,16 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 #### Details
 ![][details]
 
-:   1. **Title** This is the title of your module. [22%, 20%, ne]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [29%, 20%, ne]
-    3. **Position** Sets the publishing status for the module. [35%, 20%, ne]
-    4. **Status** Determines the publishing status of the module. [45%, 20%, ne]
-    5. **Access** Sets the access level for the module. [51%, 20%, ne]
-    6. **Ordering** Sets the ordering for the module. [57%, 20%, ne]
-    7. **Start Publishing** Determines when the module should be published on your site. [63%, 20%, ne]
-    8. **Finish Publishing** Sets an end date/time for your module to appear on the frontend. [70%, 20%, ne]
-    9. **Language** Allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site. [77%, 20%, ne]
-    10. **Note** A place to jot down a note which appears in the module list on the backend. [83%, 20%, ne]
+:   1. **Title** This is the title of your module. [24%, 44%, sw]
+    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [30%, 34%, sw]
+    3. **Position** Sets the publishing status for the module. [36%, 48%, sw]
+    4. **Status** Determines the publishing status of the module. [46%, 23%, se]
+    5. **Access** Sets the access level for the module. [53%, 43%, sw]
+    6. **Ordering** Sets the ordering for the module. [59%, 23%, se]
+    7. **Start Publishing** Determines when the module should be published on your site. [65%, 42%, sw]
+    8. **Finish Publishing** Sets an end date/time for your module to appear on the frontend. [72%, 23%, se]
+    9. **Language** Allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site. [79%, 43%, sw]
+    10. **Note** A place to jot down a note which appears in the module list on the backend. [85%, 23%, se]
 
 1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look.
 
@@ -52,16 +52,16 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 #### Basic
 ![][rokgallery_module_basic_1]
 
-:   1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences. [29%, 29%, ne]
-    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all. [33%, 29%, ne]
-    3. **Default Linked Item** If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to. [38%, 29%, ne]
-    4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [43%, 29%, ne]
-    5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [48%, 29%, ne]
-    6. **Sort By** This option sets the default sorting order for images in the gallery. [52%, 29%, ne]
-    7. **Sort Direction** You can choose to have items sorted in ascending or descending order based on the **Sort By** setting. [57%, 29%, ne]
-    8. **Slice Limit** You can set the limit of slices which appear in the gallery. [62%, 29%, ne]
-    9. **Gallery Style** This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the module. [67%, 29%, ne]
-    10. **Gallery Layout** Galleries can be laid out in a Grid, Slideshow, or Showcase pattern. [72%, 29%, ne]
+:   1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences. [30%, 72%, sw]
+    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
+    3. **Default Linked Item** If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to. [39%, 60%, sw]
+    4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [44%, 32%, se]
+    5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [49%, 60%, sw]
+    6. **Sort By** This option sets the default sorting order for images in the gallery. [53%, 32%, se]
+    7. **Sort Direction** You can choose to have items sorted in ascending or descending order based on the **Sort By** setting. [58%, 60%, sw]
+    8. **Slice Limit** You can set the limit of slices which appear in the gallery. [63%, 32%, se]
+    9. **Gallery Style** This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the module. [67%, 60%, sw]
+    10. **Gallery Layout** Galleries can be laid out in a Grid, Slideshow, or Showcase pattern. [72%, 32%, se]
 
 1. **Gallery**: This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences.
 
@@ -100,14 +100,14 @@ The Showcase layout works very similarly. You have the option to choose whether 
 #### Advanced
 ![][rokgallery_module_advanced]
 
-:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [39%, 29%, ne]
-    2. **Caching** Selects whether or not to cache the content of this module. [47%, 29%, ne]
-    3. **Cache Time** This option sets the time between module recaching. [53%, 29%, ne]
-    4. **Module Tag** This sets the HTML tag for the module. [61%, 29%, ne]
-    5. **Bootstrap Size** This option specifies how many columns the module will use. [66%, 29%, ne]
-    6. **Header Tag** This field sets the HTML tag for the module header/title. [72%, 29%, ne]
-    7. **Header Class** This field sets the CSS class for the module header/title. [78%, 29%, ne]
-    8. **Module Style** This option allows for an override of the template style for its position. [83%, 29%, ne]
+:   1. **Module Class Suffix** This is a suffix applied to the CSS class of the module. This allows for individual module styling. [40%, 60%, sw]
+    2. **Caching** Selects whether or not to cache the content of this module. [48%, 60%, sw]
+    3. **Cache Time** This option sets the time between module recaching. [54%, 33%, se]
+    4. **Module Tag** This sets the HTML tag for the module. [62%, 60%, sw]
+    5. **Bootstrap Size** This option specifies how many columns the module will use. [68%, 33%, se]
+    6. **Header Tag** This field sets the HTML tag for the module header/title. [73%, 60%, sw]
+    7. **Header Class** This field sets the CSS class for the module header/title. [79%, 33%, se]
+    8. **Module Style** This option allows for an override of the template style for its position. [84%, 60%, sw]
 
 1. **Module Class Suffix**: A suffix applied to the CSS class of the module. This allows for individual module styling.
 

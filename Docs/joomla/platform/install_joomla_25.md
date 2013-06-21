@@ -68,13 +68,13 @@ At this point, you'll be asked to agree to the GNU General Public License that J
 
 ![][installation_j25_4]
 
-:   1. **Database Type** Select your preferred database type (MySQLi, MySQL, PostgreSQL, or MSSQL) from the list. [35%, 44%, ne]
-    2. **Host Name** Where is your database hosted? [41%, 44%, ne]
-    3. **Username** What is your database username? [47%, 44%, ne]
-    4. **Password** What is your database password? [53%, 44%, ne]
-    5. **Database Name** What is the name of your new or existing database you wish to use for Joomla? [59%, 44%, ne]
-    6. **Table Prefix** What would you like the table prefix to be for any Joomla tables in the database? [66%, 44%, ne]
-    7. **Old Database Process** Do you want to back up or remove existing database information from previous Joomla installations? [75%, 44%, ne]
+:   1. **Database Type** Select your preferred database type (MySQLi, MySQL, PostgreSQL, or MSSQL) from the list. [35%, 46%, ne]
+    2. **Host Name** Where is your database hosted? [41%, 46%, ne]
+    3. **Username** What is your database username? [47%, 46%, ne]
+    4. **Password** What is your database password? [53%, 46%, ne]
+    5. **Database Name** What is the name of your new or existing database you wish to use for Joomla? [59%, 46%, ne]
+    6. **Table Prefix** What would you like the table prefix to be for any Joomla tables in the database? [67%, 46%, ne]
+    7. **Old Database Process** Do you want to back up or remove existing database information from previous Joomla installations? [75%, 46%, ne]
 
 The fourth step of this process is also perhaps one of the most important. The **Database Configuration** page is where you enter the database type, host name, username, password, database name, and table prefix you would like to use for Joomla.
 
@@ -96,9 +96,9 @@ The next step involves FTP configuration. Don't panic, this isn't a vital step i
 
 ![][installation_j25_6]
 
-:   1. **Site Name** What do you want the name of your site to be? [30%, 43%, ne]
-    2. **Site Offline** This is where you determine whether the site should be online after installation, or made available to visitors right away. [53%, 43%, ne]
-    3. **Username** What is your database username? [70%, 43%, ne]
+:   1. **Site Name** What do you want the name of your site to be? [32%, 46%, ne]
+    2. **Site Offline** This is where you determine whether the site should be online after installation, or made available to visitors right away. [55%, 46%, ne]
+    3. **Username** What is your database username? [70%, 46%, ne]
 
 The **Main Configuration** page is where you name your site (point 1) and set up your administrator account. Here, you can name your site and set up the meta description and keywords you wish to have search engines use to rank and list your content. You can also opt to have the site taken offline (login credentials required to view) while you work on it (point 2).
 
@@ -108,7 +108,7 @@ At the bottom of the page, you have the option to load sample data to your site.
 
 ![][installation_j25_7]
 
-:   1. **Site Name** What do you want the name of your site to be? [57%, 58%, ne]
+:   1. **Site Name** What do you want the name of your site to be? [60%, 61%, se]
 
 The final step in the process is aptly named "Finish." This page is where you remove the installation folder so your settings during initial setup are locked in. You will not be able to access your site until this step has been completed. Just select the *Remove Installation Folder* (point 1) and select either Site or Administrator to start building your new Joomla site.
 

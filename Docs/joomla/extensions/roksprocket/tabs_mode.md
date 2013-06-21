@@ -11,9 +11,9 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
 
 ![][tabs_1]
 
-:   1. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [40%, 50%]
-    2. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [32%, 82%]
-    3. **Content Filter Rules** Sets the content filter rules for the module. [44%, 78%]
+:   1. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [40%, 50%, sw]
+    2. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [38%, 80%, sw]
+    3. **Content Filter Rules** Sets the content filter rules for the module. [50%, 78%, sw]
 
 1. The **Filtered Article List** gives you access to item-specific settings including:
 
@@ -30,45 +30,45 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][tabs_2]
 
-:   1. **Theme** This sets the theme for displaying tabs in the module. [12%, 27%]
-    2. **Tabs Position** This option sets where in the module the tabs will appear. [16%, 27%]
-    3. **Display Limit** This option sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited. [22%, 27%]
-    4. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one tab to the next. [26%, 27%]
-    5. **Autoplay** Sets whether you want the module to start rolling through tabs automatically when the page loads, or to await a command from the visitor. [31%, 27%]
-    6. **Autoplay Delay** Sets the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [37%, 27%]
-    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [45%, 27%]
-    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [51%, 27%]
-    9.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [57%, 27%]
-    10. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used.  [68%, 27%]
-    11. **Default Icon** Determines which image the module will default to when locating an icon for the tab. [73%, 27%]
-    12. **Default Link** Determines which link field the module will default to when locating a link for the tab. [78%, 27%]
-    13. **Default Article Text** This field allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used. [83%, 27%]
+:   1. **Theme** This sets the theme for displaying tabs in the module. [13%, 49%, sw]
+    2. **Tabs Position** This option sets where in the module the tabs will appear. [19%, 42%, ne]
+    3. **Display Limit** This option sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited. [22%, 72%, sw]
+    4. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one tab to the next. [28%, 61%, sw]
+    5. **Autoplay** Sets whether you want the module to start rolling through tabs automatically when the page loads, or to await a command from the visitor. [33%, 54%, sw]
+    6. **Autoplay Delay** Sets the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [38%, 68%, sw]
+    7. **Image Resize** This option allows you to set a maximum width and/or height for the thumbnail. [46%, 43%, se]
+    8. **Preview Length** This option sets the length (in words) of the content preview for each item. [52%, 73%, sw]
+    9.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [57%, 49%, sw]
+    10. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used.  [69%, 66%, sw]
+    11. **Default Icon** Determines which image the module will default to when locating an icon for the tab. [74%, 43%, se]
+    12. **Default Link** Determines which link field the module will default to when locating a link for the tab. [79%, 66%, sw]
+    13. **Default Article Text** This field allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used. [84%, 43%, se]
 
 1. The **Theme** option sets the theme for displaying tabs in the module. This may not be adjustable, depending on the template.
 
-2. **Tabs Position** sets where in the module the tabs will appear. 
+2. **Tabs Position**: Sets where in the module the tabs will appear. 
 
-3. **Display Limit** sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited.
+3. **Display Limit**: Sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited.
 
-4. **Animation** gives you the ability to set the type of animation that happens during transitions from one tab to the next. 
+4. **Animation**: Gives you the ability to set the type of animation that happens during transitions from one tab to the next. 
 
-5. **Autoplay** sets whether you want the module to start rolling through tabs automatically when the page loads, or to await a command from the visitor.
+5. **Autoplay**: Sets whether you want the module to start rolling through tabs automatically when the page loads, or to await a command from the visitor.
 
-6. **Autoplay Delay** changes the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single article will be featured in the module.
+6. **Autoplay Delay**: Changes the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single article will be featured in the module.
 
-7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module.
+7. **Image Resize**: This option allows you to set a maximum width and/or height for the thumbnail.
 
-8. **Pagination** gives you control over whether or not you wish to show pagination.
+8. **Preview Length** This option sets the length (in words) of the content preview for each item.
 
-9. **Strip HTML Tags** removes or preserves HTML tags in the description of an article.
+9. **Strip HTML Tags**: Removes or preserves HTML tags in the description of an article.
 
 10. You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used.
 
-11. **Default Icon** determines which image the module will default to when locating an icon for the tab.
+11. **Default Icon**: Determines which image the module will default to when locating an icon for the tab.
 
-12. **Default Link** determines which link field the module will default to when locating a link for the tab.
+12. **Default Link**: Determines which link field the module will default to when locating a link for the tab.
 
-13. **Default Article Text** allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used.
+13. **Default Article Text**: Allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used.
 
 [tabs]: assets/tabs.png
 [tabs_link]: tabs_mode.md

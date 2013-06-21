@@ -11,7 +11,7 @@ Introduction
 
 RokFeatureTable offers a stylistic and user friendly solution for displaying tabular based data. It is perfect for price or product comparisons, or essentially, any type of data display that suits a matrix format.
 
-A simple, yet dynamic interface provides you with the tools to quickly edit the contents of the module. There are a series of parameters allowing for unlimited rows with options for text, link, class, and much more.
+A simple, yet dynamic, interface provides you with the tools to quickly edit the contents of the module. There are a series of parameters allowing for unlimited row, with options for text, link, class and much more, which allows for extensive control.
 
 Key Features
 ------------

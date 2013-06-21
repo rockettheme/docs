@@ -12,13 +12,13 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 ![][strips_1]
 
-:   1. **Title** This is the title of your module. [10%, 08%]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [9%, 45%]
-    3. **Status** Sets the publishing status for the module. [17%, 45%]
-    4. **Access** Sets the access level for the module. [10%, 68%]
-    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [48%, 50%]
-    6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [42%, 85%]
-    7. **Content Filter Rules** Sets the content filter rules for the module. [51%, 78%]
+:   1. **Title** This is the title of your module. [12%, 14%, se]
+    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [12%, 58%, se]
+    3. **Status** Sets the publishing status for the module. [20%, 64%, nw]
+    4. **Access** Sets the access level for the module. [12%, 81%, se]
+    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [50%, 50%, sw]
+    6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [47%, 80%, sw]
+    7. **Content Filter Rules** Sets the content filter rules for the module. [57%, 78%, sw]
 
 1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the module should appear in.
 
@@ -40,22 +40,22 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 ![][strips_2]
 
-:   1. **Display Limit** The amount of articles to show when rendering. [11%, 27%]
-    2. **Theme** This sets the theme for displaying strips in the module. [14%, 27%]
-    3. **Article Titles** This toggle enables you to show or hide article titles. [19%, 27%]
-    4. **Article Text** This toggle allows you to show or hide article text in a strips. [24%, 27%]
-    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [28%, 27%]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of an article. [33%, 27%]
-    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [37%, 27%]
-    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [41%, 27%]
-    9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [46%, 27%]
-    10. **Autoplay** Sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor. [50%, 27%]
-    11. **Autoplay Delay** Sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [55%, 27%]
-    12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [62%, 27%]
-    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the article's given titles are used. [72%, 27%]
-    14. **Default Article Text** This field allows you to set default article text for all strips in the module. If this is not changed from its default, then the article's introductory text is used. [77%, 27%]
-    15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 27%]
-    16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 27%]
+:   1. **Display Limit** The amount of articles to show when rendering. [12%, 40%, se]
+    2. **Theme** This sets the theme for displaying strips in the module. [15%, 70%, sw]
+    3. **Article Titles** This toggle enables you to show or hide article titles. [21%, 40%, se]
+    4. **Article Text** This toggle allows you to show or hide article text in a strips. [25%, 49%, sw]
+    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [29%, 67%, sw]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of an article. [34%, 46%, sw]
+    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [38%, 40%, se]
+    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [43%, 48%, sw]
+    9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [47%, 40%, se]
+    10. **Autoplay** Sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor. [52%, 52%, sw]
+    11. **Autoplay Delay** Sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [56%, 65%, sw]
+    12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [63%, 42%, se]
+    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the article's given titles are used. [74%, 40%, se]
+    14. **Default Article Text** This field allows you to set default article text for all strips in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 64%, sw]
+    15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 40%, se]
+    16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [86%, 64%, sw]
 
 1. The **Theme** option sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your template and/or personal taste.
 

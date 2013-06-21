@@ -33,8 +33,8 @@ Using RokUpdater with the Update Manager
 -----
 ![][rokupdater_update_manager_1]
 
-:   1. **Extension Type** A symbol appearing in this column indicates an update's ability to be applied given the current conditions of RokUpdater and the Joomla site. [40%, 53%]
-    2. **Update** Once you've selected the desired plugin(s) you wish to update, simply select the **Update** button as you would with any other extension. [15%, 4%]
+:   1. **Extension Type** A symbol appearing in this column indicates an update's ability to be applied given the current conditions of RokUpdater and the Joomla site. [44%, 54%, sw]
+    2. **Update** Once you've selected the desired plugin(s) you wish to update, simply select the **Update** button as you would with any other extension. [15%, 10%, nw]
 
 1. **Extension Type** A symbol appearing in this column indicates one of three things.
 	* A blue plus (+) indicates a free RocketTheme extension. 
