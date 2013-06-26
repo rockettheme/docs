@@ -39,8 +39,6 @@ Upon downloading Joomla 2.5 or 3.x, you'll need to place the ZIP file in the rem
 #### RocketLauncher
 RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
 
-You can find a detailed step-by-step guide for installing Joomla and a template via RocketLauncher here (link).
-
 Joomla Web Installer for 2.5
 ----------------------------
 Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There are seven general steps that need to be completed before your site is ready to go.

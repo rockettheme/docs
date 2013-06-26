@@ -38,8 +38,6 @@ Many hosting companies provide a quick and easy method known as a one-click inst
 #### RocketLauncher
 RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
 
-You can find a detailed step-by-step guide for installing Joomla and a template via RocketLauncher here (link).
-
 #### Conventional Install
 For most users, a conventional installation will work just fine. You'll need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
 

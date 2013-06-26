@@ -82,7 +82,7 @@ The third Text widget in the section is made a lot like the others. There is no 
 	<span class="icon-envelope-alt medmarginbottom largepaddingbottom"></span>
 </div>
 <div class="gantry-width-90 gantry-width-block hidden-tablet">
-	<p><em class="bold nobold">noreply@domain.com</em></p>
+	<p><em class="bold nobold">noreply\@domain.com</em></p>
 </div>
 
 <div class="clear"></div>
