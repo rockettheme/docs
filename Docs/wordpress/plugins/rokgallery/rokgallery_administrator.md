@@ -22,9 +22,9 @@ Accessing the main RokGallery Administrator within WordPress is fairly easy. You
 
 ![][admin3]
 
-:   1. **Image Controls** Provides image-specific control options. [10%, 47%, sw]
-    2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [10%, 77%, sw]
-    3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [30%, 14%, se]
+:   1. **Image Controls** Provides image-specific control options. [15%, 50%, sw]
+    2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [15%, 80%, sw]
+    3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [27%, 17%, se]
 
 RokGallery's Component Administrator is broken into two main areas. 
 
@@ -56,11 +56,11 @@ The tag popup allows you to select a gallery for quick tag associations, add/rem
 #### Jobs Manager
 ![][rokgallery_jobs_manager]
 
-:   1. **Refresh** Refreshes the status of all current and completed jobs in the list. [16%, 50%, se]
-    2. **Clean** Removes completed jobs from the list. [16%, 62%, se]
-    3. **Wipe All** Removes all jobs from the list. [16%, 72%, se]
-    4. **Update Individual Job** Updates the status of an individual job. [35%, 72%, ne]
-    5. **Delete Individual Job** Removes an individual job from the list. [35%, 80%, nw]
+:   1. **Refresh** Refreshes the status of all current and completed jobs in the list. [23%, 55%, se]
+    2. **Clean** Removes completed jobs from the list. [23%, 68%, se]
+    3. **Wipe All** Removes all jobs from the list. [23%, 80%, se]
+    4. **Update Individual Job** Updates the status of an individual job. [37%, 75%, ne]
+    5. **Delete Individual Job** Removes an individual job from the list. [37%, 85%, nw]
 
 The Jobs Manager gives you a real-time look at processes being executed by RokGallery. When you change the size or tag gallery association of a photo, it renders a new file that matches the specifications needed to meet these needs. This takes time, and the Jobs Manager is a great resource to check and see if your changes aren't appearing on your site correctly due to misconfiguration or the time required to process these requests.
 
@@ -77,11 +77,11 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 #### Galleries Manager
 ![][admin4]
 
-:   1. **Galleries** Select an existing gallery, or create a new one. [12%, 10%, ne]
-    2. **Name** Enter or change the name for the current or new gallery. [20%, 10%, ne]
-    3. **Tags** Enter tag(s) for the gallery, separated by commas, which should be present on associated images. [30%, 10%, ne]
-    4. **Images** Set the image preferences for images appearing within the tag gallery. [40%, 10%, ne]
-    5. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery. [55%, 10%, ne]
+:   1. **Galleries** Select an existing gallery, or create a new one. [14%, 15%, se]
+    2. **Name** Enter or change the name for the current or new gallery. [22%, 15%, se]
+    3. **Tags** Enter tag(s) for the gallery, separated by commas, which should be present on associated images. [31%, 15%, se]
+    4. **Images** Set the image preferences for images appearing within the tag gallery. [40%, 15%, ne]
+    5. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery. [55%, 15%, ne]
 
 
 1. **Galleries**: Select an existing gallery, or create a new one.
@@ -107,8 +107,8 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 #### Upload
 ![][admin2]
 
-:   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [61%, 10%, se]
-    2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [61%, 73%, sw]
+:   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [70%, 15%, se]
+    2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [70%, 73%, sw]
 
 1. The **Browse** button opens a file browser enabling you to select one or more image files to upload to RokGallery. This is useful if you'd prefer not to click and drag files manually into this popup, or if your browser doesn't support that functionality.
 
@@ -116,21 +116,21 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 
 Uploading images to RokGallery using the built-in file uploader is the best way to get images into RokGallery. The standard media uploader included in Joomla will add files to the media folders, but won't actually include them in RokGallery's directory.
 
-[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.png
-[rokgallery_tags]: assets/rokgallery_tags.png
+[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.jpeg
+[rokgallery_tags]: assets/rokgallery_tags.jpeg
 [rokbox]: ../rokbox/
-[admin1]: assets/wp_rokgallery_admin_1.png
-[admin2]: assets/wp_rokgallery_admin_2.png
-[admin3]: assets/wp_rokgallery_admin_3.png
-[admin4]: assets/wp_rokgallery_admin_4.png
-[install]: assets/wp_rokgallery_install.png
-[install2]: assets/wp_rokgallery_install_1.png
-[page1]: assets/wp_rokgallery_page_1.png
-[page2]: assets/wp_rokgallery_page_2.png
-[page3]: assets/wp_rokgallery_page_3.png
-[page4]: assets/wp_rokgallery_page_4.png
-[settings]: assets/wp_rokgallery_settings.png
-[widget1]: assets/wp_rokgallery_widget_1.png
-[widget2]: assets/wp_rokgallery_widget_2.png
-[widget3]: assets/wp_rokgallery_widget_3.png
-[widget4]: assets/wp-rokgallery_widget_4.png
+[admin1]: assets/wp_rokgallery_admin_1.jpeg
+[admin2]: assets/wp_rokgallery_admin_2.jpeg
+[admin3]: assets/wp_rokgallery_admin_3.jpeg
+[admin4]: assets/wp_rokgallery_admin_4.jpeg
+[install]: assets/wp_rokgallery_install.jpeg
+[install2]: assets/wp_rokgallery_install_1.jpeg
+[page1]: assets/wp_rokgallery_page_1.jpeg
+[page2]: assets/wp_rokgallery_page_2.jpeg
+[page3]: assets/wp_rokgallery_page_3.jpeg
+[page4]: assets/wp_rokgallery_page_4.jpeg
+[settings]: assets/wp_rokgallery_settings.jpeg
+[widget1]: assets/wp_rokgallery_widget_1.jpeg
+[widget2]: assets/wp_rokgallery_widget_2.jpeg
+[widget3]: assets/wp_rokgallery_widget_3.jpeg
+[widget4]: assets/wp-rokgallery_widget_4.jpeg

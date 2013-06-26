@@ -111,7 +111,7 @@ Everything is exactly as in 'name' cell, except we have a new keyword, `-link`.
 
 NOTE: All the referenced cells allows HTML syntax, if instead of just plain "Firefox" (in the example above), we wanted a bold, red and italic "Firefox" (Firefox) this is how we would have written our cell: `name::padding-top:10px;|<strong style="color:red;"><em>Firefox</em></b>`
 
-[featured]: assets/rokintroscroller.png
-[settings]: assets/wp_rokintroscroller_widget.png
-[widget1]: assets/wp_rokfeaturetable_widget_1.png
-[widget2]: assets/wp_rokfeaturetable_widget_2.png
+[featured]: assets/rokintroscroller.jpeg
+[settings]: assets/wp_rokintroscroller_widget.jpeg
+[widget1]: assets/wp_rokfeaturetable_widget_1.jpeg
+[widget2]: assets/wp_rokfeaturetable_widget_2.jpeg

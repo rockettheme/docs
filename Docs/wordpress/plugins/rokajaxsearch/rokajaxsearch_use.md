@@ -102,10 +102,10 @@ All other options listed in the above image are added via Gantry. If you are usi
 * **Custom Variations**: This field allows you to add custom variations, determined in the theme's primary LESS file.
 
 
-[featured]: assets/rokajaxsearch.png
+[featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download
-[plugin1]: assets/wp_rokajaxsearch_plugin_1.png
-[plugin2]: assets/wp_rokajaxsearch_plugin_2.png
-[gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.png
+[plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
+[plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
+[gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
 [googleapi]: http://code.google.com/apis/ajaxsearch/signup.html
 [gantry]: http://gantry-framework.org

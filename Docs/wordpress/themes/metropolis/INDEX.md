@@ -12,11 +12,11 @@ Metropolis, the June 2013 template release, is an elegantly designed theme combi
 
 Requirements
 -----
-* Gantry Framework for WordPress 4.0.6+
+* Apache 2.x or Microsoft IIS 7
+* PHP 5.3.x
+* MySQL 5.0.4 or higher
 * WordPress 3.2+
-* PHP 5.2+
-* MySQL 3.23 (5+ recommended)
-* Apache 1.3 (2.2+ recommended)
+* Gantry Framework
 
 >> NOTE: Gantry v4.0.6+ is required for Metropolis to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
@@ -48,8 +48,8 @@ Metropolis comes with the RokSprocket plugin which is built to work with a respo
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-metropolis
-[metropolis]: assets/wp_metropolis.png
-[dropdown]: assets/wp_metropolis_dropdown.png
-[roksprocket]: assets/wp_metropolis_roksprocket.png
+[metropolis]: assets/wp_metropolis.jpeg
+[dropdown]: assets/wp_metropolis_dropdown.jpeg
+[roksprocket]: assets/wp_metropolis_roksprocket.jpeg
 [filezilla]: https://filezilla-project.org
 [launcher]: ../../start/rocketlauncher.md

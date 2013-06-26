@@ -82,21 +82,21 @@ We recommend downloading and installing [RokBox][rokbox] in addition to RokGalle
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 
-[featured]: assets/wp_rokgallery.png
+[featured]: assets/wp_rokgallery.jpeg
 [download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
 [rokbox]: ../rokbox/
-[admin1]: assets/wp_rokgallery_admin_1.png
-[admin2]: assets/wp_rokgallery_admin_2.png
-[admin3]: assets/wp_rokgallery_admin_3.png
-[admin4]: assets/wp_rokgallery_admin_4.png
-[install]: assets/wp_rokgallery_install.png
-[install2]: assets/wp_rokgallery_install_1.png
-[page1]: assets/wp_rokgallery_page_1.png
-[page2]: assets/wp_rokgallery_page_2.png
-[page3]: assets/wp_rokgallery_page_3.png
-[page4]: assets/wp_rokgallery_page_4.png
-[settings]: assets/wp_rokgallery_settings.png
-[widget1]: assets/wp_rokgallery_widget_1.png
-[widget2]: assets/wp_rokgallery_widget_2.png
-[widget3]: assets/wp_rokgallery_widget_3.png
-[widget4]: assets/wp-rokgallery_widget_4.png
+[admin1]: assets/wp_rokgallery_admin_1.jpeg
+[admin2]: assets/wp_rokgallery_admin_2.jpeg
+[admin3]: assets/wp_rokgallery_admin_3.jpeg
+[admin4]: assets/wp_rokgallery_admin_4.jpeg
+[install]: assets/wp_rokgallery_install.jpeg
+[install2]: assets/wp_rokgallery_install_1.jpeg
+[page1]: assets/wp_rokgallery_page_1.jpeg
+[page2]: assets/wp_rokgallery_page_2.jpeg
+[page3]: assets/wp_rokgallery_page_3.jpeg
+[page4]: assets/wp_rokgallery_page_4.jpeg
+[settings]: assets/wp_rokgallery_settings.jpeg
+[widget1]: assets/wp_rokgallery_widget_1.jpeg
+[widget2]: assets/wp_rokgallery_widget_2.jpeg
+[widget3]: assets/wp_rokgallery_widget_3.jpeg
+[widget4]: assets/wp-rokgallery_widget_4.jpeg
