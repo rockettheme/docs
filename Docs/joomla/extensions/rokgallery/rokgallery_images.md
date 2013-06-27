@@ -79,22 +79,22 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
 
 The Slice Editor gives you the ability to edit (or create) individual slices used in gallery modules and other RokGallery-supported areas of your site. These slices are independent copies of the original images, and as such, any changes you make in the Slice Editor only affect the individual slice.
 
-[rokgallery]: assets/rokgallery.png
-[rokgallery_component]: assets/rokgallery_component_1.png
-[rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.png
-[rokgallery_component_upload]: assets/rokgallery_component_upload.png
-[rokgallery_image_editor]: assets/rokgallery_image_editor.png
-[rokgallery_image_editor_2]: assets/rokgallery_image_editor_2.png
-[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.png
-[rokgallery_module_1]: assets/rokgallery_module_1.png
-[rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.png
-[rokgallery_module_basic_1]: assets/rokgallery_module_basic_1.png
-[rokgallery_module_error_1]: assets/rokgallery_module_error_1.png
-[rokgallery_plugin_manager_1]: assets/rokgallery_plugin_manager_1.png
-[rokgallery_plugin_manager_2]: assets/rokgallery_plugin_manager_2.png
-[rokgallery_plugin_manager_3]: assets/rokgallery_plugin_manager_3.png
-[rokgallery_administrator]: assets/rokgallery_administrator.png
-[rokgallery_tags]: assets/rokgallery_tags.png
-[rokgallery_galleries_manager]: assets/rokgallery_galleries_manager.png
-[rokgallery_slice_editor]: assets/rokgallery_slice_editor.png
-[rokgallery_slice_editor_2]: assets/rokgallery_slice_editor_2.png
+[rokgallery]: assets/rokgallery.jpeg
+[rokgallery_component]: assets/rokgallery_component_1.jpeg
+[rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.jpeg
+[rokgallery_component_upload]: assets/rokgallery_component_upload.jpeg
+[rokgallery_image_editor]: assets/rokgallery_image_editor.jpeg
+[rokgallery_image_editor_2]: assets/rokgallery_image_editor_2.jpeg
+[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.jpeg
+[rokgallery_module_1]: assets/rokgallery_module_1.jpeg
+[rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.jpeg
+[rokgallery_module_basic_1]: assets/rokgallery_module_basic_1.jpeg
+[rokgallery_module_error_1]: assets/rokgallery_module_error_1.jpeg
+[rokgallery_plugin_manager_1]: assets/rokgallery_plugin_manager_1.jpeg
+[rokgallery_plugin_manager_2]: assets/rokgallery_plugin_manager_2.jpeg
+[rokgallery_plugin_manager_3]: assets/rokgallery_plugin_manager_3.jpeg
+[rokgallery_administrator]: assets/rokgallery_administrator.jpeg
+[rokgallery_tags]: assets/rokgallery_tags.jpeg
+[rokgallery_galleries_manager]: assets/rokgallery_galleries_manager.jpeg
+[rokgallery_slice_editor]: assets/rokgallery_slice_editor.jpeg
+[rokgallery_slice_editor_2]: assets/rokgallery_slice_editor_2.jpeg

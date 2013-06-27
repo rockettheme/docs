@@ -46,11 +46,11 @@ Using RokUpdater with the Update Manager
 
 Once an extension has been successfully applied, you should receive a confirmation message similar to the one above.
 
-[login_1]: assets/rokupdater_login_1.png
-[login_2]: assets/rokupdater_login_2.png
-[login_3]: assets/rokupdater_login_3.png
-[rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.png
-[rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.png
-[rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.png
+[login_1]: assets/rokupdater_login_1.jpeg
+[login_2]: assets/rokupdater_login_2.jpeg
+[login_3]: assets/rokupdater_login_3.jpeg
+[rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.jpeg
+[rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.jpeg
+[rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.jpeg
 [rokupdater-download]: http://rockettheme.com
 [rockettheme]: http://rockettheme.com

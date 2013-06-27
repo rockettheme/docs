@@ -98,14 +98,14 @@ The **Metadata Options** tab (point 1) gives you access to the metadata options 
 
 This tab is where you set permission levels for other users. This is used to prevent unauthorized people from editing your article. Global permissions are on by default, though this can be configured independently.
 
-[article1]: assets/article_1.png
-[article2]: assets/article_2.png
-[article3]: assets/article_3.png
-[article4]: assets/article_4.png
-[article5]: assets/article_5.png
-[article6]: assets/article_6.png
-[article7]: assets/article_7.png
-[article8]: assets/article_8.png
+[article1]: assets/article_1.jpeg
+[article2]: assets/article_2.jpeg
+[article3]: assets/article_3.jpeg
+[article4]: assets/article_4.jpeg
+[article5]: assets/article_5.jpeg
+[article6]: assets/article_6.jpeg
+[article7]: assets/article_7.jpeg
+[article8]: assets/article_8.jpeg
 [extension]: ../platform/extensions.md
 [rokpad]: http://www.rockettheme.com/extensions-joomla/rokpad
 [pad]: ../extensions/rokpad/

@@ -11,11 +11,11 @@ You can access RokFeatureTable's main widget settings by navigating to **Admin -
 
 ![][widget1]
 
-:   1. **Title** Sets the title for the RokFeatureTable widget. This is not a required field. [26%, 12%, ne]
-    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [35%, 12%, ne]
-    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No. [45%, 12%, ne]
-    4. **Template Selection** RokFeatureTables has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [55%, 12%, ne]
-    5. **Current Table Layout** This area of the menu sets the size and content of the feature table. It's the most important component of the widget setup process. More details about this menu are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [70%, 12%, ne]
+:   1. **Title** Sets the title for the RokFeatureTable widget. This is not a required field. [28%, 69%, sw]
+    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [39%, 65%, sw]
+    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No. [50%, 57%, sw]
+    4. **Template Selection** RokFeatureTables has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [58%, 66%, sw]
+    5. **Current Table Layout** This area of the menu sets the size and content of the feature table. It's the most important component of the widget setup process. More details about this menu are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [73%, 69%, sw]
 
 1. **Title**: Sets the title for the RokFeatureTable widget. This is not a required field.
 
@@ -33,12 +33,12 @@ You can access the table layout options via the widget properties menu featured 
 
 ![][widget2]
 
-:   1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content. [21%, 5%, ne]
-    2. **Rows** Each column can have an independent number of rows. You can add or remove rows using the **+** or **-** controls. Each row within a column acts as a single cell. [29%, 49%, sw]
-    3. **Class** You can use the class control to add a unique CSS class to the cell. [29%, 56%, sw]
-    4. **Subline** This option allows you to add a sub-line of text to the cell. This is useful for disclaimers or extra information. [29%, 64%, sw]
-    5. **Link** You can have a particular cell link to a specific URL. [29%, 72%, sw]
-    6. **Style** This option allows you to assign custom style rules to the cell. [29%, 80%, sw]
+:   1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content. [23%, 12%, se]
+    2. **Rows** Each column can have an independent number of rows. You can add or remove rows using the **+** or **-** controls. Each row within a column acts as a single cell. [37%, 51%, sw]
+    3. **Class** You can use the class control to add a unique CSS class to the cell. [37%, 61%, sw]
+    4. **Subline** This option allows you to add a sub-line of text to the cell. This is useful for disclaimers or extra information. [37%, 70%, sw]
+    5. **Link** You can have a particular cell link to a specific URL. [37%, 78%, sw]
+    6. **Style** This option allows you to assign custom style rules to the cell. [37%, 87%, sw]
 
 1. **Columns** You can add or remove columns to your feature table. Columns can be individually highlighted to emphasize the included content.
 
@@ -111,7 +111,7 @@ Everything is exactly as in 'name' cell, except we have a new keyword, `-link`.
 
 NOTE: All the referenced cells allows HTML syntax, if instead of just plain "Firefox" (in the example above), we wanted a bold, red and italic "Firefox" (Firefox) this is how we would have written our cell: `name::padding-top:10px;|<strong style="color:red;"><em>Firefox</em></b>`
 
-[featured]: assets/rokintroscroller.png
-[settings]: assets/wp_rokintroscroller_widget.png
-[widget1]: assets/wp_rokfeaturetable_widget_1.png
-[widget2]: assets/wp_rokfeaturetable_widget_2.png
+[featured]: assets/rokintroscroller.jpeg
+[settings]: assets/wp_rokintroscroller_widget.jpeg
+[widget1]: assets/wp_rokfeaturetable_widget_1.jpeg
+[widget2]: assets/wp_rokfeaturetable_widget_2.jpeg

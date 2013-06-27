@@ -92,7 +92,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 16. The **Default Article Link** gives you the ability to set a default link field from articles in this module. For example, if you wish to link to the link provided in the article's **Link A** or **Link B** settings, you can do so here.
 
-[features]: assets/features.png
+[features]: assets/features.jpeg
 [features_link]: features_mode.md
-[features_1]: assets/features_1.png
-[features_2]: assets/features_2.png
+[features_1]: assets/features_1.jpeg
+[features_2]: assets/features_2.jpeg

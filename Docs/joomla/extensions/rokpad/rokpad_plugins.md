@@ -67,11 +67,11 @@ Next, go to **Extensions → Plug-in Manager**. From the list, find **Editor - R
 
 13. **Autohide Fold Widget** determines if the fold widgets next to the gutter should be automatically hidden or always visible.
 
-[featured]: assets/rokpad-layout.png
+[featured]: assets/rokpad-layout.jpeg
 [rokpad-download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad
 [install]: ../../platform/extensions.md#how-to-install-an-extension
-[core]: assets/rokpad_core.png
-[details]: assets/rokpad_details.png
-[default]: assets/rokpad_default.png
-[rokpad]: assets/rokpad.png
-[cog]: assets/rokpad_cog.png
+[core]: assets/rokpad_core.jpeg
+[details]: assets/rokpad_details.jpeg
+[default]: assets/rokpad_default.jpeg
+[rokpad]: assets/rokpad.jpeg
+[cog]: assets/rokpad_cog.jpeg

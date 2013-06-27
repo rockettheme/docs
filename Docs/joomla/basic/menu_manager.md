@@ -193,17 +193,17 @@ The **Start Level** field (point 3) indicates which menu level you would like th
 The **Menu Assignment** tab gives you the ability to elect particular pages or areas on your site where the module will appear.
 
 
-[new_menu_1]: assets/new_menu_1.png
-[new_menu_2]: assets/new_menu_2.png
-[new_menu_3]: assets/new_menu_3.png
-[menu_manager_1]: assets/menu_manager_1.png
-[menu_manager_3]: assets/menu_manager_3.png
-[menu_manager_4]: assets/menu_manager_4.png
-[menu_manager_5]: assets/menu_manager_5.png
-[menu_module_1]: assets/menu_module_1.png
-[menu_module_2]: assets/menu_module_2.png
-[menu_module_3]: assets/menu_module_3.png
-[menu_module_4]: assets/menu_module_4.png
-[menu_module_5]: assets/menu_module_5.png
-[menu_module_6]: assets/menu_module_6.png
+[new_menu_1]: assets/new_menu_1.jpeg
+[new_menu_2]: assets/new_menu_2.jpeg
+[new_menu_3]: assets/new_menu_3.jpeg
+[menu_manager_1]: assets/menu_manager_1.jpeg
+[menu_manager_3]: assets/menu_manager_3.jpeg
+[menu_manager_4]: assets/menu_manager_4.jpeg
+[menu_manager_5]: assets/menu_manager_5.jpeg
+[menu_module_1]: assets/menu_module_1.jpeg
+[menu_module_2]: assets/menu_module_2.jpeg
+[menu_module_3]: assets/menu_module_3.jpeg
+[menu_module_4]: assets/menu_module_4.jpeg
+[menu_module_5]: assets/menu_module_5.jpeg
+[menu_module_6]: assets/menu_module_6.jpeg
 [RokNavMenu]: ../extensions/roknavmenu

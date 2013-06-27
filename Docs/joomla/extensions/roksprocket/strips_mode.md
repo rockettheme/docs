@@ -89,28 +89,28 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 16. The **Default Article Link** gives you the ability to set a default link field from articles in this module. For example, if you wish to link to the link provided in the article's **Link A** or **Link B** settings, you can do so here.
 
-[features]: assets/features.png
-[headlines]: assets/headlines.png
-[lists]: assets/lists.png
-[mosaic]: assets/mosaic.png
-[tabs]: assets/tabs.png
+[features]: assets/features.jpeg
+[headlines]: assets/headlines.jpeg
+[lists]: assets/lists.jpeg
+[mosaic]: assets/mosaic.jpeg
+[tabs]: assets/tabs.jpeg
 [features_link]: features_mode.md
 [lists_link]: lists_mode.md
 [tabs_link]: tabs_mode.md
 [mosaic_link]: mosaic_mode.md
 [headlines_link]: headlines_mode.md
 [strips_link]: strips_mode.md
-[features_1]: assets/features_1.png
-[features_2]: assets/features_2.png
-[lists_1]: assets/lists_1.png
-[lists_2]: assets/lists_2.png
-[mosaic_1]: assets/mosaic_1.png
-[mosaic_2]: assets/mosaic_2.png
-[strips_1]: assets/strips_1.png
-[strips_2]: assets/strips_2.png
-[headlines_1]: assets/headlines_1.png
-[headlines_2]: assets/headlines_2.png
-[tabs_1]: assets/tabs_1.png
-[tabs_2]: assets/tabs_2.png
-[roksprocket_module_1]: assets/roksprocket_module_1.png
-[strips_demo]: assets/strips_demo.png
+[features_1]: assets/features_1.jpeg
+[features_2]: assets/features_2.jpeg
+[lists_1]: assets/lists_1.jpeg
+[lists_2]: assets/lists_2.jpeg
+[mosaic_1]: assets/mosaic_1.jpeg
+[mosaic_2]: assets/mosaic_2.jpeg
+[strips_1]: assets/strips_1.jpeg
+[strips_2]: assets/strips_2.jpeg
+[headlines_1]: assets/headlines_1.jpeg
+[headlines_2]: assets/headlines_2.jpeg
+[tabs_1]: assets/tabs_1.jpeg
+[tabs_2]: assets/tabs_2.jpeg
+[roksprocket_module_1]: assets/roksprocket_module_1.jpeg
+[strips_demo]: assets/strips_demo.jpeg

@@ -86,7 +86,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 14. **Default Link** determines which link field the module will default to when locating a link for the feature.
 
-[mosaic]: assets/mosaic.png
+[mosaic]: assets/mosaic.jpeg
 [mosaic_link]: mosaic_mode.md
-[mosaic_1]: assets/mosaic_1.png
-[mosaic_2]: assets/mosaic_2.png
+[mosaic_1]: assets/mosaic_1.jpeg
+[mosaic_2]: assets/mosaic_2.jpeg

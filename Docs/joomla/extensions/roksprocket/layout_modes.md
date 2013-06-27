@@ -11,7 +11,7 @@ RokSprocket has multiple layout modes to display your content including: [Featur
 
 ![][roksprocket_module_1]
 
-:   1. **RokSprocket Module** This option within the Module Manager's **New Module** type list will initiate the creation of a RokSprocket Module. [37%, 4%]
+:   1. **RokSprocket Module** This option within the Module Manager's **New Module** type list will initiate the creation of a RokSprocket Module. [37%, 8%, se]
 
 To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you'll initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you've created the new module, you'll be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
 
@@ -26,28 +26,28 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Strips][strips_link]
 * [Headlines][headlines_link]
 
-[features]: assets/features.png
-[headlines]: assets/headlines.png
-[lists]: assets/lists.png
-[mosaic]: assets/mosaic.png
-[tabs]: assets/tabs.png
+[features]: assets/features.jpeg
+[headlines]: assets/headlines.jpeg
+[lists]: assets/lists.jpeg
+[mosaic]: assets/mosaic.jpeg
+[tabs]: assets/tabs.jpeg
 [features_link]: features_mode.md
 [lists_link]: lists_mode.md
 [tabs_link]: tabs_mode.md
 [mosaic_link]: mosaic_mode.md
 [headlines_link]: headlines_mode.md
 [strips_link]: strips_mode.md
-[features_1]: assets/features_1.png
-[features_2]: assets/features_2.png
-[lists_1]: assets/lists_1.png
-[lists_2]: assets/lists_2.png
-[mosaic_1]: assets/mosaic_1.png
-[mosaic_2]: assets/mosaic_2.png
-[strips_1]: assets/strips_1.png
-[strips_2]: assets/strips_2.png
-[headlines_1]: assets/headlines_1.png
-[headlines_2]: assets/headlines_2.png
-[tabs_1]: assets/tabs_1.png
-[tabs_2]: assets/tabs_2.png
-[roksprocket_module_1]: assets/roksprocket_module_1.png
-[strips_demo]: assets/strips_demo.png
+[features_1]: assets/features_1.jpeg
+[features_2]: assets/features_2.jpeg
+[lists_1]: assets/lists_1.jpeg
+[lists_2]: assets/lists_2.jpeg
+[mosaic_1]: assets/mosaic_1.jpeg
+[mosaic_2]: assets/mosaic_2.jpeg
+[strips_1]: assets/strips_1.jpeg
+[strips_2]: assets/strips_2.jpeg
+[headlines_1]: assets/headlines_1.jpeg
+[headlines_2]: assets/headlines_2.jpeg
+[tabs_1]: assets/tabs_1.jpeg
+[tabs_2]: assets/tabs_2.jpeg
+[roksprocket_module_1]: assets/roksprocket_module_1.jpeg
+[strips_demo]: assets/strips_demo.jpeg

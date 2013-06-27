@@ -23,6 +23,6 @@ The administrator of a Joomla site can see everything, even the stuff that has b
 
 Try signing out of Joomla and visiting the module on the frontend of your site to see if these articles really are appearing for visitors.
 
-[module_1]: assets/add_module_to_article_1.png
-[module_2]: assets/add_module_to_article_2.png
-[module_3]: assets/add_module_to_article_3.png
+[module_1]: assets/add_module_to_article_1.jpeg
+[module_2]: assets/add_module_to_article_2.jpeg
+[module_3]: assets/add_module_to_article_3.jpeg

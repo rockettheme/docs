@@ -88,7 +88,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 15.  The **Default Article Link** gives you the ability to set a default link field from articles in this module. For example, if you wish to link to the link provided in the article's **Link A** or **Link B** settings, you can do so here.
 
-[lists]: assets/lists.png
+[lists]: assets/lists.jpeg
 [lists_link]: layout_modes.md#lists
-[lists_1]: assets/lists_1.png
-[lists_2]: assets/lists_2.png
+[lists_1]: assets/lists_1.jpeg
+[lists_2]: assets/lists_2.jpeg

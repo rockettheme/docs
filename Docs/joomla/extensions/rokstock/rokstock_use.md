@@ -110,8 +110,8 @@ RokStock is a highly configurable module that allows you to control the various 
 
 8. **Module Style**: Allows for an override of the template style for its position.
 
-[rokstock]: assets/rokstock.png
-[rokstock_setup_1]: assets/rokstock_setup_1.png
-[rokstock_setup_2]: assets/rokstock_setup_2.png
-[rokstock_setup_3]: assets/rokstock_setup_3.png
-[rokstock_setup_4]: assets/rokstock_setup_4.png
+[rokstock]: assets/rokstock.jpeg
+[rokstock_setup_1]: assets/rokstock_setup_1.jpeg
+[rokstock_setup_2]: assets/rokstock_setup_2.jpeg
+[rokstock_setup_3]: assets/rokstock_setup_3.jpeg
+[rokstock_setup_4]: assets/rokstock_setup_4.jpeg

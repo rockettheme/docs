@@ -53,9 +53,9 @@ Once installation is complete, a message highlighted in green should indicate it
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
-[login_1]: assets/rokupdater_login_1.png
-[login_2]: assets/rokupdater_login_2.png
-[rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.png
-[rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.png
-[rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.png
+[login_1]: assets/rokupdater_login_1.jpeg
+[login_2]: assets/rokupdater_login_2.jpeg
+[rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.jpeg
+[rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.jpeg
+[rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/free/3490-rokupdater

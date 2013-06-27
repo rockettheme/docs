@@ -90,10 +90,10 @@ We recommend downloading and installing [RokBox][rokbox] in addition to RokGalle
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 
-[featured]: assets/roksprocket-layout.png
+[featured]: assets/roksprocket-layout.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/club/2216-rokgallery
 [install]: ../../platform/extensions.md#how-to-install-an-extension
-[rokgallery]: assets/rokgallery.png
-[rokgallery_install_1]: assets/rokgallery_install_1.png
-[details]: assets/RokStock_details.png
+[rokgallery]: assets/rokgallery.jpeg
+[rokgallery_install_1]: assets/rokgallery_install_1.jpeg
+[details]: assets/RokStock_details.jpeg
 [rokbox]: ../rokbox/

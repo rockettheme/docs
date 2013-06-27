@@ -90,13 +90,13 @@ the oldest item will be loaded in the search result. There are a variety of opti
 
 5. **Show Read More**: Set whether the Read More link should be display. [73%, 13%, se]
 
-[featured]: assets/rokajaxsearch.png
+[featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch
-[settings1]: assets/rokajaxsearch_settings_1.png
-[settings2]: assets/rokajaxsearch_settings_2.png
-[settings3]: assets/rokajaxsearch_settings_3.png
-[module]: assets/rokajaxsearch_module_1.png
-[advanced]: assets/rokajaxsearch_advanced.png
-[gantrymodule]: assets/wp_rokajaxsearch_gantrymodule.png
+[settings1]: assets/rokajaxsearch_settings_1.jpeg
+[settings2]: assets/rokajaxsearch_settings_2.jpeg
+[settings3]: assets/rokajaxsearch_settings_3.jpeg
+[module]: assets/rokajaxsearch_module_1.jpeg
+[advanced]: assets/rokajaxsearch_advanced.jpeg
+[gantrymodule]: assets/wp_rokajaxsearch_gantrymodule.jpeg
 [googleapi]: http://code.google.com/apis/ajaxsearch/signup.html
 [gantry]: http://gantry-framework.org

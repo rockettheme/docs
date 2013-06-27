@@ -87,10 +87,10 @@ For example, you can set the **Dimensions** (point 1), **Border** (point 2), the
 
 Once you've made your desired changes, hit **Update** (point 4) to lock them in.
 
-[add_image_1]: assets/add_image_1.png
-[add_image_2]: assets/add_image_2.png
-[add_image_3]: assets/add_image_3.png
-[add_image_4]: assets/add_image_4.png
-[add_image_5]: assets/add_image_5.png
+[add_image_1]: assets/add_image_1.jpeg
+[add_image_2]: assets/add_image_2.jpeg
+[add_image_3]: assets/add_image_3.jpeg
+[add_image_4]: assets/add_image_4.jpeg
+[add_image_5]: assets/add_image_5.jpeg
 [rokgallery]: ../extensions/rokgallery/
 [rokpad]: http://www.rockettheme.com/extensions-joomla/rokpad

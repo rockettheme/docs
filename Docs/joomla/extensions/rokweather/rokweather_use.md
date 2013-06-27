@@ -90,6 +90,6 @@ RokWeather is a highly configurable module that allows you to control the variou
 
 
 [wunderground]: http://www.wunderground.com/
-[options1]: assets/rokweather_options_1.png
-[options2]: assets/rokweather_options_2.png
-[options3]: assets/rokweather_options_3.png
+[options1]: assets/rokweather_options_1.jpeg
+[options2]: assets/rokweather_options_2.jpeg
+[options3]: assets/rokweather_options_3.jpeg

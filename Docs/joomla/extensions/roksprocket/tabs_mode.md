@@ -70,7 +70,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 13. **Default Article Text**: Allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used.
 
-[tabs]: assets/tabs.png
+[tabs]: assets/tabs.jpeg
 [tabs_link]: tabs_mode.md
-[tabs_1]: assets/tabs_1.png
-[tabs_2]: assets/tabs_2.png
+[tabs_1]: assets/tabs_1.jpeg
+[tabs_2]: assets/tabs_2.jpeg

@@ -116,11 +116,11 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 
 2. **Debut Log Level** sets the level of information in the debug logs.
 
-[rokbooster_setup_1]: assets/rokbooster_setup_1.png
-[rokbooster_setup_2]: assets/rokbooster_setup_2.png
-[rokbooster_setup_3]: assets/rokbooster_setup_3.png
-[rokbooster_setup_4]: assets/rokbooster_setup_4.png
-[rokbooster_setup_5]: assets/rokbooster_setup_5.png
-[rokbooster_setup_6]: assets/rokbooster_setup_6.png
-[rokbooster_setup_7]: assets/rokbooster_setup_7.png
-[rokbooster_setup_8]: assets/rokbooster_setup_8.png
+[rokbooster_setup_1]: assets/rokbooster_setup_1.jpeg
+[rokbooster_setup_2]: assets/rokbooster_setup_2.jpeg
+[rokbooster_setup_3]: assets/rokbooster_setup_3.jpeg
+[rokbooster_setup_4]: assets/rokbooster_setup_4.jpeg
+[rokbooster_setup_5]: assets/rokbooster_setup_5.jpeg
+[rokbooster_setup_6]: assets/rokbooster_setup_6.jpeg
+[rokbooster_setup_7]: assets/rokbooster_setup_7.jpeg
+[rokbooster_setup_8]: assets/rokbooster_setup_8.jpeg

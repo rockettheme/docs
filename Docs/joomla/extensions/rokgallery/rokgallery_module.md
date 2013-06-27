@@ -125,25 +125,25 @@ The Showcase layout works very similarly. You have the option to choose whether 
 
 8. **Module Style**: Allows for an override of the template style for its position.
 
-[rokgallery]: assets/rokgallery.png
-[rokgallery_component]: assets/rokgallery_component_1.png
-[rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.png
-[rokgallery_component_upload]: assets/rokgallery_component_upload.png
-[rokgallery_image_editor]: assets/rokgallery_image_editor.png
-[rokgallery_image_editor_2]: assets/rokgallery_image_editor_2.png
-[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.png
-[rokgallery_module_1]: assets/rokgallery_module_1.png
-[rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.png
-[rokgallery_module_basic_1]: assets/rokgallery_module_basic_1.png
-[rokgallery_plugin_manager_1]: assets/rokgallery_plugin_manager_1.png
-[rokgallery_plugin_manager_2]: assets/rokgallery_plugin_manager_2.png
-[rokgallery_plugin_manager_3]: assets/rokgallery_plugin_manager_3.png
-[rokgallery_administrator]: assets/rokgallery_administrator.png
-[rokgallery_tags]: assets/rokgallery_tags.png
-[rokgallery_galleries_manager]: assets/rokgallery_galleries_manager.png
-[rokgallery_slice_editor]: assets/rokgallery_slice_editor.png
-[rokgallery_slice_editor_2]: assets/rokgallery_slice_editor_2.png
-[slideshow]: assets/rokgallery_slideshow.png
-[grid]: assets/rokgallery_grid.png
-[showcase]: assets/rokgallery_showcase.png
-[details]: assets/rokgallery_module_2.png
+[rokgallery]: assets/rokgallery.jpeg
+[rokgallery_component]: assets/rokgallery_component_1.jpeg
+[rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.jpeg
+[rokgallery_component_upload]: assets/rokgallery_component_upload.jpeg
+[rokgallery_image_editor]: assets/rokgallery_image_editor.jpeg
+[rokgallery_image_editor_2]: assets/rokgallery_image_editor_2.jpeg
+[rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.jpeg
+[rokgallery_module_1]: assets/rokgallery_module_1.jpeg
+[rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.jpeg
+[rokgallery_module_basic_1]: assets/rokgallery_module_basic_1.jpeg
+[rokgallery_plugin_manager_1]: assets/rokgallery_plugin_manager_1.jpeg
+[rokgallery_plugin_manager_2]: assets/rokgallery_plugin_manager_2.jpeg
+[rokgallery_plugin_manager_3]: assets/rokgallery_plugin_manager_3.jpeg
+[rokgallery_administrator]: assets/rokgallery_administrator.jpeg
+[rokgallery_tags]: assets/rokgallery_tags.jpeg
+[rokgallery_galleries_manager]: assets/rokgallery_galleries_manager.jpeg
+[rokgallery_slice_editor]: assets/rokgallery_slice_editor.jpeg
+[rokgallery_slice_editor_2]: assets/rokgallery_slice_editor_2.jpeg
+[slideshow]: assets/rokgallery_slideshow.jpeg
+[grid]: assets/rokgallery_grid.jpeg
+[showcase]: assets/rokgallery_showcase.jpeg
+[details]: assets/rokgallery_module_2.jpeg

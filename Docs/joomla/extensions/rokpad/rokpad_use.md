@@ -71,5 +71,5 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokpad:RokPad
 
 12. **Autosave** enables or disables the automatic save feature in RokPad. The number field sets the duration between autosaves. This is only taken into account when **Autosave** is enabled.
 
-[cog]: assets/rokpad_cog.png
-[rokpad]: assets/rokpad.png
+[cog]: assets/rokpad_cog.jpeg
+[rokpad]: assets/rokpad.jpeg
