@@ -23,30 +23,49 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Mosaic][mosaic_link]
 * [Headlines][headlines_link]
 
-[features]: assets/features.png
-[headlines]: assets/headlines.png
-[lists]: assets/lists.png
-[mosaic]: assets/mosaic.png
-[tabs]: assets/tabs.png
+Content Providers
+-----
+![][content]
+
+RokSprocket has the ability to pull content from a number of content providers that work within WordPress. Most site administrators will use WordPress as the content provider for RokSprocket as it pulls articles from your primary WordPress install and arranges them to meet your needs. 
+
+Alternatively, RokSprocket supports the following content providers:
+
+* [CFS][cfs]
+* [CPT][cpt]
+* [Types][types]
+* PostTypes
+
+### Using the 'Simple' Content Provider
+With the introduction of RokSprocket 2, you can use another content provider named **Simple** which allows you to manually configure a RokSprocket widget without having to reference any articles hosted on your site. In fact, the **Simple** content provider option gives you complete control over every aspect of your RokSprocket widget's line items.
+
+![][simple]
+
+:   1. **Rename Item**: The pencil icon gives you the ability to rename an item in your widget. [21%, 13%, sw]
+    2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [25%, 50%, sw]
+    3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the widget and its content. [20%, 80%, sw]
+    4. **Add New Item**: This button adds a new blank item to the widget. [35%, 81%, sw]
+    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change. [21%, 33%, sw]
+
+1. **Rename Item** The pencil icon gives you the ability to rename an item in your widget.
+
+2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source.
+
+3. **Content Provider** Selecting the **Simple** content provider allows you manual control over the widget and its content.
+
+4. **Add New Item** This button adds a new blank item to the widget.
+
+5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change.
+
+When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the widget appears the way you want it to every time a visitor loads the page.
+
 [features_link]: features_mode.md
 [lists_link]: lists_mode.md
 [tabs_link]: tabs_mode.md
 [mosaic_link]: mosaic_mode.md
 [headlines_link]: headlines_mode.md
 [strips_link]: strips_mode.md
-[features_1]: assets/features_1.png
-[features_2]: assets/features_2.png
-[lists_1]: assets/lists_1.png
-[lists_2]: assets/lists_2.png
-[mosaic_1]: assets/mosaic_1.png
-[mosaic_2]: assets/mosaic_2.png
-[strips_1]: assets/strips_1.png
-[strips_2]: assets/strips_2.png
-[headlines_1]: assets/headlines_1.png
-[headlines_2]: assets/headlines_2.png
-[tabs_1]: assets/tabs_1.png
-[tabs_2]: assets/tabs_2.png
-[roksprocket_module_1]: assets/roksprocket_module_1.png
+[roksprocket_widget_1]: assets/roksprocket_widget_1.png
 [strips_demo]: assets/strips_demo.png
 [admin1]: assets/wp_roksprocket_admin_1.png
 [features1]: assets/wp_roksprocket_features_1.png
@@ -56,3 +75,8 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 [tabs1]: assets/wp_roksprocket_tabs_1.png
 [widget1]: assets/wp_roksprocket_widget_1.png
 [widget2]: assets/wp_roksprocket_widget_2.png
+[simple]: assets/roksprocket_simple.jpg
+[content]: assets/roksprocket_content.jpg
+[cfs]: http://wordpress.org/plugins/custom-field-suite/
+[cpt]: http://wordpress.org/plugins/custom-post-type-ui/
+[types]: http://wordpress.org/plugins/types/

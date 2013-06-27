@@ -17,3 +17,4 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
     	* [Mosaic](mosaic_mode.md)
     	* [Strips](strips_mode.md)
     	* [Headlines](headlines_mode.md)
+    * [Content Providers](layout_modes.md#content-providers)
