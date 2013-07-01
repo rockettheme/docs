@@ -1,23 +1,21 @@
 ---
-title: Graffito: Recreating the Demo - Header
-description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
+title: Fracture: Recreating the Demo - Navigation
+description: Your Guide to Recreating Elements of the Fracture Theme for WordPress
+breadcrumb: /wordpress:WordPress/themes:Themes/fracture:Fracture
 
 ---
 
-Header Section
+Navigation Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Header section:
+Here's the widget breakdown for the Navigation section:
 
 * Gantry Logo
 * Gantry Divider
 * Gantry Menu
-* Gantry Divider
-* Gantry Social Buttons
 
-The header section remains the same across the entire demo site. For this reason, it exists in the default Widget Override menu. It's also a fairly simple section to set up.
+The Navigation section remains the same across the entire demo site. For this reason, it exists in the default Widget Override menu. It's also a fairly simple section to set up.
 
 #### Gantry Logo
 The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
@@ -42,6 +40,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Show All Children | Yes |
 | Show Empty Menu | No |
 | Maximum Depth | 10 |
+| Enable Menu Count | Yes |
 | Enable JavaScript | Yes |
 | Menu Opacity | 1 |
 | Menu Effect | Slide and Fade |
@@ -49,15 +48,12 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Menu Animation | Circ.easeOut |
 | Menu Duration | 300 |
 | Centered Dropdowns | No |
-| Level 2 X Offset | -10 |
+| Level 2 X Offset | -8 |
 | Level 2 Y Offset | -10 |
-| Submenus X Offset | 0 |
-| Submenus Y Offset | 0 |
+| Submenus X Offset | -8 |
+| Submenus Y Offset | -11 |
 | Enable ActiveID | No |
 | Custom Chrome | Menu |
 
-#### Gantry Social Buttons
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Header widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
-
-[demo1]: assets/wp_graffito_demo_1.jpeg
+[demo1]: assets/wp_fracture_demo_1.jpeg
 [faq]: faq.md

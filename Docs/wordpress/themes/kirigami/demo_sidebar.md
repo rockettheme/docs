@@ -1,20 +1,22 @@
 ---
-title: Graffito: Recreating the Demo - Sidebar
-description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
+title: Kirigami: Recreating the Demo - Sidebar
+description: Your Guide to Recreating Elements of the Kirigami Theme for WordPress
+breadcrumb: /wordpress:WordPress/themes:Themes/kirigami:Kirigami
 
 ---
 
 Sidebar Section
 -----
-![][demo4]
+![][demo27]
 
-:   1. **Gantry Extras** The sidebar appears to the right of the mainbody section. In this case, the sidebar is a **Lists** RokSprocket widget. [16%, 67%, se]
+:   1. **Sidebar** The steps to create this area of the demo are detailed below. [11%, 75%, se]
 
 Here's the widget breakdown for the Sidebar section:
 
 * RokSprocket
+* Text
 
+### RokSprocket
 The **Gantry Extras** widget located in the sidebar section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
@@ -41,10 +43,25 @@ You can set the RokSprocket filters to include any category, specific articles, 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
 * Set the **Title** to `Gantry Extras`
-* Select your RokSprocket Mosaic widget in the **Choose Widget** field.
-* Set the Title Variation field to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo4]: assets/wp_graffito_demo_4.jpeg
+### Text
+The Text widget in this section is titled **Demo Replica** and has the following in the main text field.
+
+~~~
+<p class="medmarginbottom hidden-tablet"><strong>RocketLauncher</strong> is a customized <strong>WordPress</strong> install, that installs a <strong>replica</strong> of the <strong>demo</strong>.</p>
+
+<p>All sample content images, shown in this demo, will be replaced with blanks in the <a href="http://demo.rockettheme.com/wordpress/wp_kirigami/tutorials/installation/"><strong>Kirigami RocketLauncher</strong></a> package to avoid any copyright issue.</p>4
+
+<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_kirigami/tutorials/installation/"><span>Download</span></a>
+~~~
+
+* Set the **Title** to `Demo Replica`
+* Set the **Box Variation** option to **Box 1**.
+* Set the **Title Variation** option to **Basic Title**.
+* Enter `hidden-phone` in the **Custom Variations** field.
+* Leaving everything else at its default setting, select **Save**.
+
+[demo27]: assets/wp_kirigami_demo_5.jpeg

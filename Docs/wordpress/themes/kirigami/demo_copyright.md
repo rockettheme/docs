@@ -1,7 +1,7 @@
 ---
-title: Fracture: Recreating the Demo - Copyright
-description: Your Guide to Recreating Elements of the Fracture Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/fracture:Fracture
+title: Kirigami: Recreating the Demo - Copyright
+description: Your Guide to Recreating Elements of the Kirigami Theme for WordPress
+breadcrumb: /wordpress:WordPress/themes:Themes/kirigami:Kirigami
 
 ---
 
@@ -14,8 +14,6 @@ Here's the widget breakdown for the Copyright section:
 * Gantry Copyright
 * Gantry Divider
 * Custom Menu
-* Gantry Divider
-* Gantry Social Buttons
 * Gantry Divider
 * Gantry To Top
 
@@ -30,13 +28,10 @@ The Custom Menu widget allows us to add an extra menu at the bottom of the page.
 Here is a breakdown of what you'll need to change in the widget options to match the demo.
 
 * Set the **Select Menu** option to match the name of the menu you wish to appear in this area.
-* Set the **Custom Variations** field to `horizmenu nomarginleft nomarginright nopaddingleft nopaddingright hidden-phone`.
+* Set the **Custom Variations** field to `horizmenu nomarginall`.
 * Leaving all other options at their default settings, click **Save**.
-
-#### Gantry Social Buttons
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Copyright widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
 
 #### Gantry To Top
 The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We added `Top` in the **To Top Text** field as the only change from default.
 
-[demo2]: assets/wp_fracture_demo_7.jpeg
+[demo2]: assets/wp_kirigami_demo_7.jpeg

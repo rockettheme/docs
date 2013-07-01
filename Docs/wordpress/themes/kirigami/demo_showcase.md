@@ -1,7 +1,7 @@
 ---
-title: Graffito: Recreating the Demo - Showcase
-description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
+title: Kirigami: Recreating the Demo - Showcase
+description: Your Guide to Recreating Elements of the Kirigami Theme for WordPress
+breadcrumb: /wordpress:WordPress/themes:Themes/kirigami:Kirigami
 
 ---
 
@@ -13,7 +13,7 @@ Here's the widget breakdown for the Showcase section:
 
 * RokSprocket
 
-### RokSprocket
+#### RokSprocket
 The main feature showcase located near the top of the demo is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
@@ -24,8 +24,8 @@ Here is a look at the **Features Layout Options** for this widget.
 
 | Option | Setting |
 |:-------|------:|
-| Display Limit | ∞ |
 | Theme | Showcase |
+| Display Limit | ∞ |
 | Article Titles | Show |
 | Article Text | Show |
 | Preview Length | ∞ |
@@ -46,5 +46,5 @@ Once you've created this widget, you can add it via the Widgets menu by clicking
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo2]: assets/wp_graffito_demo_2.jpeg
+[demo2]: assets/wp_kirigami_demo_3.jpeg
 [roksprocket]: ../../plugins/roksprocket/
