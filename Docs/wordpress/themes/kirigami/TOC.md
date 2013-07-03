@@ -15,7 +15,7 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!metropolis:Metropolis
         * [Recommended Plugins](demo.md#recommended-plugins)
         * [Theme Settings](demo.md#theme-settings)
         * [Widget Settings](demo.md#widget-settings)
-            * [Navigation](demo_navigation.md)
+            * [Header](demo_header.md)
             * [Showcase](demo_showcase.md)
             * [Feature](demo_feature.md)
             * [Main Top](demo_maintop.md)

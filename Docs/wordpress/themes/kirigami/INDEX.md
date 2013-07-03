@@ -8,9 +8,9 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!kirigami:Kirigami
 Introduction
 -----
 ![][kirigami]
-Kirigami, the March 2013 theme release, is the first responsive RocketTheme template built with the Gantry v4 Framework. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms.
+Kirigami, the March 2013 theme release, is the first responsive RocketTheme template built with the Gantry 4 Framework. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms.
 
-The next generation layout and structure compliments the beautiful and intricate design of the theme, in conjunction with its many features such as Fusion with MegaMenu, and others based on the Gantry Framework.
+The next generation layout and structure compliments the beautiful and intricate design of the theme, in conjunction with its many features, such as Fusion with MegaMenu, and others based on the Gantry Framework.
 
 Requirements
 -----

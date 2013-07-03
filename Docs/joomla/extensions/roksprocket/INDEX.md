@@ -21,7 +21,7 @@ RokSprocket has the following requirements in order to operate:
 Key Features
 ------------
 * Multiple layout options: Features, Tabs, Lists, Mosaic & Headlines
-* 7 supported content providers: Joomla, K2, Seblod, EasyBlog, Content Builder, FieldsAttach, & Zoo
+* 8 supported content providers: Joomla, K2, Seblod, EasyBlog, Content Builder, Simple, FieldsAttach, & Zoo
 * Advanced cumulative filters: specific and dynamic filters
 * Advanced sorting rules: automatic, manual, mixed or random
 * Individual article display and configuration
