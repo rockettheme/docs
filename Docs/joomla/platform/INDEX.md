@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!platform:Platform/
 
 What is Joomla?
 -----
-(Joomla Image)
+![][graffito]
 
 Joomla is an open source platform on which Web sites and applications can be created. It's a content management system (CMS) which connects your site to a MySQLi, MySQL, or PostgreSQL database in order to make content management and delivery easier on both the site manager and visitor.
 
@@ -50,3 +50,5 @@ One of its primary strengths is its usability. Whether you're a student just get
 * [Harvard University](http://gsas.harvard.edu/)
 * [Guggenheim](http://www.guggenheim.org/)
 * [United Nations Regional Information Centre](http://www.unric.org/en/)
+
+[graffito]: assets/wp_graffito.jpg

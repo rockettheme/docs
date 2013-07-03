@@ -66,7 +66,7 @@ Microsoft's IIS server software is robust and capable. It's also the second most
 #### NGINX
 NGINX (pronounced "engine X") is a rising star in the world of Web servers. It's seen largely as a quick and lightweight alternative to Apache. It's a favorite among Ruby developers, and has received plenty of attention for being quick and adaptable. It currently sits neck-and-neck with Microsoft IIS in terms of market share around 12.5% (depending on which statistic you read). This means it has a smaller body of community support than Apache, which has around a 60-70% market share in 2013.
 
-On the positive, NGINX currently powers some of the most popular sites on the Web. This includes: Netflix, Hulu, Pinterest, GitHub, Zynga,   Eventbrite, Zappos, and more.
+On the positive, NGINX currently powers some of the most popular sites on the Web. This includes: Netflix, Hulu, Pinterest, GitHub, Zynga, Eventbrite, Zappos, and more.
 
 
 Server Requirements
