@@ -1,6 +1,7 @@
 ---
-
 title: SEO Tips
+description: Your Quick and Easy Guide to Better SEO.
+breadcrumb: /technical_tips:Technical Tips/!blogging:Blogging
 
 ---
 
@@ -28,11 +29,14 @@ There are several steps you can take to improve your site's SEO aside from chang
 
 Add Your Brand to Page Titles
 -----
-http://docs.joomla.org/SEO
-http://docs.joomla.org/Making_your_site_Search_Engine_Friendly
+Joomla, WordPress, and most other popular CMSs out there allow you to toggle an option that adds the title of your site to every page title as it appears in search. This is an important part of SEO because it not only makes it easier for people searching for your site to find you, but it increases brand identity and consistency across every page on your site.
 
-Set SEO Settings in Global Configuration
------
+It also doesn't hurt if every article search engines crawl on your site furthers your brand's authority with a given topic. While no one outside of these organizations really knows exactly what the authority algorithms look for, this step couldn't hurt. Each instance of your site's title or brand sitting alongside articles and pages about a topic you wish to gain ranking in is a good thing.
+
+Often, sites depend on their logo to establish a brand. Unfortunately, there aren't any search engines today that link brands to content via an image, even if that image has a file name that correlates with the brand. Mention in the content body is good, but the title is better.
+
+### Set SEO Settings in Global Configuration with Joomla
+For Joomla users, setting these SEO options is a fairly simple and straightforward process. Just navigate to **Administrator -> Global Configuration** and look for the options listed below.
 
 | Field                            | Action                                                            |
 |:---------------------------------|:------------------------------------------------------------------|
@@ -49,10 +53,6 @@ There's a downside with doing this. Your total SEF (Search Engine Friendly) titl
 
 ### Unicode Aliases
 Unicode aliases are only really useful if you use non-Latin characters in your site or article titles. For example, if you use the Greek alphabet as part of your site's name, then you'll want to turn this feature on. Otherwise, it's probably best left off.
-
-### Adds Suffix to URL
-
-### Use URL Rewriting
 
 ### Search Engine Friendly URLs
 This feature rewrites URLs in a way that makes it easier for someone to tell what the article is about by the URL alone. It's a useful strategy that has become part of several major search engine's ranking algorithms. If your site URLs aren't easy to understand, then there's probably less of a chance someone will click on them if it were passed on through Twitter or email.

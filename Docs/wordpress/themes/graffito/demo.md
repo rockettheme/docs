@@ -55,7 +55,7 @@ Widget Settings
 -----
 Like any Gantry template, Graffito utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
-Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are set in the primary default widget setting. You'll see a (Default) indicator next to the section names of positions which are set as default across the demo site. All other widget positions are set up for the Front Page only.
+Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
 
 One important thing to note here is that many of the widget sections included in our demo are split up using a **Gantry Divider** widget. This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section. You'll see the Gantry Divider in any widget section breakdowns as they are included in the demo.
 

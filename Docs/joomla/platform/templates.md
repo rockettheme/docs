@@ -24,7 +24,7 @@ If you have an existing site, but haven't yet installed the Gantry library, you 
 If you have an existing site running a Gantry-enabled template, you need but to download and install the standalone template along with any required and/or recommended extensions listed on the template's product page.
 
 ### Installing a Template Using RocketLauncher
-RocketLauncher is a bundle of everything you need to have what you see on the demo live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs. RocketLaunchers are not available with all of the older RocketTheme templates, but it will be listed prominently on the template's downloads page when it is available.
+RocketLauncher is a working copy of our demo site which you can install on your own server and bring live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs.
 
 You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.0+. If you have a set of extensions in mind that you wish to use on your site that don't presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
 
