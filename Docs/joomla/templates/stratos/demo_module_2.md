@@ -48,14 +48,7 @@ The RokSprocket Strips module used near the top of the front page is a great way
 
 | Option | Setting |
 |:------|:-------|
-| Ordering | 1. FP RokSprocket Strips Showcase |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
 | Module Class Suffix | fp-roksprocket-strips-showcase |
-| Caching | Use Global |
-| Cache Time | 900 |
 
 [ss1]: assets/strips_showcase_1.jpeg
 [ss2]: assets/strips_showcase_2.jpeg

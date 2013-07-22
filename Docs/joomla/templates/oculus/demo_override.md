@@ -9,13 +9,7 @@ Template Settings
 -----
 One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Adminstation -> Stratos Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
-![][stratos2]
-
-:   1. **Logo**  [9%, 20%, se]
-    2. **Menu**  [9%, 60%, sw]
-    3. **Login Panel**  [9%, 81%, sw]
-    4. **Copyright**  [88%, 20%, se]
-    5. **To-Top Scroller**  [88%, 82%, sw]
+![][demo25]
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
 
@@ -92,4 +86,3 @@ Once you've selected a Preset, these options can be further adjusted to match th
 [demo25]: assets/stratos.jpg
 [menu]: ../../start/menu.md
 [Style]: http://gantry-framework.org/documentation/wordpress/configure/
-[stratos2]: assets/stratos2.jpg

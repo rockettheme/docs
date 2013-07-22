@@ -30,6 +30,7 @@ Below, you'll find the module placement and settings for the various module posi
     7. **Gantry Extras**  [63%, 82%, sw]
     8. **Footer A**  [78%, 20%, se]
     9. **Footer B**  [78%, 82%, sw]
+    10. **Copyright Menu**  [88%, 65%, sw]
 
 We've detailed how to recreate the individual modules pictured above in the links below.
 
@@ -42,6 +43,7 @@ We've detailed how to recreate the individual modules pictured above in the link
 7. [Gantry Extras][module7]
 8. [FP Footer A][module8]
 9. [FP Footer B][module9]
+10. [Copyright Menu][module10]
 
 Recommended Extensions
 =====
@@ -77,6 +79,26 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
+Menu Settings
+-----
+![][mainmenu]
+In your site's main menu, you'll want to make a couple key changes in order for your home page to appear as it does in our demo.
+
+First, you'll need to change the **Page Class** setting under the Home menu item to `jul13-home`.
+
+The icons that appear at the top-level menu area are configured under the individual menu item's **Dropdown Menu Options**, and are set in the **Menu Icon** option.
+
+For example, the **Home** menu icon is set to `icon-home`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
+
+Article Settings
+-----
+![][article]
+The two articles that appear on the front page of the Stratos demo utilize a preset **Intro Image** under the **Images and Links** menu within the article's individual **Article Manager** page.
+
+For example, the **RokSprocket Styling** article preview as it appears in the **MainBody** section of the front page has an **Intro Image** set.
+
+To replicate this specific layout, the publishing date needs to be used.
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
@@ -95,3 +117,7 @@ You can find more information about the entire override breakdown for both the f
 [module7]: demo_module_7.md
 [module8]: demo_module_8.md
 [module9]: demo_module_9.md
+[module10]: demo_module_10.md
+[mainmenu]: assets/menu_1.jpeg
+[icons]: http://fortawesome.github.io/Font-Awesome/icons/
+[article]: assets/article.jpg

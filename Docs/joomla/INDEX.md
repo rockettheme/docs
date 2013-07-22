@@ -103,6 +103,8 @@ breadcrumb: /!joomla:Joomla/
 
 * Club Templates
 
+	- [Stratos](templates/stratos)
+	- [Oculus](templates/oculus)
 	- [Alerion](templates/alerion)
 	- [Chapelco](templates/chapelco)
 	- [Lumiere](templates/lumiere)

@@ -10,6 +10,8 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 	- [SEO Tips](blogging/seo.md)
 	- [Best Platform for Blogging](blogging/best_platform_for_blogging.md)
+	- [How to Build an Audience](blogging/how_to_build_an_audience.md)
+	- [How to Find Sponsors](blogging/sponsors.md)
 
 <!-- -->
 
@@ -27,7 +29,7 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 * Browser Extensions
 
-	- [Placeholder]()
+	- [Troubleshooting](browser_extensions/troubleshooting.md)
 
 <!-- -->
 
@@ -39,4 +41,4 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 * Personal
 
-	- [Placeholder]()
+	- [Personal Portfolio](personal/personal_portfolio.md)
