@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/themes:Themes/metropolis:Metropolis
 
 Theme Override Settings
 -----
-One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Adminstation -> Metropolis Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Metropolis Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
 ![][demo25]
 

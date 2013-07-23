@@ -84,6 +84,7 @@ breadcrumb: /!WordPress:WordPress/
 
 * Club Themes
 
+	- [Cerulean](themes/cerulean)
 	- [Metropolis](themes/metropolis)
 	- [Graffito](themes/graffito)
 	- [Fracture](themes/fracture)

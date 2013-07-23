@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/templates:Templated/stratos:Stratos
 
 Template Settings
 -----
-One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Adminstation -> Stratos Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Stratos Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
 ![][stratos2]
 
