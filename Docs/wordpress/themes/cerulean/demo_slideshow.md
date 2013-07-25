@@ -15,7 +15,7 @@ Here's the widget breakdown for the Slideshow section:
 
 * RokGallery
 
-### RokGallery
+#### RokGallery
 In our demo, we've actually broken down the Slideshow widget position by preset, so depending on which preset you use, you'll see a different slideshow. We did this in order to match appropriate images with the various potential color schemes of Cerulean.
 
 For the sake of simplicity, we've broken down the details of the RokGallery slideshow for Preset 1. The other presets are virtually identical in their settings, aside from a different image selection.
