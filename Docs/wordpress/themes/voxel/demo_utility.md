@@ -61,4 +61,3 @@ Once you've created this widget, you can add it via the Widgets menu by clicking
 The widget should now be created and ready for use on the front page of your WordPress site.
 
 [demo4]: assets/wp_fracture_demo_4.jpeg
-[roksprocket]: ../../plugins/roksprocket

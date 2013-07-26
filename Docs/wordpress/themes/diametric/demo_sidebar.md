@@ -92,4 +92,3 @@ The second text widget in this section is titled **Advertisement** and has the f
 [demo1]: assets/demo_widget_7.jpeg
 [demo2]: assets/demo_widget_8.jpeg
 [demo3]: assets/demo_widget_9.jpeg
-[roksprocket]: ../../plugins/roksprocket

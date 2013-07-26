@@ -139,4 +139,3 @@ The RokAjaxSearch widget allows users to search your site for interesting conten
 [demo3]: assets/demo_widget_5.jpeg
 [demo4]: assets/demo_widget_6.jpeg
 [demo5]: assets/demo_widget_15.jpg
-[roksprocket]: ../../plugins/roksprocket

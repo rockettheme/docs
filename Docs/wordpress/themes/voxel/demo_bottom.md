@@ -1,11 +1,11 @@
 ---
-title: Ximenia: Recreating the Demo - Bottom
+title: Ximenia: Recreating the Demo - Footer
 description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 ---
 
-Bottom Section
+Footer Section
 -----
 ![][demo1]
 

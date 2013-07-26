@@ -1,11 +1,11 @@
 ---
-title: Ximenia: Recreating the Demo - Navigation
+title: Ximenia: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 ---
 
-Navigation Section
+Header Section
 -----
 ![][demo1]
 
