@@ -1,40 +1,40 @@
 ---
-title: Ximenia: Recreating the Demo
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Voxel: Recreating the Demo
+description: Your Guide to Recreating Elements of the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 
 Introduction
 =====
-![][ximenia]
-Recreating features of the demo site used to show off some of the more interesting aspects of Ximenia can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+![][voxel2]
+Recreating features of the demo site used to show off some of the more interesting aspects of Voxel can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
-Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Ximenia theme.
+Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Voxel theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
 Recommended Plugins
 =====
-Here is a list of RocketTheme plugins used to create the demo version of Ximenia:
+Here is a list of RocketTheme plugins used to create the demo version of Voxel:
 
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
 * RokCommon Library (Installed with RokSprocket)
 * [RokGallery][rokgallery]
-* [RokSocialButtons][social] (Included in Ximenia Theme Plugins)
+* RokSocialButtons (Included in Voxel Theme Plugins)
 * [RokSprocket][roksprocket]
 
-All of these plugins are included with the Ximenia RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+All of these plugins are included with the Voxel RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 =====
-The front page of the Ximenia demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Ximenia theme.
+The front page of the Voxel demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Voxel theme.
 
 Theme Settings
 -----
-The first thing you'll need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Ximenia Theme** and selecting the **+** icon located just above the **Style** settings tab. 
+The first thing you'll need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Voxel Theme** and selecting the **+** icon located just above the **Style** settings tab. 
 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
@@ -49,33 +49,32 @@ You can find more information about the entire override breakdown for both the f
 
 Widget Settings
 -----
-![][ximenia2]
+![][Voxel]
 
-:   1. **Navigation - Gantry Logo** [6%, 13%, se]
-    2. **Navigation - Gantry Menu** [6%, 85%, sw]
-    3. **Showcase - RokSprocket** [9%, 13%, se]
-    4. **Main Top - RokSprocket** [20%, 13%, se]
-    5. **Main Top - Text: Interview Creative Director** [29%, 13%, se]
-    6. **Main Top - Gantry Social Buttons** [20%, 85%, sw]
-    7. **Main Top - Text: Top Features** [26%, 85%, sw]
-    8. **Main Top - RokAjaxSearch** [38%, 85%, sw]
-    9. **Sidebar - Text: More Features** [44%, 85%, sw]
-    10. **Sidebar - RokSprocket: Ximenia Guide** [55%, 85%, sw]
-    11. **Sidebar - Text: Advertisement** [65%, 85%, sw]
-    12. **Content Top - Text: Fusion with MegaMenu** [41%, 13%, se]
-    13. **Content Top - Text: RokGallery Styling** [48%, 13%, se]
-    14. **Content Top - Text: RokSprocket Layouts** [41%, 45%, se]
-    15. **Content Top - Text: Core Gantry Framework** [48%, 45%, se]
-    16. **Content Bottom - RokGallery** [73%, 13%, se]
-    17. **Bottom - Text** [81%, 55%, sw]
-    18. **Footer - Text: Top Plugins** [83%, 13%, se]
-    19. **Footer - Text: Demo Information** [83%, 38%, se]
-    20. **Footer - Text: Contact Details** [83%, 83%, sw]
-    21. **Copyright - Gantry Copyright** [92%, 13%, se]
-    22. **Copyright - Gantry To Top** [92%, 50%, sw]
-    23. **Copyright - Gantry Branding** [92%, 85%, sw]
+:   1. **Header - Gantry Logo** [5%, 20%, sw]
+    2. **Header - Gantry Social Buttons** [6%, 78%, se]
+    3. **Navigation - Gantry Menu** [8%, 15%, se]
+    4. **Navigation - RokAjaxSearch** [8%, 85%, sw]
+    5. **Utility - Text** [7%, 40%, sw]
+    6. **Showcase - RokSprocket** [12%, 15%, ne]
+    7. **SlideInset - RokSprocket** [12%, 85%, nw]
+    8. **Feature - RokSprocket** [22%, 15%, se]
+    9. **Sidebar - Text** [54%, 85%, sw]
+    10. **Sidebar - Text** [61%, 85%, sw]
+    11. **Content Top - RokSprocket** [52%, 15%, se]
+    12. **Content Bottom - Text** [74%, 15%, se]
+    13. **Content Bottom - Text** [74%, 40%, se]
+    14. **Bottom - RokSprocket** [82%, 15%, se]
+    15. **Footer - Text** [84%, 27%, sw]
+    16. **Footer - Text** [84%, 47%, sw]
+    17. **Footer - Text** [84%, 67%, sw]
+    18. **Footer - Text** [84%, 85%, sw]
+    19. **Footer - RokGallery** [92%, 85%, sw]
+    20. **Copyright - Gantry Branding** [92%, 15%, se]
+    21. **Copyright - Text** [92%, 45%, se]
+    22. **Copyright - Gantry To Top** [92%, 85%, sw]
 
-Like any Gantry template, Ximenia utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry template, Voxel utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
 
@@ -83,14 +82,16 @@ One important thing to note here is that many of the widget sections included in
 
 ### Widget Sections
 
+* [Header][header]
 * [Navigation][navigation]
+* [Utility][utility]
 * [Showcase][showcase]
-* [Main Top][maintop]
+* [SlideInset][slideinset]
+* [Feature][feature]
 * [Sidebar][sidebar]
 * [Content Top][contenttop]
 * [Content Bottom][contentbottom]
 * [Bottom][bottom]
-* [Extension][extension]
 * [Footer][footer]
 * [Copyright][copyright]
 
@@ -98,12 +99,11 @@ One important thing to note here is that many of the widget sections included in
 [rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
-[ximenia]: assets/ximenia.jpeg
-[ximenia2]: assets/ximenia2.jpeg
+[voxel]: assets/Voxel.jpeg
+[voxel2]: assets/Voxel2.jpeg
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
 [rokgallery]: http://www.rockettheme.com/extensions-joomla/rokgallery
 [faq]: faq.md
-[menu]: ../../start/menu.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
 [navigation]: demo_navigation.md
 [contenttop]: demo_contenttop.md
@@ -117,5 +117,7 @@ One important thing to note here is that many of the widget sections included in
 [extension]: demo_extension.md
 [footer]: demo_footer.md
 [copyright]: demo_copyright.md
+[header]: demo_header.md
+[utility]: demo_utility.md
+[slideinset]: demo_slideinset.md
 [demooverride]: demo_override.md
-[social]: http://www.rockettheme.com/wordpress-downloads/club/3402-Ximenia

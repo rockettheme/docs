@@ -1,16 +1,16 @@
 ---
-title: Ximenia
-description: Your Guide to Using the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
+title: Voxel
+description: Your Guide to Using the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!voxel:Voxel
 
 ---
 
 Introduction
 -----
-![][ximenia]
-Ximenia, the February 2013 template release, is an elegant, subtle and conservative design, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance.
+![][voxel]
+Voxel, the December 2012 theme release, is a magazine orientated design. Its elegant and engaging style provides a rich back-drop to your site content. The new RokSprocket Mosaic layout provides a powerful mechanism to easily show content, in a dynamic fashion.
 
-An assortment of core RocketTheme Extensions, such as RokSprocket and its multiple layout modes, have template-based styling to apply integrated visuals for the additional functionality offered.
+The theme has support for various RocketTheme Plugins, as well as a beautifully styled menu, amongst other features, such as the Gantry Framework.
 
 Requirements
 -----
@@ -20,34 +20,36 @@ Requirements
 * WordPress 3.2+
 * Gantry Framework
 
->> NOTE: Gantry v1.30+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v1.30+ is required for Voxel to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
 * Responsive Layout
-* 8 Preset Styles
+* 960px and 1200px Fixed Layouts
+* 12 Preset Styles
 * 82 Widget Positions
-* 10 Styled and 25 Structural Widget Variations
-* Extensive RokSprocket Integration
+* 11 Styled and 26 Structural Widget Variations
 * Powerful Core Gantry Framework
 * iPhone/Android viewing support
+* RokSprocket Mosaic Layout Integration
 * Custom Content Typography
 * Fusion MegaMenu & Splitmenu
 * Load Transitions
 * FF, Safari, Chrome, Opera, IE7+ Compatible
 * W3C XHTML 1.0 / CSS Valid
 
-### Integrated Styling for RokSprocket
-![][roksprocket1]
-The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ximenia-specific styling, as seen on the Ximenia Demo site. RokSprocket is a powerful content widget with an intuitive administrator interface.
+### RokSprocket Mosaic Layout
+![][roksprocket]
+Mosaic, a new template layout for RokSprocket, that presents content in a dynamic and interactive grid structure; perfect for magazine sites. The grids auto-align, so it doesn't matter if you have different sizes for images or text.
+
+### Intuitive User Interface
+![][roksprocket2]
+RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The plugin itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
-[ximenia]: assets/ximenia.jpeg
-[responsive]: assets/responsive.jpg
-[roksprocket1]: assets/roksprocket_1.jpg
-[roksprocket2]: assets/roksprocket_2.jpg
-[roksprocket3]: assets/roksprocket_3.jpg
-[roksprocket4]: assets/roksprocket_4.jpg
+[voxel]: assets/voxel2.jpeg
+[roksprocket]: assets/roksprocket.jpg
+[roksprocket2]: assets/roksprocket2.jpg
 [gantry4]: assets/gantry4.jpg
 [bootstrap]: http://twitter.github.com/bootstrap/

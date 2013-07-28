@@ -1,13 +1,13 @@
 ---
-title: Ximenia: Recreating the Demo - Overrides
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Voxel: Recreating the Demo - Overrides
+description: Your Guide to Recreating Elements of the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 
 Theme Override Settings
 -----
-One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Ximenia Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Voxel Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a theme preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Theme Settings page.
 
@@ -16,12 +16,12 @@ Once you've selected a Preset, these options can be further adjusted to match th
 ### Style
 | Override | Option | Setting |
 |:--------|------:|-------:|
-| Default | Logo | Ximenia |
+| Default | Logo | Voxel |
 | Default | Load Transition | On |
 | Default | Pagination | Style: Full, Side Pages: 8 |
-| Default | Thumbnail Size | Width: 336, Height: 212, Position: Right |
-| Default | Use WordPress Comments | On |
-| Default | Font Settings | Font Family: Ximenia, Font Size: Default |
+| Default | Thumbnail Size | Width: 267, Height: 160, Position: Right |
+| Default | WebFonts | Show: Off, WebFonts Source: Google Font Directory |
+| Default | Font Settings | Font Family: Voxel, Font Size: Default |
 | Default | Use WordPress Comments | On |
 | Default | Custom CSS | Blank |
 
@@ -36,26 +36,24 @@ Once you've selected a Preset, these options can be further adjusted to match th
 | Default | Shortcodes in Widgets | On |
 | Default | RokStyle | On |
 | Default | Google Analytics | Enabled: Off, UA Code: Blank |
-| Front Page | Page Suffix | Enabled: On, Class: `-feb13-home` | 
+| Front Page | Page Suffix | Enabled: On, Class: `menu-home` | 
 
 ### Layouts
 | Override | Option | Setting |
 |:--------|------:|-------:|
 | Default | Top Positions | Positions: 4, 3:3:3:3 |
-| Default | Navigation Positions | Positions: 2, 3:9 |
-| Default | Header Positions | Positions: 4, 3:3:3:3 |
+| Default | Navigation Positions | Positions: 2, 9:3 |
+| Default | Header Positions | Positions: 2, 6:6 |
 | Default | Showcase Positions | Positions: 4, 3:3:3:3 |
 | Default | Feature Positions | Positions: 4, 3:3:3:3 |
-| Default | Utility Positions | Positions: 4, 3:3:3:3 |
+| Default | Utility Positions | Positions: 1, 12 |
 | Default | MainTop Positions | Positions: 4, 3:3:3:3 |
 | Default | MainBody Positions | Positions: 2, 8:4 |
 | Default | MainBottom Positions | Positions: 4, 3:3:3:3 |
 | Default | Extension Positions | Positions: 4, 3:3:3:3 |
 | Default | Bottom Positions | Positions: 4, 3:3:3:3 |
-| Default | Footer Positions | Positions: 3, 4:4:4 |
-| Default | Copyright Positions | Positions: 3, 4:4:4 |
-| Front Page | MainTop Positions | Positions: 4, 3:3:3:3 |
-| Front Page | MainBody Positions | Positions: 2, 9:3 |
+| Default | Footer Positions | Positions: 4, 3:3:3:3 |
+| Default | Copyright Positions | Positions: 3, 3:6:3 |
 
 ### Advanced
 | Override | Option | Setting |

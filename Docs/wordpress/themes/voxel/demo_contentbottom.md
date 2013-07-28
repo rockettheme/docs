@@ -7,32 +7,50 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 Content Bottom Section
 -----
-![][demo1]
-
 Here's the widget breakdown for the Content Bottom section:
 
-* RokGallery
+* Text
+* Gantry Divider
+* Text
 
-#### RokGallery
-This RokGallery widget utilizes RokBox to display images in a way that doesn't distract from the visual elements of the theme. RokBox is required for this feature to work.
+#### Text
+![][demo1]
+The first Text widget in the section is pretty simple and straightforward. You'll need to enter the following in the main text field.
 
-Here's a breakdown of the widget options: 
+~~~
+<p class="rt-center">
+  <a href="http://www.youtube.com/watch?v=a0_FIK6h7t8" title="Thor - Official Trailer @ http://www.youtube.com/watch?v=a0_FIK6h7t8" rel="rokbox[580 320]">
+    <img alt="Image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/sample-video.jpg" width="267" height="174" class="rt-image" />
+  </a>
+</p>
+~~~
 
-| Option | Setting |
-|:-------|------:|
-| Title | Adobe Fireworks PNG Sources Available |
-| Link Type | Link to RokBox Full Image |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 4 |
-| Gallery Style | Light |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 4 |
-| Title Variation | Title 2 |
+Here is a breakdown of options changes you'll want to make to match the demo.
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+* Enter `RokBox Video` in the **Title** field.
+* Set the **Title Variation** option to **Title 5**.
+* Leaving everything else at its default setting, select **Save**.
 
-[demo1]: assets/demo_widget_11.jpeg
+#### Text
+![][demo2]
+The second Text widget in the section is also pretty simple and straightforward. You'll need to enter the following in the main text field.
+
+~~~
+<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut1.jpg" alt="image" style="margin-bottom: 15px;" />
+<p>Learn how to install the theme, plugins and RocketLauncher, with this demo's <a href="http://demo.rockettheme.com/wordpress/wp_voxel/tutorials/installation/" class="nobold">Installation</a> tutorial.</p>
+<div class="clear"></div>
+
+<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut2.jpg" alt="image" />
+<p class="nomarginbottom">Explore even more with a range of theme specific <a href="http://www.rockettheme.com/forum/index.php?f=697&amp;rb_v=viewforum" class="nobold">Forum-based Tutorials</a>, such as overrides setup.</p>
+<div class="clear"></div>
+~~~
+
+Here is a breakdown of options changes you'll want to make to match the demo.
+
+* Enter `Theme Tutorials` in the **Title** field.
+* Set the **Title Variation** option to **Title 5**.
+* Leaving everything else at its default setting, select **Save**.
+
+[demo1]: assets/demo_9.jpeg
+[demo2]: assets/demo_10.jpeg
 [rokgallery]: ../../plugins/rokgallery

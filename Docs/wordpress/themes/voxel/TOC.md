@@ -16,8 +16,11 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
         * [Theme Settings](demo.md#theme-settings)
         * [Widget Settings](demo.md#widget-settings)
             * [Header](demo_header.md)
+            * [Navigation](demo_navigation.md)
+            * [Utility](demo_utility.md)
             * [Showcase](demo_showcase.md)
-            * [Main Top](demo_maintop.md)
+            * [SlideInset](demo_slideinset.md)
+            * [Feature](demo_feature.md)
             * [Sidebar](demo_sidebar.md)
             * [Content Top](demo_contenttop.md)
             * [Content Bottom](demo_contentbottom.md)
@@ -26,4 +29,3 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
             * [Copyright](demo_copyright.md)
         * [Override Settings](demo_override.md)
     * [FAQ](faq.md)
-

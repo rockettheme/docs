@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Footer
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Voxel: Recreating the Demo - Footer
+description: Your Guide to Recreating Elements of the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 
@@ -14,83 +14,113 @@ Here's the widget breakdown for the Footer section:
 * Text
 * Gantry Divider
 * Text
-* Gantry Divider
 * Text
+* Gantry Divider
+* RokGallery
 
 #### Text
 The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<ul class="dots">
-  <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
-      <em class="bold">RokSprocket</em>
-    </a>
-    <br />A <strong>revolutionary</strong> multi-purpose WordPress content widget to display your <strong>content</strong>, in <strong>multliple</strong> formats such as <strong>Tabs</strong>.
-  </li>
-  <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
-      <em class="bold">RokGallery</em>
-    </a>
-    <br />A powerful <strong>gallery</strong> plugin based on a custom tag <strong>architecture</strong>, with a flexible, non-destructive <strong>slice</strong> editor.
-  </li>
-</ul>
+<p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All images are from <a target="_blank" href="http://www.hdwallpapers.in">www.hdwallpapers.in</a> for use on this template demo only.</p>
+
+<h4 class="smallmarginbottom">VOXEL</h4>
+<span>t:  1 (888) 123-4567</span><br />
+<span>e: voxel&#64;contact.com</span>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Set the **Title** to `Top Plugins`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title** to `Demo Images`.
+* Set the **Title Variation** to **Title 2**.
+* Enter `nopaddingbottom nopaddingright` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a target="_blank" href="http://www.shutterstock.com"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
-
-<p><strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/tutorials/rocketlauncher/"><strong>install</strong></a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.</p>
+<ul>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/">FEATURES</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/plugins/">PLUGINS</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/typography/">TYPOGRAPHY</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/preset-styles/">STYLES</a></li>
+</ul>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Set the **Title** to `Demo Information`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title** to `Inside Voxel`.
+* Set the **Title Variation** to **Title 2**.
+* Set the **Padding Variation** option to **No Padding Bottom**.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon1.png" />
-<a href="#"><em class="bold"> 1 (555) 555-555-5555</em></a><br />
-<a href="#"><em class="bold"> 1 (555) 555-555-5556</em></a>
-
-<div class="clear largemarginbottom">&nbsp;</div>
-
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon2.png" />
-<em class="bold">
-  <strong>Ximenia Template LLC</strong><br />
-</em>
-<em class="bold nobold">
-  123 WordPress! Boulevard<br />
-  Seattle, WA 00000<br />
-  United States of America
-</em>
-
-<div class="clear largemarginbottom">&nbsp;</div>
-
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon3.png" />
-<em class="bold">noreply@domain.com</em>
+<ul>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/tutorials/">TUTORIALS &amp; GUIDES</a></li>
+  <li><a class="normalfont" href="http://www.rockettheme.com/forum/index.php?f=697&amp;rb_v=viewforum" target="_blank">FORUM SUPPORT</a></li>
+</ul>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Set the **Title** to `Contact Details`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title** to `Help Desk`.
+* Set the **Title Variation** to **Title 2**.
+* Enter `nopaddingtop nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
-[demo1]: assets/demo_widget_13.jpeg
+#### Text
+The fourth Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+
+~~~
+<p class="smallmarginbottom">A content switchblade widget.</p>
+
+<ul>
+  <li><strong>Multiple Layouts: </strong>Features, Tabs, Lists &amp; Headlines</li>
+  <li><strong>Various Content Sources: </strong> WordPress, Custom Post Types, WP Post Type &amp; Types</li>
+  <li><strong>Advanced Sorting Rules: </strong> auto, manual, mixed or random</li>
+</ul>
+
+
+<div class="rt-floatright medmargintop">
+  <a href="http://demo.rockettheme.com/wordpress/wp_voxel/plugins/">Learn More  </a>
+</div>
+
+<div class="clear"></div>
+~~~
+
+Here is a breakdown of options changes you'll want to make to match the demo.
+
+* Set the **Title** to `RokSprocket`.
+* Set the **Title Variation** to **Title 2**.
+* Enter `nopaddingbottom nopaddingleft` in the **Custom Variations** field.
+* Leaving everything else at its default setting, select **Save**.
+
+#### RokGallery
+![][demo1]
+This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
+
+Here's a breakdown of the widget options: 
+
+| Option | Setting |
+|:-------|------:|
+| Title | Blank |
+| Link Type | None |
+| Show Title | No |
+| Show Caption | No |
+| Sort By | Order |
+| Sort Direction | Ascending |
+| Slice Limit | 9 |
+| Gallery Style | Light |
+| Gallery Layout | Grid Layout |
+| Grid Columns | 3 |
+| Box Variation | 2 |
+| Custom Variations | `footer-rokgallery` |
+
+This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+
+[demo1]: assets/demo_12.jpeg
+[rokgallery]: ../../plugins/rokgallery
