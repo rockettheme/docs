@@ -1,13 +1,13 @@
 ---
-title: Stratos: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Stratos Template for WordPress
-breadcrumb: /joomla:Joomla/templates:Templated/stratos:Stratos
+title: Oculus: Recreating the Demo - Template Settings
+description: Your Guide to Recreating Elements of the Oculus Template for WordPress
+breadcrumb: /joomla:Joomla/templates:Templated/oculus:Oculus
 
 ---
 
 Template Settings
 -----
-One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Stratos Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Template Manager -> Oculus Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
 ![][demo25]
 

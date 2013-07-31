@@ -103,6 +103,7 @@ breadcrumb: /!joomla:Joomla/
 
 * Club Templates
 
+	- [Praxis](templates/praxis)
 	- [Stratos](templates/stratos)
 	- [Oculus](templates/oculus)
 	- [Alerion](templates/alerion)
@@ -121,5 +122,3 @@ breadcrumb: /!joomla:Joomla/
 	- [Ionosphere](templates/ionosphere)
 	- [Clarion](templates/clarion)
 	- [Halcyon](templates/halcyon)
-	- [Visage](templates/visage)
-	- [Enigma](templates/enigma)

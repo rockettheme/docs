@@ -39,6 +39,12 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 <!-- -->
 
+* Web Development
+
+	- [Placeholder]()
+
+<!-- -->
+
 * Personal
 
 	- [Personal Portfolio](personal/personal_portfolio.md)
