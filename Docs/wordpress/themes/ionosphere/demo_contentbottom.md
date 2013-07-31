@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Content Bottom
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Ionosphere: Recreating the Demo - Content Bottom
+description: Your Guide to Recreating Elements of the Ionosphere Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/ionosphere:Ionosphere
 
 ---
 
@@ -11,28 +11,35 @@ Content Bottom Section
 
 Here's the widget breakdown for the Content Bottom section:
 
-* RokGallery
+* Text
 
-#### RokGallery
-This RokGallery widget utilizes RokBox to display images in a way that doesn't distract from the visual elements of the theme. RokBox is required for this feature to work.
+#### Text
+This Text widget is pretty simple and straightforward. You'll need to enter the following in the main text field.
 
-Here's a breakdown of the widget options: 
+~~~
+<div class="component-content">
 
-| Option | Setting |
-|:-------|------:|
-| Title | Adobe Fireworks PNG Sources Available |
-| Link Type | Link to RokBox Full Image |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 4 |
-| Gallery Style | Light |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 4 |
-| Title Variation | Title 2 |
+<div class="article-header">
+<div class="article-title"><div class="article-title2"><div class="article-title3">
+<h1 class="title">Color Chooser</h1>
+</div></div></div>
+<div class="clear"></div>
+</div>
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+<div class="module-content">
+<div class="fp-main-img"><img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-main-2.jpg" alt="image"  width="284" height="253"/></div>
 
-[demo1]: assets/demo_widget_11.jpeg
+<div class="promo largepaddingtop"><h3 class="feature nobold largemarginbottom">Ultimate Customization</h3></div>
+<p>The twelve style variations are fully customizable with the most comprehensive <strong>color chooser </strong>system ever. Choose just a few tones and shades, and <strong>Ionosphere</strong> does the rest, <strong>automatically</strong> calculating an appropriate color scheme for the various theme elements. All at a push of the button inside the <strong>Gantry Administrator</strong>.</p>
+<a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/preset-styles/" class="readon"><span>More Information</span></a>
+</div>
+</div>
+~~~
+
+Here is a breakdown of options changes you'll want to make to match the demo.
+
+* Enter `nomargintop nomarginbottom nopaddingbottom` in the **Custom Variations** field.
+* Leaving everything else at its default setting, select **Save**.
+
+[demo1]: assets/demo_8.jpeg
 [rokgallery]: ../../plugins/rokgallery

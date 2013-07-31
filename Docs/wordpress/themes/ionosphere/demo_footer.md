@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Footer
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Ionosphere: Recreating the Demo - Footer
+description: Your Guide to Recreating Elements of the Ionosphere Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/ionosphere:Ionosphere
 
 ---
 
@@ -21,76 +21,60 @@ Here's the widget breakdown for the Footer section:
 The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<ul class="dots">
-  <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
-      <em class="bold">RokSprocket</em>
-    </a>
-    <br />A <strong>revolutionary</strong> multi-purpose WordPress content widget to display your <strong>content</strong>, in <strong>multliple</strong> formats such as <strong>Tabs</strong>.
-  </li>
-  <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
-      <em class="bold">RokGallery</em>
-    </a>
-    <br />A powerful <strong>gallery</strong> plugin based on a custom tag <strong>architecture</strong>, with a flexible, non-destructive <strong>slice</strong> editor.
-  </li>
+<ul class="dots normarginbottom">
+    <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/tutorials/rocketlauncher/">RocketLauncher: Demo Pack</a><br /><span>A complete, streamlined / modified WordPress install that replicates this theme demo.</span> </li>
+  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/plugins/">Plugins Package</a><br /><span>A zip package that contains all of the plugins utilised in this theme.</span></li>
+  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/tutorials/installation/">Adobe&#174; Fireworks PNG Sources</a><br /><span>Theme / BG Sources &amp; Font(s).</span></li>
 </ul>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Set the **Title** to `Top Plugins`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title** to `Additional Downloads`.
+* Set the **Title Variation** to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a target="_blank" href="http://www.shutterstock.com"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
-
-<p><strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/tutorials/rocketlauncher/"><strong>install</strong></a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.</p>
+<p>All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All content images are licensed from <a href="http://www.shutterstock.com/" target="_blank">shutterstock.com</a> for exclusive use on this demo only.</p>
+    
+<span>Note: <strong>RokSprocket</strong> requires Gantry 1.27&#43; and RokCommon 3.0&#43;.</span>aced with <strong>sample images</strong> to avoid any copyright issue.</p>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
 * Set the **Title** to `Demo Information`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title Variation** to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon1.png" />
-<a href="#"><em class="bold"> 1 (555) 555-555-5555</em></a><br />
-<a href="#"><em class="bold"> 1 (555) 555-555-5556</em></a>
-
+<div class="feature">
+<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon1.png" alt="image" class="largepaddingleft floatleft smallpaddingright medpaddingtop" />
+<a><em class="bold2 nobold"> 1 (555) 555-555-5555</em></a><br />
+<a><em class="bold2 nobold"> 1 (555) 555-555-5556</em></a>
 <div class="clear largemarginbottom">&nbsp;</div>
-
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon2.png" />
-<em class="bold">
-  <strong>Ximenia Template LLC</strong><br />
+<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon3.png" alt="image" class="largepaddingleft floatleft smallpaddingright largemarginbottom largepaddingbottom" />
+<em class="bold2 nobold">
+    Ionosphere Theme LLC<br />
+  123 Joomla! Boulevard<br />
+  Seattle, WA 00000, USA
 </em>
-<em class="bold nobold">
-  123 WordPress! Boulevard<br />
-  Seattle, WA 00000<br />
-  United States of America
-</em>
-
 <div class="clear largemarginbottom">&nbsp;</div>
-
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon3.png" />
-<em class="bold">noreply@domain.com</em>
+<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon4.png" alt="image" class="largepaddingleft floatleft smallpaddingright" />
+<em class="bold2 nobold">noreply&#64;domain.com</em>
+</div>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
 * Set the **Title** to `Contact Details`.
-* Set the **Title Variation** to **Title 3**.
-* Enter `largemargintop largepaddingtop` in the **Custom Variations** field.
+* Set the **Title Variation** to **Title 1**.
+* Enter `promo` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
-[demo1]: assets/demo_widget_13.jpeg
+[demo1]: assets/demo_12.jpeg

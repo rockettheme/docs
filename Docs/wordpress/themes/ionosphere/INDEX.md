@@ -1,16 +1,16 @@
 ---
-title: Ximenia
-description: Your Guide to Using the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
+title: Ionosphere
+description: Your Guide to Using the Ionosphere Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!Ionosphere:Ionosphere
 
 ---
 
 Introduction
 -----
-![][ximenia]
-Ximenia, the February 2013 template release, is an elegant, subtle and conservative design, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance.
+![][ionosphere]
+Ionosphere, the October 2012 theme release, is an incredibly versatile theme that places the artist's palette in your hands, through our most comprehensive Color Chooser system to date. The color selection system is completely dynamic, with just a few color choices, the theme calculates the appropriate tone; in conjunction with background pattern parameters.
 
-An assortment of core RocketTheme Extensions, such as RokSprocket and its multiple layout modes, have template-based styling to apply integrated visuals for the additional functionality offered.
+RokSprocket debuts with Ionosphere, a powerful, revolutionary content plugin, that combines tabbed, showcase, ticker and accordian features.
 
 Requirements
 -----
@@ -20,30 +20,36 @@ Requirements
 * WordPress 3.2+
 * Gantry Framework
 
->> NOTE: Gantry v1.30+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: RokCommon v3.0+ is required for Ionosphere to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
-* Responsive Layout
-* 8 Preset Styles
-* 82 Widget Positions
-* 10 Styled and 25 Structural Widget Variations
-* Extensive RokSprocket Integration
+* 12 Preset Styles
 * Powerful Core Gantry Framework
 * iPhone/Android viewing support
+* Extensive RokSprocket Integration
+* RocketTheme Plugins Styling
 * Custom Content Typography
 * Fusion MegaMenu & Splitmenu
 * Load Transitions
+* 84 Widget Positions
+* 11 Styled and 26 Layout Widget Variations
 * FF, Safari, Chrome, Opera, IE7+ Compatible
 * W3C XHTML 1.0 / CSS Valid
 
-### Integrated Styling for RokSprocket
+### RokSprocket Integrated Theme
 ![][roksprocket1]
-The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ximenia-specific styling, as seen on the Ximenia Demo site. RokSprocket is a powerful content widget with an intuitive administrator interface.
+RokSprocket is a revolutionary new WordPress plugin that has been designed to replace a variety of our existing ‘content’ widgets.
+
+These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts/pages. We have built our new October 2012 WordPress theme to showcase this plugin.
+
+### RokSprocket :: Revolutionary User Interface
+![][roksprocket2]
+RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The plugin itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
-[ximenia]: assets/ximenia.jpeg
+[ionosphere]: assets/ionosphere2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket1]: assets/roksprocket_1.jpg
 [roksprocket2]: assets/roksprocket_2.jpg
