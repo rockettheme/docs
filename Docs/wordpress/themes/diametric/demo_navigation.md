@@ -1,27 +1,19 @@
 ---
-title: Ximenia: Recreating the Demo - Header
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Diametric: Recreating the Demo - Navigation
+description: Your Guide to Recreating Elements of the Diametric Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/diametric:Diametric
 
 ---
 
-Header Section
+Navigation Section
 -----
 ![][demo1]
 
 Here's the widget breakdown for the Navigation section:
 
-* Gantry Logo
-* Gantry Divider
 * Gantry Menu
 
 The Navigation section remains the same across the entire demo site. For this reason, it exists in the default Widget Override menu. It's also a fairly simple section to set up.
-
-#### Gantry Logo
-The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
-
-#### Gantry Divider
-This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Gantry Menu
 The Gantry Menu widget should be set to match your site's main menu as it serves as the primary menu widget for the entire site. You can customize this menu by navigating to **Administration -> Appearance -> Menus** and creating or modifying your main menu there. 
@@ -55,6 +47,6 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Submenus Y Offset | -11 |
 | Enable ActiveID | No |
 
-[demo1]: assets/wp_Ximenia_demo_1.jpeg
+[demo1]: assets/demo_1.jpeg
 [faq]: faq.md
 [menu]: ../../start/menu.md

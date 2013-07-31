@@ -1,30 +1,51 @@
 ---
-title: Ximenia: Recreating the Demo - Footer
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Diametric: Recreating the Demo - Bottom
+description: Your Guide to Recreating Elements of the Diametric Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/diametric:Diametric
 
 ---
 
-Footer Section
+Bottom Section
 -----
 ![][demo1]
+
+Here's the widget breakdown for the Footer section:
+
+* Text
+* RokGallery
 
 #### Text
 The Text widget in the section is pretty simple and straightforward. You'll need to enter the following in the main text field.
 
 ~~~
-<ul class="menu">
-<li class="item-189"><span class="separator">Template Features</span>
-</li><li class="item-190"><span class="separator">Integrated Extensions</span>
-</li><li class="item-191"><span class="separator">Preset Styles</span>
-</li><li class="item-192"><span class="separator">Powerful Menu</span>
-</li><li class="item-193"><span class="separator">Template Tutorials</span>
-</li></ul>
+<span class="paneltitle">Latest Pictures</span>
+<span class="panelsubtitle">Powered by RokGallery</span>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Enter `horizmenu bottom-menu` in the **Custom Variations** field.
+* Enter `nomarginbottom nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
-[demo1]: assets/demo_widget_12.jpeg
+#### RokGallery
+This RokGallery widget utilizes RokBox to display images in a way that doesn't distract from the visual elements of the theme. RokBox is required for this feature to work.
+
+Here's a breakdown of the widget options: 
+
+| Option | Setting |
+|:-------|------:|
+| Link Type | Link to RokBox Full Image |
+| Show Title | No |
+| Show Caption | No |
+| Sort By | Order |
+| Sort Direction | Ascending |
+| Slice Limit | 10 |
+| Gallery Style | Dark |
+| Gallery Layout | Grid Layout |
+| Grid Columns | 5 |
+| Custom Variations | `nopaddingall nomargintop` |
+
+This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+
+[demo1]: assets/demo_5.jpeg
+[rokgallery]: ../../plugins/rokgallery

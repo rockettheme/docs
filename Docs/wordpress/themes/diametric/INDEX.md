@@ -1,16 +1,16 @@
 ---
-title: Ximenia
-description: Your Guide to Using the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
+title: Diametric
+description: Your Guide to Using the Diametric Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!diametric:Diametric
 
 ---
 
 Introduction
 -----
-![][ximenia]
-Ximenia, the February 2013 template release, is an elegant, subtle and conservative design, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance.
+![][diametric2]
+Diametric, the November 2012 theme release, is a beautifully layered theme, with a distinct panel-based design, using the powerful ColorChooser system. The theme has integrated styling for a range of popular RocketTheme plugins, such as RokSprocket, allowing for maximum visual and structural flexibility.
 
-An assortment of core RocketTheme Extensions, such as RokSprocket and its multiple layout modes, have template-based styling to apply integrated visuals for the additional functionality offered.
+Built on the Gantry Framework, Diametric has a powerful core supporting versatile and functional features; in addition to standard elements such as the stunning Fusion Menu.
 
 Requirements
 -----
@@ -20,33 +20,44 @@ Requirements
 * WordPress 3.2+
 * Gantry Framework
 
->> NOTE: Gantry v1.30+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v1.28+ is required for Diametric to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
-* Responsive Layout
-* 8 Preset Styles
-* 82 Widget Positions
-* 10 Styled and 25 Structural Widget Variations
-* Extensive RokSprocket Integration
+* 12 Preset Styles
 * Powerful Core Gantry Framework
 * iPhone/Android viewing support
+* Extensive RokSprocket Integration
+* RocketTheme Plugins Styling
 * Custom Content Typography
 * Fusion MegaMenu & Splitmenu
 * Load Transitions
+* 82 Widget Positions
+* 15 Styled and 26 Structural Widget Suffixes
 * FF, Safari, Chrome, Opera, IE7+ Compatible
 * W3C XHTML 1.0 / CSS Valid
 
-### Integrated Styling for RokSprocket
+### Logo Picker
+![][logo]
+**Diametric** comes with a feature that allows you to **choose your own custom logo** using the **WordPress Media Manager** or **RokGallery**.
+
+### RokSprocket Integrated Theme
 ![][roksprocket1]
-The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ximenia-specific styling, as seen on the Ximenia Demo site. RokSprocket is a powerful content widget with an intuitive administrator interface.
+RokSprocket is a revolutionary new WordPress plugin that has been designed to replace a variety of our existing ‘content’ widgets.
+
+These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts. We have built our new November 2012 WordPress theme to showcase this plugin.
+
+### RokSprocket :: Revolutionary User Interface
+![][roksprocket2]
+RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The widget itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
-[ximenia]: assets/ximenia.jpeg
-[responsive]: assets/responsive.jpg
-[roksprocket1]: assets/roksprocket_1.jpg
-[roksprocket2]: assets/roksprocket_2.jpg
+[diametric]: assets/diametric.jpeg
+[diametric2]: assets/diametric2.jpeg
+[logo]: assets/logopicker.jpg
+[roksprocket1]: assets/roksprocket1.jpg
+[roksprocket2]: assets/roksprocket3.jpg
 [roksprocket3]: assets/roksprocket_3.jpg
 [roksprocket4]: assets/roksprocket_4.jpg
 [gantry4]: assets/gantry4.jpg
