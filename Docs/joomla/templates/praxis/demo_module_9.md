@@ -1,7 +1,7 @@
 ---
-title: Stratos: Recreating the Demo - FP Footer A
-description: Your Guide to Recreating Elements of the Stratos Theme for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
+title: Praxis: Recreating the Demo - FP Footer A
+description: Your Guide to Recreating Elements of the Praxis Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/praxis:Praxis
 
 ---
 
