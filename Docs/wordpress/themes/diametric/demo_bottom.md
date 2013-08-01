@@ -32,18 +32,18 @@ This RokGallery widget utilizes RokBox to display images in a way that doesn't d
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Link Type | Link to RokBox Full Image |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 10 |
-| Gallery Style | Dark |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 5 |
-| Custom Variations | `nopaddingall nomargintop` |
+| Option            |                    Setting |  
+| :---------------- | -------------------------: |  
+| Link Type         |  Link to RokBox Full Image |  
+| Show Title        |                         No |  
+| Show Caption      |                         No |  
+| Sort By           |                      Order |  
+| Sort Direction    |                  Ascending |  
+| Slice Limit       |                         10 |  
+| Gallery Style     |                       Dark |  
+| Gallery Layout    |                Grid Layout |  
+| Grid Columns      |                          5 |  
+| Custom Variations | `nopaddingall nomargintop` |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 

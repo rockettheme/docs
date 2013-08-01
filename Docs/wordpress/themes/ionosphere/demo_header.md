@@ -31,33 +31,33 @@ More information about menus can be found in our [WordPress Menu Guide][menu].
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option | Setting |
-|:-------|------:|
-| Title | Blank |
-| Menu Theme | Dropdown |
-| Limit Levels | No |
-| Start Level | 0 |
-| End Level | 0 |
-| Show All Children | Yes |
-| Show Empty Menu | No |
-| Maximum Depth | 10 |
-| Load CSS | No |
-| Enable JavaScript | Yes |
-| Menu Opacity | 1 |
-| Menu Effect | Slide and Fade |
-| Hide Delay | 500 |
-| Menu Animation | Circ.easeOut |
-| Menu Duration | 300 |
-| Enable Pill | No |
-| Pill Animation | Back.easeOut |
-| Pill Duration | 400 |
-| Centered Dropdowns | No |
-| Level 2 X Offset | -8 |
-| Level 2 Y Offset | -10 |
-| Submenus X | -8 |
-| Submenus Y | -11 |
-| Enable Active ID | No |
-| Custom Variations | `topmenu` |
+| Option             |        Setting |  
+| :----------------- | -------------: |  
+| Title              |          Blank |  
+| Menu Theme         |       Dropdown |  
+| Limit Levels       |             No |  
+| Start Level        |              0 |  
+| End Level          |              0 |  
+| Show All Children  |            Yes |  
+| Show Empty Menu    |             No |  
+| Maximum Depth      |             10 |  
+| Load CSS           |             No |  
+| Enable JavaScript  |            Yes |  
+| Menu Opacity       |              1 |  
+| Menu Effect        | Slide and Fade |  
+| Hide Delay         |            500 |  
+| Menu Animation     |   Circ.easeOut |  
+| Menu Duration      |            300 |  
+| Enable Pill        |             No |  
+| Pill Animation     |   Back.easeOut |  
+| Pill Duration      |            400 |  
+| Centered Dropdowns |             No |  
+| Level 2 X Offset   |             -8 |  
+| Level 2 Y Offset   |            -10 |  
+| Submenus X         |             -8 |  
+| Submenus Y         |            -11 |  
+| Enable Active ID   |             No |  
+| Custom Variations  |      `topmenu` |  
 
 [demo]: assets/demo_3.jpeg
 [menu]: ../../start/menus.md

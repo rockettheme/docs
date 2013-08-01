@@ -30,17 +30,17 @@ More information about menus can be found in our [WordPress Menu guide][menu].
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option | Setting |
-|:-------|------:|
-| Menu | Main Menu |
-| Menu Theme | Dropdown |
-| SplitMenu Style | None |
-| Limit Levels | No |
-| Start Level | 0 |
-| End Level | 0 |
-| Show All Children | Yes |
-| Show Empty Menu | No |
-| Maximum Depth | 10 |
-| Custom Chrome | Menu |
+| Option            |   Setting |  
+| :---------------- | --------: |  
+| Menu              | Main Menu |  
+| Menu Theme        |  Dropdown |  
+| SplitMenu Style   |      None |  
+| Limit Levels      |        No |  
+| Start Level       |         0 |  
+| End Level         |         0 |  
+| Show All Children |       Yes |  
+| Show Empty Menu   |        No |  
+| Maximum Depth     |        10 |  
+| Custom Chrome     |      Menu |  
 
 [demo8]: assets/wp_metropolis_demo_8.jpeg

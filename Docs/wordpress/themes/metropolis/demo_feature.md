@@ -22,17 +22,17 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Mosaic Layout Options** for this widget.
 
-| Option | Setting |
-|:-------|------:|
-| Theme | Default |
-| Display Limit | ∞ |
-| Columns | 3 |
-| Preview Length | 13 |
-| Strip HTML Tags | Yes |
-| Article Details | Hide author and date |
-| Block Animation | Fade, Scale, Rotate |
-| Ordering | Default, Title, Date, Random |
-| Image Resize | Disable |
+| Option          |                      Setting |  
+| :-------------- | ---------------------------: |  
+| Theme           |                      Default |  
+| Display Limit   |                            ∞ |  
+| Columns         |                            3 |  
+| Preview Length  |                           13 |  
+| Strip HTML Tags |                          Yes |  
+| Article Details |         Hide author and date |  
+| Block Animation |          Fade, Scale, Rotate |  
+| Ordering        | Default, Title, Date, Random |  
+| Image Resize    |                      Disable |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 

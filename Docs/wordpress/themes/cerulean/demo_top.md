@@ -27,13 +27,13 @@ This widget tells WordPress to start a new widget column beginning with the widg
 #### Gantry Login Form
 The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Blank |
-| User Greeting | Hi, |
-| Pre-text | Blank |
-| Post-text | Blank |
-| Custom Variations | `horizontal-login` |
+| Option            |            Setting |  
+| :---------------- | -----------------: |  
+| Title             |              Blank |  
+| User Greeting     |                Hi, |  
+| Pre-text          |              Blank |  
+| Post-text         |              Blank |  
+| Custom Variations | `horizontal-login` |  
 
 [demo]: assets/cerulean2.jpg
 [demo6]: assets/wp_Cerulean_demo_6.jpeg

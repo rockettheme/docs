@@ -22,19 +22,19 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Headlines Layout Options** for this widget.
 
-| Option | Setting |
-|:-------|------:|
-| Theme | Default |
-| Label Text | `Newsflash:` |
-| Display Limit | ∞ |
-| Preview Length | 13 |
-| Arrow Navigation | Show |
-| Animation | Slide and Fade |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
-| Default Image | None |
-| Default Link | None |
+| Option           |        Setting |  
+| :--------------- | -------------: |  
+| Theme            |        Default |  
+| Label Text       |   `Newsflash:` |  
+| Display Limit    |              ∞ |  
+| Preview Length   |             13 |  
+| Arrow Navigation |           Show |  
+| Animation        | Slide and Fade |  
+| Autoplay         |        Disable |  
+| Autoplay Delay   |              5 |  
+| Image Resize     |        Disable |  
+| Default Image    |           None |  
+| Default Link     |           None |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 

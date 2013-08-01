@@ -18,19 +18,19 @@ This RokGallery widget utilizes RokBox to display images in a way that doesn't d
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Adobe Fireworks PNG Sources Available |
-| Link Type | Link to RokBox Full Image |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 4 |
-| Gallery Style | Light |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 4 |
-| Title Variation | Title 2 |
+| Option          |                               Setting |  
+| :-------------- | ------------------------------------: |  
+| Title           | Adobe Fireworks PNG Sources Available |  
+| Link Type       |             Link to RokBox Full Image |  
+| Show Title      |                                    No |  
+| Show Caption    |                                    No |  
+| Sort By         |                                 Order |  
+| Sort Direction  |                             Ascending |  
+| Slice Limit     |                                     4 |  
+| Gallery Style   |                                 Light |  
+| Gallery Layout  |                           Grid Layout |  
+| Grid Columns    |                                     4 |  
+| Title Variation |                               Title 2 |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 

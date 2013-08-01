@@ -30,30 +30,30 @@ More information about menus can be found in our [WordPress Menu guide][menu].
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option | Setting |
-|:-------|------:|
-| Menu | Main Menu |
-| Menu Theme | Fusion |
-| Limit Levels | No |
-| Start Level | 0 |
-| End Level | 0 |
-| Show All Children | Yes |
-| Show Empty Menu | No |
-| Maximum Depth | 10 |
-| Enable Menu Count | Yes |
-| Enable JavaScript | Yes |
-| Menu Opacity | 1 |
-| Menu Effect | Slide and Fade |
-| Hide Delay | 500 |
-| Menu Animation | Circ.easeOut |
-| Menu Duration | 300 |
-| Centered Dropdowns | No |
-| Level 2 X Offset | -8 |
-| Level 2 Y Offset | -10 |
-| Submenus X Offset | -8 |
-| Submenus Y Offset | -11 |
-| Enable ActiveID | No |
-| Custom Chrome | Menu |
+| Option             |        Setting |  
+| :----------------- | -------------: |  
+| Menu               |      Main Menu |  
+| Menu Theme         |         Fusion |  
+| Limit Levels       |             No |  
+| Start Level        |              0 |  
+| End Level          |              0 |  
+| Show All Children  |            Yes |  
+| Show Empty Menu    |             No |  
+| Maximum Depth      |             10 |  
+| Enable Menu Count  |            Yes |  
+| Enable JavaScript  |            Yes |  
+| Menu Opacity       |              1 |  
+| Menu Effect        | Slide and Fade |  
+| Hide Delay         |            500 |  
+| Menu Animation     |   Circ.easeOut |  
+| Menu Duration      |            300 |  
+| Centered Dropdowns |             No |  
+| Level 2 X Offset   |             -8 |  
+| Level 2 Y Offset   |            -10 |  
+| Submenus X Offset  |             -8 |  
+| Submenus Y Offset  |            -11 |  
+| Enable ActiveID    |             No |  
+| Custom Chrome      |           Menu |  
 
 [demo1]: assets/wp_fracture_demo_1.jpeg
 [faq]: faq.md

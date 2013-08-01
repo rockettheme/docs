@@ -32,29 +32,29 @@ More information about menus can be found in our [WordPress Menu guide][menu].
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option | Setting |
-|:-------|------:|
-| Menu | Main Menu |
-| Menu Theme | Fusion |
-| Limit Levels | No |
-| Start Level | 0 |
-| End Level | 0 |
-| Show All Children | Yes |
-| Show Empty Menu | No |
-| Maximum Depth | 10 |
-| Enable JavaScript | Yes |
-| Menu Opacity | 1 |
-| Menu Effect | Slide and Fade |
-| Hide Delay | 500 |
-| Menu Animation | Circ.easeOut |
-| Menu Duration | 300 |
-| Centered Dropdowns | No |
-| Level 2 X Offset | -10 |
-| Level 2 Y Offset | -10 |
-| Submenus X Offset | 0 |
-| Submenus Y Offset | 0 |
-| Enable ActiveID | No |
-| Custom Chrome | Menu |
+| Option             |        Setting |  
+| :----------------- | -------------: |  
+| Menu               |      Main Menu |  
+| Menu Theme         |         Fusion |  
+| Limit Levels       |             No |  
+| Start Level        |              0 |  
+| End Level          |              0 |  
+| Show All Children  |            Yes |  
+| Show Empty Menu    |             No |  
+| Maximum Depth      |             10 |  
+| Enable JavaScript  |            Yes |  
+| Menu Opacity       |              1 |  
+| Menu Effect        | Slide and Fade |  
+| Hide Delay         |            500 |  
+| Menu Animation     |   Circ.easeOut |  
+| Menu Duration      |            300 |  
+| Centered Dropdowns |             No |  
+| Level 2 X Offset   |            -10 |  
+| Level 2 Y Offset   |            -10 |  
+| Submenus X Offset  |              0 |  
+| Submenus Y Offset  |              0 |  
+| Enable ActiveID    |             No |  
+| Custom Chrome      |           Menu |  
 
 #### Gantry Social Buttons
 The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Header widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.

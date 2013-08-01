@@ -22,23 +22,23 @@ For the sake of simplicity, we've broken down the details of the RokGallery slid
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Blank |
-| Link Type | None |
-| Show Title | Yes |
-| Show Caption | Yes |
-| Sort By | Gallery Ordering |
-| Sort Direction | Ascending |
-| Limit | 10 |
-| Style | Light |
-| Layout | Slideshow |
-| Show Arrows | Yes |
-| Navigation | None |
-| Animation | Random |
-| Animation Duration | 500 |
-| Autoplay | Disabled |
-| Autoplay Delay | 7 |
+| Option             |          Setting |  
+| :----------------- | ---------------: |  
+| Title              |            Blank |  
+| Link Type          |             None |  
+| Show Title         |              Yes |  
+| Show Caption       |              Yes |  
+| Sort By            | Gallery Ordering |  
+| Sort Direction     |        Ascending |  
+| Limit              |               10 |  
+| Style              |            Light |  
+| Layout             |        Slideshow |  
+| Show Arrows        |              Yes |  
+| Navigation         |             None |  
+| Animation          |           Random |  
+| Animation Duration |              500 |  
+| Autoplay           |         Disabled |  
+| Autoplay Delay     |                7 |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 

@@ -19,19 +19,19 @@ This RokGallery widget is used to display a **Grid** of images in order to demon
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Adobe Fireworks PNG Sources |
-| Link Type | None |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 6 |
-| Gallery Style | Light |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 3 |
-| Custom Variations | `fp-rokgallery bg5` |
+| Option            |                     Setting |  
+| :---------------- | --------------------------: |  
+| Title             | Adobe Fireworks PNG Sources |  
+| Link Type         |                        None |  
+| Show Title        |                          No |  
+| Show Caption      |                          No |  
+| Sort By           |                       Order |  
+| Sort Direction    |                   Ascending |  
+| Slice Limit       |                           6 |  
+| Gallery Style     |                       Light |  
+| Gallery Layout    |                 Grid Layout |  
+| Grid Columns      |                           3 |  
+| Custom Variations |         `fp-rokgallery bg5` |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 

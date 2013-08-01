@@ -22,20 +22,20 @@ This RokGallery widget is used to display a **Grid** of images in order to demon
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | RocketLauncher Available |
-| Link Type | Link to RokBox Full Image |
-| Show Title | Yes |
-| Show Caption | Yes |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 1 |
-| Gallery Style | Dark |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 1 |
-| Title Variation | Title 1 |
-| Margin Variation | No Margin Bottom |
+| Option           |                   Setting |  
+| :--------------- | ------------------------: |  
+| Title            |  RocketLauncher Available |  
+| Link Type        | Link to RokBox Full Image |  
+| Show Title       |                       Yes |  
+| Show Caption     |                       Yes |  
+| Sort By          |                     Order |  
+| Sort Direction   |                 Ascending |  
+| Slice Limit      |                         1 |  
+| Gallery Style    |                      Dark |  
+| Gallery Layout   |               Grid Layout |  
+| Grid Columns     |                         1 |  
+| Title Variation  |                   Title 1 |  
+| Margin Variation |          No Margin Bottom |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
@@ -47,20 +47,20 @@ This RokGallery widget is used to display a **Grid** of images in order to demon
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Adobe Fireworks PNG Sources |
-| Link Type | Link to RokBox Full Image |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 6 |
-| Gallery Style | Dark |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 3 |
-| Title Variation | Title 1 |
-| Margin Variation | No Margin Bottom |
+| Option           |                     Setting |  
+| :--------------- | --------------------------: |  
+| Title            | Adobe Fireworks PNG Sources |  
+| Link Type        |   Link to RokBox Full Image |  
+| Show Title       |                          No |  
+| Show Caption     |                          No |  
+| Sort By          |                       Order |  
+| Sort Direction   |                   Ascending |  
+| Slice Limit      |                           6 |  
+| Gallery Style    |                        Dark |  
+| Gallery Layout   |                 Grid Layout |  
+| Grid Columns     |                           3 |  
+| Title Variation  |                     Title 1 |  
+| Margin Variation |            No Margin Bottom |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
@@ -76,21 +76,21 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Lists Layout Options** for this widget.
 
-| Option | Setting |
-|:-------|------:|
-| Theme | Default |
-| Collapsible Preview | Enable |
-| Display Limit | ∞ |
-| Preview Length | 20 |
-| Strip HTML Tags | Yes |
-| Previews Per Page | 2 |
-| Arrow Navigation | Show |
-| Pagination | Show |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
-| Default Image | None |
-| Default Link | None |
+| Option              | Setting |  
+| :------------------ | ------: |  
+| Theme               | Default |  
+| Collapsible Preview |  Enable |  
+| Display Limit       |       ∞ |  
+| Preview Length      |      20 |  
+| Strip HTML Tags     |     Yes |  
+| Previews Per Page   |       2 |  
+| Arrow Navigation    |    Show |  
+| Pagination          |    Show |  
+| Autoplay            | Disable |  
+| Autoplay Delay      |       5 |  
+| Image Resize        | Disable |  
+| Default Image       |    None |  
+| Default Link        |    None |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 

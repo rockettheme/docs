@@ -22,20 +22,20 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Features Layout Options** for this widget.
 
-| Option | Setting |
-|:-------|------:|
-| Theme | Showcase |
-| Display Limit | ∞ |
-| Article Titles | Show |
-| Article Text | Show |
-| Preview Length | ∞ |
-| Strip HTML Tags | Yes |
-| Arrow Navigation | Show |
-| Pagination | Show |
-| Animation | Crossfade |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
+| Option           |   Setting |  
+| :--------------- | --------: |  
+| Theme            |  Showcase |  
+| Display Limit    |         ∞ |  
+| Article Titles   |      Show |  
+| Article Text     |      Show |  
+| Preview Length   |         ∞ |  
+| Strip HTML Tags  |       Yes |  
+| Arrow Navigation |      Show |  
+| Pagination       |      Show |  
+| Animation        | Crossfade |  
+| Autoplay         |   Disable |  
+| Autoplay Delay   |         5 |  
+| Image Resize     |   Disable |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 

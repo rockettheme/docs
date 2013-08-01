@@ -24,33 +24,33 @@ More information about menus can be found in our [WordPress Menu guide][menu].
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option | Setting |
-|:-------|------:|
-| Menu | Main Menu |
-| Menu Theme | Fusion |
-| Limit Levels | No |
-| Start Level | 0 |
-| End Level | 0 |
-| Show All Children | Yes |
-| Show Empty Menu | No |
-| Maximum Depth | 10 |
-| Menu Classes | Menu Navigation |
-| Load CSS | No |
-| Enable JavaScript | Yes |
-| Menu Opacity | 1 |
-| Menu Effect | Slide and Fade |
-| Hide Delay | 500 |
-| Menu Animation | Circ.easeOut |
-| Menu Duration | 300 |
-| Enable Pill | No |
-| Pill Animation | Back.easeOut |
-| Pill Duration | 400 |
-| Centered Dropdowns | No |
-| Level 2 X Offset | -8 |
-| Level 2 Y Offset | -10 |
-| Submenus X | -8 |
-| Submenus Y | -11 |
-| Enable Active ID | No |
+| Option             |         Setting |  
+| :----------------- | --------------: |  
+| Menu               |       Main Menu |  
+| Menu Theme         |          Fusion |  
+| Limit Levels       |              No |  
+| Start Level        |               0 |  
+| End Level          |               0 |  
+| Show All Children  |             Yes |  
+| Show Empty Menu    |              No |  
+| Maximum Depth      |              10 |  
+| Menu Classes       | Menu Navigation |  
+| Load CSS           |              No |  
+| Enable JavaScript  |             Yes |  
+| Menu Opacity       |               1 |  
+| Menu Effect        |  Slide and Fade |  
+| Hide Delay         |             500 |  
+| Menu Animation     |    Circ.easeOut |  
+| Menu Duration      |             300 |  
+| Enable Pill        |              No |  
+| Pill Animation     |    Back.easeOut |  
+| Pill Duration      |             400 |  
+| Centered Dropdowns |              No |  
+| Level 2 X Offset   |              -8 |  
+| Level 2 Y Offset   |             -10 |  
+| Submenus X         |              -8 |  
+| Submenus Y         |             -11 |  
+| Enable Active ID   |              No |  
 
 [demo1]: assets/demo_3.jpeg
 [faq]: faq.md

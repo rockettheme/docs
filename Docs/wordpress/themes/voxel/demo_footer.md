@@ -105,20 +105,20 @@ This RokGallery widget is used to display a **Grid** of images in order to demon
 
 Here's a breakdown of the widget options: 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Blank |
-| Link Type | None |
-| Show Title | No |
-| Show Caption | No |
-| Sort By | Order |
-| Sort Direction | Ascending |
-| Slice Limit | 9 |
-| Gallery Style | Light |
-| Gallery Layout | Grid Layout |
-| Grid Columns | 3 |
-| Box Variation | 2 |
-| Custom Variations | `footer-rokgallery` |
+| Option            |             Setting |  
+| :---------------- | ------------------: |  
+| Title             |               Blank |  
+| Link Type         |                None |  
+| Show Title        |                  No |  
+| Show Caption      |                  No |  
+| Sort By           |               Order |  
+| Sort Direction    |           Ascending |  
+| Slice Limit       |                   9 |  
+| Gallery Style     |               Light |  
+| Gallery Layout    |         Grid Layout |  
+| Grid Columns      |                   3 |  
+| Box Variation     |                   2 |  
+| Custom Variations | `footer-rokgallery` |  
 
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 

@@ -14,62 +14,62 @@ This table will break down the various settings you may need to adjust in order 
 Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the override indicated here relates to the theme override in this menu. More information about how overrides work can be found in our [Gantry documentation][override].
 
 ### Style
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Logo | Fracture |
-| Default | Featured Image Size | Width: 454, Height: 338, Position: Left |
-| Default | Font Settings | Font Family: Fracture, Font Size: Default |
-| Default | Pagination | Enabled: On, Show Count: On, Side Pages: 8 |
-| Default | Use WordPress Comments | On |
-| Default | Custom CSS | Blank |
+| Override |                 Option |                                    Setting |  
+| :------- | ---------------------: | -----------------------------------------: |  
+| Default  |                   Logo |                                   Fracture |  
+| Default  |    Featured Image Size |    Width: 454, Height: 338, Position: Left |  
+| Default  |          Font Settings |  Font Family: Fracture, Font Size: Default |  
+| Default  |             Pagination | Enabled: On, Show Count: On, Side Pages: 8 |  
+| Default  | Use WordPress Comments |                                         On |  
+| Default  |             Custom CSS |                                      Blank |  
 
 ### Gizmos
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Page Suffix | Enabled: Off, Class: Blank | 
-| Default | Feed Links | On | 
-| Default | Custom Title Tag | Blank | 
-| Default | Shortcodes in Widgets | On |
-| Default | RokStyle | On |
-| Default | Google Analytics | Enabled: Off, UA Code: Blank |
+| Override |                Option |                      Setting |  
+| :------- | --------------------: | ---------------------------: |  
+| Default  |           Page Suffix |   Enabled: Off, Class: Blank |  
+| Default  |            Feed Links |                           On |  
+| Default  |      Custom Title Tag |                        Blank |  
+| Default  | Shortcodes in Widgets |                           On |  
+| Default  |              RokStyle |                           On |  
+| Default  |      Google Analytics | Enabled: Off, UA Code: Blank |  
 
 ### Layouts
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Top Positions | Positions: 4, 3:3:3:3 |
-| Default | Header Positions | Positions: 4, 3:3:3:3 |
-| Default | Navigation Positions | Positions: 2, 3:9 |
-| Default | Showcase Positions | Positions: 4, 3:3:3:3 |
-| Default | Feature Positions | Positions: 4, 3:3:3:3 |
-| Default | Utility Positions | Positions: 4, 3:3:3:3 |
-| Default | MainTop Positions | Positions: 4, 3:3:3:3 |
-| Default | MainBody Positions | Positions: 2, 8:4 |
-| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |
-| Default | Extension Positions | Positions: 4, 3:3:3:3 |
-| Default | Bottom Positions | Positions: 4, 3:3:3:3 |
-| Default | Footer Positions | Positions: 3, 4:4:4 |
-| Default | Copyright Positions | Positions: 4, 3:3:3:3 |
+| Override |               Option |               Setting |  
+| :------- | -------------------: | --------------------: |  
+| Default  |        Top Positions | Positions: 4, 3:3:3:3 |  
+| Default  |     Header Positions | Positions: 4, 3:3:3:3 |  
+| Default  | Navigation Positions |     Positions: 2, 3:9 |  
+| Default  |   Showcase Positions | Positions: 4, 3:3:3:3 |  
+| Default  |    Feature Positions | Positions: 4, 3:3:3:3 |  
+| Default  |    Utility Positions | Positions: 4, 3:3:3:3 |  
+| Default  |    MainTop Positions | Positions: 4, 3:3:3:3 |  
+| Default  |   MainBody Positions |     Positions: 2, 8:4 |  
+| Default  | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default  |  Extension Positions | Positions: 4, 3:3:3:3 |  
+| Default  |     Bottom Positions | Positions: 4, 3:3:3:3 |  
+| Default  |     Footer Positions |   Positions: 3, 4:4:4 |  
+| Default  |  Copyright Positions | Positions: 4, 3:3:3:3 |  
 
 ### Advanced
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Layout Mode | Responsive |
-| Default | Maintenance Mode | Off |
-| Default | Load Transition | Off |
-| Default | Display Content | On |
-| Default | Display Mainbody | On |
-| Default | RTL Support | On |
-| Default | RTL Typography | Enabled: On, Typography Styling: Light |
-| Default | Disable Auto Paragraphs | Enabled: On, Content Type: Both |
-| Default | Disable Texturize | Off |
-| Default | Selectivizr | On |
-| Default | Less Compiler | CSS Compression: On, Compile: 2, Debug: Off |
-| Default | IE7 Redirect | On |
-| Front Page | Mainbody Enabled | Off |
+| Override   |                  Option |                                     Setting |  
+| :--------- | ----------------------: | ------------------------------------------: |  
+| Default    |             Layout Mode |                                  Responsive |  
+| Default    |        Maintenance Mode |                                         Off |  
+| Default    |         Load Transition |                                         Off |  
+| Default    |         Display Content |                                          On |  
+| Default    |        Display Mainbody |                                          On |  
+| Default    |             RTL Support |                                          On |  
+| Default    |          RTL Typography |      Enabled: On, Typography Styling: Light |  
+| Default    | Disable Auto Paragraphs |             Enabled: On, Content Type: Both |  
+| Default    |       Disable Texturize |                                         Off |  
+| Default    |             Selectivizr |                                          On |  
+| Default    |           Less Compiler | CSS Compression: On, Compile: 2, Debug: Off |  
+| Default    |            IE7 Redirect |                                          On |  
+| Front Page |        Mainbody Enabled |                                         Off |  
 
 ### Assignments
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Front Page | Template Page Types | Home Page, Front Page |
+| Override   |              Option |               Setting |  
+| :--------- | ------------------: | --------------------: |  
+| Front Page | Template Page Types | Home Page, Front Page |  
 
 [override]: http://gantry-framework.org/documentation/wordpress/configure/

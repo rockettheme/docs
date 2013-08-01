@@ -55,12 +55,12 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 #### Gantry Login Form
 The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. 
 
-| Option | Setting |
-|:-------|------:|
-| Title | Member Access |
-| User Greeting | Hi, |
-| Pre-text | Blank |
-| Post-text | Blank |
-| Custom Variations | `nomargintop nomarginbottom nopaddingbottom` |
+| Option            |                                      Setting |  
+| :---------------- | -------------------------------------------: |  
+| Title             |                                Member Access |  
+| User Greeting     |                                          Hi, |  
+| Pre-text          |                                        Blank |  
+| Post-text         |                                        Blank |  
+| Custom Variations | `nomargintop nomarginbottom nopaddingbottom` |  
 
 [demo1]: assets/demo_6.jpeg
