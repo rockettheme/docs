@@ -13,40 +13,40 @@ We used a **RokSprocket** module with the **Strips** layout to make up the MainB
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP RokSprocket - Strips |
-| Show Title | Hide |
-| Access | Public |
-| Position | showcase-a |
-| Status | Published |
-| Content Provider | Simple |
-| Type | Strips |
+| Option           | Setting                 |  
+| :--------------- | :---------------------- |  
+| Title            | FP RokSprocket - Strips |  
+| Show Title       | Hide                    |  
+| Access           | Public                  |  
+| Position         | showcase-a              |  
+| Status           | Published               |  
+| Content Provider | Simple                  |  
+| Type             | Strips                  |  
 
 ### Layout Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Display Limit | ∞ |
-| Preview Length | 20 |
-| Strip HTML Tags | No |
-| Previews Per Page | 8 |
-| Items Per Row | 4 |
-| Arrow Navigation | Show |
-| Pagination | Hide |
-| Animation | Fade Delayed |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
+| Option            | Setting      |  
+| :---------------- | :----------- |  
+| Theme             | Default      |  
+| Display Limit     | ∞            |  
+| Preview Length    | 20           |  
+| Strip HTML Tags   | No           |  
+| Previews Per Page | 8            |  
+| Items Per Row     | 4            |  
+| Arrow Navigation  | Show         |  
+| Pagination        | Hide         |  
+| Animation         | Fade Delayed |  
+| Autoplay          | Disable      |  
+| Autoplay Delay    | 5            |  
+| Image Resize      | Disable      |  
 
 ### Advanced
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | `fp-roksprocket-strips` |
+| Option              | Setting                 |  
+| :------------------ | :---------------------- |  
+| Module Class Suffix | `fp-roksprocket-strips` |  
 
 [demo]: assets/demo_4.jpeg
 [demo2]: assets/strips_1.jpeg

@@ -15,35 +15,35 @@ In this particular case, the menu appears on the left side of the page and float
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | `SideMod Menu` |
-| Show Title | Hide |
-| Position | sidemod |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. SideMod Menu |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+| Option            | Setting            |  
+| :---------------- | :----------------- |  
+| Title             | `SideMod Menu`     |  
+| Show Title        | Hide               |  
+| Position          | sidemod            |  
+| Status            | Published          |  
+| Access            | Public             |  
+| Ordering          | 1. SideMod Menu    |  
+| Start Publishing  | 0000-00-00 00:00:0 |  
+| Finish Publishing | 0000-00-00 00:00:0 |  
+| Language          | All                |  
+| Note              | Blank              |  
 
 ### Basic Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Select Menu | SideMod Menu |
-| Start Level | 1 |
-| End Level | All |
-| Show Sub-menu Items | No |
+| Option              | Setting      |  
+| :------------------ | :----------- |  
+| Select Menu         | SideMod Menu |  
+| Start Level         | 1            |  
+| End Level           | All          |  
+| Show Sub-menu Items | No           |  
 
 ### Advanced Options
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix |  |
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix |         |  
 
 [demo]: assets/demo_3.jpeg
 [demo2]: assets/sidemod_1.jpeg

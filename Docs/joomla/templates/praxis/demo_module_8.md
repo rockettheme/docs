@@ -16,18 +16,18 @@ We used a **mod_custom** module to make up the content in the **footer-a** posit
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Bottom |
-| Show Title | Hide |
-| Position | bottom-a |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Bottom |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+| Option            | Setting            |  
+| :---------------- | :----------------- |  
+| Title             | FP Bottom          |  
+| Show Title        | Hide               |  
+| Position          | bottom-a           |  
+| Status            | Published          |  
+| Access            | Public             |  
+| Ordering          | 1. FP Bottom       |  
+| Start Publishing  | 0000-00-00 00:00:0 |  
+| Finish Publishing | 0000-00-00 00:00:0 |  
+| Language          | All                |  
+| Note              | Blank              |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
@@ -39,17 +39,17 @@ Enter the following in the **Custom Output** text editor.
 ### Basic
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |  
 
 ### Advanced
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix |  |
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix |         |  
 
 [demo]: assets/demo_9.jpeg
 [demo2]: assets/bottom_1.jpeg

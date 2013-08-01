@@ -13,18 +13,18 @@ This area of the front page is a **mod_custom** module. You'll find the settings
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Utility |
-| Show Title | Hide |
-| Position | utility-a |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Feature |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+| Option            | Setting            |  
+| :---------------- | :----------------- |  
+| Title             | FP Utility         |  
+| Show Title        | Hide               |  
+| Position          | utility-a          |  
+| Status            | Published          |  
+| Access            | Public             |  
+| Ordering          | 1. FP Feature      |  
+| Start Publishing  | 0000-00-00 00:00:0 |  
+| Finish Publishing | 0000-00-00 00:00:0 |  
+| Language          | All                |  
+| Note              | Blank              |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
@@ -68,17 +68,17 @@ Enter the following in the **Custom Output** text editor.
 ### Basic
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |  
 
 ### Advanced
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | `fp-sidenav-spacing` |
+| Option              | Setting              |  
+| :------------------ | :------------------- |  
+| Module Class Suffix | `fp-sidenav-spacing` |  
 
 [demo]: assets/demo_7.jpeg
 [demo2]: assets/utility_1.jpeg

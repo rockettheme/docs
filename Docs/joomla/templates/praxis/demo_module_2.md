@@ -13,37 +13,37 @@ The RokSprocket Strips module used near the top of the front page is a great way
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP RokSprocket - Headlines |
-| Show Title | Hide |
-| Access | Public |
-| Position | header-b |
-| Status | Published |
-| Content Provider | Simple |
-| Type | Headlines |
+| Option           | Setting                    |  
+| :--------------- | :------------------------- |  
+| Title            | FP RokSprocket - Headlines |  
+| Show Title       | Hide                       |  
+| Access           | Public                     |  
+| Position         | header-b                   |  
+| Status           | Published                  |  
+| Content Provider | Simple                     |  
+| Type             | Headlines                  |  
 
 ### Layout Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Display Limit | ∞ |
-| Label Text | Blank |
-| Preview Length | 20 |
-| Arrow Navigation | Show |
-| Animation | Fade |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
+| Option           | Setting |  
+| :--------------- | :------ |  
+| Theme            | Default |  
+| Display Limit    | ∞       |  
+| Label Text       | Blank   |  
+| Preview Length   | 20      |  
+| Arrow Navigation | Show    |  
+| Animation        | Fade    |  
+| Autoplay         | Disable |  
+| Autoplay Delay   | 5       |  
+| Image Resize     | Disable |  
 
 ### Advanced
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | fp-roksprocket-headlines |
+| Option              | Setting                  |  
+| :------------------ | :----------------------- |  
+| Module Class Suffix | fp-roksprocket-headlines |  
 
 [demo]: assets/demo_2.jpeg
 [demo2]: assets/headlines_1.jpeg

@@ -16,33 +16,33 @@ This module, located on the front page, is a standard **Login** module. You'll f
 ### Details
 ![][demo1]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Footer Login |
-| Show Title | Hide |
-| Position | footer-b |
-| Status | Published |
-| Access | Public |
+| Option     | Setting         |  
+| :--------- | :-------------- |  
+| Title      | FP Footer Login |  
+| Show Title | Hide            |  
+| Position   | footer-b        |  
+| Status     | Published       |  
+| Access     | Public          |  
 
 ### Basic Options
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Pre-Text |  |
-| Post-Text |   |
-| Login Redirection Page | Default |
-| Logout Redirection Page | Default |
-| Show Greeting | Yes |
-| Show Name/Username | Name |
-| Encrypt Login Form | No |
+| Option                  | Setting |  
+| :---------------------- | :------ |  
+| Pre-Text                |         |  
+| Post-Text               |         |  
+| Login Redirection Page  | Default |  
+| Logout Redirection Page | Default |  
+| Show Greeting           | Yes     |  
+| Show Name/Username      | Name    |  
+| Encrypt Login Form      | No      |  
 
 ### Advanced Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | `nomargintop medpaddingtop hidden-phone` |
+| Option              | Setting                                  |  
+| :------------------ | :--------------------------------------- |  
+| Module Class Suffix | `nomargintop medpaddingtop hidden-phone` |  
 
 [demo]: assets/demo_9.jpeg
 [demo1]: assets/login_1.jpeg

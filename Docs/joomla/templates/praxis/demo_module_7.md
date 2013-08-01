@@ -13,15 +13,15 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 ### Details
 ![][demo2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | `[a link="#" title="RokSprocket Info"][b]RokSprocket:[/b][/a] A multi-faceted content addon` |
-| Show Title | Show |
-| Access | Public |
-| Position | maintop-a |
-| Status | Published |
-| Content Provider | Simple |
-| Type | Tabs |
+| Option           | Setting                                                                                      |  
+| :--------------- | :------------------------------------------------------------------------------------------- |  
+| Title            | `[a link="#" title="RokSprocket Info"][b]RokSprocket:[/b][/a] A multi-faceted content addon` |  
+| Show Title       | Show                                                                                         |  
+| Access           | Public                                                                                       |  
+| Position         | maintop-a                                                                                    |  
+| Status           | Published                                                                                    |  
+| Content Provider | Simple                                                                                       |  
+| Type             | Tabs                                                                                         |  
 
 ### Introduction Description
 ~~~
@@ -155,24 +155,24 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 ### Layout Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Display Limit | ∞ |
-| Tabs Position | Top |
-| Animation | Slide and Fade |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Preview Length | 0 |
-| Image Resize | Disable |
-| Strip HTML Tabs | No |
+| Option          | Setting        |  
+| :-------------- | :------------- |  
+| Theme           | Default        |  
+| Display Limit   | ∞              |  
+| Tabs Position   | Top            |  
+| Animation       | Slide and Fade |  
+| Autoplay        | Disable        |  
+| Autoplay Delay  | 5              |  
+| Preview Length  | 0              |  
+| Image Resize    | Disable        |  
+| Strip HTML Tabs | No             |  
 
 ### Advanced
 ![][demo4]
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | `fp-roksprocket-tabs fp-sidenav-spacing` |
+| Option              | Setting                                  |  
+| :------------------ | :--------------------------------------- |  
+| Module Class Suffix | `fp-roksprocket-tabs fp-sidenav-spacing` |  
 
 [demo]: assets/demo_8.jpeg
 [demo2]: assets/tabs_1.jpeg
