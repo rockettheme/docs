@@ -1,29 +1,28 @@
 ---
-title: Hexeris: Recreating the Demo - FP Footer A
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Chapelco: Recreating the Demo - Contact Us
+description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-FP Footer A
+Contact Us
 -----
 ![][demo]
 
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+:   1. **mod_custom** [20%, 35%, se]
+
+We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
 | Option            | Setting            |  
 | :---------------- | :----------------- |  
-| Title             | FP Footer A        |  
-| Show Title        | Hide               |  
-| Position          | footer-a           |  
+| Title             | Contact Us         |  
+| Show Title        | Show               |  
+| Position          | footer-b           |  
 | Status            | Published          |  
 | Access            | Public             |  
-| Ordering          | 1. FP Footer A     |  
-| Start Publishing  | 0000-00-00 00:00:0 |  
-| Finish Publishing | 0000-00-00 00:00:0 |  
 | Language          | All                |  
 | Note              | Blank              |
 
@@ -31,11 +30,35 @@ We used a **mod_custom** module to make up the content in the **footer-a** posit
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<div class="rt-footer-logo"></div>
+<div class="gantry-width-10 gantry-width-block">
+    <span class="icon-phone"></span>
+</div>
+<div class="gantry-width-80 gantry-width-block">
+    <strong><span>+1 (555) 555-555-5555</span></strong><br />
+    <small>+1 (555) 555-555-5556</small>
+</div>
 
-<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Hexeris <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
+<div class="clear medmarginbottom">&nbsp;</div>
 
-<p class="hidden-tablet"><strong>Hexeris</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
+<div class="gantry-width-10 gantry-width-block">
+    <span class="icon-home"></span>
+</div>
+<div class="gantry-width-80 gantry-width-block">
+	<strong><span>Chapelco Theme, LLC</span></strong><br />
+    <span>123 Joomla! Boulevard</span><br />
+    <small>Seattle, WA 00000, USA</small> 
+</div>
+
+<div class="clear medmarginbottom">&nbsp;</div>
+
+<div class="gantry-width-10 gantry-width-block">
+    <span class="icon-envelope-alt"></span>
+</div>
+<div class="gantry-width-80 gantry-width-block">
+    <span>noreply/@domain.com</span>
+</div>
+
+<div class="clear largemarginbottom">&nbsp;</div>
 ~~~
 
 ### Basic
@@ -49,11 +72,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting        |  
+| :------------------ | :------------- |  
+| Module Class Suffix | `hidden-phone` |  
 
 [demo]: assets/demo_8.jpeg
-[demo2]: assets/footer_1.jpeg
-[demo3]: assets/footer_2.jpeg
-[demo4]: assets/footer_3.jpeg
+[demo2]: assets/contact_1.jpeg
+[demo3]: assets/contact_2.jpeg
+[demo4]: assets/contact_3.jpeg

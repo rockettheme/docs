@@ -1,54 +1,54 @@
 ---
-title: Hexeris: Recreating the Demo - Gantry Extras
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Chapelco: Recreating the Demo - Popular Templates
+description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-Gantry Extras
+Popular Templates
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You'll find the settings used in our demo below.
+We used a **mod_custom** module to make up the content in the **bottom-a** position of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                                                       |  
-| :--------------- | :------------------------------------------------------------ |  
-| Title            | `Gantry Extras [span class="rt-subtitle"]Top Features[/span]` |  
-| Show Title       | Show                                                          |  
-| Access           | Public                                                        |  
-| Position         | extension-c                                                   |  
-| Status           | Published                                                     |  
-| Content Provider | Joomla                                                        |  
-| Type             | Lists                                                         |
+| Option     | Setting                                              |  
+| :--------- | :--------------------------------------------------- |  
+| Title      | Popular [span class="hidden-tablet"]Templates[/span] |  
+| Show Title | Hide                                                 |  
+| Position   | bottom-a                                             |  
+| Status     | Published                                            |  
+| Access     | Public                                               |  
+| Language   | All                                                  |  
+| Note       | Blank                                                |  
 
-### Layout Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<p class="rt-image rt-center">
+  <img class="fp-img-light rt-noborder" src="images/rocketlauncher/frontpage/bottom/img-light.jpg" alt="image">
+  <img class="fp-img-dark rt-noborder" src="images/rocketlauncher/frontpage/bottom/img-dark.jpg" alt="image">
+</p>
+~~~
+
+### Basic
 ![][demo3]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Theme               | Default |  
-| Display Limit       | ∞       |  
-| Collapsible Preview | Enable  |  
-| Preview Length      | 20      |  
-| Strip HTML Tags     | Yes     |  
-| Previews Per Page   | 3       |  
-| Arrow Navigation    | Show    |  
-| Pagination          | Show    |  
-| Autoplay            | Disable |  
-| Autoplay Delay      | 5       |  
-| Image Resize        | Disable |
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][demo5]
+![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix | `box1`  |
+| Option              | Setting                              |  
+| :------------------ | :----------------------------------- |  
+| Module Class Suffix | `horiztitle fp-popular hidden-phone` |  
 
-[demo]: assets/demo_6.jpeg
-[demo2]: assets/mosaic_1.jpeg
-[demo3]: assets/mosaic_2.jpeg
-[demo4]: assets/mosaic_3.jpeg
-[demo5]: assets/mosaic_4.jpeg
+[demo]: assets/demo_7.jpeg
+[demo2]: assets/templates_1.jpeg
+[demo3]: assets/templates_2.jpeg
+[demo4]: assets/templates_3.jpeg

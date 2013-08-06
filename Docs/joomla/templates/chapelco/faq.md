@@ -1,25 +1,25 @@
 ---
-title: Hexeris: FAQ
-description: Your Guide to Using the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Chapelco: FAQ
+description: Your Guide to Using the Chapelco Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-What are Hexeris template features?
+What are Chapelco template features?
 -----
-Please check our [Template Info page][features] for all Hexeris features in one complete list.
+Please check our [Template Info page][features] for all Chapelco features in one complete list.
 
-What font is used on Hexeris template?
+What font is used on Chapelco template?
 -----
 Ubuntu. You can download it at [here][font].
 
-Is there any tutorial to get me started with Hexeris?
+Is there any tutorial to get me started with Chapelco?
 -----
-Yes. Please check our [Hexeris Tutorials & Guides forum][forum] in addition to this guide.
+Yes. Please check our [Chapelco Tutorials & Guides forum][forum] in addition to this guide.
 
-Is Hexeris compatible for Joomla 1.5?
+Is Chapelco compatible for Joomla 1.5?
 -----
-No, Hexeris is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Chapelco is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----
@@ -45,15 +45,15 @@ Can I install RocketLauncher on existing Joomla! website?
 -----
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.
 
-I installed Hexeris RocketLauncher but the images are different with the demo site.
+I installed Chapelco RocketLauncher but the images are different with the demo site.
 -----
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/hexeris/features
+[features]: http://demo.rockettheme.com/joomla/Chapelco/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=729&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/index.php?f=712&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/hexeris/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/hexeris/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/hexeris/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla/Chapelco/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla/Chapelco/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla/Chapelco/features/extensions

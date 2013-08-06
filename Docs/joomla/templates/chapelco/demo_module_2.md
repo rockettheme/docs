@@ -1,61 +1,56 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Showcase
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Chapelco: Recreating the Demo - FP Showcase - RokSprocket Features
+description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-FP RokSprocket - Showcase
+FP Showcase - RokSprocket Features
 -----
 ![][demo]
-The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
+We used a **RokSprocket** module with the **Mosaic** layout to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                    |
-|:-----------------|:---------------------------|
-| Title            | FP RokSprocket - Headlines |
-| Show Title       | Hide                       |
-| Access           | Public                     |
-| Position         | showcase-a                 |
-| Status           | Published                  |
-| Content Provider | Joomla                     |
-| Type             | Features                   |
+| Option           | Setting                            |  
+| :--------------- | :--------------------------------- |  
+| Title            | FP Showcase - RokSprocket Features |  
+| Show Title       | Show                               |  
+| Access           | Public                             |  
+| Position         | showcase-a                         |  
+| Status           | Published                          |  
+| Content Provider | Joomla                             |  
+| Type             | Features                           |  
 
 ### Layout Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Display Limit     | ∞         |
-| Theme             | Showcase  |
-| Article Titles    | Show      |
-| Article Text      | Show      |
-| Preview Length    | ∞         |
-| Strip HTML Tags   | Yes       |
-| Arrow Navigation  | Show      |
-| Pagination        | Hide      |
-| Animation         | Crossfade |
-| Autoplay          | Enable    |
-| Autoplay Delay    | 5         |
-| Image Resize      | Disable   |
+| Option           | Setting   |  
+| :--------------- | :-------- |  
+| Display Limit    | ∞         |  
+| Theme            | Default   |  
+| Article Titles   | Show      |  
+| Article Text     | Show      |  
+| Preview Length   | ∞         |  
+| Strip HTML Tags  | No        |  
+| Arrow Navigation | Show      |  
+| Pagination       | Show      |  
+| Animation        | Crossfade |  
+| Autoplay         | Disable   |  
+| Autoplay Delay   | 5         |  
+| Image Resize     | Disable   |  
 
 ### Article Defaults
-![][demo4]
-
-|    Option    | Setting |
-|:-------------|:--------|
-| Default Link | None    |
 
 ### Advanced
 ![][demo5]
 
-| Option              | Setting                                            |
-|:--------------------|:---------------------------------------------------|
-| Module Class Suffix | `fp-roksprocket-showcase nomargintop nopaddingtop` |
+| Option              | Setting                 |  
+| :------------------ | :---------------------- |  
+| Module Class Suffix | fp-roksprocket-features |  
 
-[demo]: assets/demo_2.jpeg
+[demo]: assets/demo_4.jpeg
 [demo2]: assets/showcase_1.jpeg
 [demo3]: assets/showcase_2.jpeg
 [demo4]: assets/showcase_3.jpeg

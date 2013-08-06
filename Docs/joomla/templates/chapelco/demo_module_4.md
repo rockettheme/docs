@@ -1,56 +1,57 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Mosaic
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Chapelco: Recreating the Demo - FP Utility RokSprocket Mosaic
+description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-FP RokSprocket - Mosaic
+FP Utility - RokSprocket Mosaic
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Mosaic** layout to make up this area of the front page. You'll find the settings used in our demo below.
+The RokSprocket module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                 |  
-| :--------------- | :---------------------- |  
-| Title            | FP RokSprocket - Mosaic |  
-| Show Title       | Show                    |  
-| Access           | Public                  |  
-| Position         | feature-a               |  
-| Status           | Published               |  
-| Content Provider | Joomla                  |  
-| Type             | Mosaic                  |  
+| Option           | Setting                         |  
+| :--------------- | :------------------------------ |  
+| Title            | FP Utility - RokSprocket Mosaic |  
+| Show Title       | Hide                            |  
+| Access           | Public                          |  
+| Position         | utility-a                       |  
+| Status           | Published                       |  
+| Content Provider | Joomla                          |  
+| Type             | Mosaic                          |  
 
 ### Layout Options
 ![][demo3]
 
-| Option          | Setting                      |  
-| :-------------- | :--------------------------- |  
-| Theme           | Default                      |  
-| Display Limit   | ∞                            |  
-| Columns         | 3                            |  
-| Preview Length  | 100                          |  
-| Strip HTML Tags | No                           |  
-| Blocks Per View | 6                            |  
-| Article Details | Show Author and Date         |  
-| Block Animation | Fade, Scale, Rotate          |  
-| Ordering        | Default, Title, Date, Random |  
-| Image Resize    | Disable                      |  
+| Option          | Setting                     |  
+| :-------------- | :-------------------------- |  
+| Theme           | Default                     |  
+| Display Limit   | ∞                           |  
+| Columns         | 3                           |  
+| Preview Length  | 14                          |  
+| Strip HTML Tags | Yes                         |  
+| Blocks Per View | 3                           |  
+| Article Details | Hide Author and Date        |  
+| Block Animation | Fade, Scale, Rotate         |  
+| Ordering        | Default, Tile, Date, Random |  
+| Image Resize    | Disable                     |  
+
 
 ### Article Defaults
-| Default Link | Custom |
+![][demo4]
 
 ### Advanced
 ![][demo5]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting           |  
+| :------------------ | :---------------- |  
+| Module Class Suffix | `basic fp-mosaic` |  
 
-[demo]: assets/demo_3.jpeg
-[demo2]: assets/mosaic_1.jpeg
-[demo3]: assets/mosaic_2.jpeg
-[demo4]: assets/mosaic_3.jpeg
-[demo5]: assets/mosaic_4.jpeg
+[demo]: assets/demo_4.jpeg
+[demo2]: assets/utility_1.jpeg
+[demo3]: assets/utility_2.jpeg
+[demo4]: assets/utility_3.jpeg
+[demo5]: assets/utility_4.jpeg
