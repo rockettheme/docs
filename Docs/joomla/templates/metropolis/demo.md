@@ -1,92 +1,133 @@
 ---
 title: Metropolis: Recreating the Demo
-description: Your Guide to Recreating Elements of the Metropolis Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/metropolis:Metropolis
+description: Your Guide to Recreating Elements of the Metropolis Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/metropolis:Metropolis
 
 ---
 
 Introduction
 =====
-![][metropolis]
-Recreating features of the demo site used to show off some of the more interesting aspects of Metropolis can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+![][Metropolis2]
+Recreating features of the demo site used to show off some of the more interesting aspects of Metropolis can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
-Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Metropolis theme.
+Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Metropolis Template.
 
-Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the Template's core files in order to make them easily accessible without having to edit any code.
 
-Recommended Plugins
+Module Settings
+-----
+Like any Gantry template, Metropolis allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+
+Below, you'll find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![][Metropolis]
+
+:   1. **FP Showcase - RokSprocket Features**  [11%, 11%, se]
+    2. **FP Feature - RokSprocket Mosaic**  [25%, 11%, se]
+    3. **About Metropolis**  [45%, 11%, se]
+    4. **From Blog**  [55%, 11%, se]
+    5. **Help & Tips**  [45%, 52%, se]
+    6. **Our Users**  [58%, 52%, se]
+    7. **Site Search**  [45%, 88%, sw]
+    8. **Preset Styles**  [51%, 88%, sw]
+    9. **RocketLauncher**  [59%, 88%, sw]
+    10. **FP MainBottom**  [70%, 11%, se]
+    11. **Demo Info**  [82%, 11%, se]
+    12. **Inside Metropolis** [82%, 38%, se]
+    13. **Contact Us** [82%, 65%, se]
+    14. **Copyright Menu** [92%, 36%, se]
+
+We've detailed how to recreate the individual modules pictured above in the links below.
+
+1. [FP Showcase - RokSprocket Features][module1]
+2. [FP Feature - RokSprocket Mosaic][module2]
+3. [About Metropolis][module3]
+4. [From Blog][module4]
+5. [Help & Tips][module5]
+6. [Our Users][module6]
+7. [Site Search][module7]
+8. [Preset Styles][module8]
+9. [RocketLauncher][module9]
+10. [FP MainBottom][module10]
+11. [Demo Info][module11]
+12. [Inside Metropolis][module12]
+13. [Contact Us][module13]
+14. [Copyright Menu][module14]
+
+Recommended Extensions
 =====
-Here is a list of RocketTheme plugins used to create the demo version of Metropolis:
+Here is a list of RocketTheme extensions used to create the demo version of Metropolis:
 
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
 * RokCommon Library (Installed with RokSprocket)
 * [RokSprocket][roksprocket]
+* [RokCandy][rokcandy]
+* [RokNavMenu][roknavmenu]
+* [RokBooster][rokbooster]
 
 All of these plugins are included with the Metropolis RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 =====
-The front page of the Metropolis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Metropolis theme.
+The front page of the Metropolis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Metropolis template.
 
-Theme Settings
+Template Settings
 -----
-The first thing you'll need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Metropolis Theme** and selecting the **+** icon located just above the **Style** settings tab. 
+The first thing you'll need to do in order to set your front page apart as it appears in the demo is to create a style override. This can be done by navigating to **Administrator -> Extensions -> Template Manager** and selecting the template you wish to change.  Once you've checked the box next to the template, you can click the **Duplicate** button to create a second copy of the template. This will become the Override while the primary copy of the template remains the designated Master.
 
-It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
+Only options that are different from the Master copy will take hold on the menu items you've assigned to the override. In this case, you'll be assigning the front page to the override as we have in the demo.
 
-#### Gizmos
-Under the **Gizmos** tab for your Front Page settings, you'll want to select **Page Suffix** and enable it. The class field will have `jun13` which tells WordPress to utilize the custom styling created for the demo front page.
-
-#### Advanced
-We do not display any pages or posts on the front page of our demo, except through RokSprocket widgets. Because of this, we'll need to cancel out the main content area while preserving our sidebar positions. To do this, you'll want to select the **Display Content** field and turn this off.
+It would be a good idea for organization to name this override something like **Metropolis - Home** as it would be used only for the front page of your site.
 
 #### Assignments
-The next step you'll need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you'll want to select both **Home Page** and **Front Page**.
+The next step you'll need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you'll want to select both **Home**.
 
-Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
+Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
 
->> Under the administrative area, you can check you site's home page settings by navigating to **Settings -> Reading** and making sure that **Your latest posts** is selected. This is the setting we use for the demo content's home page as it doesn't require the creation of a static page.
+You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [override portion][demooverride] of this tutorial.
-
-Widget Settings
+Menu Settings
 -----
-Like any Gantry template, Metropolis utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+![][mainmenu]
+In your site's main menu, you'll want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are set in the primary default widget setting. You'll see a (Default) indicator next to the section names of positions which are set as default across the demo site. All other widget positions are set up for the Front Page only.
+First, you'll need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` nov12-home`.
 
-One important thing to note here is that many of the widget sections included in our demo are split up using a **Gantry Divider** widget. This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section. You'll see the Gantry Divider in any widget section breakdowns as they are included in the demo.
+You can also set the Dropdown Menu Offset in order to center the sub-menu as seen in our demo. As an example, we'll look at the settings for the Features sub-menu within the **Main Menu** found at the top of the **Home** page.
 
-### Widget Sections
+![][offset]
 
-* [Header][header]
-* [Showcase][showcase]
-* [Feature][feature]
-* [Sidebar][sidebar]
-* [Content Top][contenttop]
-* [Content Bottom][contentbottom]
-* [Main Bottom][mainbottom]
-* [Footer][footer]
-* [Copyright][copyright]
+To get to the screen shown above, you'll want to navigate to the **Main Menu** settings page by going to **Administrator -> Menus -> Main Menu** and selecting **Features**. From there, you'll want to navigate to the **Dropdown Menu Options** and look at the **Drop-Down Offset (px)** setting. In our demo, we went with a setting of 37. You can adjust this setting to match your individual needs. Keep in mind this offset will only be set for the Features sub-menu and will not impact any other part of the parent menu.
+
+>> The Features sub-menu is an example found in the Metropolis RocketLauncher, your site's contents may vary. The process remains the same, throughout.
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
-[rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
-[roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
-[metropolis]: assets/wp_metropolis.jpeg
-[roksprocket]: ../../plugins/roksprocket/
-[faq]: faq.md
-[menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
-[header]: demo_header.md
-[showcase]: demo_showcase.md
-[feature]: demo_feature.md
-[sidebar]: demo_sidebar.md
-[contenttop]: demo_content_top.md
-[contentbottom]: demo_content_bottom.md
-[mainbottom]: demo_mainbottom.md
-[footer]: demo_footer.md
-[copyright]: demo_copyright.md
+[rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
+[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[Metropolis]: assets/Metropolis.jpeg
+[Metropolis2]: assets/Metropolis2.jpeg
 [demooverride]: demo_override.md
+[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
+[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
+[rokcandy]: http://www.rockettheme.com/extensions-joomla/rokcandy
+[module1]: demo_module_1.md
+[module2]: demo_module_2.md
+[module3]: demo_module_3.md
+[module4]: demo_module_4.md
+[module5]: demo_module_5.md
+[module6]: demo_module_6.md
+[module7]: demo_module_7.md
+[module8]: demo_module_8.md
+[module9]: demo_module_9.md
+[module10]: demo_module_10.md
+[module11]: demo_module_11.md
+[module12]: demo_module_12.md
+[module13]: demo_module_13.md
+[module14]: demo_module_14.md
+[mainmenu]: assets/menu_1.jpg
+[icons]: http://fortawesome.github.io/Font-Awesome/icons/
+[article]: assets/article.jpg
+[offset]: assets/offset.jpg

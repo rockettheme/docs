@@ -1,80 +1,92 @@
 ---
-title: Metropolis: Recreating the Demo - Overrides
-description: Your Guide to Recreating Elements of the Metropolis Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/metropolis:Metropolis
+title: Metropolis: Recreating the Demo - Template Settings
+description: Your Guide to Recreating Elements of the Metropolis Template for WordPress
+breadcrumb: /joomla:Joomla/!templates:Templated/metropolis:Metropolis
 
 ---
 
-Theme Override Settings
+Template Settings
 -----
-One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Metropolis Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Template Manager -> Metropolis Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
-![][demo25]
+![][metropolis2]
 
-This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a theme preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Theme Settings page.
+:   1. **Logo**  [7%, 11%, se]
+    2. **Menu**  [7%, 50%, se]
+    4. **Copyright**  [92%, 11%, se]
+    5. **To Top**  [92%, 89%, sw]
 
-Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the override indicated here relates to the theme override in this menu. More information about how overrides work can be found in our [Gantry documentation][override].
+This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
+
+Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the Style indicated here relates to the template Style in this menu. More information about how Styles work can be found in our [Gantry documentation][Style].
 
 ### Style
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Logo | Metropolis |
-| Default | Responsive Menu | Panel |
-| Default | Featured Image Size | Width: 430, Height: 400, Position: Left |
-| Default | Font Settings | Font Family: Metropolis, Font Size: Default |
-| Default | Pagination | Enabled: On, Show Count: On, Side Pages: 8 |
-| Default | Use WordPress Comments | On |
-| Default | Custom CSS | Blank |
+| Style   | Option        | Position | Setting                                     |  
+| :------ | :------------ | :------- | :------------------------------------------ |  
+| Default | Logo          | header-a | Show: On                                    |  
+| Default | Font Settings |          | Font Family: Metropolis, Font Size: Default |  
 
-### Gizmos
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Side Panel | Show: Off, Side Panel Width: 250 |
-| Default | Page Suffix | Enabled: Off, Class: Blank | 
-| Default | Feed Links | On | 
-| Default | Custom Title Tag | Blank | 
-| Default | Shortcodes in Widgets | On |
-| Default | RokStyle | On |
-| Default | Google Analytics | Enabled: Off, UA Code: Blank |
-| Front Page | Page Suffix | Enabled: On, Class: jun13 |
+### Features
+| Style   | Option           | Position    | Setting                                                                    |  
+| :------ | :--------------- | :---------- | :------------------------------------------------------------------------- |  
+| Default | Social Buttons   |             | Show: On                                                                   |  
+| Default | Date             | top-d       | Show: Off                                                                  |  
+| Default | Font-Sizer       | feature-b   | Show: Off                                                                  |  
+| Default | Login Panel      | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout` |  
+| Default | Popup Panel      | utility-d   | Show: Off, Popup Button Text: `Popup Module`                               |  
+| Default | Branding         | copyright-a | Show: Off                                                                  |  
+| Default | Copyright        | copyright-a | Show: On, Text: `Designed by RocketTheme`                                  |  
+| Default | To-Top Scroller  | copyright-c | Show: On, Text: `Top`                                                      |  
+| Default | System Messages  | drawer      | Show: On                                                                   |  
+| Default | Reset Settings   | copyright-d | Show: Off, Text: `Reset Settings`                                          |  
+| Default | Google Analytics |             | Enable: Off                                                                |  
+
+### Menu
+| Style   | Option          | Setting                       |  
+| :------ | :-------------- | :---------------------------- |  
+| Default | Menu Control    | Show: On, Type: Dropdown-Menu |  
+| Default | Select a Menu   | Main Menu                     |  
+| Default | Position        | header-b                      |  
+| Default | Responsive Menu | Panel                         |  
+| Default | Enable ID       | Off                           |  
+| Default | Module Cache    | On                            |  
 
 ### Layouts
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Top Positions | Positions: 4, 3:3:3:3 |
-| Default | Header Positions | Positions: 2, 3:9 |
-| Default | Showcase Positions | Positions: 4, 3:3:3:3 |
-| Default | Feature Positions | Positions: 4, 3:3:3:3 |
-| Default | Utility Positions | Positions: 4, 3:3:3:3 |
-| Default | MainTop Positions | Positions: 4, 3:3:3:3 |
-| Default | MainBody Positions | Positions: 2, 9:3 |
-| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |
-| Default | Extension Positions | Positions: 4, 3:3:3:3 |
-| Default | Bottom Positions | Positions: 4, 3:3:3:3 |
-| Default | Footer Positions | Positions: 3, 4:4:4 |
-| Default | Copyright Positions | Positions: 3, 4:4:4 |
+| Style   | Option               | Setting               |  
+| :------ | :------------------- | :-------------------- |  
+| Default | Top Positions        | Positions: 4, 3:3:3:3 |  
+| Default | Header Positions     | Positions: 2, 3:9     |  
+| Default | Showcase Positions   | Positions: 1, 12      |  
+| Default | Feature Positions    | Positions: 1, 12      |  
+| Default | Utility Positions    | Positions: 4, 3:3:3:3 |  
+| Default | MainTop Positions    | Positions: 4, 3:3:3:3 |  
+| Default | MainBody Positions   | Positions: 3, 6:3:3   |  
+| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default | Extension Positions  | Positions: 4, 3:3:3:3 |  
+| Default | Bottom Positions     | Positions: 4, 3:3:3:3 |  
+| Default | Footer Positions     | Positions: 3, 4:4:4   |  
+| Default | Copyright Positions  | Positions: 3, 4:4:4   |  
 
 ### Advanced
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Default | Layout Mode | Responsive |
-| Default | Maintenance Mode | Off |
-| Default | Load Transition | Off |
-| Default | Display Content | On |
-| Default | Display Mainbody | On |
-| Default | RTL Support | On |
-| Default | Disable Auto Paragraphs | Enabled: On, Content Type: Both |
-| Default | Disable Texturize | Off |
-| Default | Selectivizr | Off |
-| Default | Less Compiler | CSS Compression: On, Compile: 2, Debug: Off |
-| Default | IE7 Redirect | On |
-| Front Page | Display Content | Off |
+| Style   | Option           | Setting                                                 |  
+| :------ | :--------------- | :------------------------------------------------------ |  
+| Default | Layout Mode      | Responsive                                              |  
+| Default | Load Transition  | Off                                                     |  
+| Default | Display Content  | Off                                                     |  
+| Default | Mainbody Enabled | On                                                      |  
+| Default | RTL Support      | On                                                      |  
+| Default | Page Suffix      | Off                                                     |  
+| Default | Selectivizr      | Off                                                     |  
+| Default | Less Compiler    | CSS Compression: On, Compile Wait: 2, Debug Header: Off |  
+| Default | IE7 Redirect     | On                                                      |  
+| Default | K2 Styling       | On                                                      |    
 
 ### Assignments
-| Override | Option | Setting |
-|:--------|------:|-------:|
-| Front Page | Template Page Types | Home Page, Front Page |
+| Style | Option    | Setting |  
+| :---- | :-------- | :------ |  
+| Home  | Main Menu | Home    |  
 
-[demo25]: assets/wp_metropolis_demo_25.jpeg
+[demo25]: assets/Metropolis.jpg
 [menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[Style]: http://gantry-framework.org/documentation/wordpress/configure/
+[metropolis2]: assets/metropolis.jpeg
