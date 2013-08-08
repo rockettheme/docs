@@ -1,25 +1,25 @@
 ---
-title: Lumiere: FAQ
-description: Your Guide to Using the Lumiere Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/lumiere:Lumiere
+title: Leviathan: FAQ
+description: Your Guide to Using the Leviathan Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/Leviathan:Leviathan
 
 ---
 
-What are Lumiere template features?
+What are Leviathan template features?
 -----
-Please check our [Template Info page][features] for all Lumiere features in one complete list.
+Please check our [Template Info page][features] for all Leviathan features in one complete list.
 
-What font is used on Lumiere template?
+What font is used on Leviathan template?
 -----
 Ubuntu. You can download it at [here][font].
 
-Is there any tutorial to get me started with Lumiere?
+Is there any tutorial to get me started with Leviathan?
 -----
-Yes. Please check our [Lumiere Tutorials & Guides forum][forum] in addition to this guide.
+Yes. Please check our [Leviathan Tutorials & Guides forum][forum] in addition to this guide.
 
-Is Lumiere compatible for Joomla 1.5?
+Is Leviathan compatible for Joomla 1.5?
 -----
-No, Lumiere is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Leviathan is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----
@@ -45,15 +45,15 @@ Can I install RocketLauncher on existing Joomla! website?
 -----
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.
 
-I installed Lumiere RocketLauncher but the images are different with the demo site.
+I installed Leviathan RocketLauncher but the images are different with the demo site.
 -----
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/lumiere/features
+[features]: http://demo.rockettheme.com/joomla/Leviathan/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=703&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/index.php?f=729&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/lumiere/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/lumiere/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/lumiere/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla/Leviathan/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla/Leviathan/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla/Leviathan/features/extensions
