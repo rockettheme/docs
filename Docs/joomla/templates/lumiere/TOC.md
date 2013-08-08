@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!hexeris:Hexeris
+breadcrumb: /joomla:Joomla/!templates:Templates/!lumiere:Lumiere
 
 ---
 
-* Hexeris
+* Lumiere
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

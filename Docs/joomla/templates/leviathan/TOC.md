@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!hexeris:Hexeris
+breadcrumb: /joomla:Joomla/!templates:Templates/!leviathan:Leviathan
 
 ---
 
-* Hexeris
+* Leviathan
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

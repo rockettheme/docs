@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!hexeris:Hexeris
+breadcrumb: /joomla:Joomla/!templates:Templates/!alerion:Alerion
 
 ---
 
-* Hexeris
+* Alerion
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

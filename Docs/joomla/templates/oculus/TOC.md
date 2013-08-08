@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/templates:Templates/!stratos:Stratos
+breadcrumb: /joomla:Joomla/templates:Templates/!oculus:Oculus
 
 ---
 
-* Metropolis
+* Oculus
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
