@@ -13,15 +13,15 @@ This area of the front page is a **mod_custom** module. You'll find the settings
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | Location[span class="hidden-tablet"] Detail[/span]    |  
-| Show Title        | Show               |  
-| Position          | utility-b          |  
-| Status            | Published          |  
-| Access            | Public             |    
-| Language          | All                |  
-| Note              | Blank              |
+| Option     | Setting                                            |  
+| :--------- | :------------------------------------------------- |  
+| Title      | Location[span class="hidden-tablet"] Detail[/span] |  
+| Show Title | Show                                               |  
+| Position   | utility-b                                          |  
+| Status     | Published                                          |  
+| Access     | Public                                             |  
+| Language   | All                                                |  
+| Note       | Blank                                              |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
@@ -41,9 +41,9 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting                   |  
-| :------------------ | :------------------------ |  
-| Module Class Suffix | `box4 title4 jagged fp-utility-b` |
+| Option              | Setting                           |  
+| :------------------ | :-------------------------------- |  
+| Module Class Suffix | `box4 title4 jagged fp-utility-b` |  
 
 [demo]: assets/demo_5.jpeg
 [demo2]: assets/location_1.jpeg

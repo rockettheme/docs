@@ -1,15 +1,79 @@
 ---
 title: Lumiere
-description: Your Guide to Using Lumiere for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!lumiere:Lumiere
+description: Your Guide to Using the Lumiere Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!Lumiere:Lumiere
 
 ---
 
-Lumiere
-======
-Description goes here.
+Introduction
+-----
+Lumiere, the February 2013 template release, uses HTML5 to offer video functionality in the header, to create a dynamic and interactive user experience. The design complements the modern approach, with rich, subtle and sophisticated visuals.
 
+![][lumiere]
 
-How to install
---------------
-Content goes here.
+The template is founded on the Gantry Framework, the core that underpins the templates features. Numerous design features are also included such as RokSprocket integrated styling for its various layout modes.
+
+>> NOTICE: Lumiere is a Joomla 2.5 and Joomla 3.x Template.
+
+Requirements
+-----
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3+
+* MySQL 5.0.4 or higher
+* Joomla 2.5 or 3.1+
+* Gantry Framework
+
+>> NOTE: Gantry v4.1.6+ is required for Lumiere to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+
+Key Features
+-----
+* Joomla 2.5 & Joomla 3.x Compatible
+* Responsive Layout
+* 9 Preset Styles
+* 76 Module Positions
+* 8 Styled & Numerous Structural Module Suffixes
+* RokSprocket Responsive Layout Integrated
+* HTML5 Video Support in the Header
+* Styled Support for Responsive K2 Layout
+* Powerful Gantry 4 Framework
+* Custom Content Typography
+* DropDown Menu & Splitmenu
+* FF, Safari, Chrome, Opera, IE8+ Compatible
+* HTML5, CSS3, LESS CSS
+
+### Responsive Layout
+![][responsive]
+Lumiere's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
+
+### HTML5 Video in the Header
+![][downloops2]
+Lumiere uses HTML5 support for displaying stunning videos and images in the header. The stunning videos for each preset are generously provided by Downloops.com.
+
+At [Downloops.com][downloops] you can download [200 artistic videos][videos] for reasonable price, as well as the [royalty-free][free] video loop backgrounds. They are designed to work great with video, on stage, in clubs and bars.
+
+![][html5]
+
+[Michael Schneider][michael], the founder of Downloops and the videos creator, is also available for custom video work if required.
+
+### Responsive Layout for RokSprocket
+![][roksprocket]
+Lumiere comes with the RokSprocket extension that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
+
+### K2 (3rd Party) Responsive Layout
+![][k2]
+K2 is the popular powerful content extension for Joomla! with CCK-like features. Lumiere also comes with the K2 extension that is built to work with the responsive layout.
+
+[gantry]: http://www.gantry-framework.org/
+[lumiere]: assets/lumiere2.jpeg
+[responsive]: assets/responsive.jpg
+[roksprocket]: assets/roksprocket.jpg
+[filezilla]: https://filezilla-project.org
+[launcher]: ../../start/rocketlauncher.md
+[strips]: assets/strips.jpg
+[k2]: assets/k2.jpg
+[downloops]: http://www.downloops.com/
+[downloops2]: assets/downloops.jpg
+[html5]: assets/html5.jpg
+[videos]: http://www.downloops.com/all-video-loops
+[free]: http://www.downloops.com/free-video-loops
+[michael]: http://www.downloops.com/contacts/
