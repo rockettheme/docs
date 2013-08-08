@@ -40,7 +40,7 @@ We used a **RokSprocket** module with the **Mosaic** layout to make up this area
 | Image Resize    | Disable                      |  
 
 ### Article Defaults
-| Default Link | Custom |
+![][demo4]
 
 ### Advanced
 ![][demo5]

@@ -1,15 +1,13 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokAjaxSearch
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Leviathan: Recreating the Demo - Site Search
+description: Your Guide to Recreating Elements of the Leviathan Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 
 ---
 
-FP RokAjaxSearch
+Site Search
 -----
 ![][demo]
-
-:   1. **RokAjaxSearch** [40%, 82%, se]
 
 The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
 
@@ -18,9 +16,9 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 
 | Option            | Setting             |
 |:------------------|:--------------------|
-| Title             | FP RokAjaxSearch    |
-| Show Title        | Hide                |
-| Position          | header-c            |
+| Title             | Site Search         |
+| Show Title        | Show                |
+| Position          | showcase-a          |
 | Status            | Published           |
 | Access            | Public              |
 | Ordering          | 1. FP RokAjaxSearch |
@@ -59,11 +57,11 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 ### Advanced
 ![][demo4]
 
-| Option              | Setting            |
-|:--------------------|:-------------------|
-| Module Class Suffix | `fp-rokajaxsearch` |
+| Option              | Setting                                                                                                             |  
+| :------------------ | :------------------------------------------------------------------------------------------------------------------ |  
+| Module Class Suffix | `fp-rokajaxsearch icon-search nomarginbottom nopaddingbottom hidden-tablet hidden-phone nomarginright nomarginleft` |  
 
 [demo]: assets/demo_1.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+[demo2]: assets/search_1.jpeg
+[demo3]: assets/search_2.jpeg
+[demo4]: assets/search_3.jpeg

@@ -85,7 +85,7 @@ Menu Settings
 ![][mainmenu]
 In your site's main menu, you'll want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-First, you'll need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` may13-home`.
+First, you'll need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `jan13-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch

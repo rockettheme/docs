@@ -1,11 +1,11 @@
 ---
-title: Hexeris: Recreating the Demo - Demo Replica
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Leviathan: Recreating the Demo - FP Footer A
+description: Your Guide to Recreating Elements of the Leviathan Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 
 ---
 
-Demo Replica
+FP Footer A
 -----
 ![][demo]
 This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
@@ -13,72 +13,25 @@ This area of the front page is a **mod_custom** module. You'll find the settings
 ### Details
 ![][demo2]
 
-| Option            | Setting                                                        |  
-| :---------------- | :------------------------------------------------------------- |  
-| Title             | `Demo Replica [span class="rt-subtitle"]RocketLauncher[/span]` |  
-| Show Title        | Show                                                           |  
-| Position          | extension-b                                                    |  
-| Status            | Published                                                      |  
-| Access            | Public                                                         |  
-| Ordering          | 1. Demo Replica                                                |  
-| Start Publishing  | 0000-00-00 00:00:0                                             |  
-| Finish Publishing | 0000-00-00 00:00:0                                             |  
-| Language          | All                                                            |  
-| Note              | Blank                                                          |  
+| Option     | Setting       |  
+| :--------- | :------------ |  
+| Title      | `FP Footer A` |  
+| Show Title | Hide          |  
+| Position   | footer-a      |  
+| Status     | Published     |  
+| Access     | Public        |  
+| Language   | All           |  
+| Note       | Blank         |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box2 rt-med-icon">
-		<span class="rokicon-profile2"></span>
-	</span>
-</div>
+<p>
+    <img class="rt-noborder" src="images/rocketlauncher/frontpage/footer/logo-footer.png" alt="Logo" />
+</p>
 
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Quick Install.</h5>
-		<p class="nomarginbottom">Replicate the demo easily with a custom Joomla installation package.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box1 rt-med-icon">
-		<span class="rokicon-message"></span>
-	</span>
-</div>
-
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Forum Guide.</h5>
-		<p class="nomarginbottom">A forum tutorial on replicating the demo frontpage is also available.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box4 rt-med-icon">
-		<span class="rokicon-alarm-clock"></span>
-	</span>
-</div>
-
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Sample Images.</h5>
-		<p class="nomarginbottom">Due to copyright reasons, demo images are replaced with sample versions.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=115">Read More</a>
+<span>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site.</span>
 ~~~
 
 ### Basic
@@ -92,11 +45,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting                   |  
-| :------------------ | :------------------------ |  
-| Module Class Suffix | `box3 hidden-phone` |
+| Option              | Setting                          |  
+| :------------------ | :------------------------------- |  
+| Module Class Suffix | `nomarginbottom nopaddingbottom` |  
 
-[demo]: assets/demo_5.jpeg
-[demo2]: assets/replica_1.jpeg
-[demo3]: assets/replica_2.jpeg
-[demo4]: assets/replica_3.jpeg
+[demo]: assets/demo_6.jpeg
+[demo2]: assets/footer_1.jpeg
+[demo3]: assets/footer_2.jpeg
+[demo4]: assets/footer_3.jpeg

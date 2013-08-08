@@ -1,50 +1,51 @@
 ---
-title: Hexeris: Recreating the Demo - FP Footer A
+title: Hexeris: Recreating the Demo - Popular Features
 description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
 
 ---
 
-FP Footer A
+Popular Features
 -----
 ![][demo]
+This area of the front page is actually the **Featured Articles** section. We linked an article titled **Popular Features** here, with the following in the **Article Text** field:
 
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+~~~
+<div class="fp-popularfeatures">
+<h2>Popular Features</h2>
+[module-164]
+</div>
+~~~
+
+This shortcode links to a **RokSprocket** module with **Tabs** layout type. Instructions for this module are listed below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | FP Footer A        |  
-| Show Title        | Hide               |  
-| Position          | footer-a           |  
-| Status            | Published          |  
-| Access            | Public             |  
-| Ordering          | 1. FP Footer A     |  
-| Start Publishing  | 0000-00-00 00:00:0 |  
-| Finish Publishing | 0000-00-00 00:00:0 |  
-| Language          | All                |  
-| Note              | Blank              |
+| Option           | Setting                 |  
+| :--------------- | :---------------------- |  
+| Title            | `Popular Features`      |  
+| Show Title       | Show                    |  
+| Access           | Public                  |  
+| Position         | sprocket-tabs-frontpage |  
+| Status           | Published               |  
+| Content Provider | Joomla                  |  
+| Type             | Tabs                    |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<div class="rt-footer-logo"></div>
-
-<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Hexeris <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
-
-<p class="hidden-tablet"><strong>Hexeris</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
-~~~
-
-### Basic
+### Layout Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option          | Setting        |  
+| :-------------- | :------------- |  
+| Theme           | Default        |  
+| Tabs Position   | Top            |  
+| Display Limit   | ∞              |  
+| Animation       | Slide and Fade |  
+| Autoplay        | Disable        |  
+| Autoplay Delay  | 5              |  
+| Image Resize    | Disable        |  
+| Preview Length  | 0              |  
+| Strip HTML Tags | No             |  
 
 ### Advanced
 ![][demo4]
@@ -53,7 +54,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------ |  
 | Module Class Suffix |         |
 
-[demo]: assets/demo_8.jpeg
-[demo2]: assets/footer_1.jpeg
-[demo3]: assets/footer_2.jpeg
-[demo4]: assets/footer_3.jpeg
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/tabs_1.jpeg
+[demo3]: assets/tabs_2.jpeg
+[demo4]: assets/tabs_4.jpeg

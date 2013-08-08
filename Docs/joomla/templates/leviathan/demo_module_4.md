@@ -18,7 +18,7 @@ We used a **RokSprocket** module with the **Mosaic** layout to make up this area
 | Title            | FP RokSprocket - Mosaic |  
 | Show Title       | Show                    |  
 | Access           | Public                  |  
-| Position         | feature-a               |  
+| Position         | content-top-a           |  
 | Status           | Published               |  
 | Content Provider | Joomla                  |  
 | Type             | Mosaic                  |  
@@ -31,25 +31,25 @@ We used a **RokSprocket** module with the **Mosaic** layout to make up this area
 | Theme           | Default                      |  
 | Display Limit   | ∞                            |  
 | Columns         | 3                            |  
-| Preview Length  | 100                          |  
-| Strip HTML Tags | No                           |  
-| Blocks Per View | 6                            |  
-| Article Details | Show Author and Date         |  
+| Preview Length  | 16                           |  
+| Strip HTML Tags | Yes                          |  
+| Blocks Per View | 3                            |  
+| Article Details | Hide Author and Date         |  
 | Block Animation | Fade, Scale, Rotate          |  
 | Ordering        | Default, Title, Date, Random |  
 | Image Resize    | Disable                      |  
 
 ### Article Defaults
-| Default Link | Custom |
+![][demo4]
 
 ### Advanced
 ![][demo5]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting                          |  
+| :------------------ | :------------------------------- |  
+| Module Class Suffix | `nomarginbottom nopaddingbottom` |  
 
-[demo]: assets/demo_3.jpeg
+[demo]: assets/demo_4.jpeg
 [demo2]: assets/mosaic_1.jpeg
 [demo3]: assets/mosaic_2.jpeg
 [demo4]: assets/mosaic_3.jpeg

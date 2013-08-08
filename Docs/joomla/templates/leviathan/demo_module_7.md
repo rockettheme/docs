@@ -1,54 +1,57 @@
 ---
-title: Hexeris: Recreating the Demo - Gantry Extras
+title: Hexeris: Recreating the Demo - Follow Us
 description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
 
 ---
 
-Gantry Extras
+Follow Us
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You'll find the settings used in our demo below.
+
+We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                                                       |  
-| :--------------- | :------------------------------------------------------------ |  
-| Title            | `Gantry Extras [span class="rt-subtitle"]Top Features[/span]` |  
-| Show Title       | Show                                                          |  
-| Access           | Public                                                        |  
-| Position         | extension-c                                                   |  
-| Status           | Published                                                     |  
-| Content Provider | Joomla                                                        |  
-| Type             | Lists                                                         |
+| Option            | Setting            |  
+| :---------------- | :----------------- |  
+| Title             | Follow Us          |  
+| Show Title        | Show               |  
+| Position          | footer-b           |  
+| Status            | Published          |  
+| Access            | Public             |   
+| Language          | All                |  
+| Note              | Blank              |
 
-### Layout Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<div class="rt-social-buttons">
+  <a class="social-button rt-facebook-btn" href="http://www.facebook.com/RocketTheme"><span></span></a>
+  <a class="social-button rt-twitter-btn" href="https://twitter.com/rockettheme"><span></span></a>
+  <a class="social-button rt-google-btn" href="https://plus.google.com/114430407008695950828/posts"><span></span></a>
+  <a class="social-button rt-rss-btn" href="http://www.rockettheme.com/blog?format=feed&amp;type=rss"><span></span></a>
+</div>
+~~~
+
+### Basic
 ![][demo3]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Theme               | Default |  
-| Display Limit       | ∞       |  
-| Collapsible Preview | Enable  |  
-| Preview Length      | 20      |  
-| Strip HTML Tags     | Yes     |  
-| Previews Per Page   | 3       |  
-| Arrow Navigation    | Show    |  
-| Pagination          | Show    |  
-| Autoplay            | Disable |  
-| Autoplay Delay      | 5       |  
-| Image Resize        | Disable |
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][demo5]
+![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix | `box1`  |
+| Option              | Setting                                              |  
+| :------------------ | :--------------------------------------------------- |  
+| Module Class Suffix | `title1 nomarginbottom nopaddingbottom hidden-phone` |  
 
-[demo]: assets/demo_6.jpeg
-[demo2]: assets/mosaic_1.jpeg
-[demo3]: assets/mosaic_2.jpeg
-[demo4]: assets/mosaic_3.jpeg
-[demo5]: assets/mosaic_4.jpeg
+[demo]: assets/demo_7.jpeg
+[demo2]: assets/follow_1.jpeg
+[demo3]: assets/follow_2.jpeg
+[demo4]: assets/follow_3.jpeg

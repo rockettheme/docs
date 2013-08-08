@@ -1,61 +1,34 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Strips
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Leviathan: Recreating the Demo - Template of the Year
+description: Your Guide to Recreating Elements of the Leviathan Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 
 ---
 
-FP RokSprocket - Strips
+Template of the Year
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Strips** layout to make up this area of the front page. You'll find the settings used in our demo below.
+This area of the front page is actually the **Featured Articles** section. We linked an article titled **Template of the Year** here, with the following in the **Article Text** field:
 
-### Details
-![][demo2]
+~~~
+<div class="rt-tagline"><small>Written by</small> <strong>Author</strong></div>
+<div class="gantry-width-50 gantry-width-block">
+  <div class="gantry-width-spacer nomargintop nomarginleft">
+    <span class="rt-image">
+      <img src="images/rocketlauncher/frontpage/featured/img1.jpg" alt="image">
+    </span>
+  </div>
+</div>
 
-| Option           | Setting                 |  
-| :--------------- | :---------------------- |  
-| Title            | FP RokSprocket - Strips |  
-| Show Title       | Hide                    |  
-| Access           | Public                  |  
-| Position         | bottom-a                |  
-| Status           | Published               |  
-| Content Provider | Joomla                  |  
-| Type             | Strips                  |
+<div class="gantry-width-50 gantry-width-block">
+  <div class="gantry-width-spacer nomargintop">
+    <p><strong>Leviathan</strong>, the January 2013 template release, is a visually enriched design with stunning graphics, contrasts and tones. Its sidebar adds focus and boldness, that complements and contrasts with the mainbody area to great effect.</p>
+    <p class="visible-large">The core of the template is based on the Gantry Framework, which provides a plethora of standardized features and functions. Also included is support for extensions such as RokSprocket.</p>
+    <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=108" class="readon"><span>Read More</span></a>
+  </div>
+</div>
 
-### Layout Options
-![][demo3]
+<div class="clear"></div>
+~~~
 
-| Option            | Setting   |  
-| :---------------- | :-------- |  
-| Theme             | Default   |  
-| Display Limit     | ∞         |  
-| Preview Length    | 200       |  
-| Strip HTML Tags   | No        |  
-| Previews Per Page | 4         |  
-| Items Per Row     | 4         |  
-| Arrow Navigation  | Show      |  
-| Pagination        | Hide      |  
-| Animation         | Randomize |  
-| Autoplay          | Enable    |  
-| Autoplay Delay    | 5         |  
-| Image Resize      | Disable   |
-
-### Article Defaults
-![][demo4]
-| Option        | Setting |  
-| :------------ | :------ |  
-| Default Title | None    |  
-| Default Link  | None    |
-
-### Advanced
-![][demo5]
-| Option              | Setting                 |  
-| :------------------ | :---------------------- |  
-| Module Class Suffix | `fp-roksprocket-strips` |
-
-[demo]: assets/demo_7.jpeg
-[demo2]: assets/strips_1.jpeg
-[demo3]: assets/strips_2.jpeg
-[demo4]: assets/strips_3.jpeg
-[demo5]: assets/strips_4.jpeg
+[demo]: assets/demo_8.jpeg
