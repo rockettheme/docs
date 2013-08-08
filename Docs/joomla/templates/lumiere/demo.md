@@ -22,18 +22,18 @@ Below, you'll find the module placement and settings for the various module posi
 
 ![][Lumiere]
 
-:   1. **FP Showcase - RokSprocket Features**  [7%, 80%, sw]
-    2. **Search Our Site Title**  [10%, 23%, se]
-    3. **Search Our Site Inputbox**  [18%, 25%, se]
-    4. **Top News of the Week Title**  [22%, 20%, se]
-    5. **FP MainTop - RokSprocket Mosaic**  [59%, 20%, se]
-    6. **FP SideBar Menu**  [59%, 41%, se]
-    7. **FP SideBar - RokSprocket Lists**  [59%, 62%, se]
-    8. **Popular Templates**  [75%, 20%, se]
-    9. **Copyright Menu**  [82%, 20%, se]
-    10. **Follow Us**  [82%, 41%, se]
-    11. **Popular Features**  [82%, 62%, se]
-    12. **Gantry Extras** [90%, 90%, se]
+:   1. **FP Showcase - RokSprocket Features**  [10%, 10%, se]
+    2. **Search Our Site Title**  [27%, 10%, se]
+    3. **Search Our Site Inputbox**  [27%, 25%, se]
+    4. **Top News of the Week Title**  [33%, 30%, se]
+    5. **FP MainTop - RokSprocket Mosaic**  [38%, 10%, se]
+    6. **FP SideBar Menu**  [62%, 10%, se]
+    7. **FP SideBar - RokSprocket Lists**  [62%, 90%, sw]
+    8. **Popular Templates**  [82%, 10%, se]
+    9. **Copyright Menu**  [91%, 38%, se]
+    10. **Follow Us**  [91%, 76%, se]
+    11. **Popular Features**  [58%, 28%, sw]
+    12. **Gantry Extras** [58%, 65%, se]
 
 We've detailed how to recreate the individual modules pictured above in the links below.
 
@@ -89,7 +89,7 @@ Menu Settings
 ![][mainmenu]
 In your site's main menu, you'll want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-First, you'll need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` may13-home`.
+First, you'll need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` feb13-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
