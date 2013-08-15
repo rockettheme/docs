@@ -1,102 +1,54 @@
 ---
-title: Hexeris: Recreating the Demo - Demo Replica
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Gantry Extras
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-Demo Replica
+Gantry Extras
 -----
 ![][demo]
-This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting                                                        |  
-| :---------------- | :------------------------------------------------------------- |  
-| Title             | `Demo Replica [span class="rt-subtitle"]RocketLauncher[/span]` |  
-| Show Title        | Show                                                           |  
-| Position          | extension-b                                                    |  
-| Status            | Published                                                      |  
-| Access            | Public                                                         |  
-| Ordering          | 1. Demo Replica                                                |  
-| Start Publishing  | 0000-00-00 00:00:0                                             |  
-| Finish Publishing | 0000-00-00 00:00:0                                             |  
-| Language          | All                                                            |  
-| Note              | Blank                                                          |  
+| Option           | Setting          |  
+| :--------------- | :--------------- |  
+| Title            | `Gantry Extras.` |  
+| Show Title       | Show             |  
+| Access           | Public           |  
+| Position         | sidebar-b        |  
+| Status           | Published        |  
+| Content Provider | Joomla           |  
+| Type             | Lists            |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box2 rt-med-icon">
-		<span class="rokicon-profile2"></span>
-	</span>
-</div>
-
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Quick Install.</h5>
-		<p class="nomarginbottom">Replicate the demo easily with a custom Joomla installation package.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box1 rt-med-icon">
-		<span class="rokicon-message"></span>
-	</span>
-</div>
-
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Forum Guide.</h5>
-		<p class="nomarginbottom">A forum tutorial on replicating the demo frontpage is also available.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<div class="gantry-width-20 gantry-width-block">
-	<span class="box4 rt-med-icon">
-		<span class="rokicon-alarm-clock"></span>
-	</span>
-</div>
-
-<div class="gantry-width-80 gantry-width-block">
-  <div class="smallmarginleft">
-		<h5 class="smallmarginbottom">Sample Images.</h5>
-		<p class="nomarginbottom">Due to copyright reasons, demo images are replaced with sample versions.</p>
-  </div>
-</div>
-
-<div class="clear"></div>
-<div class="rt-separator"></div> 
-
-<a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=115">Read More</a>
-~~~
-
-### Basic
+### Layout Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Theme               | Default |  
+| Display Limit       | ∞       |  
+| Collapsible Preview | Enable  |  
+| Preview Length      | 20      |  
+| Strip HTML Tags     | Yes     |  
+| Previews Per Page   | 5       |  
+| Arrow Navigation    | Show    |  
+| Pagination          | Show    |  
+| Autoplay            | Disable |  
+| Autoplay Delay      | 5       |  
+| Image Resize        | Disable |
 
 ### Advanced
-![][demo4]
+![][demo5]
 
-| Option              | Setting                   |  
-| :------------------ | :------------------------ |  
-| Module Class Suffix | `box3 hidden-phone` |
+| Option              | Setting         |  
+| :------------------ | :-------------- |  
+| Module Class Suffix | `box1 rt-flush` |  
 
-[demo]: assets/demo_5.jpeg
-[demo2]: assets/replica_1.jpeg
-[demo3]: assets/replica_2.jpeg
-[demo4]: assets/replica_3.jpeg
+[demo]: assets/demo_4.jpeg
+[demo2]: assets/gantry_1.jpeg
+[demo3]: assets/gantry_2.jpeg
+[demo4]: assets/gantry_3.jpeg
+[demo5]: assets/gantry_4.jpeg

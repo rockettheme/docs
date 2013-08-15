@@ -30,3 +30,10 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!leviathan:Leviathan
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
+* Template Tutorials
+    * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
+    * [Editing Template Text](../../basic/how_to_edit_template_text.md)
+    * [Set Up a RokBox Member Login](../../basic/how_to_set_up_a_rokbox_member_login.md)
+    * [How to Use the Popup Module](../../basic/how_to_use_popup_module.md)
+    * [Responsive Support Classes](../../basic/responsive_support_classes.md)
+    * [Creating Responsive Content](../../basic/creating_responsive_content.md)

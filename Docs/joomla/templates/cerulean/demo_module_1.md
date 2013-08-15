@@ -1,69 +1,56 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokAjaxSearch
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Login Form
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-FP RokAjaxSearch
+Login Form
 -----
 ![][demo]
 
-:   1. **RokAjaxSearch** [40%, 82%, se]
+:   1. **Login** [10%, 65%, se]
 
-The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
+The Header Login module makes it easy for your site's users to log in and take advantage of any extra benefits your site offers them. Setup for this module is actually pretty basic.
+
+This module is a basic **Login** module coupled with a module class suffix that allows it to fit the look of Cerulean.
+
+Here are the details:
 
 ### Details
 ![][demo2]
 
-| Option            | Setting             |
-|:------------------|:--------------------|
-| Title             | FP RokAjaxSearch    |
-| Show Title        | Hide                |
-| Position          | header-c            |
-| Status            | Published           |
-| Access            | Public              |
-| Ordering          | 1. FP RokAjaxSearch |
-| Start Publishing  | 0000-00-00 00:00:0  |
-| Finish Publishing | 0000-00-00 00:00:0  |
-| Language          | All                 |
-| Note              | Blank               |
+| Option     | Setting    |  
+| :--------- | :--------- |  
+| Title      | Login Form |  
+| Show Title | Hide       |  
+| Position   | top-b      |  
+| Status     | Published  |  
+| Access     | Public     |  
+| Language   | All        |  
+| Note       | Blank      |  
 
-### Layout Options
+### Basic Options
 ![][demo3]
+| Option                  | Setting   |  
+| :---------------------- | :-------- |  
+| Pre-Text                | Blank     |  
+| Post-Text               | Blank     |  
+| Login Redirection Page  | Default   |  
+| Logout Redirection Page | Default   |  
+| Show Greeting           | Yes       |  
+| Show Name/Username      | User Name |  
+| Encrypt Login form      | No        |  
 
-| Option                            | Setting                                                  |
-|:----------------------------------|:---------------------------------------------------------|
-| Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
-| Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
-| Include RokAjaxSearch default CSS | No                                                       |
-| Theme Style                       | Blue                                                     |
-| Searchphrase                      | Any words                                                |
-| Ordering                          | Newest First                                             |
-| Limit                             | 10                                                       |
-| Results Per Page                  | 3                                                        |
-| Google Web Search                 | No                                                       |
-| Google Blog Search                | No                                                       |
-| Google Images Search              | No                                                       |
-| Google Videos Search              | No                                                       |
-| Show Pagination                   | Yes                                                      |
-| Google SafeSearch                 | Moderate                                                 |
-| Image Size to Search              | Medium                                                   |
-| Show Estimated                    | Yes                                                      |
-| Hide div id(s)                    | Blank                                                    |
-| Link to All Results               | Yes                                                      |
-| Show Description                  | Yes                                                      |
-| Include (Category/Section)        | Yes                                                      |
-| Show Read More Link               | Yes                                                      |
-
-### Advanced
+### Advanced Options
 ![][demo4]
+| Option              | Setting                        |  
+| :------------------ | :----------------------------- |  
+| Alternative Layout  | Default                        |  
+| Module Class Suffix | `horizontal-login nomargintop` |  
+| Caching             | No caching                     |  
 
-| Option              | Setting            |
-|:--------------------|:-------------------|
-| Module Class Suffix | `fp-rokajaxsearch` |
-
-[demo]: assets/demo_1.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+[demo]: assets/cerulean2.jpeg
+[demo2]: assets/login_1.jpeg
+[demo3]: assets/login_2.jpeg
+[demo4]: assets/login_3.jpeg

@@ -1,56 +1,52 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Mosaic
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Search Our Site
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-FP RokSprocket - Mosaic
+Search Our Site
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Mosaic** layout to make up this area of the front page. You'll find the settings used in our demo below.
+We used a **Search** module to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                 |  
-| :--------------- | :---------------------- |  
-| Title            | FP RokSprocket - Mosaic |  
-| Show Title       | Show                    |  
-| Access           | Public                  |  
-| Position         | feature-a               |  
-| Status           | Published               |  
-| Content Provider | Joomla                  |  
-| Type             | Mosaic                  |  
+| Option     | Setting           |  
+| :--------- | :---------------- |  
+| Title      | `Search Our Site` |  
+| Show Title | Show              |  
+| Access     | Public            |  
+| Position   | sidebar-b         |  
+| Status     | Public            |  
 
-### Layout Options
+### Basic Options
 ![][demo3]
 
-| Option          | Setting                      |  
-| :-------------- | :--------------------------- |  
-| Theme           | Default                      |  
-| Display Limit   | ∞                            |  
-| Columns         | 3                            |  
-| Preview Length  | 100                          |  
-| Strip HTML Tags | No                           |  
-| Blocks Per View | 6                            |  
-| Article Details | Show Author and Date         |  
-| Block Animation | Fade, Scale, Rotate          |  
-| Ordering        | Default, Title, Date, Random |  
-| Image Resize    | Disable                      |  
-
-### Article Defaults
-![][demo4]
+| Option                   | Setting |  
+| :----------------------- | :------ |  
+| Box Label                | Blank   |  
+| Box Width                | 20      |  
+| Box Text                 | Blank   |  
+| Search Button            | Yes     |  
+| Button Position          | Right   |  
+| Search Button Image      | No      |  
+| Button Text              | Go      |  
+| OpenSearch autodiscovery | Yes     |  
+| OpenSearch title         | Blank   |  
+| Set ItemID               | Blank   |  
 
 ### Advanced
-![][demo5]
+![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting           |  
+| :------------------ | :---------------- |  
+| Alternative Layout  | Default           |  
+| Module Class Suffix | `box4 rt-suspend` |  
 
-[demo]: assets/demo_3.jpeg
-[demo2]: assets/mosaic_1.jpeg
-[demo3]: assets/mosaic_2.jpeg
-[demo4]: assets/mosaic_3.jpeg
-[demo5]: assets/mosaic_4.jpeg
+[demo]: assets/demo_2.jpeg
+[demo2]: assets/search_1.jpeg
+[demo3]: assets/search_2.jpeg
+[demo4]: assets/search_3.jpeg
+[demo5]: assets/search_4.jpeg

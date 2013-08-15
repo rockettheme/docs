@@ -1,41 +1,66 @@
 ---
-title: Hexeris: Recreating the Demo - FP Utility
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Recent News
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-FP Utility
+Recent News
 -----
 ![][demo]
-
-:   1. **FP Utility** [70%, 20%, se]
 
 This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | FP Utility         |  
-| Show Title        | Hide               |  
-| Position          | utility-a          |  
-| Status            | Published          |  
-| Access            | Public             |  
-| Ordering          | 1. FP Utility      |  
-| Start Publishing  | 0000-00-00 00:00:0 |  
-| Finish Publishing | 0000-00-00 00:00:0 |  
-| Language          | All                |  
-| Note              | Blank              |  
+| Option     | Setting                                          |  
+| :--------- | :----------------------------------------------- |  
+| Title      | `Recent [span class="hidden-tablet"]News[/span]` |  
+| Show Title | Hide                                             |  
+| Position   | sidebar-a                                        |  
+| Status     | Published                                        |  
+| Access     | Public                                           |  
+| Language   | All                                              |  
+| Note       | Blank                                            |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<span>A multi-faceted content display module...</span>
-<a href="#" class="readon">Read More</a>
-<div class="clear"></div>
+<div class="box2 largepaddingall">
+<h4 class="nomargintop medmarginbottom"><a href="#">Flexible Layouts.</a></h4>
+<p class="rt-image hidden-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img1.jpg" />
+</p>
+<p class="rt-image visible-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img1-large.jpg" />
+</p>
+<div class="rt-teaser">Responsive Modes</div>
+<span>Adaptable layout for mobile<span class="visible-large"> (portrait / landscape)</span>, tablet and desktop displays.</span>
+</div>
+
+<div class="box2 largepaddingall">
+<h4 class="nomargintop medmarginbottom"><a href="#">Gantry 4 Core.</a></h4>
+<p class="rt-image hidden-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img2.jpg" />
+</p>
+<p class="rt-image visible-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img2-large.jpg" />
+</p><div class="rt-teaser">Advanced Features</div>
+<span>Configure an array of features with the Gantry Framework<span class="visible-large">'s custom interface</span>.</span>
+</div>
+
+<div class="box2 largepaddingall">
+<h4 class="nomargintop medmarginbottom"><a href="#">Multiple Styles</a></h4>
+<p class="rt-image hidden-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img3.jpg" />
+</p>
+<p class="rt-image visible-large">
+<img alt="image" src="images/rocketlauncher/frontpage/sidebar-a/img3-large.jpg" />
+</p><div class="rt-teaser">Configurable Presets</div>
+<span>A wide selection of preset<span class="visible-large"> style</span>s and module <span class="visible-large">variations</span><span class="hidden-large">suffixes</span> are available.</span>
+</div>
 ~~~
 
 ### Basic
@@ -49,11 +74,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting                                    |  
-| :------------------ | :----------------------------------------- |  
-| Module Class Suffix | `box6 fp-utility nomargintop hidden-phone` |
+| Option              | Setting                                                                |  
+| :------------------ | :--------------------------------------------------------------------- |  
+| Module Class Suffix | `title1 title3 rt-box2-stack nopaddingall nomarginleft nomarginbottom` |  
 
-[demo]: assets/demo_2.jpeg
-[demo2]: assets/utility_1.jpeg
-[demo3]: assets/utility_2.jpeg
-[demo4]: assets/utility_3.jpeg
+[demo]: assets/demo_6.jpeg
+[demo2]: assets/news_1.jpeg
+[demo3]: assets/news_2.jpeg
+[demo4]: assets/news_3.jpeg

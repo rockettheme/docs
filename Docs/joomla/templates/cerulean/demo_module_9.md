@@ -1,41 +1,50 @@
 ---
-title: Hexeris: Recreating the Demo - FP Footer A
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Top Features
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-FP Footer A
+Top Features
 -----
 ![][demo]
 
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+:   1. **mod_custom** [20%, 40%, se]
+
+We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | FP Footer A        |  
-| Show Title        | Hide               |  
-| Position          | footer-a           |  
-| Status            | Published          |  
-| Access            | Public             |  
-| Ordering          | 1. FP Footer A     |  
-| Start Publishing  | 0000-00-00 00:00:0 |  
-| Finish Publishing | 0000-00-00 00:00:0 |  
-| Language          | All                |  
-| Note              | Blank              |
+| Option     | Setting                                                           |  
+| :--------- | :---------------------------------------------------------------- |  
+| Title      | `Top Features. [span class="icon-chevron-down rt-teaser"][/span]` |  
+| Show Title | Hide                                                              |  
+| Position   | footer-b                                                          |  
+| Status     | Published                                                         |  
+| Access     | Public                                                            |  
+| Language   | All                                                               |  
+| Note       | Blank                                                             |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<div class="rt-footer-logo"></div>
+<p class="smallpaddingbottom">
+    <span class="hidden-tablet"><strong>RokSprocket</strong> is a multi-purpose content module with <strong>integrated</strong> template styling.</span>
+    <span class="visible-tablet">RokSprocket is a multi-purpose extension with integrated  styling.</span>
+    <br class="hidden-tablet" />
+    <small>26 Nov, 2012 17:07</small>
+</p>
 
-<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Hexeris <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
+<p class="rt-dashed-divider"></p>
 
-<p class="hidden-tablet"><strong>Hexeris</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
+<p class="smallpaddingtop">    
+    <span class="hidden-tablet">The <a href="#">dropdown menu</a> is an advanced CSS driven system with <strong>mobile</strong> support.</span>
+	<span class="visible-tablet">The dropdown menu is an advanced CSS driven system.</span>
+	<br class="hidden-tablet" />
+	<small>23 Nov, 2012 12:46</small>
+</p>
 ~~~
 
 ### Basic
@@ -49,11 +58,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting                                                                 |  
+| :------------------ | :---------------------------------------------------------------------- |  
+| Module Class Suffix | `nomarginbottom nopaddingbottom nomargintop medpaddingtop hidden-phone` |  
 
-[demo]: assets/demo_8.jpeg
-[demo2]: assets/footer_1.jpeg
-[demo3]: assets/footer_2.jpeg
-[demo4]: assets/footer_3.jpeg
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/features_1.jpeg
+[demo3]: assets/features_2.jpeg
+[demo4]: assets/features_3.jpeg

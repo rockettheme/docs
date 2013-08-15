@@ -21,3 +21,4 @@ breadcrumb: /joomla:Joomla/!basic:Basic
 	* [How to Use the Popup Module](how_to_use_popup_module.md)
 	* [Responsive Support Classes](responsive_support_classes.md)
 	* [Creating Responsive Content](creating_responsive_content.md)
+	* [K2 Styling Guide](k2_styling_guide.md)

@@ -61,6 +61,7 @@ breadcrumb: /!joomla:Joomla/
 	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)
 	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
 	- [Creating Responsive Content](basic/creating_responsive_content.md)
+	- [K2 Styling Guide](basic/k2_styling_guide.md)
 
 <!-- -->
 

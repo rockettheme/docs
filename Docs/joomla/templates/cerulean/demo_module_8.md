@@ -1,61 +1,58 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Strips
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Recreating the Demo - Demo Info
+description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
-FP RokSprocket - Strips
+Demo Info
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Strips** layout to make up this area of the front page. You'll find the settings used in our demo below.
+
+:   1. **mod_custom** [20%, 7%, se]
+
+We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                 |  
-| :--------------- | :---------------------- |  
-| Title            | FP RokSprocket - Strips |  
-| Show Title       | Hide                    |  
-| Access           | Public                  |  
-| Position         | bottom-a                |  
-| Status           | Published               |  
-| Content Provider | Joomla                  |  
-| Type             | Strips                  |
+| Option     | Setting                                                         |  
+| :--------- | :-------------------------------------------------------------- |  
+| Title      | `Demo Info.  [span class="icon-chevron-down rt-teaser"][/span]` |  
+| Show Title | Hide                                                            |  
+| Position   | footer-a                                                        |  
+| Status     | Published                                                       |  
+| Access     | Public                                                          |  
+| Language   | All                                                             |  
+| Note       | Blank                                                           |  
 
-### Layout Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<p>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site.</p>
+
+<p>
+    <img class="rt-noborder" src="images/rocketlauncher/frontpage/footer/logo-footer.png" alt="Logo" />
+</p>
+~~~
+
+### Basic
 ![][demo3]
 
-| Option            | Setting   |  
-| :---------------- | :-------- |  
-| Theme             | Default   |  
-| Display Limit     | ∞         |  
-| Preview Length    | 200       |  
-| Strip HTML Tags   | No        |  
-| Previews Per Page | 4         |  
-| Items Per Row     | 4         |  
-| Arrow Navigation  | Show      |  
-| Pagination        | Hide      |  
-| Animation         | Randomize |  
-| Autoplay          | Enable    |  
-| Autoplay Delay    | 5         |  
-| Image Resize      | Disable   |
-
-### Article Defaults
-![][demo4]
-| Option        | Setting |  
-| :------------ | :------ |  
-| Default Title | None    |  
-| Default Link  | None    |
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][demo5]
-| Option              | Setting                 |  
-| :------------------ | :---------------------- |  
-| Module Class Suffix | `fp-roksprocket-strips` |
+![][demo4]
 
-[demo]: assets/demo_7.jpeg
-[demo2]: assets/strips_1.jpeg
-[demo3]: assets/strips_2.jpeg
-[demo4]: assets/strips_3.jpeg
-[demo5]: assets/strips_4.jpeg
+| Option              | Setting                                                    |  
+| :------------------ | :--------------------------------------------------------- |  
+| Module Class Suffix | `nomarginbottom nopaddingbottom nomargintop medpaddingtop` |  
+
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/info_1.jpeg
+[demo3]: assets/info_2.jpeg
+[demo4]: assets/info_3.jpeg
