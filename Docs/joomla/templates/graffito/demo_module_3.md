@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Recreating the Demo - FP Utility
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Graffito: Recreating the Demo - FP Utility
+description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 

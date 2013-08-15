@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Recreating the Demo - FP Footer A
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Graffito: Recreating the Demo - FP Footer A
+description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
@@ -30,9 +30,9 @@ Enter the following in the **Custom Output** text editor.
 ~~~
 <div class="rt-footer-logo"></div>
 
-<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Hexeris <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
+<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Graffito <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
 
-<p class="hidden-tablet"><strong>Hexeris</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
+<p class="hidden-tablet"><strong>Graffito</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
 ~~~
 
 ### Basic

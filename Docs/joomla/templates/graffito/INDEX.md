@@ -1,33 +1,37 @@
 ---
 title: Graffito
-description: Your Guide to Using the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!graffito:Graffito
+description: Your Guide to Using the Graffito Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!graffito:Graffito
 
 ---
 
 Introduction
 -----
-![][graffito]
-Graffito, the May 2013 template release, is a corporate themed design, perfect for a plethora of sites due to its combination of visual character with subtlety. Built on the Gantry4 Framework, it features a responsive layout and LESS CSS support, a dynamic stylesheet language.
+Graffito, the October 2012 template release, is a corporate themed design, perfect for a plethora of sites due to its combination of visual character with subtlety. Built on the Gantry4 Framework, it features a responsive layout and LESS CSS support, a dynamic stylesheet language.
+
+![][Graffito]
 
 Integrated styling is available for RokSprocket in all its layout modes, providing a rich stylistic platform to construct a dynamic and engaging site. Standard Gantry and template features also apply, such as Fusion with MegaMenu.
 
+>> NOTICE: Graffito is a Joomla 2.5.x and 3.x Template.
+
 Requirements
 -----
-* Apache 2.x or Microsoft IIS 7
-* PHP 5.3.x
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3+
 * MySQL 5.0.4 or higher
-* WordPress 3.2+
+* Joomla 2.5 or 3.1+
 * Gantry Framework
 
->> NOTE: Gantry v4.0.6+ is required for Graffito to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v4.0+ is required for Graffito to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
+* Joomla 2.5.x / 3.0.x Compatible
 * Responsive Layout
 * 8 Preset Styles
-* 76 Widget Positions
-* 8 Styled and 25 Structural Widget Variations
+* 76 Module Positions
+* 8 Styled and 25 Structural Module Suffixes
 * RokSprocket Responsive Layout Integrated
 * Styled Support for Responsive K2 Layout
 * Powerful Gantry 4 Framework
@@ -39,7 +43,7 @@ Key Features
 
 ### Responsive Layout
 ![][responsive]
-Graffito's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
+Graffito's responsive grid system is designed for desktop, tablet and smartphone systems -- each with minor modifications to ensure compatibility in each mode.
 
 We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
@@ -48,13 +52,18 @@ We use the responsive layout based on Twitter's Bootstrap Framework, with its co
 Graffito is the first RocketTheme template built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
 
 ### Responsive Layout for RokSprocket
-![][sprocket]
-Graffito comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
+![][roksprocket]
+Graffito comes with the RokSprocket extension that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
+
+### K2 (3rd Party) Responsive Layout
+![][k2]
+K2 is the popular powerful content extension for Joomla! with CCK-like features. Graffito also comes with the K2 styling support that is built to work with the responsive layout.
 
 [gantry]: http://www.gantry-framework.org/
-[gantry_install]: ../../start/gantry.md
-[download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Graffito
-[graffito]: assets/wp_graffito.jpg
+[Graffito]: assets/Graffito2.jpeg
 [responsive]: assets/responsive.jpg
-[sprocket]: assets/roksprocket.jpg
 [gantry4]: assets/gantry4.jpg
+[filezilla]: https://filezilla-project.org
+[launcher]: ../../start/rocketlauncher.md
+[roksprocket]: assets/roksprocket.jpg
+[k2]: assets/k2.jpg

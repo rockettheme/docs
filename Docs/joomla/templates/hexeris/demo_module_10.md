@@ -19,9 +19,6 @@ This area of the front page is a **mod_custom** module. You'll find the settings
 | Show Title        | Show                                                          |  
 | Position          | footer-b                                                      |  
 | Status            | Published                                                     |  
-| Access            | Public                                                        |  
-| Start Publishing  | 0000-00-00 00:00:0                                            |  
-| Finish Publishing | 0000-00-00 00:00:0                                            |  
 | Language          | All                                                           |  
 | Note              | Blank                                                         |  
 
