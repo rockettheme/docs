@@ -36,12 +36,6 @@ The first thing you'll need to do in order to set your front page apart as it ap
 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
-#### Gizmos
-Under the **Gizmos** tab for your Front Page settings, you'll want to select **Page Suffix** and enable it. The class field will have `jun13` which tells WordPress to utilize the custom styling created for the demo front page.
-
-#### Advanced
-We do not display any pages or posts on the front page of our demo, except through RokSprocket widgets. Because of this, we'll need to cancel out the main content area while preserving our sidebar positions. To do this, you'll want to select the **Display Content** field and turn this off.
-
 #### Assignments
 The next step you'll need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you'll want to select both **Home Page** and **Front Page**.
 
