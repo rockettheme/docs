@@ -1,35 +1,39 @@
 ---
 title: Fracture
-description: Your Guide to Using the Fracture Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!fracture:Fracture
+description: Your Guide to Using the Fracture Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!fracture:Fracture
 
 ---
 
 Introduction
 -----
-![][fracture]
-Fracture, the April 2013 theme release, is a RocketTheme template built upon the Gantry4 Framework which features a responsive layout core, a rejuvenated administrative interface, and optimized coding. The theme focuses on a clean and minimal design with a unique overlay system for stunning results.
+Fracture, the September 2012 template release, is the first RocketTheme template to be built on the Gantry4 Framework, which features a responsive layout core, a rejuvenated administrative interface and optimized coding. The template focuses on a clean and minimal design with a unique overlay system for stunning results.
 
-The theme also uses LESS, a dynamic stylesheet language, that extends CSS with dynamic behavior. RokSprocket further benefits from custom styling, adding rich focus to a conservative design backdrop.
+![][fracture]
+
+The template also uses LESS, a dynamic stylesheet language, that extends CSS with dynamic behaviour. RokSprocket further benefits from custom styling, adding rich focus to a conservative design backdrop.
+
+>> NOTICE: Fracture is a Joomla 2.5 and Joomla 3.x Template.
 
 Requirements
 -----
-* Apache 2.x or Microsoft IIS 7
-* PHP 5.3.x
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3+
 * MySQL 5.0.4 or higher
-* WordPress 3.2+
+* Joomla 2.5 or 3.1+
 * Gantry Framework
 
->> NOTE: Gantry v4.0.6+ is required for Fracture to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v4.0+ is required for Fracture to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
+* Joomla 2.5.x / 3.0.x Compatible
 * Responsive Layout
 * 8 Preset Styles
+* 84 Module Positions
+* 9 Styled and 25 Structural Module Suffixes
 * RokSprocket Responsive Layout Integrated
-* 84 Widget Positions
-* 9 Styled and 25 Structural Widget Variations
-* RokGallery Styling Integrated
+* Styled Support for Responsive K2 Layout
 * Powerful Gantry 4 Framework
 * Custom Content Typography
 * Fusion MegaMenu & Splitmenu
@@ -39,23 +43,27 @@ Key Features
 
 ### Responsive Layout
 ![][responsive]
-Fracture's **responsive** grid system is designed for **desktop**, **tablet** and **smartphone** systems, each with minor modifications to ensure compatibility in each mode.
+Fracture's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
-We use the responsive layout based on [Twitter's Bootstrap Framework][bootstrap], with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
+We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
+
+### Responsive Layout for RokSprocket
+![][roksprocket]
+Fracture comes with the RokSprocket extension that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
 ### Powered by Gantry 4 Framework
 ![][gantry4]
-Fracture is the first RocketTheme template built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
+Fracture is the first RocketTheme template built to be built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
 
-### Responsive Layout for RokSprocket
-![][sprocket]
-Fracture comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
+### K2 (3rd Party) Responsive Layout
+![][k2]
+K2 is the popular powerful content extension for Joomla! with CCK-like features. Fracture also comes with the K2 extension that is built to work with the responsive layout.
 
 [gantry]: http://www.gantry-framework.org/
-[gantry_install]: ../../start/gantry.md
-[download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Fracture
-[fracture]: assets/wp_fracture.jpg
+[fracture]: assets/fracture2.jpeg
 [responsive]: assets/responsive.jpg
-[sprocket]: assets/roksprocket.jpg
+[roksprocket]: assets/roksprocket.jpg
+[filezilla]: https://filezilla-project.org
+[launcher]: ../../start/rocketlauncher.md
 [gantry4]: assets/gantry4.jpg
-[bootstrap]: http://twitter.github.com/bootstrap/
+[k2]: assets/k2.jpg

@@ -1,75 +1,102 @@
 ---
-title: Fracture: Recreating the Demo - Overrides
-description: Your Guide to Recreating Elements of the Fracture Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/fracture:Fracture
+title: Fracture: Recreating the Demo - Template Settings
+description: Your Guide to Recreating Elements of the Fracture Template for WordPress
+breadcrumb: /joomla:Joomla/!templates:Templated/fracture:Fracture
 
 ---
 
-Theme Override Settings
+Template Settings
 -----
-One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Adminstation -> Fracture Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Template Manager -> Fracture Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
-This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a theme preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Theme Settings page.
+![][fracture2]
 
-Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the override indicated here relates to the theme override in this menu. More information about how overrides work can be found in our [Gantry documentation][override].
+:   1. **Logo**  [6%, 11%, se]
+    2. **Menu**  [6%, 55%, se]
+    3. **Social Buttons** [91%, 60%, se]
+    4. **Copyright**  [91%, 10%, se]
+    5. **To Top**  [91%, 90%, sw]
+
+This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
+
+Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the Style indicated here relates to the template Style in this menu. More information about how Styles work can be found in our [Gantry documentation][Style].
 
 ### Style
-| Override |                 Option |                                    Setting |  
-| :------- | ---------------------: | -----------------------------------------: |  
-| Default  |                   Logo |                                   Fracture |  
-| Default  |    Featured Image Size |    Width: 454, Height: 338, Position: Left |  
-| Default  |          Font Settings |  Font Family: Fracture, Font Size: Default |  
-| Default  |             Pagination | Enabled: On, Show Count: On, Side Pages: 8 |  
-| Default  | Use WordPress Comments |                                         On |  
-| Default  |             Custom CSS |                                      Blank |  
+| Style   | Option          | Position | Setting                                   |  
+| :------ | :-------------- | :------- | :---------------------------------------- |  
+| Default | Load Transition |          | Off                                       |  
+| Default | Font Settings   |          | Font Family: Fracture, Font Size: Default |   
 
-### Gizmos
-| Override |                Option |                      Setting |  
-| :------- | --------------------: | ---------------------------: |  
-| Default  |           Page Suffix |   Enabled: Off, Class: Blank |  
-| Default  |            Feed Links |                           On |  
-| Default  |      Custom Title Tag |                        Blank |  
-| Default  | Shortcodes in Widgets |                           On |  
-| Default  |              RokStyle |                           On |  
-| Default  |      Google Analytics | Enabled: Off, UA Code: Blank |  
+### Features
+| Style   | Option           | Position     | Setting                                                                                                 |  
+| :------ | :--------------- | :----------- | :------------------------------------------------------------------------------------------------------ |  
+| Default | Logo             | navigation-a | Show: On                                                                                                |  
+| Default | Social Buttons   | copyright-c  | Show: On                                                                                                |  
+| Default | Date             | utility-a    | Show: Off                                                                                               |  
+| Default | Font-Sizer       | utility-b    | Show: Off                                                                                               |  
+| Default | Login Panel      | utility-c    | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`                              |  
+| Default | Popup Panel      | utility-d    | Show: Off, Popup Button Text: `Popup Module`                                                            |  
+| Default | Branding         | copyright-c  | Show: Off                                                                                               |  
+| Default | Copyright        | copyright-a  | Show: On, Text: `Designed by RocketTheme`                                                               |  
+| Default | SmartLoad        |              | Show: Off, Offset Y: 200, Component Ignores: `com_community,com_contact,com_k2,com_tienda,com_weblinks` |  
+| Default | More Articles    |              | Text: Load More Articles, Hide Pagination: On                                                           |  
+| Default | To-Top Scroller  | copyright-d  | Show: On                                                                                                |  
+| Default | System Messages  | drawer       | Show: On                                                                                                |  
+| Default | Reset Settings   | footer-b     | Show: Off, Text: `Reset Settings`                                                                       |  
+| Default | Google Analytics |              | Enable: Off                                                                                             |  
+
+### Menu
+| Style   | Option            | Setting                     |  
+| :------ | :---------------- | :-------------------------- |  
+| Default | Menu Control      | Show: On, Type: Fusion-Menu |  
+| Default | Select a Menu     | Main Menu                   |  
+| Default | Position          | navigation-b                |  
+| Default | Enable Menu Count | On                          |  
+| Default | Enable JavaScript | On                          |  
+| Default | Menu Opacity      | 1                           |  
+| Default | Menu Effect       | Slide and Fade              |  
+| Default | Menu Delay        | 500                         |  
+| Default | Menu Animation    | Circ.easeOut                |  
+| Default | Menu Duration     | 300                         |  
+| Default | Enable ID         | Off                         |  
+| Default | Module Cache      | On                          |  
 
 ### Layouts
-| Override |               Option |               Setting |  
-| :------- | -------------------: | --------------------: |  
-| Default  |        Top Positions | Positions: 4, 3:3:3:3 |  
-| Default  |     Header Positions | Positions: 4, 3:3:3:3 |  
-| Default  | Navigation Positions |     Positions: 2, 3:9 |  
-| Default  |   Showcase Positions | Positions: 4, 3:3:3:3 |  
-| Default  |    Feature Positions | Positions: 4, 3:3:3:3 |  
-| Default  |    Utility Positions | Positions: 4, 3:3:3:3 |  
-| Default  |    MainTop Positions | Positions: 4, 3:3:3:3 |  
-| Default  |   MainBody Positions |     Positions: 2, 8:4 |  
-| Default  | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default  |  Extension Positions | Positions: 4, 3:3:3:3 |  
-| Default  |     Bottom Positions | Positions: 4, 3:3:3:3 |  
-| Default  |     Footer Positions |   Positions: 3, 4:4:4 |  
-| Default  |  Copyright Positions | Positions: 4, 3:3:3:3 |  
+| Style   | Option               | Setting               |  
+| :------ | :------------------- | :-------------------- |  
+| Default | Top Positions        | Positions: 4, 3:3:3:3 |  
+| Default | Header Positions     | Positions: 4, 3:3:3:3 |  
+| Default | Navigation Positions | Positions: 2, 3:9     |  
+| Default | Showcase Positions   | Positions: 4, 3:3:3:3 |  
+| Default | Feature Positions    | Positions: 1, 12      |  
+| Default | Utility Positions    | Positions: 1, 12      |  
+| Default | MainTop Positions    | Positions: 4, 3:3:3:3 |  
+| Default | MainBody Positions   | Positions: 1, 12      |  
+| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default | Extension Positions  | Positions: 4, 3:3:3:3 |  
+| Default | Bottom Positions     | Positions: 4, 3:3:3:3 |  
+| Default | Footer Positions     | Positions: 3, 4:4:4   |  
+| Default | Copyright Positions  | Positions: 4, 3:4:3:2 |   
 
 ### Advanced
-| Override   |                  Option |                                     Setting |  
-| :--------- | ----------------------: | ------------------------------------------: |  
-| Default    |             Layout Mode |                                  Responsive |  
-| Default    |        Maintenance Mode |                                         Off |  
-| Default    |         Load Transition |                                         Off |  
-| Default    |         Display Content |                                          On |  
-| Default    |        Display Mainbody |                                          On |  
-| Default    |             RTL Support |                                          On |  
-| Default    |          RTL Typography |      Enabled: On, Typography Styling: Light |  
-| Default    | Disable Auto Paragraphs |             Enabled: On, Content Type: Both |  
-| Default    |       Disable Texturize |                                         Off |  
-| Default    |             Selectivizr |                                          On |  
-| Default    |           Less Compiler | CSS Compression: On, Compile: 2, Debug: Off |  
-| Default    |            IE7 Redirect |                                          On |  
-| Front Page |        Mainbody Enabled |                                         Off |  
+| Style   | Option            | Setting                                                 |  
+| :------ | :---------------- | :------------------------------------------------------ |  
+| Default | Layout Mode       | Responsive                                              |  
+| Default | Display Component | On                                                      |  
+| Default | Display Mainbody  | On                                                      |  
+| Default | RTL Support       | On                                                      |  
+| Default | Page Suffix       | On                                                      |  
+| Default | RT Typography     | Enabled: On, Styling: Light                             |  
+| Default | Selectivizr       | Off                                                     |  
+| Default | Less Compiler     | CSS Compression: On, Compile Wait: 2, Debug Header: Off |  
+| Default | IE7 Redirect      | On                                                      |  
+| Default | K2 Styling        | Off                                                     |  
 
 ### Assignments
-| Override   |              Option |               Setting |  
-| :--------- | ------------------: | --------------------: |  
-| Front Page | Template Page Types | Home Page, Front Page |  
+| Style | Option    | Setting |  
+| :---- | :-------- | :------ |  
+| Home  | Main Menu | Home    |  
 
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[menu]: ../../start/menu.md
+[Style]: http://gantry-framework.org/documentation/wordpress/configure/
+[fracture2]: assets/fracture.jpeg
