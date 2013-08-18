@@ -1,56 +1,64 @@
 ---
-title: Graffito: Recreating the Demo - FP Utility
+title: Graffito: Recreating the Demo - Gantry Extras
 description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
-FP Utility
+Gantry Extras
 -----
 ![][demo]
 
-:   1. **FP Utility** [70%, 20%, se]
+:   1. **RokSprocket** [16%, 67%, se]
 
-This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | FP Utility         |  
-| Show Title        | Hide               |  
-| Position          | utility-a          |  
-| Status            | Published          |  
-| Access            | Public             |  
-| Language          | All                |  
-| Note              | Blank              |  
+| Option           | Setting         |  
+| :--------------- | :-------------- |  
+| Title            | `Gantry Extras` |  
+| Show Title       | Show            |  
+| Access           | Public          |  
+| Position         | sidebar-a       |  
+| Status           | Published       |  
+| Content Provider | Joomla          |  
+| Type             | Lists           |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<span>A multi-faceted content display module...</span>
-<a href="#" class="readon">Read More</a>
-<div class="clear"></div>
-~~~
-
-### Basic
+### Layout Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Theme               | Default |  
+| Display Limit       | ∞       |  
+| Collapsible Preview | Enable  |  
+| Preview Length      | 20      |  
+| Strip HTML Tags     | Yes     |  
+| Previews Per Page   | 4       |  
+| Arrow Navigation    | Show    |  
+| Pagination          | Show    |  
+| Autoplay            | Disable |  
+| Autoplay Delay      | 5       |  
+| Image Resize        | Disable |
 
-### Advanced
+### Lists Article Titles
 ![][demo4]
 
-| Option              | Setting                                    |  
-| :------------------ | :----------------------------------------- |  
-| Module Class Suffix | `box6 fp-utility nomargintop hidden-phone` |
+| Option       | Setting |  
+| :----------- | :------ |  
+| Default Link | Custom  |  
 
-[demo]: assets/demo_2.jpeg
-[demo2]: assets/utility_1.jpeg
-[demo3]: assets/utility_2.jpeg
-[demo4]: assets/utility_3.jpeg
+### Advanced
+![][demo5]
+
+| Option              | Setting  |  
+| :------------------ | :------- |  
+| Module Class Suffix | `title1` |  
+
+[demo]: assets/demo_4.jpeg
+[demo2]: assets/mosaic_1.jpeg
+[demo3]: assets/mosaic_2.jpeg
+[demo4]: assets/mosaic_3.jpeg
+[demo5]: assets/mosaic_4.jpeg

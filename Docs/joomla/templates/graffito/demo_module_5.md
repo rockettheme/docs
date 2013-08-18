@@ -1,13 +1,16 @@
 ---
-title: Graffito: Recreating the Demo - FP RokSprocket - Tabs
+title: Graffito: Recreating the Demo - Popular Features
 description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
-FP RokSprocket - Tabs
+Popular Features
 -----
 ![][demo]
+
+:   1. **mod_custom** [15%, 36%, se]
+
 We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
@@ -15,12 +18,12 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 
 | Option           | Setting               |  
 | :--------------- | :-------------------- |  
-| Title            | FP RokSprocket - Tabs |  
-| Show Title       | Hide                  |  
+| Title            | `Popular Features.`   |  
+| Show Title       | Show                  |  
 | Access           | Public                |  
-| Position         | extension-a           |  
+| Position         | extension-b           |  
 | Status           | Published             |  
-| Content Provider | Simple                |  
+| Content Provider | Joomla!               |  
 | Type             | Tabs                  |
 
 ### Layout Options
@@ -38,14 +41,22 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 | Image Resize    | Disable        |  
 | Strip HTML Tabs | No             |
 
-### Advanced
+### Article Defaults
 ![][demo4]
 
-| Option              | Setting                                 |  
-| :------------------ | :-------------------------------------- |  
-| Module Class Suffix | `box3 nopaddingall fp-roksprocket-tabs` |
+| Option       | Setting |  
+| :----------- | :------ |  
+| Default Link | None    |  
 
-[demo]: assets/demo_4.jpeg
-[demo2]: assets/tabs_1.jpeg
-[demo3]: assets/tabs_2.jpeg
-[demo4]: assets/tabs_3.jpeg
+### Advanced
+![][demo5]
+
+| Option              | Setting  |  
+| :------------------ | :------- |  
+| Module Class Suffix | `title1` |  
+
+[demo]: assets/demo_5.jpeg
+[demo2]: assets/popular_1.jpeg
+[demo3]: assets/popular_2.jpeg
+[demo4]: assets/popular_3.jpeg
+[demo5]: assets/popular_4.jpeg

@@ -1,56 +1,60 @@
 ---
-title: Graffito: Recreating the Demo - FP RokSprocket - Mosaic
+title: Graffito: Recreating the Demo - Graffito Demo
 description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
-FP RokSprocket - Mosaic
+Graffito Demo
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Mosaic** layout to make up this area of the front page. You'll find the settings used in our demo below.
+
+:   1. **mod_custom** [15%, 5%, se]
+
+This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                 |  
-| :--------------- | :---------------------- |  
-| Title            | FP RokSprocket - Mosaic |  
-| Show Title       | Show                    |  
-| Access           | Public                  |  
-| Position         | feature-a               |  
-| Status           | Published               |  
-| Content Provider | Joomla                  |  
-| Type             | Mosaic                  |  
+| Option     | Setting          |  
+| :--------- | :--------------- |  
+| Title      | `Graffito Demo.` |  
+| Show Title | Show             |  
+| Position   | extension-a      |  
+| Status     | Published        |  
+| Access     | Public           |  
+| Language   | All              |  
+| Note       | Blank            |  
 
-### Layout Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<div class="rt-image largemarginbottom">
+    <img alt="image" src="images/rocketlauncher/frontpage/general/featured-2.jpg">
+</div>
+
+<p class="medmarginbottom"><strong>RocketLauncher</strong> is a customized <strong>Joomla</strong> install, that installs a <strong>replica</strong> of the <strong>demo</strong>.</p>
+
+<p>All sample content images, shown in this demo, will be replaced with blanks in the <a href="index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=115"><strong>RocketLauncher</strong></a> package to avoid any copyright issue.</p>
+~~~
+
+### Basic
 ![][demo3]
 
-| Option          | Setting                      |  
-| :-------------- | :--------------------------- |  
-| Theme           | Default                      |  
-| Display Limit   | ∞                            |  
-| Columns         | 3                            |  
-| Preview Length  | 100                          |  
-| Strip HTML Tags | No                           |  
-| Blocks Per View | 6                            |  
-| Article Details | Show Author and Date         |  
-| Block Animation | Fade, Scale, Rotate          |  
-| Ordering        | Default, Title, Date, Random |  
-| Image Resize    | Disable                      |  
-
-### Article Defaults
-![][demo4]
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][demo5]
+![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting  |  
+| :------------------ | :------- |  
+| Module Class Suffix | `title1` |  
 
-[demo]: assets/demo_3.jpeg
-[demo2]: assets/mosaic_1.jpeg
-[demo3]: assets/mosaic_2.jpeg
-[demo4]: assets/mosaic_3.jpeg
-[demo5]: assets/mosaic_4.jpeg
+[demo]: assets/demo_5.jpeg
+[demo2]: assets/graffitodemo_1.jpeg
+[demo3]: assets/graffitodemo_2.jpeg
+[demo4]: assets/graffitodemo_3.jpeg

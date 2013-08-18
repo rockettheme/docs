@@ -1,56 +1,48 @@
 ---
-title: Graffito: Recreating the Demo - FP Footer A
+title: Graffito: Recreating the Demo - Copyright Menu
 description: Your Guide to Recreating Elements of the Graffito Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
-FP Footer A
+Copyright Menu
 -----
 ![][demo]
 
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+:   1. **Menu** [40%, 35%, se]
+
+The **Copyright Menu** located at the bottom of the demo site is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | FP Footer A        |  
-| Show Title        | Hide               |  
-| Position          | footer-a           |  
-| Status            | Published          |  
-| Access            | Public             |   
-| Language          | All                |  
-| Note              | Blank              |
+| Option            | Setting           |  
+| :---------------- | :---------------- |  
+| Title             | `Copyright Menu`  |  
+| Show Title        | Hide              |  
+| Position          | copyright-b       |  
+| Status            | Published         |  
+| Access            | Public            |   
+| Language          | All               |  
+| Note              | Blank             |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<div class="rt-footer-logo"></div>
-
-<p><strong><a href="#">NOTE:</a></strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Graffito <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site</p>
-
-<p class="hidden-tablet"><strong>Graffito</strong>is only available as part of a RocketTheme Joomla Club Subscription.</p>
-~~~
-
-### Basic
+### Basic Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option              | Setting          |  
+| :------------------ | :--------------- |  
+| Start Level         | 1                |  
+| End Level           | All              |  
+| Show Sub-menu Items | No               |  
 
-### Advanced
+### Advanced Options
 ![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |
+| Option              | Setting                                                                          |  
+| :------------------ | :------------------------------------------------------------------------------- |  
+| Module Class Suffix | `horizmenu nomarginleft nomarginright nopaddingleft nopaddingright hidden-phone` |   
 
-[demo]: assets/demo_8.jpeg
-[demo2]: assets/footer_1.jpeg
-[demo3]: assets/footer_2.jpeg
-[demo4]: assets/footer_3.jpeg
+[demo]: assets/demo_7.jpeg
+[demo2]: assets/copyright_1.jpeg
+[demo3]: assets/copyright_2.jpeg
+[demo4]: assets/copyright_3.jpeg

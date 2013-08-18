@@ -8,62 +8,51 @@ breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 FP RokAjaxSearch
 -----
 ![][demo]
-
-:   1. **RokAjaxSearch** [40%, 82%, se]
-
-The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
+The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting             |
-|:------------------|:--------------------|
-| Title             | FP RokAjaxSearch    |
-| Show Title        | Hide                |
-| Position          | header-c            |
-| Status            | Published           |
-| Access            | Public              |
-| Ordering          | 1. FP RokAjaxSearch |
-| Start Publishing  | 0000-00-00 00:00:0  |
-| Finish Publishing | 0000-00-00 00:00:0  |
-| Language          | All                 |
-| Note              | Blank               |
+| Option           | Setting                            |  
+| :--------------- | :--------------------------------- |  
+| Title            | FP Showcase - RokSprocket Features |  
+| Show Title       | Hide                               |  
+| Access           | Public                             |  
+| Position         | showcase-a                         |  
+| Status           | Published                          |  
+| Content Provider | Joomla                             |  
+| Type             | Features                           |  
 
 ### Layout Options
 ![][demo3]
 
-| Option                            | Setting                                                  |
-|:----------------------------------|:---------------------------------------------------------|
-| Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
-| Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
-| Include RokAjaxSearch default CSS | No                                                       |
-| Theme Style                       | Blue                                                     |
-| Searchphrase                      | Any words                                                |
-| Ordering                          | Newest First                                             |
-| Limit                             | 10                                                       |
-| Results Per Page                  | 3                                                        |
-| Google Web Search                 | No                                                       |
-| Google Blog Search                | No                                                       |
-| Google Images Search              | No                                                       |
-| Google Videos Search              | No                                                       |
-| Show Pagination                   | Yes                                                      |
-| Google SafeSearch                 | Moderate                                                 |
-| Image Size to Search              | Medium                                                   |
-| Show Estimated                    | Yes                                                      |
-| Hide div id(s)                    | Blank                                                    |
-| Link to All Results               | Yes                                                      |
-| Show Description                  | Yes                                                      |
-| Include (Category/Section)        | Yes                                                      |
-| Show Read More Link               | Yes                                                      |
+| Option | Setting |
+|:------|:-------|
+| Display Limit     | ∞         |
+| Theme             | Showcase  |
+| Article Titles    | Show      |
+| Article Text      | Show      |
+| Preview Length    | ∞         |
+| Strip HTML Tags   | No        |
+| Arrow Navigation  | Show      |
+| Pagination        | Show      |
+| Animation         | Crossfade |
+| Autoplay          | Enable    |
+| Autoplay Delay    | 5         |
+| Image Resize      | Disable   |
 
-### Advanced
+### Article Defaults
 ![][demo4]
 
-| Option              | Setting            |
-|:--------------------|:-------------------|
-| Module Class Suffix | `fp-rokajaxsearch` |
+### Advanced
+![][demo5]
 
-[demo]: assets/demo_1.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix |         |  
+
+[demo]: assets/demo_2.jpeg
+[demo2]: assets/features_1.jpeg
+[demo3]: assets/features_2.jpeg
+[demo4]: assets/features_3.jpeg
+[demo5]: assets/features_4.jpeg
