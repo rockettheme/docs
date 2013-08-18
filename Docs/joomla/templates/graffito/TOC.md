@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!graffito:Graffito
+breadcrumb: /joomla:Joomla/!templates:Templates/!fracture:Fracture
 
 ---
 
-* Graffito
+* Fracture
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
