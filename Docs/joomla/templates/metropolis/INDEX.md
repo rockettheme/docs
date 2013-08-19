@@ -54,7 +54,7 @@ For mobile devices, a basic version of the Dropdown Menu will be used. It is act
 ![][roksprocket]
 Metropolis comes with the RokSprocket extension that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Metropolis also comes with the K2 extension that is built to work with the responsive layout.
 

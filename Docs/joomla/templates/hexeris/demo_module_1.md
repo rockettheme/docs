@@ -23,9 +23,6 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 | Position          | header-c            |
 | Status            | Published           |
 | Access            | Public              |
-| Ordering          | 1. FP RokAjaxSearch |
-| Start Publishing  | 0000-00-00 00:00:0  |
-| Finish Publishing | 0000-00-00 00:00:0  |
 | Language          | All                 |
 | Note              | Blank               |
 

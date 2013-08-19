@@ -63,7 +63,7 @@ For mobile devices, a basic version of the Dropdown Menu will be used. It is act
 ![][rokgallery]
 Cerulean comes with the RokGallery and RokSprocket extensions which are built to work with a responsive layout.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Cerulean also comes with the styling support for K2 extension (version 2.6.2) that is built to work with the responsive layout.
 

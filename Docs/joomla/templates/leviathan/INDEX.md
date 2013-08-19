@@ -65,7 +65,7 @@ Leviathan comes with the RokSprocket extension that are built to work with a res
 ![][dropdown]
 For mobile devices, a basic version of the Dropdown Menu will be used. It is activated by a custom menu icon in the top left of the screen. It will either be a tree view or select box menu, as configurable. All other sizes will use the menu's full version.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Leviathan also comes with the K2 extension that is built to work with the responsive layout.
 

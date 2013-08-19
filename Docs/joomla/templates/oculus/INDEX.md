@@ -11,7 +11,7 @@ Oculus is a semi-transparent focused design, allowing rich and subtle full page 
 
 ![][oculus]
 
-Based on the Gantry framework, Oculus includes an extensive list of features. Custom styling for RokSprocket's layout types and 3rd party K2 styling are also included, amongst many other features.
+Based on the Gantry framework, Oculus includes an extensive list of features. Custom styling for RokSprocket's layout types and Third party K2 styling are also included, amongst many other features.
 
 Requirements
 -----
@@ -57,7 +57,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 ![][roksprocket]
 Oculus comes with the RokSprocket extension that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Oculus also comes with the K2 extension that is built to work with the responsive layout.
 

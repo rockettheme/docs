@@ -63,7 +63,7 @@ Hexeris comes with the RokSprocket extension that are built to work with a respo
 ![][strips]
 Hexeris has integrated styling for the new RokSprocket layout Strips, which displays rotatable content blocks horizontally.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Hexeris also comes with the K2 extension that is built to work with the responsive layout.
 

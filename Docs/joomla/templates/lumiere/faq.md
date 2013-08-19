@@ -39,7 +39,7 @@ A static menu system that displays 1st level items in the main horizontal menu a
 
 What extensions are integrated with the template?
 -----
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and 3rd party extension K2.
+A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and Third party extension K2.
 
 Can I install RocketLauncher on existing Joomla! website?
 -----

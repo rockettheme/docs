@@ -65,7 +65,7 @@ Fracture comes with the RokSprocket extension that are built to work with a resp
 ![][gantry4]
 Fracture is the first RocketTheme template built to be built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Fracture also comes with the K2 extension that is built to work with the responsive layout.
 

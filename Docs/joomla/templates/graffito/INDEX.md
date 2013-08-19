@@ -65,7 +65,7 @@ Graffito is the first RocketTheme template built on the Gantry4 Framework with a
 ![][roksprocket]
 Graffito comes with the RokSprocket extension that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-### K2 (3rd Party) Responsive Layout
+### K2 (Third Party) Responsive Layout
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Graffito also comes with the K2 styling support that is built to work with the responsive layout.
 
