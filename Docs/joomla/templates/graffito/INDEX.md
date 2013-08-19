@@ -47,6 +47,16 @@ Graffito's responsive grid system is designed for desktop, tablet and smartphone
 
 We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
+The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
+
+| Label                  | Description                                | Layout Width     | Column Width |  
+| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
+| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
+| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
+| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
+| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
+| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        | 
+
 ### Powered by Gantry 4 Framework
 ![][gantry4]
 Graffito is the first RocketTheme template built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.

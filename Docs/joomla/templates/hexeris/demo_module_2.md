@@ -26,20 +26,20 @@ The RokSprocket Showcase module used near the top of the front page is a great w
 ### Layout Options
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Display Limit     | ∞         |
-| Theme             | Showcase  |
-| Article Titles    | Show      |
-| Article Text      | Show      |
-| Preview Length    | ∞         |
-| Strip HTML Tags   | Yes       |
-| Arrow Navigation  | Show      |
-| Pagination        | Hide      |
-| Animation         | Crossfade |
-| Autoplay          | Enable    |
-| Autoplay Delay    | 5         |
-| Image Resize      | Disable   |
+| Option           | Setting   |  
+| :--------------- | :-------- |  
+| Display Limit    | ∞         |  
+| Theme            | Showcase  |  
+| Article Titles   | Show      |  
+| Article Text     | Show      |  
+| Preview Length   | ∞         |  
+| Strip HTML Tags  | Yes       |  
+| Arrow Navigation | Show      |  
+| Pagination       | Hide      |  
+| Animation        | Crossfade |  
+| Autoplay         | Enable    |  
+| Autoplay Delay   | 5         |  
+| Image Resize     | Disable   |  
 
 ### Article Defaults
 ![][demo4]

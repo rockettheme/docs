@@ -43,13 +43,13 @@ We use the responsive layout based on [Twitter's Bootstrap Framework][bootstrap]
 
 The table below shows the breakdown of screen resolutions and associated devices, and what layout characters are then applied to each.
 
-| Label | Description | Layout Width | Column Width |
-|:-----||:----------|:-----------|:-------------|
-| Smartphones | Standard smartphones | 480px and below | 100% fluid |
-| Smartphones to Tablets | Larger smartphones and small tablets | 767px and below | 100% fluid |
-| Tablets | Larger tablets | 768px and above | 64px |
-| Desktop | Standard desktops and laptops | 960px and above | 80px |
-| Large Display | Large desktops and high-resolution laptops | 1200px and above | 100px |
+| Label                  | Description                                | Layout Width     | Column Width |  
+| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
+| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
+| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
+| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
+| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
+| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
 
 ### Responsive Layout for RokSprocket
 ![][sprocket]

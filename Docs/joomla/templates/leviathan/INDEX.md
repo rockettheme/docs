@@ -47,6 +47,16 @@ Leviathan's responsive grid system is designed for desktop, tablet and smartphon
 
 We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
+The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
+
+| Label                  | Description                                | Layout Width     | Column Width |  
+| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
+| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
+| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
+| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
+| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
+| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        | 
+
 ### Responsive Layout for RokSprocket
 ![][roksprocket]
 Leviathan comes with the RokSprocket extension that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.

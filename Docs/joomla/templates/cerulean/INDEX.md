@@ -45,6 +45,16 @@ Key Features
 ![][responsive]
 Cerulean's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
+The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
+
+| Label                  | Description                                | Layout Width     | Column Width |  
+| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
+| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
+| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
+| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
+| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
+| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        | 
+
 ### Advanced Dropdown Menu
 ![][dropdown]
 For mobile devices, a basic version of the Dropdown Menu will be used. It is activated by a custom menu icon in the top left of the screen. It will either be a tree view or select box menu, as configurable. All other sizes will use the menu's full version.
