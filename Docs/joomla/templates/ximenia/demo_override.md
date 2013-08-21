@@ -22,7 +22,7 @@ This table will break down the various settings you may need to adjust in order 
 
 Once you've selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the Style indicated here relates to the template Style in this menu. More information about how Styles work can be found in our [Gantry documentation][Style].
 
->> Note: In the interest of simplicty, the override settings listed below are presented as they appear on our demo site which is built on the fixed version of the template.
+>> Note: In the interest of simplicity, the override settings listed below are presented as they appear on our demo site which is built on the fixed version of the template.
 
 ### Style
 | Style   | Option          | Position | Setting                                  |  
