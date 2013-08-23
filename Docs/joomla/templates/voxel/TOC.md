@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!ximenia:Ximenia
+breadcrumb: /joomla:Joomla/!templates:Templates/!voxel:Voxel
 
 ---
 
-* Ximenia
+* Voxel
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

@@ -17,30 +17,30 @@ Here are the details:
 ![][ma2]
 
 ### Details
-| Option | Setting |
-|:------|:-------|
-| Title | Member Access |
-| Show Title | Show |
-| Position | login |
-| Status | Published |
-| Access | Public |
-| Ordering | Member Access |
+| Option     | Setting       |  
+| :--------- | :------------ |  
+| Title      | Member Access |  
+| Show Title | Show          |  
+| Position   | login         |  
+| Status     | Published     |  
+| Access     | Public        |  
+| Ordering   | Member Access |  
 
 ### Basic Options
-| Option | Setting |
-|:------|:-------|
-| Pre-Text | Blank |
-| Post-Text | Blank |
-| Login Redirection Page | Default |
-| Logout Redirection Page | Default |
-| Show Greeting | Yes |
-| Show Name/Username | Name |
-| Encrypt Login form | No |
+| Option                  | Setting |  
+| :---------------------- | :------ |  
+| Pre-Text                | Blank   |  
+| Post-Text               | Blank   |  
+| Login Redirection Page  | Default |  
+| Logout Redirection Page | Default |  
+| Show Greeting           | Yes     |  
+| Show Name/Username      | Name    |  
+| Encrypt Login form      | No      |  
 
 ### Advanced Options
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | Blank |
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix | Blank   |  
 
 ### Template Settings
 You'll need to make the actual member login button appear next to the main menu at the top of the page so your visitors have the ability to activate that module.

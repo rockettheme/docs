@@ -1,25 +1,25 @@
 ---
-title: Voxel: FAQ
-description: Your Guide to Using the Voxel Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/voxel:Voxel
+title: Diametric: FAQ
+description: Your Guide to Using the Diametric Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/diametric:Diametric
 
 ---
 
-What are Voxel template features?
+What are Diametric template features?
 -----
-Please check our [Template Info page][features] for all Voxel features in one complete list.
+Please check our [Template Info page][features] for all Diametric features in one complete list.
 
-What font is used on Voxel template?
+What font is used on Diametric template?
 -----
 Ubuntu. You can download it at [here][font].
 
-Is there any tutorial to get me started with Voxel?
+Is there any tutorial to get me started with Diametric?
 -----
-Yes. Please check our [Voxel Tutorials & Guides forum][forum] in addition to this guide.
+Yes. Please check our [Diametric Tutorials & Guides forum][forum] in addition to this guide.
 
-Is Voxel compatible for Joomla 1.5?
+Is Diametric compatible for Joomla 1.5?
 -----
-No, Voxel is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Diametric is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----
@@ -45,15 +45,15 @@ Can I install RocketLauncher on existing Joomla! website?
 -----
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.
 
-I installed Voxel RocketLauncher but the images are different with the demo site.
+I installed Diametric RocketLauncher but the images are different with the demo site.
 -----
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/voxel/features
+[features]: http://demo.rockettheme.com/joomla/diametric/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=618&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/index.php?f=606&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/voxel/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/voxel/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/voxel/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla/diametric/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla/diametric/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla/diametric/features/extensions
