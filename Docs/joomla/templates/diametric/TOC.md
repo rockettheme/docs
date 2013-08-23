@@ -24,6 +24,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!diametric:Diametric
             * [FP Bottom A](demo_module_5.md)
             * [Member Access](demo_module_6.md)
             * [Panel Title & SubTitle](demo_module_7.md)
+            * [Featured Article](demo_module_8.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
