@@ -31,7 +31,7 @@ You'll need to enter the following in the main text field to create this text wi
 
 Here is a breakdown of options changes you'll want to make to match the demo.
 
-* Set the **Module Variation** option to **No Margin Bottom**.
+* Set the **Margin Variation** option to **No Margin Bottom**.
 * Set the **Padding Variation** option to **No Padding Bottom**.
 * Leaving everything else at its default setting, select **Save**.
 
