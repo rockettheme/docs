@@ -1,62 +1,56 @@
 ---
-title: Ionosphere: Recreating the Demo - Demo Replica
+title: Ionosphere: Recreating the Demo - RocketLauncher Available
 description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
-Demo Replica
+RocketLauncher Available
 -----
 ![][demo]
 
-:   1. **mod_custom** [10%, 8%, se]
+This area of the front page is made up of a **RokGallery** module. Below, we've listed the settings you'll need to replicate the look of the demo module (minus the actual images, of course).
 
-This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
+You can find more information on RokGallery in our [RokGallery Guide][rokgallery].
 
 ### Details
 ![][demo2]
 
-| Option     | Setting                |  
-| :--------- | :--------------------- |  
-| Title      | `Fusion with MegaMenu` |  
-| Show Title | Show                   |  
-| Position   | content-top-a          |  
-| Status     | Published              |  
-| Access     | Public                 |  
-| Language   | All                    |  
-| Note       | Blank                  |  
+| Option     | Setting                    |  
+| :--------- | :------------------------- |  
+| Title      | `RocketLauncher Available` |  
+| Show Title | Show                       |  
+| Access     | Public                     |  
+| Position   | extension-a                |  
+| Status     | Published                  |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<span class="icon-check fp-icon"></span>
-
-<h4 class="nomargintop largepaddingtop"><a href="index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=112"><em>A CSS based dropdown menu enhanced by Mootools</em></a></h4>
-
-<div class="clear"></div>
-
-<p><strong>Fusion</strong> has many features, inclusive of, but not limited to: Mootools animations, multiple columns, <strong>inline module/positions</strong>, inline subtext and icons.</p>
-
-<p class="rt-center nomarginbottom"><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=112"><span>See More</span></a></p>
-~~~
-
-### Basic
+### Basic Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option                    | Setting                    |  
+| :------------------------ | :------------------------- |  
+| Link Type                 | Link to RokBox1 Full Image |  
+| Default Linked Item       | Home                       |  
+| Show Title                | Yes                        |  
+| Show Caption              | Yes                        |  
+| Sort By                   | Order                      |  
+| Sort Direction            | Ascending                  |  
+| Slice Limit               | 1                          |  
+| Gallery Style             | Light                      |  
+| Gallery Layout            | Grid                       |  
+| Grid Columns              | 1                          |  
+| Select a Background-Image | Blank                      |  
 
-### Advanced
+### Advanced Options
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Option              | Setting                 |  
+| :------------------ | :---------------------- |  
+| Module Class Suffix | `title1 nomarginbottom` |  
 
-[demo]: assets/demo_4.jpeg
-[demo2]: assets/fusion_1.jpeg
-[demo3]: assets/fusion_2.jpeg
-[demo4]: assets/fusion_3.jpeg
+[demo]: assets/demo_8.jpeg
+[demo2]: assets/rokgallery_1.jpeg
+[demo3]: assets/rokgallery_2.jpeg
+[demo4]: assets/rokgallery_3.jpeg
+[demo5]: assets/rokgallery_4.jpeg
+[rokgallery]: ../../extensions/rokgallery

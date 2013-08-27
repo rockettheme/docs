@@ -1,11 +1,12 @@
 ---
-title: RokBridge
-description: Your Guide to Using RokBridge for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokbridge:RokBridge
+
+breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokbridge:RokBridge
 
 ---
 
-* Basics
+* RokBridge
     * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+    * [Requirements](INDEX.md#requirements)
+    * [Key Features](INDEX.md#key-features)
+    * [How to Install](INDEX.md#how-to-install)
+    * [FAQ](faq.md)

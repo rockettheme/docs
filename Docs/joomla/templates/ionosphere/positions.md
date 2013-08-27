@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Module Positions
-description: Your Guide to Module Positions in the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Ionosphere: Module Positions
+description: Your Guide to Module Positions in the Ionosphere Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
@@ -9,4 +9,4 @@ Module Positions
 -----
 ![][positions]
 
-[positions]: assets/positions.png
+[positions]: assets/positions.jpg

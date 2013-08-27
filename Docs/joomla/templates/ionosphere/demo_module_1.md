@@ -1,58 +1,48 @@
 ---
-title: Ionosphere: Recreating the Demo - FP Showcase A
+title: Ionosphere: Recreating the Demo - Top Menu
 description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
-FP Showcase A
+Top Menu
 -----
 ![][demo]
-The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
+
+:   1. **Menu** [15%, 46%, se]
+
+The menu located at the top of the demo site is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                                |  
-| :--------------- | :------------------------------------- |  
-| Title            | `FP Showcase A - RokSprocket Features` |  
-| Show Title       | Hide                                   |  
-| Access           | Public                                 |  
-| Position         | showcase-a                             |  
-| Status           | Published                              |  
-| Content Provider | Joomla                                 |  
-| Type             | Features                               |  
+| Option            | Setting           |  
+| :---------------- | :---------------- |  
+| Title             | `Top Menu`        |  
+| Show Title        | Hide              |  
+| Position          | header-b          |  
+| Status            | Published         |  
+| Access            | Public            |   
+| Language          | All               |  
+| Note              | Blank             |  
 
-### Layout Options
+### Basic Options
 ![][demo3]
 
-| Option           | Setting   |  
-| :--------------- | :-------- |  
-| Display Limit    | ∞         |  
-| Theme            | Showcase  |  
-| Article Titles   | Show      |  
-| Article Text     | Show      |  
-| Preview Length   | ∞         |  
-| Strip HTML Tags  | Yes       |  
-| Arrow Navigation | Show      |  
-| Pagination       | Show      |  
-| Animation        | Crossfade |  
-| Autoplay         | Enable    |  
-| Autoplay Delay   | 5         |  
-| Image Resize     | Disable   |  
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Start Level         | 1       |  
+| End Level           | 1       |  
+| Show Sub-menu Items | No      |  
 
-### Article Defaults
+### Advanced Options
 ![][demo4]
-
-### Advanced
-![][demo5]
 
 | Option              | Setting   |  
 | :------------------ | :-------- |  
-| Module Class Suffix | `noblock` |  
+| Module Class Suffix | `topmenu` |  
 
-[demo]: assets/demo_1.jpeg
-[demo2]: assets/showcase_1.jpeg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
-[demo5]: assets/showcase_4.jpeg
+[demo]: assets/ionosphere2.jpeg
+[demo2]: assets/topmenu_1.jpeg
+[demo3]: assets/topmenu_2.jpeg
+[demo4]: assets/topmenu_3.jpeg

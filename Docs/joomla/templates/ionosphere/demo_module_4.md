@@ -1,66 +1,60 @@
 ---
-title: Ionosphere: Recreating the Demo - FP RokAjaxSearch
+title: Ionosphere: Recreating the Demo - FP Tabs
 description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
-FP RokAjaxSearch
+FP Tabs
 -----
 ![][demo]
-
-:   1. **RokAjaxSearch** [10%, 20%, se]
-
-The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
+We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. You'll find the settings used in our demo below.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting             |
-|:------------------|:--------------------|
-| Title             | `FP RokAjaxSearch`  |
-| Show Title        | Hide                |
-| Position          | maintop-b           |
-| Status            | Published           |
-| Access            | Public              |
-| Language          | All                 |
-| Note              | Blank               |
+| Option           | Setting   |  
+| :--------------- | :-------- |  
+| Title            | `FP Tabs` |  
+| Show Title       | Hide      |  
+| Access           | Public    |  
+| Position         | sidebar-a |  
+| Status           | Published |  
+| Content Provider | Simple    |  
+| Type             | Tabs      |  
 
 ### Layout Options
 ![][demo3]
 
-| Option                            | Setting                                                  |
-|:----------------------------------|:---------------------------------------------------------|
-| Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
-| Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
-| Include RokAjaxSearch default CSS | No                                                       |
-| Theme Style                       | Light                                                    |
-| Searchphrase                      | Any words                                                |
-| Ordering                          | Newest First                                             |
-| Limit                             | 10                                                       |
-| Results Per Page                  | 3                                                        |
-| Google Web Search                 | No                                                       |
-| Google Blog Search                | No                                                       |
-| Google Images Search              | No                                                       |
-| Google Videos Search              | No                                                       |
-| Show Pagination                   | Yes                                                      |
-| Google SafeSearch                 | Moderate                                                 |
-| Image Size to Search              | Medium                                                   |
-| Show Estimated                    | Yes                                                      |
-| Hide div id(s)                    | Blank                                                    |
-| Link to All Results               | Yes                                                      |
-| Show Description                  | Yes                                                      |
-| Include (Category/Section)        | Yes                                                      |
-| Show Read More Link               | Yes                                                      |
+| Option          | Setting        |  
+| :-------------- | :------------- |  
+| Theme           | Default        |  
+| Tabs Position   | Top            |  
+| Display Limit   | ∞              |  
+| Animation       | Slide and Fade |  
+| Autoplay        | Disable        |  
+| Autoplay Delay  | 5              |  
+| Preview Length  | 0              |  
+| Image Resize    | Disable        |  
+| Strip HTML Tabs | No             |
 
-### Advanced
+### Article Defaults
 ![][demo4]
 
-| Option              | Setting                                              |  
-| :------------------ | :--------------------------------------------------- |  
-| Module Class Suffix | `noblock nopaddingleft nopaddingtop nopaddingbottom` |  
+| Option       | Setting |  
+| :----------- | :------ |  
+| Default Icon | None    |  
+| Default Link | None    |  
 
-[demo]: assets/demo_5.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+### Advanced
+![][demo5]
+
+| Option              | Setting                                       |  
+| :------------------ | :-------------------------------------------- |  
+| Module Class Suffix | `nopaddingleft nopaddingright nomarginbottom` |  
+
+[demo]: assets/demo_6.jpeg
+[demo2]: assets/tabs_1.jpeg
+[demo3]: assets/tabs_2.jpeg
+[demo4]: assets/tabs_3.jpeg
+[demo5]: assets/tabs_4.jpeg

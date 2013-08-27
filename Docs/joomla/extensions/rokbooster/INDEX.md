@@ -17,11 +17,11 @@ RokBooster can dramatically reduce the number of HTTP calls a browser has to mak
 
 Looking beyond Afterburner2, RokBooster can benefit just about any updated Joomla site. Here, we'll break down how exactly RokBooster can benefit your site. For the interest of comparison, we've tested with both Afterburner2 and our default Gantry template.
 
-|                 | Afterburner2*| + RokBooster | Gantry | + RokBooster |
-|:--------|:------------|:------------|:------|:------------|
-| Requests | 12                   |        5               |     18    |         7             |
-| Time        | 428ms            |   342ms          | 555ms |  375ms           |
-| Size         | 510KB             |        173KB      | 640KB  |      219KB        |
+|          | Afterburner2* | + RokBooster | Gantry | + RokBooster |  
+| :------- | :------------ | :----------- | :----- | :----------- |  
+| Requests | 12            | 5            | 18     | 7            |  
+| Time     | 428ms         | 342ms        | 555ms  | 375ms        |  
+| Size     | 510KB         | 173KB        | 640KB  | 219KB        |  
 
 >> *All statistics use Afterburner2 in 960Fixed mode.
 

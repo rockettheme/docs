@@ -1,62 +1,56 @@
 ---
-title: Ionosphere: Recreating the Demo - RokSprocket Layouts
+title: Ionosphere: Recreating the Demo - Adobe® Fireworks PNG Sources
 description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
-RokSprocket Layouts
+Adobe® Fireworks PNG Sources
 -----
 ![][demo]
 
-:   1. **mod_custom** [10%, 52%, se]
+This area of the front page is made up of a **RokGallery** module. Below, we've listed the settings you'll need to replicate the look of the demo module (minus the actual images, of course).
 
-This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
+You can find more information on RokGallery in our [RokGallery Guide][rokgallery].
 
 ### Details
 ![][demo2]
 
-| Option     | Setting                |  
-| :--------- | :--------------------- |  
-| Title      | `RokSprocket Layouts`  |  
-| Show Title | Show                   |  
-| Position   | content-top-b          |  
-| Status     | Published              |  
-| Access     | Public                 |  
-| Language   | All                    |  
-| Note       | Blank                  |  
+| Option     | Setting                        |  
+| :--------- | :----------------------------- |  
+| Title      | `Adobe® Fireworks PNG Sources` |  
+| Show Title | Show                           |  
+| Access     | Public                         |  
+| Position   | extension-b                    |  
+| Status     | Published                      |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<span class="icon-th fp-icon"></span>
-
-<h4 class="nomargintop largepaddingtop"><a href="index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=113"><em>RokSprocket is a revolutionary content extension</em></a></h4>
-
-<div class="clear"></div>
-
-<p><strong>RokSprocket</strong> has support for numerous content layout types, these as <strong>Mosaic,</strong> Headlines, Tabs and Features, as shown on this frontpage and <a href="index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=113">subpages</a>.</p>
-
-<p class="rt-center nomarginbottom"><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=113"><span>See More</span></a></p>
-~~~
-
-### Basic
+### Basic Options
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option                    | Setting                     |  
+| :------------------------ | :-------------------------- |  
+| Link Type                 | Link to RokBox1 Slice Image |  
+| Default Linked Item       | Home                        |  
+| Show Title                | No                          |  
+| Show Caption              | No                          |  
+| Sort By                   | Order                       |  
+| Sort Direction            | Ascending                   |  
+| Slice Limit               | 6                           |  
+| Gallery Style             | Light                       |  
+| Gallery Layout            | Grid                        |  
+| Grid Columns              | 3                           |  
+| Select a Background-Image | Blank                       |  
 
-### Advanced
+### Advanced Options
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Option              | Setting                 |  
+| :------------------ | :---------------------- |  
+| Module Class Suffix | `title1 nomarginbottom` |  
 
-[demo]: assets/demo_4.jpeg
-[demo2]: assets/layouts_1.jpeg
-[demo3]: assets/layouts_2.jpeg
-[demo4]: assets/layouts_3.jpeg
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/adobe_1.jpeg
+[demo3]: assets/adobe_2.jpeg
+[demo4]: assets/adobe_3.jpeg
+[demo5]: assets/adobe_4.jpeg
+[rokgallery]: ../../extensions/rokgallery

@@ -1,59 +1,62 @@
 ---
-title: Ionosphere: Recreating the Demo - FP MainTop A
+title: Ionosphere: Recreating the Demo - FP Feature
 description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---
 
-FP MainTop A
+FP Feature
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. You'll find the settings used in our demo below.
+The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
 ![][demo2]
 
-| Option           | Setting                           |  
-| :--------------- | :-------------------------------- |  
-| Title            | `FP MainTop A - RokSprocket Tabs` |  
-| Show Title       | Hide                              |  
-| Access           | Public                            |  
-| Position         | maintop-a                         |  
-| Status           | Published                         |  
-| Content Provider | Joomla!                           |  
-| Type             | Tabs                              |  
+| Option           | Setting      |  
+| :--------------- | :----------- |  
+| Title            | `FP Feature` |  
+| Show Title       | Hide         |  
+| Access           | Public       |  
+| Position         | showcase-a   |  
+| Status           | Published    |  
+| Content Provider | Joomla       |  
+| Type             | Features     |  
 
 ### Layout Options
 ![][demo3]
 
-| Option          | Setting        |  
-| :-------------- | :------------- |  
-| Theme           | Default        |  
-| Display Limit   | ∞              | 
-| Tabs Position   | Top            |  
-| Animation       | Slide and Fade |  
-| Autoplay        | Disable        |  
-| Autoplay Delay  | 5              |  
-| Preview Length  | 0              |  
-| Image Resize    | Disable        |  
-| Strip HTML Tabs | No             |
+| Option           | Setting   |  
+| :--------------- | :-------- |  
+| Display Limit    | ∞         |  
+| Theme            | Showcase  |  
+| Article Titles   | Show      |  
+| Article Text     | Show      |  
+| Preview Length   | ∞         |  
+| Strip HTML Tags  | Yes       |  
+| Arrow Navigation | Hide      |  
+| Pagination       | Show      |  
+| Animation        | Crossfade |  
+| Autoplay         | Enable    |  
+| Autoplay Delay   | 5         |  
+| Image Resize     | Disable   |  
 
 ### Article Defaults
 ![][demo4]
 
-| Option       | Setting |  
-| :----------- | :------ |  
-| Default Link | None    |  
+|    Option    | Setting |
+|:-------------|:--------|
+| Default Link | None    |
 
 ### Advanced
 ![][demo5]
 
-| Option              | Setting                                                                   |  
-| :------------------ | :------------------------------------------------------------------------ |  
-| Module Class Suffix | `noblock nopaddingleft nopaddingright nopaddingbottom demo-sprocket-tabs` |  
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix |         |  
 
-[demo]: assets/demo_2.jpeg
-[demo2]: assets/maintop_1.jpeg
-[demo3]: assets/maintop_2.jpeg
-[demo4]: assets/maintop_3.jpeg
-[demo5]: assets/maintop_4.jpeg
+[demo]: assets/demo_1.jpeg
+[demo2]: assets/fpfeature_1.jpeg
+[demo3]: assets/fpfeature_3.jpeg
+[demo4]: assets/fpfeature_2.jpeg
+[demo5]: assets/fpfeature_4.jpeg

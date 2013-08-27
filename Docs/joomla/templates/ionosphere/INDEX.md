@@ -43,13 +43,15 @@ Key Features
 
 >> Responsive and fixed versions of this template are available from the template's download page.
 
-### Integrated Styling for RokSprocket
+### RokSprocket integrated Template
 ![][roksprocket]
-The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ionosphere-specific styling, as demoed on Ionosphere Demo site. RokSprocket is a powerful content module with intuitive administrator interface.
+RokSprocket is a revolutionary new Joomla 2.5 only extension that has been designed to replace a variety of our existing ‘content’ modules.
 
-### Styled Support for K2 (Third Party)
-![][k2]
-K2 is an integrated solution for Joomla! similar to CCK for those acquainted with Drupal. Using K2, you can transform your Joomla! website to a news or magazine site.
+These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles. We have built our new March 2012 Joomla template to showcase this extension.
+
+### RokSprocket :: Revolutionary User Interface
+![][roksprocket2]
+RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in Joomla. The module itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
 [gantry]: http://www.gantry-framework.org/
 [ionosphere]: assets/ionosphere2.jpeg
@@ -58,4 +60,4 @@ K2 is an integrated solution for Joomla! similar to CCK for those acquainted wit
 [filezilla]: https://filezilla-project.org
 [launcher]: ../../start/rocketlauncher.md
 [strips]: assets/strips.jpg
-[k2]: assets/k2.jpg
+[roksprocket2]: assets/roksprocket2.jpg

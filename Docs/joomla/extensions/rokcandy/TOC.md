@@ -1,11 +1,11 @@
 ---
-title: RokCandy
-description: Your Guide to Using RokCandy for Joomla
+
 breadcrumb: /joomla:Joomla/extensions:Extensions/!rokcandy:RokCandy
 
 ---
 
-* Basics
+* RokCandy
     * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+    * [Key Features](INDEX.md#key-features)
+    * [Installation](INDEX.md#how-to-install)
+    * [Setup and Configuration](rokcandy_use.md)
