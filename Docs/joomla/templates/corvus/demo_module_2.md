@@ -1,11 +1,11 @@
 ---
-title: Corvus: Recreating the Demo - FP RokSprocket - Showcase
+title: Corvus: Recreating the Demo - RokAjaxSearch
 description: Your Guide to Recreating Elements of the Corvus Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/corvus:Corvus
 
 ---
 
-FP RokSprocket - Showcase
+RokAjaxSearch
 -----
 ![][demo]
 

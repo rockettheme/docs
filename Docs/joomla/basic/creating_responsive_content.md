@@ -17,7 +17,7 @@ Before we get into some of the tricks we use to make our demo content look the w
 * [Responsive Design: Part 2 - RocketTheme's Solution][part2]
 * [Responsive Design: Part 3 - RocketTheme's Extensions][part3]
 
-**TL;DR** Our responsive templates are only part of a properly-executed responsive site. Your content should be set up for success with various browser widths. Any content with fixed sizes could have a detrimental impact on how your page loads on various screens. Everything from your text to your images should be able to scale up or down at will.
+Our responsive templates are only part of a properly-executed responsive site. Your content should be set up for success with various browser widths. Any content with fixed sizes could have a detrimental impact on how your page loads on various screens. Everything from your text to your images should be able to scale up or down at will.
 
 >> NOTE: The explanation and the screenshots used in this tutorial are based on the Kirigami template. These methods can be applied to any other responsive RocketTheme template.
 

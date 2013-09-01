@@ -8,9 +8,12 @@ breadcrumb: /joomla:Joomla/!templates:Templates/corvus:Corvus
 Scroll Triggered Expanded Module
 ----
 ![][demo]
+
 This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
 
-The effect that makes the module expand as you scroll down is the result of the module class suffix used to in the **Advanced Options** area of the module's settings.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
+
+The effect that makes the module expand as you scroll down is the result of the module class suffix used in the **Advanced Options** area of the module's settings.
 
 ### Details
 ![][demo2]

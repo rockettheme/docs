@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templated/leviathan:Leviathan
 
 Template Settings
 -----
-One of the most important central features of any Gantry Template is the ability to be set up within the Template Settings menu. These settings can be adjusted by navigating to **Administration -> Template Manager -> Leviathan Template**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Leviathan Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
 ![][leviathan2]
 

@@ -7,10 +7,15 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
 
 Introduction
 -----
-Editing the logo on a RocketTheme template is fairly simple, and there are two primary methods of getting the job done. Either of the methods listed below will work just fine, though you'll want to decide whether you want to create a "default" logo that's easy to go back to after a seasonal or otherwise temporary logo is put in its place for a period of time.
+Editing the logo on a RocketTheme template is fairly simple. There are two primary methods of getting the job done.
+
+First, you'll have to decide whether you want to create a "default logo" that's easy to go back to after any temporary or seasonal logos, or a promotional "replacement logo".
+
+The easiest method to use a "replacement logo" is to use the **Logo Picker** method. Alternatively, you can use the **Manual Logo Change** method to change your default logo, outright. We've outlined these two primary methods below.
 
 ### The Logo Picker
 ![][logo2]
+
 The Logo Picker method essentially allows you to pick from any image in your Media Manager (or RokGallery) and use that in place of the logo in its associated position. The logo will continue to act the same way as it did when you first installed the RocketLauncher and/or standalone template, though its source image file will be directed to the image you've selected.
 
 To accomplish this, you'll want to follow these steps:
@@ -23,7 +28,7 @@ To accomplish this, you'll want to follow these steps:
 
 4. Select the source you would like to use for your custom logo. This can be either MediaManager or RokGallery, depending on what you have installed and are using to store the file.
 
-5. Select your logo, click **Instert**, and **Save**.
+5. Select your logo, click **Insert**, and **Save**.
 
 Your logo should now be replaced by the image you've selected.
 
@@ -31,6 +36,7 @@ Your logo should now be replaced by the image you've selected.
 
 ### Manual Logo Change
 ![][logo1]
+
 Let's say you want to set a primary logo that you can go back to at any given time without having to reselect it as a custom logo. This can be done fairly easily by replacing our logo image file with your own by doing a manual FTP upload to a specific directory.
 
 Doing this makes it a little easier to revert back to the logo you wish to have after a seasonal or temporary change.
@@ -45,7 +51,7 @@ Here are the steps you'll want to follow:
 
 4. Take your custom logo and rename it to `logo.png` in your local file directory.
 
-5. Upload the `logo.png` file to the `/templates/(your RocketTheme template)/images/logo/preset*/` directory and elect to override the existing file if prompted.
+5. Upload the `logo.png` file to the `/templates/(your RocketTheme template)/images/logo/` directory and choose to override the existing file, if prompted. Some templates might have additional directories for presets, light, dark, and other additional variables accessible via the `/logo/` directory.
 
 6. Clear your browser cache and refresh your site's home page to test the change.
 

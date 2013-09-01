@@ -42,6 +42,18 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 | Autoplay Delay           | 5         |  
 | Image Resize             | Disable   |  
 
+### Article Item Example
+![][demo6]
+
+| Option      | Setting                                                     |  
+| :---------- | :---------------------------------------------------------- |  
+| Title       | Multiple Layouts                                            |  
+| Description | `<span class="hidden-tablet">Powered by </span>RokSprocket` |  
+| Image       | Custom                                                      |  
+| Link        | Custom                                                      |  
+| Tags        | Movies                                                      |  
+| Icon        | `icon-film`                                                 |  
+
 ### Article Defaults
 ![][demo4]
 
@@ -56,3 +68,4 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 [demo3]: assets/strips_2.jpeg
 [demo4]: assets/strips_3.jpeg
 [demo5]: assets/strips_4.jpeg
+[demo6]: assets/strips_5.jpeg

@@ -41,6 +41,17 @@ We used a **RokSprocket** module with the **Lists** layout to make up this area 
 | Autoplay Delay      | 5                    |  
 | Image Resize        | Disable              |  
 
+### Article Item Example
+![][demo6]
+
+| Option      | Setting                                                                                                                                               |  
+| :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| Title       | `<span class='visible-large'>Integrated s</span><span class='hidden-large'>S</span>tyling for RokSprocket`                                            |  
+| Description | `RokSprocket is a powerful, multi-purpose content display module<span class="visible-large"> with multiple layouts and an advanced interface</span>.` |  
+| Image       | Custom                                                                                                                                                |  
+| Link        | Custom                                                                                                                                                |  
+| Tags        | Games, Action                                                                                                                                         |  
+
 ### Article Defaults
 ![][demo4]
 
@@ -56,3 +67,4 @@ We used a **RokSprocket** module with the **Lists** layout to make up this area 
 [demo3]: assets/lists_2.jpeg
 [demo4]: assets/lists_3.jpeg
 [demo5]: assets/lists_4.jpeg
+[demo6]: assets/lists_5.jpeg

@@ -12,7 +12,7 @@ Recreating features of the demo site used to show off some of the more interesti
 
 Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Ionosphere Template.
 
-Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the Template's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We've added most of these elements into the Template's core files in order to make them easily accessible without having to edit any code.
 
 Module Settings
 -----

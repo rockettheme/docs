@@ -13,6 +13,8 @@ Network With Us
 
 This area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
 
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 ### Details
 ![][demo2]
 

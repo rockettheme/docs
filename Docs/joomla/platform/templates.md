@@ -37,7 +37,7 @@ Once these files are in place, you can finish installation using your browser by
 At this point, you'll access the Joomla Web Installer to complete installation. We have step-by-step guides for installing a [Joomla 2.5][joomla25] or [3.x][joomla3x] site available to take you through the remainder of the installation process.
 
 ### Installing a Template Bundle
-Assuming that you already have Joomla installed and just wish to migrate your existing site to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you're looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
+Assuming that you already have Joomla installed and just wish to change your existing site over to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you're looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
 
 >> Note: The Bundle template is only necessary if the Gantry Library is not installed at `/components/com_gantry`.
 
@@ -61,7 +61,7 @@ Once you've done this, you should be at an installation page (indicated by the s
 
 Once this is done, a series of green messages will appear on the upload page indicating that the template, and any included components, have been successfully installed.
 
-The downloads page for the template might indicate one or more extensions are required for it to operate properly. These extensions will be linked on the downloads page. You can install them using the same process listed above. Make sure that you do not already have these extensions installed, beforehand.
+The downloads page for the template might indicate one or more extensions are required for it to operate properly. These extensions will be linked on the downloads page. You can install them using the same process listed above.
 
 ![][install4]
 
@@ -74,6 +74,8 @@ The standalone template is the bare bones of the template itself. If you already
 
 ### Other Available Files
 There are several other files that you might find useful on the template's download page. For example, the **Source PNG(s)** including some of the image files exclusive to the template are made available so that you may customize them to meet your individual needs. 
+
+While these files are not directly intended to be installed on your Joomla site, they can serve as a useful resource for further customization and understanding of what went in to creating the template.
 
 [joomla25]: install_joomla25.md
 [joomla3x]: install_joomla3x.md
