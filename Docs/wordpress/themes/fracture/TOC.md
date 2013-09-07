@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!metropolis:Metropolis
+breadcrumb: /wordpress:WordPress/themes:Themes/!fracture:Fracture
 
 ---
 
-* Metropolis
+* Fracture
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

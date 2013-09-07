@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
+breadcrumb: /wordpress:WordPress/themes:Themes/!voxel:Voxel
 
 ---
 
-* Ximenia
+* Voxel
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

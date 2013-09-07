@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
+breadcrumb: /wordpress:WordPress/themes:Themes/!ionosphere:Ionosphere
 
 ---
 
-* Ximenia
+* Ionosphere
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

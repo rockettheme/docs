@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!metropolis:Metropolis
+breadcrumb: /wordpress:WordPress/themes:Themes/!graffito:Graffito
 
 ---
 
-* Metropolis
+* Graffito
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
