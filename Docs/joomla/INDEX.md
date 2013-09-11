@@ -65,12 +65,6 @@ breadcrumb: /!joomla:Joomla/
 
 <!-- -->
 
-* Advanced Tutorials
-
-	- [Placeholder](advanced/#)
-
-<!-- -->
-
 * Club Extensions
 
 	- [RokBox](extensions/rokbox/)
@@ -100,6 +94,7 @@ breadcrumb: /!joomla:Joomla/
 
 * Club Templates
 
+	- [Corvus](templates/corvus)
 	- [Praxis](templates/praxis)
 	- [Stratos](templates/stratos)
 	- [Oculus](templates/oculus)

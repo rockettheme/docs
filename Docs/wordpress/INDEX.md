@@ -45,13 +45,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [Getting Started](basic/)
 	- [FAQ](basic/faq.md)
 
-
-<!-- -->
-
-* Advanced Tutorials
-
-	- [Placeholder](advanced/#)
-
 <!-- -->
 
 * Club Plugins
@@ -83,7 +76,9 @@ breadcrumb: /!WordPress:WordPress/
 <!-- -->
 
 * Club Themes
-
+	
+	- [Lumiere](themes/lumiere)
+	- [Leviathan](themes/leviathan)
 	- [Cerulean](themes/cerulean)
 	- [Metropolis](themes/metropolis)
 	- [Graffito](themes/graffito)
