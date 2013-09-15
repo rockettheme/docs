@@ -73,7 +73,7 @@ Key Features
 ------------
 * Combine and compress CSS and JavaScript into as few files as possible
 * GZip compression used to send CSS and JavaScript files
-* Compress Inline CSS and JavaScript
+* Compress In-line CSS and JavaScript
 * Compress Inline and Background Images
 * Customizable cache timeout
 * Background rendering, so initial file processing won't slow your users down

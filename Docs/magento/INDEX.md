@@ -8,7 +8,7 @@ breadcrumb: /!Magento:Magento/
 
 * Start Here
 
-	- [What is Magento Community Edition?](start/)
+	- [What is Magento Community Edition?](start/introduction.md)
 	  Find out why Magento is one of the most popular open source CMSs.
 
 	- [How Does Magento Work?](start/understanding.md)
@@ -17,14 +17,11 @@ breadcrumb: /!Magento:Magento/
 	- [How to install Magento](start/install_Magento.md)
 	  Step-by-step through the installation procedure for Magento.
 
-	- [Understanding Hosting](start/hosting.md)
-	  Helpful tips and tricks to get you started with the right hosting provider.
-
 	- [Magento Templates](start/templates.md)
 	  Find out exactly what a Magento template entails and what its relationship is with Magento's extensions.
 
 	- [Magento Extensions](start/extensions.md)
-	  Discover how RocketTheme Magento extensions help you to create a more powerful site.
+	  Discover how RokMage extensions help you to create a more powerful site.
 
 <!-- -->
 
@@ -32,17 +29,15 @@ breadcrumb: /!Magento:Magento/
 
 	- [Introduction](start/)
 	- [How Magento Works](start/understanding.md)
-	- [How to install Magento](start/install_Magento.md)
 	- [Magento Extensions](start/extensions.md)
-	- [Magento Templates](start/templates.md)
-	- [How to Undertstand the Magento Dashboard](start/dashboard.md)
+	- [Magento Themes](start/themes.md)
 
 <!-- -->
 
 * Basic Tutorials
 
-	- [Getting Started](basic/)
-	- [FAQ](basic/faq.md)
+	- [How to Install Magento](start/install_Magento.md)
+	- [How to Use the Dashboard](start/dashboard.md)
 	- [How to Create a New Product](basic/how_to_create_a_product.md)
 	- [How to Set Up Taxes](start/templates.md)
 	- [How to Manage Product Categories](basic/product_categories.md)

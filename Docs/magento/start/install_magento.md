@@ -105,7 +105,7 @@ The **License Agreement** page establishes agreement to the licensing restrictio
 ### Localization
 ![][install2]
 
-:   1. **Locale** Language options allowing you to indicate your preferred language. [50%, 21%, se]
+:   1. **Locale** Language options allowing you to indicate your preferred language. [50%, 31%, se]
 	2. **Time Zone** This option sets the local time zone for logs, actions, and records. [58%, 31%, ne]
 	3. **Default Currency** Set the default currency you wish to use with your site. [57%, 57%, se]
 	4. **Continue** Click this after agreeing to the terms to continue. [79%, 86%, se]

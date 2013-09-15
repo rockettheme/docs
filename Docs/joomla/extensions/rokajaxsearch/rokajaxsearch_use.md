@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokajaxsearch:RokAjaxSearch
 
 Module Settings
 -----
-Getting to the primary RokAjaxSearch settings menu is fairly straightforward. Once the module is created using the **New Module** tool in Joomla's **Module Manager**, you can select from a wide variety of options to refine its look and functionality.
+Getting to the primary RokAjaxSearch settings menu is a simple process. Once the module is created using the **New Module** tool in Joomla's **Module Manager**, you can select from a wide variety of options to refine its look and functionality.
 
 ### Options
 The **Options** area of the greater RokAjaxSearch settings menu has a long list of different settings to choose from. This is where you set the module's look and determine how it will function. The options menu is split into several different subcategories in order to make navigation easier. You can choose different Basic, Style, Advanced, Google, and other settings to make RokAjaxSearch function in a way that fits your specific site's needs.

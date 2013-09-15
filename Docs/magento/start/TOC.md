@@ -5,6 +5,8 @@ breadcrumb: /magento:Magento/!start:Start/
 ---
 
 * Quick Start Guides
+    * [Introduction to Magento](introduction.md)
+        * [Features](introduction.md#features)
     * [How to Install](install_magento.md)
         * [Requirements](install_magento.md#requirements)
         * [Download Magento](install_magento.md#step-1:-download-magento)
@@ -16,3 +18,4 @@ breadcrumb: /magento:Magento/!start:Start/
             * [Configuration](install_magento.md#configuration)
             * [Admin Account](install_magento.md#create-admin-account)
         * [File Permissions](install_magento.md#file-permissions)
+    * [How to Use the Menu](menu.md)

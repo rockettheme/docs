@@ -59,3 +59,4 @@ From Joomla 3.x:
 
 [featured]: assets/rokfeaturetable.jpeg
 [download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2616-rokfeaturetable
+[install]: ../../platform/extensions.md#how-to-install-an-extension

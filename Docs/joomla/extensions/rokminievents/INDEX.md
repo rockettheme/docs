@@ -5,11 +5,58 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokminievents:RokMiniEvents
 
 ---
 
-RokMiniEvents
+Introduction
 ======
-Description goes here.
+![][intro]
 
+RokMiniEvents is a simple and elegant solution for displaying events on your site. The module syncs automatically with either Google Calendar, JomSocial, RSEvents, JEvents, EventList or RedEvent presenting basic information such as title, date and a description, which link to the full event.
+
+The module is very intuitive, automatically adjusting itself based on your events and event ranges. Simply set the number of events and the time range, and RokMiniEvents will do the rest.
+
+Key Features
+------------
+* **Sources**: Google Calendar, JomSocial, RSEvents, JEvents, EventList, RedEvent
+* **Time Range**: Select events from a variety of periods
+* **Time Format**: Control the type of date displayed
+* **Event Controls**: Manage the number of events
+* **Layouts**: Various layout parameters
+* **Animation**: Transitions, durations, offsets
+
+Requirements
+------------
+RokMiniEvents has the following requirements in order to operate:
+
+* Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
+* Compatible Browser: Firefox 4+, Chrome, Safari, IE9+, Opera 
+
+>> NOTICE: This extensions is available for Joomla 2.5 and Joomla 3.x. Joomla 1.5 is unsupported but available for download.
 
 How to install
 --------------
-Content goes here.
+Installing RokMiniEvents takes just a matter of few minutes.
+
+The first thing you'll need to do is [download][download] the latest version of RokMiniEvents. The package you will download is a bundle containing all the required plugins to get RokMiniEvents up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+
+Once you've downloaded the package, go into the Joomla Administrator and:
+
+From Joomla 2.5:
+
+* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Click on Upload Package File **Choose File** button
+* Select the `rokminievents.zip` that you just downloaded from your local drive.
+* Click the **Upload & Install** button.
+
+From Joomla 3.x:
+
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
+* Click on Upload Package File **Choose File** button
+* Select the `rokminievents.zip` that you just downloaded from your local drive.
+* Click the **Upload & Install** button.
+
+>> NOTE: For additional information on installing extensions, visit our detailed extensions installation guide located [here][install].
+
+>> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
+
+[intro]: assets/rokminievents.jpeg
+[download]: http://www.rockettheme.com/extensions-downloads/club/1886-rokminievents
+[install]: ../../platform/extensions.md#how-to-install-an-extension
