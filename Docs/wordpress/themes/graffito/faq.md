@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
 
 Where can I find theme settings?
 -----
-* Log in into the WordPress administrative dashboard at http://www.yoursite.com/wp-admin/
+* Log in to the WordPress administrative dashboard at http://www.yoursite.com/wp-admin/
 * Select the **Graffito Settings** sidebar tab on the left of the dashboard.
 * For more information visit our [Gantry documentation][gantry] on the settings menu.
 
