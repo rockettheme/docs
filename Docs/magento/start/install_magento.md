@@ -129,7 +129,7 @@ The **Database Connection** area of the **Configuration** page hosts the primary
 ![][install4]
 
 :   1. **Base URL** The base URL for your Magento site. [15%, 12%, se]
-	2. **Admin Path** The location of your admin panel from the base URL. [22%, 12%, se]
+	2. **Admin Path** The location of your Admin Panel from the base URL. [22%, 12%, se]
 	3. **Enable Charts** Enables or disables charts in your admin dashboard. [30%, 12%, se]
 	4. **Skip Base URL Validation** This box allows you to skip URL validation. [37%, 12%, se]
 	5. **Use Web Server (Apache) Rewrites** Allows URL rewrites which provide clean URLs and improves SEO. [44%, 12%, se]
@@ -137,6 +137,10 @@ The **Database Connection** area of the **Configuration** page hosts the primary
 	7. **Save Session Data In** You can decide whether you wish to have session data stored in the file system, or in the database. [70%, 12%, se]
 
 The **Web Access Options** area is where you set the base URL, administrative path, as well as some important security and SEO options like SSL and Apache URL rewrites.
+
+The **Skip Base URL Validation Before Next Step** option is used if you are installing Magento behind a password protected directory.
+
+Its a good idea to set a secret word at this point to have a custom admin path.  Be sure to remember this as you will need it to log in to your site instead of using the typical path of **www.(your site name).com/admin**.
 
 >> Note: Magento does not support self-signed SSL certificates. If you intend to use SSL for administrative access, you'll need a third-party signed SSL certificate. This is an optional feature.
 

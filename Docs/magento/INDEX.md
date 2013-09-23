@@ -38,7 +38,10 @@ breadcrumb: /!Magento:Magento/
 
 	- [How to Install Magento](start/install_Magento.md)
 	- [How to Use the Dashboard](start/dashboard.md)
-	- [How to Create a New Product](basic/how_to_create_a_product.md)
+	- [How to Work with Cache](basic/cache.md)
+	- [How to Create Store Categories](basic/store_categories.md)
+	- [How to Manage Attributes](basic/attributes.md)
+	- [How to Create a New Product](basic/products.md)
 	- [How to Set Up Taxes](start/templates.md)
 	- [How to Manage Product Categories](basic/product_categories.md)
 	- [How to Read Sales Reports](basic/sales_reports.md)
