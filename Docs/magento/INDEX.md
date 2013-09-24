@@ -42,7 +42,7 @@ breadcrumb: /!Magento:Magento/
 	- [How to Create Store Categories](basic/store_categories.md)
 	- [How to Manage Attributes](basic/attributes.md)
 	- [How to Create a New Product](basic/products.md)
-	- [How to Set Up Taxes](start/templates.md)
+	- [How to Set Up Taxes](basic/taxes.md)
 	- [How to Manage Product Categories](basic/product_categories.md)
 	- [How to Read Sales Reports](basic/sales_reports.md)
 	- [How to Manage Customers](basic/customers.md)

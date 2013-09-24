@@ -52,19 +52,51 @@ This option involves a lot of the page styling cache and can be flushed when you
 Flat Catalog Data
 -----
 
+![][cache3]
+
+:	1. **Use Flat Catalog Category** Allows you to use flat catalog categories to lessen server load and improve page load time. [65%, 10%, se]
+	2. **Use Flat Catalog Product** Enables the use of flat product data feature in order to reduce load time. [70%, 10%, ne]
+
+Magento makes many calls to the database to retrieve information for each page viewed. This can take some time, using server resources which may differ from the part of the server that handles your database, as opposed to your files. 
+
+If there are several bits of information that Magento needs to display a Category page, the **Flat Catalog Data** will compile all of these bits for that page into a single database table entry. This way, Magento can make one call to the database to retrieve the necessary information. This is beneficial, but does not work in all instances. This should be tested after it's turned on.
+
+To find these settings, you'll need to navigate to **System -> Configuration**, click **Catalog** in the sidebar, and manipulate the **Frontend** settings.
 
 Flat Product Data
 -----
 
+This is similar to the Flat Catalog Data feature in that it will compile all the information Magento needs to display a page into one database table entry, only this option does so for Product View pages.
+
+The product view contains a great deal of information including displaying your product attributes, so this can be beneficial in page load time. Test several pages after turning this feature on to make sure there are no issues.
+
+This setting is located in the same **Frontend** menu as the **Flat Catalog Data** listed above.
 
 Merge CSS
 -----
 
+![][cache4]
+
+Magento requires many CSS files to display a site's theme and style. These files can be merged using this feature, saving time and weight on page load. This process takes multiple CSS files used by your site and compiles them into a single file. 
+
+After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear Javascript and CSS** cache. This is a good feature to turn on after you've completed customizing your site.
+
+You can find this feature by navigating to **Admin Panel -> System -> Configuration** and selecting **Developer** near the bottom of the sidebar on the left. You'll find the **CSS Settings** menu on the resulting page.
 
 Merge JS
 -----
 
+System -> Configuration -> Developer -> JavaScript Settings -> Merge JavaScript Files
 
+Magento uses quite a bit of code to make all of its features work. Under the hood, it's a cluttered machine packed with cogs turning against each other to deliver your content to visitors. 
+
+This can lead to your website needing to pull in many separate JavaScript files so the page can load. Merging these files can save a good amount of time and weight on page load. This is a good feature to turn on once you are finished customizing your site and theme. 
+
+After turning this on, be sure to do testing on different browsers and go through different pages and features on your site. Depending on the scripts you're using, this may or may not cause issues.
+
+You can find this option in the same page as the **Merge CSS** option listed above. Simply navigate to **Admin Panel -> System -> Configuration** and select **Developer** from the sidebar to the left. Once there, click on the **JavaScript Settings** section.
 
 [cache]: assets/cache_1.jpeg
 [cache2]: assets/cache_2.jpeg
+[cache3]: assets/cache_3.jpeg
+[cache4]: assets/cache_4.jpeg
