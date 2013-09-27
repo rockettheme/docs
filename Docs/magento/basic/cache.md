@@ -79,7 +79,7 @@ Merge CSS
 
 Magento requires many CSS files to display a site's theme and style. These files can be merged using this feature, saving time and weight on page load. This process takes multiple CSS files used by your site and compiles them into a single file. 
 
-After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear Javascript and CSS** cache. This is a good feature to turn on after you've completed customizing your site.
+After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear JavaScript and CSS** cache. This is a good feature to turn on after you've completed customizing your site.
 
 You can find this feature by navigating to **Admin Panel -> System -> Configuration** and selecting **Developer** near the bottom of the sidebar on the left. You'll find the **CSS Settings** menu on the resulting page.
 
@@ -90,7 +90,7 @@ System -> Configuration -> Developer -> JavaScript Settings -> Merge JavaScript 
 
 Magento uses quite a bit of code to make all of its features work. Under the hood, it's a cluttered machine packed with cogs turning against each other to deliver your content to visitors. 
 
-This can lead to your website needing to pull in many separate JavaScript files so the page can load. Merging these files can save a good amount of time and weight on page load. This is a good feature to turn on once you are finished customizing your site and theme. 
+This can lead to your website needing to pull in many separate JavaScript files so the page can load. Merging these files can save a good amount of time and weight on page load. This is a good feature to turn on once you are finished customizing your site and theme.
 
 After turning this on, be sure to do testing on different browsers and go through different pages and features on your site. Depending on the scripts you're using, this may or may not cause issues.
 
