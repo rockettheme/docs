@@ -20,7 +20,7 @@ We currently offer Club memberships for four web application platforms.
 * Magento
 * phpBB
 
-Club memberships give you complete access to our entire product catalog for the platform you're subscribed to. This includes templates and extensions we've created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 6 and 12 month periods.
+Club memberships give you complete access to our entire product catalog for the platform you're subscribed to. This includes templates and extensions we've created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 2, 6, and 12 month periods.
 
 You also receive **Entitlements** allowing you to use RocketTheme products on multiple web application installs so you can pay once to create two or more sites. You can continue using your template/theme/style even after your subscription period has expired. You just don't get access to any updates or additional products that are released outside of your subscription period. Additional Entitlements can be purchased ala carte should you need more than those included with your initial membership.
 
@@ -31,11 +31,11 @@ We also offer a **Developer Club** option for small businesses or individuals th
 Membership Benefits
 -----
 
-Our Club members receive a variety of products and services, in addition to our templates/themes/styles. Members receive 2-3 initial Entitlements, allowing them to install RocketTheme products on multiple individual sites. 
+Our Club members receive a variety of products and services, in addition to our templates/themes/styles. Members receive 1-3 initial Entitlements, allowing them to install RocketTheme products on multiple individual sites. 
 
 They also gain access to our forums where they can receive support from our around-the-clock team of moderators and developers, helpful community, and growing library of documentation that extends well beyond our core products.
 
-Members also gain immediate access to our catalog of extensions which work with (or independently) our templates/themes/styles to add a variety of useful features and utilities to your site(s).
+As part of a Club membership, members also gain access to any extensions RocketTheme creates for the related platform. For example, a member of the WordPress Theme Club gets complimentary access to all of RocketTheme's supported WordPress plugins.
 
 For a reasonable fee, you can receive direct, one-on-one support from our development team to assist with configuration, setup, minor tweaking of RocketTheme products, and more. This **Premier Support** channel is made available to help in the rare event that you need assistance that requires a more site-specific resolution.
 

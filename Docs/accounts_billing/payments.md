@@ -29,8 +29,6 @@ To put it simply: We do not offer refunds once a membership has been purchased. 
 
 RocketTheme currently accepts both PayPal and Credit Card payments. Please be aware that all payments, even credit cards, are processed through [PayPal][paypal]. 
 
-If your card or payment type is registered in an incompatible country for PayPal, you will need to find alternative options.
-
 #### The Payment Failed. What Should I Do?
 
 The most common cause of a failed transaction is some error in the information provided. A transposed number, incorrect zip code, or some other information failure. There should be a failure notification which will give you a starting point for troubleshooting.

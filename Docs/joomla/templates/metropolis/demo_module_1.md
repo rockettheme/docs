@@ -7,10 +7,13 @@ breadcrumb: /joomla:Joomla/!templates:Templates/metropolis:Metropolis
 
 FP Showcase - RokSprocket Features
 -----
+
 ![][demo]
+
 The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
+
 ![][demo2]
 
 | Option           | Setting                            |  
@@ -24,6 +27,7 @@ The RokSprocket Showcase module used near the top of the front page is a great w
 | Type             | Features                           |  
 
 ### Layout Options
+
 ![][demo3]
 
 | Option | Setting |
@@ -42,6 +46,7 @@ The RokSprocket Showcase module used near the top of the front page is a great w
 | Image Resize      | Disable   |
 
 ### Article Defaults
+
 ![][demo4]
 
 |    Option    | Setting |
