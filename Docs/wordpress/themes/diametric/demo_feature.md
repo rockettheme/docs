@@ -72,7 +72,7 @@ You can set the RokSprocket filters to include any category, specific articles, 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
 * Enter **Technical Support** in the **Title** field.
-* Select your RokSprocket Mosaic widget in the **Choose Widget** field.
+* Select your RokSprocket Tabs widget in the **Choose Widget** field.
 * Enter `nomargintop nopaddingtop` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 

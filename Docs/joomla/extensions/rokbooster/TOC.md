@@ -12,7 +12,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokbooster:RokBooster
     	* [Details](rokbooster_use.md#details)
     	* [Basic Cache Settings](rokbooster_use.md#basic-cache-settings)
     	* [Style Sheet Settings](rokbooster_use.md#style-sheet-settings)
-    	* [Script Settings](rokbooster_use.md#script-settings)
+    	* [JavaScript Settings](rokbooster_use.md#script-settings)
     	* [Image Settings](rokbooster_use.md#image-settings)
     	* [Font Settings](rokbooster_use.md#font-settings)
     	* [Advanced Plugin Configuration](rokbooster_use.md#advanced-plugin-configuration)

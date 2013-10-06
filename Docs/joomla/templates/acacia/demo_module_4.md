@@ -158,7 +158,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------- |  
 | Module Class Suffix | `title1` |  
 
-[demo]: assets/demo_4.jpeg
+[demo]: assets/demo_10.jpg
 [demo2]: assets/gantry_1.jpeg
 [demo3]: assets/gantry_2.jpeg
 [demo4]: assets/gantry_3.jpeg

@@ -81,6 +81,8 @@ Key Features
 * Ability to ignore specific CSS and JavaScript files
 * Configurable permissions settings
 * Exempted individual CSS/JS files
+* Option to ignore partial URLs and Paths for JS and CSS
+* Page-specific exemptions
 
 >> NOTE: If your site's CSS goes blank when you activate RokBooster, there is a permission problem on your server. Please change the Cache File Permissions settings in Advanced.
 

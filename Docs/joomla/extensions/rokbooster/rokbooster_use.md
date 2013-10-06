@@ -43,7 +43,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
     3. **Compress Inline CSS Blocks** Combines and compresses inline CSS blocks. [64%, 24%, se]
     4. **Compile Imported CSS Files** References files in CSS via **@import** rules and add them to the compression. This will slow down the compilation and processing, but not the scanning. [73%, 29%, sw]
 
-1. **Compress CSS Files** combines and compress CSS files.
+1. **Compress CSS Files** combines and compresses CSS files.
 
 2. **Sort Method** to set the type/method for CSS files sorting, **Keep Absolute Ordering** or **Place External Links at Top**.
 
@@ -51,7 +51,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 
 4. **Compile Imported CSS Files** gets the files referenced in CSS via **@import** rules and add them to the compression. This will slow down the compilation and processing, but not the scanning.
 
-### Script Settings
+### JavaScript Settings
 ![][rokbooster_setup_3]
 
 :   1. **Compress Scripts** Combines and compresses JavaScript files. [51%, 28%, sw]
@@ -90,29 +90,32 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 ### Advanced Plugin Configuration
 ![][rokbooster_setup_6]
 
-:   1. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line.  [34%, 43%, sw]
-    2. **Scan Method**: The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".  [46%, 35%, sw]
-    3. **Use Background Rendering**: Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.  [55%, 28%, sw]
-    4. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.  [65%, 28%, sw]
-    5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.  [75%, 38%, sw]
+:   1. **Ignored Pages** The paths, URLs, or partials to pages to be ignored by RokBooster. [33%, 71%, sw]
+    2. **Ignored Files** The paths or URLs to files to be ignored by RokBooster. One file per line.  [50%, 71%, sw]
+    3. **Scan Method** The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".  [65%, 36%, sw]
+    4. **Use Background Rendering** Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.  [72%, 28%, sw]
+    5. **Disable for Internet Explorer** Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.  [78%, 35%, sw]
+    6. **Cache File Permissions** Permissions that the RokBooster cache files are created with. Don't change unless you need to.  [85%, 39%, sw]
 
-1. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line.
+1. **Ignored Pages** The paths, URLs, or partials to pages to be ignored by RokBooster. One file per line. Example: **/blog/stream/**. If you use double quotes ("") around a string, it will match exactly. If you don't use the quotes, it will match any part of the page to the current URL. Exact matches with double quotes should start with a forward slash (/). If you use just a forward slash and nothing else, it will match the homepage only.
 
-2. **Scan Method**: The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".
+2. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line. You can enter this information for a single file, or an entire folder by listing the name of the parent directory of the files you'd like to have RokBooster ignore. For exmaple, if you want RokBooster to ignore every JS file in **/jscripts**, just type `jscripts` in the box. Alternatively, you can just type the name of the file you wish to have RokBooster ignore without having to enter the directory path.
 
-3. **Use Background Rendering**: Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.
+3. **Scan Method**: The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".
 
-4. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.
+4. **Use Background Rendering**: Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.
 
-5. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.
+5. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE. You can also elect to only disable compression for browsers less than IE10 while maintaining this feature for IE10+.
+
+6. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.
 
 ### Debug Settings
 ![][rokbooster_setup_7]
 
-:   1. **Debug Log Location** Link to the debug log. May appear as **Unavailable** if no long has yet been generated. [46%, 28%, sw]
+:   1. **Debug Log Location** Link to the debug log. May appear as **Unavailable** if no log has yet been generated. [46%, 28%, sw]
     2. **Debut Log Level** The level of information in the debug logs. [60%, 42%, sw]
 
-1. **Debug Log Location** displays the link to the debug log. May appear as **Unavailable** if no long has yet been generated.
+1. **Debug Log Location** displays the link to the debug log. May appear as **Unavailable** if no log has yet been generated.
 
 2. **Debut Log Level** sets the level of information in the debug logs.
 
@@ -121,6 +124,6 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 [rokbooster_setup_3]: assets/rokbooster_setup_3.jpeg
 [rokbooster_setup_4]: assets/rokbooster_setup_4.jpeg
 [rokbooster_setup_5]: assets/rokbooster_setup_5.jpeg
-[rokbooster_setup_6]: assets/rokbooster_setup_6.jpeg
+[rokbooster_setup_6]: assets/rokbooster_setup_6.jpg
 [rokbooster_setup_7]: assets/rokbooster_setup_7.jpeg
 [rokbooster_setup_8]: assets/rokbooster_setup_8.jpeg
