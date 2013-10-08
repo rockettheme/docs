@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /magento:Magento/!themes:Themes/!cerulean:Cerulean/
+breadcrumb: /magento:Magento/!themes:Themes/!metropolis:Metropolis/
 
 ---
 
-* Cerulean
+* Metropolis
     * [Introduction](INDEX.md#introduction)
     * [Features](INDEX.md#features)
     * [How to Install](INDEX.md#how-to-install)

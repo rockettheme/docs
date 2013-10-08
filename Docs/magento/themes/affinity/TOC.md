@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /magento:Magento/!themes:Themes/!cerulean:Cerulean/
+breadcrumb: /magento:Magento/!themes:Themes/!affinity:Affinity/
 
 ---
 
-* Cerulean
+* Affinity
     * [Introduction](INDEX.md#introduction)
     * [Features](INDEX.md#features)
     * [How to Install](INDEX.md#how-to-install)

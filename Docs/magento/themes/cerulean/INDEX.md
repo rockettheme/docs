@@ -76,7 +76,7 @@ All of these files can be found on the [Downloads page][download] associated wit
 * Extract **rt_cerulean_m.zip**
 * Open your FTP client ([FileZilla][filezilla] is a popular choice)
 * Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
-* Log in to the Magento administrator dashboard (http://www.yoursite.com/admin/ by default)
+* Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
 * Go to **System -> Configuration**
 * Click the **Design** tab on the left
 * Under the **Package** heading, add cerulean as the Current Package Name
