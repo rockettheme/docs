@@ -28,17 +28,15 @@ The **ModalHeader** module adds in some extra functionality to the header sectio
 | Enable Modal Header         | Yes     |  
 | Enable Custom Form Elements | Yes     |  
 | Enable Custom Breadcrumbs   | Yes     |  
-| Build Title Spans           | No      |  
 | Disable Modal Log In        | No      |  
-| Disable Text Resizer        | Yes     |  
-| Disable Date                | Yes     |  
 
-#### IE Support
+#### IE6 Transparency Fix
 
-| Option                  | Setting |  
-| :---------------------- | :------ |  
-| Redirect IE6/7 Visitors | Yes     |  
-| Load IE6/7 Helper Fies  | No      |  
+**Add Classes to Fix**
+
+~~~
+ul.menu li, ul.menu li a, ul.menu li ul, ul.menu-single li, ul.menu-single li a, ul.menu-single li ul, .hover, .active, ul.menu li ul li a span, ul.menu-single li ul li a span, ul.menu .bg-top, ul.menu-single .bg-top, ul.menu .bg-top-curves, ul.menu-single .bg-top-curves, .logo, .smallFont, .largeFont, .header ul li a, .header-container, .header .rokmage-cart-box-L img, #rokmage-header-cart, #topbar3 ul li, #rocketlogo, .rating-box, .rating-box .rating, .rok-breadcrumbs, .rok-breadcrumbs ul li.first a, .round-m, .rounded_m, .round-s, .rounded_s, .round-l, .rounded_l, .round-xl, .rounded_xl, a.backward, a.forward, .images, #dynatip, .thumbswrapper, .thumbsbutton, .mageside-menu-toggle-button, .mageside-menu-toggle-button-current, #mynxx-contactForm
+~~~
 
 #### Modal Window Animation Settings
 
@@ -56,7 +54,7 @@ Replace the default Magento dropdown menu with fully configurable, animated, jQu
 | :--------------------- | :------ |  
 | Enable Top Menu        | Yes     |  
 | Enable Left Side Menu  | Yes     |  
-| Enable Right Side Menu | No      |  
+| Enable Right Side Menu | Yes     |  
 
 #### Top Menu Settings
 
@@ -73,6 +71,21 @@ Replace the default Magento dropdown menu with fully configurable, animated, jQu
 ~~~ .html
 mm_slidedownspeed: 100,mm_fadeoutspeed: 50,mm_css_pre: {left: 100, opacity: 0 },mm_animatein: {left: 165, opacity: 1},mm_animateout: {opacity: 0, left: 185},mm_animate_speed: 150,mm_pause: 0
 ~~~
+
+#### Side Menu Left Settings
+
+| Option                     | Setting   |  
+| :------------------------- | :-------- |  
+| Menu Title                 | Main Menu |  
+| Include Catalog Categories | Yes       |  
+
+#### Side Menu Right Settings
+
+| Option                     | Setting          |  
+| :------------------------- | :--------------- |  
+| Menu Title                 | Customer Service |  
+| Include Catalog Categories | No               |  
+| Include 'Contact' Link     | Yes              |  
 
 ### HomePage Grid
 
@@ -94,20 +107,7 @@ Set up your store homepage with just a few clicks, with a welcome message and pr
 | Filter Products By                   | Show All Products                                               |  
 | Truncate Product Titles/Descriptions | Truncate On                                                     |  
 | Max Titles Length                    | 50                                                              |  
-| Max Descriptions Length              | 110                                                             |  
-| Image Height                         | 300                                                             |  
-| Image Width                          | 300                                                             |  
-
-### RokMage Layouts
-
-Configure the theme's responsive layout and/or fix to a specific width.
-
-#### Responsive Layout Settings
-
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Enable Responsive Layouts | Yes     |  
-| Fix to Specific Width     | No      |  
+| Max Descriptions Length              | 110                                                             |   
 
 ### ContentSlider
 
@@ -131,7 +131,6 @@ Add a fully configurable content slider to the homepage and category pages, choo
 | Truncate Product Titles/Descriptions | Truncate On       |  
 | Max Titles Length                    | 60                |  
 | Max Descriptions Length              | 250               |  
-| Image Size                           | 350               |  
 
 #### Category Slider Products
 
@@ -142,7 +141,6 @@ Add a fully configurable content slider to the homepage and category pages, choo
 | Max Titles Length                    | 30                |  
 | Max Descriptions Length              | 130               |  
 | Hide Description                     | No                |  
-| Image Size                           | 230               |  
 
 ### ProductScroller
 
@@ -157,11 +155,9 @@ Add a fully configurable, jQuery based, animated horizontal product scroller to 
 | Prev/Next Function       | Page        |  
 | Truncate Product Titles  | Truncate On |  
 | Max Titles Length        | 32          |  
-| Image Size               | 140         |  
-| Speed                    | 1           |  
-| Circular                 | Loop On     |  
-| Products Per Page        | 6           |  
-| Use Tooltip for Details  | Yes         |  
+| Speed                    | 1           |   
+| Products Per Page        | 4           |  
+| Use Tooltip for Details  | No          |  
  
 #### Homepage Scroller Products
 
@@ -186,7 +182,7 @@ Add the ability to truncate product titles and descriptions, and switch between 
 | Enable Category View                 | Yes         |  
 | Truncate Product Titles/Descriptions | Truncate On |  
 | Max Titles Length                    | 50          |  
-| Max Descriptions Length              | 300         |  
+| Max Descriptions Length              | 110         |  
 
  
 #### PRODUCT FILTER SETTINGS
@@ -194,13 +190,6 @@ Add the ability to truncate product titles and descriptions, and switch between 
 | Option               | Setting |  
 | :------------------- | :------ |  
 | Use Accordion Effect | Yes     |  
- 
-#### CATEGORY PRODUCT IMAGE SETTINGS
-
-| Option       | Setting |  
-| :----------- | :------ |  
-| Image Height | 300     |  
-| Image Width  | 300     |  
 
 ### ProductView
 
@@ -211,7 +200,7 @@ Replace the default zoom with a jQuery version, add improved thumbnails, and sho
 | Option              | Setting |  
 | :------------------ | :------ |  
 | Enable Product View | Yes     |  
-| Use 2 Column Layout | Yes     |  
+| Use 2 Column Layout | No      |  
  
 #### PRODUCT INFO SETTINGS
 
@@ -234,15 +223,15 @@ Replace the default zoom with a jQuery version, add improved thumbnails, and sho
 | Enable RokMage media view       | Yes                                 |  
 | Resize product image background | No                                  |  
 | Image background location       | default/rokmage-productview/images/ |  
-| Small Image Width               | 260                                 |  
-| Small Image Height              | 260                                 |  
+| Small Image Width               | 300                                 |  
+| Small Image Height              | 300                                 |  
 | Large Image Width               | 1000                                |  
 | Large Image Height              | 1000                                |  
-| Thumbnail Width                 | 78                                  |  
-| Thumbnail Height                | 78                                  |  
+| Thumbnail Width                 | 65                                  |  
+| Thumbnail Height                | 65                                  |  
 | Disable Zoomer                  | No                                  |  
 | Use Overlaid Thumb Gallery      | Yes                                 |  
-| Spacing Offset                  | 20                                  |  
+| Spacing Offset                  | 35                                  |  
 
 ### CmsCallouts
 
@@ -290,16 +279,6 @@ Define your featured products from the admin, using selected category, attribute
 | :------------------- | :--------------------------------------------------------------------------------------------------------------- |  
 | Select Featured List | Select at least 6 'Featured' products from this list. Hold **ctrl** and click to multi-select (**cmd** on a Mac) |  
 
-### ImageBorders
-
-Use jQuery and CSS to style your product images, giving the ability to add any border or frame you desire. 
-
-#### General
-
-| Option               | Setting |  
-| :------------------- | :------ |  
-| Enable Image Borders | No      |  
-
 ### FooterBlock
 
 Add product lists to the footer, a text box (for disclaimers etc), styled footer menu and Cart count linked to the modal cart viewer. 
@@ -338,13 +317,36 @@ Enables the Tiny MCE editor for RokMage Extensions.
 | Option                                 | Setting                |  
 | :------------------------------------- | :--------------------- |  
 | Enable Tiny MCE for RokMage Extensions | Yes                    |  
-| 2nd Column Content                     | Highest Rated Products |  
-| 3rd Column Content                     | Featured Products List |  
 
 **Textareas to enable for**
 
 ~~~ .html
 #homepage_grid_settings_welcome_msg,#homepage_grid_settings_grid_text,#content_slider_settings_custom_one_slide_one_content,#content_slider_settings_custom_two_slide_two_content,#content_slider_settings_custom_three_slide_three_content,#content_slider_settings_custom_four_slide_four_content,#cms_callouts_settings_leftcallouttext,#cms_callouts_settings_rightcallouttext,#footer_block_settings_first-custom-text,#footer_block_settings_second-custom-text,#footer_block_settings_third-custom-text,#footer_block_settings_text-box
+~~~
+
+### IE 6/7 Support
+
+This template doesn't support IE6/7. Instead, it redirects IE6/7 users to an "Unsupported Browser" page. This page is added automatically by the RocketLauncher, but if you're installing manually, you'll also need to add this. 
+
+You can do so by going to **CMS -> Pages** and making a new page, called "IE6/7 Redirect". Set the identifier as `ie6-redirect` - **this is important** as it's what is used by the redirect script so make sure to set it this way. 
+
+Then, set the layout as 1 column, and title and content as you wish. To set the same as the RL version, use the title "Unsupported Browser" and add your content as follows (with editor hidden):
+
+~~~
+<p>You are using a browser that is not supported by this website. That
+probably means your browser is woefully out of date, insecure, and just
+generally lacking in standards. Luckily for you there are literally 10s of
+modern, standards compatible browsers available to you at no cost. All you
+need to do is simply take the time to install one.</p>
+
+<p>We suggest either installing the latest version of <a href=
+"http://www.mozilla.com/en-US/firefox/firefox.html">Firefox</a>, <a href=
+"http://www.google.com/chrome">Google Chrome</a>, <a href=
+"http://www.apple.com/safari/download/">Safari</a>, <a href=
+"http://www.opera.com/">Opera</a> or upgrading your current version of
+Internet Explorer to <a href=
+"http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages">
+IE9</a>.</p>
 ~~~
 
 [rokmagelayout]: assets/RokMageLayout.jpg

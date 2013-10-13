@@ -11,46 +11,27 @@ Introduction
 
 ![][theme]
 
-RokMage Mobile, our 18th Magento theme release, is a beautifully constructed template with a three-dimensional style design to add depth to content, with our extensions adding focal points. It boasts 6 style variations, and our 12 RokMage extensions are seamlessly integrated into the design.
+RokMage Mobile, the 9th Magento Club Theme release, is a universal mobile template, built on the jQuery Mobile Framework.
+
+The theme has it's own configuration page, and can be styled to match your site in seconds using the jQuery Mobile Theme Roller. 
 
 Features
 -----
 
-* 6 Preset Color Variations
-* MageMenus extension
-* ModalHeader extension
-* HomepageGrid extension
-* CategoryView extension
-* ContentSlider extension
-* ProductScroller extension
-* ProductView extension
-* CmsCallouts extension
-* ImageBorders extension
-* FooterBlock extension
-* ProductVideo extension
-* FeaturedProducts extension
-* Recently Viewed Footer Thumblist
-* Smooth jQuery menu and other animations
-* FF4+, Opera 9.6, Safari 3, IE8, 9 Compatible
-* W3C XHTML 1.0 Strict. W3C CSS Valid
+* Based on jQuery Mobile
+* Theme Roller compatible
+* Separate Config Settings
+* Works on most smartphones
+* Landscape/Portrait Support
+* Touch ContentSlider
+* Touch Image gallery
 
-Responsive Theme
+Themeable via the jQuery Mobile Theme Roller
 -----
 
-![][responsive]
+![][roller]
 
-RokMage Mobile is a responsive Magento theme. That means that there's no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
-
-This is achieved through @media queries - which can detect the width of the browser window, and allow for different CSS accordingly. It also detects if you are viewing from a mobile device, and if so, will display a mobile optimized version of our ProductView extension, complete with a product image gallery that can be browsed with touch slide gestures.
-
-There are 5 "breakpoints" for the template, each one optimized to display your products prominently, making sure that everyone can browse your store from whatever device they please, from mobiles up to widescreen desktops. For example, the menu system for a smartphone device will be that of a select-field (a select field is a great solution for this because most phones have nice native select UI elements), whilst desktops will get the full animated dropdown menu.
-
-RokMage Extensions
------
-
-![][rokmagelayout]
-
-RokMage Mobile utilizes 12 of our custom RokMage Magento extensions, which come fully integrated with the theme. Completely configurable from **Admin Panel**, via **System -> Configuration -> RT RokMage Modules**, these extensions allow you to easily arrange your store exactly how you wish - adding a vast amount of extra options not otherwise available - and giving you unprecedented control over the design of your store.
+Using the Theme Roller couldn't be easier - simply drag the colours from the box onto the sections of the swatches and you're done. Then simply download the theme, copy the contents of the minified css, and paste them into the style input in the config, and you're good to go!
 
 How to Install
 -----
@@ -115,8 +96,8 @@ If you wish to see the theme in a full store setting, you can download the RokMa
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
-[theme]: assets/theme.jpeg
+[theme]: assets/rokmage_mobile.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/3647-RokMage Mobile
+[roller]: assets/roller.jpg
+[download]: http://www.rockettheme.com/magento-downloads/club/2700-rokmagemobile
 [filezilla]: https://filezilla-project.org/download.php

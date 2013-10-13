@@ -11,7 +11,9 @@ Introduction
 
 ![][theme]
 
-Affinity, our 18th Magento theme release, is a beautifully constructed template with a three-dimensional style design to add depth to content, with our extensions adding focal points. It boasts 6 style variations, and our 12 RokMage extensions are seamlessly integrated into the design.
+Affinity, our second Magento Theme release, is meticulously crafted with a simple yet eye-catching homepage that's sure to draw customers in.
+
+The template's 6 wonderful preset styles - coupled with its many integrated extensions - are key to the design's appeal, offering an array of tools to refine your content. Affinity is suitable for any type of store, and with its plethora of admin options, can be easily configured to display your products exactly as needed. 
 
 Features
 -----
@@ -34,17 +36,6 @@ Features
 * FF4+, Opera 9.6, Safari 3, IE8, 9 Compatible
 * W3C XHTML 1.0 Strict. W3C CSS Valid
 
-Responsive Theme
------
-
-![][responsive]
-
-Affinity is a responsive Magento theme. That means that there's no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
-
-This is achieved through @media queries - which can detect the width of the browser window, and allow for different CSS accordingly. It also detects if you are viewing from a mobile device, and if so, will display a mobile optimized version of our ProductView extension, complete with a product image gallery that can be browsed with touch slide gestures.
-
-There are 5 "breakpoints" for the template, each one optimized to display your products prominently, making sure that everyone can browse your store from whatever device they please, from mobiles up to widescreen desktops. For example, the menu system for a smartphone device will be that of a select-field (a select field is a great solution for this because most phones have nice native select UI elements), whilst desktops will get the full animated dropdown menu.
-
 RokMage Extensions
 -----
 
@@ -55,7 +46,7 @@ Affinity utilizes 12 of our custom RokMage Magento extensions, which come fully 
 How to Install the Theme
 -----
 
-Installing the Cerulean theme is quick and easy to do. There are numerous ways to do it, but we'll outline the most common method(s) in this tutorial. We'll start with the process you'll likely want to go through if you are installing Cerulean on an existing Magento install.
+Installing the Affinity theme is quick and easy to do. There are numerous ways to do it, but we'll outline the most common method(s) in this tutorial. We'll start with the process you'll likely want to go through if you are installing Affinity on an existing Magento install.
 
 If you are setting up a new site/store and wish to have sample data (such as that present in our demo) you should consider downloading the RocketLauncher, instead. Details for that process can be found below.
 
@@ -67,13 +58,13 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Cerulean Theme** (**rt_cerulean_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Affinity Theme** (**rt_Affinity_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Cerulean Source PNG(s)** (**rt_cerulean_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Affinity Source PNG(s)** (**rt_Affinity_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
-All of these files can be found on the [Downloads page][download] associated with the theme.
+All of these files can be found on the [Downloads page][download] associated with the Affinity theme.
 
 ### Step 2: Set up RokMage Extension Settings
 
@@ -89,13 +80,13 @@ You can download the extension settings installer file from the template [downlo
 
 ### Step 3: Upload the Theme
 
-* Extract **rt_cerulean_m.zip**
+* Extract **rt_affinity_m.zip**
 * Open your FTP client ([FileZilla][filezilla] is a popular choice)
 * Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
 * Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
 * Go to **System -> Configuration**
 * Click the **Design** tab on the left
-* Under the **Package** heading, add `cerulean` as the **Current Package Name**
+* Under the **Package** heading, add `Affinity` as the **Current Package Name**
 * Under the **Themes** heading, add the word `default` as the **Layout**
 * Add `style1` (or which ever preset you prefer) as the **Skin** (Images / CSS), and save
 
@@ -108,20 +99,19 @@ If you are creating a fresh install and would like sample data included, you can
 
 ### Step 1: Unpack and Upload the RocketLauncher
 
-* Download the Cerulean RocketLauncher Package (**rt_cerulean_m-rocketlauncher.zip**) from the [Cerulean template downloads section][download].
-* Unzip the package on your computer to reveal the **rt_cerulean_m-rocketlauncher** folder.
+* Download the Affinity RocketLauncher Package (**rt_affinity_m-rocketlauncher.zip**) from the [Affinity template downloads section][download].
+* Unzip the package on your computer to reveal the **rt_affinity_m-rocketlauncher** folder.
 * Upload this to your server using a FTP client.
 
 >> NOTE: on some servers, you can upload the zip and extract the package directly onto your server using cPanel or SSH access. For more details on this, please contact your hosting provider.
 
 ### Step 2: Complete the Installation Process
 
-* Direct your browser to the installation (**for example, www.(your site).com/rt_cerulean_m-rocketlauncher**) URL.
+* Direct your browser to the installation (**for example, www.(your site).com/rt_affinity_m-rocketlauncher**) URL.
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
-[theme]: assets/theme.jpeg
+[theme]: assets/Affinity.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[responsive]: assets/MainResponsive.jpg
 [download]: http://www.rockettheme.com/magento-downloads/club/1786-affinity
 [filezilla]: https://filezilla-project.org/download.php
