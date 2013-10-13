@@ -36,7 +36,9 @@ iPhone|iPod|BlackBerry|Palm|Googlebot-Mobile|Mobile|mobile|mobi|Windows Mobile|S
 iPhone|iPod|BlackBerry|Palm|Googlebot-Mobile|Mobile|mobile|mobi|Windows Mobile|Safari Mobile|Android|Opera Mini
 ~~~
 
-* Enter `default` in each **Value** field in the **Themes** section.
+* Enter `default` in each **Value** field in the **Themes** section (pictured below).
+
+![][setup1]
 
 Now, you can go to the RokMage Mobile configuration page (under the **RT RokMage Modules** tab on the left) and edit your settings. 
 
@@ -605,3 +607,42 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
 ~~~
 
 >> If your theme uses its own Navigation file, you should add the above code to the end of that, instead.
+
+How to Create a Style using Theme Roller
+-----
+
+RokMage Mobile was built with the jQuery Mobile Framework. One of the main reasons for this was so we could integrate the Theme Roller to enable simple, lightning-fast customization. You simply need to make the style with the [Theme Roller][themeroller], download and unzip, open the minified css file and copy and paste the contents into the style input in the RokMage Mobile config. And that's it.
+
+![][style2]
+
+### Using the Theme Roller
+
+When you visit the Theme Roller site, you'll see 3 identical "swatches", marked A, B and C:
+
+![][style1]
+
+These correspond with different sections of the theme.
+
+| Swatch | Sections |
+| :----- | :------- |
+| A | Header, Footer, and Parent Category Navigation links |
+| B | Sub-categories of the navigation and Call to Action buttons (Add to Cart) | 
+| C | Product Lists, Product Info Pages, and all other pages |
+
+Simply drag and drop your colors from the top onto the different parts of the swatches, then download the theme and you're done. You can also have more control over the styling by adjusting the theme settings on the left. Here you can adjust things like the gradients used etc.
+
+To give an idea of how it will turn out, here's some examples:
+
+![][example1]
+
+![][example2]
+
+![][example3]
+
+[themeroller]: http://jquerymobile.com/themeroller/
+[style1]: assets/style_1.jpg
+[style2]: assets/style_2.jpg
+[setup1]: assets/setup_1.jpg
+[example1]: assets/rokmage_example_1.jpg
+[example2]: assets/rokmage_example_2.jpg
+[example3]: assets/rokmage_example_3.jpg
