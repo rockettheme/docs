@@ -1,13 +1,13 @@
 ---
 
-breadcrumb: /magento:Magento/!themes:Themes/!metropolis:Metropolis/
+breadcrumb: /magento:Magento/!themes:Themes/!Metropolis:Metropolis/
 
 ---
 
 * Metropolis
     * [Introduction](INDEX.md#introduction)
     * [Features](INDEX.md#features)
-    * [How to Install](INDEX.md#how-to-install)
+    * [How to Install](INDEX.md#how-to-install-the-theme)
         * [Theme](INDEX.md#step-1:-download-the-theme)
         * [RocketLauncher](INDEX.md#how-to-install-the-rocketlauncher)
     * [Recreate the Demo](demo.md)

@@ -52,12 +52,16 @@ RokMage Extensions
 
 Cerulean utilizes 12 of our custom RokMage Magento extensions, which come fully integrated with the theme. Completely configurable from **Admin Panel**, via **System -> Configuration -> RT RokMage Modules**, these extensions allow you to easily arrange your store exactly how you wish - adding a vast amount of extra options not otherwise available - and giving you unprecedented control over the design of your store.
 
-How to Install
+How to Install the Theme
 -----
 
 Installing the Cerulean theme is quick and easy to do. There are numerous ways to do it, but we'll outline the most common method(s) in this tutorial. We'll start with the process you'll likely want to go through if you are installing Cerulean on an existing Magento install.
 
+If you are setting up a new site/store and wish to have sample data (such as that present in our demo) you should consider downloading the RocketLauncher, instead. Details for that process can be found below.
+
 >> NOTE: We recommend backing up all of your data (including your database) prior to installing any new theme, extension, and/or making any changes to settings.
+
+These instructions include the possible application of an extension settings SQL installer file. We put a blank installer file in place in order to preserve your already-existing settings. If you wish to have our settings applied, and don't mind them overwriting any existing settings you've made, the instructions for doing this can be found on **Step 2**. You should swap the installer file out prior to uploading the theme (**Step 3**).
 
 ### Step 1: Download the Theme
 
@@ -71,22 +75,11 @@ There are other files that you may wish to download that accompany the release, 
 
 All of these files can be found on the [Downloads page][download] associated with the Cerulean theme.
 
-### Step 2: Upload the Theme
-
-* Extract **rt_cerulean_m.zip**
-* Open your FTP client ([FileZilla][filezilla] is a popular choice)
-* Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
-* Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
-* Go to **System -> Configuration**
-* Click the **Design** tab on the left
-* Under the **Package** heading, add cerulean as the Current Package Name
-* Under the **Themes** heading, add style (or which ever preset you prefer) as the Skin (Images / CSS), and save
-
-### Step 3: Set up RokMage Extension Settings
+### Step 2: Set up RokMage Extension Settings
 
 The integrated RokMage extensions are all included in the download zip. However, the configuration settings for each extension also make up part of the theme, as they control image sizes, layout options, animation settings, and so on. So, these changes also need to be added. 
 
-If you've set up a fresh Magento store (with or without sample data) and **have yet to start on any customization**, you can simply drop the extension settings SQL installer file (**mysql4-install-1.0.php**) into the **ExtensionSetup** module (**app/code/community/Rockettheme/ExtensionSetup/sql/extensionsetup_setup/**), replacing the dummy file that's currently there, and it will add the correct tables to your database, complete with the correct settings for each extension.
+If you've set up a fresh Magento store (with or without sample data) and **have yet to start on any customization**, you can simply drop the extension settings SQL installer file (**mysql4-install-1.0.php**) into the **ExtensionSetup** module (**app/code/community/Rockettheme/ExtensionSetup/sql/extensionsetup_setup/**), replacing the dummy file that's currently there. This will assign the optimal configuration settings for this theme.
 
 It will also automatically edit your CMS homepage to show the HomepageGrid extension, edit the other default CMS pages to use the correct RokMageLayout for the theme, and edit the footer menu CMS block to work within the FooterBlock extension. **Be sure to replace the installer file BEFORE you add the theme files to your Magento installation**, otherwise, the ExtensionSetup module will run with the dummy file in place.
 
@@ -94,10 +87,22 @@ You can download the extension settings installer file from the template [downlo
 
 >> NOTE: If you have already made customizations to your Magento store (CMS pages, store views, CMS blocks etc) or you have already installed the RokMage extensions with another theme and do not wish to lose your current settings, do NOT use this installer file. It will override your current setup. If you are comfortable dealing with SQL statements, you can edit the installer file to suit your needs. If not, you should add the extension settings manually through **Admin Panel -> Configuration**.
 
+### Step 3: Upload the Theme
+
+* Extract **rt_cerulean_m.zip**
+* Open your FTP client ([FileZilla][filezilla] is a popular choice)
+* Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
+* Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
+* Go to **System -> Configuration**
+* Click the **Design** tab on the left
+* Under the **Package** heading, add `cerulean` as the **Current Package Name**
+* Under the **Themes** heading, add the word `default` as the **Layout**
+* Add `style1` (or which ever preset you prefer) as the **Skin** (Images / CSS), and save
+
 How to Install the RocketLauncher
 -----
 
-If you wish to see the theme in a full store setting, you can download the Cerulean RocketLauncher. This will install a complete version of Magento, along with all template files and extensions, plus the Magento sample data.
+If you are creating a fresh install and would like sample data included, you can use our RocketLauncher. This will install a complete version of Magento, along with all template files and extensions, plus the Magento sample data. It's basically a copy of our demo site minus some of the more difficult to remove sample data (such as reviews). This was done to make the process a little easier.
 
 >> NOTE: Prior to starting installation, you need to to have a MySQL database created and active on your host. You'll be asked for information about this database during installation.
 

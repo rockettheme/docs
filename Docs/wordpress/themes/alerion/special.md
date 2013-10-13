@@ -1,7 +1,7 @@
 ---
 title: Alerion: Recreating the Demo: Special Features
-description: Your Guide to Recreating Elements of the Alerion Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/Alerion:Alerion
+description: Your Guide to Recreating Elements of the Alerion Template for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
 

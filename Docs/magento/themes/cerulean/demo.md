@@ -43,7 +43,7 @@ The **ModalHeader** module adds in some extra functionality to the header sectio
 #### Modal Window Animation Settings
 
 ~~~ .html
-overlayopacity: 0.2,overlayinspeed: 300,modalpreposition: {"top":"43%"},modalpauseb4entry: 200,modalentryanimation: {"top": "50%", "opacity": "1"},modalentryspeed: 550,modalexitanimation: {"top": "55%", "opacity": "0"},modalexitspeed: 350,pauseb4overlayfadeout: 500,overlayoutspeed: 200
+Animation settings: overlayopacity: 0.2,overlayinspeed: 300,modalpreposition: {"top":"43%"},modalpauseb4entry: 200,modalentryanimation: {"top": "50%", "opacity": "1"},modalentryspeed: 550,modalexitanimation: {"top": "55%", "opacity": "0"},modalexitspeed: 350,pauseb4overlayfadeout: 500,overlayoutspeed: 200
 ~~~
 
 ### MageMenus
@@ -71,7 +71,7 @@ Replace the default Magento dropdown menu with fully configurable, animated, jQu
 #### Top Menu Animation Settings
 
 ~~~ .html
-mm_slidedownspeed: 100,mm_fadeoutspeed: 50,mm_css_pre: {left: 100, opacity: 0 },mm_animatein: {left: 165, opacity: 1},mm_animateout: {opacity: 0, left: 185},mm_animate_speed: 150,mm_pause: 0
+Animation settings: mm_slidedownspeed: 100,mm_fadeoutspeed: 50,mm_css_pre: {left: 100, opacity: 0 },mm_animatein: {left: 165, opacity: 1},mm_animateout: {opacity: 0, left: 185},mm_animate_speed: 150,mm_pause: 0
 ~~~
 
 ### HomePage Grid
@@ -338,8 +338,6 @@ Enables the Tiny MCE editor for RokMage Extensions.
 | Option                                 | Setting                |  
 | :------------------------------------- | :--------------------- |  
 | Enable Tiny MCE for RokMage Extensions | Yes                    |  
-| 2nd Column Content                     | Highest Rated Products |  
-| 3rd Column Content                     | Featured Products List |  
 
 **Textareas to enable for**
 
