@@ -48,7 +48,7 @@ Currently, the Joomla requirements are as follows:
 | Nginx         | 1.0           |     1.1       |
 | Microsoft IIS | 7             | 7             |
 
-While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.0, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.0 which offer additional customization and enhanced usability.
+While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
 
 For users on a non-Microsoft server architecture, MSSQL will not appear under the database options during installation. Instead, you will be able to choose between PostgreSQL, MySQL, and MySQLi. MySQLi is the recommended database type for Joomla 3.x due to its native support and enhanced performance.
 
@@ -56,7 +56,7 @@ For users on a non-Microsoft server architecture, MSSQL will not appear under th
 There are several ways to install Joomla! Finding the right method for you depends on a number of factors, but we've listed some of the more common installation types below.
 
 #### One-Click Install
-Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.0 is newer and is being updated more regularly as bugs and other minor issues are ironed out.
+Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.x is newer and is being updated more regularly as bugs and other minor issues are ironed out.
 
 #### Conventional Install
 For most users, a conventional installation will work just fine. You'll need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.

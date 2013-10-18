@@ -5,13 +5,17 @@ breadcrumb: /joomla:Joomla/!platform:Platform/
 ---
 
 How to Install Joomla! 2.5
-===
+-----
+
 Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you're installing to a localhost or remote hosting environment.
 
 ### Technical Requirements
-Before installing Joomla, you should make sure that your server meets the minimum requirements for the Joomla release you wish to use. These requirements are made available on [Joomla.org](http://www.joomla.org/technical-requirements.html) and can be checked against your existing server version, PHP, and MySQL (or supported alternatives). For most users with remotely hosted sites, Cpanel provides this information on the left-hand sidebar.
+
+Before installing Joomla, you should make sure that your server meets the minimum requirements for the Joomla release you wish to use. These requirements are made available on [Joomla.org](http://www.joomla.org/technical-requirements.html) and can be verified against your existing server version, PHP, and MySQL (or supported alternatives). For most users with remotely hosted sites, Cpanel provides this information on the left-hand sidebar.
 
 Currently, the Joomla requirements are as follows:
+
+#### Joomla 2.5
 
 | Software      | Minimum       | Recommended |
 | :------------ |--------------:| ---------:  |
@@ -21,26 +25,31 @@ Currently, the Joomla requirements are as follows:
 | Nginx         | 1.0           |     1.1     |
 | Microsoft IIS | 7             | 7           |
 
-While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.0, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.0 which offer additional customization and enhanced usability.
+While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
 
 For users on a non-Microsoft server architecture, MSSQL will not appear under the database options during installation. Instead, you will be able to choose between PostgreSQL, MySQL, and MySQLi. MySQLi is the recommended database type for Joomla 3.x due to its native support and enhanced performance.
 
 ### Downloading and Installing
+
 There are several ways to install Joomla! Finding the right method for you depends on a number of factors, but we've listed some of the more common installation types below.
 
 #### One-Click Install
-Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.0 is newer and is being updated more regularly as bugs and other minor issues are ironed out.
+
+Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.x is newer and is being updated more regularly as bugs and other minor issues are ironed out.
 
 #### Conventional Install
+
 For most users, a conventional installation will work just fine. You'll need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
 
 Upon downloading Joomla 2.5 or 3.x, you'll need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
 
 #### RocketLauncher
+
 RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
 
 Joomla Web Installer for 2.5
 ----------------------------
+
 Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There are seven general steps that need to be completed before your site is ready to go.
 
 ![][installation_j25_1]
@@ -100,9 +109,9 @@ The next step involves FTP configuration. Don't panic, this isn't a vital step i
 
 The **Main Configuration** page is where you name your site (point 1) and set up your administrator account. Here, you can name your site and set up the meta description and keywords you wish to have search engines use to rank and list your content. You can also opt to have the site taken offline (login credentials required to view) while you work on it (point 2).
 
-You'll need to enter an email address, username, password, and a site name (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
+You'll need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
-At the bottom of the page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you've finished building your site, you can easily remove this sample data in favor of your own.
+At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you've finished building your site, you can easily remove this sample data in favor of your own.
 
 ![][installation_j25_7]
 

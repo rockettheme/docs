@@ -91,7 +91,7 @@ The next process is to install the **phpBB3 Authentictation Plugin**. Simply cli
 This new step adds some database indexes on the phpBB3 tables that improve performance especially with the new RokBridge modules.
 
 ### Step Six - phpBB3 Patch
-We've tried extremely hard to make this bridge as unintrusive as possible, however there are a couple of minor bugs in phpBB3 prior to 3.0.6 that require a minor code patch. This step modifies the phpBB3 functions.php and functions_admin.php files to fix these bugs. phpBB3's update mechanism will see this edit, and it will not cause a problem with future updates. We worked with the phpBB3 team to ensure these issues are resolved and do not require patching in versions 3.0.6 and greater.
+We've tried extremely hard to make this bridge as unintrusive as possible, however there are a couple of minor bugs in phpBB3 prior to 3.x.6 that require a minor code patch. This step modifies the phpBB3 functions.php and functions_admin.php files to fix these bugs. phpBB3's update mechanism will see this edit, and it will not cause a problem with future updates. We worked with the phpBB3 team to ensure these issues are resolved and do not require patching in versions 3.x.6 and greater.
 
 ![][rokbridge2]
 

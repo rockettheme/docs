@@ -27,7 +27,7 @@ Requirements
 
 Key Features
 -----
-* Joomla 2.5.x / 3.0.x Compatible
+* Joomla 2.5.x / 3.x.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 84 Module Positions

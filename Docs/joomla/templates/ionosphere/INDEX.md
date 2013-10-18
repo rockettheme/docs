@@ -27,7 +27,7 @@ Requirements
 
 Key Features
 -----
-* Joomla 2.5 / 3.0 Compatible
+* Joomla 2.5 / 3.x Compatible
 * 8 Preset Styles
 * 82 Module Positions
 * 10 Styled and 25 Structural Module Suffixes
