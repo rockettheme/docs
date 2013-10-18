@@ -15,7 +15,7 @@ Using this feature is fairly straightforward, and can be done with just about an
 
 ![][popup1]
 
-1. In your Administrator panel, navigate to **Extension → Template Manager** and select your default RocketTheme template.
+1. In your Administrator panel, navigate to **Extensions → Template Manager** and select your default RocketTheme template.
 
 2. In the **Features** tab, set the **Popup Panel** option to **On**.
 
@@ -23,7 +23,7 @@ Using this feature is fairly straightforward, and can be done with just about an
 
 4. **Save** your changes and close the **Template Manager**. 
 
-5. Navigate to **Extension → Module Manager** and create or select the module you wish to assign to a RokBox popup.
+5. Navigate to **Extensions → Module Manager** and create or select the module you wish to assign to a RokBox popup.
 
 6. Assign it to the `popup` module position.
 
