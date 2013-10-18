@@ -7,6 +7,7 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
 
 Managing Menu Items
 =========
+
 Joomla comes installed with the main menu created for you. This is the primary menu for your site, though you do have the ability to create as many new menus as you need, and not all of them have to appear anywhere on your site. Some menus can be hidden, and do little more than allow for your content to be displayed differently when linked outside of a menu module.
 
 Menus don't just link to different pages and URLs to your site. They are a determining factor in how contents and page styles are set. Each menu item has an alias that is used to create URLs which are understandable by humans and search engine friendly (SEF).
@@ -17,7 +18,8 @@ In this documentation, we'll explore what menus are and how to configure your ow
 
 How to Create a Menu
 ---------
-Creating a new menu is a fairly straightforward process. Whether you want this new menu to appear on the frontend of your site or not, you can create it fairly easily using the Administrator end of your Joomla site. 
+
+Creating a new menu is a fairly straightforward process. Whether you want this new menu to appear on the frontend of your site or not, you can create it fairly easily using the Administrator end of your Joomla site.
 
 ![][new_menu_1]
 

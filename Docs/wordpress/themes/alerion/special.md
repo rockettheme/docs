@@ -48,68 +48,68 @@ Parallax is apparent motion of a 3D object depending on your perspective. This e
 // Parallax Background Images (Please remove the following if you wish to use your own images)
 .contentstyle-preset1 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p1.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p1.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p1.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p1.png);
     }   
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p1.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p1.jpg);
     }   
 }
 .contentstyle-preset2 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p2.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p2.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p2.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p2.png);
     }      
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p2.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p2.jpg);
     }   
 }
 .contentstyle-preset3 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p3.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p3.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p3.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p3.png);
     }      
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p3.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p3.jpg);
     }   
 }
 .contentstyle-preset4 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p4.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p4.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p4.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p4.png);
     }      
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p4.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p4.jpg);
     }   
 }
 .contentstyle-preset5 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p5.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p5.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p5.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p5.png);
     }      
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p5.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p5.jpg);
     }   
 }
 .contentstyle-preset6 {
     #rt-top-surround {
-        background-image: url(../../../images/rocketlauncher/frontpage/showcase/showcase-bg-p6.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/showcase/showcase-bg-p6.jpg);
     }
     #rt-feature {
-        background-image: url(../../../images/rocketlauncher/frontpage/feature/feature-bg-p6.png);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/feature/feature-bg-p6.png);
     }      
     #rt-footer {
-        background-image: url(../../../images/rocketlauncher/frontpage/footer/footer-bg-p6.jpg);
+        background-image: url(../../../rockettheme/rt_alerion_wp/frontpage/footer/footer-bg-p6.jpg);
     }   
 }
 // End of Parallax Background Images

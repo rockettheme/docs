@@ -35,13 +35,13 @@ The Administrator interface gives you the ability to customize your site's layou
 An extension is anything that extends the functionality of your Joomla site. It's usually a software package you can install directly to your site using the Administrator Extension Manager tool. This could be anything that isn't included in the core Joomla platform. Templates, modules, plugins, and other components fall under this definition.
 
 #### What is a Module?
-Modules are extensions often used to enhance or otherwise add features and functionality to the frontend of your site. They're used for page rendering, and are often represented as areas of a page intended to perform a specific function or duty.
+Modules are extensions often used to enhance or otherwise add features and functionality to the frontend and/or backend of your site. They're used for page rendering, and are often represented as areas of a page intended to perform a specific function or duty.
 
 A login module may allow users to access their account within your Joomla site while a weather module displays the weather in the reader's area as a value-add to the page itself. Modules can take virtually any number of shapes and sizes, but they're typically placed within a specific position in the site's template.
 
-Modules can range from simple blocks of text to complex site components that display content from multiple sources and/or offer some level of control over the user experience to the visitor. You can assign modules to specific pages, or restrict their ability to display in various circumstances. They are flexible by nature and make up a key component in the overall Joomla framework.
+Modules can range from simple blocks of text to complex site components that display content from multiple sources and/or offer some level of control over the user experience to the visitor. You can assign modules to specific pages, or restrict their ability to display in various circumstances. They are flexible by nature and make up a key part of almost any Joomla site.
 
-Templates typically have module positions assigned in order to make assigning a specific module to a particular area of the page easier on the user. For example, assigning a module to position `Header 1` will place it in the upper-left area of the page, depending on the layout permitted by the theme. If you want to love the module to the bottom-right area of the page, you can assign it to a position that is located in that area.
+Templates typically have module positions assigned in order to make assigning a specific module to a particular area of the page easier on the user. For example, assigning a module to position `Header-A` will place it in the upper-left area of the page, depending on the layout permitted by the theme. If you want to love the module to the bottom-right area of the page, you can assign it to a position that is located in that area.
 
 The Gantry framework provides some added control over the positioning of modules within a Gantry-supported template. You can find out more about positioning modules here (link).
 
