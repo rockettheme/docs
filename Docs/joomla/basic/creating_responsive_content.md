@@ -25,7 +25,7 @@ Our responsive templates are only part of a properly-executed responsive site. Y
 There are two points we need to cover in order to create responsive images.
 
 #### Do Not Fix the Width and/or Height of Your Images
-First, you must not have fixed width and height attributed specified for any images placed on your site. A max width or height is fine, but locking any image in to a particular size will likely break your site's responsive features.
+First, you must not have fixed width and height attributes specified for any images placed on your site. A max width or height is fine, but locking any image in to a particular size will likely break your site's responsive features.
 
 Here's an example of an image set in a way that will break the responsive layout:
 
