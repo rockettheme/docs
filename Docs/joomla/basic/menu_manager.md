@@ -6,7 +6,7 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
 ---
 
 Managing Menu Items
-=========
+-----
 
 Joomla comes installed with the main menu created for you. This is the primary menu for your site, though you do have the ability to create as many new menus as you need, and not all of them have to appear anywhere on your site. Some menus can be hidden, and do little more than allow for your content to be displayed differently when linked outside of a menu module.
 
@@ -19,7 +19,7 @@ In this documentation, we'll explore what menus are and how to configure your ow
 How to Create a Menu
 ---------
 
-Creating a new menu is a fairly straightforward process. Whether you want this new menu to appear on the frontend of your site or not, you can create it fairly easily using the Administrator end of your Joomla site.
+Creating a new menu is a fairly straightforward process. Whether you want this new menu to appear on the frontend of your site or not, you can create it easily using the Administrator end of your Joomla site.
 
 ![][new_menu_1]
 
@@ -52,7 +52,7 @@ Once you've saved your new menu, it should appear in the **Menu Manager** (point
 
 Managing Your Menus
 ---------
-Proper menu management is important to making sure your site is well organized and efficient. It's easily to work yourself into a corner by creating redundant menus or find some of your modules out of order when the wrong option is changed.
+Proper menu management is important to make sure your site is well organized and efficient. It's easily to work yourself into a corner by creating redundant menus or find some of your modules out of order when the wrong option is changed.
 
 ![][new_menu_3]
 
@@ -76,7 +76,7 @@ Adding and Managing Menu Items
     
 The **Menu Items** area of the menu manager gives you the ability to view specific items within a particular menu. For menus with an extensive amount of individual items, you can filter what you see in this page using several different options (point 1).
 
-You can publish or unpublish particular menu items by either selecting the menu items and choosing **Publish** or **Unpublish** from the toolbar just below the Joomla logo, or by clicking the checkmark in the **Status** column cooresponding to the menu item you wish to modify.
+You can publish or unpublish particular menu items by either selecting the menu items and choosing **Publish** or **Unpublish** from the toolbar just below the Joomla logo, or by clicking the checkmark in the **Status** column corresponding to the menu item you wish to modify.
 
 You can also designate a particular menu item as the home page of your site. This page will be what appears when you visit the root of your site.
 
@@ -99,9 +99,9 @@ You can click any individual menu item's title to delve deeper into that particu
 
 The **Details** area of the menu item editor gives you access to the most commonly used options relating to a menu item. You can change virtually anything about the link from its behavior to the type of link it is.
 
-The **Menu Item Type** field (point 1) allows you to link a component, URL, alias, separator, or heading. 
+The **Menu Item Type** field (point 1) allows you to assign a menu item type. These types include (but are not limited to: URL, alias, separator, heading, etc. 
 
-The **Menu Title** field (point 2) sets the title given to the menu item on within the menu.
+The **Menu Title** field (point 2) sets the title given to the menu item within the menu.
 
 The **Alias** field (point 3) is used for search engine friendly (SEF) linking. Use this to modify the link for the menu item. 
 
@@ -121,7 +121,7 @@ The **Default Page** toggle (point 10) sets the menu item as your site's home pa
 
 If you want to set this particular menu item to a different template style, you can do so via the **Template Style** option (point 11).
 
-**Language** gives you the ability to switch between lanugages for individual menu items. This is useful if you have one area designated for Spanish while the rest of your site is in English.
+**Language** gives you the ability to switch between languages for individual menu items. This is useful if you have one area designated for Spanish while the rest of your site is in English.
 
 ![][menu_manager_4]
 
@@ -145,7 +145,7 @@ The first step to creating a menu module (beyond creating the menu) is to naviga
 
 :   1. **New** This button will initiate the creation of a module. [20%, 5%]
 
-Next, you'll need to create a new module for your menu. Think of the module has a box with which you can place any number of different things. In this case, you're building a box for a menu. Just hit the big green **New** button (point 1) to get started.
+Next, you'll need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you're building a box for a menu. Just hit the big green **New** button (point 1) to get started.
 
 ![][menu_module_3]
 
@@ -153,7 +153,7 @@ Next, you'll need to create a new module for your menu. Think of the module has 
 
 Creating a new menu module requires that you select either Menu (point 1) or an alternative menu extension (like [RokNavMenu][RokNavMenu]). 
 
-So far in this process, we've created a box and told Joomla what what type of material will appear in the box. In the next page, we'll tell Joomla which menu we'd like the box to display.
+So far in this process, we've created a box and told Joomla what type of material will appear in the box. In the next page, we'll tell Joomla which menu we'd like the box to display.
 
 ![][menu_module_4]
 
@@ -165,7 +165,7 @@ So far in this process, we've created a box and told Joomla what what type of ma
 
 The **Title** and **Show Title** options (point 1) allow you to give your module a name, and decide whether or not this name should be displayed on the frontend of your site. 
 
-The **Poisition** field (point 2) sets where on the assigned pages your menu module will appear. It's best to check the layout area in the **Template Manager** of your applicable template styles to make sure a position is active prior to setting it here. Otherwise, your module will not appear on the frontend, or may appear incorrectly.
+The **Position** field (point 2) sets where on the assigned pages your menu module will appear. It's best to check the layout area in the **Template Manager** of your applicable template styles to make sure a position is active prior to setting it here. Otherwise, your module will not appear on the frontend, or may appear incorrectly.
 
 The **Status** option (point 3) sets the publishing status for the module. If unpublished or trashed, it will not appear on the frontend of your site.
 
@@ -183,7 +183,7 @@ You can also assign a specific language to the module.
     4. **End Level** This indicates which menu level you would like the module to stop rendering after. [63%, 17%]
     5. **Show Sub-menu Items** This indicates if you want the full menu, including sub-menus, to appear in the module. [72%, 17%]
 
-The **Options** tab gives you access to basic and advanced options you can use to further customize how your menu module appears to visitors. This tab may be propogated with different options depending on if you go with the default menu module or an extension. For the purposes of this tutorial, the images you see here are generated with the default menu options.
+The **Options** tab gives you access to basic and advanced options you can use to further customize how your menu module appears to visitors. This tab may be propagated with different options depending on if you go with the default menu module or an extension. For the purposes of this tutorial, the images you see here are generated with the default menu options.
 
 The **Select Menu** option gives you the ability to assign a specific menu to the module.
 

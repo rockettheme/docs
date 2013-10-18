@@ -17,7 +17,7 @@ Adding Images to Articles
 
 :   1. **Editor** This button allows you to insert an image and modify the details of an existing one. [35%, 31%]
     2. **Image Button** This is the primary built-in image tool for Joomla. It gives you direct access to your media directory, as well as the ability to upload a new image without having to navigate away from the article editing page. [55%, 19%]
-    3. **Images and Links** Fields under **Images and Links** are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. This may not be supported by all templates. [69%, 20%]
+    3. **Images and Links** Fields under **Images and Links** are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. [69%, 20%]
 
 The little **image icon** (point 1) in the text editor is included and supported by the editor itself. Some editors (like TinyMCE pictured above) have very basic image insertion tools. Generally, this tool is used to modify an image that has already been inserted into an article by way of the Image button located below the main text field. 
 
@@ -25,7 +25,7 @@ The little **image icon** (point 1) in the text editor is included and supported
 
 The **Image button** (point 2) located below the main text field is the primary method most users insert images into their article. It gives you immediate access to the media folder as well as an upload option. You can set the image alignment, title, description, and caption using this option.
 
-Fields under **Images and links** (point 3) are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. This may not be supported by all templates.
+Fields under **Images and links** (point 3) are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself.
 
 ![][add_image_2]
 
@@ -36,15 +36,11 @@ Fields under **Images and links** (point 3) are used to set images in a place pr
 
 The **Images and Links** area of the article editing screen gives you the ability to add images in a way that is supported natively by various templates and modules. 
 
-In this instance, we're creating an article using the Alerion template made on Gantry Framework for Joomla. This template, and its supporting modules, support the Intro and Full Article image fields listed in this area below the main editing box.
-
 To insert an image into one of these preset fields, simply click the **Select** button (point 1) and choose your desired image from the media library that appears in the popup. You can alternatively upload a new image by scrolling down within that popup and using the upload tool.
-
-From there, you can set the **Image Float** option (point 2), though not all templates or modules will support this option.
 
 **Alt Text** (point 3) allows you to add text that appears in place of the image in cases where the image is unable to render. For instance, a blind visitor using a braille display may only be able to read what appears in this field.
 
-The **Caption** (point 4) is whatever you'd like to appear as a caption on the article. This, like **Image Float** depends on the template and/or module for support. It's likely that captions will appear when the Intro or Full Article image is in the body of an article, but not if it appears in a module.
+The **Caption** (point 4) is whatever you'd like to appear as a caption on the article.
 
 ![][add_image_3]
 

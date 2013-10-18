@@ -6,7 +6,8 @@ breadcrumb: /joomla:Joomla/!basic:Basic/
 ---
 
 Adding Content to Your Joomla Site
-=========
+-----
+
 An **article** is the most basic unit of content in Joomla. Articles make up the majority of the sheer content of most Joomla sites. They are often organized into article **categories**, which then can be used to assist in sorting, presenting, and syndicating specific types of articles differently. Categories can be nested within one-another, but no one category or article can exist within multiple separate categories.
 
 Let's say your site is all about recipes. You might have a recipe for pesto exist as a single article, but that article can be placed within the Sauce category which itself is in the Italian category. Your pesto article will appear as a result from queries made for either category. 
@@ -67,7 +68,7 @@ You are not limited by these fields to insert media and/or links into an article
     6. **Create Date** Determines which date the article will be listed as created. [68%, 22%, se]
     7. **Start/End Publishing** Determine a date you would like the article to start being published on your site, and/or determine an end date. [28%, 66%, se]
 
-The **Publishing Options** tab gives you access to options that relate directly to the publishing of your blog. You can set a search engine friendly (SEF) **alias** (point 2), check the database **ID** for the article (point 3), set a different **creator** name (point 4), or give the author an **alias** other than what appears on their profile (point 5). You can also modify the **creation date** (point 6) and set a specified **publishing date(s)** (point 7). 
+The **Publishing Options** tab gives you access to options that relate directly to the publishing of your article. You can set a search engine friendly (SEF) **alias** (point 2), check the database **ID** for the article (point 3), set a different **creator** name (point 4), or give the author an **alias** other than what appears on their profile (point 5). You can also modify the **creation date** (point 6) and set a specified **publishing date(s)** (point 7). 
 
 ![][article5]
 
@@ -79,7 +80,7 @@ The **Article Options** tab (point 1) gives you access to options that relate di
 
 :   1. **Configure Edit Screen** This tab gives you access to configuration options that relate to the article editing screen for the particular article. [17%, 46%, se]
 
-The **Configure Edit Screen** tab (point 1) gives you access to configuration options that relate to the article editing screen for the particular article. You can elect to hide publishing options, article options, images and links, and more.
+The **Configure Edit Screen** tab (point 1) gives you access to configuration options that relate to the article editing screen, **from the frontend**, for the particular article. You can elect to hide publishing options, article options, images and links, and more.
 
 ![][article7]
 
@@ -97,7 +98,7 @@ The **Metadata Options** tab (point 1) gives you access to the metadata options 
 
 :   1. **Article Permissions** [11%, 77%, se]
 
-This tab is where you set permission levels for other users. This is used to prevent unauthorized people from editing your article. Global permissions are on by default, though this can be configured independently.
+The **Article Permissions** tab (point 1) is where you set permission levels for other users. This is used to prevent unauthorized people from editing your article. Global permissions are on by default, though this can be configured independently.
 
 [article1]: assets/article_1.jpeg
 [article2]: assets/article_2.jpeg

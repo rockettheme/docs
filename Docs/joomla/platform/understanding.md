@@ -25,8 +25,6 @@ The Two Sides of Joomla
 ------
 Joomla isn't just a platform on which content  is displayed. It's also an incredible platform for site management and content creation. It's because of this dual-purpose nature of Joomla that much of its components are actually split between the visitors area of your site and the **Administrator** area.
 
-(image of frontend and backend interfaces, side-by-side)
-
 Each part of Joomla has its own template. This is due to the fact that both the visitor area and the administrative areas can be customized to meet the needs of visitors and site managers alike. There are a number of different Administrator interfaces out there for you to choose from, just as there are thousands of  Joomla frontend templates for you to pick from.
 
 The Administrator interface gives you the ability to customize your site's layout, create and manage content, upload extensions, and more. It's the primary control interface for the entire site, and as such should only be accessible by individuals you absolutely trust not to break or harm anything. This isn't a place for visitors. They're generally going to stick to the frontend for everything they need to do in your site, including potentially adding articles, making comments, or submitting answers to forms.

@@ -92,7 +92,9 @@ If you're using a pre-created database, you'll want to pay close attention to th
 :   1. **Install Sample Data** This option gives you some sample data to work from while building your site. Select the data type that works best for you, or none at all. [32%, 9%, ne]
     2. **Email Configuration** Do you want your installation configuration emailed to your administrator address? [80%, 9%, ne]
 
-The final installation page will go over your email address, confirm your database configuration, and alert you to any server-side settings which might conflict with the use of Joomla. You can see a detailed list of these settings and what they mean here (link). Only the settings listed under **Pre-Installation Check** are mandatory in order for Joomla to function properly.
+The final installation page will go over your email address, confirm your database configuration, and alert you to any server-side settings which might conflict with the use of Joomla. Only the settings listed under **Pre-Installation Check** are mandatory in order for Joomla to function properly.
+
+On this page, you can elect to install sample data which will populate your site with data intended to work as a guide during initial adjustments. This includes a few articles, categories, and a handful of sample images.
 
 ![][installation_joomla3x_4]
 

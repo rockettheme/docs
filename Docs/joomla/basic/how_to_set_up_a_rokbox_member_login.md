@@ -29,12 +29,6 @@ Here are the steps you'll want to take to set up the RokBox login for your site.
 
 7. **Save** your changes and publish the module.
 
-![][login2]
-
-You can also (optionally) elect to set the theme of your RokBox module to further enhance its appearance on your site.
-
-You can do this via Joomla Administrator by navigating to **Extensions → Plugin Manager → System - Rokbox** and setting the right-hand **Preset Themes** dropdown to `Clean`. Hit **Save** and check the site to make sure everything is published to your liking.
-
 [login1]: assets/login_1.jpeg
 [login2]: assets/login_2.jpeg
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
