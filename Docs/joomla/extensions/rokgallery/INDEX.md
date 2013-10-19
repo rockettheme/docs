@@ -52,7 +52,7 @@ Key Features
 * Ability to “love” an image
 * Image view counter
 * Details view for a particular image with full image information
-* Modules available include: Grid view and new Slideshow module with unique transition effects.
+* Modules available include: Grid view and Slideshow view with unique transition effects.
 
 How to install
 --------------
