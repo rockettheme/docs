@@ -109,7 +109,7 @@ What follows is not prefixed by any 'name' anymore. That means we are done with 
 
 Everything is exactly as in 'name' cell, except we have a new keyword, `-link`.
 
-NOTE: All the referenced cells allows HTML syntax, if instead of just plain "Firefox" (in the example above), we wanted a bold, red and italic "Firefox" (Firefox) this is how we would have written our cell: `name::padding-top:10px;|<strong style="color:red;"><em>Firefox</em></b>`
+NOTE: All the referenced cells allow HTML syntax, if instead of just plain "Firefox" (in the example above), we wanted a bold, red and italic "Firefox" (Firefox) this is how we would have written our cell: `name::padding-top:10px;|<strong style="color:red;"><em>Firefox</em></b>`
 
 [featured]: assets/rokintroscroller.jpeg
 [settings]: assets/wp_rokintroscroller_module.jpeg
