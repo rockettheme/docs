@@ -41,7 +41,7 @@ Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `rokfeaturetable.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
