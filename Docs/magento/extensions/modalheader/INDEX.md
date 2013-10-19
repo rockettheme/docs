@@ -1,8 +1,8 @@
 ---
-title: CategoryView
-description: Your Guide to the CategoryView Extension for Magento
+title: ModalHeader
+description: Your Guide to the ModalHeader Extension for Magento
 tags: [Extension, Plugin, RokMage, Requirements, Setup, Installation]
-breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
+breadcrumb: /magento:Magento/!extensions:Extensions/!modalheader:ModalHeader
 
 ---
 
@@ -11,20 +11,7 @@ Introduction
 
 ![][demo]
 
-The CategoryView module overrides the default category product-list template. It adds a few extra options that help to cut down on page loads, and clean up the layout. The most important change is how it handles switching between a grid layout and a list layout. Unlike the default template, which requires a page refresh to change between the two views, CategoryView uses JavaScript to make the switch.
-
-Instead of two separate pages being required, just to show some extra text, one page is loaded - with all of the product information available. When browsing via the grid mode, the product description is merely hidden, and then shown when the list mode is selected. All other changes are purely CSS. The chosen view is then stored in a cookie and applied to each new page viewed. From the admin configuration, you are able to define whether or not to truncate the titles and descriptions, and which view to use as default, grid, or list.
-
-Product Filter
------
-
-![][extension4]
-
-You can choose to use a jQuery accordion effect for the product filter in the sidebar.
-
-You can specify a custom title for the filter block if you wish. If left blank, the default **Filter Products By** title will be displayed.
-
->> NOTE: In order to use this feature, you must set **Is Anchor** to **Yes** in the category display settings.
+The ModalHeader module adds in some extra functionality to the header section of a Magento store. It connects the "Log In" link to a modal login form, and adds a text-resizer. It adds a modal shopping cart viewer, and adds styling to the search form and breadcrumbs. The modal window animation parameters can be tweaked from the admin config.
 
 Setup
 -----
@@ -35,45 +22,75 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension1]
 
-:	1. **Enable Category View** Sets whether you wish to enable or disable the Category View extension. [18%, 39%, se]
-	2. **Use 2 Column Layout** Allows you to choose between the default column layout or a two column layout. [24%, 39%, se]
-	3. **Truncate Product Titles/Descriptions** Toggles truncating for long product names and/or descriptions. [39%, 39%, se]
-	4. **Max Titles Length** If truncating is turned on, it'll set a maximum title length for each product. [53%, 39%, se]
-	5. **Max Descriptions Length** If truncating is turned on, it'll set a maximum description length for each product. [65%, 39%, se]
-	6. **Default Products Layout** Sets whether you'll have a grid or list layout type for products. [77%, 39%, se]
+:	1. **Enable Modal Header** Enables or disables the modal header module. [15%, 38%, se]
+	2. **Enable Custom Form Elements** Allows you to enable or disable the present of form elements in the modal header. [20%, 38%, se]
+	3. **Enable Custom Breadcrumbs** Enables or disables the custom breadcrumbs element. [24%, 38%, se]
+	4. **Build Title Spans** Allows you to build spans around the first word of titles for special styling. [29%, 38%, se]
+	5. **Classes to Build Spans for** Classes you want to have spans built for. [35%, 38%, se]
+	6. **Disable Modal Log In** Disables just the modal log in. [70%, 38%, se]
+	7. **Disable Modal Cart** Disables just the modal cart. [75%, 38%, se]
+	8. **Disable Text Resizer** Turns off the text resizer element in the header. [80%, 38%, se]
+	9. **Disable Date** Disables the date display in the header. [85%, 38%, se]
 
-1. **Enable Category View**: Sets whether you wish to enable or disable the Category View extension.
+1. **Enable Modal Header**: Enables or disables the modal header module.
 
-2. **Use 2 Column Layout**: Allows you to choose between the default column layout or a two column layout.
+2. **Enable Custom Form Elements**: Allows you to enable or disable the present of form elements in the modal header.
 
-3. **Truncate Product Titles/Descriptions**: Toggles truncating for long product names and/or descriptions.
+3. **Enable Custom Breadcrumbs**: Enables or disables the custom breadcrumbs element.
 
-4. **Max Titles Length**: If truncating is turned on, it'll set a maximum title length for each product.
+4. **Build Title Spans**: Allows you to build spans around the first word of titles for special styling.
 
-5. **Max Descriptions Length**: If truncating is turned on, it'll set a maximum description length for each product.
+5. **Classes to Build Spans for**: Classes you want to have spans built for.
 
-6. **Default Products Layout**: Sets whether you'll have a grid or list layout type for products.
+6. **Disable Modal Log In**: Disables just the modal log in.
+
+7. **Disable Modal Cart**: Disables just the modal cart.
+
+8. **Disable Text Resizer**: Turns off the text resizer element in the header.
+
+9. **Disable Date**: Disables the date display in the header.
 
 ![][extension2]
 
-:	1. **Use Accordion Effect** Enables or Disables the accordion effect in product lists. [28%, 39%, se]
-	2. **Product Filter Title** Sets the title you wish to appear above product category lists. [41%, 39%, se]
-	3. **Open First Accordion by Default** Allows you to set the first accordion to be open on page load. [60%, 39%, se]
+:	1. **Additional jQuery Scripts** This field enables you to add additional jQuery scripts before the body end. Use $j instead of $j (for noConflict mode). [15%, 39%, se]
+	2. **Additional CSS** Allows you to add any additional CSS elements. [52%, 39%, se]
 
-1. **Use Accordion Effect**: Enables or Disables the accordion effect in product lists. 
+1. **Additional jQuery Scripts**: This field enables you to add additional jQuery scripts before the body end. *Use $j instead of $j (for noConflict mode)*.
+2. **Additional CSS**: Allows you to add any additional CSS elements.
 
-2. **Product Filter Title**: Sets the title you wish to appear above product category lists.
+![][extension4]
 
-3. **Open First Accordion by Default**: Allows you to set the first accordion to be open on page load.
+:	1. **Animation Settings** This field contains jQuery variables for modal window animations. Supported variables are listed below. [25%, 39%, se]
+
+1. **Animation Settings**: This field contains jQuery variables for modal window animations. Supported variables are listed below.
+
+**Option Examples**
+
+* **overlayopacity**: 0.2 ⇒ Sets the opacity of the overlay window.
+* **overlayinspeed**: 300 ⇒ Sets the speed in which the overlay will appear.
+* **modalpreposition**: {"top":"43%"} ⇒ Sets the position of the modal window before it is visible.
+* **modalpauseb4entry**: 200 ⇒ Sets the pause before the modal window comes into view.
+* **modalentryanimation**: {"top": "50%", "opacity": "1"} ⇒ Defines the animation for the modal window coming into view.
+* **modalentryspeed**: 550 ⇒ Sets the speed for the modal window coming into view.
+* **modalexitanimation**: {"top": "55%", "opacity": "0"} ⇒ Defines the animation for the modal window going out of view.
+* **modalexitspeed**: 350 ⇒ Sets the speed for the modal window going out of view.
+* **pauseb4overlayfadeout**: 500 ⇒ Sets the pause before the overlay fades out, after the modal window is hidden.
+* **overlayoutspeed**: 200 ⇒ Sets the speed in which the overlay will disappear.
 
 ![][extension3]
 
-:	1. **Image Height** Sets the height (in pixels) of the category product images. [32%, 39%, se]
-	2. **Image Width** Sets the width (in pixels) of the category product images. [53%, 39%, se]
+:	1. **Add Classes for PIE** This field allows you to enter a comma separated list of IDs/classes to apply PIE.js to. [12%, 38%, se]
+	2. **Redirect IE6/7 Visitors** Enables IE6/7 redirection to the **Unsupported Browser** warning page. [42%, 38%, se]
+	3. **Load IE6/7 Helper Files** Enables or disables helper files and CSS/JavaScript fixes for sites that wish to continue IE 6/7 support. [52%, 38%, se]
+	4. **Add Classes for IE6 PNG Fix** This field allows you to enter a comma separated list of IDs/classes to apply the PNG fix to. [60%, 38%, se]
 
-1. **Image Height** Sets the height (in pixels) of the category product images.
+1. **Add Classes for PIE**: This field allows you to enter a comma separated list of IDs/classes to apply PIE.js to.
 
-2. **Image Width** Sets the width (in pixels) of the category product images.
+2. **Redirect IE6/7 Visitors**: Enables IE6/7 redirection to the **Unsupported Browser** warning page.
+
+3. **Load IE6/7 Helper Files**: Enables or disables helper files and CSS/JavaScript fixes for sites that wish to continue IE 6/7 support.
+
+4. **Add Classes for IE6 PNG Fix**: This field allows you to enter a comma separated list of IDs/classes to apply the PNG fix to.
 
 How to Install
 -----
@@ -99,4 +116,4 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg
 [extension4]: assets/extension_4.jpeg
-[demo]: assets/demo_categoryview.jpg
+[demo]: assets/demo_modalheader.jpeg
