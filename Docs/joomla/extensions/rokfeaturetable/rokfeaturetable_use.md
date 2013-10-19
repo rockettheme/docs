@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokfeaturetable:RokFeatureTable
 
 Module Options
 -----
-You can access RokFeatureTable's main module settings by navigating to **Admin -> Appearance -> modules -> RokFeatureTable**. Any changes you make here will be reflected in a single occurrence of the RokFeatureTable module on the frontend of your site.
+You can access RokFeatureTable's main module settings by navigating to **Administrator -> Extensions Manager -> Modules -> RokFeatureTable**. Any changes you make here will be reflected in a single occurrence of the RokFeatureTable module on the frontend of your site.
 
 ![][module1]
 
