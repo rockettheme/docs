@@ -54,7 +54,7 @@ You can access the table layout options via the module properties menu featured 
 
 Custom Templates
 -----
-Creating custom templates is very easy. You just need your favorite text editor and some knowledge on how the syntax is. Below an example of custom template that we are going to cover on all its aspects.
+Creating custom templates is very easy. You just need your favorite text editor and some knowledge on how the syntax is. Below is an example of a custom template that we are going to cover on all its aspects.
 
 ~~~ .html
 name::padding-top:10px;|Firefox
