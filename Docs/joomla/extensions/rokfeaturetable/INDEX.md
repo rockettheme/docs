@@ -27,7 +27,7 @@ Requirements
 RokFeatureTable has the following requirements in order to operate:
 
 * Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
-* Compatible Browser: Firefox 4+, Chrome, Safari, IE9+, Opera 
+* Compatible Browsers: Firefox 4+, Chrome, Safari, IE9+, Opera 
 
 >> Internet Explorer 7 and before are not supported. Internet Explorer 8 has limited functionality.
 
