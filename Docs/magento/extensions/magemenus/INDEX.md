@@ -1,8 +1,8 @@
 ---
-title: CategoryView
-description: Your Guide to the CategoryView Extension for Magento
+title: MageMenus
+description: Your Guide to the MageMenus Extension for Magento
 tags: [Extension, Plugin, RokMage, Requirements, Setup, Installation]
-breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
+breadcrumb: /magento:Magento/!extensions:Extensions/!magemenus:MageMenus
 
 ---
 
@@ -11,20 +11,26 @@ Introduction
 
 ![][demo]
 
-The CategoryView module overrides the default category product-list template. It adds a few extra options that help to cut down on page loads, and clean up the layout. The most important change is how it handles switching between a grid layout and a list layout. Unlike the default template, which requires a page refresh to change between the two views, CategoryView uses JavaScript to make the switch.
+The MageMenus module replaces the default Magento dropdown with a configurable jQuery based menu. It also gives you the option of having two side menus, one on the left and one on the right, which can also display links of your choice.
 
-Instead of two separate pages being required, just to show some extra text, one page is loaded - with all of the product information available. When browsing via the grid mode, the product description is merely hidden, and then shown when the list mode is selected. All other changes are purely CSS. The chosen view is then stored in a cookie and applied to each new page viewed. From the admin configuration, you are able to define whether or not to truncate the titles and descriptions, and which view to use as default, grid, or list.
+>> NOTE:  This extension overrides some core Magento files - if you have multiple store views, and do not wish to use the extension on a particular view, it should be disabled in the config for that store view, by going to **System -> Configuration -> RT RokMage Modules -> MageMenus** and setting **Enable Top Menu** to **No**. 
 
-Product Filter
+Top Menu
 -----
 
-![][extension4]
+From the admin configuration, you can set which items will appear in the top menu, and in which order. You have the choice of whether or not to display a 'Home' link, whether or not to include the catalog categories, which CMS pages to include, if any (up to a maximum of 6), and whether or not to include a 'Contact' link. 
 
-You can choose to use a jQuery accordion effect for the product filter in the sidebar.
+You can also specify "child" pages, to be shown in the dropdown sub-menus. These are added as a comma separated list of URL keys (with no spaces or trailing comma) below the main menu item you wish to be the parent. All menu animation settings can be tweaked in the config too.
 
-You can specify a custom title for the filter block if you wish. If left blank, the default **Filter Products By** title will be displayed.
+The options available are as follows:
 
->> NOTE: In order to use this feature, you must set **Is Anchor** to **Yes** in the category display settings.
+* **mm_slidedownspeed**: 250 ⇒ Sets the slide down speed of the 2nd level dropdown.
+* **mm_fadeoutspeed**: 150 ⇒ Sets the fade out speed of the 2nd level dropdown.
+* **mm_css_pre**: {left: 100, opacity: 0 } ⇒ Sets the position of 3rd level dropdown before it is visible.
+* **mm_animatein**: {left: 165, opacity: 1} ⇒ Defines the animation for the 3rd level dropdown coming into view.
+* **mm_animateout**: {opacity: 0, left: 180} ⇒ Defines the animation for the 3rd level dropdown going out of view.
+* **mm_animate_speed**: 200 ⇒ Sets the overal animation speed.
+* **mm_pause**: 200 ⇒ Sets the pause before the dropdown menu retreats on mouseout.
 
 Setup
 -----
@@ -75,6 +81,12 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 2. **Image Width** Sets the width (in pixels) of the category product images.
 
+![][extension4]
+
+![][extension5]
+
+![][extension6]
+
 How to Install
 -----
 
@@ -99,4 +111,6 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg
 [extension4]: assets/extension_4.jpeg
-[demo]: assets/demo_categoryview.jpg
+[extension5]: assets/extension_5.jpeg
+[extension6]: assets/extension_6.jpeg
+[demo]: assets/demo_magemenus.jpeg
