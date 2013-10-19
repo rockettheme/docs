@@ -55,7 +55,7 @@ The caption associated to the link that RokBox2 will show. This field takes simp
 
 >> NOTE: Extremely long captions might cause undesired results. The main goal of RokBox is to display images and other media formats. Try to keep the caption short and concise.
 
-More details on how Album works and how to use it can be [found here][data-rokbox-caption].
+More details on how Caption works and how to use it can be [found here][data-rokbox-caption].
 
 
 Content
