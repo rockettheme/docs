@@ -68,14 +68,14 @@ The first thing you'll need to do is [download][download] the latest version of 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `rokbox-2.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
 
-If everything worked properly you will get a success message notification. You can customize both plugins accessing from: `Extend -> Plug-in Manager`, where they are listed as **Content - RokBox** and **System - RokBox**.
+If everything worked properly you will get a success message notification. You can customize both plugins accessing from: `Extensions -> Plug-in Manager`, where they are listed as **Content - RokBox** and **System - RokBox**.
 
->> NOTE: RocketTheme packages do not require you to first uninstall and then install again. You can simply install and the package will determine if it requires to update your currently installed RokBox (whether is RokBox1 or RokBox2) or if it requires to update it.
+>> NOTE: RocketTheme packages do not require you to first uninstall and then install again. You can simply install and the package will determine if it requires to update your currently installed RokBox (whether it is RokBox1 or RokBox2) or if it requires to just install it.
 
 
 [featured]: assets/rokbox2-layout.png
