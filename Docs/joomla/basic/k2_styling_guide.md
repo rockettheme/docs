@@ -24,11 +24,11 @@ Once downloaded, you just need to follow the standard module installation proced
 
 Once installed a screen similar to the one pictured above should appear.
 
-The next step you'll want to take is actually activating K2. You can do this via the **Template Manager** by navigating to **Administrator -> Template Manager -> (Your Default RocketTheme Template) -> Advanced** and turning the **K2 Styling** option **On** (pictured below).
+The next step you'll want to take is actually activating K2. You can do this via the **Template Manager** by navigating to **Administrator -> Extensions -> Template Manager -> (Your Default RocketTheme Template) -> Advanced** and turning the **K2 Styling** option **On** (pictured below).
 
 ![][k21]
 
-You might also want to check to make sure the K2 extensions are individually activated by navigating to **Administrator -> Extension Manager -> Manage** and searching `k2`. There are about a dozen individual extensions that belong to K2 which should be activated in order to allow you to take full advantage of its features.
+You might also want to check to make sure the K2 extensions are individually activated by navigating to **Administrator -> Extensions Manager -> Manage** and searching `k2`. There are about a dozen individual extensions that belong to K2 which should be activated in order to allow you to take full advantage of its features.
 
 ### Setting K2 Image Parameters
 For the purpose of our demo sites, we do make one common modification in K2's image parameters in order to ensure that our content is displayed in a way that is both responsive and in-line with our style preferences.
