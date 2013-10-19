@@ -13,11 +13,11 @@ You can access RokFeatureTable's main module settings by navigating to **Adminis
 
 :   1. **Title** Sets the title for the RokFeatureTable module. This is not a required field. [28%, 69%, sw]
     2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [39%, 65%, sw]
-    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No. [50%, 57%, sw]
-    4. **Template Selection** RokFeatureTables has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [58%, 66%, sw]
+    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many Joomla templates. If you want to use your own, or if the template you are using supports a custom style, you might want to set this param to No. [50%, 57%, sw]
+    4. **Template Selection** RokFeatureTable has the ability to import predefined templates from both the plugins folder, or your theme. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [58%, 66%, sw]
     5. **Current Table Layout** This area of the menu sets the size and content of the feature table. It's the most important component of the module setup process. More details about this menu are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [73%, 69%, sw]
 
-1. **Title**: Sets the title for the RokFeatureTable module. This is not a required field.
+1. **Title**: Sets the title for the RokFeatureTable module.
 
 2. **Highlight Column**: This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to.
 
