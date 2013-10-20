@@ -103,7 +103,7 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery module can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
 
-For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag would appear in any module with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
+For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any module with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
 
 Using the **New Based On** button in the upper-right area of the Galleries Manager, you can create a new gallery based on the settings assigned to an existing gallery. This is especially useful if you're setting up a site with multiple individual RokGallery Modules, but wish to maintain the image, thumbnail, and other settings.
 
