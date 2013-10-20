@@ -47,7 +47,7 @@ On the image panes themselves, you can unpublish the individual image, go into t
 #### Tags
 ![][rokgallery_tags]
 
-The Tag popup gives you the ability to set tags (and assign a galleries) to an image. Because galleries are tag-based, you could add the tags for multiple galleries in order to have an image (or images) appear in multiple tag galleries.
+The Tag popup gives you the ability to set tags (and assign galleries) to an image. Because galleries are tag-based, you could add the tags for multiple galleries in order to have an image (or images) appear in multiple tag galleries.
 
 RokGallery uses a digital-negative approach to image management. This allows you to keep the original image intact while assigning a gallery tag (or tags) creates new copies of the image with the appropriate gallery-specific settings (width, height, cropping, etc.) so they work seamlessly with the specified gallery.
 
