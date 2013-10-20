@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokgallery:RokGallery
 
 RokGallery Administrator Overview
 -----
-RokGallery is a large extension that consists of several different parts, including: components, plugins, and modules. It's centrally controlled via the RokGallery component, and can be used to create gallery modules, which themselves can be managed independently.
+RokGallery is a large extension that consists of several different parts, including: the RokGallery component, two plugins and the RokGallery module. It's centrally controlled via the RokGallery component, and can be used to create gallery modules, which themselves can be managed independently.
 
 RokGallery enables you to create and manage galleries which can be used to sort and arrange photos you wish to have appear within your site. You can customize how and where various images are presented to visitors, and maintain full control over them through a single, centralized component.
 
@@ -40,9 +40,9 @@ RokGallery's Component Administrator is broken into two main areas.
 	* **Settings**: Gives you access to configuration for general aspects of RokGallery.
 	* **Upload**: This button opens a HTML5/Flash drag and drop image uploader.
 
-3. **Filters** have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row.
+3. **Filters** have a range of variables such as gallery, file type, published, etc. to allow you to filter your images for simple and efficient management. Statistics for the filters appear on the right-side of the row.
 
-One the image panes themselves, you can upublish the individual image, go into the [Image Editor][image_editing], delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
+On the image panes themselves, you can unpublish the individual image, go into the [Image Editor][image_editing], delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
 
 #### Tags
 ![][rokgallery_tags]
