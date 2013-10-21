@@ -1,8 +1,8 @@
 ---
-title: CategoryView
-description: Your Guide to the CategoryView Extension for Magento
+title: ProductScroller
+description: Your Guide to the ProductScroller Extension for Magento
 tags: [Extension, Plugin, RokMage, Requirements, Setup, Installation]
-breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
+breadcrumb: /magento:Magento/!extensions:Extensions/!productscroller:ProductScroller
 
 ---
 
@@ -11,20 +11,11 @@ Introduction
 
 ![][demo]
 
-The CategoryView module overrides the default category product-list template. It adds a few extra options that help to cut down on page loads, and clean up the layout. The most important change is how it handles switching between a grid layout and a list layout. Unlike the default template, which requires a page refresh to change between the two views, CategoryView uses JavaScript to make the switch.
+The ProductScroller module adds a scrollable product list to the home and category pages. The product scroller can be fully configured from the admin section. You can define how you want the **Next** and **Prev** buttons to function – either as **Next Page** buttons, or **Next Product** buttons. Next Page will scroll to the next full page of products, 4 products at a time (or more depending on how many products are shown per page – this is also definable, although you will also need to edit the CSS if you decide to change this value). Next Product will scroll one product at a time.
 
-Instead of two separate pages being required, just to show some extra text, one page is loaded - with all of the product information available. When browsing via the grid mode, the product description is merely hidden, and then shown when the list mode is selected. All other changes are purely CSS. The chosen view is then stored in a cookie and applied to each new page viewed. From the admin configuration, you are able to define whether or not to truncate the titles and descriptions, and which view to use as default, grid, or list.
+You can choose whether or not to truncate the product titles. This is useful if you have long product names that won't otherwise fit the product scroller design. You can also choose to enable the **Circular** plugin where you can have the scroller be on an infinite circlular loop, continually scrolling through the products, or else disable it and have it only scroll until the end of the product list and then stop, disabling the 'Next' button. You can also set the speed of the scrolling animation, and the number of products per scroller page.
 
-Product Filter
------
-
-![][extension4]
-
-You can choose to use a jQuery accordion effect for the product filter in the sidebar.
-
-You can specify a custom title for the filter block if you wish. If left blank, the default **Filter Products By** title will be displayed.
-
->> NOTE: In order to use this feature, you must set **Is Anchor** to **Yes** in the category display settings.
+>> NOTE: If you wish to use dynamically updating lists (﻿Best-Selling, Recently Added, Most Viewed, & Highest Rated﻿)﻿ you will need to disable the cache for **Blocks HTML output** by going to **System -> Cache Management** in the admin. If not, the lists won't be updated and the cached version will be displayed. 
 
 Setup
 -----
@@ -35,45 +26,81 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension1]
 
-:	1. **Enable Category View** Sets whether you wish to enable or disable the Category View extension. [18%, 39%, se]
-	2. **Use 2 Column Layout** Allows you to choose between the default column layout or a two column layout. [24%, 39%, se]
-	3. **Truncate Product Titles/Descriptions** Toggles truncating for long product names and/or descriptions. [39%, 39%, se]
-	4. **Max Titles Length** If truncating is turned on, it'll set a maximum title length for each product. [53%, 39%, se]
-	5. **Max Descriptions Length** If truncating is turned on, it'll set a maximum description length for each product. [65%, 39%, se]
-	6. **Default Products Layout** Sets whether you'll have a grid or list layout type for products. [77%, 39%, se]
+:	1. **Enable Homepage Scroller** Enables or disables the homepage scroller in the store view. [12%, 38%, se]
+	2. **Enable Category Scroller** Enables or disables the category scroller in the store view. [16%, 38%, se]
+	3. **Prev/Next Function** Sets the type of scrolling available. **PRODUCT** scrolls to the next product. **PAGE** scrolls to the next page of products. [20%, 38%, se]
+	4. **Enable Scroll Button Fade Animation** This allows you to enable or disable the fade animation that takes place when the prev/next function occurs. [27%, 38%, se]
+	5. **Truncate Product Titles** Truncates product titles that are too long for the current design. Useful when some products have long titles that would interfere with the aesthetics of the scroller. [33%, 38%, se]
+	6. **Max Titles Length** Sets the maximum length (in characters) for product titles in the scroller. [43%, 38%, se]
+	7. **Image Size** Sets the image size (in pixels) for product images. [51%, 38%, se]
+	8. **Speed** This is the speed of the scroller (in seconds) of product/page transitions. [59%, 38%, se]
+	9. **Circular** Allows you to choose whether or not the scroller will loop around indefinitely. [65%, 38%, se]
+	10. **Enable Autoscroll** Enables or disables autoscroll which will rotate between products and/or pages without user input. [72%, 38%, se]
+	11. **Autoscroll Interval** The interval (in seconds) between product/page scrolling when autoscroll is active. [78%, 38%, se]
+	12. **Products Per Page** This sets how many products will appear at one time in the scroller. CSS will need to be adjusted, also. [84%, 38%, se]
 
-1. **Enable Category View**: Sets whether you wish to enable or disable the Category View extension.
+1. **Enable Homepage Scroller** Enables or disables the homepage scroller in the store view.
 
-2. **Use 2 Column Layout**: Allows you to choose between the default column layout or a two column layout.
+2. **Enable Category Scroller** Enables or disables the category scroller in the store view.
 
-3. **Truncate Product Titles/Descriptions**: Toggles truncating for long product names and/or descriptions.
+3. **Prev/Next Function** Sets the type of scrolling available. **PRODUCT** scrolls to the next product. **PAGE** scrolls to the next page of products.
 
-4. **Max Titles Length**: If truncating is turned on, it'll set a maximum title length for each product.
+4. **Enable Scroll Button Fade Animation** This allows you to enable or disable the fade animation that takes place when the prev/next function occurs.
 
-5. **Max Descriptions Length**: If truncating is turned on, it'll set a maximum description length for each product.
+5. **Truncate Product Titles** Truncates product titles that are too long for the current design. Useful when some products have long titles that would interfere with the aesthetics of the scroller.
 
-6. **Default Products Layout**: Sets whether you'll have a grid or list layout type for products.
+6. **Max Titles Length** Sets the maximum length (in characters) for product titles in the scroller.
+
+7. **Image Size** Sets the image size (in pixels) for product images.
+
+8. **Speed** This is the speed of the scroller (in seconds) of product/page transitions.
+
+9. **Circular** Allows you to choose whether or not the scroller will loop around indefinitely.
+
+10. **Enable Autoscroll** Enables or disables autoscroll which will rotate between products and/or pages without user input.
+
+11. **Autoscroll Interval** The interval (in seconds) between product/page scrolling when autoscroll is active.
+
+12. **Products Per Page** This sets how many products will appear at one time in the scroller. CSS will need to be adjusted, also.
 
 ![][extension2]
 
-:	1. **Use Accordion Effect** Enables or Disables the accordion effect in product lists. [28%, 39%, se]
-	2. **Product Filter Title** Sets the title you wish to appear above product category lists. [41%, 39%, se]
-	3. **Open First Accordion by Default** Allows you to set the first accordion to be open on page load. [60%, 39%, se]
+:	1. **Use Tooltip for Details** Displays product details on an *on hover* tooltip. [20%, 39%, se]
+	2. **Use Tooltip Animations** If enabled, tooltips will animate in and out of view. [33%, 39%, se]
+	3. **Set Tooltip Offset** Sets the offset position of the tooltip. [47%, 39%, se]
+	4. **Disable Ribbons** Disables the corner announcement ribbon. [67%, 39%, se]
 
-1. **Use Accordion Effect**: Enables or Disables the accordion effect in product lists. 
+1. **Use Tooltip for Details**: Displays product details on an *on hover* tooltip.
 
-2. **Product Filter Title**: Sets the title you wish to appear above product category lists.
+2. **Use Tooltip Animations**: If enabled, tooltips will animate in and out of view.
 
-3. **Open First Accordion by Default**: Allows you to set the first accordion to be open on page load.
+3. **Set Tooltip Offset**: Sets the offset position of the tooltip.
+
+4. **Disable Ribbons**: Disables the corner announcement ribbon.
 
 ![][extension3]
 
-:	1. **Image Height** Sets the height (in pixels) of the category product images. [32%, 39%, se]
-	2. **Image Width** Sets the width (in pixels) of the category product images. [53%, 39%, se]
+:	1. **Number of Products** Determines the number of products show in the scroller. Leave blank to show all products. [27%, 39%, se]
+	2. **Filter Products By** Allows you to determine the default filtering rules for products in the scroller. [46%, 39%, se]
+	3. **Randomize Products** Displays products randomly within the scroller. [60%, 39%, se]
 
-1. **Image Height** Sets the height (in pixels) of the category product images.
+1. **Number of Products**: Determines the number of products show in the scroller. Leave blank to show all products.
 
-2. **Image Width** Sets the width (in pixels) of the category product images.
+2. **Filter Products By**: Allows you to determine the default filtering rules for products in the scroller.
+
+3. **Randomize Products**: Displays products randomly within the scroller.
+
+![][extension4]
+
+:	1. **Number of Products** Determines the number of products show in the scroller. Leave blank to show all products. [28%, 39%, se]
+	2. **Filter Products By** Allows you to determine the default filtering rules for products in the scroller. [48%, 39%, se]
+	3. **Randomize Products** Displays products randomly within the scroller. [60%, 39%, se]
+
+1. **Number of Products**: Determines the number of products show in the scroller. Leave blank to show all products.
+
+2. **Filter Products By**: Allows you to determine the default filtering rules for products in the scroller.
+
+3. **Randomize Products**: Displays products randomly within the scroller.
 
 How to Install
 -----
@@ -99,4 +126,5 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg
 [extension4]: assets/extension_4.jpeg
-[demo]: assets/demo_categoryview.jpg
+[demo]: assets/demo_productscroller.jpeg
+[demo2]: assets/demo_productscroller_2.jpeg
