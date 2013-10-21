@@ -29,13 +29,13 @@ Looking beyond Afterburner2, RokBooster can benefit just about any updated Jooml
 
 **Time**: The time, in milliseconds, for the page to finish loading all requests. In local tests, the template with RokBooster enabled is about 1/3 of a second.
 
-**Size**: The size, in kilobytes, of all requested item. Smaller file sizes lead to speedier loading. The necessary files have been optimized to reduce their overall footprint, for example, the logo is only 1.5KB, the only image file loaded by Afterburner2. With RokBooster enabled, the footprint is 173KB which is a significant reduction.
+**Size**: The size, in kilobytes, of all requested items. Smaller file sizes lead to speedier loading. The necessary files have been optimized to reduce their overall footprint, for example, the logo is only 1.5KB, the only image file loaded by Afterburner2. With RokBooster enabled, the footprint is 173KB which is a significant reduction.
 
 ### What Does RokBooster Do?
 
 RokBooster takes what would otherwise be a bulky and complex site and compresses it down to make it lighter and easier to serve. 
 
-Think of your site as a grocery store. All of the individual files that goes into it are items in that store. Your visitors will have a hard time shopping if they have to grab every item on the shelf with each trip. RokBooster acts like a shopping cart, making it possible to easily and quickly grab the items you need and get out the door. It groups useful data together from various different sources to make it easier for your browser to download and render.
+Think of your site as a grocery store. All of the individual files that go into it are items in that store. Your visitors will have a hard time shopping if they have to grab every item on the shelf with each trip. RokBooster acts like a shopping cart, making it possible to easily and quickly grab the items you need and get out the door. It groups useful data together from various different sources to make it easier for your browser to download and render.
 
 When you're working with a template that has many different built-in features, it could be pulling from a great deal of different CSS and JavaScript sources. This means your visitor's browsers are making many different independent requests which can drag down load times. 
 
@@ -84,19 +84,19 @@ Key Features
 * Option to ignore partial URLs and Paths for JS and CSS
 * Page-specific exemptions
 
->> NOTE: If your site's CSS goes blank when you activate RokBooster, there is a permission problem on your server. Please change the Cache File Permissions settings in Advanced.
+>> NOTE: If your site's CSS goes blank when you activate RokBooster, there is a permission problem on your server. Please change the Cache File Permissions settings in the Advanced settings inside the RokBooster plugin settings.
 
 How to install
 --------------
 Installing RokBooster takes just a matter of few minutes.
 
-The first thing you’ll need to do is [download][download] the latest version of RokBooster. The package you will download is a bundle containing all the required plugins to get RokBooster up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokBooster. The package you will download contains everything to get RokBooster up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `RokBooster.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
