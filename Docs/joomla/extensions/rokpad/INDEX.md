@@ -13,14 +13,14 @@ Ever wished you could use a powerful desktop text editor such as Textmate, Subli
 
 RokPad is not a WYSIWG editor, instead it's a powerful desktop-style editor for developers. With RokPad creating content becomes a pleasure not a chore.
 
-RokPad was created to meet the demands of the Team, a tool unrestricted by the limitations of the WYSIWYG editors, and something more advanced than simply using None. RokPad provides an medium for this, a balance between a useful interface and the unrestricted approach of code view. We at RocketTheme proudly build our content with RokPad.
+RokPad was created to meet the demands of the Team, a tool unrestricted by the limitations of the WYSIWYG editors, and something more advanced than simply using None. RokPad provides a medium for this, a balance between a useful interface and the unrestricted approach of code view. We at RocketTheme proudly build our content with RokPad.
 
 Requirements
 ------------
 RokPad has the following requirements in order to operate:
 
-* Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
-* Compatible Browser: Firefox 4+, Chrome, Safari, IE9+, Opera 
+* Joomla 2.5 or Joomla 3.x - ensure you are using the latest version
+* Compatible Browsers: Firefox 4+, Chrome, Safari, IE9+, Opera 
 
 >> Internet Explorer 7 and before are not supported. Internet Explorer 8 has limited functionality.
 
@@ -49,13 +49,13 @@ How to install
 --------------
 Installing RokPad takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokPad. The package you will download is a bundle containing all the required plugins to get RokPad up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `rokpad.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
@@ -73,7 +73,7 @@ If everything worked properly, you will get a notification indicating as much. Y
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
-### Set the RokPad as default Editor
+### Set RokPad as your default Editor
 ![][default]
 Go to **Site → Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
 
