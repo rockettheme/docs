@@ -10,7 +10,7 @@ Module Options
 
 Once you've created a new RokMiniEvents module, you can quickly gain access to its customization options by visiting **Administrator -> Extensions -> Module Manager** and selecting your RokMiniEvents module.
 
-Creating a new module is a simple process, as well. You need but to navigate to the **Module Manager** and select **New** on the toolbar in the upper-left area of the page.
+Creating a new module is a simple process, as well. You just navigate to the **Module Manager** and select **New** on the toolbar in the upper-left area of the page.
 
 Below, we've outlined the options available to you as you configure your RokMiniEvents module.
 
@@ -56,8 +56,8 @@ Below, we've outlined the options available to you as you configure your RokMini
 	3. **Ranges** Sets the Predefined Range of your display. [25%, 58%, sw]
 	4. **Show Description** Shows or Hides the description of a particular item. [34%, 48%, sw]
 	5. **Allowed HTML Tags** Sets the allowed HTML tags for the module. (default `a,i,br`) [37%, 58%, sw]
-	6. **Trim Description** This setting allows you to trim the description size using the following setting. [41%, 48%, sw]
-	7. **Trim Character Count** This number is the character account descriptions will be trimmed to. [45%, 49%, nw]
+	6. **Trim Description** This setting allows you to trim the description. [41%, 48%, sw]
+	7. **Trim Character Count** This number is the character count descriptions will be trimmed to. [45%, 49%, nw]
 	8. **Show Local Times** You can use this option to choose whether times are displayed in the visitor's timezone or a forced timezone. [48%, 68%, sw]
 	9. **Forced Timezone** The timezone you would have items display in, if elected. [52%, 70%, nw]
 	10. **Day Format** Sets the format by which the day is displayed. [55%, 47%, sw]
