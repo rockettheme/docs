@@ -29,7 +29,7 @@ How to install
 --------------
 Installing RokUpdater takes just a matter of few minutes. In most cases, RokUpdater will be included with supported extension packs. You can, however, opt to download and install RokUpdater independently in order to start using it with existing supported extensions.
 
-The first thing you’ll need to do is [download][download] the latest version of RokUpdater. The package you will download is a bundle containing all the required plugins to get RokUpdater up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokUpdater. The package you will download contains everything to get RokUpdater up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
