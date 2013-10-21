@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokajaxsearch:RokAjaxSearch
 
 Module Settings
 -----
-Getting to the primary RokAjaxSearch settings menu is a simple process. Once the module is created using the **New Module** tool in Joomla's **Module Manager**, you can select from a wide variety of options to refine its look and functionality.
+Getting to the primary RokAjaxSearch settings menu is a simple process. Once the module is created using the **New** button in Joomla's **Module Manager**, you can select from a wide variety of options to refine its look and functionality.
 
 ### Options
 The **Options** area of the greater RokAjaxSearch settings menu has a long list of different settings to choose from. This is where you set the module's look and determine how it will function. The options menu is split into several different subcategories in order to make navigation easier. You can choose different Basic, Style, Advanced, Google, and other settings to make RokAjaxSearch function in a way that fits your specific site's needs.
@@ -18,7 +18,7 @@ For the interest of this guide, we've broken the **Options** menu into several s
 
 :   1. **Search page URL** This field sets the relative path of your search page. [27%, 10%, se]
     2. **Advanced Search page URL** This field sets the relative path of your advanced search page. [33%, 10%, se]
-    3. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the template, you still need to set this to Yes for the styling to work. [46%, 10%, se]
+    3. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file in some of our templates, you may want to set this to No for the template specific styling to work. [46%, 10%, se]
     4. **Theme Style** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [55%, 10%, se]
     5. **Searchphrase** This option allows you to choose whether the phrase entered into the search bar is returned with any words, all words, or exact phrase matches. [68%, 10%, se]
     6. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [74%, 10%, se]
