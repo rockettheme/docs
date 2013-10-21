@@ -1,8 +1,8 @@
 ---
-title: CategoryView
-description: Your Guide to the CategoryView Extension for Magento
+title: HomepageGrid
+description: Your Guide to the HomepageGrid Extension for Magento
 tags: [Extension, Plugin, RokMage, Requirements, Setup, Installation]
-breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
+breadcrumb: /magento:Magento/!extensions:Extensions/!homepagegrid:HomepageGrid
 
 ---
 
@@ -11,20 +11,19 @@ Introduction
 
 ![][demo]
 
-The CategoryView module overrides the default category product-list template. It adds a few extra options that help to cut down on page loads, and clean up the layout. The most important change is how it handles switching between a grid layout and a list layout. Unlike the default template, which requires a page refresh to change between the two views, CategoryView uses JavaScript to make the switch.
+The **HomepageGrid** module adds the ability to set up your stores homepage with a few clicks. It adds an optional welcome message (depending on the template being used), and an optional product grid, showing a selection of products, all defined from the configuration section. Using the configuration section in the admin, it is possible to define how many products to show, whether to show as a list or a grid by default, and to decide how the products are filtered. You can choose from the following:
 
-Instead of two separate pages being required, just to show some extra text, one page is loaded - with all of the product information available. When browsing via the grid mode, the product description is merely hidden, and then shown when the list mode is selected. All other changes are purely CSS. The chosen view is then stored in a cookie and applied to each new page viewed. From the admin configuration, you are able to define whether or not to truncate the titles and descriptions, and which view to use as default, grid, or list.
+* Select Specific Products From List Below
+* Show All Products
+* Featured Products
+* Best Selling Products
+* Recently Added Products
+* Most Viewed Products
+* Highest Rated Products
 
-Product Filter
------
+>> NOTE: If you wish to use dynamically updating lists (﻿**Best-Selling**, **Recently Added**, **Most Viewed**, and **Highest Rated﻿**)﻿ you will need to disable the cache for **Blocks HTML output** by going to **System -> Cache Management** in the admin. If not, the lists won't be updated and the cached version will be displayed.
 
-![][extension4]
-
-You can choose to use a jQuery accordion effect for the product filter in the sidebar.
-
-You can specify a custom title for the filter block if you wish. If left blank, the default **Filter Products By** title will be displayed.
-
->> NOTE: In order to use this feature, you must set **Is Anchor** to **Yes** in the category display settings.
+If you choose to **Select Specific Products From List Below**, you can use the multi-select list to choose which products to show simply by clicking the products in the list whilst holding CTRL (or CMD if using a Mac). You can also choose to randomize the products or show them in the catalog order, whether to truncate titles and descriptions, and the size of the images to be used (the display size can also be affected by the CSS).
 
 Setup
 -----
@@ -35,45 +34,60 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension1]
 
-:	1. **Enable Category View** Sets whether you wish to enable or disable the Category View extension. [18%, 39%, se]
-	2. **Use 2 Column Layout** Allows you to choose between the default column layout or a two column layout. [24%, 39%, se]
-	3. **Truncate Product Titles/Descriptions** Toggles truncating for long product names and/or descriptions. [39%, 39%, se]
-	4. **Max Titles Length** If truncating is turned on, it'll set a maximum title length for each product. [53%, 39%, se]
-	5. **Max Descriptions Length** If truncating is turned on, it'll set a maximum description length for each product. [65%, 39%, se]
-	6. **Default Products Layout** Sets whether you'll have a grid or list layout type for products. [77%, 39%, se]
+:	1. **Enable Homepage Grid** Enables or disables the homepage grid. Instructions for how to enable the block from your CMS homepage are listed below the option. [32%, 39%, se]
 
-1. **Enable Category View**: Sets whether you wish to enable or disable the Category View extension.
-
-2. **Use 2 Column Layout**: Allows you to choose between the default column layout or a two column layout.
-
-3. **Truncate Product Titles/Descriptions**: Toggles truncating for long product names and/or descriptions.
-
-4. **Max Titles Length**: If truncating is turned on, it'll set a maximum title length for each product.
-
-5. **Max Descriptions Length**: If truncating is turned on, it'll set a maximum description length for each product.
-
-6. **Default Products Layout**: Sets whether you'll have a grid or list layout type for products.
+1. **Enable Homepage Grid**: Enables or disables the homepage grid. Instructions for how to enable the block from your CMS homepage are listed below the option.
 
 ![][extension2]
 
-:	1. **Use Accordion Effect** Enables or Disables the accordion effect in product lists. [28%, 39%, se]
-	2. **Product Filter Title** Sets the title you wish to appear above product category lists. [41%, 39%, se]
-	3. **Open First Accordion by Default** Allows you to set the first accordion to be open on page load. [60%, 39%, se]
+:	1. **Welcome Message** This field allows you to create a welcome message (if the template supports it) which appears to new visitors to the page. [14%, 38%, se]
+	2. **Product Grid Title** This field is where you set the title that appears over the Product Grid in the block. [46%, 38%, se]
+	3. **Product Grid Text** This field enables you to enter text which appears under the title within the block. [51%, 38%, se]
+	4. **Number of Products Shown** This field allows you to enter a numerical value for the number of products you wish to have appear within the grid in the block. [79%, 38%, se]
 
-1. **Use Accordion Effect**: Enables or Disables the accordion effect in product lists. 
+1. **Welcome Message**: This field allows you to create a welcome message (if the template supports it) which appears to new visitors to the page.
 
-2. **Product Filter Title**: Sets the title you wish to appear above product category lists.
+2. **Product Grid Title**: This field is where you set the title that appears over the Product Grid in the block.
 
-3. **Open First Accordion by Default**: Allows you to set the first accordion to be open on page load.
+3. **Product Grid Text**: This field enables you to enter text which appears under the title within the block.
+
+4. **Number of Products Shown**: This field allows you to enter a numerical value for the number of products you wish to have appear within the grid in the block.
 
 ![][extension3]
 
-:	1. **Image Height** Sets the height (in pixels) of the category product images. [32%, 39%, se]
-	2. **Image Width** Sets the width (in pixels) of the category product images. [53%, 39%, se]
+:	1. **Default Products Layout** Allows you to choose between a grid and list layout type for products. [9%, 37%, se]
+	2. **Filter Products By** Enables you to set the default filtering behavior for the module. [15%, 37%, se]
+	3. **Select Homepage List** Select your **Homepage** products from this list. You can hold ctrl and click to select multiple products (cmd and click on Mac). [21%, 37%, se]
+	4. **Randomize Products** When enabled, products are presented in a random order in the module. [55%, 37%, se]
+	5. **Truncate Product Titles/Descriptions** Enables truncating for long product names and/or descriptions. [65%, 37%, se]
+	6. **Max Titles Length** The maximum length (in characters) of a product title that will appear. [74%, 37%, se]
+	7. **Max Description Length** The maximum length (in characters) of a product description that will appear. [82%, 37%, se]
 
-1. **Image Height** Sets the height (in pixels) of the category product images.
+1. **Default Products Layout**: Allows you to choose between a grid and list layout type for products.
 
-2. **Image Width** Sets the width (in pixels) of the category product images.
+2. **Filter Products By**: Enables you to set the default filtering behavior for the module. 
+
+3. **Select Homepage List**: Select your **Homepage** products from this list. You can hold ctrl and click to select multiple products (cmd and click on Mac). 
+
+4. **Randomize Products**: When enabled, products are presented in a random order in the module. 
+
+5. **Truncate Product Titles/Descriptions**: Enables truncating for long product names and/or descriptions. 
+
+6. **Max Titles Length**: The maximum length (in characters) of a product title that will appear. 
+
+7. **Max Description Length**: The maximum length (in characters) of a product description that will appear. 
+
+![][extension4]
+
+:	1. **Image Height** Sets the height (in pixels) of a product image. [20%, 38%, se]
+	2. **Image Width** Sets the width (in pixels) of a product image. [43%, 38%, se]
+	3. **Disable Ribbons** Disables the corner announcement ribbon. [64%, 38%, se]
+
+1. **Image Height**: Sets the height (in pixels) of a product image.
+
+2. **Image Width**: Sets the width (in pixels) of a product image.
+
+3. **Disable Ribbons**: Disables the corner announcement ribbon.
 
 How to Install
 -----
@@ -99,4 +113,4 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg
 [extension4]: assets/extension_4.jpeg
-[demo]: assets/demo_categoryview.jpg
+[demo]: assets/demo_homepagegrid.jpg
