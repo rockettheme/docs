@@ -30,16 +30,16 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 5. The **Filtered Article List** gives you access to item-specific settings including:
 
     * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
-    * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introtext from the article is used. 
+    * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
     * **Tags** - Comma separated list of tags for filtering on the frontend.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
-7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the items. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
-Below the **Content Filter Rules** section are two options areas specific to the layout mode you've chosen. We've broken down the **Features Layout Options** and **Features Article Defaults** sections below.
+Below the **Content Filter Rules** section are two options areas specific to the layout mode you've chosen. We've broken down the **Mosaic Layout Options** and **Mosaic Article Defaults** sections below.
 
 ![][mosaic_2]
 
@@ -84,7 +84,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 13. **Default Article Image** determines which image field the module will default to when locating an image for the feature.
 
-14. **Default Link** determines which link field the module will default to when locating a link for the feature.
+14. **Default Link** determines which link field the module will default to when locating a link for the item.
 
 [mosaic]: assets/mosaic.jpeg
 [mosaic_link]: mosaic_mode.md
