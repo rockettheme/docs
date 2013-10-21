@@ -80,15 +80,15 @@ the oldest item will be loaded in the search result. There are a variety of opti
     4. **Show Category** Sets the content filter rules for the module. [59%, 13%, se]
     5. **Show Read More** Set whether the Read More link should be display. [73%, 13%, se]
 
-1. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [24%, 13%, se]
+1. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*.
 
-2. **Link to All Results**: Set to yes to show a link to all search results. [32%, 13%, se]
+2. **Link to All Results**: Set to yes to show a link to all search results.
 
-3. **Show Description**: Set to yes to show a description with each search result. [45%, 13%, se]
+3. **Show Description**: Set to yes to show a description with each search result.
 
-4. **Show Category**: Sets the content filter rules for the module. [59%, 13%, se]
+4. **Show Category**: Sets the content filter rules for the module.
 
-5. **Show Read More**: Set whether the Read More link should be display. [73%, 13%, se]
+5. **Show Read More**: Set whether the Read More link should be display.
 
 [featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch

@@ -33,7 +33,7 @@ Here's an example of an image set in a way that will break the responsive layout
 <img src="path/to/your/image.jpg" width="600" height="200" alt="image" />
 ~~~
 
-Doing this locks the image at 600px by 200px, regardless of the size of the screen used to view it. To combat this issue, we provide a custom class called `.rt-image1` which you can wrap your image in.
+Doing this locks the image at 600px by 200px, regardless of the size of the screen used to view it. To combat this issue, we provide a custom class called `.rt-image` which you can wrap your image in.
 
 ~~~
 <div class="rt-image">

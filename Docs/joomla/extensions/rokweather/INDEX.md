@@ -25,7 +25,7 @@ Key Features
 ------------
 * **Graphical Representation**: the module is packaged with images to showcase all types of weather from rain to sunshine
 * **Location Chooser**: click the current area and type your desired location and the module will show the appropriate weather, with both frontend and backend configuration options
-* **Temperature Units**: RokWeather has support for both the Fahrenheit and Celsius temperate scales
+* **Temperature Units**: RokWeather has support for both the Fahrenheit and Celsius temperature scales
 * **Forecast**: Up to 4 days worth of weather forecast (Maximum of 2 for Yahoo)
 * **Multiple Readings**: optional parameters to show humidity, wind speed and weather descriptions
 * **Cookie Control**: Options to configure whether a user's location is stored via a cookie or refreshed each time

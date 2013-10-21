@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
 
 Introduction
 -----
-K2 is a powerful content extension for Joomla, and we use it in our demo sites to enhance content management and presentation. While you can certainly run one of our themes without K2 installed, we choose to use it because it is a solid extension that provides a benefit to us.
+K2 is a powerful content extension for Joomla, and we use it in our demo sites to enhance content management and presentation. While you can certainly run one of our themes without K2 installed, we choose to support it because it is a solid extension that provides a benefit to many of our users.
 
 The philosophy behind K2 is to bring the best bits and pieces from WordPress and Drupal to Joomla. Where Joomla excels as a content management system (CMS), it does have points where it could be a little more user friendly, especially for someone migrating from another platform.
 
-While K2 might not completely replace Joomla's integrated article system for everyone, it does add a number of useful tidbits that can help you make the most of your site. Tagging, image management, comments, and other options picks up where Joomla leaves off with a powerfull full-featured article management solution. This is in addition to its user and media management enhancements.
+While K2 might not completely replace Joomla's integrated article system for everyone, it does add a number of useful tidbits that can help you make the most of your site. Tagging, image management, comments, and other options pick up where Joomla leaves off with a powerfull full-featured article management solution. This is in addition to its user and media management enhancements.
 
 Below, we'll detail exactly how we set up each of our Gantry-powered template demos using K2.
 
@@ -40,7 +40,7 @@ You can reach the K2 Parameters menu by navigating to **Administrator -> Compone
 As pictured above, we've set the image width maximum to 850 in all of the applicable fields. This allows our template's built-in responsive features to function in sync with K2.
 
 ### Creating a Category
-Creating categories in K2 works very similarly to the way you would do it in WordPress. You can create any number of categories and subcategories to meet a variety of article topics. For example, a food blog might have **Fruit** as a category and **Oranges** as a subcategory filled with recipes and tips about oranges.
+Creating categories in K2 works similarly to the way you would do it in WordPress. You can create any number of categories and subcategories to meet a variety of article topics. For example, a food blog might have **Fruit** as a category and **Oranges** as a subcategory filled with recipes and tips about oranges.
 
 To create a new category, you'll want to navigate to **Administrator -> Components -> K2 -> Categories** and select **New** from the options listed in the upper-right area of the K2 Categories screen. 
 

@@ -32,7 +32,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
     * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
     * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
     * **Tags** - Comma separated list of tags for filtering on the frontend.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
@@ -53,7 +53,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 78%, sw]
     9. **Ordering** Ordering options available to users on the frontend. [52%, 78%, sw]
     10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates. [62%, 44%, se]
-    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used. [73%, 42%, se]
+    11. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the articles' given titles are used. [73%, 42%, se]
     12. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 65%, sw]
     13. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 42%, se]
     14. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 65%, sw]
@@ -78,7 +78,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 10. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some templates.
 
-11. **Default Title** sets a default title for all articles in the module. If this selection is set at **Default Article Title**, then the article's given titles are used.
+11. **Default Title** sets a default title for all articles in the module. If this selection is set at **Default Article Title**, then the articles' given titles are used.
 
 12. **Default Article Text** allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used.
 

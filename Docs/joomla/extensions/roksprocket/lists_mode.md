@@ -32,7 +32,7 @@ Lists is a vertical display content mode, with accordion support. Here's a look 
     * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
     * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the display within the module. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
@@ -53,7 +53,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     9. **Autoplay** Sets whether you want the module to start rolling through lists automatically when the page loads, or to await a command from the visitor. [49%, 41%, se]
     10. **Autoplay Delay** Sets the amount of time between cycled lists in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [54%, 64%, sw]
     11. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [62%, 41%, se]
-    12. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the article's given titles are used. [73%, 65%, sw]
+    12. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [73%, 65%, sw]
     13. **Default Article Text** This field allows you to set default article text for all lists in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 41%, se]
     14. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 68%, sw]
     15. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 41%, se]
@@ -80,7 +80,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 11.  The **Image Resize** option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. This option is disabled by default, but can be used to fit a variety of templates which would benefit from this uniformity. In a responsive template, images will continue to expand or shrink based on the grid and browser window size.
 
-12.  You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used. 
+12.  You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the articles' given titles are used. 
 
 13.  The **Default Article Text** field allows you to set default article text for all lists in the module. If this is not changed from its default, then the article's introductory text is used. You can choose full text or to pull from the meta description for each article in this field.
 

@@ -7,6 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokfeaturetable:RokFeatureTable
 
 Module Options
 -----
+
 You can access RokFeatureTable's main module settings by navigating to **Administrator -> Extensions Manager -> Modules -> RokFeatureTable**. Any changes you make here will be reflected in a single occurrence of the RokFeatureTable module on the frontend of your site.
 
 ![][module1]
@@ -29,6 +30,7 @@ You can access RokFeatureTable's main module settings by navigating to **Adminis
 
 Table Layout
 -----
+
 You can access the table layout options via the module properties menu featured above. This tool allows you to create and fill your feature table with information that includes everything from basic text to custom CSS classes, subline text, links, and styles.
 
 ![][module2]
@@ -54,6 +56,7 @@ You can access the table layout options via the module properties menu featured 
 
 Custom Templates
 -----
+
 Creating custom templates is very easy. You just need your favorite text editor and some knowledge on how the syntax is. Below is an example of a custom template that we are going to cover on all its aspects.
 
 ~~~ .html

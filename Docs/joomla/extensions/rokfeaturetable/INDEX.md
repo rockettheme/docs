@@ -6,7 +6,8 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokfeaturetable:RokFeatureTable
 ---
 
 Introduction
-======
+-----
+
 ![][featured]
 
 RokFeatureTable offers a stylistic and user friendly solution for displaying tabular based data. It is perfect for price or product comparisons, or essentially, any type of data display that suits a matrix format.
@@ -33,6 +34,7 @@ RokFeatureTable has the following requirements in order to operate:
 
 How to install
 --------------
+
 Installing RokFeatureTable takes just a matter of few minutes.
 
 The first thing you'll need to do is [download][download] the latest version of RokFeatureTable. The package you will download is a bundle containing all the required plugins to get RokFeatureTable up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 

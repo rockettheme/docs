@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokweather:RokWeather
 Using RokWeather
 -----
 
-RokWeather is a highly configurable module that allows you to control the various aspects of its appearance and functions. Not only does this module configurable in the backend, but you can double-click the location from the frontend and change it without having to access the administrator account at all. This is a small, but useful function that users can take advantage of.
+RokWeather is a highly configurable module that allows you to control the various aspects of its appearance and functions. Not only is this module configurable in the backend, but you can double-click the location from the frontend and change it without having to access the administrator account at all. This is a small, but useful function that users can take advantage of.
 
 ### Basic Options
 

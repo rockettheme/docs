@@ -33,7 +33,7 @@ Features is a content slideshow/showcase layout mode. It can display both images
     * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
     * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introtext from the article is used. 
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
@@ -55,7 +55,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     10. **Autoplay** Sets whether you want the module to start rolling through features automatically when the page loads, or to await a command from the visitor. [52%, 52%, sw]
     11. **Autoplay Delay** Sets the amount of time between cycled features in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [56%, 42%, se]
     12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [64%, 43%, se]
-    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the article's given titles are used. [74%, 43%, se]
+    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [74%, 43%, se]
     14. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [79%, 65%, sw]
     15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [83%, 43%, se]
     16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 65%, sw]
@@ -84,7 +84,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 12.  The **Image Resize** option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. This option is disabled by default, but can be used to fit a variety of templates which would benefit from this uniformity. In a responsive template, images will continue to expand or shrink based on the grid and browser window size.
 
-13.  You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used. 
+13.  You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the articles' given titles are used. 
 
 14. The **Default Article Text** field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. You can choose full text or to pull from the meta description for each article in this field.
 

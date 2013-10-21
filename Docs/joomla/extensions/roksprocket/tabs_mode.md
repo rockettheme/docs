@@ -20,7 +20,7 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
     * **Tab Label** - By default, the article title is used as the tab label, though you can change it using this option.
     * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Icon** - This allows you to set an icon (generally a small, squared image) which will be placed next to the article title in the module.
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. This is the article introtext by default.
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. This is the article introtext by default.
 
 2. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
@@ -39,7 +39,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     7. **Image Resize** This option allows you to set a maximum width and/or height for the thumbnail. [46%, 43%, se]
     8. **Preview Length** This option sets the length (in words) of the content preview for each item. [52%, 73%, sw]
     9.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [57%, 49%, sw]
-    10. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the article's given titles are used.  [69%, 66%, sw]
+    10. **Default Title** You can set a default title for all articles from this field. If this selection is set at **Default Article Title**, then the articles' given titles are used.  [69%, 66%, sw]
     11. **Default Icon** Determines which image the module will default to when locating an icon for the tab. [74%, 43%, se]
     12. **Default Link** Determines which link field the module will default to when locating a link for the tab. [79%, 66%, sw]
     13. **Default Article Text** This field allows you to set default article text for all tab in the module. If this is not changed from its default, then the article's introductory text is used. [84%, 43%, se]
@@ -62,7 +62,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 9. **Strip HTML Tags**: Removes or preserves HTML tags in the description of an article.
 
-10. You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used.
+10. You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the articles' given titles are used.
 
 11. **Default Icon**: Determines which image the module will default to when locating an icon for the tab.
 

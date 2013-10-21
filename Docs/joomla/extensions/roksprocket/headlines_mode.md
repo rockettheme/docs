@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
 Headlines
 -----
 ![][headlines]
-Headlines is a content ticket layout mode. It can displays lines of text in succession.
+Headlines is a content ticker layout mode. It can displays lines of text in succession.
 
 ![][headlines_1]
 
@@ -30,7 +30,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
 
 5. The **Filtered Article List** gives you access to item-specific settings including:
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the headline. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
     * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the article is used. 
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
