@@ -21,7 +21,7 @@ For the interest of this guide, we've broken the **Options** menu into several s
     3. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file in some of our templates, you may want to set this to No for the template specific styling to work. [46%, 10%, se]
     4. **Theme Style** Only applicable if using a non-formatted template, but you can select between a Blue, Light or Dark theme for the search module. [55%, 10%, se]
     5. **Searchphrase** This option allows you to choose whether the phrase entered into the search bar is returned with any words, all words, or exact phrase matches. [68%, 10%, se]
-    6. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [74%, 10%, se]
+    6. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded first in the search result. There are a variety of options to chose from. [74%, 10%, se]
     7. **Limit** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [80%, 10%, se]
     8. **Results Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [86%, 10%, se]
 
