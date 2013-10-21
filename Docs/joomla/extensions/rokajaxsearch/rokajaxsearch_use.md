@@ -88,7 +88,7 @@ the oldest item will be loaded in the search result. There are a variety of opti
 
 4. **Show Category**: Sets the content filter rules for the module. [59%, 13%, se]
 
-5. **Show Read More**: Set whether the Read More link should be display. [73%, 13%, se]
+5. **Show Read More**: Set whether the Read More link should be displayed. [73%, 13%, se]
 
 [featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch
