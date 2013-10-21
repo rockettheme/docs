@@ -30,13 +30,13 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 5. The **Filtered Article List** gives you access to item-specific settings including:
     * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
-    * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introtext from the article is used. 
+    * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
-7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the items. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
 ![][strips_2]
 
