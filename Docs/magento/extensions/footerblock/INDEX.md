@@ -1,8 +1,8 @@
 ---
-title: CategoryView
-description: Your Guide to the CategoryView Extension for Magento
+title: FooterBlock
+description: Your Guide to the FooterBlock Extension for Magento
 tags: [Extension, Plugin, RokMage, Requirements, Setup, Installation]
-breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
+breadcrumb: /magento:Magento/!extensions:Extensions/!footerblock:FooterBlock
 
 ---
 
@@ -11,20 +11,13 @@ Introduction
 
 ![][demo]
 
-The CategoryView module overrides the default category product-list template. It adds a few extra options that help to cut down on page loads, and clean up the layout. The most important change is how it handles switching between a grid layout and a list layout. Unlike the default template, which requires a page refresh to change between the two views, CategoryView uses JavaScript to make the switch.
+The FooterBlock module overrides the default Magento footer with one configurable from the admin. It adds in three list columns and one text box (for disclaimers etc), in addition to styling the footer menu.
 
-Instead of two separate pages being required, just to show some extra text, one page is loaded - with all of the product information available. When browsing via the grid mode, the product description is merely hidden, and then shown when the list mode is selected. All other changes are purely CSS. The chosen view is then stored in a cookie and applied to each new page viewed. From the admin configuration, you are able to define whether or not to truncate the titles and descriptions, and which view to use as default, grid, or list.
+The 3 list columns can be configured from the admin to show a variety of different product lists. From the admin you can decide how many products to include in the lists, whether or not to truncate the titles, and whether to display them randomly or by catalog order (this only applies to Featured Products). 
 
-Product Filter
------
+Each column has its own configuration section. First, you can choose which product list to show. You can choose from: **Best-Selling**, **Featured Products**, **Recently Added**, **Most Viewed**, and **Highest Rated**. You also have the option of choosing **Custom Text** (input below) which allows you to add your own content in the space provided.
 
-![][extension4]
-
-You can choose to use a jQuery accordion effect for the product filter in the sidebar.
-
-You can specify a custom title for the filter block if you wish. If left blank, the default **Filter Products By** title will be displayed.
-
->> NOTE: In order to use this feature, you must set **Is Anchor** to **Yes** in the category display settings.
+>> NOTE:  If you wish to use dynamically updating lists (﻿Best-Selling, Recently Added, Most Viewed, & Highest Rated﻿)﻿ you will need to disable the cache for **Blocks HTML output** by going to **System -> Cache Management** in the admin. If not, the lists won't be updated and the cached version will be displayed. 
 
 Setup
 -----
@@ -35,45 +28,68 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension1]
 
-:	1. **Enable Category View** Sets whether you wish to enable or disable the Category View extension. [18%, 39%, se]
-	2. **Use 2 Column Layout** Allows you to choose between the default column layout or a two column layout. [24%, 39%, se]
-	3. **Truncate Product Titles/Descriptions** Toggles truncating for long product names and/or descriptions. [39%, 39%, se]
-	4. **Max Titles Length** If truncating is turned on, it'll set a maximum title length for each product. [53%, 39%, se]
-	5. **Max Descriptions Length** If truncating is turned on, it'll set a maximum description length for each product. [65%, 39%, se]
-	6. **Default Products Layout** Sets whether you'll have a grid or list layout type for products. [77%, 39%, se]
+:	1. **Enable Footer Block** Enables or disables the footer block module in the store view. [20%, 39%, se]
+	2. **Number of Items in Lists** Sets the number of items that appear in the list columns. [26%, 39%, se]
+	3. **Truncate Product Titles** Truncates long product titles so they fit in the block. [32%, 39%, se]
+	4. **Max Titles Length** Sets the maximum length (in characters) of titles that appear in the footer. [45%, 39%, se]
+	5. **Randomize Products** Randomizes products that appear in the footer with each page load. [59%, 39%, se]
+	6. **Show Recently Viewed in Footer** Shows recently viewed products in the footer. This is a useful tool when you want to encourage buyers that may be thinking about a product they viewed previously. [72%, 39%, se]
 
-1. **Enable Category View**: Sets whether you wish to enable or disable the Category View extension.
+1. **Enable Footer Block**: Enables or disables the footer block module in the store view.
 
-2. **Use 2 Column Layout**: Allows you to choose between the default column layout or a two column layout.
+2. **Number of Items in Lists**: Sets the number of items that appear in the list columns.
 
-3. **Truncate Product Titles/Descriptions**: Toggles truncating for long product names and/or descriptions.
+3. **Truncate Product Titles**: Truncates long product titles so they fit in the block.
 
-4. **Max Titles Length**: If truncating is turned on, it'll set a maximum title length for each product.
+4. **Max Titles Length**: Sets the maximum length (in characters) of titles that appear in the footer.
 
-5. **Max Descriptions Length**: If truncating is turned on, it'll set a maximum description length for each product.
+5. **Randomize Products**: Randomizes products that appear in the footer with each page load.
 
-6. **Default Products Layout**: Sets whether you'll have a grid or list layout type for products.
+6. **Show Recently Viewed in Footer**: Shows recently viewed products in the footer. This is a useful tool when you want to encourage buyers that may be thinking about a product they viewed previously.
 
 ![][extension2]
 
-:	1. **Use Accordion Effect** Enables or Disables the accordion effect in product lists. [28%, 39%, se]
-	2. **Product Filter Title** Sets the title you wish to appear above product category lists. [41%, 39%, se]
-	3. **Open First Accordion by Default** Allows you to set the first accordion to be open on page load. [60%, 39%, se]
+:	1. **Column Content** Sets the type of content that appears in the column. [23%, 39%, se]
+	2. **Column Custom Text** Allows you to enter a block of text that appears in the column. [30%, 39%, se]
+	3. **Column Cms Block** Select a CMS block to include in custom content. [74%, 39%, se]
 
-1. **Use Accordion Effect**: Enables or Disables the accordion effect in product lists. 
+These options remain constant throughout all of the column settings (1st, 2nd, 3rd).
 
-2. **Product Filter Title**: Sets the title you wish to appear above product category lists.
+1. **Column Content**: Sets the type of content that appears in the column.
 
-3. **Open First Accordion by Default**: Allows you to set the first accordion to be open on page load.
+2. **Column Custom Text**: Allows you to enter a block of text that appears in the column.
+
+3. **Column Cms Block**: Select a CMS block to include in custom content.
 
 ![][extension3]
 
-:	1. **Image Height** Sets the height (in pixels) of the category product images. [32%, 39%, se]
-	2. **Image Width** Sets the width (in pixels) of the category product images. [53%, 39%, se]
+:	1. **Text Box Content** Allows you to enter text to appear in the text box. This can include HTML for a more refined look. [8%, 38%, se]
+	2. **Text Box Column Cms Block** Select a CMS block to include in the text box. Select **Disabled** for none. [30%, 38%, se]
+	3. **Footer CMS Links** You can slect CMS page links to show in the footer by choosing them from this list. [35%, 38%, se]
+	4. **Include 'Cart' Link** Includes a link to the cart. [62%, 38%, se]
+	5. **Include 'Sitemap' Link** Includes a link to the sitemap. [68%, 38%, se]
+	6. **Include 'Search Terms' Link** Includes a link to the Search Terms page. [73%, 38%, se]
+	7. **Include 'Advanced Search' Link** Includes a link to the Advanced Search page. [78%, 38%, se]
+	8. **Include 'Contact Us' Link** Includes a link to the Contact page. [83%, 38%, se]
+	9. **Disable Footer Logo** Disables or enables the presence of the logo in the footer. [88%, 38%, se]
 
-1. **Image Height** Sets the height (in pixels) of the category product images.
+1. **Text Box Content** Allows you to enter text to appear in the text box. This can include HTML for a more refined look
 
-2. **Image Width** Sets the width (in pixels) of the category product images.
+2. **Text Box Column Cms Block** Select a CMS block to include in the text box. Select **Disabled** for none.
+
+3. **Footer CMS Links** You can slect CMS page links to show in the footer by choosing them from this list.
+
+4. **Include 'Cart' Link** Includes a link to the cart.
+
+5. **Include 'Sitemap' Link** Includes a link to the sitemap.
+
+6. **Include 'Search Terms' Link** Includes a link to the Search Terms page.
+
+7. **Include 'Advanced Search' Link** Includes a link to the Advanced Search page.
+
+8. **Include 'Contact Us' Link** Includes a link to the Contact page.
+
+9. **Disable Footer Logo** Disables or enables the presence of the logo in the footer.
 
 How to Install
 -----
@@ -99,4 +115,4 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg
 [extension4]: assets/extension_4.jpeg
-[demo]: assets/demo_categoryview.jpg
+[demo]: assets/demo_footerblock.jpeg
