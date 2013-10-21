@@ -32,7 +32,7 @@ RokWeather is a highly configurable module that allows you to control the variou
 ![][options2]
 
 :   1. **Default Degree Type** Choose between degree Celsius or Fahrenheit for the default temperature reading. [14%, 62%, se]
-    2. **User interaction** This parameter allows to disable user interaction so they cannot change the location and weather data. [22%, 62%, se]
+    2. **User interaction** This parameter allows you to disable user interaction so visitors of your site cannot change the location and weather data on frontend. [22%, 62%, se]
     3. **Enable Units Switch** This option allows you to configure whether the Celsius/Fahrenheit switch is displayed. [31%, 62%, se]
     4. **Enable Location Cookie** A cookie is created when a user enters a location which will be stored for when the user visits again. This option allows you to disable the setting of a cookie, and therefore, the default location will be shown on each refresh. [40%, 62%, se]
     5. **Enable Icon Display** Determine whether or not the weather icon displays in the top left of the module. [48%, 62%, se]
