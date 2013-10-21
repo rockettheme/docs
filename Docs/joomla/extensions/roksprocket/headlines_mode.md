@@ -74,7 +74,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
 
 11. **Default Article Image** determines which image field the module will default to when locating an image for the feature. 
 
-12. **Default Link** determines which link field the module will default to when locating a link for the feature. 
+12. **Default Link** determines which link field the module will default to when locating a link for the headline. 
 
 [headlines]: assets/headlines.jpeg
 [headlines_link]: headlines_mode.md
