@@ -44,7 +44,7 @@ Administrator Options
 
 6. **Ordering** gives you the ability to set the ordering for the module. 
 
-7. **Start Publishing** determines when the module should be published on your site. This is useful in cases where you want to have the module appear at specific times of the day. For RokStock, this might be during business hours, or when the market is open.
+7. **Start Publishing** determines the start date/time when the module should be published on your site.
 
 8. You can use **Finish Publishing** to set an end date/time for your module to appear on the frontend.
 
@@ -62,7 +62,7 @@ Administrator Options
     5. **Open links in new page** You can set this parameter to define whether the stock information page should be opened in a new window or the same window, when the user click on the stock index title. [54%, 32%, se]
     6. **Show main chart** At the top of the module you can see the graphic chart. When enable, the module will display the graphic chart.  [62%, 32%, se]
     7. **Tooltips Details** If this parameter is enabled, when the users hovers over the stock index title, it will show its details. [71%, 32%, se]
-    8. **Tooltips time axis hours** This is the parameter controls whether the time format, that appears via tooltips, is in the 12h or the 24hr format. [79%, 32%, se]
+    8. **Tooltips time axis hours** This parameter controls whether the time format, that appears via tooltips, is in the 12h or the 24hr format. [79%, 32%, se]
 
 RokStock is a highly configurable module that allows you to control the various aspects of its appearance and functions. Details of each options are as follows:-
 
