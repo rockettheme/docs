@@ -41,7 +41,7 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 
 6. **Ordering** gives you the ability to set the ordering for the module. 
 
-7. **Start Publishing** determines when the module should be published on your site. This is useful in cases where you want to have the module appear at specific times of the day. 
+7. **Start Publishing** determines the start date/time when the module should be published on your site. 
 
 8. You can use **Finish Publishing** to set an end date/time for your module to appear on the frontend.
 
