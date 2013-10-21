@@ -5,8 +5,8 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 
-#### How do inject a RokSprocket Module into an article?
-Injecting a RokSprocket module into an article is a fairy easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in the administrator module manager.
+#### How to inject a RokSprocket Module into an article?
+Injecting a RokSprocket module into an article is a fairly easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in the administrator module manager.
 
 ![][module_1]
 
