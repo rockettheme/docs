@@ -117,7 +117,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions → 
 
 1. **Debug Log Location** displays the link to the debug log. May appear as **Unavailable** if no log has yet been generated.
 
-2. **Debut Log Level** sets the level of information in the debug logs.
+2. **Debug Log Level** sets the level of information in the debug logs.
 
 [rokbooster_setup_1]: assets/rokbooster_setup_1.jpeg
 [rokbooster_setup_2]: assets/rokbooster_setup_2.jpeg
