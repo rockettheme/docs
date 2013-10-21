@@ -23,7 +23,7 @@ RokWeather is a highly configurable module that allows you to control the variou
 
 2. **Default Location**: Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO.
 
->> Some locations may return as invalid, although available on the respective sources due to limitations in their APIs, not RokWeather.
+    >> Some locations may return as invalid, although available on the respective sources due to limitations in their APIs, not RokWeather.
 
 3. **Location Display Override**: This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town.
 

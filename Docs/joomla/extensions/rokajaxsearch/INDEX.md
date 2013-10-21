@@ -36,14 +36,7 @@ The first thing you’ll need to do is [download][download] the latest version o
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5:
-
-* Select from the top menu: `Extensions -> Extension Manager -> Install`
-* Click on Upload Package File **Choose File** button
-* Select the `rokajaxsearch.zip` that you just downloaded from your local drive.
-* Click the **Upload & Install** button.
-
-From Joomla 3.x:
+From Joomla 2.5 and 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
