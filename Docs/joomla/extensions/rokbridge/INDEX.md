@@ -33,7 +33,7 @@ Key Features
 * Powerful Joomla modules: Login, Latest Posts, Latest Members, Top Members, Online Members
 * Uses Joomla authenticator and user synchronization system, which will allow for authentication via plugins such as openID, ldap, gmail, etc...
 * Bi-directional syncing of registrations in either Joomla or phpBB3
-* Sychronization of profile data
+* Synchronization of profile data
 * Very little performance overhead compared to traditional bridges
 * No Joomla or phpBB3 hacks required
 * Joomla SEF capabilities trickle down to bridged forum
@@ -42,16 +42,16 @@ How to Install
 --------------
 >> NOTE: If you have installed a previous version of the bridge prior to 1.0RC6, you should first remove the phpBB3 User and phpBB3 Authentication plugins from your Joomla install. The new component will fail to install properly unless these two plugins are removed cleanly.
 
-**Important**: As of **1.0RC14**, all modules are included in the installer package with an existing installation all previous installed rokbridge modules as member, latest posts and login module must be removed.
+**Important**: As of **1.0RC14**, all modules are included in the installer package. With an existing installation all previous installed rokbridge modules as member, latest posts and login module must be removed.
 
 #### Step One - Package Installation
-The first thing you’ll need to do is [download][download] the latest version of RokBridge. The package you will download is a bundle containing all the required plugins to get RokBridge up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokBridge. The package you will download contains everything to get RokBridge up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `rokbridge.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
@@ -80,9 +80,9 @@ To install the bridge in this location you have just chosen, simply click on the
 >> NOTE: The RokBridge installer will create the bridge directory. The bridge cannot be installed into a pre-existing directory.
 
 ### Step Three - phpBB3 Installation
-By default the phpBB3 path is set to `distribution`, but you can change this to any location you want for you phpBB3 installation. If you have phpBB3 previously installed (NOTE: must be under the Joomla directory), you can change the **phpBB3 Path** field to this directory name and click the save button. For example, if you have phpBB3 installed in "phpbb3_forum" directory, change the path to this and click the save button to save your configuration changes. If the path is a valid phpBB3 install, this will be recognized and shown in the **RokBridge Status** section below.
+By default the phpBB3 path is set to `distribution`, but you can change this to any location you want for your phpBB3 installation. If you have phpBB3 previously installed (NOTE: must be under the Joomla directory), you can change the **phpBB3 Path** field to this directory name and click the save button. For example, if you have phpBB3 installed in "phpbb3_forum" directory, change the path to this and click the save button to save your configuration changes. If the path is a valid phpBB3 install, this will be recognized and shown in the **RokBridge Status** section below.
 
-If you do not have phpBB3 installed yet, download the latest version from [phpBB.com][phpbb] and extract into a directory of your choosing under your Joomla install. For example install the phpBB3 forum into `<Joomla Directory>/phpbb3`. Then point your browser to this directory and follow the installation instructions to fully install phpBB3. If you have any questions regarding the installation of phpBB3, please consult the [phpBB.com][phpbb] website. After you have successfully installed phpBB3, you can enter the directory you used into the **phpBB3 Path** field of the RokBridge Configuration.
+If you do not have phpBB3 installed yet, download the latest version from [phpBB.com][phpbb] and extract it into a directory of your choosing under your Joomla install. For example install the phpBB3 forum into `<Joomla Directory>/phpbb3`. Then point your browser to this directory and follow the installation instructions to fully install phpBB3. If you have any questions regarding the installation of phpBB3, please consult the [phpBB.com][phpbb] website. After you have successfully installed phpBB3, you can enter the directory you used into the **phpBB3 Path** field of the RokBridge Configuration.
 
 ### Step Four - phpBB3 Authentication Plugin
 The next process is to install the **phpBB3 Authentictation Plugin**. Simply click on the "**Install**" link next to that item in the status area, and the authentication plugin will be copied to your phpBB3 install in the appropriate location. If you do not see an "**Install**" option in the action column you need to ensure that both the phpBB3 Bridge and the phpBB3 Forum are properly installed. The installation of the plugin now also auto-sets the phpBB3 authentication method in the phpBB3 configuration.
