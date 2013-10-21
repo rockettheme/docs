@@ -40,7 +40,7 @@ Using RokUpdater with the Update Manager
 	* A blue plus (+) indicates a free RocketTheme extension. 
 	* A green check mark indicates a club extension that your authenticated account can freely update. 
 	* A red x is indicative of a club RocketTheme extension that your currently logged-in account does not have the ability to update. It could also indicate that your present Joomla configuration does not support the updated extension.
-2. Once you've selected the desired plugin(s) you wish to update, simply select the **Update** button as you would with any other extension.
+2. Once you've selected the desired extension(s) you wish to update, simply select the **Update** button as you would with any other extension.
 
 ![][rokupdater_update_manager_2]
 
