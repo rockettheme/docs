@@ -16,8 +16,8 @@ Requirements
 ------------
 RokWeather has the following requirements in order to operate:
 
-* Joomla 1.5, 2.5, or Joomla 3.x - ensure you are using the latest version
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Joomla 2.5, or Joomla 3.x - ensure you are using the latest version
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
@@ -34,15 +34,15 @@ Key Features
 
 How to install
 --------------
-Installing RokStock takes just a matter of few minutes.
+Installing RokWeather takes just a matter of few minutes.
 
-The first thing you’ll need to do is [download][download] the latest version of RokStock. The package you will download is a bundle containing all the required plugins to get RokStock up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokWeather. The package you will download contains everything to get RokWeather up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 
-* Select from the top menu: `Extend -> Extension Manager -> Install`
+* Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
 * Select the `rokweather.zip` that you just downloaded from your local drive.
 * Click the **Upload & Install** button.
