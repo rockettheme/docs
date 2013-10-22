@@ -7,13 +7,15 @@ breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
 
 Feature Section
 -----
-![][demo3]
+
+![][demo]
 
 Here's the widget breakdown for the Feature section:
 
 * RokSprocket
 
 ### RokSprocket
+
 The mosaic content display located just under the main feature showcase is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
@@ -44,4 +46,4 @@ Once you've created this widget, you can add it via the Widgets menu by clicking
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo3]: assets/wp_graffito_demo_3.jpeg
+[demo]: assets/wp_graffito_demo_3.jpeg

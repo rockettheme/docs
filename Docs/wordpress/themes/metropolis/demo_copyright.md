@@ -33,7 +33,7 @@ Here is a breakdown of what you'll need to change in the widget options to match
 * Leaving all other options at their default settings, click **Save**.
 
 #### Gantry To Top
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We added `Top` in the **To Top Text** field as the only change from default.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 #### Gantry Social Buttons
 The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Copyright widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.

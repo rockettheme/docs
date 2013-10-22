@@ -14,7 +14,9 @@ Here's the widget breakdown for the Content Top section:
 * Text
 
 #### RokGallery
+
 ![][demo1]
+
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
 Here's a breakdown of the widget options: 
@@ -36,10 +38,13 @@ Here's a breakdown of the widget options:
 This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 #### Gantry Divider
+
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Text
+
 ![][demo2]
+
 The Text widget in this section is titled **Plugins Support** and has the following in the main text field.
 
 ~~~

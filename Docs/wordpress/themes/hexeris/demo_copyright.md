@@ -21,6 +21,6 @@ The Copyright section remains the same for all areas of the site. Because of thi
 The Gantry Copyright widget places a tiny Copyright notification at the bottom of the page. The only thing you need to change in this widget to match the demo is the text field, which includes: `Designed by RocketTheme`. 
 
 #### Gantry To Top
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We added `Top` in the **To Top Text** field as the only change from default.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 [demo]: assets/demo_10.jpeg

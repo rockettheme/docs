@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 Showcase Section
 -----
+
 ![][demo2]
 
 Here's the widget breakdown for the Showcase section:
@@ -14,6 +15,7 @@ Here's the widget breakdown for the Showcase section:
 * RokSprocket
 
 #### RokSprocket
+
 The main feature showcase located near the top of the demo is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 

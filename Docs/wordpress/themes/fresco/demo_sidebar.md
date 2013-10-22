@@ -17,6 +17,7 @@ Here's the widget breakdown for the Sidebar section:
 * Text
 
 #### Text
+
 ![][demo1]
 
 The first text widget in this section is titled **Style Control** and has the following in the main text field.
@@ -32,6 +33,7 @@ The first text widget in this section is titled **Style Control** and has the fo
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
+
 ![][demo2]
 
 The next text widget in this section is titled **Top Features** and has the following in the main text field.
@@ -55,6 +57,7 @@ The next text widget in this section is titled **Top Features** and has the foll
 * Leaving everything else at its default setting, select **Save**.
 
 #### RokSprocket
+
 ![][demo3]
 
 The **Gantry Extras** widget located in the sidebar section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
@@ -90,6 +93,7 @@ Once you've created this widget, you can add it via the Widgets menu by clicking
 The widget should now be created and ready for use on the front page of your WordPress site.
 
 #### Text
+
 ![][demo4]
 
 The last text widget in this section has no title and has the following in the main text field.

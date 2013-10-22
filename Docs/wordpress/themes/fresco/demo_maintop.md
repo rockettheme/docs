@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/xmenia:Ximenia
 
 Main Top Section
 -----
+
 Here's the widget breakdown for the Main Top section:
 
 * RokSprocket
@@ -19,7 +20,9 @@ Here's the widget breakdown for the Main Top section:
 The Main Top section in the Ximenia demo adds a visual display of various theme features that puts images are the forefront of the front page's visual appeal.
 
 #### RokSprocket
+
 ![][demo1]
+
 You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
@@ -78,14 +81,17 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Gantry Divider
+
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Gantry Social Buttons
+
 ![][demo2]
 
 The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
 
 #### Text
+
 ![][demo3]
 
 The second Text widget in the section is made a lot like the first. You'll need to enter the following in the main text field.
@@ -126,6 +132,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### RokAjaxSearch
+
 ![][demo4]
 
 The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.

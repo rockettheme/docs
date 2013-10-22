@@ -16,6 +16,7 @@ Here's the widget breakdown for the Extension section:
 * RokSprocket
 
 ### Text
+
 The Text widget in this section is pretty straightforward. You'll need to enter the following in the main text field.
 
 ~~~
@@ -35,10 +36,13 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Gantry Divider
+
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
+
 ![][demo6]
+
 This RokSprocket widget is a **Tabs** widget type. Like other RokSprocket Widgets, you'll need to create it first using the **RokSprocket Admin** menu. We named ours **Popular Features**.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 

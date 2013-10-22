@@ -38,6 +38,6 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Gantry To Top
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We added `Top` in the **To Top Text** field as the only change from default.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 [demo]: assets/demo_7.jpeg

@@ -32,6 +32,6 @@ Here is a breakdown of what you'll need to change in the widget options to match
 * Leaving all other options at their default settings, click **Save**.
 
 #### Gantry To Top
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We added `Top` in the **To Top Text** field as the only change from default.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 [demo2]: assets/wp_kirigami_demo_7.jpeg
