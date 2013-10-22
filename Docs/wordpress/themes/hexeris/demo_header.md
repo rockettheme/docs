@@ -7,15 +7,17 @@ breadcrumb: /wordpress:WordPress/themes:Themes/hexeris:Hexeris
 
 Header Section
 -----
-![][demo8]
+![][demo]
 
 Here's the widget breakdown for the Header section:
 
 * Gantry Logo
 * Gantry Divider
 * Gantry Menu
+* Gantry Divider
+* RokAjaxSearch
 
-The header section remains the same across the entire demo site. For this reason, it exists in the default Widget Override menu. It's also a fairly simple section to set up.
+The header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It's also a fairly simple section to set up.
 
 #### Gantry Logo
 The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
@@ -43,4 +45,12 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Maximum Depth     |        10 |  
 | Custom Chrome     |      Menu |  
 
-[demo8]: assets/wp_Hexeris_demo_8.jpeg
+#### RokAjaxSearch
+
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+
+* Enter `fp-rokajaxsearch` in the **Custom Variations** field.
+* Leaving everything else at its default setting, select **Save**.
+
+[demo]: assets/demo_1.jpeg
+[faq]: faq.md

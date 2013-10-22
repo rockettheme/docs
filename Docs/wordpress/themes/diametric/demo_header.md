@@ -49,3 +49,4 @@ The widget should now be created and ready for use on the front page of your Wor
 
 [demo]: assets/demo_2.jpeg
 [menu]: ../../start/menus.md
+[roksprocket]: ../../extensions/roksprocket/

@@ -18,7 +18,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 ### Text
-The first Text widget in the section is made a lot like the others. There is no title. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
 <p>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
@@ -34,7 +34,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-The second Text widget in the section is made a lot like the others. There is no title. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
 <ul class="rt-demo-footer-menu">
@@ -52,7 +52,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-The third Text widget in the section is made a lot like the others. There is no title. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
 <div class="gantry-width-10 gantry-width-block medmarginright">

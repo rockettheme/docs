@@ -18,6 +18,7 @@ Keep in mind that a lot of the detail that makes our demos look so good are the 
 
 Recommended Plugins
 =====
+
 Here is a list of RocketTheme plugins used to create the demo version of Hexeris:
 
 * [Gantry Template Framework][gantry]
@@ -30,15 +31,18 @@ All of these plugins are included with the Hexeris RocketLauncher, and can be do
 
 Recreating the Front Page
 =====
+
 The front page of the Hexeris demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Hexeris theme.
 
 Theme Settings
 -----
+
 The first thing you'll need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Hexeris Theme** and selecting the **+** icon located just above the **Style** settings tab. 
 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
 #### Assignments
+
 The next step you'll need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you'll want to select both **Home Page** and **Front Page**.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
@@ -49,6 +53,26 @@ You can find more information about the entire override breakdown for both the f
 
 Widget Settings
 -----
+
+![][theme]
+
+:   1. **Header - Gantry Logo** [6%, 15%, se]
+    2. **Header - Gantry Menu** [6%, 43%, se]
+    3. **Header - RokAjaxSearch** [6%, 85%, sw]
+    4. **Showcase - RokSprocket** [10%, 15%, se]
+    5. **Feature - RokSprocket** [23%, 15%, se]
+    6. **Utility - Text** [19%, 18%, se]
+    7. **Extension - RokSprocket** [59%, 15%, se]
+    8. **Extension - Text** [59%, 40%, se]
+    9. **Extension - RokSprocket** [59%, 64%, se]
+    10. **Bottom - RokSprocket** [74%, 15%, se]
+    11. **Footer - Text** [82%, 15%, se]
+    12. **Footer - Text** [82%, 39%, se]
+    13. **Footer - Text** [82%, 63%, se]
+    14. **Copyright - Gantry Copyright** [92%, 15%, se]
+    15. **Copyright - Gantry To Top** [92%, 85%, sw]
+    16. **Social - Gantry Social Buttons** [16%, 89%, sw]
+
 Like any Gantry template, Hexeris utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
@@ -60,12 +84,12 @@ One important thing to note here is that many of the widget sections included in
 * [Header][header]
 * [Showcase][showcase]
 * [Feature][feature]
-* [Sidebar][sidebar]
-* [Content Top][contenttop]
-* [Content Bottom][contentbottom]
-* [Main Bottom][mainbottom]
+* [Utility][utility]
+* [Extension][extension]
+* [Bottom][bottom]
 * [Footer][footer]
 * [Copyright][copyright]
+* [Social][social]
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
@@ -79,10 +103,11 @@ One important thing to note here is that many of the widget sections included in
 [header]: demo_header.md
 [showcase]: demo_showcase.md
 [feature]: demo_feature.md
-[sidebar]: demo_sidebar.md
-[contenttop]: demo_content_top.md
-[contentbottom]: demo_content_bottom.md
-[mainbottom]: demo_mainbottom.md
+[utility]: demo_utility.md
+[extension]: demo_extension.md
+[bottom]: demo_bottom.md
 [footer]: demo_footer.md
+[social]: demo_social.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
+[theme]: assets/hexeris2.jpeg

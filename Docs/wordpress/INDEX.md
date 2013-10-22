@@ -77,6 +77,7 @@ breadcrumb: /!WordPress:WordPress/
 
 * Club Themes
 	
+	- [Hexeris](themes/hexeris)
 	- [Alerion](themes/alerion)
 	- [Chapelco](themes/chapelco)
 	- [Lumiere](themes/lumiere)

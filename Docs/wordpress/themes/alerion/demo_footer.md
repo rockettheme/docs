@@ -32,7 +32,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### RokSprocket
 
-The tabs content display located just under the main feature showcase is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
 
