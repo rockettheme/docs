@@ -1,7 +1,7 @@
 ---
 title: Ximenia: Recreate the Demo
 description: Your Guide to Using the Ximenia Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup, Demo, Tutorial]
+tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/ximenia:Ximenia
 
 ---

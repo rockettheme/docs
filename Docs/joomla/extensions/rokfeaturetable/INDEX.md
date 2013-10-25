@@ -12,10 +12,11 @@ Introduction
 
 RokFeatureTable offers a stylistic and user friendly solution for displaying tabular based data. It is perfect for price or product comparisons, or essentially, any type of data display that suits a matrix format.
 
-A simple, yet dynamic, interface provides you with the tools to quickly edit the contents of the module. There are a series of parameters allowing for unlimited row, with options for text, link, class and much more, which allows for extensive control.
+A simple, yet dynamic, interface provides you with the tools to quickly edit the contents of the module. There are a series of parameters allowing for unlimited rows, with options for text, link, class and much more, which allows for extensive control.
 
 Key Features
 ------------
+
 * **Unlimited Rows**: Display extensive amounts of data.
 * **Extensive data control**: Control over text, links, classes and other.
 * **Highlight Column Control**: Set which column is defaulted as the highlight.
@@ -25,6 +26,7 @@ Key Features
 
 Requirements
 ------------
+
 RokFeatureTable has the following requirements in order to operate:
 
 * Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
@@ -37,7 +39,7 @@ How to install
 
 Installing RokFeatureTable takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokFeatureTable. The package you will download is a bundle containing all the required plugins to get RokFeatureTable up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokFeatureTable. The package you will download contains all the files you need to get RokFeatureTable up and running. It is compatible with both Joomla 2.5.x and Joomla 3.x., and does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the Joomla Administrator and:
 

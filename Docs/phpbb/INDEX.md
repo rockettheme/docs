@@ -1,6 +1,6 @@
 ---
 title: phpBB3 Documentation
-description: phpBB3 is a powerful all-in-one solution for e-commerce.
+description: phpBB3 is a powerful and popular forum solution for small, medium, and large communities.
 landing: true
 breadcrumb: /!phpbb:phpBB/
 

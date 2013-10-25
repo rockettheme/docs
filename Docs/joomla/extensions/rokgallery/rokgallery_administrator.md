@@ -42,9 +42,14 @@ RokGallery's Component Administrator is broken into two main areas.
 
 3. **Filters** have a range of variables such as gallery, file type, published, etc. to allow you to filter your images for simple and efficient management. Statistics for the filters appear on the right-side of the row.
 
-On the image panes themselves, you can unpublish the individual image, go into the [Image Editor][image_editing], delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
+![][rokgallery_image_editor]
+
+:   1. **Edit** Opens the Image Editor. [60%, 85%, sw]
+
+On the image panes themselves, you can unpublish the individual image, go into the **Image Editor**, delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
 
 #### Tags
+
 ![][rokgallery_tags]
 
 The Tag popup gives you the ability to set tags (and assign galleries) to an image. Because galleries are tag-based, you could add the tags for multiple galleries in order to have an image (or images) appear in multiple tag galleries.
@@ -54,6 +59,7 @@ RokGallery uses a digital-negative approach to image management. This allows you
 The tag popup allows you to select a gallery for quick tag associations, add/remove specific tags, and apply those changes to the selected image(s). Keep in mind that some changes will require background jobs before they take effect. This can take anywhere from a few seconds to a few minutes, depending on your host.
 
 #### Jobs Manager
+
 ![][rokgallery_jobs_manager]
 
 :   1. **Refresh** Refreshes the status of all current and completed jobs in the list. [25%, 54%, sw]
@@ -114,6 +120,7 @@ Thumbnails are used in some gallery display settings to give users a quick overv
 You can also opt to adjust the ordering of images within a gallery, publish all images assigned to a gallery, or delete the gallery itself. In addition, the Galleries manager gives you the ability to automatically delete slices created for the gallery when an image is removed, freeing up some space on your server.
 
 #### Upload
+
 ![][rokgallery_component_upload]
 
 :   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [68%, 17%, se]
@@ -129,7 +136,7 @@ Uploading images to RokGallery using the built-in file uploader is the best way 
 [rokgallery_component]: assets/rokgallery_component_1.jpeg
 [rokgallery_component_configuration_options]: assets/rokgallery_component_configuration_opions.jpeg
 [rokgallery_component_upload]: assets/rokgallery_component_upload.jpeg
-[rokgallery_image_editor]: assets/rokgallery_image_editor.jpeg
+[rokgallery_image_editor]: assets/rokgallery_image_editor_2.jpeg
 [rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.jpeg
 [rokgallery_module_1]: assets/rokgallery_module_1.jpeg
 [rokgallery_module_advanced]: assets/rokgallery_module_advanced_1.jpeg

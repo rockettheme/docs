@@ -1,7 +1,7 @@
 ---
 title: Mercado
 description: Your Guide to Using the Mercado Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup]
+tags: [Theme, RokMage, Requirements, Setup]
 breadcrumb: /magento:Magento/!themes:Themes/!mercado:Mercado
 
 ---

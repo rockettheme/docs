@@ -1,7 +1,7 @@
 ---
 title: Cerulean: Recreate the Demo
 description: Your Guide to Using the Cerulean Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup, Demo, Tutorial]
+tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/cerulean:Cerulean
 
 ---

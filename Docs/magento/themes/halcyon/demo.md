@@ -1,7 +1,7 @@
 ---
 title: Halcyon: Recreate the Demo
 description: Your Guide to Using the Halcyon Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup, Demo, Tutorial]
+tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/halcyon:Halcyon
 
 ---

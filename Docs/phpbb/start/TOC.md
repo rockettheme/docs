@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/!start:Start
+breadcrumb: /phpbb:phpBB3/!start:Getting Started/
 
 ---
 

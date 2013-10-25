@@ -1,7 +1,7 @@
 ---
 title: Cerulean
 description: Your Guide to Using the Cerulean Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup]
+tags: [Theme, RokMage, Requirements, Setup]
 breadcrumb: /magento:Magento/!themes:Themes/!cerulean:Cerulean
 
 ---

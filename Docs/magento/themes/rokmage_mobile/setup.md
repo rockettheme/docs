@@ -1,7 +1,7 @@
 ---
 title: RokMage Mobile: Setup Guide
 description: Your Guide to Using the RokMage Mobile Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup, Demo, Tutorial]
+tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/rokmage_mobile:RokMage Mobile
 
 ---

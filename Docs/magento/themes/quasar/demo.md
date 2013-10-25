@@ -1,7 +1,7 @@
 ---
 title: Quasar: Recreate the Demo
 description: Your Guide to Using the Quasar Theme for Magento
-tags: [Theme, Template, RokMage, Requirements, Setup, Demo, Tutorial]
+tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/Quasar:Quasar
 
 ---
