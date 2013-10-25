@@ -197,7 +197,7 @@ Once you've entered the information, you can select **Proceed to next step** to 
 [install8]: assets/phpbb_install_8.jpeg
 [install9]: assets/phpbb_install_9.jpeg
 [install10]: assets/phpbb_install_10.jpeg
-[requirements]: install.md#step-3:-requirements
+[requirements]: install.md#step-3:-requirements-check
 [install11]: assets/phpbb_install_11.jpeg
 [phpbb3]: https://www.phpbb.com/downloads/
 [filezilla]: https://filezilla-project.org/download.php
