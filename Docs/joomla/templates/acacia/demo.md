@@ -64,12 +64,12 @@ Here is a list of RocketTheme extensions used to create the demo version of Acac
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 
-All of these plugins are included with the Acacia RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+All of these extensions are included with the Acacia RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 =====
 
-The front page of the Acacia demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Acacia template.
+The front page of the Acacia demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Acacia template.
 
 Template Settings
 -----
@@ -82,7 +82,7 @@ It would be a good idea for organization to name this override something like **
 
 #### Assignments
 
-The next step you'll need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you'll want to select both **Home**.
+The next step you'll need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you'll want to select **Home** in the Menu Assignments tab..
 
 Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
 

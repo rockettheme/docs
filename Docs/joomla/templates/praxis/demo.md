@@ -58,11 +58,11 @@ Here is a list of RocketTheme extensions used to create the demo version of Prax
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 
-All of these plugins are included with the Praxis RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+All of these extensions are included with the Praxis RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 =====
-The front page of the Praxis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Praxis template.
+The front page of the Praxis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Praxis template.
 
 Template Settings
 -----
@@ -73,7 +73,7 @@ Only options that are different from the Master copy will take hold on the menu 
 It would be a good idea for organization to name this override something like **Praxis - Home** as it would be used only for the front page of your site.
 
 #### Assignments
-The next step you'll need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you'll want to select both **Home**.
+The next step you'll need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you'll want to select **Home** in the Menu Assignments tab..
 
 Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
 

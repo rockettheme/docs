@@ -1,14 +1,16 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSprocket - Showcase
+title: Hexeris: Recreating the Demo - FP RokSprocket - Headlines
 description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
 
 ---
 
-FP RokSprocket - Showcase
+FP RokSprocket - Headlines
 -----
+
 ![][demo]
-The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
+
+The RokSprocket Headlines module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
 ![][demo2]

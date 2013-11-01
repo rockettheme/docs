@@ -116,5 +116,5 @@ Once you've selected a Preset, these options can be further adjusted to match th
 
 [demo25]: assets/Voxel.jpg
 [menu]: ../../start/menu.md
-[Style]: http://gantry-framework.org/documentation/wordpress/configure/
+[Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [Voxel2]: assets/Voxel.jpeg

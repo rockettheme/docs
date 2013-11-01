@@ -11,7 +11,7 @@ K2 is a powerful content extension for Joomla, and we use it in our demo sites t
 
 The philosophy behind K2 is to bring the best bits and pieces from WordPress and Drupal to Joomla. Where Joomla excels as a content management system (CMS), it does have points where it could be a little more user friendly, especially for someone migrating from another platform.
 
-While K2 might not completely replace Joomla's integrated article system for everyone, it does add a number of useful tidbits that can help you make the most of your site. Tagging, image management, comments, and other options pick up where Joomla leaves off with a powerfull full-featured article management solution. This is in addition to its user and media management enhancements.
+While K2 might not completely replace Joomla's integrated article system for everyone, it does add a number of useful tidbits that can help you make the most of your site. Tagging, image management, comments, and other options pick up where Joomla leaves off with a powerful full-featured article management solution. This is in addition to its user and media management enhancements.
 
 Below, we'll detail exactly how we set up each of our Gantry-powered template demos using K2.
 

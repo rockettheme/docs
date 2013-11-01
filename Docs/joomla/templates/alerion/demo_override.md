@@ -96,5 +96,5 @@ Once you've selected a Preset, these options can be further adjusted to match th
 
 [demo25]: assets/Alerion.jpg
 [menu]: ../../start/menu.md
-[Style]: http://gantry-framework.org/documentation/wordpress/configure/
+[Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [alerion2]: assets/alerion.jpg
