@@ -49,6 +49,4 @@ breadcrumb: /!phpbb:phpBB/
 
 * Administration Modules
 
-	- [RokBB 5](extensions/rokbb5/)
-	- [RokBB 3](extensions/rokbb3/)
-	- [RokNavmenu Exporter](extensions/roknavmenu_exporter/)
+	- [How to Install](start/styles.md#installing-administrative-modules)

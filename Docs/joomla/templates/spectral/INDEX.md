@@ -14,7 +14,7 @@ Spectral echoes contemporary approaches to create an elegant frame, focusing on 
 
 A template design inspired by recent visual trends, blending subtle backgrounds and overlays, with text set by custom fonts, to create an alluring experience for your visitors, whilst maintaining an professional and functional look.
 
->> NOTICE: Spectral is a Joomla 2.5 and Joomla 3.1 Template.
+>> NOTICE: Spectral is a Joomla 2.5 and Joomla 3.x Template.
 
 Requirements
 -----
@@ -22,7 +22,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5 or 3.1+
+* Joomla 2.5 or 3.x+
 * Gantry Framework
 
 >> NOTE: Gantry v4.1.17+ is required for Spectral to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
@@ -30,7 +30,7 @@ Requirements
 Key Features
 -----
 
-* Joomla 2.5 & Joomla 3.1 Compatible
+* Joomla 2.5 & Joomla 3.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 88 Module Positions

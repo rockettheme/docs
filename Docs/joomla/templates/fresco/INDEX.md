@@ -20,7 +20,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5 or 3.1+
+* Joomla 2.5 or 3.x+
 * Gantry Framework
 
 >> NOTE: Gantry v4.1.10+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].

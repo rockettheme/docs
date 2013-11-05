@@ -19,7 +19,7 @@ Yes. Please check our [Praxis Tutorials & Guides forum][forum] in addition to th
 
 Is Praxis compatible for Joomla 1.5?
 -----
-No, Praxis is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Praxis is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----

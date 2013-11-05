@@ -19,7 +19,7 @@ Yes. Please check our [Diametric Tutorials & Guides forum][forum] in addition to
 
 Is Diametric compatible for Joomla 1.5?
 -----
-No, Diametric is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Diametric is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----

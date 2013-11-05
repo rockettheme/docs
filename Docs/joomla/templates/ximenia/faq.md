@@ -19,7 +19,7 @@ Yes. Please check our [Ximenia Tutorials & Guides forum][forum] in addition to t
 
 Is Ximenia compatible for Joomla 1.5?
 -----
-No, Ximenia is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Ximenia is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----

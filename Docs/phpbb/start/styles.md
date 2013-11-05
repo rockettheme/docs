@@ -30,7 +30,7 @@ Once you've downloaded your selected package, you can unzip it locally or choose
 
 Uploading the new Style involves moving the folder containing the style into the **Style** folder within your main phpBB directory. For example, if you are installing the Acacia style, you'll place the **Acacia** folder (and its associated contents) into the **pbpBB -> Styles** directory where the phpBB directory is whichever directory on your server that acts as the root folder for your phpBB installation.
 
->> You can upload all the files via FTP, or use cPanel or SSH to upload the zip and unzip directly onto the server. Inquire with your hosting provider.
+>> NOTE: You can upload all the files via FTP, or use cPanel or SSH to upload the zip and unzip directly onto the server. Inquire with your hosting provider.
 
 ### Step 3: Activation
 
@@ -52,16 +52,18 @@ Installing Administrative Modules
 
 ![][rokbb]
 
-Whether you're installing RokBB or RokNavMenu, the contents of the downloaded zip file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files.
+When installing RokBB, the contents of the downloaded zip file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files.
 
-* **menunav.php** upload to → **phpBB root directory **
-* **rokbb.php** upload to → **phpBB root directory **
-* **adm/rokbb** folder upload to → **your_phpbb_root/adm/ **
-* **adm/style/acp_rokbb.html** upload to → **your_phpbb_root/adm/style/ **
-* **includes/rokbb** upload upload to → **your_phpbb_root/includes/ **
-* **includes/acp/acp_rokbb.php** upload to → **your_phpbb_root/includes/acp/ **
-* **includes/acp/info/acp_rokbb.php** upload to → **your_phpbb_root/includes/acp/info/ **
-* **language/en/acp_rokbb.php** upload to → **your_phpbb_root/language/en/ **
+| File                            | Upload to                          |  
+| :------------------------------ | :--------------------------------- |  
+| menunav.php                     | phpBB root directory               |  
+| rokbb.php                       | phpBB root directory               |  
+| adm/rokbb                       | your_phpbb_root/adm/               |  
+| adm/style/acp_rokbb.html        | your_phpbb_root/adm/style/         |  
+| includes/rokbb                  | your_phpbb_root/includes/          |  
+| includes/acp/acp_rokbb.php      | your_phpbb_root/includes/acp/      |  
+| includes/acp/info/acp_rokbb.php | your_phpbb_root/includes/acp/info/ |  
+| language/en/acp_rokbb.php       | your_phpbb_root/language/en/       |  
 
 After this this done, log in to the **phpBB Administration Control Panel** and change the following settings:
 
@@ -82,7 +84,7 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 * After adding it. Press **Enable** to make the module active.
 * Now go to the **Styles** tab at the top. **RocketTheme Styles** category is third in a row. You can now select the Acacia style and configure it's options.
 
->> Tip: You can add as many style modules as you want.
+>> NOTE: You can add as many style modules as you want.
 
 Don't be worried concerning the installation process as we only need this operation to be executed once. After that, to upgrading RokBB will only involve replacing files.
 

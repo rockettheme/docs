@@ -18,9 +18,7 @@ Here's the widget breakdown for the Navigation section:
 The Navigation section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It's also a fairly simple section to set up.
 
 #### Gantry Menu
-The Gantry Menu widget should be set to match your site's main menu as it serves as the primary menu widget for the entire site. You can customize this menu by navigating to **Administration -> Appearance -> Menus** and creating or modifying your main menu there. 
-
-More information about menus can be found in our [WordPress Menu guide][menu].
+The Gantry Menu widget should be set to match your site's main menu as it serves as the primary menu widget for the entire site. You can customize this menu by navigating to **Administration -> Appearance -> Menus** and creating or modifying your selected menu there. 
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 

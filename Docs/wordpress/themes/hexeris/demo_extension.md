@@ -121,7 +121,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ![][demo3]
 
-The **Gantry Extras** widget located in the Extension section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
+The widget located in this section of the page is a **RokSprocket Lists** widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 

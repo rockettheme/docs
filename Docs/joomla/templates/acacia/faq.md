@@ -19,7 +19,7 @@ Yes. Please check our [Acacia Tutorials & Guides forum][forum] in addition to th
 
 Is Acacia compatible for Joomla 1.5?
 -----
-No, Acacia is only compatible with Joomla 2.5 and Joomla 3.1. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Acacia is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
 
 What is RokSprocket?
 -----
