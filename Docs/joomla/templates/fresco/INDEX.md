@@ -20,7 +20,18 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5 or 3.x+
+* Joomla 2.5 or * For more information visit our [Gantry documentation][gantry] on the settings menu.
+
+How do I change the logo?
+-----
+
+* Log in to the WordPress administrative dashboard at http://(Your WordPress Site URL)/wp-admin/
+* Select **Alerion Theme** from the sidebar.
+* Navigate to the **Style** tab.
+* Change the **Logo** type to **Custom**.
+* Choose your desired logo from your local drive by clicking the **Select** button.
+* Follow the instructions to **Save** your selection.
+3.x
 * Gantry Framework
 
 >> NOTE: Gantry v4.1.10+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
