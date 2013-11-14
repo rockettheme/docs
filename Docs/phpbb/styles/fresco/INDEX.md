@@ -2,6 +2,7 @@
 title: Fresco
 description: Your Guide to Using the Fresco Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!fresco:Fresco/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

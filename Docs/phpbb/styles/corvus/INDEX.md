@@ -2,6 +2,7 @@
 title: Corvus
 description: Your Guide to Using the Corvus Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!corvus:Corvus/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
 ---
 

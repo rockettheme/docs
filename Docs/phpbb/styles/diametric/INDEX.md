@@ -2,6 +2,7 @@
 title: Diametric
 description: Your Guide to Using the Diametric Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!diametric:Diametric/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

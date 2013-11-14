@@ -2,6 +2,7 @@
 title: Ximenia
 description: Your Guide to Using the Ximenia Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!ximenia:Ximenia/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

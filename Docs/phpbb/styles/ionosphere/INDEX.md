@@ -2,6 +2,7 @@
 title: Ionosphere
 description: Your Guide to Using the Ionosphere Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!ionosphere:Ionosphere/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

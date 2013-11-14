@@ -2,6 +2,7 @@
 title: Acacia
 description: Your Guide to Using the Acacia Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
 ---
 

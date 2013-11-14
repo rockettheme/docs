@@ -2,6 +2,7 @@
 title: Voxel
 description: Your Guide to Using the Voxel Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!Voxel:Voxel/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

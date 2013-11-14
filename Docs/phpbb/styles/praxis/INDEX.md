@@ -2,6 +2,7 @@
 title: Praxis
 description: Your Guide to Using the Praxis Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!praxis:Praxis/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
 ---
 

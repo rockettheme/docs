@@ -2,6 +2,7 @@
 title: Kirigami
 description: Your Guide to Using the Kirigami Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!kirigami:Kirigami/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

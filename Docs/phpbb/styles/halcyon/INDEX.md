@@ -2,6 +2,7 @@
 title: Halcyon
 description: Your Guide to Using the Halcyon Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!halcyon:Halcyon/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 

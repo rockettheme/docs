@@ -2,6 +2,7 @@
 title: Hexeris
 description: Your Guide to Using the Hexeris Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!hexeris:Hexeris/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
 ---
 

@@ -3,6 +3,8 @@ title: phpBB3 Documentation
 description: phpBB3 is a powerful and popular forum solution for small, medium, and large communities.
 landing: true
 breadcrumb: /!phpbb:phpBB/
+more:
+	Club Styles: 7
 
 ---
 
@@ -49,4 +51,5 @@ breadcrumb: /!phpbb:phpBB/
 
 * Administration Modules
 
-	- [How to Install](start/styles.md#installing-administrative-modules)
+	- [How to Install RokBB](start/styles.md#installing-administrative-modules)
+	- [RokNavMenu Exporter](modules/roknavmenu.md)

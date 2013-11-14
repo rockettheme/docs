@@ -2,6 +2,7 @@
 title: Visage
 description: Your Guide to Using the Visage Style for phpBB3.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!visage:Visage/
+tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
 ---
 
