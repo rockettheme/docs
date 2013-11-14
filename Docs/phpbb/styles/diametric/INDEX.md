@@ -1,56 +1,45 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Diametric
+description: Your Guide to Using the Diametric Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!diametric:Diametric/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Diametric, the May 2012 phpBB3 club release, is a beautifully layered style with a distinct panel-based design, using the powerful ColorChooser system. The template has integrated styling for a range of popular RocketTheme interfaces, such as RokTabs, RokNewspager, and RokNewsFlash -- allowing for maximum visual and structural flexibility. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+Built on RokBB3, Diametric has a powerful core supporting versatile and functional features; in addition to standard elements such as the different forum layouts.
 
 Features
 -----
 
-* WebFont based Imageset and Icons
-* Google Web Fonts Support
-* Responsive and Fixed Layouts
-* 8 Styled & Numerous Structural Module Suffixes
-* RokNavMenu Exporter Support
-* RokBridge support
-* Demo settings applied automatically
-* 8 Preset Styles
-* Tabs & Headlines Integrated
-* RokBB 5 Framework
-* phpBB 3.0.12 Compatible
-* Various Configurable Module Positions
-* LoadTransitions
+* Color Chooser
+* 12 Preset Styles
+* RokBB3 Administration Interface
+* Extensive configuration options
+* Fluid Width Support
+* RokTabs Styling
+* RokNewsPager Styling
+* RokNewsFlash Styling
+* phpBB3 3.0.10 Compatible
+* 15 Styled and 26 Structural Module Suffixes
+* Fusion Menu (with RokNavMenu Exporter)
+* Loading Transitions
+* Configurable Module Positions
 * Customizable layout options
-* Firefox, Opera, Safari 4, IE8+ Compatible
+* FF, Opera, Safari 4, IE7+ Compatible
+* W3C XHTML 1.0 Transitional.
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 4.0.1+** is required for Diametric to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
-### WebFonts Imageset and Icons
+### New RokBB3 Administration
 
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
-
-For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
-
-### RokBridge Support
-
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
-
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
-
-### Responsive Layout
-
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+Fresco offers a wide array of layout configurations for displaying your content. Powered by our flasghip refreshed product, the RokBB3 administration module, you have full control over your forum layout such as color variations, font settings, menu options, and much more. Everything is fully configurable with just a few clicks.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/diametric.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

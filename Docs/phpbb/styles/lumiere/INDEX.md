@@ -1,45 +1,44 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Lumiere
+description: Your Guide to Using the Lumiere Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!lumiere:Lumiere/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Lumiere, the March 2013 phpBB Club release, uses HTML5 to offer video functionality in the header in order to create a dynamic and interactive user experience. The design complements the modern approach with rich, subtle and sophisticated visuals. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+The style is founded on the RokBB Framework, the core that underpins the style's features. Numerous design features are also included such as styling for various layout modes.
 
 Features
 -----
 
-* WebFont based Imageset and Icons
-* Google Web Fonts Support
+* HTML5 support for displaying videos in the header
 * Responsive and Fixed Layouts
 * 8 Styled & Numerous Structural Module Suffixes
+* Extended configuration options
 * RokNavMenu Exporter Support
-* RokBridge support
+* Community driven RokBridge support
 * Demo settings applied automatically
-* 8 Preset Styles
-* Tabs & Headlines Integrated
+* 9 Preset Styles
+* Display modules in Tabs
+* Tabs Responsive Layout
 * RokBB 5 Framework
-* phpBB 3.0.12 Compatible
+* phpBB 3.0.11 Compatible
 * Various Configurable Module Positions
 * LoadTransitions
 * Customizable layout options
-* Firefox, Opera, Safari 4, IE8+ Compatible
+* FF, Opera, Safari 4, IE8+ Compatible
+* HTML5, CSS3, LESS CSS
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 5+** is required for Lumiere to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
-### WebFonts Imageset and Icons
-
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
-
-For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
+### HTML5 Video in the Header
+Lumiere uses HTML5 support for displaying stunning videos and images in the header. You can upload your own file and display it on your forum. Various video options are also available.
 
 ### RokBridge Support
 
@@ -49,8 +48,8 @@ By following a few simple steps, you can easily integrate the two platforms, pro
 
 ### Responsive Layout
 
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+Lumiere's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/lumiere.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

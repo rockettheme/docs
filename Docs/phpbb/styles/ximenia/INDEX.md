@@ -1,56 +1,46 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Ximenia
+description: Your Guide to Using the Ximenia Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!ximenia:Ximenia/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Ximenia, the August 2012 phpBB3 style club release, is an elegant, subtle and conservative design, very customizable, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+An assortment of core RocketTheme Extensions, such as RokBB3, Tabs, Headlines and its multiple settings, have template based styling to apply integrated visuals for the additional functionality offered.
 
 Features
 -----
 
-* WebFont based Imageset and Icons
-* Google Web Fonts Support
-* Responsive and Fixed Layouts
-* 8 Styled & Numerous Structural Module Suffixes
-* RokNavMenu Exporter Support
-* RokBridge support
-* Demo settings applied automatically
 * 8 Preset Styles
-* Tabs & Headlines Integrated
-* RokBB 5 Framework
-* phpBB 3.0.12 Compatible
-* Various Configurable Module Positions
-* LoadTransitions
+* Custom suffixes for Category and Topics lists
+* RokNavMenu Exporter 1.2 Support
+* Display modules in Tabs and Headlines
+* RokBB3 Administration Interface
+* Extensive configuration options
+* Fluid Width Support
+* phpBB3 3.0.10 Compatible
+* 10 Styled and 25 Structural Module Suffixes
+* Fusion Menu (with RokNavMenu Exporter)
+* Loading Transitions
+* Configurable Module Positions
 * Customizable layout options
-* Firefox, Opera, Safari 4, IE8+ Compatible
+* FF, Opera, Safari 4, IE7+ Compatible
+* W3C XHTML 1.0 Transitional.
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 4.5+** is required for Ximenia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
-### WebFonts Imageset and Icons
+### Separate Category and Topics lists styling
 
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
+There are 10 stylistic module class suffixes in Ximenia. These add a unique style variation to the module: **box1-4**, **title1-4**, **rt-largetitle** and **noblock**.
 
-For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
-
-### RokBridge Support
-
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
-
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
-
-### Responsive Layout
-
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+There are also 25 structural suffixes which affect the layout and metrics of the module. Those suffixes can be applied now for: modules, categories, and topic containers.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/ximenia.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

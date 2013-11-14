@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/styles:Styles/!ximenia:Ximenia/
+breadcrumb: /phpbb:phpBB3/styles:Styles/!stratos:Stratos/
 
 ---
 
-* Ximenia
+* Stratos
 	* [Introduction](index.md#introduction)
 	* [Features](index.md#features)
 * Installation

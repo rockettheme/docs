@@ -1,18 +1,18 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Praxis
+description: Your Guide to Using the Praxis Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!praxis:Praxis/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Praxis is an elegant nexus of content enriching visual elements and powerful, underlying interactive and configurable features to maximize the versatility and engagement of your forum. The design is an intricate mix of CSS animations and 3D visual effects. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+An extensive array of standardized and powerful features are contained within Praxis, including: the RokBB Framework, Tabs & Headlines integration, and an advanced layout system.
 
 Features
 -----
@@ -20,7 +20,7 @@ Features
 * WebFont based Imageset and Icons
 * Google Web Fonts Support
 * Responsive and Fixed Layouts
-* 8 Styled & Numerous Structural Module Suffixes
+* 10 Styled & Numerous Structural Module Suffixes
 * RokNavMenu Exporter Support
 * RokBridge support
 * Demo settings applied automatically
@@ -33,11 +33,11 @@ Features
 * Customizable layout options
 * Firefox, Opera, Safari 4, IE8+ Compatible
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 5.0.4+** is required for Praxis to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
 ### WebFonts Imageset and Icons
 
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
+Praxis supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
 
 For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
 
@@ -49,8 +49,8 @@ By following a few simple steps, you can easily integrate the two platforms, pro
 
 ### Responsive Layout
 
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+Praxis's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/praxis.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

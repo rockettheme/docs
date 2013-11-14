@@ -1,45 +1,41 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Cerulean
+description: Your Guide to Using the Cerulean Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!cerulean:Cerulean/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Cerulean, the January 2013 phpbb club release, is a beautifully constructed template with a three-dimensional style design to add depth to content. An array of module variations add focal points for the mainbody area. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+Based on the RokBB Framework, a wide portfolio of features are included such as: a powerful template control interface, extended module settings, and new additions.
 
 Features
 -----
 
-* WebFont based Imageset and Icons
-* Google Web Fonts Support
-* Responsive and Fixed Layouts
-* 8 Styled & Numerous Structural Module Suffixes
+* New Contact Module
+* Extended configuration options
 * RokNavMenu Exporter Support
-* RokBridge support
+* 9 Styled and 25 Structural Module Suffixes
+* Community driven RokBridge support
+* Responsive Layout
 * Demo settings applied automatically
-* 8 Preset Styles
-* Tabs & Headlines Integrated
+* 6 Preset Styles
+* Display modules in Tabs
+* Tabs Responsive Layout
 * RokBB 5 Framework
-* phpBB 3.0.12 Compatible
+* phpBB 3.0.11 Compatible
 * Various Configurable Module Positions
 * LoadTransitions
 * Customizable layout options
-* Firefox, Opera, Safari 4, IE8+ Compatible
+* FF, Opera, Safari 4, IE8+ Compatible
+* HTML5, CSS3, LESS CSS
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
-
-### WebFonts Imageset and Icons
-
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
-
-For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
+NOTE: **RokBB 5+** is required for Cerulean to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
 ### RokBridge Support
 
@@ -47,10 +43,12 @@ RokBridge is an attempt to bring back famous component into the newest Joomla 2.
 
 By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
 
-### Responsive Layout
+### 9 Styled and 25 Structural Content Suffixes
 
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+Similar to the Joomla version of Cerulean, there are 9 stylistic module class suffixes that add a unique style variation to the modules. These include: **box1-5** and **title1-4**
+
+Additionally, there are 25 structural suffixes which affect the layout and metrics of the modules. You can apply variations using RokBB framework. Suffixes can be applied to the forum categories list, forum topics list, forum posts list and various modules. Extensive CSS styling gives user an ability to completely redesign the forum look, and achieve even the most sophisticated results.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/Cerulean.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

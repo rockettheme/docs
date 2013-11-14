@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/styles:Styles/!acacia:Acacia/
+breadcrumb: /phpbb:phpBB3/styles:Styles/!graffito:Graffito/
 
 ---
 
-* Acacia
+* Graffito
 	* [Introduction](index.md#introduction)
 	* [Features](index.md#features)
 * Installation

@@ -1,56 +1,46 @@
 ---
-title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
-breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
+title: Halcyon
+description: Your Guide to Using the Halcyon Style for phpBB3.
+breadcrumb: /phpbb:phpBB/!styles:Styles/!halcyon:Halcyon/
 
 ---
 
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Halcyon, the February 2012 phpBB3 club release, is elegant and subtle, reflecting a conservative design direction, perfect for deployment on a professionally or commercially orientated forum, or as an excellent platform for extensive and individual customization. 
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+The template has integrated styling for RokTabs and RokNewsPager. Halcyon is based on the RokBB3 Administration Module, providing ready access to its rich feature set such as an extensive administrator interface.
 
 Features
 -----
 
-* WebFont based Imageset and Icons
-* Google Web Fonts Support
-* Responsive and Fixed Layouts
-* 8 Styled & Numerous Structural Module Suffixes
-* RokNavMenu Exporter Support
-* RokBridge support
-* Demo settings applied automatically
-* 8 Preset Styles
-* Tabs & Headlines Integrated
-* RokBB 5 Framework
-* phpBB 3.0.12 Compatible
-* Various Configurable Module Positions
-* LoadTransitions
+* Additional Menus
+* 10 Preset Styles
+* Color Chooser
+* Extended configuration options
+* Fluid Width Support
+* RokTabs Styling
+* RokNewsPager Styling
+* phpBB3 3.0.10 Compatible
+* 59 Structural and Stylistic suffixes
+* Fusion Menu (with RokNavMenu Exporter)
+* Loading Transitions
+* Configurable Module Positions
+* RokNavMenu exporter support
+* Integrated RokBB3 Administration module
 * Customizable layout options
-* Firefox, Opera, Safari 4, IE8+ Compatible
+* FF, Opera, Safari 4, IE7+ Compatible
+* W3C XHTML 1.0 Transitional.
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 3.3+** is required for Halcyon to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
 
-### WebFonts Imageset and Icons
+### New RokBB3 Administration
 
-Acacia supports WebFonts-based scalable vector icons. No images are used in this style. All icons and imagesets have been converted into sprites. This adds some new indicators (poll icon, unapproved icon, etc.) in addition to other useful features. 
-
-For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
-
-### RokBridge Support
-
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
-
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
-
-### Responsive Layout
-
-Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
+Fresco offers a wide array of layout configurations for displaying your content. Powered by our flasghip refreshed product, the RokBB3 administration module, you have full control over your forum layout such as color variations, font settings, menu options, and much more. Everything is fully configurable with just a few clicks.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
+[style]: assets/halcyon.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/styles:Styles/!acacia:Acacia/
+breadcrumb: /phpbb:phpBB3/styles:Styles/!praxis:Praxis/
 
 ---
 
-* Acacia
+* Praxis
 	* [Introduction](index.md#introduction)
 	* [Features](index.md#features)
 * Installation

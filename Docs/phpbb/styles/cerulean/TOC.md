@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/styles:Styles/!acacia:Acacia/
+breadcrumb: /phpbb:phpBB3/styles:Styles/!cerulean:Cerulean/
 
 ---
 
-* Acacia
+* Cerulean
 	* [Introduction](index.md#introduction)
 	* [Features](index.md#features)
 * Installation

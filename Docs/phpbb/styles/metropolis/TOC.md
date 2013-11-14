@@ -1,10 +1,10 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/styles:Styles/!acacia:Acacia/
+breadcrumb: /phpbb:phpBB3/styles:Styles/!metropolis:Metropolis/
 
 ---
 
-* Acacia
+* Metropolis
 	* [Introduction](index.md#introduction)
 	* [Features](index.md#features)
 * Installation
