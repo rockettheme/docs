@@ -24,22 +24,22 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Strips Layout Options** for this widget.
 
-| Option            |      Setting |  
+| Option            | Setting      |  
 | :---------------- | :----------- |  
-| Display Limit     |            ∞ |  
-| Theme             |      Default |  
-| Preview Length    |           25 |  
-| Strip HTML Tags   |           No |  
-| Previews Per Page |            8 |
-| Items Per Row     |            4 |
-| Arrow Navigation  |         Show |  
-| Pagination        |         Hide |  
+| Display Limit     | ∞            |  
+| Theme             | Default      |  
+| Preview Length    | 25           |  
+| Strip HTML Tags   | No           |  
+| Previews Per Page | 8            |  
+| Items Per Row     | 4            |  
+| Arrow Navigation  | Show         |  
+| Pagination        | Hide         |  
 | Animation         | Fade Delayed |  
-| Autoplay          |      Disable |  
-| Autoplay Delay    |            5 |  
-| Image Resize      |      Disable |  
-| Default Title     |         None | 
-| Default Link      |         None |
+| Autoplay          | Disable      |  
+| Autoplay Delay    | 5            |  
+| Image Resize      | Disable      |  
+| Default Title     | None         |  
+| Default Link      | None         |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 

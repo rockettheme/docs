@@ -34,18 +34,18 @@ The Gantry Menu widget should be set to match your site's main menu as it serves
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
 
-| Option            |   Setting |  
-| :---------------- | --------: |  
+| Option            | Setting   |  
+| :---------------- | :-------- |  
 | Menu              | Main Menu |  
-| Menu Theme        |  Dropdown |  
-| SplitMenu Style   |      None |  
-| Limit Levels      |        No |  
-| Start Level       |         0 |  
-| End Level         |         0 |  
-| Show All Children |       Yes |  
-| Show Empty Menu   |        No |  
-| Maximum Depth     |        10 |  
-| Custom Chrome     |      Menu |  
+| Menu Theme        | Dropdown  |  
+| SplitMenu Style   | None      |  
+| Limit Levels      | No        |  
+| Start Level       | 0         |  
+| End Level         | 0         |  
+| Show All Children | Yes       |  
+| Show Empty Menu   | No        |  
+| Maximum Depth     | 10        |  
+| Custom Chrome     | Menu      |  
 
 #### Gantry Login Button
 

@@ -77,6 +77,7 @@ breadcrumb: /!WordPress:WordPress/
 
 * Club Themes
 	
+	- [Stratos](themes/stratos)
 	- [Hexeris](themes/hexeris)
 	- [Alerion](themes/alerion)
 	- [Chapelco](themes/chapelco)

@@ -26,17 +26,17 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 Here is a look at the **Tabs Layout Options** for this widget.
 
-| Option          |        Setting |  
-| :-------------- | -------------: |  
-| Theme           |        Default |  
-| Tabs Position   |            Top |  
-| Display Limit   |              ∞ |  
+| Option          | Setting        |  
+| :-------------- | :------------- |  
+| Theme           | Default        |  
+| Tabs Position   | Top            |  
+| Display Limit   | ∞              |  
 | Animation       | Slide and Fade |  
-| Autoplay        |        Disable |  
-| Autoplay Delay  |              5 |  
-| Image Resize    |        Disable |  
-| Preview Length  |              0 |  
-| Strip HTML Tags |             No |  
+| Autoplay        | Disable        |  
+| Autoplay Delay  | 5              |  
+| Image Resize    | Disable        |  
+| Preview Length  | 0              |  
+| Strip HTML Tags | No             |   
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
 
@@ -65,16 +65,16 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 Here is a look at the **Lists Layout Options** for this widget.
 
 | Option              | Setting |  
-| :------------------ | ------: |  
+| :------------------ | :------ |  
 | Theme               | Default |  
-| Collapsible Preview |  Enable |  
-| Display Limit       |       ∞ |  
-| Preview Length      |      20 |  
-| Strip HTML Tags     |     Yes |  
-| Previews Per Page   |       3 |  
-| Arrow Navigation    |    Show |  
-| Pagination          |    Show |  
-| Autoplay            |       5 |  
+| Collapsible Preview | Enable  |  
+| Display Limit       | ∞       |  
+| Preview Length      | 20      |  
+| Strip HTML Tags     | Yes     |  
+| Previews Per Page   | 3       |  
+| Arrow Navigation    | Show    |  
+| Pagination          | Show    |  
+| Autoplay            | 5       |  
 | Image Resize        | Disable |  
 
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
