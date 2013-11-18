@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!alerion:Alerion
+breadcrumb: /wordpress:WordPress/!themes:Themes/!alerion:Alerion
 
 ---
 

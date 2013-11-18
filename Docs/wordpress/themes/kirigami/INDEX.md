@@ -1,7 +1,7 @@
 ---
 title: Kirigami
 description: Your Guide to Using the Kirigami Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!kirigami:Kirigami
+breadcrumb: /wordpress:WordPress/!themes:Themes/!kirigami:Kirigami
 
 ---
 

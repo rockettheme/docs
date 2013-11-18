@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!metropolis:Metropolis
+breadcrumb: /wordpress:WordPress/!themes:Themes/!metropolis:Metropolis
 
 ---
 

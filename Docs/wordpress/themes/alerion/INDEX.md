@@ -1,7 +1,7 @@
 ---
 title: Alerion
 description: Your Guide to Using the Alerion Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!alerion:Alerion
+breadcrumb: /wordpress:WordPress/!themes:Themes/!alerion:Alerion
 
 ---
 

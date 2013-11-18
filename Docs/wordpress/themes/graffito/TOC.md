@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!graffito:Graffito
+breadcrumb: /wordpress:WordPress/!themes:Themes/!graffito:Graffito
 
 ---
 

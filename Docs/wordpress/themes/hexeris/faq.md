@@ -1,7 +1,7 @@
 ---
 title: Hexeris: FAQ
 description: Your Guide to Using the Hexeris Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/hexeris:Hexeris
+breadcrumb: /wordpress:WordPress/!themes:Themes/hexeris:Hexeris
 
 ---
 

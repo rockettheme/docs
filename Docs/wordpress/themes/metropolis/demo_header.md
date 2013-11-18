@@ -1,7 +1,7 @@
 ---
 title: Metropolis: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Metropolis Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/metropolis:Metropolis
+breadcrumb: /wordpress:WordPress/!themes:Themes/metropolis:Metropolis
 
 ---
 

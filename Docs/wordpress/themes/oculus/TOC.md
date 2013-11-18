@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!oculus:Oculus
+breadcrumb: /wordpress:WordPress/!themes:Themes/!oculus:Oculus
 
 ---
 

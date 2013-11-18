@@ -1,7 +1,7 @@
 ---
 title: Leviathan
 description: Your Guide to Using the Leviathan Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!Leviathan:Leviathan
+breadcrumb: /wordpress:WordPress/!themes:Themes/!Leviathan:Leviathan
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Chapelco: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Chapelco Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/chapelco:Chapelco
+breadcrumb: /wordpress:WordPress/!themes:Themes/chapelco:Chapelco
 
 ---
 

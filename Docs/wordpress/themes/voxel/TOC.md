@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!voxel:Voxel
+breadcrumb: /wordpress:WordPress/!themes:Themes/!voxel:Voxel
 
 ---
 

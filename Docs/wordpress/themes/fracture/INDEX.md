@@ -1,7 +1,7 @@
 ---
 title: Fracture
 description: Your Guide to Using the Fracture Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!fracture:Fracture
+breadcrumb: /wordpress:WordPress/!themes:Themes/!fracture:Fracture
 
 ---
 

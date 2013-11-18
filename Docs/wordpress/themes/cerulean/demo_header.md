@@ -1,7 +1,7 @@
 ---
 title: Cerulean: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Cerulean Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/cerulean:Cerulean
+breadcrumb: /wordpress:WordPress/!themes:Themes/cerulean:Cerulean
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Diametric: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Diametric Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/dametric:Diametric
+breadcrumb: /wordpress:WordPress/!themes:Themes/dametric:Diametric
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Metropolis
 description: Your Guide to Using the Metropolis Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!metropolis:Metropolis
+breadcrumb: /wordpress:WordPress/!themes:Themes/!metropolis:Metropolis
 
 ---
 

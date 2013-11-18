@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!chapelco:Chapelco
+breadcrumb: /wordpress:WordPress/!themes:Themes/!chapelco:Chapelco
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Oculus: FAQ
 description: Your Guide to Using the Oculus Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/oculus:Oculus
+breadcrumb: /wordpress:WordPress/!themes:Themes/oculus:Oculus
 
 ---
 

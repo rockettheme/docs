@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!cerulean:Cerulean
+breadcrumb: /wordpress:WordPress/!themes:Themes/!cerulean:Cerulean
 
 ---
 

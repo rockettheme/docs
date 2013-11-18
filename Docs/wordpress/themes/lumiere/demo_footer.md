@@ -1,7 +1,7 @@
 ---
 title: Lumiere: Recreating the Demo - Footer
 description: Your Guide to Recreating Elements of the Lumiere Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/lumiere:Lumiere
+breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 ---
 

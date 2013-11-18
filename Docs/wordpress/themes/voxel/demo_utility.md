@@ -1,7 +1,7 @@
 ---
 title: Voxel: Recreating the Demo - Utility
 description: Your Guide to Recreating Elements of the Voxel Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/voxel:Voxel
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 

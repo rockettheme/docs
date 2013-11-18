@@ -1,7 +1,7 @@
 ---
 title: Lumiere: FAQ
 description: Your Guide to Using the Lumiere Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/lumiere:Lumiere
+breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 ---
 

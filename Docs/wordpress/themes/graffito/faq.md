@@ -1,7 +1,7 @@
 ---
 title: Graffito: FAQ
 description: Your Guide to Using the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
+breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
 
 ---
 

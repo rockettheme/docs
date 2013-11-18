@@ -1,7 +1,7 @@
 ---
 title: Ionosphere: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Ionosphere Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/ionosphere:Ionosphere
+breadcrumb: /wordpress:WordPress/!themes:Themes/ionosphere:Ionosphere
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Graffito: Recreating the Demo - Copyright
 description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/graffito:Graffito
+breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
 
 ---
 

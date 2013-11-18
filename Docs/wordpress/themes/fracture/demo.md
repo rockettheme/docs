@@ -1,7 +1,7 @@
 ---
 title: Fracture: Recreating the Demo
 description: Your Guide to Recreating Elements of the Fracture Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/fracture:Fracture
+breadcrumb: /wordpress:WordPress/!themes:Themes/fracture:Fracture
 
 ---
 

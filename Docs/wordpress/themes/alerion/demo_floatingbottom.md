@@ -1,7 +1,7 @@
 ---
 title: Alerion: Recreating the Demo - Floating Module Bottom
 description: Your Guide to Recreating Elements of the Alerion Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/alerion:Alerion
+breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
 

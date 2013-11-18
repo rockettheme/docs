@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!hexeris:Hexeris
+breadcrumb: /wordpress:WordPress/!themes:Themes/!hexeris:Hexeris
 
 ---
 

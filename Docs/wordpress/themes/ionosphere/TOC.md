@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!ionosphere:Ionosphere
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ionosphere:Ionosphere
 
 ---
 

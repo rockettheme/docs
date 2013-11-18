@@ -1,7 +1,7 @@
 ---
 title: Oculus: Recreating the Demo - Overrides
 description: Your Guide to Recreating Elements of the Oculus Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/oculus:Oculus
+breadcrumb: /wordpress:WordPress/!themes:Themes/oculus:Oculus
 
 ---
 

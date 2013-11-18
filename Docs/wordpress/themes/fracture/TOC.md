@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!fracture:Fracture
+breadcrumb: /wordpress:WordPress/!themes:Themes/!fracture:Fracture
 
 ---
 

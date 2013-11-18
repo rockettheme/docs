@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!kirigami:Kirigami
+breadcrumb: /wordpress:WordPress/!themes:Themes/!kirigami:Kirigami
 
 ---
 

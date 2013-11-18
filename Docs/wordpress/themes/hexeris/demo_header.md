@@ -1,7 +1,7 @@
 ---
 title: Hexeris: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Hexeris Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/hexeris:Hexeris
+breadcrumb: /wordpress:WordPress/!themes:Themes/hexeris:Hexeris
 
 ---
 

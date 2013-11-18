@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!lumiere:Lumiere
+breadcrumb: /wordpress:WordPress/!themes:Themes/!lumiere:Lumiere
 
 ---
 

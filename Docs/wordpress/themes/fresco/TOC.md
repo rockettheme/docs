@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
 
 ---
 

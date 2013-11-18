@@ -1,7 +1,7 @@
 ---
 title: Cerulean
 description: Your Guide to Using the Cerulean Theme for WordPress
-breadcrumb: /wordpress:WordPress/themes:Themes/!cerulean:Cerulean
+breadcrumb: /wordpress:WordPress/!themes:Themes/!cerulean:Cerulean
 
 ---
 

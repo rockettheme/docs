@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/themes:Themes/!leviathan:Leviathan
+breadcrumb: /wordpress:WordPress/!themes:Themes/!leviathan:Leviathan
 
 ---
 
