@@ -3,6 +3,10 @@ title: Joomla! Documentation
 description: Joomla is a hugely popular open source Content Management System (CMS) and the platform this site is built upon. This section enables you to find out more about Joomla and how to use it with RocketTheme templates and extensions.
 landing: true
 breadcrumb: /!joomla:Joomla/
+more:
+	Basic Tutorials: 7
+	Free Extensions: 7
+	Club Templates: 7
 
 ---
 
@@ -19,15 +23,6 @@ breadcrumb: /!joomla:Joomla/
 
 	- [How to Install Joomla 3.x](platform/install_joomla_3x.md)
 	  Find out about the benefits and capabilities of joining the RocketTheme Joomla Club
-
-	- [Understanding Hosting](platform/hosting.md)
-	  Helpful tips and tricks to get you started with the right hosting provider.
-
-	- [Joomla Templates](platform/templates.md)
-	  Find out exactly what a Joomla template entails and what its relationship is with other Joomla extensions.
-
-	- [Joomla Extensions](platform/extensions.md)
-	  Discover how RocketTheme Joomla extensions help you to create a powerful site.
 
 <!-- -->
 
