@@ -30,7 +30,7 @@ When using PayPal as a checkout provider, you can add taxes into the RokQuickCar
 
 #### Shipping amounts with PayPal.
 
-Shipping amounts with PayPal are totalled by the cart and passed to PayPal as a line item in the cart. There are four different types of shipping calculation methods:
+Shipping amounts with PayPal are totaled by the cart and passed to PayPal as a line item in the cart. There are four different types of shipping calculation methods:
 
 Per Item Shipping: Shipping cost is based on the shipping cost per item. If you use a different method, make sure each cart items shipping amount is set to 0.
 Flat Rate: One set shipping price for the whole order.
@@ -46,7 +46,7 @@ At this point, RokQuickCart uses the Google Checkout HTML API. Sp be sure to tur
 
 #### Taxes and Shipping with Google Checkout
 
-Taxes and Shipping for google checkout are handled in the Google Checkout Setup. It is based on your location and the location of the purchaser. You can customize your tax rates and shipping based on multiple rules that you define. There for only the tax rate is passed to google checkout from RokQuickCart. Google Checkout will only add the taxes and shipping in if you define it to do so in the setup.
+Taxes and Shipping for Google Checkout are handled in the Google Checkout Setup. It is based on your location and the location of the purchaser. You can customize your tax rates and shipping based on multiple rules that you define. There for only the tax rate is passed to Google Checkout from RokQuickCart. Google Checkout will only add the taxes and shipping in if you define it to do so in the setup.
 
 Checkout Modes
 -----

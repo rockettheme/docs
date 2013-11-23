@@ -10,7 +10,7 @@ Plugin Configuration
 
 RokBooster gives you the ability to optimize your entire site in order to reduce the load on your server, deliver a faster experience to your users, and potentially improve pagerank through reducing site load times.
 
-You can access the RokBooster plugin settings by navigating to **Extensions → Plug-in Manager → System - RokBooster**. 
+You can access the RokBooster plugin settings by navigating to **Extensions -> Plug-in Manager -> System - RokBooster**. 
 
 ### Details
 ![][rokbooster_setup_8]

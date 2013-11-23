@@ -7,6 +7,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/!rokstock:RokStock
 
 Introduction
 -----
+
 ![][rokstock]
 
 RokStock, is an Ajax-powered stocks module for your site. It has been finely tuned to give stocks character such as a coloured line graph, coloured indexes, draggable indexes, tooltips and much more.
@@ -15,6 +16,7 @@ Your users can easily add, remove, and reorder the stock symbols in their portfo
 
 Requirements
 ------------
+
 RokStock has the following requirements in order to operate:
 
 * Joomla 2.5 or 3.x - ensure you are using the latest version.
@@ -26,6 +28,7 @@ RokStock has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * **Multiple Stocks**: Display multiple stocks and compare them with the graphs and data.
 * **Interactivity**: The RokStock module is dynamic. The users can make changes such as adding, removing, and reordering stocks displayed.
 * **Cookies**: RokStock stores the user's status in a cookie so the tickers will retain user settings after the page is refreshed.
@@ -35,6 +38,7 @@ RokStock uses the Google Finance API to show its data. There are a wide range of
 
 How to install
 --------------
+
 Installing RokStock takes just a matter of few minutes.
 
 The first thing you’ll need to do is [download][download] the latest version of RokStock. The package you will download contains everything to get RokStock up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 

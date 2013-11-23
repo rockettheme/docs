@@ -6,7 +6,7 @@ breadcrumb: /joomla:Joomla/extensions:Extensions/rokpad:RokPad
 ---
 
 ### Accessing the Plugins Page
-Next, go to **Extensions → Plug-in Manager**. From the list, find **Editor - RokPad** and open it to be brought to the RokPad Plugin Manager page, which lists all the available options for the plugin.
+Next, go to **Extensions -> Plug-in Manager**. From the list, find **Editor - RokPad** and open it to be brought to the RokPad Plugin Manager page, which lists all the available options for the plugin.
 
 #### Details Tab
 ![][details]

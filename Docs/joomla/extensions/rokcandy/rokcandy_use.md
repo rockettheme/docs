@@ -15,7 +15,7 @@ The file is called **default.ini** and, if you are using a RocketTheme template 
 
 ![][rokcandy2]
 
-Also, you can add and control your own in the Administrator: **Components → RokCandy**. They will appear in the following format:
+Also, you can add and control your own in the Administrator: **Components -> RokCandy**. They will appear in the following format:
 
 ~~~
 [tag]{text}[/tag]=<tag>{text}</tag>

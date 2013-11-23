@@ -16,7 +16,7 @@ Administering RokGallery can take some getting used to, though it does deliver a
 #### How to Get to the RokGallery Administrator
 ![][rokgallery_component]
 
-Accessing the main RokGallery Administrator within Joomla is fairly easy. You simply need to navigate to **Administrator → Components → RokGallery** once the extension is activated.
+Accessing the main RokGallery Administrator within Joomla is fairly easy. You simply need to navigate to **Administrator -> Components -> RokGallery** once the extension is activated.
 
 #### Understanding the Administrator
 

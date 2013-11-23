@@ -106,7 +106,7 @@ From Joomla 2.5 and 3.x:
 Once installation is complete, a message highlighted in green should indicate its successful completion.
 
 ### Accessing the Plugin Page
-You can access the RokBooster configuration page by navigating to **Extensions → Plugin Manager**. In the list, you will find **System - RokBooster**. Click the name in order to enter RokBooster's Plugin Manager. The plugin needs to be set to **Enabled** to operate.
+You can access the RokBooster configuration page by navigating to **Extensions -> Plugin Manager**. In the list, you will find **System - RokBooster**. Click the name in order to enter RokBooster's Plugin Manager. The plugin needs to be set to **Enabled** to operate.
 
 [featured]: assets/roksprocket-layout.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster

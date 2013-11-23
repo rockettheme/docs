@@ -68,7 +68,7 @@ If everything worked properly, you will get a notification indicating as much. Y
 
 ### Set RokPad as your default Editor
 ![][default]
-Go to **Site → Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
+Go to **Site -> Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
 
 [featured]: assets/rokpad-layout.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad
