@@ -1,16 +1,18 @@
 ---
 title: Joomla! Hosting
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /hosting:Hosting Help/
 
 ---
 
 Hosting
-======
+-----
+
 Joomla, like any web-based technology, needs to be hosted somewhere in order for you to use it. You can host Joomla on several different platforms ranging from your personal computer to a series of redundant data centers placed strategically around the world. Most small sites opt to have Joomla hosted via a shared or managed hosting plan set up with a commercial provider. These providers set data centers up, complete with server hardware, software, and a user-friendly Web-based interface that enables you to manage your server from anywhere in the world. Often, this comes at a very low price, with the option to upgrade to dedicated server hardware and redundant global reach at a premium.
 
 If you're just wanting to get started with Joomla and build your site before jumping to a publicly-accessible hosting solution, then the answer can be as simple as setting one up on your personal computer. All you need to do this is compatible hosting software and a little time to set up. 
 
 Here are a list of programs you can use to set up your own Joomla-capable server at home:
+
 * [MAMP and MAMP Pro](http://www.mamp.info/en/index.html) - Apache, PHP, MySQL on OS X
 * [Microsoft IIS7](http://www.iis.net/)
 * [WAMP](http://www.wampserver.com/en/) - Apache, PHP, MySQL on Windows
@@ -25,6 +27,7 @@ If you're building a site for a business with a little more cash to spend, you c
 
 Hosting Options
 --------------
+
 There are plenty of different options to consider when choosing the right hosting provider. Perhaps the most important consideration to make before looking at any of these options is in determining your site's actual needs.
 
 Here are some questions to ask yourself prior to making any hosting decisions.
@@ -38,9 +41,11 @@ Here are some questions to ask yourself prior to making any hosting decisions.
 With these answers at the ready, choosing the right hosting provider can be a fairly easy process. The vast majority of hosts out there offer pretty much the same list of benefits, with minor differences in location, technology, traffic capabilities, and price.
 
 ### Windows Vs. Linux
+
 While there are certainly plenty of excellent hosting technologies out there, there are very few providers that offer any alternatives to either Windows or Linux-based hosting services.
 
 #### Linux
+
 Linux has long been the go-to platform for Web hosting. The vast majority of the sites you visit every day are hosted on a Linux distro. It's starting to lose a little ground to Windows, but it still retains the top spot as the go-to platform for anyone wanting to run a cheap, reliable server.
 
 One of the reasons for Linux's popularity is that, for providers, it's free. You don't have to buy a new license for every instance of Linux you run in your data center. It's clean, configurable, and can be managed without ever having to load a graphical user interface. These savings are often passed on to customers.
@@ -48,22 +53,27 @@ One of the reasons for Linux's popularity is that, for providers, it's free. You
 In addition, you enjoy native support for a number of scripting languages including PHP, the language on which Joomla is built.
 
 #### Windows
+
 Windows is given a hard time for a number of reasons unrelated to actual server performance. Windows is actually a very capable server platform, especially if you need to run ASP or ASP.NET scripting. For the purposes of Joomla, MS SQL is a compatible database option, though you will want to make sure your provider has PHP support. This support didn't come about natively on IIS until IIS7.
 
 For the vast majority of Joomla applications out there, Linux is probably going to be your safest bet.
 
 ### Apache Vs. NGINX Vs. IIS
+
 Joomla's technical requirements include three different server technologies you can choose from. Apache, NGINX, and Microsoft IIS are three of the most common server software solutions you'll find listed in hosting provider's spec sheets.
 
 #### Apache
+
 Apache is by far the most popular Web hosting software currently being used. It can be run in a variety of forms on virtually any operating system (including OS X and Windows).
 
 Apache supports all of the technologies Joomla requires to function natively, and is quick and easy to set up via bundle software like MAMP, LAMP, and WAMP (listed above).
 
 #### Microsoft IIS7
+
 Microsoft's IIS server software is robust and capable. It's also the second most readily available hosting option aside from Linux-based Apache solutions. If you plan on running ASP or ASP.NET applications as part of your overall Web hosting needs, then this may well be the best option for you. You can run these through Apache with the help of extensions. Joomla doesn't require either to operate.
 
 #### NGINX
+
 NGINX (pronounced "engine X") is a rising star in the world of Web servers. It's seen largely as a quick and lightweight alternative to Apache. It's a favorite among Ruby developers, and has received plenty of attention for being quick and adaptable. It currently sits neck-and-neck with Microsoft IIS in terms of market share around 12.5% (depending on which statistic you read). This means it has a smaller body of community support than Apache, which has around a 60-70% market share in 2013.
 
 On the positive, NGINX currently powers some of the most popular sites on the Web. This includes: Netflix, Hulu, Pinterest, GitHub, Zynga, Eventbrite, Zappos, and more.
@@ -71,9 +81,11 @@ On the positive, NGINX currently powers some of the most popular sites on the We
 
 Server Requirements
 --------------
+
 In order for Joomla to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are some of the server, PHP, and MySQL requirements for the two current major versions of Joomla [(source)](http://www.joomla.org/technical-requirements.html).
 
 #### Joomla 2.5
+
 | Software      | Minimum       | Recommended |
 | :------------ |--------------:| ---------:  |
 | MySQL         | 5.0.4 +       | 5.0.4 +     |
@@ -83,6 +95,7 @@ In order for Joomla to operate properly, there are a series of requirements that
 | Microsoft IIS | 7             | 7           |
 
 #### Joomla 3.x
+
 | Software      | Minimum       |  Recommended  |
 | :------------ |--------------:| ------------: |
 | MySQL         | 5.1 +         | 5.1 +         |
