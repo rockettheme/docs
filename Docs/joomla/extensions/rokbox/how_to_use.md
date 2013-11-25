@@ -4,7 +4,8 @@ title: How to use
 ---
 
 How to use
-==========
+-----
+
 The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Exactly as any `<a>` link, a RokBox2 link can be placed just about anywhere in a page.
 
 The most basic and simple example of a RokBox2 snippet to get it up and running is:
@@ -19,6 +20,7 @@ As can be noticed, it is a regular `<a>` link. The only extraneous bit is that d
 
 Data-sets
 ---------
+
 Data-sets are introduced with HTML5 and allow to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for referencing settings.
 
 Moving away from class names in favor of data-sets allows not only to keep the HTML cleaner but also to avoid possible conflicts with the class names.
@@ -37,6 +39,7 @@ Below is a summary of implemented data-sets for RokBox2.
 
 
 #### data-rokbox-caption
+
 The caption is an optional data-set and will be shown on the popup when the specified link gets triggered.
 
 If desired, a caption can also be written using HTML syntax, but it has to be converted into [HTML entities][html_entities] in order to work.  
@@ -60,6 +63,7 @@ If you don't know how to convert to HTML entities, you can find [many][convert_1
 
 
 #### data-rokbox-album
+
 Assigning the same album value to different RokBox2 links will trigger the navigation on the popup. You can see the album as a way of grouping certain media into the same context. You can navigate forward or backward either by clicking on the arrows or through the left and right arrows keys (`⇠` / `⇢`).
 
 Imagine having 3 pictures of a product that you want the user to  navigate through. This is how you would achieve it:
@@ -74,6 +78,7 @@ As can be noticed, all three links share the same album name. The album name is 
 
 
 #### data-rokbox-element
+
 RokBox2 allows you to open in a popup elements that have been already rendered on the document ([DOM][dom_specs]). The elements must be referenced through the CSS-Style syntax.  
 For instance, if you wanted to open in RokBox2 an element with the id `#my-element` structured in such way:
 
@@ -116,6 +121,7 @@ And this is the syntax used to achieve it:
 
 
 #### data-rokbox-generate-thumbnail
+
 RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plug-in Manager -> Content - RokBox -> Core Options`.
 
 ![][rokbox2-thumbs-settings]
@@ -137,6 +143,7 @@ The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 1
 >> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible. 
 
 #### Safari 5 on Windows
+
 In order for RokBox to operate properly for Safari 5 users on Windows, you'll need to add a browser-specific CSS file with the following code:
 
 `.rokbox-wrapper .rokbox-outer .rokbox-row .rokbox-inner .rokbox-container {

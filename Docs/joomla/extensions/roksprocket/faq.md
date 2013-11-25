@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Frequently Asked Questions
 description: Frequently Asked Questions about RokSprocket for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 

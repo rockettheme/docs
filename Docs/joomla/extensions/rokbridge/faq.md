@@ -1,7 +1,7 @@
 ---
 title: RokBridge - FAQ
 description: Your Guide to Using RokBridge for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!RokBridge:RokBridge
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!RokBridge:RokBridge
 
 ---
 

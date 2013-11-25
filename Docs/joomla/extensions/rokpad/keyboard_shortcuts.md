@@ -1,7 +1,7 @@
 ---
 title: RokPad: Keyboard Shortcuts
 description: Your Guide to Using Keyboard Shortcuts in RokPad for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokpad:RokPad
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokpad:RokPad
 
 ---
 

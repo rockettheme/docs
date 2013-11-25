@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokupdater:RokUpdater
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokupdater:RokUpdater
 
 ---
 

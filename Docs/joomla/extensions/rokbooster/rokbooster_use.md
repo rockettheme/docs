@@ -1,7 +1,7 @@
 ---
 title: RokBooster: Setup Guide
 description: Your Guide to Setting Up and Using RokBooster for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokbooster:RokBooster
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokbooster:RokBooster
 
 ---
 

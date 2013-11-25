@@ -1,7 +1,7 @@
 ---
 title: RokMiniEvents
 description: Your Guide to Using RokMiniEvents for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/RokMiniEvents:RokMiniEvents
+breadcrumb: /joomla:Joomla/!extensions:Extensions/RokMiniEvents:RokMiniEvents
 
 ---
 

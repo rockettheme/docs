@@ -1,7 +1,7 @@
 ---
 title: RokGallery: Module Guide
 description: Your Guide to Setting Up and Using RokGallery Modules for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokgallery:RokGallery
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokgallery:RokGallery
 
 ---
 

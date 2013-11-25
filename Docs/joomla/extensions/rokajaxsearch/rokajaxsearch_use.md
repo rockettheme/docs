@@ -1,7 +1,7 @@
 ---
 title: RokAjaxSearch
 description: Your Guide to Using RokAjaxSearch for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokajaxsearch:RokAjaxSearch
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokajaxsearch:RokAjaxSearch
 
 ---
 
@@ -88,11 +88,7 @@ the oldest item will be loaded in the search result. There are a variety of opti
 
 4. **Show Category**: Sets the content filter rules for the module.
 
-<<<<<<< HEAD
 5. **Show Read More**: Set whether the Read More link should be display.
-=======
-5. **Show Read More**: Set whether the Read More link should be displayed. [73%, 13%, se]
->>>>>>> 710cc8b29489150536055d7af64facb4e7fe6c5a
 
 [featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch

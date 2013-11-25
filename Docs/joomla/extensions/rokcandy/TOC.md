@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokcandy:RokCandy
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcandy:RokCandy
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Mosaic Layout Mode
 description: Your Guide to the Mosaic RokSprocket Layout Mode for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: RokStock: Setup Guide
 description: Your Guide to Using RokStock for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokstock:RokStock
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokstock:RokStock
 
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: RokAjaxSearch
 description: Your Guide to Using RokAjaxSearch for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!!rokajaxsearch:RokAjaxSearch
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!!rokajaxsearch:RokAjaxSearch
 
 ---
 
 Introduction
 -----
+
 RokAjaxSearch is a truly powerful extension that brings fantastic search functionality to Joomla, using the powerful and versatile JavaScript library, Mootools, and full Google Search integration.
 
 ![][featured]
@@ -15,6 +16,7 @@ RokAjaxSearch adds real-time search to your site that is both powerful and custo
 
 Requirements
 -----
+
 RokAjaxSearch has the following requirements in order to operate:
 
 * Joomla 2.5 or 3.x - ensure you are using the latest version.
@@ -23,6 +25,7 @@ RokAjaxSearch has the following requirements in order to operate:
 
 Key Features
 -----
+
 * Real Time Search: AJAX loads search results in real time.
 * Multiple Sources: Search your local Joomla site or the web at large.
 * Search Options: Even more search options with Blog, Video and Images.
@@ -30,6 +33,7 @@ Key Features
 
 How to Install
 --------------
+
 Installing RokAjaxSearch takes just a matter of few minutes.
 
 The first thing you’ll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download contains everything to get RokAjaxSearch up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
@@ -52,3 +56,4 @@ Once installation is complete, a message highlighted in green should indicate it
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
+[download]: http://www.rockettheme.com/extensions-downloads/club/1004-rokajaxsearch

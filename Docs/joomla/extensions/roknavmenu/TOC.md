@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roknavmenu:RokNavMenu
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roknavmenu:RokNavMenu
 
 ---
 

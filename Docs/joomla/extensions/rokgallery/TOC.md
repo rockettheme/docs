@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokgallery:RokGallery
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokgallery:RokGallery
 
 ---
 

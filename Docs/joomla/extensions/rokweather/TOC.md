@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokweather:RokWeather
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokweather:RokWeather
 
 ---
 

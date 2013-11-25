@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokbooster:RokBooster
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbooster:RokBooster
 
 ---
 

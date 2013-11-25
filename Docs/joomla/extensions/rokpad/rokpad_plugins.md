@@ -1,7 +1,7 @@
 ---
 title: RokPad: Plugins Page
 description: Your Guide to Configuring the Plugins Page for RokPad in Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokpad:RokPad
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 
 ---
 

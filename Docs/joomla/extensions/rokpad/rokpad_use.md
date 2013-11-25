@@ -1,7 +1,7 @@
 ---
 title: RokPad: Using the Editor
 description: Your Guide to Using the RokPad Editor for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokpad:RokPad
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 
 ---
 

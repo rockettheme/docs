@@ -1,7 +1,7 @@
 ---
 title: RokWeather: Module Configuration
 description: Your Guide to Using the RokWeather Module for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/rokweather:RokWeather
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokweather:RokWeather
 
 ---
 

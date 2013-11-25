@@ -1,11 +1,12 @@
 ---
-title: RokComments
-description: Your Guide to Using RokComments for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokcomments:RokComments
+
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcomments:RokComments
 
 ---
 
-* Basics
-    * [Introduction]()
-* Tutorials
-    * [Album Gallery]()
+* RokComments
+    * [Introduction](INDEX.md)
+    * [Requirements](INDEX.md#requirements)
+    * [Features](INDEX.md#key-features)
+    * [Installation](INDEX.md#how-to-install)
+    * [Setup](setup.md)

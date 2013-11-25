@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Tabs Layout Mode
 description: Your Guide to the Tabs RokSprocket Layout Mode for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 

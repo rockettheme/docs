@@ -1,7 +1,7 @@
 ---
 title: RokNavMenu: Setup Guide
 description: Your Guide to Using RokNavMenu for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roknavmenu:RokNavMenu
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roknavmenu:RokNavMenu
 tags: [roknavmenu, setup, splitmenu, dropdown]
 
 ---

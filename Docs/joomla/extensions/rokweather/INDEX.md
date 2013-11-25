@@ -1,7 +1,7 @@
 ---
 title: RokWeather
 description: Your Guide to Using RokWeather for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokweather:RokWeather
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokweather:RokWeather
 
 ---
 

@@ -5,7 +5,8 @@ tags: [rokbox, index, foobar]
 ---
 
 Introduction
-============
+-----
+
 RokBox2 is a fully responsive modal plug-in for Joomla and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and Joomla modules and takes advantage of the new technologies such as HTML5 and CSS3.
 
 ![][featured]
@@ -28,6 +29,7 @@ The **System plug-in** is responsible for loading the assets necessary for RokBo
 
 Requirements
 ------------
+
 RokBox2 has the following requirements in order to operate:
 
 * Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
@@ -38,6 +40,7 @@ RokBox2 has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * HTML5 and CSS3
 * Fully Responsive
 * Auto thumbnails generator
@@ -62,6 +65,7 @@ Key Features
 
 How to install
 --------------
+
 Installing RokBox2 takes just a matter of few minutes.
 
 The first thing you'll need to do is [download][download] the latest version of RokBox2. The package you will download is a bundle containing all of the required plugins to get RokBox2 up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed.

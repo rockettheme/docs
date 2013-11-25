@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Features Layout Mode
 description: Your Guide to the Features RokSprocket Layout Mode for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: RokUpdater
 description: Your Guide to Using RokUpdater for Joomla
-breadcrumb: /joomla:Joomla/extensions:Extensions/!rokupdater:RokUpdater
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokupdater:RokUpdater
 
 ---
 
