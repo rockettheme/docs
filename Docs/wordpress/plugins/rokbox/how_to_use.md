@@ -116,7 +116,7 @@ And this is the syntax used to achieve it:
 
 
 #### data-rokbox-generate-thumbnail
-RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plug-in Manager -> Content - RokBox -> Core Options`.
+RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plugin Manager -> Content - RokBox -> Core Options`.
 
 ![][rokbox2-thumbs-settings]
 

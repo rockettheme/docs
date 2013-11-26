@@ -43,7 +43,7 @@ Below is a summary of implemented data-sets for RokBox2.
 The caption is an optional data-set and will be shown on the popup when the specified link gets triggered.
 
 If desired, a caption can also be written using HTML syntax, but it has to be converted into [HTML entities][html_entities] in order to work.  
-It is suggested not to abuse the HTML syntax in a caption, to prevent potential layout issues. Tendentially the preferred HTML syntax one would use are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
+It is suggested not to abuse the HTML syntax in a caption, to prevent potential layout issues. The preferred HTML syntax one would use are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
 
 Here are a couple of examples of a RokBox2 link with caption, both plain caption and HTML caption.
 
@@ -122,7 +122,7 @@ And this is the syntax used to achieve it:
 
 #### data-rokbox-generate-thumbnail
 
-RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plug-in Manager -> Content - RokBox -> Core Options`.
+RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plugin Manager -> Content - RokBox -> Core Options`.
 
 ![][rokbox2-thumbs-settings]
 

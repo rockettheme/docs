@@ -13,7 +13,7 @@ RokComments is built to work with several of the most popular Javascript-based c
 Configuration
 -----
 
-You can access the main configuration page for RokComments by navigating to **Administrator -> Extensions -> Plug-in Manager -> Content - RokComments**. The **Details** tab of this page gives you the ability to set the publishing status, access levels, and Joomla ordering. The main configuration options for this plug-in are set in the **Basic Options** tab. Below, we've outlined the available options.
+You can access the main configuration page for RokComments by navigating to **Administrator -> Extensions -> Plugin Manager -> Content - RokComments**. The **Details** tab of this page gives you the ability to set the publishing status, access levels, and Joomla ordering. The main configuration options for this plugin are set in the **Basic Options** tab. Below, we've outlined the available options.
 
 ![][setup]
 
@@ -82,7 +82,7 @@ Lastly, copy the **App ID** value as you will need this to configure RokComments
 
 ### Configure
 
-Open up the RokComments Content Plugin via the Plugin Manager in the Joomla Administrator. Set the following attributes:
+Open up the RokComments Content Plugin via the **Plugin Manager** in the Joomla Administrator. Set the following attributes:
 
 * Set **Comment System** to **Facebook**.
 

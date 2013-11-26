@@ -1,7 +1,7 @@
 ---
 title: RokQuickCart - Setup Guide
 description: Your Guide to Using RokQuickCart for Joomla
-breadcrumb: /!joomla:Joomla/!extensions:Extensions/rokquickcart:RokQuickCart
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokquickcart:RokQuickCart
 
 ---
 

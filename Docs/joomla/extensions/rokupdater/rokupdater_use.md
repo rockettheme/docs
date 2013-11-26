@@ -23,9 +23,10 @@ Once authenticated, the yellow authentication bar will be replaced with a blue o
 
 Plugin Manager Settings
 -----
+
 ![][rokupdater_plugin_manager_1]
 
-RokUpdater gives you the ability to hide or display the RocketTheme authentication state in the Update manager. This is useful if you wish to grant access to the update manager to certain users without necessarily making them aware of which club(s) or user names the primary account administrator is signed in through. The authentication state will always be displayed in the Plug-in Manager.
+RokUpdater gives you the ability to hide or display the RocketTheme authentication state in the Update manager. This is useful if you wish to grant access to the update manager to certain users without necessarily making them aware of which club(s) or user names the primary account administrator is signed in through. The authentication state will always be displayed in the Plugin Manager.
 
 Additionally, you can opt to hide updates that are presently unavailable from the update screen. This step further reduces any potential confusion that might occur.
 

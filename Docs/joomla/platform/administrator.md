@@ -68,7 +68,7 @@ The **Components** area of the admin menu gives you quick access to configuratio
 
 ![][j3x7]
 
-**Extensions** gives you access to the **Extension Manager**, **Module Manager**, **Plug-in Manager**, **Template Manager**, and **Language Manager**. This is where you would go if you needed to install or remove an extension, configure options for specific extensions, change languages on your site, and manage your site's template. It will likely be your most visited area in the admin menu while you build and configure your site's layout and style.
+**Extensions** gives you access to the **Extension Manager**, **Module Manager**, **Plugin Manager**, **Template Manager**, and **Language Manager**. This is where you would go if you needed to install or remove an extension, configure options for specific extensions, change languages on your site, and manage your site's template. It will likely be your most visited area in the admin menu while you build and configure your site's layout and style.
 
 ### Help
 

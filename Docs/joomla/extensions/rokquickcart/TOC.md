@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /!joomla:Joomla/!extensions:Extensions/!rokquickcart:RokQuickCart
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokquickcart:RokQuickCart
 
 ---
 

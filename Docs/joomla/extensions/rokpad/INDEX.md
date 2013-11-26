@@ -62,7 +62,7 @@ From Joomla 2.5 and 3.x:
 
 >> NOTE: For additional information on installing extensions, visit our detailed extensions installation guide located [here][install].
 
-If everything worked properly, you will get a notification indicating as much. You can configure the plugin from: `Extensions -> Plug-in Manager`, where it is listed as **System - RokPad**.
+If everything worked properly, you will get a notification indicating as much. You can configure the plugin from: `Extensions -> Plugin Manager`, where it is listed as **System - RokPad**.
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 

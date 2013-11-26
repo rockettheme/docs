@@ -7,23 +7,23 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokbox:RokBox
 
 Introduction
 ============
-RokBox2 is a fully responsive modal plug-in for WordPress and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress widgets and takes advantage of the new technologies such as HTML5 and CSS3.
+RokBox2 is a fully responsive modal plugin for WordPress and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress widgets and takes advantage of the new technologies such as HTML5 and CSS3.
 
 ![][featured]
 
 RokBox2 is bundled with:
 
-1. a Content plug-in
-2. a Button Editor plug-in
-3. a System plug-in
+1. a Content plugin
+2. a Button Editor plugin
+3. a System plugin
 
-The **Content plug-in** can auto-generate thumbnails of local images that can be used as content for the RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
+The **Content Plugin** can auto-generate thumbnails of local images that can be used as content for the RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
 
-The **Button Editor plug-in** allows for easy creation of RokBox2 snippets with just a few clicks.
+The **Button Editor Plugin** allows for easy creation of RokBox2 snippets with just a few clicks.
 
-The **System plug-in** is responsible for loading the assets necessary for RokBox2 to work.
+The **System Plugin** is responsible for loading the assets necessary for RokBox2 to work.
 
->> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plug-in.
+>> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plugin.
 >>
 >> Be aware that the Backward compatibility can dramatically slow down the loading of your site. It is highly suggested to convert the old syntax into the new one.
 
