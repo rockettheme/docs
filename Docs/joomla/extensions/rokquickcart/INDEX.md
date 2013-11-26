@@ -10,7 +10,7 @@ Introduction
 
 ![][extension]
 
-RokQuickCart is a simple shopping cart for Joomla. It takes a simple, yet elegant, shopping cart script and integrates directly into Joomla. It allows you to showcase products, inclusive of images, descriptions and additional options, and purchase these items, with support for shipping and tax calculation..
+RokQuickCart is a simple shopping cart for Joomla. It takes a simple, yet elegant, shopping cart script and integrates directly into Joomla. It allows you to showcase products, inclusive of images, descriptions and additional options, and purchase these items, with support for shipping and tax calculation.
 
 The extension uses **PayPal** and **Google Checkout** as its payment systems, and comes with a built-in theme.
 
@@ -50,7 +50,7 @@ From Joomla 2.5 and 3.x:
 
 >> NOTE: For additional information on installing extensions, visit our detailed extensions installation guide located [here][install].
 
->> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
+>> RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [download]: http://www.rockettheme.com/extensions-downloads/free/1112-rokquickcart
 [install]: ../../platform/extensions.md#how-to-install-an-extension

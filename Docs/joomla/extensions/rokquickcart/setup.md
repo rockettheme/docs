@@ -26,7 +26,7 @@ If you wish to use PayPal as a checkout provider you must set up a business PayP
 
 #### Taxes with Paypal
 
-When using PayPal as a checkout provider, you can add taxes into the RokQuickCart display. These will be passed on to PayPal. The taxes as a simple Tax Amount. The Tax Rate is based on a single unit of currency (1.00). So if you want to do a 10% tax rate, you would set the tax rate field in the configuration to 0.10.
+When using PayPal as a checkout provider, you can add taxes into the RokQuickCart display. These will be passed on to PayPal. The Tax Rate is based on a single unit of currency (1.00). So if you want to do a 10% tax rate, you would set the tax rate field in the configuration to 0.10.
 
 #### Shipping amounts with PayPal.
 
@@ -40,22 +40,22 @@ The Shipping will be added as a line item
 
 ### Google Checkout
 
-If you want to use Google Checkout as your cart processor, please follow the [instructions on signing up with Google Checkout][checkout]. Following these instructions you will signup
+If you want to use Google Checkout as your cart processor, please follow the [instructions on signing up with Google Checkout][checkout].
 
-At this point, RokQuickCart uses the Google Checkout HTML API. Sp be sure to turn OFF the "Shopping cart post security" as talked about on the Signup Page. This must be turned off for both the Sandbox and Production Google Checkout accounts in order for your cart to be processed.
+At this point, RokQuickCart uses the Google Checkout HTML API. So be sure to turn OFF the "Shopping cart post security" as talked about on the Signup Page. This must be turned off for both the Sandbox and Production Google Checkout accounts in order for your cart to be processed.
 
 #### Taxes and Shipping with Google Checkout
 
-Taxes and Shipping for Google Checkout are handled in the Google Checkout Setup. It is based on your location and the location of the purchaser. You can customize your tax rates and shipping based on multiple rules that you define. There for only the tax rate is passed to Google Checkout from RokQuickCart. Google Checkout will only add the taxes and shipping in if you define it to do so in the setup.
+Taxes and Shipping for Google Checkout are handled in the Google Checkout Setup. It is based on your location and the location of the purchaser. You can customize your tax rates and shipping based on multiple rules that you define. Therefore only the tax rate is passed to Google Checkout from RokQuickCart. Google Checkout will only add the taxes and shipping in if you define it to do so in the setup.
 
 Checkout Modes
 -----
 
-RokQuickCart provides both Production and Sandbox modes to allow you to easily test your cart and the switch it to production.
+RokQuickCart provides both Production and Sandbox modes to allow you to easily test your cart and then switch it to production.
 
 ### SandBox Mode
 
-Sandbox mode allows you to test the cart against the PayPal and Google Checkout Sandboxes. Using your sandbox ids, you can test the carts against the checkout provider and make sure they are working for your needs. When in sandbox mode no real orders will be taken, and no real charges will be applied.
+Sandbox mode allows you to test the cart against the PayPal and Google Checkout Sandboxes. Using the sandbox, you can test the carts against the checkout provider and make sure they are working for your needs. When in sandbox mode no real orders will be taken, and no real charges will be applied.
 
 #### PayPal Sandbox
 
