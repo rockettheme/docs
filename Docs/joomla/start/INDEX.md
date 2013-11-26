@@ -5,15 +5,15 @@ title: Start
 
 What is Joomla?
 ===
-Joomla is an open source platform on which Web sites and applications can be created. It's a content management system (CMS) which connects your site to a MySQLi, MySQL, or PostgreSQL database in order to make content management and delivery easier on both the site manager and visitor.
+Joomla is an open source platform on which Web sites and applications can be created. It is a content management system (CMS) which connects your site to a MySQLi, MySQL, or PostgreSQL database in order to make content management and delivery easier on both the site manager and visitor.
 
-Joomla's primary focus has been on usability and extensibility since its initial release in 2005. It's because of this that the project has been the recipient of numerous awards, including being a three-time recipient of the PACKT Open Source Content Management System Award.
+Joomla's primary focus has been on usability and extensibility since its initial release in 2005. It is because of this that the project has been the recipient of numerous awards, including being a three-time recipient of the PACKT Open Source Content Management System Award.
 
-Joomla is a completely free open source solution available to anyone and everyone with a desire to build dynamic and robust sites for a variety of purposes. Joomla has been utilized by some of the Web's most recognizable brands including Harvard, iHop, and MTV. It's capable of carrying out tasks ranging from corporate websites and blogs to social networks and e-commerce.
+Joomla is a completely free open source solution available to anyone and everyone with a desire to build dynamic and robust sites for a variety of purposes. Joomla has been utilized by some of the Web's most recognizable brands including Harvard, iHop, and MTV. It is capable of carrying out tasks ranging from corporate websites and blogs to social networks and e-commerce.
 
-Joomla is backed by a large and active developer community. With thousands of unique and useful extensions and templates available, it is presently one of the largest single site building platforms available. It's this incredible community effort that makes Joomla a great choice for developers searching for a single platform with which they can receive active support from their peers.
+Joomla is backed by a large and active developer community. With thousands of unique and useful extensions and templates available, it is presently one of the largest single site building platforms available. It is this incredible community effort that makes Joomla a great choice for developers searching for a single platform with which they can receive active support from their peers.
 
-It's important to think of Joomla not as a limited platform on which a specific type of site is built, but a robust set of tools that makes it possible to connect visitors to data in a variety of ways. Joomla's extensive set of integrated technologies empowers site managers and developers to innovate well beyond the bounds of a simple website.
+it is important to think of Joomla not as a limited platform on which a specific type of site is built, but a robust set of tools that makes it possible to connect visitors to data in a variety of ways. Joomla's extensive set of integrated technologies empowers site managers and developers to innovate well beyond the bounds of a simple website.
 
 You can find out more about Joomla! by visiting [Joomla.org](http://www.joomla.org/).
 
@@ -96,7 +96,7 @@ At the bottom of this page, you'll be asked if you wish to back up information p
 
 (image)
 
-The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It's only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
+The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
 
 (image)
 
@@ -125,11 +125,11 @@ The next step in installation concerns the database you wish to use. If Joomla i
 
 The **Database Type** option gives you the ability to choose which type of database you wish to link to your Joomla site. You can find a complete breakdown of the differences between these database types here (link). For most users, MySQLi is the database type you'll want to select.
 
-You'll then be asked for your database's host name. This should be provided by your Web host. It's usually `localhost` but can be different, depending on how your server is set up. Your username, password, and database name are all up to you to choose, though you might not want these to match what you use for your Joomla administrative account for security reasons. This information may also be provided by your host.
+You'll then be asked for your database's host name. This should be provided by your Web host. It is usually `localhost` but can be different, depending on how your server is set up. Your username, password, and database name are all up to you to choose, though you might not want these to match what you use for your Joomla administrative account for security reasons. This information may also be provided by your host.
 
 The table prefix is used to differentiate your Joomla data from other data stored in the database. One will be randomly generated in this space, though you can change it to whatever you'd like.
 
-If you're using a pre-created database, you'll want to pay close attention to the backup option. This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it's a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
+If you're using a pre-created database, you'll want to pay close attention to the backup option. This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
 
 (image)
 

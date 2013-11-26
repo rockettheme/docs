@@ -13,11 +13,11 @@ Introduction
 
 Magento is a powerful and full-featured e-commerce platform built on open-source technology. It enables you to quickly create a professional and functional e-commerce site, including one or more stores, that empowers you to customize and control virtually every aspect of the customer experience.
 
-From sales to marketing, product management to customer interaction, Magento comes complete with everything you need to manage and execute a wide variety of business models and store types. All of this is made available for free to the community. It's a dramatic cut from the typical e-commerce startup costs associated with operating a direct sale site in years past.
+From sales to marketing, product management to customer interaction, Magento comes complete with everything you need to manage and execute a wide variety of business models and store types. All of this is made available for free to the community. It is a dramatic cut from the typical e-commerce startup costs associated with operating a direct sale site in years past.
 
 Magento is clean, intuitive, and full scalable.
 
-There are two primary editions of Magento available to the public. The first is **[Magento Community Edition][community]**. This is the edition our extensions and themes support. It's free to download and install under the open source OSL 3.0 license, and comes with no monetary commitments or subscription costs.
+There are two primary editions of Magento available to the public. The first is **[Magento Community Edition][community]**. This is the edition our extensions and themes support. It is free to download and install under the open source OSL 3.0 license, and comes with no monetary commitments or subscription costs.
 
 The second edition presently available is **[Magento Enterprise Edition][enterprise]**. This solution comes at an annual subscription fee and includes several additional features that are useful to larger online retailers. This edition is not presently supported by RocketTheme as its third-party support is limited.
 

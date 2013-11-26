@@ -9,7 +9,7 @@ tags: [Joomla, RokNavMenu, Export, Menu, extension, module, plugin, tutorial]
 Introduction
 -----
 
-RokNavMenu Exporter allows you to bring your existing styled Joomla menu over to phpBB3 for a more seamless experience. It's a great way to keep your visitors engaged with your site in its entirety, and allow them to transition from your Joomla site to your phpBB3 forums, without losing the main menu.
+RokNavMenu Exporter allows you to bring your existing styled Joomla menu over to phpBB3 for a more seamless experience. It is a great way to keep your visitors engaged with your site in its entirety, and allow them to transition from your Joomla site to your phpBB3 forums, without losing the main menu.
 
 RokNavMenu Exporter is primarily a Joomla extension, though it does require a little work to be done on both platforms. Below, we've outlined the requirements and steps you can take to make your phpBB3 and Joomla sites seamlessly transition between one-another.
 
@@ -42,7 +42,7 @@ To install the RokNavMenu Exporter, you'll need to first log in to your Joomla s
 
 ![][nav6]
 
-Once it's installed, you'll need to activate it by navigating to **Admin -> Extensions -> Plug-in Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
+Once it is installed, you'll need to activate it by navigating to **Admin -> Extensions -> Plug-in Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
 
 Joomla Setup
 -----

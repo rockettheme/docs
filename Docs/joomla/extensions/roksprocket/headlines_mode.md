@@ -7,7 +7,9 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 Headlines
 -----
+
 ![][headlines]
+
 Headlines is a content ticker layout mode. It can displays lines of text in succession.
 
 ![][headlines_1]

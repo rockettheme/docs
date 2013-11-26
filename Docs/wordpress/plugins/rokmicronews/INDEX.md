@@ -11,7 +11,7 @@ RokMicroNews is a new widget perfect for displaying your content. Your content a
 
 ![][feature]
 
-It's just another way to display your content in a way that encourages users to click through and see more content in your site.
+it is just another way to display your content in a way that encourages users to click through and see more content in your site.
 
 What sets RokMicroNews apart from many the other content delivery plugins is its ability to stack and interact with other instances. If you have just one RokMicroNews widget in a widget area, it will maintain its own settings and features. When two are present, users can rearrange them at will on the frontend by clicking and dragging them. 
 

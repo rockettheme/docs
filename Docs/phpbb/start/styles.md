@@ -18,11 +18,11 @@ Secondly, you'll want to familiarize yourself with the **Administration Control 
 
 Downloading a RocketTheme phpBB style is pretty simple. All you need to do is navigate to the desired style of your choice on RocketTheme.com and click the **Download** link. From here, you'll be taken to a page with three primary download options, along with the image sources you can use as a reference to customize images used in the style. These packages include:
 
-* **Style**: This is a style package that includes just the files needed to install the style on your existing site. Only choose this option if you  already have the latest RokBB installed. It's most commonly selected by users that are switching from one RocketTheme phpBB style to another.
-* **Bundle**: This package includes the style and the latest RokBB version. It's the preferred download option if you are installing a RocketTheme style for the first time.
+* **Style**: This is a style package that includes just the files needed to install the style on your existing site. Only choose this option if you  already have the latest RokBB installed. It is most commonly selected by users that are switching from one RocketTheme phpBB style to another.
+* **Bundle**: This package includes the style and the latest RokBB version. It is the preferred download option if you are installing a RocketTheme style for the first time.
 * **RocketLauncher**: This package contains a full latest version of phpBB3 install, as well as the style, latest RokBB, and demo sample content allowing you to easily deploy your chosen forum with a few clicks. This should only be used if you are creating a new phpBB install. Existing sites should be created using either the **Style** or **Bundle** options.
 
->> NOTE: We always recommend installing a RocketLauncher first to trial and understand the style more efficiently. It contains sample content and initial configuration. It's ready for further customizations. It must be installed as new, and not over an existing phpBB install.
+>> NOTE: We always recommend installing a RocketLauncher first to trial and understand the style more efficiently. It contains sample content and initial configuration. It is ready for further customizations. It must be installed as new, and not over an existing phpBB install.
 
 ### Step 2: Unzip and Upload
 
@@ -82,7 +82,7 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 * Press **Add module**.
 * Do the same with **Global Configuration**.
 * After adding it. Press **Enable** to make the module active.
-* Now go to the **Styles** tab at the top. **RocketTheme Styles** category is third in a row. You can now select the Acacia style and configure it's options.
+* Now go to the **Styles** tab at the top. **RocketTheme Styles** category is third in a row. You can now select the Acacia style and configure it is options.
 
 >> NOTE: You can add as many style modules as you want.
 

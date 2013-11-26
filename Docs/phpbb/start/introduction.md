@@ -11,7 +11,7 @@ What is phpBB?
 
 ![][introduction]
 
-**phpBB** is one of the most popular and widely used open source bulletin board systems currently available. Forums are powered by phpBB that cater to virtually any sized audience from a handful of users per month to thousands per day.
+**phpBB** is one of the most popular and widely used open source bulletin board systems currently available. Forums are powered by [phpBB][phpbb] that cater to virtually any sized audience from a handful of users per month to thousands per day.
 
 Sites powered by phpBB are frequently used to provide support, facilitate community interaction, and are even useful for small, collaborative teams searching for a platform where multiple discussions can be easily searched and read.
 
@@ -60,3 +60,4 @@ RocketTheme has a large selection of phpBB Styles that keeps getting better. You
 
 [gnu]: http://opensource.org/licenses/gpl-2.0.php
 [introduction]: assets/alerion.jpg
+[phpbb]: http://phpbb.com

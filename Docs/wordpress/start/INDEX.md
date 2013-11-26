@@ -13,7 +13,7 @@ It is a modular platform that utilizes a system of plugins and themes in order t
 
 WordPress is used for a wide range of sites including: eCommerce, blogs, photo galleries, news, aggregates, and many more. In many cases, WordPress serves as the backbone of sites that are largely static in order to allow for easy changes by non-developer personnel later on.
 
-WordPress is built to be simple and easy for the end user to manage. Site content is added by way of an integrated text editor and can be arranged using a series of click-and-drag widget placement operations. It's currently one of the most popular CMS platforms for personal and small business use, thought it is also used on some of the most popular sites on the Web today.
+WordPress is built to be simple and easy for the end user to manage. Site content is added by way of an integrated text editor and can be arranged using a series of click-and-drag widget placement operations. It is currently one of the most popular CMS platforms for personal and small business use, thought it is also used on some of the most popular sites on the Web today.
 
 Features
 -----
@@ -48,4 +48,4 @@ WordPress sites can be hosted on anything from a shared budget hosting plan to a
 ### SEO and Other Features
 WordPress enables you to specify how content is displayed. Its clean permalink structure enables you to create content with search engine optimization (SEO) in mind. Tags are also a popular feature of WordPress that makes management and organization of content much easier out of the box.
 
-There are a lot of reasons to choose WordPress as your site's CMS, though the best way to determine if it's right for you is to give it a try for yourself.
+There are a lot of reasons to choose WordPress as your site's CMS, though the best way to determine if it is right for you is to give it a try for yourself.

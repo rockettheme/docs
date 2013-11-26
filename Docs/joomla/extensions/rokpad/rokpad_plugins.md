@@ -49,9 +49,9 @@ Next, go to **Extensions -> Plug-in Manager**. From the list, find **Editor - Ro
 5. **Code Folding** determines how RokPad handles code folding.
 	* **Manual** removes arrows next to line items. You can collapse or expand only via keyboard shortcuts.
 	* **Mark Begin** adds an arrow pointing down next to the line, at the start of the code that is possible to collapse or expand.
-	* **Mark Begin and End** adds arrows at the beginning and end of  collapsable or expandable code.
+	* **Mark Begin and End** adds arrows at the beginning and end of  collapsible or expandable code.
 
-6. **Soft Wrap** allows long lines to wrap so they're entirely in view without sidescrolling.
+6. **Soft Wrap** allows long lines to wrap so they're entirely in view without side-scrolling.
 
 7. **Full Line Selection** determines how RokPad handles selections.
 

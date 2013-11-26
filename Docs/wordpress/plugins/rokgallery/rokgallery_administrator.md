@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/rokgallery:RokGallery
 
 RokGallery Administrator Overview
 -----
-RokGallery is a large plugin that consists of several different parts. You can use it to create pages, widgets, and manages images uploaded to the main RokGallery administrator. It's centrally controlled via RokGallery Admin accessible in the administrative sidebar on the backend of WordPress.
+RokGallery is a large plugin that consists of several different parts. You can use it to create pages, widgets, and manages images uploaded to the main RokGallery administrator. It is centrally controlled via RokGallery Admin accessible in the administrative sidebar on the backend of WordPress.
 
 RokGallery enables you to create and manage galleries which can be used to sort and arrange photos you wish to have appear within your site. You can customize how and where various images are presented to visitors, and maintain full control over them through a single, centralized component.
 

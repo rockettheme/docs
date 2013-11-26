@@ -31,7 +31,7 @@ Once you've downloaded this ZIP file, unpack it so you have a folder containing 
 ### Create a Database
 RocketLauncher for WordPress runs best on a MySQL database. You can create a database by going through your Web host. Some hosts have different processes for adding a database to your account than others, so you're best off checking with its specific processes to ensure that your MySQL database is up and ready to go.
 
-It's important that you write down the administrative username, password, and the database's address in relation to your site. In most cases, this will be `localhost`, though it may be a specific IP address if the database is hosted separately from your site.
+it is important that you write down the administrative username, password, and the database's address in relation to your site. In most cases, this will be `localhost`, though it may be a specific IP address if the database is hosted separately from your site.
 
 ### Launch the Installer
 ![][rocketlauncher1]
@@ -47,7 +47,7 @@ The next page is in place to make sure you have the required information you nee
 ![][rocketlauncher3]
 WordPress uses a MySQL database to host all of the information and settings used in your WordPress site. By establishing a link to the database, RocketLauncher can build your site and accept any new data or changes you make later on.
 
-If you come across a page that says "Can't select database", you'll need to check the name of your database to make sure it's entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
+If you come across a page that says "Can't select database", you'll need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
 
 ![][rocketlauncher4]
 

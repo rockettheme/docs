@@ -18,7 +18,7 @@ Here's the widget breakdown for the Copyright section:
 * Gantry To Top
 * Gantry Social Buttons
 
-The Copyright section remains the same for all areas of the site. Because of this, it's preserved as a Default widget override.
+The Copyright section remains the same for all areas of the site. Because of this, it is preserved as a Default widget override.
 
 #### Gantry Copyright
 The Gantry Copyright widget places a tiny Copyright notification at the bottom of the page. The only thing you need to change in this widget to match the demo is the text field, which includes: `Designed by RocketTheme`. 
@@ -36,6 +36,6 @@ Here is a breakdown of what you'll need to change in the widget options to match
 The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 #### Gantry Social Buttons
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Copyright widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
+The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Copyright widget section so it is present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
 
 [demo2]: assets/wp_metropolis_demo_2.jpeg

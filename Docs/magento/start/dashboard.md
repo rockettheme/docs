@@ -49,11 +49,11 @@ This list gives you the five most recently placed orders in your store. Customer
 
 #### Last 5 Search Terms
 
-This list includes the five most recently used search terms in your store. It's useful for discovering trends and timely needs your customers are searching for a product to solve.
+This list includes the five most recently used search terms in your store. It is useful for discovering trends and timely needs your customers are searching for a product to solve.
 
 #### Top 5 Search Terms
 
-This is a list of the five most frequently searched terms in your store. It's a great way to determine what the majority of your customers are looking for when they first visit your site.
+This is a list of the five most frequently searched terms in your store. It is a great way to determine what the majority of your customers are looking for when they first visit your site.
 
 #### Graphs
 

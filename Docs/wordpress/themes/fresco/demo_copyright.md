@@ -17,7 +17,7 @@ Here's the widget breakdown for the Copyright section:
 * Gantry Divider
 * Gantry To Top
 
-The Copyright section remains the same for all areas of the site. Because of this, it's preserved as a Default widget override.
+The Copyright section remains the same for all areas of the site. Because of this, it is preserved as a Default widget override.
 
 #### Text
 

@@ -67,7 +67,7 @@ All of these extensions are included with the Voxel RocketLauncher, and can be d
 
 Recreating the Front Page
 =====
-The front page of the Voxel demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It's because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Voxel template.
+The front page of the Voxel demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Voxel template.
 
 Template Settings
 -----

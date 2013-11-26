@@ -19,7 +19,7 @@ You can click the little clipboard located to the right of the shortcode to have
 You can do this with the HTML editor, or with a WYSIWYG editor, though be aware that some WYSIWYG editors either misinterpret or strip uncommon characters, rendering the shortcode unusable. You should have no problems with the shortcode when using HTML mode on most article editors.
 
 #### Why do articles show up in the module administrator after I've unpublished them?
-The administrator of a Joomla site can see everything, even the stuff that has been unpublished so it doesn't appear on the main site. It's for this reason that you'll still see articles appear in the backend RokSprocket interface, even when they are unpublished. 
+The administrator of a Joomla site can see everything, even the stuff that has been unpublished so it doesn't appear on the main site. It is for this reason that you'll still see articles appear in the backend RokSprocket interface, even when they are unpublished. 
 
 Try signing out of Joomla and visiting the module on the frontend of your site to see if these articles really are appearing for visitors.
 

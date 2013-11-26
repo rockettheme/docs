@@ -36,7 +36,7 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 **Description**
 
 ~~~ .html
-<span>Display graphs with Chart.js and HTML5 canvas. This feature only works on modern browsers and IE9+.</span><span class="visible-desktop largemargintop">It's based on Chart.js. Chart.js is an easy, object oriented client side graphs for designers and developers.</span>
+<span>Display graphs with Chart.js and HTML5 canvas. This feature only works on modern browsers and IE9+.</span><span class="visible-desktop largemargintop">it is based on Chart.js. Chart.js is an easy, object oriented client side graphs for designers and developers.</span>
 ~~~
 
 ### Layout Options

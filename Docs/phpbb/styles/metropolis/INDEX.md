@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Metropolis, the December 2012 phpBB club release, is an elegantly designed theme which combines simple color schemes and shades to complement an array of different content setups. It's an excellent style layer above the responsive core. 
+Metropolis, the December 2012 phpBB club release, is an elegantly designed theme which combines simple color schemes and shades to complement an array of different content setups. It is an excellent style layer above the responsive core. 
 
 ![][style]
 

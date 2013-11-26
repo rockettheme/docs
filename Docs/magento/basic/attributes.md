@@ -11,14 +11,14 @@ Introduction
 
 **Attributes** and **Attribute Sets** are a very important part of the Magento system and involve more than just how your products display. Plan ahead and know that many items are affected by the attributes and the way they're set up. 
 
-**Attributes should be created first**. Once this is done, you can start creating **Attribute Sets**. These sets can then be applied to products. It's much easier to build a new site by creating attributes first as this will prevent you from having to revisit each item in your inventory later on to adjust them. They should be applied as you create the product.
+**Attributes should be created first**. Once this is done, you can start creating **Attribute Sets**. These sets can then be applied to products. It is much easier to build a new site by creating attributes first as this will prevent you from having to revisit each item in your inventory later on to adjust them. They should be applied as you create the product.
 
 Attributes can be used in various areas of the backend, such as filtering for discount price rules, or shown in layered navigation to help the user find what they're searching for. Attributes play a key role in virtually every major area of customer interaction before the sale.
 
 Important Things to Keep In Mind
 -----
 
-You can not change an attribute set assigned to a product after the product has been created. You can reconfigure the set afterwards, but whichever set you assign to the product when it's created is the one that will remain assigned to until it is deleted.
+You can not change an attribute set assigned to a product after the product has been created. You can reconfigure the set afterwards, but whichever set you assign to the product when it is created is the one that will remain assigned to until it is deleted.
 
 Use a naming convention that suits your site. Be consistent with this as it will help you find and create Attribute Sets much easier.
 
@@ -147,7 +147,7 @@ Once you're done on this page, select **Save Attribute Set**.
 
 The next page is where you assign attributes to the set. The right column, titled **Unassigned Attributes** includes any attributes that have not yet been assigned to a set. You'll also find different groups under the **Groups** column. These groups are used to apply sorting rules and display options on the frontend, as well as to create tabs within the product page. 
 
-Select **Add New** under the **Groups** column to create a new group. It's useful to name the group in a way that matches the type of product you're applying it to. For example, camera-specific attributes could be added to the **Cameras** group within your new set.
+Select **Add New** under the **Groups** column to create a new group. It is useful to name the group in a way that matches the type of product you're applying it to. For example, camera-specific attributes could be added to the **Cameras** group within your new set.
 
 You can then click and drag unassigned attributes to the new group by moving them from the **Unassigned Attributes** column to the group folder in the **Groups** column. If you wish to remove an existing attribute, you can do so by dragging it from the **Groups** column to the **Unsassigned Attributes** column. You can also double-click any existing group name to rename it.
 

@@ -32,7 +32,7 @@ Here is an overview of the primary categories within this menu.
 
 ### View Site
 
-The View Site button allows you to quickly open a new tab to the visitor side of your Joomla site. It's a quick way to check on the changes you're making within the administrator area without leaving the page you're currently on to do so. 
+The View Site button allows you to quickly open a new tab to the visitor side of your Joomla site. It is a quick way to check on the changes you're making within the administrator area without leaving the page you're currently on to do so. 
 
 ### System
 
@@ -44,7 +44,7 @@ The **System** menu is home to administrative pages that impact the Joomla syste
 
 ![][j3x3]
 
-The **Users** section includes any areas of Joomla's backend that deal specifically with users, user groups, access levels, and mass mailings. It's where you would go to look for the **User Manager** in the event that you need to change or remove a user's standing or profile.
+The **Users** section includes any areas of Joomla's backend that deal specifically with users, user groups, access levels, and mass mailings. It is where you would go to look for the **User Manager** in the event that you need to change or remove a user's standing or profile.
 
 ### Menus
 
@@ -62,7 +62,7 @@ At the heart of your Joomla site is its content. This is the meat and potatoes o
 
 ![][j3x6]
 
-The **Components** area of the admin menu gives you quick access to configuration pages for various components presently active in your site. Your site's **Contacts** and **Joomla! Update** are found here. It's a quick access menu for all the specific mini-applications that make your site, and many of its extensions, do what they do.
+The **Components** area of the admin menu gives you quick access to configuration pages for various components presently active in your site. Your site's **Contacts** and **Joomla! Update** are found here. It is a quick access menu for all the specific mini-applications that make your site, and many of its extensions, do what they do.
 
 ### Extensions
 

@@ -44,7 +44,7 @@ If you don't have any supported format for your videos, you can use video conver
 
 ![][demo4]
 
-Please visit MiroVideoConverter.com to download the converter. It's available for Mac and Windows, and it's 100% FREE and open-source.
+Please visit MiroVideoConverter.com to download the converter. It is available for Mac and Windows, and it is 100% FREE and open-source.
 
 
 #### MIME Types for Video Formats

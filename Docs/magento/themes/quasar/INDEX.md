@@ -93,7 +93,7 @@ You can download the extension settings installer file from the template [downlo
 How to Install the RocketLauncher
 -----
 
-If you are creating a fresh install and would like sample data included, you can use our RocketLauncher. This will install a complete version of Magento, along with all template files and extensions, plus the Magento sample data. It's basically a copy of our demo site minus some of the more difficult to remove sample data (such as reviews). This was done to make the process a little easier.
+If you are creating a fresh install and would like sample data included, you can use our RocketLauncher. This will install a complete version of Magento, along with all template files and extensions, plus the Magento sample data. It is basically a copy of our demo site minus some of the more difficult to remove sample data (such as reviews). This was done to make the process a little easier.
 
 >> NOTE: Prior to starting installation, you need to to have a MySQL database created and active on your host. You'll be asked for information about this database during installation.
 

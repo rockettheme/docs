@@ -11,7 +11,7 @@ Corvus is content centric template, built with rich media and text blocks, on a 
 
 ![][corvus]
 
-Corvus features integrated styling that works with RokSprocket to create a more seamless user experience. It's also built on the powerful Gantry framework, which adds an array of additional features to improve site management and performance.
+Corvus features integrated styling that works with RokSprocket to create a more seamless user experience. It is also built on the powerful Gantry framework, which adds an array of additional features to improve site management and performance.
 
 >> NOTICE: Corvus is a Joomla 2.5 and Joomla 3.x Template.
 

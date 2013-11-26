@@ -85,7 +85,7 @@ You can upload this via FTP, Web-based file manager, or whichever method your ho
 
 Simply unpack it where you would like to have your Magento site appear in your server's file system (typically the www root if it will be your primary site on the domain), and you're ready to access the installer.
 
->> Note: It's very important that certain files and/or directories have proper permissions set in order for Magento to operate properly. See the [File Permissions][permissions] area of this guide below for more information.
+>> Note: it is very important that certain files and/or directories have proper permissions set in order for Magento to operate properly. See the [File Permissions][permissions] area of this guide below for more information.
 
 Step 4: The Installation Wizard
 -----
@@ -155,7 +155,7 @@ Once you've set all the options as you would like them, click **Continue**.
 	2. **Last Name** Your last name. [32%, 57%, se]
 	3. **Email** The email address you'd like to receive messages at regarding your site. [38%, 31%, se]
 	4. **Username** Your administrative username. This will be the name you use to access the site. [52%, 31%, se]
-	5. **Password** Your administrative password. It's highly recommended that you select a strong, complex password. [58%, 31%, se]
+	5. **Password** Your administrative password. It is highly recommended that you select a strong, complex password. [58%, 31%, se]
 	6. **Encryption Key** This key is used to encrypt passwords, credit cards, and more. If you don't enter one in this field, Magento will create one for you and issue it in the next page. You should write this down and keep it handy. [68%, 31%, se]
 
 This page sets your main administrative account used to access the backend of your Magento site. It also allows you to set an encryption key that Magento uses to encrypt sensitive information such as passwords, credit cards, and more.

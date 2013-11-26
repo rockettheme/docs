@@ -35,7 +35,7 @@ Once this is done, you should be able to navigate your browser to the URL you pl
 
 ![][install2]
 
-In order to install phpBB3, you'll need to hit the **Install** tab from the main introduction page. This will initiate the installation process, starting with the page pictured above. You aren't required to take any action on this page. It's simply there to prepare you for the steps to come.
+In order to install phpBB3, you'll need to hit the **Install** tab from the main introduction page. This will initiate the installation process, starting with the page pictured above. You aren't required to take any action on this page. It is simply there to prepare you for the steps to come.
 
 This is a good time to write down your database username and password, as well as think of your desired admin username and password for phpBB3. We recommend using different sets for each for security purposes.
 

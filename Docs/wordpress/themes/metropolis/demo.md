@@ -28,7 +28,7 @@ All of these plugins are included with the Metropolis RocketLauncher, and can be
 
 Recreating the Front Page
 =====
-The front page of the Metropolis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It's because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Metropolis theme.
+The front page of the Metropolis demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It is because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Metropolis theme.
 
 Theme Settings
 -----

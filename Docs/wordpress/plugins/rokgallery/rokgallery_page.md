@@ -83,7 +83,7 @@ The **Gallery Page Options** tab gives you control over what appears on the main
 
 
 ### Details Page Options
-In every gallery page, you have the ability to display details about each image. By selecting an image, it's displayed in larger form with various details such as the title, caption, tags, loves, views, file size, image dimensions, and more. You can use the **Details Page Options** tab to select what you do and do not wish to have appear on this page.
+In every gallery page, you have the ability to display details about each image. By selecting an image, it is displayed in larger form with various details such as the title, caption, tags, loves, views, file size, image dimensions, and more. You can use the **Details Page Options** tab to select what you do and do not wish to have appear on this page.
 
 ![][page4]
 

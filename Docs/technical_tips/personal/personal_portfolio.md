@@ -33,7 +33,7 @@ Before you give out a previous client's name, make sure you've talked to them af
 
 Make Contact Information Easy to Find
 -----
-It's easy to bury your contact information under a mountain of useful info and exceptional examples of your work.
+it is easy to bury your contact information under a mountain of useful info and exceptional examples of your work.
 
 Remember: Your site should make it easy for people to not only determine if you are worth considering, but to contact you in the event that they want to take the next step.
 

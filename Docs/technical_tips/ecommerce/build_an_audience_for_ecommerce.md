@@ -7,7 +7,7 @@ breadcrumb: /technical_tips:Technical Tips/!ecommerce:E-commerce
 
 Introduction
 -----
-In a Web dominated by a handful of online merchants, it's more important than ever to put your online store above the competition.
+In a Web dominated by a handful of online merchants, it is more important than ever to put your online store above the competition.
 
 There is plenty of room for independent and corporate merchants alike to get their products out there and in front of a world of potential customers. The secret to setting yourself apart can be found in not just what you're selling, but how you service the sale before, during, and after the transaction.
 

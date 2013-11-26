@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Graffito, the November 2012 phpBB club release, is a corporate themed design. It's perfect for a plethora of forums due to its combination of visual character with subtlety. Built on the RokBB Framework, it features a responsive layout and LESS CSS support. 
+Graffito, the November 2012 phpBB club release, is a corporate themed design. It is perfect for a plethora of forums due to its combination of visual character with subtlety. Built on the RokBB Framework, it features a responsive layout and LESS CSS support. 
 
 ![][style]
 

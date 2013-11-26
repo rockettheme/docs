@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Corvus is a phpBB3 style focused on content. It's built with rich media and text blocks on a foundation of detailed design elements. This style spruces up your forum with easily configured items. 
+Corvus is a phpBB3 style focused on content. It is built with rich media and text blocks on a foundation of detailed design elements. This style spruces up your forum with easily configured items. 
 
 ![][style]
 

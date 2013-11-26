@@ -46,9 +46,9 @@ While there are certainly plenty of excellent hosting technologies out there, th
 
 #### Linux
 
-Linux has long been the go-to platform for Web hosting. The vast majority of the sites you visit every day are hosted on a Linux distro. It's starting to lose a little ground to Windows, but it still retains the top spot as the go-to platform for anyone wanting to run a cheap, reliable server.
+Linux has long been the go-to platform for Web hosting. The vast majority of the sites you visit every day are hosted on a Linux distro. It is starting to lose a little ground to Windows, but it still retains the top spot as the go-to platform for anyone wanting to run a cheap, reliable server.
 
-One of the reasons for Linux's popularity is that, for providers, it's free. You don't have to buy a new license for every instance of Linux you run in your data center. It's clean, configurable, and can be managed without ever having to load a graphical user interface. These savings are often passed on to customers.
+One of the reasons for Linux's popularity is that, for providers, it is free. You don't have to buy a new license for every instance of Linux you run in your data center. It is clean, configurable, and can be managed without ever having to load a graphical user interface. These savings are often passed on to customers.
 
 In addition, you enjoy native support for a number of scripting languages including PHP, the language on which Joomla is built.
 
@@ -70,11 +70,11 @@ Apache supports all of the technologies Joomla requires to function natively, an
 
 #### Microsoft IIS7
 
-Microsoft's IIS server software is robust and capable. It's also the second most readily available hosting option aside from Linux-based Apache solutions. If you plan on running ASP or ASP.NET applications as part of your overall Web hosting needs, then this may well be the best option for you. You can run these through Apache with the help of extensions. Joomla doesn't require either to operate.
+Microsoft's IIS server software is robust and capable. It is also the second most readily available hosting option aside from Linux-based Apache solutions. If you plan on running ASP or ASP.NET applications as part of your overall Web hosting needs, then this may well be the best option for you. You can run these through Apache with the help of extensions. Joomla doesn't require either to operate.
 
 #### NGINX
 
-NGINX (pronounced "engine X") is a rising star in the world of Web servers. It's seen largely as a quick and lightweight alternative to Apache. It's a favorite among Ruby developers, and has received plenty of attention for being quick and adaptable. It currently sits neck-and-neck with Microsoft IIS in terms of market share around 12.5% (depending on which statistic you read). This means it has a smaller body of community support than Apache, which has around a 60-70% market share in 2013.
+NGINX (pronounced "engine X") is a rising star in the world of Web servers. It is seen largely as a quick and lightweight alternative to Apache. It is a favorite among Ruby developers, and has received plenty of attention for being quick and adaptable. It currently sits neck-and-neck with Microsoft IIS in terms of market share around 12.5% (depending on which statistic you read). This means it has a smaller body of community support than Apache, which has around a 60-70% market share in 2013.
 
 On the positive, NGINX currently powers some of the most popular sites on the Web. This includes: Netflix, Hulu, Pinterest, GitHub, Zynga, Eventbrite, Zappos, and more.
 

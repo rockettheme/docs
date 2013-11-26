@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/basic:Basic Tutorials/
 
 %%NOTWIG%%
 
-Adding modules to articles is a useful way to get around the limitation of positions in relation to the article body. It's possible to put a module in the midst of an article's mainbody content. Here are two ways to accomplish this.
+Adding modules to articles is a useful way to get around the limitation of positions in relation to the article body. It is possible to put a module in the midst of an article's mainbody content. Here are two ways to accomplish this.
 
 **loadposition**
 

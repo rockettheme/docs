@@ -52,7 +52,7 @@ Once you've saved your new menu, it should appear in the **Menu Manager** (point
 
 Managing Your Menus
 ---------
-Proper menu management is important to make sure your site is well organized and efficient. It's easily to work yourself into a corner by creating redundant menus or find some of your modules out of order when the wrong option is changed.
+Proper menu management is important to make sure your site is well organized and efficient. It is easily to work yourself into a corner by creating redundant menus or find some of your modules out of order when the wrong option is changed.
 
 ![][new_menu_3]
 
@@ -109,7 +109,7 @@ The **Status** options (point 4) allow you to set whether this menu item is publ
 
 The **Link** field (point 5) gives you a link to the menu itself.
 
-The **Menu Location** options (point 6) set which menu this link is appearing within. It's usually the menu you selected to get to the menu items area of the menu manager.
+The **Menu Location** options (point 6) set which menu this link is appearing within. It is usually the menu you selected to get to the menu items area of the menu manager.
 
 **Parent Item** (point 7) is useful when you wish to set a particular menu item in a submenu to another item. For example, a more specific topic within a larger topic.
 
@@ -165,7 +165,7 @@ So far in this process, we've created a box and told Joomla what type of materia
 
 The **Title** and **Show Title** options (point 1) allow you to give your module a name, and decide whether or not this name should be displayed on the frontend of your site. 
 
-The **Position** field (point 2) sets where on the assigned pages your menu module will appear. It's best to check the layout area in the **Template Manager** of your applicable template styles to make sure a position is active prior to setting it here. Otherwise, your module will not appear on the frontend, or may appear incorrectly.
+The **Position** field (point 2) sets where on the assigned pages your menu module will appear. It is best to check the layout area in the **Template Manager** of your applicable template styles to make sure a position is active prior to setting it here. Otherwise, your module will not appear on the frontend, or may appear incorrectly.
 
 The **Status** option (point 3) sets the publishing status for the module. If unpublished or trashed, it will not appear on the frontend of your site.
 

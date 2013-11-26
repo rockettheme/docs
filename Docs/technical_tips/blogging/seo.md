@@ -47,15 +47,15 @@ For Joomla users, setting these SEO options is a fairly simple and straightforwa
 | Include Site Name in Page Titles | Appends the site name to all page titles.                         |
 
 ### Include Site Name in Page Titles
-Including your site's name in page titles only impacts how the title appears in your browser's tab. As far as search engines go, it also adds a branding to search results. This enables people to quickly identify and select your site's article over any others that might appear in the page. It's a quick way around having to dig through the page description to find what you're looking for.
+Including your site's name in page titles only impacts how the title appears in your browser's tab. As far as search engines go, it also adds a branding to search results. This enables people to quickly identify and select your site's article over any others that might appear in the page. It is a quick way around having to dig through the page description to find what you're looking for.
 
 There's a downside with doing this. Your total SEF (Search Engine Friendly) title should be no more than 70 characters. If your site's brand is 10 characters with a space, dash, and a space separating it from the main title,  you'll need to account for 13 fewer characters in your individual article titles.
 
 ### Unicode Aliases
-Unicode aliases are only really useful if you use non-Latin characters in your site or article titles. For example, if you use the Greek alphabet as part of your site's name, then you'll want to turn this feature on. Otherwise, it's probably best left off.
+Unicode aliases are only really useful if you use non-Latin characters in your site or article titles. For example, if you use the Greek alphabet as part of your site's name, then you'll want to turn this feature on. Otherwise, it is probably best left off.
 
 ### Search Engine Friendly URLs
-This feature rewrites URLs in a way that makes it easier for someone to tell what the article is about by the URL alone. It's a useful strategy that has become part of several major search engine's ranking algorithms. If your site URLs aren't easy to understand, then there's probably less of a chance someone will click on them if it were passed on through Twitter or email.
+This feature rewrites URLs in a way that makes it easier for someone to tell what the article is about by the URL alone. It is a useful strategy that has become part of several major search engine's ranking algorithms. If your site URLs aren't easy to understand, then there's probably less of a chance someone will click on them if it were passed on through Twitter or email.
 
 Writing Tips and Strategies
 -----
@@ -75,8 +75,8 @@ Those keywords don't just extend to your title. You should use them no less than
 These phrases should be separated by at least 50-100 words, but they will make a difference on how search engines like Google and Yahoo rank your content.
 
 ### Article Length
-There is a debate going on between SEO analysts concerning the recommended length of an article. Search engines tend to rank sites and content based on authority, and it's hard to believe they would treat a 100-word article the same way they would one with over 1,000 words.
+There is a debate going on between SEO analysts concerning the recommended length of an article. Search engines tend to rank sites and content based on authority, and it is hard to believe they would treat a 100-word article the same way they would one with over 1,000 words.
 
-In general, the first 300 words are believed to be what Google and Bing capture and store as part of the page's description in the absence of a defined one. It's this description potential visitors see in search results, and part of what search engines base the page's ranking on. These first 300 words should include keywords, a description of the content to follow, and a hook that capture's the reader's attention and makes them want to read more.
+In general, the first 300 words are believed to be what Google and Bing capture and store as part of the page's description in the absence of a defined one. It is this description potential visitors see in search results, and part of what search engines base the page's ranking on. These first 300 words should include keywords, a description of the content to follow, and a hook that capture's the reader's attention and makes them want to read more.
 
-An article that's artificially pumped full of words can come across as cumbersome and dull. It's more important to have good content than to inflate your word count artificially. Consider article length as a goal and not a rule of thumb.
+An article that's artificially pumped full of words can come across as cumbersome and dull. It is more important to have good content than to inflate your word count artificially. Consider article length as a goal and not a rule of thumb.

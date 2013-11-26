@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!platform:Platform/
 
 Joomla is Modular
 -----
-Joomla is a modular content management system. It's not limited to just what comes with the initial package. You can expand on it, customize it, and swap components with a few clicks of the mouse. It's because of this extensive amount of control that it can be a bit overwhelming to someone attempting to navigate through the administrative side for the first time. In this page, we'll attempt to tackle some of the most common Joomla components and how they relate to one-another.
+Joomla is a modular content management system. It is not limited to just what comes with the initial package. You can expand on it, customize it, and swap components with a few clicks of the mouse. It is because of this extensive amount of control that it can be a bit overwhelming to someone attempting to navigate through the administrative side for the first time. In this page, we'll attempt to tackle some of the most common Joomla components and how they relate to one-another.
 
 Some of the terms used in the Joomla ecosphere are shared with other CMS environments while others are purposely differentiated in order to maintain some separation between platforms in order to avoid confusion. For example, a template in Joomla is very similar to a theme in WordPress.
 
@@ -19,18 +19,18 @@ Plugins and modules make up additional parts like the gear shift, glove box, and
 
 Components, which are a specific type of extension, would be the materials that went into making the engine and other vital system components.
 
-All of these components work together to ensure that your site looks and operates the way it's supposed to. If everything is set up correctly, it should be a consistent experience whether you have one visitor, or one thousand.
+All of these components work together to ensure that your site looks and operates the way it is supposed to. If everything is set up correctly, it should be a consistent experience whether you have one visitor, or one thousand.
 
 The Two Sides of Joomla
 ------
-Joomla isn't just a platform on which content  is displayed. It's also an incredible platform for site management and content creation. It's because of this dual-purpose nature of Joomla that much of its components are actually split between the visitors area of your site and the **Administrator** area.
+Joomla isn't just a platform on which content  is displayed. It is also an incredible platform for site management and content creation. It is because of this dual-purpose nature of Joomla that much of its components are actually split between the visitors area of your site and the **Administrator** area.
 
 Each part of Joomla has its own template. This is due to the fact that both the visitor area and the administrative areas can be customized to meet the needs of visitors and site managers alike. There are a number of different Administrator interfaces out there for you to choose from, just as there are thousands of  Joomla frontend templates for you to pick from.
 
-The Administrator interface gives you the ability to customize your site's layout, create and manage content, upload extensions, and more. It's the primary control interface for the entire site, and as such should only be accessible by individuals you absolutely trust not to break or harm anything. This isn't a place for visitors. They're generally going to stick to the frontend for everything they need to do in your site, including potentially adding articles, making comments, or submitting answers to forms.
+The Administrator interface gives you the ability to customize your site's layout, create and manage content, upload extensions, and more. It is the primary control interface for the entire site, and as such should only be accessible by individuals you absolutely trust not to break or harm anything. This isn't a place for visitors. They're generally going to stick to the frontend for everything they need to do in your site, including potentially adding articles, making comments, or submitting answers to forms.
 
 ### What is an Extension?
-An extension is anything that extends the functionality of your Joomla site. It's usually a software package you can install directly to your site using the Administrator Extension Manager tool. This could be anything that isn't included in the core Joomla platform. Templates, modules, plugins, and other components fall under this definition.
+An extension is anything that extends the functionality of your Joomla site. It is usually a software package you can install directly to your site using the Administrator Extension Manager tool. This could be anything that isn't included in the core Joomla platform. Templates, modules, plugins, and other components fall under this definition.
 
 #### What is a Module?
 Modules are extensions often used to enhance or otherwise add features and functionality to the frontend and/or backend of your site. They're used for page rendering, and are often represented as areas of a page intended to perform a specific function or duty.

@@ -7,11 +7,12 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokcandy:RokCandy
 
 How to Configure RokCandy
 -----
+
 ![][rokcandy1]
 
-RokCandy is distributed with default snippets for a variety of logical purposes such as for content title. However, Joomla 1.5 offers its templates the capacity to override the core of Joomla. In this manner, we can add files to the template that will override the snippets in RokCandy. Therefore, you can quickly add and edit your own macros without modifying core files. 
+RokCandy is distributed with default snippets for a variety of logical purposes such as for content title. However, Joomla offers its templates the capacity to override the platform's core. In this manner, we can add files to the template that will override the snippets in RokCandy. Therefore, you can quickly add and edit your own macros without modifying core files. 
 
-The file is called **default.ini** and, if you are using a RocketTheme template which uses RokCandy, it will be located in the `/templates/rt_TEMPLATE_NAME_j15/html/com_rokcandy/` directory. However, if the folder does not exist, you will have to create the necessary folders as shown in the path above and create a new file named default.ini. 
+The file is called **default.ini** and, if you are using a RocketTheme template which uses RokCandy, it will be located in the `/templates/rt_TEMPLATE_NAME/html/com_rokcandy/` directory. However, if the folder does not exist, you will have to create the necessary folders as shown in the path above and create a new file named default.ini. 
 
 ![][rokcandy2]
 

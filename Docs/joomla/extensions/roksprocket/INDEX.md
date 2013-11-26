@@ -6,11 +6,13 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 ---
 
 Introduction
-============
+-----
+
 RokSprocket is a revolutionary extension for Joomla 2.5 and 3.x designed to give you an incredible level of control over how you present your content. Sophisticated content filters, robust layout modes and options, integration with multiple content providers, and a streamlined no-nonsense interface all contribute to a powerful yet user friendly experience from start to finish.
 
 Requirements
 ------------
+
 RokSprocket has the following requirements in order to operate:
 
 * Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
@@ -20,6 +22,7 @@ RokSprocket has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * Multiple layout options: Features, Tabs, Lists, Mosaic, Headlines & Strips
 * 8 supported content providers: Joomla, K2, Seblod, EasyBlog, Content Builder, Simple, FieldsAttach, & Zoo
 * Advanced cumulative filters: specific and dynamic filters
@@ -33,6 +36,7 @@ Key Features
 
 How to install
 --------------
+
 Installing RokSprocket takes just a matter of few minutes.
 
 The first thing you’ll need to do is [download][download] the latest version of RokSprocket. The package you will download contains everything to get RokSprocket up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 

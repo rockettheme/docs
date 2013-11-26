@@ -9,7 +9,7 @@ breadcrumb: /magento:Magento/!basic:Basic/
 Introduction
 -----
 
-Magento uses cache in many different ways, so you'll notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it's best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you've made.
+Magento uses cache in many different ways, so you'll notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it is best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you've made.
 
 ![][cache]
 
@@ -27,7 +27,7 @@ Enabling, Disabling, and Refreshing the Cache
 	3. **Flush Catalog Images Cache** Refreshes cache related to catalog images. [76%, 6%, se]
 	4. **Flush Javascript/CSS Cache** Deals with page styling cache. [83%, 6%, ne]
 
-There are four big buttons located above and below the itemized list in the main **Cache Management** menu. It's recommended that you work with the individual line items listed as a first step in troubleshooting before hitting the larger buttons (detailed below).
+There are four big buttons located above and below the itemized list in the main **Cache Management** menu. It is recommended that you work with the individual line items listed as a first step in troubleshooting before hitting the larger buttons (detailed below).
 
 If you want to disable your site's cache entirely, simply check all of the boxes listed to the left of this itemized menu and select **Disable** in the **Actions** dropdown. You can repeat the same process to enable the cache by selecting **Enable**, instead.
 
@@ -47,7 +47,7 @@ The **Flush Catalog Images Cache** option is just what it says. It deals with th
 
 #### Flush Javascript/CSS Cache
 
-This option involves a lot of the page styling cache and can be flushed when you are making updates. It's not needed regularly, but it's best to do if you want to see any recent changes.
+This option involves a lot of the page styling cache and can be flushed when you are making updates. It is not needed regularly, but it is best to do if you want to see any recent changes.
 
 Flat Catalog Data
 -----
@@ -59,7 +59,7 @@ Flat Catalog Data
 
 Magento makes many calls to the database to retrieve information for each page viewed. This can take some time, using server resources which may differ from the part of the server that handles your database, as opposed to your files. 
 
-If there are several bits of information that Magento needs to display a Category page, the **Flat Catalog Data** will compile all of these bits for that page into a single database table entry. This way, Magento can make one call to the database to retrieve the necessary information. This is beneficial, but does not work in all instances. This should be tested after it's turned on.
+If there are several bits of information that Magento needs to display a Category page, the **Flat Catalog Data** will compile all of these bits for that page into a single database table entry. This way, Magento can make one call to the database to retrieve the necessary information. This is beneficial, but does not work in all instances. This should be tested after it is turned on.
 
 To find these settings, you'll need to navigate to **System -> Configuration**, click **Catalog** in the sidebar, and manipulate the **Frontend** settings.
 
@@ -88,7 +88,7 @@ Merge JS
 
 System -> Configuration -> Developer -> JavaScript Settings -> Merge JavaScript Files
 
-Magento uses quite a bit of code to make all of its features work. Under the hood, it's a cluttered machine packed with cogs turning against each other to deliver your content to visitors. 
+Magento uses quite a bit of code to make all of its features work. Under the hood, it is a cluttered machine packed with cogs turning against each other to deliver your content to visitors. 
 
 This can lead to your website needing to pull in many separate JavaScript files so the page can load. Merging these files can save a good amount of time and weight on page load. This is a good feature to turn on once you are finished customizing your site and theme.
 

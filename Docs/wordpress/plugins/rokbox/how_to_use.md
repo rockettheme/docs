@@ -112,7 +112,7 @@ And this is the syntax used to achieve it:
 <a data-rokbox data-rokbox-element=".header .search" href="#" style="color: red"><h3>Search in RokBox 2!</h3></a>
 ~~~
 
->> NOTE: It is important to always have an `href` when using _data-rokbox-element_. Because it's not a true link pointing anywhere, you can use the hash `href="#"` 
+>> NOTE: It is important to always have an `href` when using _data-rokbox-element_. Because it is not a true link pointing anywhere, you can use the hash `href="#"` 
 
 
 #### data-rokbox-generate-thumbnail

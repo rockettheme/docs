@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Fracture, the October 2012 club release, is the first phpBB style which includes RocketLauncher. It's also built on the refreshed RokBB framework, which features a responsive layout core and optimized coding. The template focuses on a clean and minimal design with a unique overlay system for stunning results. 
+Fracture, the October 2012 club release, is the first phpBB style which includes RocketLauncher. It is also built on the refreshed RokBB framework, which features a responsive layout core and optimized coding. The template focuses on a clean and minimal design with a unique overlay system for stunning results. 
 
 ![][style]
 

@@ -123,7 +123,7 @@ Instructions for setting these features up in Administrator are detailed below.
 2. Go to **Style** tab and you can see all parameter to configure the parallax background.
 3. Choose the background image (pictured above) by using the image picker you wish to use for the background of the section.
 4. Enable the parallax style effects for the background image. You can also enable or disable a color tinting overlay that matches your accent color and will appear on top of your selected background image. Additionally, you can set the contrast style for light or dark, the overlay gradient style, as well as the overlay pattern style for the background.
-5. Select the movement speed of the parallax effect (pictured below). The speed parameter is not really a speed. It's a delta value which is based on many different factors, such as how big the background image and how big the section is. You will need to play with the value until the scroll seems smooth.
+5. Select the movement speed of the parallax effect (pictured below). The speed parameter is not really a speed. It is a delta value which is based on many different factors, such as how big the background image and how big the section is. You will need to play with the value until the scroll seems smooth.
 
 ![][parallax4]
 

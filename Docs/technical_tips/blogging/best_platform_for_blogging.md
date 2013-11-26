@@ -22,12 +22,12 @@ In this article, we'll take a closer look at some of the most popular blogging C
 
 Its biggest selling point is its ease of use for the writer. You need but to log in and start typing away. WordPress' powerful text editor can be coupled with plugins like JetPack to add advanced proofreading and other functionality to virtually eliminate the need for an external text editing solution. In addition, adding rich media like photos, audio, and video is also fairly easy.
 
-While WordPress is strong in the area of content creation, it falls short in customization on the part of the site owner. Unless you know your way around PHP or CSS, getting it to do something it wasn't inherently designed for can be tricky. There are a number of useful plugins out there that make expanding WordPress' built-in functionality easier, but it's still limited to a theme's widget positions and other aspects without some tinkering under the hood required.
+While WordPress is strong in the area of content creation, it falls short in customization on the part of the site owner. Unless you know your way around PHP or CSS, getting it to do something it wasn't inherently designed for can be tricky. There are a number of useful plugins out there that make expanding WordPress' built-in functionality easier, but it is still limited to a theme's widget positions and other aspects without some tinkering under the hood required.
 
 WordPress scales quite well. You can throw it on a shared server alongside 100+ other sites, or host it on a series of dedicated servers and content delivery networks with relative ease. It also includes a built-in caching mechanism that, while not perfect, is capable of improving site performance fairly significantly given the right set of circumstances.
 
 ### Joomla
-[Joomla][joomla] is a well-rounded CMS powerhouse. It's a jack of all trades when it comes to content management, and this makes it a very appealing solution to many users. Like WordPress, it features an article style of content management. It also utilizes modules to create a more dynamic and custom user experience. Two sites built with the same template can look entirely different with no real experience in CSS or PHP necessary.
+[Joomla][joomla] is a well-rounded CMS powerhouse. It is a jack of all trades when it comes to content management, and this makes it a very appealing solution to many users. Like WordPress, it features an article style of content management. It also utilizes modules to create a more dynamic and custom user experience. Two sites built with the same template can look entirely different with no real experience in CSS or PHP necessary.
 
 Joomla has an incredibly active and informed user community. If you can't find the answers to a question in an extension's documentation, you're almost guaranteed to find the answer on one of the many active Joomla-friendly forums out there. We [host one of these on ourselves][forum], and have been amazed at the incredible input and responsiveness of the community.
 
@@ -44,14 +44,14 @@ For one, the CMS and hosting is all bundled together. You can't host a Squarespa
 
 Squarespace may be more of a hosting play than a CMS. What you lose out on customization and third-party extensions you gain in hosting reliability. For many bloggers, this is a tough sacrifice to make, but one worth considering if you don't want to have to manage the technical aspects of your site yourself.
 
-It's a solution that caters directly to the user that just wants to start writing without dealing with hosting, software updates, or managing third-party extensions.
+it is a solution that caters directly to the user that just wants to start writing without dealing with hosting, software updates, or managing third-party extensions.
 
 ### Drupal
 [Drupal][drupal] is one of the most highly regarded CMS solutions out there among the IT professional community. Its user base is largely made up of people that know everything about the site they're working with, and can troubleshoot through just about any issue that might appear. This could be a big benefit to a blogger searching for answers to a difficult question regarding the platform. 
 
-On the other side of the coin, Drupal has a learning curve that is not for the faint of heart. It's made with the experienced site manager in mind, and not so much the blogger. In fact, it may very well be the lease blog-friendly solution in this list.
+On the other side of the coin, Drupal has a learning curve that is not for the faint of heart. It is made with the experienced site manager in mind, and not so much the blogger. In fact, it may very well be the lease blog-friendly solution in this list.
 
-That said: There are many reasons to consider Drupal a viable candidate for your site's CMS. It's frequently used in high-traffic situations and has a multitude of customization points that allows you to turn it into whatever you want it to. It's a powerful CMS, and it's because of this it boasts one of the most loyal user communities in the industry.
+That said: There are many reasons to consider Drupal a viable candidate for your site's CMS. It is frequently used in high-traffic situations and has a multitude of customization points that allows you to turn it into whatever you want it to. It is a powerful CMS, and it is because of this it boasts one of the most loyal user communities in the industry.
 
 Which One Should You Choose?
 -----

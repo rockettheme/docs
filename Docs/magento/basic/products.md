@@ -24,7 +24,7 @@ To create a new product, you'll first need to navigate to the **Manage Products*
 
 ![][products]
 
-The **Product Settings** page allows you to assign an **Attribute Set** and **Product Type** to the new product. It's important to remember here that once an attribute set is assigned to the product, it can't be changed. This set adds a number of variables to the product that impact how it's listed and sorted in your store.
+The **Product Settings** page allows you to assign an **Attribute Set** and **Product Type** to the new product. It is important to remember here that once an attribute set is assigned to the product, it can't be changed. This set adds a number of variables to the product that impact how it is listed and sorted in your store.
 
 As an example, you might have a specific attribute set created for digital cameras. This would be the set you'd assign here if you're adding a digital camera to your store.
 
@@ -40,7 +40,7 @@ A **Configurable** product is like a **Grouped** product in that it shares a pro
 
 The next stage in product creation is much more detailed and time consuming. This is where you configure all the variables and options for that product that impact its description, name, SKU number, price, image, and more.
 
-Since you're creating the product for the first time, you'll want to make sure you have all the necessary information available at hand. This includes the SKU number you'd like to assign to the product, it's stock level (inventory), any related products (if already created) that you'd like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
+Since you're creating the product for the first time, you'll want to make sure you have all the necessary information available at hand. This includes the SKU number you'd like to assign to the product, it is stock level (inventory), any related products (if already created) that you'd like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
 
 Below, we've broken down the sections of the **Product Information** area. You can find detailed instructions on the official [Magento support site][magento].
 
@@ -98,7 +98,7 @@ Do you have any additional products that would be complementary to the product? 
 
 #### Cross-Sells
 
-Cross-sells appear in the shopping cart. As your customer is checking out, it's one last potential way to turn a small order into a larger one. If your online store was a physical store, this would be the candy next to the cash register.
+Cross-sells appear in the shopping cart. As your customer is checking out, it is one last potential way to turn a small order into a larger one. If your online store was a physical store, this would be the candy next to the cash register.
 
 #### Custom Options
 

@@ -14,7 +14,7 @@ Content Top Section
     3. **Text** [11%, 93%, sw]
     4. **Text** [50%, 93%, sw]
 
-The Content Top section details several of the powerful features available in Ximenia. It's made up of four standard Text widgets divided in half by a single Gantry Divider used to split the widgets into two columns.
+The Content Top section details several of the powerful features available in Ximenia. It is made up of four standard Text widgets divided in half by a single Gantry Divider used to split the widgets into two columns.
 
 Here's the widget breakdown for the Content Top section:
 

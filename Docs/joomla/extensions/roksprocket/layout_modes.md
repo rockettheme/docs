@@ -7,6 +7,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 Introduction
 ------------
+
 RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the administrator interface.
 
 ![][roksprocket_module_1]
@@ -28,6 +29,7 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 
 Content Providers
 -----
+
 ![][content]
 
 RokSprocket has the ability to pull content from a number of content providers that work within Joomla. Most site administrators will use Joomla as the content provider for RokSprocket as it pulls articles from your primary Joomla install and arranges them to meet your needs. 

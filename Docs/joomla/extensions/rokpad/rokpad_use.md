@@ -19,15 +19,15 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 
 2. **Undo and Redo** Undoes and reapplies the last single action. You can undo several actions in a row, and reapply them using the Redo command.
 
-3. **Find** Locates and selects either a single or all instances of the entered string. This allows you to edit one instance, or all matches simultaniously. You can set this feature to search for case-sensitive matches, regular expressions, whole words, and within a specified selection.
+3. **Find** Locates and selects either a single or all instances of the entered string. This allows you to edit one instance, or all matches simultaneously. You can set this feature to search for case-sensitive matches, regular expressions, whole words, and within a specified selection.
 
-4. **Extras** are extra features to improve user experience. You can go to a specific line, find and replace content, and beautify HTML (which automatically arranges HTML so it's easier to read).
+4. **Extras** are extra features to improve user experience. You can go to a specific line, find and replace content, and beautify HTML (which automatically arranges HTML so it is easier to read).
 
 5. The **Settings** menu gives you access to a number of settings specific to RokPad. More information about this menu can be found below.
 
 6. **Keyboard Shortcuts** gives you a quick reference guide to useful keyboard shortcuts available to you in the RokPad editor.
 
-7. The **Fullscreen** button allows you to go to fullscreen mode with the editor. This gives you a distraction-free experience that fills the browser window.
+7. The **Fullscreen** button allows you to go to full screen mode with the editor. This gives you a distraction-free experience that fills the browser window.
 
 ![][cog]
 

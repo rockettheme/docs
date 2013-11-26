@@ -99,7 +99,7 @@ At the bottom of this page (point 7), you'll be asked if you wish to back up inf
 
 ![][installation_j25_5]
 
-The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It's only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
+The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
 
 ![][installation_j25_6]
 

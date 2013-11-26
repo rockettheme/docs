@@ -10,7 +10,7 @@ Introduction
 
 RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB3. By following a few simple sets, you can easily integrate the two platforms, providing registration, user syncing and syncing of login sessions.
 
-Traditionally bridges for Joomla have been a variety of hack's in both the Joomla and the forum code base, resulting in a precarious solution that was prone to break with updates on either side. This is not the case with RokBridge due to its non-invasive characteristics. RokBridge has been developed with the help of key members of the phpBB3 team to ensure that no hacks are required on the Joomla or phpBB3 side. Everything just works.
+Traditionally bridges for Joomla have been a variety of hacks in both the Joomla and the forum code base, resulting in a precarious solution that was prone to break with updates on either side. This is not the case with RokBridge due to its non-invasive characteristics. RokBridge has been developed with the help of key members of the phpBB3 team to ensure that no hacks are required on the Joomla or phpBB3 side. Everything just works.
 
 Requirements
 -----
@@ -112,9 +112,10 @@ All versions of phpBB3 use GET rather than POST in their advanced search form, t
 In the **Menu Item Manager** for your menu of choice, you can either set up an External Link to your new bridged location, or you can create a **RokBridge Menu Item**. The RokBridge Menu Item basically acts as a redirect to your current bridge location and is a good option if you plan on changing your bridge location at some point.
 
 [featured]: assets/rokbridge.jpeg
-[rokbridge-download]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[download]: http://www.rockettheme.com/extensions-joomla/rokbridge
 [rokbridge1]: assets/rokbridge_1.jpg
 [rokbridge2]: assets/rokbridge_2.jpg
 [gantrywidget]: assets/wp_RokBridge_gantrywidget.jpeg
 [phpbb]: http://phpbb.com
 [theme]: http://www.rockettheme.com/phpbb3
+[install]: ../../platform/extensions.md

@@ -17,7 +17,7 @@ Here's the widget breakdown for the Header section:
 * Gantry Divider
 * Gantry Social Buttons
 
-The header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It's also a fairly simple section to set up.
+The header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It is also a fairly simple section to set up.
 
 #### Gantry Logo
 The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
@@ -55,7 +55,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Custom Chrome      |           Menu |  
 
 #### Gantry Social Buttons
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Header widget section so it's present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
+The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Header widget section so it is present in all of the demo pages. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
 
 [demo1]: assets/wp_graffito_demo_1.jpeg
 [faq]: faq.md

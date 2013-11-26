@@ -52,8 +52,8 @@ From Joomla 2.5 and 3.x:
 Once installation is complete, a message highlighted in green should indicate its successful completion.
 
 [featured]: assets/rokajaxsearch.jpeg
-[rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/club/1004-rokajaxsearch
+[install]: ../../platform/extensions.md

@@ -31,7 +31,7 @@ Pretty much everything and anything relating to sales made on your site can be f
 
 The **Catalog** menu is your primary stop for managing your product catalog. Your products, product categories, search terms, attributes (product features and other specifications), and more can be found using this menu.
 
-This menu also includes access to Google Sitemap, indexing, and customer reviews. If it's related to your product catalog, it can be found here.
+This menu also includes access to Google Sitemap, indexing, and customer reviews. If it is related to your product catalog, it can be found here.
 
 ### Mobile
 
@@ -45,7 +45,7 @@ The **Mobile** menu allows you to access settings and options related to **Magen
 
 The **Customers** menu lets you manage information related to your customer base. This includes individual customer accounts, customer groups, and a list of all your customers currently online. 
 
-This list even includes customers that aren't presently logged in. It's a great resource to use in the event you're considering taking down your site for maintenance but want to make sure you're not "turning the lights out" on a busy store. It can also be useful for troubleshooting and resolving customer service issues.
+This list even includes customers that aren't presently logged in. It is a great resource to use in the event you're considering taking down your site for maintenance but want to make sure you're not "turning the lights out" on a busy store. It can also be useful for troubleshooting and resolving customer service issues.
 
 ### Promotions
 
@@ -79,7 +79,7 @@ Data is your best friend in the world of e-commerce. The **Reports** menu gives 
 
 ![][menu10]
 
-The **System** menu is basically the backend of the backend of your site. It's where you would go to manage options related to the actual function of your online store. Configuration utilities, administrative accounts, data import/export, currency, translations, permissions, and store view management is all controlled from pages found on this menu.
+The **System** menu is basically the backend of the backend of your site. It is where you would go to manage options related to the actual function of your online store. Configuration utilities, administrative accounts, data import/export, currency, translations, permissions, and store view management is all controlled from pages found on this menu.
 
 [menu]: assets/menu_1.jpeg
 [menu2]: assets/menu_2.jpeg

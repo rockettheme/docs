@@ -18,7 +18,7 @@ Here's the widget breakdown for the Header section:
 * Gantry Divider
 * Gantry Login Button
 
-The header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It's also a fairly simple section to set up.
+The header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It is also a fairly simple section to set up.
 
 #### Gantry Logo
 

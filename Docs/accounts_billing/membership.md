@@ -9,7 +9,7 @@ breadcrumb: /accounts_billing:Accounts & Billing/!membership:Membership Guide/
 Introduction
 -----
 
-RocketTheme goes to great lengths to make sure that our Club members receive the best products, support, and value in the industry. It's because of this commitment that we adopted the Club membership model to ensure that you have access to the templates, extensions, and resources you need to make your Joomla, WordPress, phpBB, and/or Magento site shine.
+RocketTheme goes to great lengths to make sure that our Club members receive the best products, support, and value in the industry. It is because of this commitment that we adopted the Club membership model to ensure that you have access to the templates, extensions, and resources you need to make your Joomla, WordPress, phpBB, and/or Magento site shine.
 
 >> Note: This guide is intended as a general reference and does not supersede our current [Terms and Conditions][terms] which are always available on our primary website.
 
@@ -26,7 +26,7 @@ You also receive **Entitlements** allowing you to use RocketTheme products on mu
 
 #### Developer Club Membership
 
-We also offer a **Developer Club** option for small businesses or individuals that frequently work with clients and/or require many Entitlements. It's an excellent choice for small businesses or web developers that want to take full advantage of RocketTheme's products without having to purchase additional entitlements as you go. You also gain access to our **Developer Only** community forums, the ability to post and reply to the **Jobs** board, and eligibility to have your work highlighted on our site and/or throughout our social media channels.
+We also offer a **Developer Club** option for small businesses or individuals that frequently work with clients and/or require many Entitlements. It is an excellent choice for small businesses or web developers that want to take full advantage of RocketTheme's products without having to purchase additional entitlements as you go. You also gain access to our **Developer Only** community forums, the ability to post and reply to the **Jobs** board, and eligibility to have your work highlighted on our site and/or throughout our social media channels.
 
 Membership Benefits
 -----
@@ -60,7 +60,7 @@ Entitlements currently exist on the honor system, though RocketTheme reserves th
 
 #### Misrepresentation
 
-RocketTheme encourages Club members to use its products with clients. It's RocketTheme's hope that its products make creating useful, dynamic websites a quick and easy experience for members. 
+RocketTheme encourages Club members to use its products with clients. It is RocketTheme's hope that its products make creating useful, dynamic websites a quick and easy experience for members. 
 
 We do not, however, encourage any activity that would lead someone to believe that a Club member is in any way directly associated with RocketTheme. The use of RocketTheme's logo, any copyrighted materials, and products are restricted to the terms of the membership agreement.
 

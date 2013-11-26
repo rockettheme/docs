@@ -21,7 +21,7 @@ From there, you will be asked to log in to your RocketTheme account with the sam
 
 Once authenticated, the yellow authentication bar will be replaced with a blue one (displayed above) indicating which RocketTheme clubs you have been authenticated with. At this point, you should be able to seek out and initiate updates for both club and free supported extensions.
 
-Plug-in Manager Settings
+Plugin Manager Settings
 -----
 ![][rokupdater_plugin_manager_1]
 
@@ -46,7 +46,7 @@ Using RokUpdater with the Update Manager
 
 Once an extension has been successfully applied, you should receive a confirmation message similar to the one above.
 
-[login_1]: assets/rokupdater_login_1.jpeg
+[login_1]: assets/rokupdater_login_1.jpg
 [login_2]: assets/rokupdater_login_2.jpeg
 [login_3]: assets/rokupdater_login_3.jpeg
 [rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.jpeg

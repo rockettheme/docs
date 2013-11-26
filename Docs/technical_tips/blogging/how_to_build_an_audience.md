@@ -13,13 +13,13 @@ Take a tech news site, for example. You would probably do very little good hitti
 
 Likewise, a local food blog wouldn't necessarily reap many benefits from an International ad campaign. Instead, they might benefit more from offering "reviewed by YourSite.com" window stickers to restaurants you're featuring.
 
-These short-term campaigns are great, but they're just one part of a greater strategy of audience building. Social media has given us incredible tools with which we can draw in and create conversation with our audience. No longer is online media about push. It's every bit as much about pull as ever, regardless of your business model.
+These short-term campaigns are great, but they're just one part of a greater strategy of audience building. Social media has given us incredible tools with which we can draw in and create conversation with our audience. No longer is online media about push. It is every bit as much about pull as ever, regardless of your business model.
 
 The future of targeted campaigns is all about context. Context for your brand, your content, and the visitor taking time out of their day to check it out. Without context, there is no reason for anyone to visit your site. Your existing audience should be your greatest promotional tool. They have an established relationship with their friends, and are far more likely to generate views on your page than any single ad campaign could.
 
 Think you have a disadvantage because your site only has 100 visitors per day? Those 100 visitors have 100 followers and friends on at least one social network. That's an average. Some might have quite a bit more. If they share a link to your site or social page to their friends, that's a potential doubling of your exposure. If two of them share a link, you've potentially tripled the amount of people that have been exposed to your brand's name. They'll subconsciously remember it, even if they don't actually click the link. Next time your site pops up in a search result, they may very well click it because for some reason they recognize your brand.
 
-That's simple context, and it's quickly becoming the way PR agencies do business. They know it works, and there's no sign that it's going away any time soon.
+That's simple context, and it is quickly becoming the way PR agencies do business. They know it works, and there's no sign that it is going away any time soon.
 
 The Importance of Social Media
 -----

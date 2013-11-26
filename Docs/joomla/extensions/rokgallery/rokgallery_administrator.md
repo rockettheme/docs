@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokgallery:RokGallery
 
 RokGallery Administrator Overview
 -----
-RokGallery is a large extension that consists of several different parts, including: the RokGallery component, two plugins and the RokGallery module. It's centrally controlled via the RokGallery component, and can be used to create gallery modules, which themselves can be managed independently.
+RokGallery is a large extension that consists of several different parts, including: the RokGallery component, two plugins and the RokGallery module. It is centrally controlled via the RokGallery component, and can be used to create gallery modules, which themselves can be managed independently.
 
 RokGallery enables you to create and manage galleries which can be used to sort and arrange photos you wish to have appear within your site. You can customize how and where various images are presented to visitors, and maintain full control over them through a single, centralized component.
 

@@ -121,7 +121,7 @@ Here is the code related to the Progressive Knob found on the far left in the im
 | iconSize | The size of your icon (in pixels) at the center of the knob.                                                |  
 | radius   | This sets the radius (multiply by two to get the width) of the circle at the center of the knob.            |  
 | size     | This option sets the width (in pixels) of the progression indicator (shown in blue in the above image)      |  
-| start    | This sets the starting amount (in percentage) of the progression indicator. In this case, it's set at `70`. |  
+| start    | This sets the starting amount (in percentage) of the progression indicator. In this case, it is set at `70`. |  
 
 The `longshadow` div at the end of the line creates that shadow that sweeps across the back of the knob. This div should appear within the primary `canvas-graph` div that makes up the progressive knob (as seen above).
 

@@ -322,7 +322,7 @@ Enables the Tiny MCE editor for RokMage Extensions.
 
 This template doesn't support IE6/7. Instead, it redirects IE6/7 users to an "Unsupported Browser" page. This page is added automatically by the RocketLauncher, but if you're installing manually, you'll also need to add this. 
 
-You can do so by going to **CMS -> Pages** and making a new page, called "IE6/7 Redirect". Set the identifier as `ie6-redirect` - **this is important** as it's what is used by the redirect script so make sure to set it this way. 
+You can do so by going to **CMS -> Pages** and making a new page, called "IE6/7 Redirect". Set the identifier as `ie6-redirect` - **this is important** as it is what is used by the redirect script so make sure to set it this way. 
 
 Then, set the layout as 1 column, and title and content as you wish. To set the same as the RL version, use the title "Unsupported Browser" and add your content as follows (with editor hidden):
 

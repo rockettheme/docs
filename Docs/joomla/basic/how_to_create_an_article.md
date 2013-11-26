@@ -34,7 +34,7 @@ The first step to creating a new article is to navigate to the **Article Manager
 
 The main editing page is where you can set the **title** of your article (point 1), **category** (point 2), and more. This is the primary content entry page for your Joomla site. All of your articles are created and edited on this page. 
 
-Setting your article's category can help you to sort and set different types of content into different menus and pages within your Joomla site. It's the most basic level of sorting between articles. An article can only exist inside one category at a time, though you can create nested categories which allows you to be as specific or broad as possible when sorting with filters.
+Setting your article's category can help you to sort and set different types of content into different menus and pages within your Joomla site. It is the most basic level of sorting between articles. An article can only exist inside one category at a time, though you can create nested categories which allows you to be as specific or broad as possible when sorting with filters.
 
 Once you're done editing your article, you can save it and close the editing area using the options along the top of the page (point 3).
 

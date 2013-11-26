@@ -10,7 +10,7 @@ Navigation Section
 
 ![][demo1]
 
-The Navigation section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It's also a fairly simple section to set up.
+The Navigation section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It is also a fairly simple section to set up.
 
 #### Gantry Menu
 

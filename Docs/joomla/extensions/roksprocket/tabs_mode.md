@@ -6,7 +6,9 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 ---
 
 ### Tabs
+
 ![][tabs]
+
 Tabs is a tabbed content display mode, presenting content in dynamically sizing tabs.
 
 ![][tabs_1]

@@ -79,13 +79,13 @@ The next step in installation concerns the database you wish to use. If Joomla i
 
 The **Database Type** option (point 1) gives you the ability to choose which type of database you wish to link to your Joomla site. For most users, MySQLi is the database type you'll want to select.
 
-You'll then be asked for your database's **Host Name** (point 2). This should be provided by your Web host. It's usually `localhost` but can be different, depending on how your server is set up. 
+You'll then be asked for your database's **Host Name** (point 2). This should be provided by your Web host. It is usually `localhost` but can be different, depending on how your server is set up. 
 
 Your **Username** and **Password** (point 3) need to be entered next. This information may be provided by your host, or available for you to configure to your preferences. Check with your host to determine which options are available to you. The same applies to the **Database Name** field (point 4).
 
 The **Table Prefix** (point 5) is used to differentiate your Joomla data from other data stored in the database. One will be randomly generated in this space, though you can change it to whatever you'd like.
 
-If you're using a pre-created database, you'll want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it's a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
+If you're using a pre-created database, you'll want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
 
 ![][installation_joomla3x_5]
 

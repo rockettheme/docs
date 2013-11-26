@@ -6,7 +6,9 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 ---
 
 ### Lists
+
 ![][lists]
+
 Lists is a vertical display content mode, with accordion support. Here's a look at the options screen for the Lists layout mode.
 
 ![][lists_1]
