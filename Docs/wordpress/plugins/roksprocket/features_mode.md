@@ -41,7 +41,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     3. **Article Titles** This toggle enables you to show or hide post titles. [20%, 08%, ne]
     4. **Article Text** This toggle allows you to show or hide post text in a features. [24%, 08%, ne]
     5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [29%, 08%, ne]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of an post. [33%, 08%, ne]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of a post. [33%, 08%, ne]
     7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the widget. [38%, 08%, ne]
     8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [42%, 08%, ne]
     9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [47%, 08%, ne]
@@ -63,7 +63,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 5.  The **Preview Length** option sets the amount of words you wish to limit the preview to within the widget's post display. This can help reduce occurrences of controls overlaying the description and make your features more uniform.
 
-6. The **Strip HTML Tags** option removes HTML tags from the description of an post.
+6. The **Strip HTML Tags** option removes HTML tags from the description of a post.
 
 7.  The **Arrow Navigation** option determines whether you wish to show or hide the arrow navigation controls on the widget.
 

@@ -45,7 +45,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     3. **Article Titles** This toggle enables you to show or hide post titles. [19%, 08%, ne]
     4. **Article Text** This toggle allows you to show or hide post text in a strips. [24%, 08%, ne]
     5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's post display. [28%, 08%, ne]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of an post. [33%, 08%, ne]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of a post. [33%, 08%, ne]
     7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [37%, 08%, ne]
     8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [41%, 08%, ne]
     9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [46%, 08%, ne]
@@ -63,7 +63,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 3. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's post display. This can help reduce occurrences of controls overlaying the description and make your strips more uniform.
 
-4.  The **Strip HTML Tags** option removes HTML tags from the description of an post.
+4.  The **Strip HTML Tags** option removes HTML tags from the description of a post.
 
 5.  The **Previews per Page** option gives you control over how many post previews show on each page.
 

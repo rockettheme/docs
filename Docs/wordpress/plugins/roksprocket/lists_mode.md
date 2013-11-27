@@ -39,7 +39,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     2. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the widget. [15%, 08%, ne]
     3. **Display Limit** The amount of posts to show when rendering. [19%, 08%, ne]
     4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [24%, 08%, ne]
-    5.  **Strip HTML Tags** This option removes HTML tags from the description of an post. [29%, 08%, ne]
+    5.  **Strip HTML Tags** This option removes HTML tags from the description of a post. [29%, 08%, ne]
     6. **Preview Per Page** This option allows you to set the number of post previews that appear per page in the widget. [33%, 08%, ne]
     7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the widget. [38%, 08%, ne]
     8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [42%, 08%, ne]
@@ -59,7 +59,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the widget's post display. This can help reduce occurrences of controls overlaying the description and make your lists more uniform.
 
-5. The **Strip HTML Tags** option removes HTML tags from the description of an post.
+5. The **Strip HTML Tags** option removes HTML tags from the description of a post.
 
 6. The **Previews Per Page** setting allows you to determine how many previews appear per page within the widget.
 

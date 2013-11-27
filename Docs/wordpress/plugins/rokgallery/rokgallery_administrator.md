@@ -33,7 +33,7 @@ RokGallery's Component Administrator is broken into two main areas.
 1. The four large icons on the left represent image-level options. 
 	* **Publish**: This button publishes images highlighted in the image area below. You can highlight images by clicking and dragging your mouse over them. A blue box will appear as you drag, indicating which images your selection area affects. You can tell an image is published by the presence of a green triangle in the upper-right corner of the image box.
 	* **Unpublish**: This option unpublishes currently-published images selected in the image area below. These images will not appear on the frontend, or any gallery widgets they're presently linked to.
-	* **Tag**: The Tag button opens a popup that will give you the option to assign tags to a particular image, as well as assign it to a gallery. This gallery can then be used to present the image on the site either as a direct injection into an post or via a RokGallery module.
+	* **Tag**: The Tag button opens a popup that will give you the option to assign tags to a particular image, as well as assign it to a gallery. This gallery can then be used to present the image on the site either as a direct injection into a post or via a RokGallery module.
 	* **Delete**: This option gives you the ability to delete an image from RokGallery. Once deleted, it will no longer be available to appear on your site.
 
 2. The four icons on the right represent gallery-level controls.

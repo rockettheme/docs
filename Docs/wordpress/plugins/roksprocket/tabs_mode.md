@@ -39,7 +39,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     6. **Autoplay Delay** Sets the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single post will be featured in the module. [37%, 08%, ne]
     7. **Image Resize** Sets the maximum width and/or height of displayed thumbnails. [45%, 08%, ne]
     8. **Preview Length** This toggle allows you to set the length (in words) of the preview. [51%, 08%, ne]
-    9.  **Strip HTML Tags** This option removes HTML tags from the description of an post. [57%, 08%, ne]
+    9.  **Strip HTML Tags** This option removes HTML tags from the description of a post. [57%, 08%, ne]
     10. **Default Title** You can set a default title for all posts from this field. If this selection is set at **Default post Title**, then the post's given titles are used.  [68%, 08%, ne]
     11. **Default Icon** Determines which image the widget will default to when locating an icon for the tab. [73%, 08%, ne]
     12. **Default Link** Determines which link field the widget will default to when locating a link for the tab. [78%, 08%, ne]
@@ -61,7 +61,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 8. **Preview Length** This toggle allows you to set the length (in words) of the preview.
 
-9. **Strip HTML Tags** removes or preserves HTML tags in the description of an post.
+9. **Strip HTML Tags** removes or preserves HTML tags in the description of a post.
 
 10. You can set a default title for all posts from the **Default Title** field. If this selection is set at **Default Article Title**, then the post's given titles are used.
 

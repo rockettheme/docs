@@ -40,7 +40,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
     2. **Display Limit** The amount of posts to show when rendering. [15%, 08%, ne]
     3. **Columns** Sets the number of columns posts are displayed in. [20%, 08%, ne]
     4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [25%, 08%, ne]
-    5. **Strip HTML Tags** This option removes HTML tags from the description of an post. [29%, 08%, ne]
+    5. **Strip HTML Tags** This option removes HTML tags from the description of a post. [29%, 08%, ne]
     6. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [34%, 08%, ne]
     7. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the widget. [38%, 08%, ne]
     8. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [44%, 08%, ne]
@@ -59,7 +59,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the widget's post display.
 
-5. **Strip HTML Tags** removes or preserves HTML tags in the description of an post.
+5. **Strip HTML Tags** removes or preserves HTML tags in the description of a post.
 
 6. **Blocks Per View** sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear.
 
