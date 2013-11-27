@@ -6,11 +6,13 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!roksprocket:RokSprocket
 ---
 
 Introduction
-============
+-----
+
 RokSprocket is a revolutionary new extension for WordPress 3.x designed to give you an incredible level of control over how you present your content. Sophisticated content filters, robust layout modes and options, integration with multiple content providers, and a streamlined no-nonsense interface all contribute to a powerful yet user friendly experience from start to finish.
 
 Requirements
 ------------
+
 RokSprocket has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure that you are using the latest version.
@@ -20,6 +22,7 @@ RokSprocket has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * Multiple layout options: Features, Tabs, Lists, Mosaic & Headlines
 * 6 supported content providers: WordPress, CFS, CPT, Types, PostTypes, and Simple
 * Advanced cumulative filters: specific and dynamic filters

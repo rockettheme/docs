@@ -53,7 +53,7 @@ Key Features
 * Ability to “love” an image
 * Image view counter
 * Details view for a particular image with full image information
-* Modules available include: Grid view and new Slideshow module with unique transition effects.
+* Modules available include: Grid view and new Slideshow widget with unique transition effects.
 
 How to install
 --------------
@@ -78,7 +78,7 @@ Once installation is complete, you'll receive a message (shown above) indicating
 
 RokBox
 -----
-We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery module to RokBox, you'll be able to present images in a way that goes beyond what RokGallery alone can offer.
+We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery widget to RokBox, you'll be able to present images in a way that goes beyond what RokGallery alone can offer.
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 

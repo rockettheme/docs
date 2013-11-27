@@ -10,7 +10,7 @@ Introduction
 
 ![][theme]
 
-Alerion is a visually intense design, focusing on rich elements split into distinct sections to add depth to content. Additional design features include configurable floating widgets and quicknav feature, as well as parallax background effects.
+Alerion is a visually intense design, focusing on rich elements split into distinct sections to add depth to content. Additional design features include configurable floating widget's and quicknav feature, as well as parallax background effects.
 
 The Gantry Framework provides a standard core of features, such as an advanced theme manager; amongst other theme features. Further, RokSprocket benefits from Alerion specific integrated styling, for its various layout types.
 
@@ -59,7 +59,7 @@ QuickNav adds a scrolling menu that follows your viewport as you scroll. You can
 
 The Floating Module feature that allows you to 'bounce' a widget between the theme sections. You can set a starting position and the end position for the widget, as well as the stopping offset point. The stopping offset will stop the widget in the exact offset position you would like.
 
-The floating module feature also allows a widget position to follow the users viewport.
+The floating widget feature also allows a widget position to follow the users viewport.
 
 ### Parallax Background
 

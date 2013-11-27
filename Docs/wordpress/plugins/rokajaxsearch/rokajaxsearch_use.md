@@ -17,7 +17,7 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 ![][plugin1]
 
 :   1. **Preset Themes** Only applicable if using a non-formatted theme, but you can select between a Blue, Light or Dark theme for the search module. [12%, 51%, se]
-    2. **Load Default CSS** The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the theme, you still need to set this to Yes for the styling to work. [15%, 60%, sw]
+    2. **Load Default CSS** The widget has inbuilt widget styling so set this to Yes if you wish for it to work standalone. As we override this file from the theme, you still need to set this to Yes for the styling to work. [15%, 60%, sw]
     3. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [19%, 51%, se]
     4. **Show Description** Set to yes to show a description with each search result. [22%, 60%, sw]
     5. **Show Read More** Set whether the Read More link should be display. [27%, 51%, se]
@@ -27,10 +27,10 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
     9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [41%, 51%, se]
     10. **Items Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [45%, 58%, sw]
     11. **Limit Items** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [49%, 51%, se]
-    12. **Google Web Search** When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work. [52%, 58%, sw]
-    13. **Google Blog Search** When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work. [56%, 51%, se]
-    14. **Google Image Search** When enabled, an option will appear in the module to search Google Images Search. The API key needs to be correctly completed for this to work. [60%, 58%, sw]
-    15. **Google Video Search** When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work. [63%, 51%, se]
+    12. **Google Web Search** When enabled, an option will appear in the widget to search Google Web Search. The API key needs to be correctly completed for this to work. [52%, 58%, sw]
+    13. **Google Blog Search** When enabled, an option will appear in the widget to search Google Blog Search. The API key needs to be correctly completed for this to work. [56%, 51%, se]
+    14. **Google Image Search** When enabled, an option will appear in the widget to search Google Images Search. The API key needs to be correctly completed for this to work. [60%, 58%, sw]
+    15. **Google Video Search** When enabled, an option will appear in the widget to search Google Videos Search. The API key needs to be correctly completed for this to work. [63%, 51%, se]
     16. **Image Size to Search** Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large. [67%, 58%, sw]
     17. **Safe Search** Choose between the different Google preferences, either Strict, Moderate or Off. [71%, 51%, se]
     18. **Show Pagination** Set to Yes to show pagination for search results. [74%, 58%, sw]
@@ -40,7 +40,7 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 
 1. **Preset Themes**: Only applicable if using a non-formatted theme, but you can select between a Blue, Light or Dark theme for the search module.
 
-2. **Load Default CSS**: The module has inbuilt module styling so set this to Yes if you wish for it to work standalone. As we override this file from the theme, you still need to set this to Yes for the styling to work.
+2. **Load Default CSS**: The widget has inbuilt widget styling so set this to Yes if you wish for it to work standalone. As we override this file from the theme, you still need to set this to Yes for the styling to work.
 
 3. **Google API**: This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key.
 
@@ -60,13 +60,13 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 
 11. **Limit Items**: Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
 
-12. **Google Web Search**: When enabled, an option will appear in the module to search Google Web Search. The API key needs to be correctly completed for this to work.
+12. **Google Web Search**: When enabled, an option will appear in the widget to search Google Web Search. The API key needs to be correctly completed for this to work.
 
-13. **Google Blog Search**: When enabled, an option will appear in the module to search Google Blog Search. The API key needs to be correctly completed for this to work.
+13. **Google Blog Search**: When enabled, an option will appear in the widget to search Google Blog Search. The API key needs to be correctly completed for this to work.
 
-14. **Google Image Search**: When enabled, an option will appear in the module to search Google Image Search. The API key needs to be correctly completed for this to work.
+14. **Google Image Search**: When enabled, an option will appear in the widget to search Google Image Search. The API key needs to be correctly completed for this to work.
 
-15. **Google Video Search**: When enabled, an option will appear in the module to search Google Videos Search. The API key needs to be correctly completed for this to work.
+15. **Google Video Search**: When enabled, an option will appear in the widget to search Google Videos Search. The API key needs to be correctly completed for this to work.
 
 16. **Image Size to Search**: Select the image search size preference for Google Search, either Small, Medium, Large or Extra Large.
 

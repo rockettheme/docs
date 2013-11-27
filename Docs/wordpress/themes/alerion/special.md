@@ -10,7 +10,7 @@ Headline, Subheading, and Headline Icon
 
 ![][headline3]
 
-Setting the text you wish to appear as the headline and subheading for each section in a module is a fairly simple process. You only need to do the following steps.
+Setting the text you wish to appear as the headline and subheading for each section in a widget is a fairly simple process. You only need to do the following steps.
 
 1. Navigate to **Admin -> Alerion Theme**.
 2. Go to the **Style** tab and set the text for Showcase, Feature, Utility, and so on (pictured above).

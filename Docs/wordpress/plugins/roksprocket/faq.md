@@ -6,7 +6,7 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!roksprocket:RokSprocket
 ---
 
 #### How do inject a RokSprocket Widget into a post?
-Injecting a RokSprocket module into an post is a fairy easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in RokSprocket Admin.
+Injecting a RokSprocket widget into an post is a fairy easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in RokSprocket Admin.
 
 ![][features1]
 

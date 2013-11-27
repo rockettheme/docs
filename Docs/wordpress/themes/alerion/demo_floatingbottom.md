@@ -1,11 +1,11 @@
 ---
-title: Alerion: Recreating the Demo - Floating Module Bottom
+title: Alerion: Recreating the Demo - Floating widget Bottom
 description: Your Guide to Recreating Elements of the Alerion Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
 
-Floating Module Bottom Section
+Floating widget Bottom Section
 -----
 
 ![][demo]
@@ -14,7 +14,7 @@ Floating Module Bottom Section
 
 The lower half of the floating widget set is a standard **Text** widget. The upper half, which remains in place, is found in the **Floating Module Top** widget position.
 
->> This widget will not appear unless the **Alerion Floating Module** is placed in a regular module position. On the front page of our demo, we placed that widget in the **Showcase** position.
+>> This widget will not appear unless the **Alerion Floating Module** is placed in a regular widget position. On the front page of our demo, we placed that widget in the **Showcase** position.
 
 ### Text
 

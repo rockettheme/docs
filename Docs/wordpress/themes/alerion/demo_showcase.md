@@ -52,6 +52,7 @@ Once you've created this widget, you can add it via the Widgets menu by clicking
 The widget should now be created and ready for use on the front page of your WordPress site.
 
 ### Gantry Divider
+
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 ### Alerion Floating Module
@@ -60,7 +61,7 @@ The **Alerion Floating Module** is a widget available in the main Widgets listin
 
 There are two settings you will want to adjust in order to match what you see in the demo.
 
-The **Ending Position** on the demo is set to **feature**. The **Stopping Offset (px)** is set to -25. Doing this will let WordPress know that the top floating module will stop moving once it meets the bottom floating module, at the **feature** area of the site.
+The **Ending Position** on the demo is set to **feature**. The **Stopping Offset (px)** is set to -25. Doing this will let WordPress know that the top floating widget will stop moving once it meets the bottom floating module, at the **feature** area of the site.
 
 [demo]: assets/demo_2.jpeg
 [roksprocket]: ../../plugins/roksprocket/

@@ -13,20 +13,20 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 ![][strips_1]
 
 :   1. **Title** This is the title of your module. [10%, 09%, ne]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [9%, 47%, ne]
+    2. **Show Title** Determines whether the title of the widget will appear for visitors or remain hidden. [9%, 47%, ne]
     3. **Status** Sets the publishing status for the module. [17%, 47%, ne]
     4. **Access** Sets the access level for the module. [10%, 70%, ne]
     5. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [48%, 46%, nw]
     6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [42%, 80%, nw]
     7. **Content Filter Rules** Sets the content filter rules for the module. [51%, 78%, sw]
 
-1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the module should appear in.
+1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the widget should appear in.
 
-2. The **Show Title** option gives you the ability to determine whether or not the title of the module will appear with the module on the frontend.
+2. The **Show Title** option gives you the ability to determine whether or not the title of the widget will appear with the widget on the frontend.
 
-3. The **Status** option allows you to determine the current publishing status of the module. An unpublished module will still appear on the backend for administrators, but will not appear on the live site.
+3. The **Status** option allows you to determine the current publishing status of the module. An unpublished widget will still appear on the backend for administrators, but will not appear on the live site.
 
-4. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors don't see it.
+4. The **Access** option gives you the ability to determine which user group will be able to see the widget on the frontend. Someone logged in as a registered user may be able to see a widget set at that level while random visitors don't see it.
 
 5. The **Filtered post List** gives you access to item-specific settings including:
     * **Title** - Allows you to override the post title in the module. The post title will be used if this is left at *Default*.
@@ -36,7 +36,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
-7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
+7. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
 
 ![][strips_2]
 
@@ -49,13 +49,13 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [37%, 08%, ne]
     8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [41%, 08%, ne]
     9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [46%, 08%, ne]
-    10. **Autoplay** Sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor. [50%, 08%, ne]
+    10. **Autoplay** Sets whether you want the widget to start rolling through strips automatically when the page loads, or to await a command from the visitor. [50%, 08%, ne]
     11. **Autoplay Delay** Sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single post will be featured in the module. [55%, 08%, ne]
     12. **Image Resize** This option is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields. [60%, 08%, ne]
     13. **Default Title** You can set a default title for all posts from this field. If this selection is set at `Default post Title`, then the post's given titles are used. [72%, 08%, ne]
     14. **Default Article Text** This field allows you to set default post text for all strips in the module. If this is not changed from its default, then the post's introductory text is used. [77%, 08%, ne]
-    15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 08%, ne]
-    16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 08%, ne]
+    15. **Default Article Image** Determines which image field the widget will default to when locating an image for the feature. [81%, 08%, ne]
+    16. **Default Link** Determines which link field the widget will default to when locating a link for the feature. [85%, 08%, ne]
 
 1. The **Theme** option sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your theme and/or personal taste.
 
@@ -75,7 +75,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 9.  The **Animation** dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next.
 
-10.  **Autoplay** sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor.
+10.  **Autoplay** sets whether you want the widget to start rolling through strips automatically when the page loads, or to await a command from the visitor.
 
 11.  **Autoplay Delay** sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single post will be featured in the module.
 

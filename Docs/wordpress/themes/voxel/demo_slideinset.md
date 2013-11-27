@@ -9,7 +9,7 @@ SlideInset Section
 -----
 ![][demo2]
 
-The SlideInset section actually creates a RokSprocket module within a RokSprocket module for the visitor. It combines two different RokSprocket elements into a single interface for your visitors to enjoy. The result is a unique look that enhances user experience.
+The SlideInset section actually creates a RokSprocket widget within a RokSprocket widget for the visitor. It combines two different RokSprocket elements into a single interface for your visitors to enjoy. The result is a unique look that enhances user experience.
 
 Here's the widget breakdown for the SlideInset section:
 

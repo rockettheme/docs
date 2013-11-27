@@ -15,6 +15,7 @@ RokGallery enables you to create and manage galleries which can be used to sort 
 Administering RokGallery can take some getting used to, though it does deliver absolute control over your images and their appearance on your site.
 
 #### How to Get to the RokGallery Administrator
+
 ![][admin1]
 
 Accessing the main RokGallery Administrator within WordPress is fairly easy. You simply need to navigate to **Admin → RokGalleryAdmin** once the plugin is activated.
@@ -37,7 +38,7 @@ RokGallery's Component Administrator is broken into two main areas.
 
 2. The four icons on the right represent gallery-level controls.
 	* **Jobs**: Shows a popup log of all previous and current operations, such as imports. This is a good place to go if you've recently made changes to an image or gallery and don't see them on the frontend. This is typically due to the time required to process changes made to image files on the backend.
-	* **Galleries**: Allows you to create, delete and manage all tag galleries. This popup is also available within a RokGallery module when you have a gallery assigned. Changes made in this popup will impact all instances of the tag gallery.
+	* **Galleries**: Allows you to create, delete and manage all tag galleries. This popup is also available within a RokGallery widget when you have a gallery assigned. Changes made in this popup will impact all instances of the tag gallery.
 	* **Settings**: Gives you access to configuration for general aspects of RokGallery.
 	* **Upload**: This button opens a HTML5/Flash drag and drop image uploader.
 
@@ -96,9 +97,9 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 5. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery.
 
-The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery module can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
+The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery widget can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
 
-For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag would appear in any module with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
+For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag would appear in any widget with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
 
 Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
 

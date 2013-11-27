@@ -18,7 +18,7 @@ RokWeather is a highly configurable widget that allows you to control the variou
     2. **Source** Choose between Yahoo or Wunderground. [20%, 10%, ne]
     3. **Default Location** Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO. [26%, 10%, ne]
     4. **Location Display Override** This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town. [33%, 10%, ne]
-    5. **Forecast Items to Show** This setting determines how many days ahead the module will display a forecast for. [47%, 10%, ne]
+    5. **Forecast Items to Show** This setting determines how many days ahead the widget will display a forecast for. [47%, 10%, ne]
     6. **Default Degree Type** Choose between degree Celsius or Fahrenheit for the default temperature reading. [52%, 10%, ne]
     7. **User interaction** This parameter allows to disable user interaction so they cannot change the location and weather data. [56%, 10%, ne]
     8. **Enable Units Switch** This option allows you to configure whether the Celsius/Fahrenheit switch is displayed. [60%, 10%, ne]
@@ -39,7 +39,7 @@ RokWeather is a highly configurable widget that allows you to control the variou
 
 4. **Location Override**: This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town.
 
-5. **Forecast Items to Show**: This setting determines how many days ahead the module will display a forecast for. This only works if **Enable Weather Forecasts** is turned on under **General Settings**.
+5. **Forecast Items to Show**: This setting determines how many days ahead the widget will display a forecast for. This only works if **Enable Weather Forecasts** is turned on under **General Settings**.
 
 6. **Default Degree Type**: Choose between degree Celsius or Fahrenheit for the default temperature reading.
 
