@@ -1,7 +1,7 @@
 ---
 title: Joomla Administrator
 description: Everything you need to know to get started using the Joomla Administrator.
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!administrator.md:Administrator
 
 ---
 

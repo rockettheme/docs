@@ -1,12 +1,13 @@
 ---
 title: How to Set Up a RokBox Member Login
 description: Your guide to setting up a RokBox Member Login for your Joomla site.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_set_up_a_rokbox_member_login.md:How to Set Up a RokBox Member Login
 
 ---
 
 Introduction
 -----
+
 Setting up a RokBox member login is a great way to add quick and easy visual appeal to the process of logging in for your site's members. It only takes a few minutes to set up.
 
 >> Note: Before following the instructions below, make sure you have the latest version of [RokBox Plugins][rokbox] for Joomla 2.5 / 3.x installed. Once installed, confirm that they are enabled in the Plugin Manager by navigating to **Extensions → Plugin Manager**.

@@ -1,7 +1,7 @@
 ---
 title:  How Joomla Extensions Work
 description: Everything you need to know to get started using Joomla extensions.
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!extensions.md:Extensions
 
 ---
 

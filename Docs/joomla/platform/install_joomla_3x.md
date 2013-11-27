@@ -1,6 +1,6 @@
 ---
 title: How to Install Joomla 3.x
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_3x.md:How to install Joomla! 3.x
 
 ---
 

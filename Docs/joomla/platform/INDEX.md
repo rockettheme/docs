@@ -1,7 +1,7 @@
 ---
 title: What is Joomla?
 description: An Introduction to the Joomla Platform
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!INDEX.md:What is Joomla?
 
 ---
 

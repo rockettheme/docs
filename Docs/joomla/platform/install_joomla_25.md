@@ -1,6 +1,6 @@
 ---
 title: How to Install Joomla! 2.5
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_25.md:How to Install Joomla! 2.5
 
 ---
 

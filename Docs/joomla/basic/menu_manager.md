@@ -1,7 +1,7 @@
 ---
 title: How to Manage Joomla Menus
 description: Your Guide to managing Menus in Joomla.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!menu_manager.md:How to Manage Joomla Menus
 
 ---
 

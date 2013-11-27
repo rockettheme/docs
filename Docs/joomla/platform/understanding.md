@@ -1,7 +1,7 @@
 ---
 title: How Joomla Works
 description: Your Guide to Understanding Joomla
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!understanding.md:How Joomla Works
 
 ---
 

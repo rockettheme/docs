@@ -1,7 +1,7 @@
 ---
 title: Understanding Responsive Support Classes
 description: Your guide to using responsive support classes in RocketTheme templates.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!responsive_support_classes:Responsive Support Classes
 
 ---
 

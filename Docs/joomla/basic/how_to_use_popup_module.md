@@ -1,7 +1,7 @@
 ---
 title: How to Use the Popup Module Feature
 description: Your guide to setting up a Popup Module in Joomla.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_use_popup_module.md:How to Use the Popup Module Feature
 
 ---
 

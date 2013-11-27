@@ -1,7 +1,7 @@
 ---
 title: K2 Styling Guide
 description: Your guide to using RocketTheme's built-in styling for K2.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!k2_styling_guide.md:K2 Styling Guide
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Editing Template Text
+title: How to Edit Template Text
 description: How to edit text settings for your RocketTheme template.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_edit_template_text.md:How to Edit Template Text
 
 ---
 

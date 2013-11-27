@@ -1,7 +1,7 @@
 ---
 title: How to Create an Article
 description: Your guide to adding content to your Joomla site.
-breadcrumb: /joomla:Joomla/!basic:Basic/
+breadcrumb: /joomla:Joomla/!basic:Basic/!how_to_create_an_article.md:How to Create an Article
 
 ---
 

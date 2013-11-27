@@ -1,7 +1,7 @@
 ---
 title: Creating Responsive Content
 description: Your guide to creating responsive content for your Joomla site.
-breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!creating_responsive_content.md:Creating Responsive Content
 
 ---
 

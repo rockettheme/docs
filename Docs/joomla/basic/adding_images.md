@@ -1,7 +1,7 @@
 ---
 title: Adding Images to Articles and Modules
 description: How to add images to articles and modules using Joomla 2.5 and 3.x.
-breadcrumb: /joomla:Joomla/basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!adding_images.md:How to Add Images to Articles
 
 ---
 

@@ -1,11 +1,9 @@
 ---
-title: Add a Module to an Article
+title: How to Add a Module to an Article
 description: A Quick Tutorial for Adding Modules to Articles in Joomla 2.5 and 3.x
-breadcrumb: /joomla:Joomla/basic:Basic Tutorials/
+breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_add_a_module_to_an_article.md:How to Add a Module to an Article
 
 ---
-
-%%NOTWIG%%
 
 Adding modules to articles is a useful way to get around the limitation of positions in relation to the article body. It is possible to put a module in the midst of an article's mainbody content. Here are two ways to accomplish this.
 

@@ -1,7 +1,7 @@
 ---
 title: How Joomla Templates Work
 description: Your Guide to Installing and Setting Up Joomla Templates
-breadcrumb: /joomla:Joomla/!platform:Platform/
+breadcrumb: /joomla:Joomla/!platform:Platform/!templates.md:How Joomla Templates Work
 
 ---
 
