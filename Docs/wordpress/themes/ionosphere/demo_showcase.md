@@ -37,10 +37,10 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay        |         5 |  
 | Image Resize          |   Disable |  
 | Default Title         |      None |  
-| Default Article Image |      None |  
+| Default post Image |      None |  
 | Default Link          |      None |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

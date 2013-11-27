@@ -32,7 +32,7 @@ The RokAjaxSearch widget allows users to search your site for interesting conten
 The following is entered in the main text field.
 
 ~~~ .html
-<p class="hidden-tablet">A responsive template with colorful iconography.</p>
+<p class="hidden-tablet">A responsive theme with colorful iconography.</p>
 
 <p class="box3 fp-sidebar-img">
     <img src="http://demo.rockettheme.com/wordpress/wp_stratos/wp-content/rockettheme/rt_stratos_wp/frontpage/sidebar/img1.png" alt="image" />

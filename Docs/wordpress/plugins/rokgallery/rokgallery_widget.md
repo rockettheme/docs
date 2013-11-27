@@ -7,11 +7,13 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/rokgallery:RokGallery
 
 Creating a Widget
 -----
+
 ![][widget4]
 
 Creating a RokGallery widget is a fairly straightforward process. You'd create it as you would any other widget by navigating to **Admin -> Appearance -> Widgets** and selecting **RokGallery** from **Available Widgets** and dragging them to the desired widget position on the right side of the page.
 
 ### Widget Configuration
+
 For the purpose of this documentation, we'll split the widget settings into multiple images, each with an explanation of the various options and what they mean. Within the Widget field of WordPress, this appears as a single, continuous block.
 
 ![][widget1]
@@ -48,7 +50,7 @@ For the purpose of this documentation, we'll split the widget settings into mult
 10. **Gallery Style**: This option allows you to choose from a light or dark gallery style, affecting the look of the gallery within the widget.
 
 #### Grid
-The **Grid** layout allows you the option to choose how many columns appear in your grid, and to select a background image (if your template allows). 
+The **Grid** layout allows you the option to choose how many columns appear in your grid, and to select a background image (if your theme allows). 
 
 ![][widget5]
 
@@ -94,6 +96,7 @@ The **Grid** layout allows you the option to choose how many columns appear in y
 13. **Custom Variations**: This field allows you to add custom variations, determined in the theme's primary LESS file.
 
 #### Slideshow Layout
+
 The Slideshow layout allows you to determine if you wish to show arrows on either side of the image as well as set your navigation and animation types. You can also tell it whether or not you wish slideshows to autoplay, and with what delay between images.
 
 ![][widget2]
@@ -124,6 +127,7 @@ The Slideshow layout allows you to determine if you wish to show arrows on eithe
 8. **Widget Style**: (Supported Gantry Themes Only) Sets the widget style for the gallery. You can choose from Flush, Flush Bottom, or Flush Top.
 
 #### Showcase
+
 The Showcase layout works very similarly. You have the option to choose whether or not you wish to have arrows appear as a secondary navigation option, which direction the image will appear in the showcase in relation to the thumbnails, image padding, and animation options. These options remain the same for both fixed and responsive versions of the Showcase layout.
 
 ![][widget6]

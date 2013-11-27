@@ -27,7 +27,7 @@ Here's the widget breakdown for the Extension section:
 You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
-<p>Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the template, allowing configurable areas to move based on scroll position.</p>
+<p>Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the theme, allowing configurable areas to move based on scroll position.</p>
 
 <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/features/">Read More</a>
 ~~~
@@ -44,7 +44,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
-<p>Configure floating widgets to 'bounce' between the template sections. Choose an end position in the widget settings. The QuickNav feature also 'bounces' between all sections.</p>
+<p>Configure floating widgets to 'bounce' between the theme sections. Choose an end position in the widget settings. The QuickNav feature also 'bounces' between all sections.</p>
 
 <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/preset-styles/">Read More</a>
 ~~~

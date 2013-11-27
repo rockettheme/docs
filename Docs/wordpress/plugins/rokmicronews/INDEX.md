@@ -36,7 +36,7 @@ How to install
 --------------
 Installing RokMicroNews takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokMicroNews. The package you will download is a bundle containing all the required plugins to get RokMicroNews up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokMicroNews. The package you will download contains everything you need to get RokMicroNews up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

@@ -22,6 +22,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 ### Text
+
 The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -39,11 +40,12 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
 <p class="smallpaddingbottom">
-    <span class="hidden-tablet"><strong>RokSprocket</strong> is a multi-purpose content widget with <strong>integrated</strong> template styling.</span>
+    <span class="hidden-tablet"><strong>RokSprocket</strong> is a multi-purpose content widget with <strong>integrated</strong> theme styling.</span>
     <span class="visible-tablet">RokSprocket is a multi-purpose plugin with integrated  styling.</span>
     <br class="hidden-tablet" />
     <small>26 Jun, 2013 17:07</small>
@@ -66,6 +68,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~

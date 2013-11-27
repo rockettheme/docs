@@ -27,7 +27,7 @@ Content Providers
 -----
 ![][content]
 
-RokSprocket has the ability to pull content from a number of content providers that work within WordPress. Most site administrators will use WordPress as the content provider for RokSprocket as it pulls articles from your primary WordPress install and arranges them to meet your needs. 
+RokSprocket has the ability to pull content from a number of content providers that work within WordPress. Most site administrators will use WordPress as the content provider for RokSprocket as it pulls posts from your primary WordPress install and arranges them to meet your needs. 
 
 Alternatively, RokSprocket supports the following content providers:
 
@@ -37,7 +37,7 @@ Alternatively, RokSprocket supports the following content providers:
 * PostTypes
 
 ### Using the 'Simple' Content Provider
-With the introduction of RokSprocket 2, you can use another content provider named **Simple** which allows you to manually configure a RokSprocket widget without having to reference any articles hosted on your site. In fact, the **Simple** content provider option gives you complete control over every aspect of your RokSprocket widget's line items.
+With the introduction of RokSprocket 2, you can use another content provider named **Simple** which allows you to manually configure a RokSprocket widget without having to reference any posts hosted on your site. In fact, the **Simple** content provider option gives you complete control over every aspect of your RokSprocket widget's line items.
 
 ![][simple]
 

@@ -36,7 +36,7 @@ The text widget in this section has no title, and only contains one small amount
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
-This area of the front page is a **RokSprocket** widget uzsing the **Mosaic** layout type. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+This area of the front page is a **RokSprocket** widget using the **Mosaic** layout type. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
 
@@ -57,7 +57,7 @@ Here is a look at the **Mosaic Layout Options** for this widget.
 | Ordering        | Default, Title, Date, Random |  
 | Image Resize    |                      Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

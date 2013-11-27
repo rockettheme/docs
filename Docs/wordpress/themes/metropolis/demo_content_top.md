@@ -16,9 +16,9 @@ Here's the widget breakdown for the Content Top section:
 This Text widget is as simple as it gets. All you need to do is set the title to **About Metropolis** and place the following in the main text field.
 
 ~~~
-<p><strong>Metropolis</strong>, the November 2012 template release, is an elegantly designed theme, combining simple color schemes and shades to complement many content setups.</p> 
+<p><strong>Metropolis</strong>, the November 2012 theme release, is an elegantly designed theme, combining simple color schemes and shades to complement many content setups.</p> 
 
-<p>The template's user level functionality is mastered by RokSprocket, which benefits from integrated Metropolis styling. A standard assortment of features are included.</p>
+<p>The theme's user level functionality is mastered by RokSprocket, which benefits from integrated Metropolis styling. A standard assortment of features are included.</p>
 
 <a href="http://www.yoursite.com/features/" class="readon"><span>More</span></a>
 ~~~

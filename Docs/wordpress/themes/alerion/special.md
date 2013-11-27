@@ -1,6 +1,6 @@
 ---
 title: Alerion: Recreating the Demo: Special Features
-description: Your Guide to Recreating Elements of the Alerion Template for WordPress
+description: Your Guide to Recreating Elements of the Alerion theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
@@ -38,11 +38,11 @@ Background Image and Parallax
 
 ![][parallax1]
 
-Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the template, allowing configurable areas to move based on scroll position.
+Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the theme, allowing configurable areas to move based on scroll position.
 
 ![][parallax2]
 
->> IMPORTANT NOTE: For demo purpose we load the background for Showcase, Feature, and Footer section in templates/rt_alerion/less/demo-styles.less as the following. If you wish to use your own image and use the image picker, please remove this part from your demo-styles.less (EDIT: demo-parallax-bg.less in later releases of the template).
+>> IMPORTANT NOTE: For demo purpose we load the background for Showcase, Feature, and Footer section in themes/rt_alerion/less/demo-styles.less as the following. If you wish to use your own image and use the image picker, please remove this part from your demo-styles.less (EDIT: demo-parallax-bg.less in later releases of the theme).
 
 ~~~
 // Parallax Background Images (Please remove the following if you wish to use your own images)

@@ -8,11 +8,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!chapelco:Chapelco
 Introduction
 -----
 
-![][template]
+![][theme]
 
 Chapelco is designed with an intricate mix of subtle style elements to add depth and create a clean and professional appearance.
 
-A standard array of powerful features and functions are brought to Chapelco via the Gantry Framework, a dynamic and powerful template framework. RokSprocket, a complex and diverse content display plugin, has integrated styling with this template.
+A standard array of powerful features and functions are brought to Chapelco via the Gantry Framework, a dynamic and powerful theme framework. RokSprocket, a complex and diverse content display plugin, has integrated styling with this theme.
 
 Requirements
 -----
@@ -26,6 +26,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 8 Preset Styles
 * 76 Widget Positions
@@ -54,7 +55,7 @@ Chapelco comes with the RokSprocket plugin that is built to work with a responsi
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Chapelco
-[template]: assets/chapelco2.jpeg
+[theme]: assets/chapelco2.jpeg
 [responsive]: assets/responsive.jpg
 [sprocket]: assets/roksprocket.jpg
 [dropdown]: assets/dropdown.jpg

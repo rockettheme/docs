@@ -9,9 +9,9 @@ Introduction
 -----
 ![][lumiere]
 
-Lumiere, the bonus template release for September 2013, uses HTML5 to offer video functionality in the header, to create a dynamic and interactive user experience. This design complements the modern approach, with rich, subtle and sophisticated visuals.
+Lumiere, the bonus theme release for September 2013, uses HTML5 to offer video functionality in the header, to create a dynamic and interactive user experience. This design complements the modern approach, with rich, subtle and sophisticated visuals.
 
-Lumiere is built on the Gantry Framework, the core that underpins the templates features. Numerous design features are also included such as RokSprocket integrated styling for its various layout modes.
+Lumiere is built on the Gantry Framework, the core that underpins the themes features. Numerous design features are also included such as RokSprocket integrated styling for its various layout modes.
 
 Requirements
 -----
@@ -39,11 +39,13 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Responsive Layout
+
 ![][responsive]
 
 Lumiere's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
 ### HTML5 Video in the Header
+
 ![][html5]
 
 Lumiere uses HTML5 support for displaying stunning videos and images in the header. The stunning videos for each preset are generously provided by [Downloops.com][downloops].
@@ -55,6 +57,7 @@ At [Downloops.com][downloops], you can download 200 artistic videos for reasonab
 [Michael Schneider][contact], the founder of Downloops and the videos creator, is also available for custom video work if required.
 
 ### Responsive Layout for RokSprocket
+
 ![][sprocket]
 
 Lumiere comes with the RokSprocket plugin that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.

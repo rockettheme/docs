@@ -42,7 +42,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5       |  
 | Image Resize        | Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -79,7 +79,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Preview Length  | 0              |
 | Strip HTML Tags | No             |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -119,7 +119,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5       |  
 | Image Resize        | Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -160,7 +160,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This section of the page is a standard text widget. You'll need to enter the following in the main text field.
 
 ~~~
-<p>RokAjaxSearch style <span class="hidden-tablet">is available with this template.</span></p>
+<p>RokAjaxSearch style <span class="hidden-tablet">is available with this theme.</span></p>
 
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">

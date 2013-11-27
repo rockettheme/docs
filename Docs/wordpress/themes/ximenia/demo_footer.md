@@ -72,7 +72,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 
 <img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon2.png" />
 <em class="bold">
-  <strong>Ximenia Template LLC</strong><br />
+  <strong>Ximenia Theme LLC</strong><br />
 </em>
 <em class="bold nobold">
   123 WordPress! Boulevard<br />

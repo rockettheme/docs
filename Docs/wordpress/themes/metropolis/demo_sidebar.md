@@ -40,7 +40,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            |       5 |  
 | Image Resize        | Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -147,8 +147,8 @@ The third Text widget of the section highlights the RocketLauncher option. The f
     </div>
 </div>
 
-<span class="visible-tablet">A full WordPress installation that installs a editied version of the demo.</span>
-<span class="hidden-tablet">A full WordPress installation that installs a editied version of the demo onto your server.</span>
+<span class="visible-tablet">A full WordPress installation that installs a edited version of the demo.</span>
+<span class="hidden-tablet">A full WordPress installation that installs a edited version of the demo onto your server.</span>
 ~~~
 
 Here is a breakdown of options changes you'll want to make to match the demo.

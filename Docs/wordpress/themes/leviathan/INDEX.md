@@ -8,9 +8,9 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!Leviathan:Leviathan
 Introduction
 -----
 ![][leviathan]
-Leviathan, the August 2013 template release, is a visually enriched design with stunning graphics, contrasts and tones. Its sidebar adds focus and boldness, that complements and contrasts with the mainbody area to great effect.
+Leviathan, the August 2013 theme release, is a visually enriched design with stunning graphics, contrasts and tones. Its sidebar adds focus and boldness, that complements and contrasts with the mainbody area to great effect.
 
-The core of the template is based on the Gantry Framework, which provides a plethora of standardized features and functions. Also included is support for plugins such as RokSprocket.
+The core of the theme is based on the Gantry Framework, which provides a plethora of standardized features and functions. Also included is support for plugins such as RokSprocket.
 
 Requirements
 -----
@@ -38,17 +38,23 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Responsive Layout
+
 ![][responsive]
+
 Leviathan's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
 We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
 ### Advanced Dropdown Menu
+
 ![][dropdown]
+
 For mobile devices, a basic version of the Dropdown Menu will be used. It is activated by a custom menu icon in the top left of the screen. It will either be a tree view or select box menu, as configurable. All other sizes will use the menu's full version.
 
 ### Responsive Layout for RokSprocket
+
 ![][sprocket]
+
 Leviathan comes with the RokSprocket plugin that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
 [gantry]: http://www.gantry-framework.org/

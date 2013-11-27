@@ -7,16 +7,18 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 Bottom Section
 -----
+
 ![][demo]
 
 ### Text
+
 You'll need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
 ~~~
 <div class="gantry-width-block demo-width-100 nomarginbottom">
   <div class="gantry-width-30 gantry-width-block">
       <div class="gantry-width-spacer">
-  		<p class="promo-title title fp-popular-template">Popular Templates</p>
+  		<p class="promo-title title fp-popular-theme">Popular Templates</p>
 	</div>   	 	
   </div>
   <div class="gantry-width-70 gantry-width-block">

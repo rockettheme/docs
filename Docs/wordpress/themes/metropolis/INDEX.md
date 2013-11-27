@@ -8,10 +8,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!metropolis:Metropolis
 Introduction
 -----
 ![][metropolis]
-Metropolis, the June 2013 template release, is an elegantly designed theme combining simple color schemes and shades to complement an array of different content setups. It serves as an excellent style layer above the responsive Gantry core.
+Metropolis, the June 2013 theme release, is an elegantly designed theme combining simple color schemes and shades to complement an array of different content setups. It serves as an excellent style layer above the responsive Gantry core.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -22,6 +23,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 10 Preset Styles
 * 76 Widget Positions
@@ -36,13 +38,17 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### New Dropdown Menu
+
 ![][dropdown]
+
 The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers advanced structural features such as multiple columns, inline icons and text, custom column widths, item distribution and menu offsets. All of these are configurable for each menu item.
 
 For mobile devices, a basic version of the Dropdown Menu will be used. It is activated by a custom menu icon in the top left of the screen. It will either be a tree view or select box menu, as configurable. All other sizes will use the menu's full version.
 
 ### Responsive Layout for RokSprocket
+
 ![][roksprocket]
+
 Metropolis comes with the RokSprocket plugin which is built to work with a responsive layout and support mobile touch events, such as '**swipe**'. This is a modern way to display your site's featured content with minimal required effort on your part to maintain and update.
 
 [gantry]: http://www.gantry-framework.org/

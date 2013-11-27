@@ -19,7 +19,7 @@ You'll need to enter the following in the main text field to create this text wi
     <div class="largepaddingright"> 
       <h3 class="icon-columns rt-floatleft nomarginbottom medmarginright"></h3>
       <h4 class="rt-uppercase"> <span class="hidden-phone">Responsive </span>Framework</h4>
-      <p>A responsive layout adapts to the environment of the viewing device, based on width. Therefore, the template will adjust based on whether the device is a phone or desktop etc...</p>
+      <p>A responsive layout adapts to the environment of the viewing device, based on width. Therefore, the theme will adjust based on whether the device is a phone or desktop etc...</p>
       <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/features/">Read More</a>
     </div>
   </div>

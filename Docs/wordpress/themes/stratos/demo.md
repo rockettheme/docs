@@ -21,7 +21,7 @@ Recommended Plugins
 
 Here is a list of RocketTheme plugins used to create the demo version of Stratos:
 
-* [Gantry Template Framework][gantry]
+* [Gantry theme Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
 * RokCommon Library (Installed with RokSprocket)
@@ -71,7 +71,7 @@ Widget Settings
     13. **Copyright - Custom Menu** [91%, 41%, se]
     14. **Copyright - Gantry To Top** [91%, 86%, se]
 
-Like any Gantry template, Stratos utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry theme, Stratos utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
 

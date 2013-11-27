@@ -7,13 +7,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!voxel:Voxel
 
 Introduction
 -----
+
 ![][voxel]
+
 Voxel, the December 2012 theme release, is a magazine orientated design. Its elegant and engaging style provides a rich back-drop to your site content. The new RokSprocket Mosaic layout provides a powerful mechanism to easily show content, in a dynamic fashion.
 
 The theme has support for various RocketTheme Plugins, as well as a beautifully styled menu, amongst other features, such as the Gantry Framework.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -24,6 +27,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 960px and 1200px Fixed Layouts
 * 12 Preset Styles
@@ -39,11 +43,15 @@ Key Features
 * W3C XHTML 1.0 / CSS Valid
 
 ### RokSprocket Mosaic Layout
+
 ![][roksprocket]
-Mosaic, a new template layout for RokSprocket, that presents content in a dynamic and interactive grid structure; perfect for magazine sites. The grids auto-align, so it doesn't matter if you have different sizes for images or text.
+
+Mosaic, a new theme layout for RokSprocket, that presents content in a dynamic and interactive grid structure; perfect for magazine sites. The grids auto-align, so it doesn't matter if you have different sizes for images or text.
 
 ### Intuitive User Interface
+
 ![][roksprocket2]
+
 RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The plugin itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
 [gantry]: http://www.gantry-framework.org/

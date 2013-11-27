@@ -92,7 +92,7 @@ The final text widget in this section is titled **Core Gantry Framework** and ha
   <img class="rt-image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/content-top-4.jpg" width="99" height="92" alt="image" />
 </div>
 
-<p class="smallmargintop"><strong>Gantry provides all major features and functions in the template</strong>, inclusive of the rich, user friendly administrator, the 960 Grid System, iPhone / Android support and more.</p>
+<p class="smallmargintop"><strong>Gantry provides all major features and functions in the theme</strong>, inclusive of the rich, user friendly administrator, the 960 Grid System, iPhone / Android support and more.</p>
 
 <p class="rt-center nomarginbottom"><a class="readon" href="#"><span>See More</span></a></p>
 ~~~

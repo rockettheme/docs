@@ -7,15 +7,18 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!gantrybuddypress:GantryBuddyPr
 
 Introduction
 -----
+
 Gantry BuddyPress plugin adds the support for the BuddyPress 1.6 (or newer) to all Gantry powered themes. The only thing that user needs to do is to download and activate the plugin. Depending on the theme, some styling fixes might need to be applied.
 
 Key Features
 ------------
+
 * Allows you to turn almost any Gantry-powered theme into a BuddyPress theme.
 * Works out of the box. Just activate the plugin and you're good to go.
 
 Requirements
 ------------
+
 Gantry BuddyPress has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure you have the latest version.
@@ -26,9 +29,10 @@ Gantry BuddyPress has the following requirements in order to operate:
 
 How to install
 --------------
+
 Installing Gantry BuddyPress takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of Gantry BuddyPress. The package you will download is a bundle containing all the required plugins to get Gantry BuddyPress up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of Gantry BuddyPress. The package you will download contains everything you need to get Gantry BuddyPress up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

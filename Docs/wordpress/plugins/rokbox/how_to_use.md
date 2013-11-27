@@ -3,8 +3,9 @@ title: How to use
 
 ---
 
-How to use
-==========
+How to Use
+-----
+
 The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Exactly as any `<a>` link, a RokBox2 link can be placed just about anywhere in a page.
 
 The most basic and simple example of a RokBox2 snippet to get it up and running is:
@@ -19,6 +20,7 @@ As can be noticed, it is a regular `<a>` link. The only extraneous bit is that d
 
 Data-sets
 ---------
+
 Data-sets are introduced with HTML5 and allow to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for referencing settings.
 
 Moving away from class names in favor of data-sets allows not only to keep the HTML cleaner but also to avoid possible conflicts with the class names.
@@ -60,6 +62,7 @@ If you don't know how to convert to HTML entities, you can find [many][convert_1
 
 
 #### data-rokbox-album
+
 Assigning the same album value to different RokBox2 links will trigger the navigation on the popup. You can see the album as a way of grouping certain media into the same context. You can navigate forward or backward either by clicking on the arrows or through the left and right arrows keys (`⇠` / `⇢`).
 
 Imagine having 3 pictures of a product that you want the user to  navigate through. This is how you would achieve it:
@@ -74,6 +77,7 @@ As can be noticed, all three links share the same album name. The album name is 
 
 
 #### data-rokbox-element
+
 RokBox2 allows you to open in a popup elements that have been already rendered on the document ([DOM][dom_specs]). The elements must be referenced through the CSS-Style syntax.  
 For instance, if you wanted to open in RokBox2 an element with the id `#my-element` structured in such way:
 
@@ -94,7 +98,7 @@ The equivalent RokBox2 syntax for loading that element will be:
 ~~~
 
 RokBox2 will find the element `#my-element` in the [DOM][dom_specs], clone it and open the popup with the cloned element in it.  
-It is important to note that an element deep in the DOM might have specific styles coming from the template that could potentially get lost once the cloned element gets inserted in the popup at a different level. However, you can style the element in the rokbox popup by targeting it. For example:
+It is important to note that an element deep in the DOM might have specific styles coming from the theme that could potentially get lost once the cloned element gets inserted in the popup at a different level. However, you can style the element in the rokbox popup by targeting it. For example:
 
 ~~~ .css
 .rokbox-wrapper #my-element {
@@ -116,6 +120,7 @@ And this is the syntax used to achieve it:
 
 
 #### data-rokbox-generate-thumbnail
+
 RokBox2 comes with a built-in thumbnail generator, for local images, that can be configured from the **Content Plugin** `Extensions -> Plugin Manager -> Content - RokBox -> Core Options`.
 
 ![][rokbox2-thumbs-settings]

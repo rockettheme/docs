@@ -7,13 +7,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!fracture:Fracture
 
 Introduction
 -----
+
 ![][fracture]
-Fracture, the April 2013 theme release, is a RocketTheme template built upon the Gantry4 Framework which features a responsive layout core, a rejuvenated administrative interface, and optimized coding. The theme focuses on a clean and minimal design with a unique overlay system for stunning results.
+
+Fracture, the April 2013 theme release, is a RocketTheme theme built upon the Gantry4 Framework which features a responsive layout core, a rejuvenated administrative interface, and optimized coding. The theme focuses on a clean and minimal design with a unique overlay system for stunning results.
 
 The theme also uses LESS, a dynamic stylesheet language, that extends CSS with dynamic behavior. RokSprocket further benefits from custom styling, adding rich focus to a conservative design backdrop.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -24,6 +27,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 8 Preset Styles
 * RokSprocket Responsive Layout Integrated
@@ -38,17 +42,23 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Responsive Layout
+
 ![][responsive]
+
 Fracture's **responsive** grid system is designed for **desktop**, **tablet** and **smartphone** systems, each with minor modifications to ensure compatibility in each mode.
 
 We use the responsive layout based on [Twitter's Bootstrap Framework][bootstrap], with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
 ### Powered by Gantry 4 Framework
+
 ![][gantry4]
-Fracture is the first RocketTheme template built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
+
+Fracture is the first RocketTheme theme built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing themes easier, more flexible, and overall, more enjoyable.
 
 ### Responsive Layout for RokSprocket
+
 ![][sprocket]
+
 Fracture comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
 [gantry]: http://www.gantry-framework.org/

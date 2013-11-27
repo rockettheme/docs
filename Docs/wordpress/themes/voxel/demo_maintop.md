@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/xmenia:Ximenia
 
 Main Top Section
 -----
+
 Here's the widget breakdown for the Main Top section:
 
 * RokSprocket
@@ -19,7 +20,9 @@ Here's the widget breakdown for the Main Top section:
 The Main Top section in the Ximenia demo adds a visual display of various theme features that puts images are the forefront of the front page's visual appeal.
 
 #### RokSprocket
+
 ![][demo1]
+
 You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
@@ -41,7 +44,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Strip HTML Tags |             No |  
 | Default Link    |           None |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -62,7 +65,7 @@ The first Text widget is a simple text widget with HTML script written into the 
   <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/maintop-a.jpg" width="336" height="212" alt="image" />
 </div>
 
-<p><em class="bold nobold."><strong>Ximenia</strong>, the February 2013 template release, is an elegant, <strong>subtle</strong> and conservative <strong>design</strong>, with <strong>soft</strong> tones and shapes.</em></p>
+<p><em class="bold nobold."><strong>Ximenia</strong>, the February 2013 theme release, is an elegant, <strong>subtle</strong> and conservative <strong>design</strong>, with <strong>soft</strong> tones and shapes.</em></p>
 
 <p><em class="bold nobold">The theme is perfect for any site that prefers a more <strong>moderate</strong> appearance. An assortment of plugins, such as <strong>RokSprocket</strong> have integrated styling.</em></p>
 
@@ -81,11 +84,13 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Gantry Social Buttons
+
 ![][demo2]
 
 The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
 
 #### Text
+
 ![][demo3]
 
 The second Text widget in the section is made a lot like the first. You'll need to enter the following in the main text field.
@@ -126,6 +131,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### RokAjaxSearch
+
 ![][demo4]
 
 The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.

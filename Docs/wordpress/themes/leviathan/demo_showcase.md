@@ -50,7 +50,7 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
   <div class="gantry-width-75 gantry-width-block rt-condensed-text largemargintop">
     <div class="largemarginleft">
       <h4 class="normalfont nomargintop nomarginbottom">Integrated Plugins</h4>
-      <small>Template specific styling for several plugins such as RokSprocket and RokAjaxSearch.</small>
+      <small>theme specific styling for several plugins such as RokSprocket and RokAjaxSearch.</small>
     </div>
   </div>  
 
@@ -101,7 +101,7 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay   |         5 |  
 | Image Resize     |   Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

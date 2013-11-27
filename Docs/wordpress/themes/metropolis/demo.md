@@ -18,7 +18,7 @@ Recommended Plugins
 =====
 Here is a list of RocketTheme plugins used to create the demo version of Metropolis:
 
-* [Gantry Template Framework][gantry]
+* [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
 * RokCommon Library (Installed with RokSprocket)
@@ -37,7 +37,7 @@ The first thing you'll need to do in order to set your front page apart as it ap
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
 #### Assignments
-The next step you'll need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you'll want to select both **Home Page** and **Front Page**.
+The next step you'll need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **theme Page Types** list, you'll want to select both **Home Page** and **Front Page**.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
@@ -47,7 +47,7 @@ You can find more information about the entire override breakdown for both the f
 
 Widget Settings
 -----
-Like any Gantry template, Metropolis utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry theme, Metropolis utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you'll find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
 

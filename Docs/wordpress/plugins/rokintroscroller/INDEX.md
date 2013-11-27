@@ -9,14 +9,14 @@ Introduction
 -----
 ![][featured]
 
-RokIntroScroller is a widget which crawls through a selected category and displays the images added to posts in an easy-to-navigate slider. It allows you to display images, content, and article titles in a way that is aesthetically pleasing to the eye and intuitive for your users.
+RokIntroScroller is a widget which crawls through a selected category and displays the images added to posts in an easy-to-navigate slider. It allows you to display images, content, and post titles in a way that is aesthetically pleasing to the eye and intuitive for your users.
 
 >> Note: This plugin was designed to work with specific themes, and may not work with all current products.
 
 Key Features
 ------------
 * Uses images included to display content in an aesthetically pleasant and intuitive way.
-* Gives you the option to choose which components of the associated articles to display.
+* Gives you the option to choose which components of the associated posts to display.
 * Assists in visitor discovery and navigation to new content.
 
 Requirements
@@ -32,7 +32,7 @@ How to install
 --------------
 Installing RokIntroScroller takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokIntroScroller. The package you will download is a bundle containing all the required plugins to get RokIntroScroller up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokIntroScroller. The package you will download contains everything you need to get RokIntroScroller up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

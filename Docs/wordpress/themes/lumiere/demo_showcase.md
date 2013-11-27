@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 Showcase Section
 -----
+
 ![][demo]
 
 Here's the widget breakdown for the Showcase section:
@@ -14,6 +15,7 @@ Here's the widget breakdown for the Showcase section:
 * RokSprocket
 
 ### RokSprocket
+
 The main feature showcase located near the top of the demo is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
@@ -39,14 +41,14 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay   |         5 |  
 | Image Resize     |   Disable |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
-#### Filtered Article List
+#### Filtered post List
 ![][demo2]
 
-Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different articles presented in our demo. This step doesn't activate the embedded video feature (this is handled in the Template Manager), but it will enable you to have text display over the video as it does in our demo.
+Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different posts presented in our demo. This step doesn't activate the embedded video feature (this is handled in the theme Manager), but it will enable you to have text display over the video as it does in our demo.
 
-**Template Features**
+**theme Features**
 
 ~~~
 <p class='promo1 rt-center nomarginbottom'>Dynamic Backgrounds</p>
@@ -91,7 +93,7 @@ Below is the HTML code for the sample content, to be placed in the **description
   </div>
 </div>
 <p class='rt-center'>      
-  <a href='index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=117' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
+  <a href='index.php?option=com_content&amp;view=post&amp;id=10&amp;Itemid=117' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
 </p>
 ~~~
 
@@ -120,7 +122,7 @@ Below is the HTML code for the sample content, to be placed in the **description
       </div>            
       <div class='gantry-width-75 gantry-width-block'>                
         <p class='promo3 nomarginbottom'>Headlines<span class='hidden-tablet'> Layout</span>.</p>              
-        <p class='rt-fadeout'>A snippet layout type, ideal for previewing content items, such as for newsflash articles.</p>                
+        <p class='rt-fadeout'>A snippet layout type, ideal for previewing content items, such as for newsflash posts.</p>                
       </div>          
     </div>    
   </div>  
@@ -137,7 +139,7 @@ Below is the HTML code for the sample content, to be placed in the **description
   </div>
 </div>
 <p class='rt-center'>  
-  <a href='index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=113' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
+  <a href='index.php?option=com_content&amp;view=post&amp;id=6&amp;Itemid=113' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
 </p>
 ~~~
 
@@ -183,7 +185,7 @@ Below is the HTML code for the sample content, to be placed in the **description
   </div>
 </div>
 <p class='rt-center'>  
-  <a href='index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=112' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
+  <a href='index.php?option=com_content&amp;view=post&amp;id=5&amp;Itemid=112' class='big-button readon'>Take a Tour Now <span class='icon-play'></span></a>
 </p>
 ~~~
 

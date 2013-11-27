@@ -34,6 +34,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -52,6 +53,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -69,7 +71,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
     <span class="icon-home medmarginbottom largepaddingbottom"></span>
 </div>
 <div class="gantry-width-90 gantry-width-block">
-    <a href="#"><em class="bold nobold">Metropolis Template LLC</em></a><br />
+    <a href="#"><em class="bold nobold">Metropolis theme LLC</em></a><br />
     <em class="bold nobold">
       123 WordPress Boulevard<br />
       Seattle, WA 00000, USA 

@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!!rokajaxsearch:RokAjaxSearch
 
 Introduction
 -----
+
 RokAjaxSearch is a truly powerful widget that brings fantastic search functionality to WordPress, using the powerful and versatile JavaScript library, Mootools, and full Google Search integration.
 
 ![][featured]
@@ -15,6 +16,7 @@ RokAjaxSearch adds real-time search to your site that is both powerful and custo
 
 Requirements
 -----
+
 RokAjaxSearch has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure that you are using the latest version.
@@ -24,6 +26,7 @@ RokAjaxSearch has the following requirements in order to operate:
 
 Key Features
 -----
+
 * Real Time Search: AJAX loads search results in real time.
 * Multiple Sources: Search your local WordPress site or the web at large.
 * Search Options: Even more search options with Blog, Video and Images.
@@ -31,9 +34,10 @@ Key Features
 
 How to Install
 --------------
+
 Installing RokAjaxSearch takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download is a bundle containing all the required plugins to get RokAjaxSearch up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download contains everything you need to get RokAjaxSearch up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

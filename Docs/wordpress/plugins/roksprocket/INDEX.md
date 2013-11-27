@@ -24,9 +24,9 @@ Key Features
 * 6 supported content providers: WordPress, CFS, CPT, Types, PostTypes, and Simple
 * Advanced cumulative filters: specific and dynamic filters
 * Advanced sorting rules: automatic, manual, mixed or random
-* Individual article display and configuration
-* Inline article previews
-* Inline article details and editing
+* Individual post display and configuration
+* Inline post previews
+* Inline post details and editing
 * RokGallery/MediaManager support
 * Dynamic settings / configurations
 * Module shortcodes
@@ -35,7 +35,7 @@ How to install
 --------------
 Installing RokSprocket takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokSprocket. The package you will download is a bundle containing all the required plugins to get RokSprocket up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokSprocket. The package you will download contains everything you need to get RokSprocket up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

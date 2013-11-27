@@ -22,7 +22,7 @@ Here's the widget breakdown for the Footer section:
 The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All images are from <a target="_blank" href="http://www.hdwallpapers.in">www.hdwallpapers.in</a> for use on this template demo only.</p>
+<p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All images are from <a target="_blank" href="http://www.hdwallpapers.in">www.hdwallpapers.in</a> for use on this theme demo only.</p>
 
 <h4 class="smallmarginbottom">VOXEL</h4>
 <span>t:  1 (888) 123-4567</span><br />
@@ -37,6 +37,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
+
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -56,6 +57,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
+
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -73,6 +75,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
+
 The fourth Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -100,7 +103,9 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### RokGallery
+
 ![][demo1]
+
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
 Here's a breakdown of the widget options: 

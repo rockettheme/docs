@@ -18,7 +18,7 @@ Once you've selected a Preset, these options can be further adjusted to match th
 
 | Override | Option                 | Setting                                    |  
 | :------- | :--------------------- | :----------------------------------------- |  
-| Default  | Logo                   | Oculus Template                            |  
+| Default  | Logo                   | Oculus                                     |  
 | Default  | Responsive Menu        | Panel                                      |  
 | Default  | Featured Image Size    | Width: 500, Height: 240, Position: None    |  
 | Default  | Font Settings          | Font Family: Oculus, Font Size: Default    |  

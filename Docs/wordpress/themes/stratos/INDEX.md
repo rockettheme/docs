@@ -10,9 +10,9 @@ Introduction
 
 ![][stratos]
 
-Stratos is a visually interactive design, with CSS transformations to allow template elements to pop in a three-dimensional manner. The appearance is enriched through brilliant icons and colored backgrounds.
+Stratos is a visually interactive design, with CSS transformations to allow theme elements to pop in a three-dimensional manner. The appearance is enriched through brilliant icons and colored backgrounds.
 
-The template is founded on the Gantry Framework, which provides features such as an advanced, intuitive interface. Interactive content is powered by RokSprocket. Several other features are included as standard.
+The theme is founded on the Gantry Framework, which provides features such as an advanced, intuitive interface. Interactive content is powered by RokSprocket. Several other features are included as standard.
 
 Requirements
 -----

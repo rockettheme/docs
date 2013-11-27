@@ -16,11 +16,11 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [9%, 47%, ne]
     3. **Status** Sets the publishing status for the module. [17%, 47%, ne]
     4. **Access** Sets the access level for the module. [10%, 70%, ne]
-    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [48%, 46%, nw]
+    5. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [48%, 46%, nw]
     6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [42%, 80%, nw]
     7. **Content Filter Rules** Sets the content filter rules for the module. [51%, 78%, sw]
 
-1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the module should appear in.
+1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the module should appear in.
 
 2. The **Show Title** option gives you the ability to determine whether or not the title of the module will appear with the module on the frontend.
 
@@ -28,46 +28,46 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 4. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors don't see it.
 
-5. The **Filtered Article List** gives you access to item-specific settings including:
-    * **Title** - Allows you to override the article title in the module. The article title will be used if this is left at *Default*.
-    * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introtext from the article is used. 
-    * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the feature. 
+5. The **Filtered post List** gives you access to item-specific settings including:
+    * **Title** - Allows you to override the post title in the module. The post title will be used if this is left at *Default*.
+    * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introtext from the post is used. 
+    * **Image** - This allows you to circumvent the assigned image from the post and replace it with one specifically for the feature. 
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
 6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
-7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
 
 ![][strips_2]
 
-:   1. **Display Limit** The amount of articles to show when rendering. [11%, 08%, ne]
+:   1. **Display Limit** The amount of posts to show when rendering. [11%, 08%, ne]
     2. **Theme** This sets the theme for displaying strips in the module. [14%, 08%, ne]
-    3. **Article Titles** This toggle enables you to show or hide article titles. [19%, 08%, ne]
-    4. **Article Text** This toggle allows you to show or hide article text in a strips. [24%, 08%, ne]
-    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [28%, 08%, ne]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of an article. [33%, 08%, ne]
+    3. **Article Titles** This toggle enables you to show or hide post titles. [19%, 08%, ne]
+    4. **Article Text** This toggle allows you to show or hide post text in a strips. [24%, 08%, ne]
+    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's post display. [28%, 08%, ne]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of an post. [33%, 08%, ne]
     7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [37%, 08%, ne]
     8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [41%, 08%, ne]
     9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [46%, 08%, ne]
     10. **Autoplay** Sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor. [50%, 08%, ne]
-    11. **Autoplay Delay** Sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [55%, 08%, ne]
-    12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [60%, 08%, ne]
-    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the article's given titles are used. [72%, 08%, ne]
-    14. **Default Article Text** This field allows you to set default article text for all strips in the module. If this is not changed from its default, then the article's introductory text is used. [77%, 08%, ne]
+    11. **Autoplay Delay** Sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single post will be featured in the module. [55%, 08%, ne]
+    12. **Image Resize** This option is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields. [60%, 08%, ne]
+    13. **Default Title** You can set a default title for all posts from this field. If this selection is set at `Default post Title`, then the post's given titles are used. [72%, 08%, ne]
+    14. **Default Article Text** This field allows you to set default post text for all strips in the module. If this is not changed from its default, then the post's introductory text is used. [77%, 08%, ne]
     15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 08%, ne]
     16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [85%, 08%, ne]
 
-1. The **Theme** option sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your template and/or personal taste.
+1. The **Theme** option sets the theme for displaying strips in the module. These themes determine how the strips look within the module. You can choose the one that best fits your theme and/or personal taste.
 
-2. The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
+2. The **Display Limit** field sets the amount of posts shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
 
-3. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurrences of controls overlaying the description and make your strips more uniform.
+3. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's post display. This can help reduce occurrences of controls overlaying the description and make your strips more uniform.
 
-4.  The **Strip HTML Tags** option removes HTML tags from the description of an article.
+4.  The **Strip HTML Tags** option removes HTML tags from the description of an post.
 
-5.  The **Previews per Page** option gives you control over how many article previews show on each page.
+5.  The **Previews per Page** option gives you control over how many post previews show on each page.
 
-6. **Items Per Row** sets the amount of article items to show in each row.
+6. **Items Per Row** sets the amount of post items to show in each row.
 
 7.  The **Arrow Navigation** option determines whether you wish to show or hide the arrow navigation controls on the module.
 
@@ -77,17 +77,17 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 10.  **Autoplay** sets whether you want the module to start rolling through strips automatically when the page loads, or to await a command from the visitor.
 
-11.  **Autoplay Delay** sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single article will be featured in the module.
+11.  **Autoplay Delay** sets the amount of time between cycled strips in the module. The longer this delay (in seconds), the longer a single post will be featured in the module.
 
-12.  The **Image Resize** option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. This option is disabled by default, but can be used to fit a variety of templates which would benefit from this uniformity. In a responsive template, images will continue to expand or shrink based on the grid and browser window size.
+12.  The **Image Resize** option is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields. This option is disabled by default, but can be used to fit a variety of themes which would benefit from this uniformity. In a responsive theme, images will continue to expand or shrink based on the grid and browser window size.
 
-13.  You can set a default title for all articles from the **Default Title** field. If this selection is set at **Default Article Title**, then the article's given titles are used. 
+13.  You can set a default title for all posts from the **Default Title** field. If this selection is set at **Default post Title**, then the post's given titles are used. 
 
-14. The **Default Article Text** field allows you to set default article text for all strips in the module. If this is not changed from its default, then the article's introductory text is used. You can choose full text or to pull from the meta description for each article in this field.
+14. The **Default Article Text** field allows you to set default post text for all strips in the module. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all..
 
-15. The **Default Article Image** option gives you the ability to set a standard default image for articles. This includes: a custom image, article intro image, and article full image. Alternatively, you can leave this set to default and it will grab the global default article image.
+15. The **Default Article Image** option gives you the ability to set a standard default image for posts. This includes: a custom image, post intro image, and post full image. Alternatively, you can leave this set to default and it will grab the global default post image.
 
-16. The **Default Article Link** gives you the ability to set a default link field from articles in this module. For example, if you wish to link to the link provided in the article's **Link A** or **Link B** settings, you can do so here.
+16. The **Default Article Link** gives you the ability to set a default link field from posts in this module. For example, if you wish to link to the link provided in the post's **Link A** or **Link B** settings, you can do so here.
 
 [features]: assets/features.png
 [headlines]: assets/headlines.png

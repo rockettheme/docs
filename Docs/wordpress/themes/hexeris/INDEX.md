@@ -10,7 +10,7 @@ Introduction
 
 ![][Hexeris]
 
-Hexeris is a beautifully versatile template with rich style elements to invigorate your site content. The template supports integrated styling for the new RokSprocket layout: Strips; as well as other layout modes.
+Hexeris is a beautifully versatile theme with rich style elements to invigorate your site content. The theme supports integrated styling for the new RokSprocket layout: Strips; as well as other layout modes.
 
 A standard assortment of features are also available, predominantly powered by the Gantry Framework, such as intuitive layout controls; as well as others, such as the advanced Dropdown Menu and RocketTheme plugin styling.
 

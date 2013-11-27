@@ -7,13 +7,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
 
 Introduction
 -----
-![][ximenia]
-Ximenia, the February 2013 template release, is an elegant, subtle and conservative design, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance.
 
-An assortment of core RocketTheme Extensions, such as RokSprocket and its multiple layout modes, have template-based styling to apply integrated visuals for the additional functionality offered.
+![][ximenia]
+
+Ximenia, the February 2013 theme release, is an elegant, subtle and conservative design, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance.
+
+An assortment of core RocketTheme Extensions, such as RokSprocket and its multiple layout modes, have theme-based styling to apply integrated visuals for the additional functionality offered.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -24,6 +27,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 8 Preset Styles
 * 82 Widget Positions
@@ -38,7 +42,9 @@ Key Features
 * W3C XHTML 1.0 / CSS Valid
 
 ### Integrated Styling for RokSprocket
+
 ![][roksprocket1]
+
 The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ximenia-specific styling, as seen on the Ximenia Demo site. RokSprocket is a powerful content widget with an intuitive administrator interface.
 
 [gantry]: http://www.gantry-framework.org/

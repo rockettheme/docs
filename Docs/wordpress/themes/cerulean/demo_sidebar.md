@@ -91,7 +91,7 @@ The next Text widget in the section is made a lot like the others. You'll need t
 <span class="rt-image rt-floatleft">
 <img src="http://demo.rockettheme.com/wordpress/wp_cerulean/wp-content/rockettheme/rt_cerulean_wp/frontpage/sidebar-b/img1.jpg" alt="image">
 </span>
-<small class="hidden-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress/wp_cerulean/plugins/">RokGallery</a> powered slideshow in the template <strong>header</strong><span class="visible-large">, with its standard configuration options</span>.</small>
+<small class="hidden-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress/wp_cerulean/plugins/">RokGallery</a> powered slideshow in the theme <strong>header</strong><span class="visible-large">, with its standard configuration options</span>.</small>
 <small class="visible-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress/wp_cerulean/plugins/">RokGallery</a> slideshow header.</small>
 </div>
 ~~~
@@ -123,7 +123,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Image Resize      | Disable |  
 | Default Link      |    None |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

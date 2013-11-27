@@ -14,11 +14,11 @@ The Text widget in the section is pretty simple and straightforward. You'll need
 
 ~~~
 <ul class="menu">
-<li class="item-189"><span class="separator">Template Features</span>
+<li class="item-189"><span class="separator">theme Features</span>
 </li><li class="item-190"><span class="separator">Integrated Extensions</span>
 </li><li class="item-191"><span class="separator">Preset Styles</span>
 </li><li class="item-192"><span class="separator">Powerful Menu</span>
-</li><li class="item-193"><span class="separator">Template Tutorials</span>
+</li><li class="item-193"><span class="separator">theme Tutorials</span>
 </li></ul>
 ~~~
 

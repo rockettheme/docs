@@ -20,7 +20,7 @@ Once you've selected a Preset, these options can be further adjusted to match th
 
 | Override |                 Option |                                    Setting |  
 | :------- | ---------------------: | -----------------------------------------: |  
-| Default  |                   Logo |                           Hexeris Template |  
+| Default  |                   Logo |                           Hexeris theme |  
 | Default  |        Responsive Menu |                                      Panel |  
 | Default  |    Featured Image Size |    Width: 380, Height: 220, Position: Left |  
 | Default  |          Font Settings |   Font Family: Hexeris, Font Size: Default |  

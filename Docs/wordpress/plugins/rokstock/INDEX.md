@@ -7,14 +7,16 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
 Introduction
 -----
+
 ![][rokstock]
 
 RokStock, is an Ajax-powered stocks widget for your site. It has been finely tuned to give stocks character such as a coloured line graph, coloured indexes, draggable indexes, tooltips and much more.
 
-Your users can easily add, remove, and reorder the stock symbols in their portfolio, this is stored locally for them in a cookie. The widget fits seamlessly into the template and is perfect for any news site.
+Your users can easily add, remove, and reorder the stock symbols in their portfolio, this is stored locally for them in a cookie. The widget fits seamlessly into the theme and is perfect for any news site.
 
 Requirements
 ------------
+
 RokStock has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure you have the latest version.
@@ -26,6 +28,7 @@ RokStock has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * **Multiple Stocks**: Display multiple stocks and compare them with the graphs and data.
 * **Interactivity**: The RokStock widget is dynamic. The users can make changes such as adding, removing, and reordering stocks displayed.
 * **Cookies**: RokStock stores the user's status in a cookie so the tickers will retain user settings after the page is refreshed.
@@ -37,7 +40,7 @@ How to install
 --------------
 Installing RokStock takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokStock. The package you will download is a bundle containing all the required plugins to get RokStock up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokStock. The package you will download contains everything you need to get RokStock up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

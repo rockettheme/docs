@@ -6,7 +6,8 @@ breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokbox:RokBox
 ---
 
 Introduction
-============
+-----
+
 RokBox2 is a fully responsive modal plugin for WordPress and the successor of the very popular but quite dated RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress widgets and takes advantage of the new technologies such as HTML5 and CSS3.
 
 ![][featured]
@@ -29,6 +30,7 @@ The **System Plugin** is responsible for loading the assets necessary for RokBox
 
 Requirements
 ------------
+
 RokBox2 has the following requirements in order to operate:
 
 * WordPress 3.2 or above - ensure you are using the latest version
@@ -39,6 +41,7 @@ RokBox2 has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * HTML5 and CSS3
 * Fully Responsive
 * Auto thumbnails generator
@@ -63,9 +66,10 @@ Key Features
 
 How to install
 --------------
+
 Installing RokBox2 takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokBox2. The package you will download is a bundle containing all the required plugins to get RokBox2 up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you'll need to do is [download][download] the latest version of RokBox2. The package you will download contains everything you need to get RokBox2 up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you've downloaded the package, go into the WordPress Administrator and:
 

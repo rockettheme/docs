@@ -18,7 +18,7 @@ breadcrumb: /!WordPress:WordPress/
 	  Helpful tips and tricks to get you started with the right hosting provider.
 
 	- [WordPress Themes](start/themes.md)
-	  Find out exactly what a WordPress template entails and what its relationship is with other WordPress plugins.
+	  Find out exactly what a WordPress theme entails and what its relationship is with other WordPress plugins.
 
 	- [WordPress Plugins](start/plugins.md)
 	  Discover how RocketTheme WordPress plugins help you to create a powerful site.
@@ -27,8 +27,9 @@ breadcrumb: /!WordPress:WordPress/
 
 * Basic Tutorials
 
-	- [Getting Started](basic/)
-	- [FAQ](basic/faq.md)
+	- [How to Create a New Post](start/post.md)
+	- [How to Manage Menus](start/menus.md)
+	- [How to Manage Media](start/media.md)
 
 <!-- -->
 

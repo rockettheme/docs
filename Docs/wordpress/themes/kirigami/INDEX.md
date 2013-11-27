@@ -7,13 +7,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!kirigami:Kirigami
 
 Introduction
 -----
+
 ![][kirigami]
-Kirigami, the March 2013 theme release, is the first responsive RocketTheme template built with the Gantry 4 Framework. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms.
+
+Kirigami, the March 2013 theme release, is the first responsive RocketTheme theme built with the Gantry 4 Framework. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms.
 
 The next generation layout and structure compliments the beautiful and intricate design of the theme, in conjunction with its many features, such as Fusion with MegaMenu, and others based on the Gantry Framework.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -24,6 +27,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 10 Preset Styles
 * 78 Widget Positions
@@ -36,7 +40,9 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Responsive Layout
+
 ![][responsive]
+
 Kirigami's **responsive** grid system is designed for **desktop**, **tablet** and **smartphone** systems, each with minor modifications to ensure compatibility in each mode.
 
 We use the responsive layout based on [Twitter's Bootstrap Framework][bootstrap], with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
@@ -52,7 +58,9 @@ The table below shows the breakdown of screen resolutions and associated devices
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
 
 ### Responsive Layout for RokSprocket
+
 ![][sprocket]
+
 Kirigami comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
 [gantry]: http://www.gantry-framework.org/

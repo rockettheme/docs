@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/fresco:Fresco
 
 Content Top Section
 -----
+
 Here's the widget breakdown for the Content Top section:
 
 * Text
@@ -14,11 +15,13 @@ Here's the widget breakdown for the Content Top section:
 * RokSprocket
 
 #### Text
+
 ![][demo4]
+
 The Text widget in this section is titled **Unique Variations Sophisticated Design** and has the following in the main text field.
 
 ~~~
-<p><strong>Fresco</strong>, the January 2013 WordPress Template Club release, is a visually <strong>rich</strong> template, bringing life to your content through <strong>stunning</strong> and intricate graphics, each customised for specific <strong>themes</strong>.</p>
+<p><strong>Fresco</strong>, the January 2013 WordPress Theme Club release, is a visually <strong>rich</strong> theme, bringing life to your content through <strong>stunning</strong> and intricate graphics, each customised for specific <strong>themes</strong>.</p>
 
 <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_fresco/preset-styles/"><span>See More</span></a>
 ~~~
@@ -28,10 +31,13 @@ The Text widget in this section is titled **Unique Variations Sophisticated Desi
 * Leaving everything else at its default setting, select **Save**.
 
 #### Gantry Divider
+
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
+
 ![][demo5]
+
 You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
@@ -53,7 +59,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Strip HTML Tags |             No |  
 | Default Link    |           None |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

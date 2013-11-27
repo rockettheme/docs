@@ -18,7 +18,7 @@ Once you've selected a Preset, these options can be further adjusted to match th
 
 | Override | Option                 | Setting                                    |  
 | :------- | :--------------------- | :----------------------------------------- |  
-| Default  | Logo                   | Stratos Template                           |  
+| Default  | Logo                   | Stratos                                    |  
 | Default  | Responsive Menu        | Panel                                      |  
 | Default  | Featured Image Size    | Width: 245, Height: 240, Position: Left    |  
 | Default  | Font Settings          | Font Family: Stratos, Font Size: Default   |  

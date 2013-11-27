@@ -7,13 +7,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!graffito:Graffito
 
 Introduction
 -----
-![][graffito]
-Graffito, the May 2013 template release, is a corporate themed design, perfect for a plethora of sites due to its combination of visual character with subtlety. Built on the Gantry4 Framework, it features a responsive layout and LESS CSS support, a dynamic stylesheet language.
 
-Integrated styling is available for RokSprocket in all its layout modes, providing a rich stylistic platform to construct a dynamic and engaging site. Standard Gantry and template features also apply, such as Fusion with MegaMenu.
+![][graffito]
+
+Graffito, the May 2013 theme release, is a corporate themed design, perfect for a plethora of sites due to its combination of visual character with subtlety. Built on the Gantry4 Framework, it features a responsive layout and LESS CSS support, a dynamic stylesheet language.
+
+Integrated styling is available for RokSprocket in all its layout modes, providing a rich stylistic platform to construct a dynamic and engaging site. Standard Gantry and theme features also apply, such as Fusion with MegaMenu.
 
 Requirements
 -----
+
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
@@ -24,6 +27,7 @@ Requirements
 
 Key Features
 -----
+
 * Responsive Layout
 * 8 Preset Styles
 * 76 Widget Positions
@@ -38,17 +42,23 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Responsive Layout
+
 ![][responsive]
+
 Graffito's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
 We use the responsive layout based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
 ### Powered by Gantry 4 Framework
+
 ![][gantry4]
-Graffito is the first RocketTheme template built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing templates easier, more flexible, and overall, more enjoyable.
+
+Graffito is the first RocketTheme theme built on the Gantry4 Framework with a new, faster administration UI. One of the other exciting new features is the ability to use LESS CSS to make developing themes easier, more flexible, and overall, more enjoyable.
 
 ### Responsive Layout for RokSprocket
+
 ![][sprocket]
+
 Graffito comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
 [gantry]: http://www.gantry-framework.org/

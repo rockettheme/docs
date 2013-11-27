@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
 
 Footer Section
 -----
+
 ![][demo8]
 
 Here's the widget breakdown for the Footer section:
@@ -18,15 +19,16 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 ### Text
+
 The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
-<p class="medmarginbottom"><a href="http://www.rockettheme.com/wordpress-themes/fracture" target="_blank"><em class="bold">Fracture</em></a> is a RocketTheme template built upon a Gantry4 Framework, which features a responsive layout core, a rejuvenated administrative interface and optimized coding.</p>
+<p class="medmarginbottom"><a href="http://www.rockettheme.com/wordpress-themes/fracture" target="_blank"><em class="bold">Fracture</em></a> is a RocketTheme theme built upon a Gantry4 Framework, which features a responsive layout core, a rejuvenated administrative interface and optimized coding.</p>
 
 <p class="promo3 rt-demo-visible-wide">Inside Fracture.</p>
 
 <ul class="checkmark smallmargintop">
-  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_fracture/features/"><em class="bold">Template Features</em></a></li>
+  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_fracture/features/"><em class="bold">theme Features</em></a></li>
   <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_fracture/features/widget-positions/"><em class="bold">Widget Positions</em></a></li>
   <li class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_fracture/features/widget-variations/"><em class="bold">Widget Variations</em></a></li>
 </ul>
@@ -40,6 +42,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~
@@ -58,6 +61,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
 
 ~~~

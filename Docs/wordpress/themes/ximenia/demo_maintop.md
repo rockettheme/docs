@@ -41,7 +41,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Strip HTML Tags |             No |  
 | Default Link    |           None |  
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -62,7 +62,7 @@ The first Text widget is a simple text widget with HTML script written into the 
   <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/maintop-a.jpg" width="336" height="212" alt="image" />
 </div>
 
-<p><em class="bold nobold."><strong>Ximenia</strong>, the February 2013 template release, is an elegant, <strong>subtle</strong> and conservative <strong>design</strong>, with <strong>soft</strong> tones and shapes.</em></p>
+<p><em class="bold nobold."><strong>Ximenia</strong>, the February 2013 theme release, is an elegant, <strong>subtle</strong> and conservative <strong>design</strong>, with <strong>soft</strong> tones and shapes.</em></p>
 
 <p><em class="bold nobold">The theme is perfect for any site that prefers a more <strong>moderate</strong> appearance. An assortment of plugins, such as <strong>RokSprocket</strong> have integrated styling.</em></p>
 

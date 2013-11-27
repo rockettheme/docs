@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/metropolis:Metropolis
 
 Main Bottom Section
 -----
+
 ![][demo31]
 
 Here's the widget breakdown for the Main Bottom section:
@@ -22,6 +23,7 @@ Here's the widget breakdown for the Main Bottom section:
 The Main Bottom Section contains four Text widgets separated by three Gantry Divider widgets. As you move your mouse over the widget, a title and "Read More" button appears. We'll go over what you need to do to make this happen below.
 
 ### Text
+
 The first Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
 
 ~~~
@@ -29,7 +31,7 @@ The first Text widget in the section is made a lot like the others in the sectio
     <img alt="image" src="http://www.yoursite.com/wp-content/rockettheme/rt_metropolis_wp/frontpage/mainbottom/img1.jpg" />
     <div class="rt-image-description">
         <span class="icon-eye-open rt-big-icon"></span>
-        <h4>Template Configuration</h4>
+        <h4>Theme Configuration</h4>
         <p>Guides Available</p>
         <a href="http://www.yoursite.com/tutorials/" class="readon"><span>Read More</span></a>
     </div>
@@ -64,6 +66,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The third Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
 
 ~~~
@@ -85,6 +88,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
+
 The fourth Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
 
 ~~~
