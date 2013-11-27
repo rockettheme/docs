@@ -1,7 +1,7 @@
 ---
 title: How to Install a RocketTheme phpBB Style
 description: This document will guide you through the process of installing a new phpBB3 style.
-breadcrumb: /phpbb:phpBB/!start:Getting Started/
+breadcrumb: /phpbb:phpBB/!start:Getting Started/!styles.md:How to Install a RocketTheme phpBB Style
 
 ---
 

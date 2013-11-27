@@ -1,7 +1,7 @@
 ---
 title: How to Install phpBB3
 description: This document will guide you through the process of installing a fresh copy of phpBB3.
-breadcrumb: /phpbb:phpBB/!start:Getting Started/
+breadcrumb: /phpbb:phpBB/!start:Getting Started/!install.md:How to Install phpBB3
 tags: [RocketLauncher, Base, Platform, Tutorial]
 
 ---

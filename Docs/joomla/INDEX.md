@@ -32,9 +32,9 @@ more:
 	- [How Joomla Works](platform/understanding.md)
 	- [How to install Joomla 2.5](platform/install_joomla_25.md)
 	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
-	- [Joomla Extensions](platform/extensions.md)
-	- [Joomla Templates](platform/templates.md)
-	- [Joomla Administration Menu](platform/administrator.md)
+	- [How Joomla Extensions Work](platform/extensions.md)
+	- [How Joomla Templates Work](platform/templates.md)
+	- [How Joomla Administration Menu Work](platform/administrator.md)
 
 <!-- -->
 
@@ -94,20 +94,20 @@ more:
 
 * Basic Tutorials
 
-	- [Creating a New Article](basic/how_to_create_an_article.md)
-	- [Installing a Template](platform/templates.md#installing-a-template-using-rocketlauncher)
-	- [Creating a Menu](basic/menu_manager.md#how-to-create-a-menu)
-	- [Using Menu Manager](basic/menu_manager.md#managing-your-menus)
-	- [Creating a Menu Module](basic/menu_manager.md#creating-menu-modules)
+	- [How to Create a New Article](basic/how_to_create_an_article.md)
+	- [How to Install a Template](platform/templates.md#installing-a-template-using-rocketlauncher)
+	- [How to Create a Menu](basic/menu_manager.md#how-to-create-a-menu)
+	- [How to Use Menu Manager](basic/menu_manager.md#managing-your-menus)
+	- [How to Create a Menu Module](basic/menu_manager.md#creating-menu-modules)
 	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
-	- [Adding Images](basic/adding_images.md)	
-	- [Adding Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
-	- [Change the Default Logo](basic/how_to_edit_the_logo.md)
-	- [Editing Template Text](basic/how_to_edit_template_text.md)
-	- [Set Up a RokBox Member Login](basic/how_to_set_up_a_rokbox_member_login.md)
+	- [How to Add Images](basic/adding_images.md)	
+	- [How to Add Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
+	- [How to Change the Default Logo](basic/how_to_edit_the_logo.md)
+	- [How to Edit Template Text](basic/how_to_edit_template_text.md)
+	- [How to Set Up a RokBox Member Login](basic/how_to_set_up_a_rokbox_member_login.md)
 	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)
 	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
-	- [Creating Responsive Content](basic/creating_responsive_content.md)
+	- [How to Create Responsive Content](basic/creating_responsive_content.md)
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
 
 <!-- -->

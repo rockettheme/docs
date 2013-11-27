@@ -1,7 +1,7 @@
 ---
 title: Introduction to phpBB3
 description: This document serves as a basic introduction to the phpBB3 platform.
-breadcrumb: /phpbb:phpBB/!start:Getting Started/
+breadcrumb: /phpbb:phpBB/!start:Getting Started/!introduction.md:Introduction to phpBB3
 tags: [Introduction, Features, Platform]
 
 ---

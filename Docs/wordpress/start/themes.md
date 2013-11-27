@@ -1,5 +1,5 @@
 ---
-title: Installing a WordPress Theme
+title: How to Install a WordPress Theme
 description: Your Guide to Installing a WordPress Theme from RocketTheme
 breadcrumb: /wordpress:WordPress/start:Start/!themes:Theme Installation
 
