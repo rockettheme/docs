@@ -1,7 +1,7 @@
 ---
-title: WordPress: Installing WordPress 3.x
+title: WordPress: How to Install WordPress 3.x
 description: How to do a Fresh Install of WordPress
-breadcrumb: /wordpress:WordPress/!start:Start/
+breadcrumb: /wordpress:WordPress/!start:Start/!install_wordpress_3x.md:How to Install WordPress 3.x
 
 ---
 
