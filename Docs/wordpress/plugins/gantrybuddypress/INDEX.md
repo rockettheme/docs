@@ -1,7 +1,7 @@
 ---
 title: Gantry BuddyPress
 description: Your Guide to Using Gantry BuddyPress for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!gantrybuddypress:GantryBuddyPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!gantrybuddypress:GantryBuddyPress
 
 ---
 

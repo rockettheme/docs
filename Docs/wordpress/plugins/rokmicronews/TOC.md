@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!Rokmicronews:RokMicroNews
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!Rokmicronews:RokMicroNews
 
 ---
 

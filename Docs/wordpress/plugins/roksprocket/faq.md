@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Frequently Asked Questions
-description: Frequently Asked Questions about RokSprocket for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!roksprocket:RokSprocket
+description: Frequently Asked Questions about RokSprocket for WordPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 

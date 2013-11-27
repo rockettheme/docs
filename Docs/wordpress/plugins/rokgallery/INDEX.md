@@ -1,7 +1,7 @@
 ---
 title: RokGallery
 description: Your Guide to Using RokGallery for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokgallery:RokGallery
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokgallery:RokGallery
 
 ---
 

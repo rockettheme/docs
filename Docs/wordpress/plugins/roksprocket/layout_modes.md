@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Layout Modes
-description: Your Guide to RokSprocket Layout Modes for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/roksprocket:RokSprocket
+description: Your Guide to RokSprocket Layout Modes for WordPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 ---
 

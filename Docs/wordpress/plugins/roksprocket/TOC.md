@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 

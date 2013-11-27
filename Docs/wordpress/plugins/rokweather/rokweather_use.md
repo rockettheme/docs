@@ -1,7 +1,7 @@
 ---
 title: RokWeather: Widget Configuration
 description: Your Guide to Using the RokWeather Widget for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/rokweather:RokWeather
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokweather:RokWeather
 
 ---
 

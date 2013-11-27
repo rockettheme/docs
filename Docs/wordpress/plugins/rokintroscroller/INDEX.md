@@ -1,7 +1,7 @@
 ---
 title: RokIntroScroller
 description: Your Guide to Using RokIntroScroller for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokintroscroller:RokIntroScroller
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokintroscroller:RokIntroScroller
 
 ---
 

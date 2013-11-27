@@ -1,7 +1,7 @@
 ---
 title: RokGallery: Page Guide
 description: Your Guide to Setting Up and Using RokGallery Pages for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/rokgallery:RokGallery
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokgallery:RokGallery
 
 ---
 

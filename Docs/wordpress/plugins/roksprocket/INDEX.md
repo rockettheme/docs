@@ -1,7 +1,7 @@
 ---
 title: RokSprocket
 description: Your Guide to Using RokSprocket for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Strips Layout Mode
-description: Your Guide to the Strips RokSprocket Layout Mode for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/roksprocket:RokSprocket
+description: Your Guide to the Strips RokSprocket Layout Mode for WordPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 ---
 
@@ -34,7 +34,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
     * **Image** - This allows you to circumvent the assigned image from the post and replace it with one specifically for the feature. 
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
 
-6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most WordPress instances, this will default to WordPress.
 
 7. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
 

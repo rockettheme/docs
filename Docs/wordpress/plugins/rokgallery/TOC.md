@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/plugins:Plugins/!rokgallery:RokGallery
+breadcrumb: /joomla:Joomla/!plugins:Plugins/!rokgallery:RokGallery
 
 ---
 

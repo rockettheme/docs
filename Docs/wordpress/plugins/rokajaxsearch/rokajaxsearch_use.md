@@ -1,7 +1,7 @@
 ---
 title: RokAjaxSearch
 description: Your Guide to Using RokAjaxSearch for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!!rokajaxsearch:RokAjaxSearch
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!!rokajaxsearch:RokAjaxSearch
 
 ---
 

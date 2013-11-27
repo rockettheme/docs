@@ -1,7 +1,7 @@
 ---
 title: RokStock
 description: Your Guide to Using RokStock for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokstock:RokStock
 
 ---
 

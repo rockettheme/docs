@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Headlines Layout Mode
-description: Your Guide to the Headlines RokSprocket Layout Mode for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!roksprocket:RokSprocket
+description: Your Guide to the Headlines RokSprocket Layout Mode for WordPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 
@@ -26,7 +26,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
     * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
     * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the post is used. 
 
-3. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the widget. This is often the first setting you want to pay attention to when creating a new RokSprocket widget. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+3. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the widget. This is often the first setting you want to pay attention to when creating a new RokSprocket widget. The Content Provider can vary, but in most WordPress instances, this will default to WordPress.
 
 4. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the headlines. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the widget.
 

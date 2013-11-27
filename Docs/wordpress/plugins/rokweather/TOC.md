@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/rokweather:RokWeather
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokweather:RokWeather
 
 ---
 

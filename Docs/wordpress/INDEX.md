@@ -56,7 +56,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
 	- [RokBox](plugins/rokbox/)
 	- [RokNewsFlash](plugins/rokupdater/)
-	- [RokTabs](plugins/roktabs)
 	- [RokCommon](plugins/rokcommon)
 
 <!-- -->

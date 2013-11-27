@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!gantrybuddypress:GantryBuddyPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!gantrybuddypress:GantryBuddyPress
 
 ---
 

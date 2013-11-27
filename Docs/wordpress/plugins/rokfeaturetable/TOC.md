@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokfeaturetable:RokFeatureTable
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: RokWeather
 description: Your Guide to Using RokWeather for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokweather:RokWeather
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokweather:RokWeather
 
 ---
 

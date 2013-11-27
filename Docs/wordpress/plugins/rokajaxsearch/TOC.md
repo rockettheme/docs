@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokajaxsearch:RokAjaxSearch
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokajaxsearch:RokAjaxSearch
 
 ---
 

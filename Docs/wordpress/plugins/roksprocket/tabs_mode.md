@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Tabs Layout Mode
-description: Your Guide to the Tabs RokSprocket Layout Mode for Joomla
-breadcrumb: /wordpress:WordPress/plugins:Plugins/roksprocket:RokSprocket
+description: Your Guide to the Tabs RokSprocket Layout Mode for WordPress
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 ---
 
@@ -23,7 +23,7 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
     * **Icon** - This allows you to set an icon (generally a small, squared image) which will be placed next to the post title in the module.
     * **Link** - If set, the link will show a *Read More** button as well as link the title. This is the post introductory text by default.
 
-2. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
+2. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most WordPress instances, this will default to WordPress.
 
 3. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
 

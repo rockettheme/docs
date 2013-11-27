@@ -1,7 +1,7 @@
 ---
 title: RokStock: Setup Guide
 description: Your Guide to Using RokStock for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/rokstock:RokStock
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokstock:RokStock
 
 ---
 

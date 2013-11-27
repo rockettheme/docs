@@ -1,7 +1,7 @@
 ---
 title: RokMicroNews
 description: Your Guide to Using RokMicroNews for WordPress
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!Rokmicronews:RokMicroNews
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!Rokmicronews:RokMicroNews
 
 ---
 
