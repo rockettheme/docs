@@ -165,7 +165,7 @@ So far in this process, we've created a box and told Joomla what type of materia
 
 The **Title** and **Show Title** options (point 1) allow you to give your module a name, and decide whether or not this name should be displayed on the frontend of your site. 
 
-The **Position** field (point 2) sets where on the assigned pages your menu module will appear. It is best to check the layout area in the **Template Manager** of your applicable template styles to make sure a position is active prior to setting it here. Otherwise, your module will not appear on the frontend, or may appear incorrectly.
+The **Position** field (point 2) sets where on the assigned pages your menu module will appear.
 
 The **Status** option (point 3) sets the publishing status for the module. If unpublished or trashed, it will not appear on the frontend of your site.
 

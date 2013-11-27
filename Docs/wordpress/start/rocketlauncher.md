@@ -7,10 +7,12 @@ breadcrumb: /wordpress:WordPress/start:Start/!rocketlauncher:RocketLauncher
 
 Introduction
 -----
+
 RocketLauncher allows you to essentially download and install WordPress, the Gantry framework, and a copy of the demo site for any RocketTheme theme you prefer. This is the easiest way to hit the ground running with WordPress and a RocketTheme theme as it will give you a pre-configured site with all the required support files you need to build on.
 
 Requirements
 -----
+
 RocketLauncher comes complete with its own copy of WordPress and required plugins. You will need to provide the database and hosting support this installation will run on. Here is a list of our recommended requirements for any updated RocketLauncher package.
 
 * Apache 2.x or Microsoft IIS 7
@@ -40,11 +42,15 @@ After creating your database and uploading RocketLauncher to your site's root di
 Simply select **Create a Configuration File** to initiate installation of RocketLauncher. 
 
 ### Verify the Required Information
+
 ![][rocketlauncher2]
+
 The next page is in place to make sure you have the required information you need to complete the installation process. Once you have this information at hand, select **Let's go!** to continue.
 
 ### Establish a Database Connection
+
 ![][rocketlauncher3]
+
 WordPress uses a MySQL database to host all of the information and settings used in your WordPress site. By establishing a link to the database, RocketLauncher can build your site and accept any new data or changes you make later on.
 
 If you come across a page that says "Can't select database", you'll need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
@@ -54,6 +60,7 @@ If you come across a page that says "Can't select database", you'll need to chec
 If a successful connection to the database has been made, a confirmation page will appear. Simply select **Run the Install** to continue to the next phase of installation.
 
 ### Select a Title, Username, Password, and Administrative Email Address
+
 ![][rocketlauncher5]
 
 :   1. **Title** This is the title you want for your site. It will appear in any search results related to the site. [43%, 29%, se]

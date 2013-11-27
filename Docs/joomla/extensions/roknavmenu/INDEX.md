@@ -13,7 +13,7 @@ Introduction
 
 RokNavMenu is a powerful menu module which provides functions above and beyond the capabilities of the core Joomla menu. It provides a feature rich platform for extending the menu, allowing for overrides and plugins for the menu itself, in addition to versatile theming capabilities and so much more.
 
-The latest revisions feature built-in themes such as fusion, a complex dropdown menu system with optional javascript modes and URL extension capabilities.
+The latest revisions feature built-in themes such as Dropdown and Splitmenu.
 
 Requirements
 ------------
@@ -25,8 +25,6 @@ RokNavMenu has the following requirements in order to operate:
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
->> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you'll need to have CURL enabled on your server. You can ask your hosting provider to activate this.
-
 Key Features
 ------------
 
@@ -35,7 +33,6 @@ Key Features
 * **Administrator Overrides**: Add custom parameters / options for individual menu items
 * **Plugin Support**: Control all aspects of a menu item such as RokBox integration
 * **Foundation**: RokNavMenu is at the core of all the powerful RocketTheme menus
-* **Dynamic Child Direction**: At the browser windows edge, Fusion will force the pullouts in the opposing direction
 
 How to install
 --------------

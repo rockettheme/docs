@@ -79,3 +79,4 @@ Once installation is complete, a message highlighted in green should indicate it
 [dq]: http://www.disqus.com
 [lf]: http://www.livefyre.com
 [jk]: http://js-kit.com/comments/
+[install]: ../../platform/extensions.md

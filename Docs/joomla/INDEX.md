@@ -39,12 +39,14 @@ more:
 <!-- -->
 
 * Club Templates
-
+	
+	- [Spectral](templates/spectral)
 	- [Acacia](templates/acacia)
 	- [Corvus](templates/corvus)
 	- [Praxis](templates/praxis)
 	- [Stratos](templates/stratos)
 	- [Oculus](templates/oculus)
+	- [Hexeris](templates/hexeris)
 	- [Alerion](templates/alerion)
 	- [Chapelco](templates/chapelco)
 	- [Lumiere](templates/lumiere)
@@ -92,8 +94,6 @@ more:
 
 * Basic Tutorials
 
-	- [Getting Started](basic/)
-	- [FAQ](basic/faq.md)
 	- [Creating a New Article](basic/how_to_create_an_article.md)
 	- [Installing a Template](platform/templates.md#installing-a-template-using-rocketlauncher)
 	- [Creating a Menu](basic/menu_manager.md#how-to-create-a-menu)
