@@ -44,12 +44,12 @@ RokGallery's Component Administrator is broken into two main areas.
 
 3. **Filters** have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row.
 
-One the image panes themselves, you can upublish the individual image, go into the [Image Editor][image_editing], delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
+On the image panes themselves, you can unpublish the individual image, go into the [Image Editor][image_editing], delete the image from RokGallery, and see how many views, likes, and tags each image has. You can also check out the original image's basic details such as the file name and size by either entering the image editor or selecting the information option that appears while hovering over the image with the cursor.
 
 #### Tags
 ![][rokgallery_tags]
 
-The Tag popup gives you the ability to set tags (and assign a galleries) to an image. Because galleries are tag-based, you could add the tags for multiple galleries in order to have an image (or images) appear in multiple tag galleries.
+The Tag popup gives you the ability to set tags (and assign a gallery) to an image. Because galleries are tag-based, you could add the tags for multiple galleries in order to have an image (or images) appear in multiple tag galleries.
 
 RokGallery uses a digital-negative approach to image management. This allows you to keep the original image intact while assigning a gallery tag (or tags) creates new copies of the image with the appropriate gallery-specific settings (width, height, cropping, etc.) so they work seamlessly with the specified gallery.
 
@@ -84,7 +84,7 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
     2. **Name** Enter or change the name for the current or new gallery. [22%, 15%, se]
     3. **Tags** Enter tag(s) for the gallery, separated by commas, which should be present on associated images. [31%, 15%, se]
     4. **Images** Set the image preferences for images appearing within the tag gallery. [40%, 15%, ne]
-    5. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery. [55%, 15%, ne]
+    5. **Thumbnails Size** Sets the image preferences for thumbnails associated with images presented in as part of the gallery. [55%, 15%, ne]
 
 
 1. **Galleries**: Select an existing gallery, or create a new one.
@@ -95,11 +95,11 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 4. **Images** Set the image preferences for images appearing within the tag gallery.
 
-5. **Thumbnails Size** Set the image preferences for thumbnails associated with images presented in as part of the gallery.
+5. **Thumbnails Size** Sets the image preferences for thumbnails associated with images presented in as part of the gallery.
 
 The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery widget can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
 
-For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag would appear in any widget with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
+For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any widget with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
 
 Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
 
@@ -138,3 +138,4 @@ Uploading images to RokGallery using the built-in file uploader is the best way 
 [widget2]: assets/wp_rokgallery_widget_2.jpeg
 [widget3]: assets/wp_rokgallery_widget_3.jpeg
 [widget4]: assets/wp-rokgallery_widget_4.jpeg
+[image_editing]: rokgallery_images.md

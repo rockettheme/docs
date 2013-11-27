@@ -7,7 +7,7 @@ breadcrumb: /hosting:Hosting Help/
 Hosting
 -----
 
-Joomla, like any web-based technology, needs to be hosted somewhere in order for you to use it. You can host Joomla on several different platforms ranging from your personal computer to a series of redundant data centers placed strategically around the world. Most small sites opt to have Joomla hosted via a shared or managed hosting plan set up with a commercial provider. These providers set data centers up, complete with server hardware, software, and a user-friendly Web-based interface that enables you to manage your server from anywhere in the world. Often, this comes at a very low price, with the option to upgrade to dedicated server hardware and redundant global reach at a premium.
+Joomla, like any web-based technology, needs to be hosted somewhere in order for you to use it. You can host Joomla on several different platforms ranging from your personal computer to a series of redundant data centers placed strategically around the world. Most small sites opt to have Joomla hosted via a shared or managed hosting plan set up with a commercial provider. These providers set up data centers, complete with server hardware, software and a user-friendly Web-based interface that enables you to manage your server from anywhere in the world. Often, this comes at a very low price, and with the option to upgrade to dedicated server hardware and redundant Internet access, at a higher cost.
 
 If you're just wanting to get started with Joomla and build your site before jumping to a publicly-accessible hosting solution, then the answer can be as simple as setting one up on your personal computer. All you need to do this is compatible hosting software and a little time to set up. 
 

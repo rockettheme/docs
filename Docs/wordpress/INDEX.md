@@ -55,8 +55,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [Gantry BuddyPress](plugins/gantrybuddypress/)
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
 	- [RokBox](plugins/rokbox/)
-	- [RokNewsFlash](plugins/rokupdater/)
-	- [RokCommon](plugins/rokcommon)
 
 <!-- -->
 

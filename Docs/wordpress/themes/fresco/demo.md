@@ -21,7 +21,7 @@ Recommended Plugins
 
 Here is a list of RocketTheme plugins used to create the demo version of Fresco:
 
-* [Gantry theme Framework][gantry]
+* [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
 * RokCommon Library (Installed with RokSprocket)
