@@ -38,7 +38,7 @@ Who Uses Joomla?
 --------------
 Joomla is useful for a wide range of different site types and styles. In addition to being the largest Web software platform for government organizations around the world, it is utilized heavily for education, media, corporate, e-commerce, and even personal websites and blogs. It is extremely versatile. 
 
-One of its primary strengths is its usability. Whether you're a student just getting started in Web design or a retiree wanting to learn how to make a website, Joomla can be an excellent choice for you. You really don't need to know anything about programming or Web development to set up and customize a site, though you can tap into its open codebase to create something entirely original and unique. Want to make a custom module for your site that no other site on the Web has? You can do this with Joomla.
+One of its primary strengths is its usability. Whether you are a student just getting started in Web design or a retiree wanting to learn how to make a website, Joomla can be an excellent choice for you. You really do not need to know anything about programming or Web development to set up and customize a site, though you can tap into its open codebase to create something entirely original and unique. Want to make a custom module for your site that no other site on the Web has? You can do this with Joomla.
 
 #### High Profile Sites Using Joomla
 * [LA Weekly](http://www.laweekly.com/)

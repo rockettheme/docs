@@ -63,7 +63,7 @@ You will be asked to create a user name and password before being able to downlo
 
 If you wish to download a complete copy of our demo, including any widgets and/or pre-created products, you can do so by downloading a RocketLauncher from your desired theme's Download page.
 
-Magento does offer a paid version of its primary e-commerce software targeted towards larger online retailers for a fee. We do not presently support the paid version of Magento. At this time, we highly recommend Magento Community Edition, especially if you're getting started for the first time and would like to take advantage of RocketTheme's themes and extensions.
+Magento does offer a paid version of its primary e-commerce software targeted towards larger online retailers for a fee. We do not presently support the paid version of Magento. At this time, we highly recommend Magento Community Edition, especially if you are getting started for the first time and would like to take advantage of RocketTheme's themes and extensions.
 
 >> Note: At the time this tutorial was written, Magento Community Edition 1.7.0.2 was the most recent stable release. An Alpha is also available for 1.8.0.0, which may include some minor changes from the tutorial found in this guide.
 
@@ -83,7 +83,7 @@ You can upload the full release package of Magento directly to your server and u
 
 You can upload this via FTP, Web-based file manager, or whichever method your hosting provider prefers. 
 
-Simply unpack it where you would like to have your Magento site appear in your server's file system (typically the www root if it will be your primary site on the domain), and you're ready to access the installer.
+Simply unpack it where you would like to have your Magento site appear in your server's file system (typically the www root if it will be your primary site on the domain), and you are ready to access the installer.
 
 >> Note: it is very important that certain files and/or directories have proper permissions set in order for Magento to operate properly. See the [File Permissions][permissions] area of this guide below for more information.
 
@@ -153,16 +153,16 @@ Once you've set all the options as you would like them, click **Continue**.
 
 :	1. **First Name** Your first name. [32%, 31%, se]
 	2. **Last Name** Your last name. [32%, 57%, se]
-	3. **Email** The email address you'd like to receive messages at regarding your site. [38%, 31%, se]
+	3. **Email** The email address you would like to receive messages at regarding your site. [38%, 31%, se]
 	4. **Username** Your administrative username. This will be the name you use to access the site. [52%, 31%, se]
 	5. **Password** Your administrative password. It is highly recommended that you select a strong, complex password. [58%, 31%, se]
-	6. **Encryption Key** This key is used to encrypt passwords, credit cards, and more. If you don't enter one in this field, Magento will create one for you and issue it in the next page. You should write this down and keep it handy. [68%, 31%, se]
+	6. **Encryption Key** This key is used to encrypt passwords, credit cards, and more. If you do not enter one in this field, Magento will create one for you and issue it in the next page. You should write this down and keep it handy. [68%, 31%, se]
 
 This page sets your main administrative account used to access the backend of your Magento site. It also allows you to set an encryption key that Magento uses to encrypt sensitive information such as passwords, credit cards, and more.
 
 ![][install6]
 
-If you don't select an encryption key, one will be generated and presented in the next and final page of the installation wizard.
+If you do not select an encryption key, one will be generated and presented in the next and final page of the installation wizard.
 
 File Permissions
 -----

@@ -39,9 +39,9 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
 #### Administrative Slices
 ![][rokgallery_slice_editor]
 
-:   1. **Admin Slice Indicator** A red bookmark in the upper-left area of the Slice Editor indicates that the selected slice is used for administrator purposes only, and can't be deleted. [9%, 4%]
+:   1. **Admin Slice Indicator** A red bookmark in the upper-left area of the Slice Editor indicates that the selected slice is used for administrator purposes only, and can not be deleted. [9%, 4%]
 
-1. **Admin Slice Indicator** A red bookmark in the upper-left area of the Slice Editor indicates that the selected slice is used for administrator purposes only, and can't be modified or deleted.
+1. **Admin Slice Indicator** A red bookmark in the upper-left area of the Slice Editor indicates that the selected slice is used for administrator purposes only, and can not be modified or deleted.
 
 #### Regular Slices
 ![][rokgallery_slice_editor_2]

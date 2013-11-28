@@ -50,7 +50,7 @@ Many companies use forums as part of a greater support system. Because phpBB is 
 Why RocketTheme?
 -----
 
-RocketTheme provides a complete picture for your phpBB boards when paired with your existing Joomla, WordPress, and/or Magento site. Many of our most popular templates and themes integrate with one-another so your users can enjoy the same experience whether they're browsing items in your Magento store, reading your blog on WordPress, checking out your Joomla site, or interacting with your community on phpBB.
+RocketTheme provides a complete picture for your phpBB boards when paired with your existing Joomla, WordPress, and/or Magento site. Many of our most popular templates and themes integrate with one-another so your users can enjoy the same experience whether they are browsing items in your Magento store, reading your blog on WordPress, checking out your Joomla site, or interacting with your community on phpBB.
 
 Through useful extensions such as RokBridge for Joomla, this integration can be virtually seamless and easy for you and your users.
 

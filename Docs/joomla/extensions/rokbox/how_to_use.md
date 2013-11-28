@@ -59,7 +59,7 @@ Here are a couple of examples of a RokBox2 link with caption, both plain caption
 <a data-rokbox data-rokbox-caption="The description of &lt;strong&gt;my picture&lt;/strong&gt;" href="images/my_image.jpg">RokBox 2 HTML Caption</a>
 ~~~
 
-If you don't know how to convert to HTML entities, you can find [many][convert_1], [online][convert_2], [tools][convert_3], to do it for you. You could also use the [Editor Button][editor-button] which does convert automatically your caption into HTML entities.
+If you do not know how to convert to HTML entities, you can find [many][convert_1], [online][convert_2], [tools][convert_3], to do it for you. You could also use the [Editor Button][editor-button] which does convert automatically your caption into HTML entities.
 
 
 #### data-rokbox-album

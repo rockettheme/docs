@@ -49,7 +49,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 
 #### Gantry Login Button
 
-The **Gantry Login Button** widget activates the **Login** pop-up which allows members to log in to their accounts on the frontend of the site. Simply drag this widget to the widget section (there's a separate widget section for the **Gantry Login Form**) and complete the following to replicate the demo.
+The **Gantry Login Button** widget activates the **Login** pop-up which allows members to log in to their accounts on the frontend of the site. Simply drag this widget to the widget section (there is a separate widget section for the **Gantry Login Form**) and complete the following to replicate the demo.
 
 * Enter `Member Login` in the **Login Text** field.
 * Enter `Logout` in the **Logout Text** field.

@@ -31,7 +31,7 @@ There are four big buttons located above and below the itemized list in the main
 
 If you want to disable your site's cache entirely, simply check all of the boxes listed to the left of this itemized menu and select **Disable** in the **Actions** dropdown. You can repeat the same process to enable the cache by selecting **Enable**, instead.
 
-The **Refresh** option flushes the cache for all of these components while the larger **Flush Magento Cache** button may not actually fully flush all aspects of Magento's cache. If you're troubleshooting an issue, we recommend doing the line-item refresh prior to hitting the **Flush Magento Cache** and **Flush Cache Storage** buttons.
+The **Refresh** option flushes the cache for all of these components while the larger **Flush Magento Cache** button may not actually fully flush all aspects of Magento's cache. If you are troubleshooting an issue, we recommend doing the line-item refresh prior to hitting the **Flush Magento Cache** and **Flush Cache Storage** buttons.
 
 #### Flush Magento Cache
 
@@ -92,7 +92,7 @@ Magento uses quite a bit of code to make all of its features work. Under the hoo
 
 This can lead to your website needing to pull in many separate JavaScript files so the page can load. Merging these files can save a good amount of time and weight on page load. This is a good feature to turn on once you are finished customizing your site and theme.
 
-After turning this on, be sure to do testing on different browsers and go through different pages and features on your site. Depending on the scripts you're using, this may or may not cause issues.
+After turning this on, be sure to do testing on different browsers and go through different pages and features on your site. Depending on the scripts you are using, this may or may not cause issues.
 
 You can find this option in the same page as the **Merge CSS** option listed above. Simply navigate to **Admin Panel -> System -> Configuration** and select **Developer** from the sidebar to the left. Once there, click on the **JavaScript Settings** section.
 

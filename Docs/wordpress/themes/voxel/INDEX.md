@@ -46,7 +46,7 @@ Key Features
 
 ![][roksprocket]
 
-Mosaic, a new theme layout for RokSprocket, that presents content in a dynamic and interactive grid structure; perfect for magazine sites. The grids auto-align, so it doesn't matter if you have different sizes for images or text.
+Mosaic, a new theme layout for RokSprocket, that presents content in a dynamic and interactive grid structure; perfect for magazine sites. The grids auto-align, so it does not matter if you have different sizes for images or text.
 
 ### Intuitive User Interface
 

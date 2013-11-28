@@ -20,9 +20,9 @@ We currently offer Club memberships for four web application platforms.
 * Magento
 * phpBB
 
-Club memberships give you complete access to our entire product catalog for the platform you're subscribed to. This includes templates and extensions we've created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 2, 6, and 12 month periods.
+Club memberships give you complete access to our entire product catalog for the platform you are subscribed to. This includes templates and extensions we've created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 2, 6, and 12 month periods.
 
-You also receive **Domains** allowing you to use RocketTheme products on multiple web application installs so you can pay once to create two or more sites. You can continue using your template/theme/style even after your subscription period has expired. You just don't get access to any updates or additional products that are released outside of your subscription period. Additional Domains can be purchased ala carte should you need more than those included with your initial membership.
+You also receive **Domains** allowing you to use RocketTheme products on multiple web application installs so you can pay once to create two or more sites. You can continue using your template/theme/style even after your subscription period has expired. You just do not get access to any updates or additional products that are released outside of your subscription period. Additional Domains can be purchased ala carte should you need more than those included with your initial membership.
 
 #### Developer Club Membership
 
@@ -48,13 +48,13 @@ RocketTheme works hard to ensure that our customers have the maximum value for t
 
 #### Domains
 
-Domains were created in order for us to be able to offer budget-friendly membership prices for customers that really only need to set up one or two sites, but don't have intentions to set up a full-time development company working with numerous clients. The time and expense involved in creating our templates and extensions is considerable, and this is the best way we could justify keeping our prices low by avoiding charging everyone the Developer Club rate.
+Domains were created in order for us to be able to offer budget-friendly membership prices for customers that really only need to set up one or two sites, but do not have intentions to set up a full-time development company working with numerous clients. The time and expense involved in creating our templates and extensions is considerable, and this is the best way we could justify keeping our prices low by avoiding charging everyone the Developer Club rate.
 
 Even if a Club or Developer Club member has extra Domains, they are not allowed to resell, give away, or re-distribute RocketTheme products. Domains apply to the member alone, and while they can be used to create a site for a client (which the client then owns), the entitlement remains with the member.
 
 For example, a member that creates a site for a local business using a RocketTheme template/theme/style can do so as long as they have not extinguished their allowed Domains. Once the site is created, the Entitlement is considered used until such time as the theme is removed from the site. Regular Club account members can have up to their Entitlement limit in active installs live at any given time, even after their membership has expired. 
 
-Developer Club members with unlimited Domains must have an active membership at the time the site is created. They couldn't, for example, build a new site for a client using a RocketTheme Club product after their membership has expired. Any site they set up during their active membership can remain up after its expiration, however.
+Developer Club members with unlimited Domains must have an active membership at the time the site is created. They could not, for example, build a new site for a client using a RocketTheme Club product after their membership has expired. Any site they set up during their active membership can remain up after its expiration, however.
 
 Domains currently exist on the honor system, though RocketTheme reserves the right to change this at any time, requiring new installs on live (non-development) servers to be linked to an active account.
 

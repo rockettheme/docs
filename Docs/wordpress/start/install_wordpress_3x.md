@@ -10,7 +10,7 @@ Introduction
 
 WordPress has a very simple approach to installation. The platform itself is designed to be easy to use, and its installation process is no different. In fact, you will typically see reference to the 5-minute installation on [WordPress.org][org], and other popular WordPress resources.
 
-In this guide, we'll go through the process of installing WordPress. The process is the same whether you're installing a clean copy of WordPress for the first time, or a RocketLauncher pre-configured with plugins, widgets, and content from our demo.
+In this guide, we will go through the process of installing WordPress. The process is the same whether you are installing a clean copy of WordPress for the first time, or a RocketLauncher pre-configured with plugins, widgets, and content from our demo.
 
 Requirements
 -----
@@ -40,7 +40,7 @@ Step 2: Launch the Installer
 
 ![][install1]
 
-After creating your database and uploading WordPress to your site's root directory, you're ready to begin installation. To launch the installer, just go to your site's root URL. For example, if your WordPress blog is located at http://example.com/, use your browser to go to that URL and the first page that appears should look like the image above.
+After creating your database and uploading WordPress to your site's root directory, you are ready to begin installation. To launch the installer, just go to your site's root URL. For example, if your WordPress blog is located at http://example.com/, use your browser to go to that URL and the first page that appears should look like the image above.
 
 Simply select **Create a Configuration File** to initiate installation of WordPress. 
 
@@ -58,7 +58,7 @@ Step 4: Establish a Database Connection
 
 WordPress uses a MySQL database to host all of the information and settings used in your WordPress site. By establishing a link to the database, WordPress can build your site and accept any new data or changes you make later on.
 
-If you come across a page that says "Can't select database", you will need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
+If you come across a page that says "can't select database", you will need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
 
 ![][install4]
 

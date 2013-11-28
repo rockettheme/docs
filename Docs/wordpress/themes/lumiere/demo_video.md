@@ -16,7 +16,7 @@ Here's the widget breakdown for the Video Background section:
 The Video Background widget position(s) were created to allow for the video element to play alongside the main RokSprocket widget found in the **Showcase** section.
 
 #### Gantry Video Background
-Adding and configuring this widget is very simple. Just drag the **Gantry Video Background** widget into the **Video Background** section. You don't need to change any other settings to have this element appear as part of the background of your main Showcase RokSprocket widget.
+Adding and configuring this widget is very simple. Just drag the **Gantry Video Background** widget into the **Video Background** section. You do not need to change any other settings to have this element appear as part of the background of your main Showcase RokSprocket widget.
 
 You might be wondering how you can make adjustments to the video playing in the background. Let's say you would like to select a different video to complement your site's unique look. 
 

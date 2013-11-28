@@ -11,7 +11,7 @@ Introduction
 
 There isn't a whole lot that needs to be done out of the box to set RokNavMenu up on a RocketTheme template. A lot of what RokNavMenu adds to Joomla is done on the backend by taking the standard Joomla menus and adding additional features and details you can customize to meet your specific needs.
 
-In this tutorial, we'll take a look at some of the options available to you through RokNavMenu, as well as some of the most important options you should be aware of when setting up a new site.
+In this tutorial, we will take a look at some of the options available to you through RokNavMenu, as well as some of the most important options you should be aware of when setting up a new site.
 
 Gantry Menu Options
 ------
@@ -111,7 +111,7 @@ Splitmenu is a static menu system that displays 1st level items in the main hori
 RokNavMenu Module Options
 ------
 
-We designed RokNavMenu to work with most templates, even ones that don't include the Gantry framework. While you might not be able to take advantage of the Templates Manager setup for the main menu in these instances, you can still use styled RokNavMenu modules to extend the features and functionality of the core Joomla menu.
+We designed RokNavMenu to work with most templates, even ones that do not include the Gantry framework. While you might not be able to take advantage of the Templates Manager setup for the main menu in these instances, you can still use styled RokNavMenu modules to extend the features and functionality of the core Joomla menu.
 
 To create a new RokNavMenu module, you need but to navigate to **Administrator -> Extensions -> Module Manager -> New** and select **RokNavMenu** as the module type. Here, you can configure the menu module to meet your needs.
 

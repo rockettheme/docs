@@ -1,6 +1,6 @@
 ---
 title: Technical Tips and Useful Information
-description: Whether you're an experienced webmaster or a newcomer to the world of online media, we have an excellent collection of articles to help you build an audience for almost any online endeavor. From social media to ecommerce, we've got you covered.
+description: Whether you are an experienced webmaster or a newcomer to the world of online media, we have an excellent collection of articles to help you build an audience for almost any online endeavor. From social media to ecommerce, we've got you covered.
 landing: true
 breadcrumb: /!technical_tips:Technical Tips/
 

@@ -98,7 +98,7 @@ You can download a zip package from the RokMage Extensions [downloads page][down
 
 Once you've downloaded and unzipped the extension package, you'll notice that the folder structure for the files has been included. This means you can simply copy the files/folders over to the corresponding folder of your Magento site, if developing locally. 
 
-If you're developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
+If you are developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
 
 ![][installation]
 

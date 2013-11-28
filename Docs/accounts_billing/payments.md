@@ -13,7 +13,7 @@ RocketTheme works hard to make sure its approach to billing and payments is as s
 
 #### Are Subscriptions Automatically Renewed?
 
-For starters, we don't have an automatically recurring billing option. This is done to ensure that RocketTheme's customers aren't surprised a year after initial sign-up when their membership renewal date comes around. We send email reminders as the renewal date approaches, though nothing will ever be automatically billed or drafted.
+For starters, we do not have an automatically recurring billing option. This is done to ensure that RocketTheme's customers are not surprised a year after initial sign-up when their membership renewal date comes around. We send email reminders as the renewal date approaches, though nothing will ever be automatically billed or drafted.
 
 #### When Can I Renew My Membership?
 

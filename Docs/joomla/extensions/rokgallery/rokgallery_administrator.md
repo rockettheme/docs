@@ -30,12 +30,12 @@ RokGallery's Component Administrator is broken into two main areas.
 
 1. The four large icons on the left represent image-level options. 
 	* **Publish**: This button publishes images highlighted in the image area below. You can highlight images by clicking and dragging your mouse over them. A blue box will appear as you drag, indicating which images your selection area affects. You can tell an image is published by the presence of a green triangle in the upper-right corner of the image box.
-	* **Unpublish**: This option unpublishes currently-published images selected in the image area below. These images will not appear on the frontend, or any gallery modules they're presently linked to.
+	* **Unpublish**: This option unpublishes currently-published images selected in the image area below. These images will not appear on the frontend, or any gallery modules they are presently linked to.
 	* **Tag**: The Tag button opens a popup that will give you the option to assign tags to a particular image, as well as assign it to a gallery. This gallery can then be used to present the image on the site either as a direct injection into an article or via a RokGallery module.
 	* **Delete**: This option gives you the ability to delete an image from RokGallery. Once deleted, it will no longer be available to appear on your site.
 
 2. The four icons on the right represent gallery-level controls.
-	* **Jobs**: Shows a popup log of all previous and current operations, such as imports. This is a good place to go if you've recently made changes to an image or gallery and don't see them on the frontend. This is typically due to the time required to process changes made to image files on the backend.
+	* **Jobs**: Shows a popup log of all previous and current operations, such as imports. This is a good place to go if you've recently made changes to an image or gallery and do not see them on the frontend. This is typically due to the time required to process changes made to image files on the backend.
 	* **Galleries**: Allows you to create, delete and manage all tag galleries. This popup is also available within a RokGallery module when you have a gallery assigned. Changes made in this popup will impact all instances of the tag gallery.
 	* **Settings**: Gives you access to configuration for general aspects of RokGallery.
 	* **Upload**: This button opens a HTML5/Flash drag and drop image uploader.
@@ -68,7 +68,7 @@ The tag popup allows you to select a gallery for quick tag associations, add/rem
     4. **Update Individual Job** Updates the status of an individual job. [37%, 76%, ne]
     5. **Delete Individual Job** Removes an individual job from the list. [37%, 84%, nw]
 
-The Jobs Manager gives you a real-time look at processes being executed by RokGallery. When you change the size or tag gallery association of a photo, it renders a new file that matches the specifications needed to meet these needs. This takes time, and the Jobs Manager is a great resource to check and see if your changes aren't appearing on your site correctly due to misconfiguration or the time required to process these requests.
+The Jobs Manager gives you a real-time look at processes being executed by RokGallery. When you change the size or tag gallery association of a photo, it renders a new file that matches the specifications needed to meet these needs. This takes time, and the Jobs Manager is a great resource to check and see if your changes are not appearing on your site correctly due to misconfiguration or the time required to process these requests.
 
 1. **Refresh**: Refreshes the status of all current and completed jobs in the list.
 
@@ -111,7 +111,7 @@ The Galleries Manager allows you to create and manage tag galleries which are us
 
 For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any module with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
 
-Using the **New Based On** button in the upper-right area of the Galleries Manager, you can create a new gallery based on the settings assigned to an existing gallery. This is especially useful if you're setting up a site with multiple individual RokGallery Modules, but wish to maintain the image, thumbnail, and other settings.
+Using the **New Based On** button in the upper-right area of the Galleries Manager, you can create a new gallery based on the settings assigned to an existing gallery. This is especially useful if you are setting up a site with multiple individual RokGallery Modules, but wish to maintain the image, thumbnail, and other settings.
 
 Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
 
@@ -126,7 +126,7 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 :   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [68%, 17%, se]
     2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [68%, 75%, sw]
 
-1. The **Browse** button opens a file browser enabling you to select one or more image files to upload to RokGallery. This is useful if you'd prefer not to click and drag files manually into this popup, or if your browser doesn't support that functionality.
+1. The **Browse** button opens a file browser enabling you to select one or more image files to upload to RokGallery. This is useful if you would prefer not to click and drag files manually into this popup, or if your browser does not support that functionality.
 
 2. The **Upload** button initiates the upload process for selected files. You'll see the upload status update during upload.
 

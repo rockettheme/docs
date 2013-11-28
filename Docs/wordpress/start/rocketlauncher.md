@@ -30,13 +30,13 @@ The first step you'll want to take whenever installing a WordPress RocketLaunche
 Once you've downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
 
 ### Create a Database
-RocketLauncher for WordPress runs best on a MySQL database. You can create a database by going through your Web host. Some hosts have different processes for adding a database to your account than others, so you're best off checking with its specific processes to ensure that your MySQL database is up and ready to go.
+RocketLauncher for WordPress runs best on a MySQL database. You can create a database by going through your Web host. Some hosts have different processes for adding a database to your account than others, so you are best off checking with its specific processes to ensure that your MySQL database is up and ready to go.
 
 It is important that you write down the administrative username, password, and the database's address in relation to your site. In most cases, this will be `localhost`, though it may be a specific IP address if the database is hosted separately from your site.
 
 ### Launch the Installer
 ![][rocketlauncher1]
-After creating your database and uploading RocketLauncher to your site's root directory, you're ready to begin installation. To launch the installer, just go to your site's root URL. For example, if your WordPress blog is located at http://example.com/, use your browser to go to that URL and the first page that appears should look like the image above.
+After creating your database and uploading RocketLauncher to your site's root directory, you are ready to begin installation. To launch the installer, just go to your site's root URL. For example, if your WordPress blog is located at http://example.com/, use your browser to go to that URL and the first page that appears should look like the image above.
 
 Simply select **Create a Configuration File** to initiate installation of RocketLauncher. 
 
@@ -52,7 +52,7 @@ The next page is in place to make sure you have the required information you nee
 
 WordPress uses a MySQL database to host all of the information and settings used in your WordPress site. By establishing a link to the database, RocketLauncher can build your site and accept any new data or changes you make later on.
 
-If you come across a page that says "Can't select database", you'll need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
+If you come across a page that says "can't select database", you'll need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
 
 ![][rocketlauncher4]
 

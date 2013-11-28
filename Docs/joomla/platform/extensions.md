@@ -16,7 +16,7 @@ Joomla comes with a set of core extensions that make it easy to get up and runni
 
 ### Components
 
-Components are large, often complex extensions that act as the main functional parts of a Joomla site. They're essentially miniature applications which run in conjunction with virtually every other part of the site. Components make up the main content body of the visitor and administrator side of Joomla. Components are the applications used to render the bulk of your site's content on both the frontend and backend.
+Components are large, often complex extensions that act as the main functional parts of a Joomla site. They are essentially miniature applications which run in conjunction with virtually every other part of the site. Components make up the main content body of the visitor and administrator side of Joomla. Components are the applications used to render the bulk of your site's content on both the frontend and backend.
 
 They can also serve specific purposes such as adding ReCAPTCHA to forms, providing the site's template manager, and working to render the main body of a page.
 
@@ -53,12 +53,12 @@ Alternatively, you can opt to install directly from a folder hosted on your Web 
 
 The first step to installing an extension using the **Upload Package File** method is to access the Extensions manager. This can be done through **Administrator > Extensions > Extension Manager** from the top menu.
 
-If you don't see the **Install** page (see the figure below), you can navigate to it by selecting Install from the sidebar on the left-hand side of the resulting page.
+If you do not see the **Install** page (see the figure below), you can navigate to it by selecting Install from the sidebar on the left-hand side of the resulting page.
 
 ![][upload_extension2]
 
 :   1. **Upload Package File** This is the most common way to install extensions. [30%, 28%, sw]
-    2. **Install from Directory** Useful if you're installing an unzipped extension from a server directory. [30%, 43%, sw]
+    2. **Install from Directory** Useful if you are installing an unzipped extension from a server directory. [30%, 43%, sw]
     3. **Install from URL** Useful if you need to install from an external Web server. [30%, 55%, sw]
     4. **Browse** This will open a file manager window you can use to point to the extension package file on your hard drive. [49%, 90%, sw]
     5. **Upload and Install** Click this button after you've selected the package file from point 4. [60%, 40%, ne]
@@ -99,7 +99,7 @@ Once a list of available updates appears, you can select them (point 2) and clic
 
 This should automatically update the selected extensions.
 
-If you have any extensions that aren't compatible with the automatic update menu within Joomla, you'll want to consult the developer's site for instructions on how to manually update them.
+If you have any extensions that are not compatible with the automatic update menu within Joomla, you'll want to consult the developer's site for instructions on how to manually update them.
 
 [joomla-templates]: templates.md
 [upload_extension1]: assets/upload_extension1.png

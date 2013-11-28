@@ -40,7 +40,7 @@ If you choose to use the side menus, you have the option of defining your own me
 Breadcrumbs
 -----
 
-Although Magento doesn't support hierarchal CMS pages, the jQuery script that powers the menus will inject a pages "menu" parent into the site breadcrumbs. Both the top and side menus have this functionality - however, if an item appears in both menus, the top menus parent will take precedence. 
+Although Magento does not support hierarchal CMS pages, the jQuery script that powers the menus will inject a pages "menu" parent into the site breadcrumbs. Both the top and side menus have this functionality - however, if an item appears in both menus, the top menus parent will take precedence. 
 
 Setup
 -----
@@ -111,7 +111,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension5]
 
-:	1. **Menu Title** Adds a title to the menu block. Leave blank if you don't want a title to be present. [16%, 39%, se]
+:	1. **Menu Title** Adds a title to the menu block. Leave blank if you do not want a title to be present. [16%, 39%, se]
 	2. **Include Catalog Categories** Includes catalog categories in the menu. [24%, 39%, se]
 	3. **Visible Categories Depth** Sets the level of categories to show. [32%, 39%, se]
 	4. **Collapse 1st level parents** Disables links, collapses subcategories, and enables the accordion effect (tree only). [41%, 39%, se]
@@ -120,7 +120,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 	7. **Slot #1 CMS page link** Allows you to disable or select a CMS page to show in this slot. [69%, 39%, se]
 	8. **Slot #1 sub-menu items** Allows you to add CMS page URL keys in a comma separated list (no spaces). [77%, 39%, se]
 
-1. **Menu Title**: Adds a title to the menu block. Leave blank if you don't want a title to be present.
+1. **Menu Title**: Adds a title to the menu block. Leave blank if you do not want a title to be present.
 
 2. **Include Catalog Categories**: Includes catalog categories in the menu.
 
@@ -138,7 +138,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 
 ![][extension6]
 
-:	1. **Menu Title** Adds a title to the menu block. Leave blank if you don't want a title to be present. [16%, 39%, se]
+:	1. **Menu Title** Adds a title to the menu block. Leave blank if you do not want a title to be present. [16%, 39%, se]
 	2. **Include Catalog Categories** Includes catalog categories in the menu. [25%, 39%, se]
 	3. **Visible Categories Depth** Sets the level of categories to show. [33%, 39%, se]
 	4. **Collapse 1st level parents** Disables links, collapses subcategories, and enables the accordion effect (tree only). [41%, 39%, se]
@@ -147,7 +147,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 	7. **Slot #1 CMS page link** Allows you to disable or select a CMS page to show in this slot. [69%, 39%, se]
 	8. **Slot #1 sub-menu items** Allows you to add CMS page URL keys in a comma separated list (no spaces). [77%, 39%, se]
 
-1. **Menu Title**: Adds a title to the menu block. Leave blank if you don't want a title to be present.
+1. **Menu Title**: Adds a title to the menu block. Leave blank if you do not want a title to be present.
 
 2. **Include Catalog Categories**: Includes catalog categories in the menu.
 
@@ -170,7 +170,7 @@ You can download a zip package from the RokMage Extensions [downloads page][down
 
 Once you've downloaded and unzipped the extension package, you'll notice that the folder structure for the files has been included. This means you can simply copy the files/folders over to the corresponding folder of your Magento site, if developing locally. 
 
-If you're developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
+If you are developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
 
 ![][installation]
 

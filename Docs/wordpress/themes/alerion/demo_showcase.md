@@ -41,7 +41,7 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay   |         5 |  
 | Image Resize     |   Disable |  
 
-You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 
@@ -57,7 +57,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 ### Alerion Floating Module
 
-The **Alerion Floating Module** is a widget available in the main Widgets listing that adds the **Floating Module Top** and **Floating Module Bottom** widget positions to the page. While this widget in itself doesn't make any direct aesthetic changes, it facilitates the creation of widgets that do contain content which will float down the side of the page as the user scrolls down until they combine.
+The **Alerion Floating Module** is a widget available in the main Widgets listing that adds the **Floating Module Top** and **Floating Module Bottom** widget positions to the page. While this widget in itself does not make any direct aesthetic changes, it facilitates the creation of widgets that do contain content which will float down the side of the page as the user scrolls down until they combine.
 
 There are two settings you will want to adjust in order to match what you see in the demo.
 

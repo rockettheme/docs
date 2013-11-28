@@ -33,7 +33,7 @@ There are four tabs which you can use to set options for this root category.
 
 To get your store up and running, you really only need to concentrate on the **General Information** tab and the **Name, Is Active, and Include Navigation Menu** settings. You will want to come back to this menu to assign products once you've reached a point where products are created and assignment is needed.
 
-The **Name** you gives your root category a name, and this is basically a background resource that doesn't need to appear anywhere on the frontend. It is the name you can best associate with your assigned store. Typically, users opt to stick with "Default Category" if they're just using a single root category and further organizing products by subcategory.
+The **Name** you gives your root category a name, and this is basically a background resource that does not need to appear anywhere on the frontend. It is the name you can best associate with your assigned store. Typically, users opt to stick with "Default Category" if they are just using a single root category and further organizing products by subcategory.
 
 Your root category needs to be **active** in order to be assigned. Once you've set your category up to your personal preferences, just hit the **Save Category** button in the upper-right area of the page.
 
@@ -42,7 +42,7 @@ How to Create a Subcategory
 
 Subcategories in Magento are the most basic level of product organization. It is where you sort your products first before diving into more specific attributes. For example, a clothing store might have a subcategory set up for shirts, and another for pants. Within products in these subcategories, they might further be organized using attributes such as color, size, style, etc. You could argue for a second level of subcategories for winter and summer options, though it is entirely up to you as a store manager.
 
-These categories appear in navigation menus and make it easier for your customers to quickly find what they're looking for. In addition to attributes, this is the best single way to separate different types of products.
+These categories appear in navigation menus and make it easier for your customers to quickly find what they are looking for. In addition to attributes, this is the best single way to separate different types of products.
 
 Creating a subcategory is done almost exactly the same way as a root category. The difference is that you'll need to single-click the root category you wish to place the subcategory into before hitting the **Add Subcategory** button and initiating its creation.
 

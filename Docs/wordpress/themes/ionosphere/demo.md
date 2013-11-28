@@ -12,7 +12,7 @@ Introduction
 
 Recreating features of the demo site used to show off some of the more interesting aspects of Ionosphere can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
-Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Ionosphere theme.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Ionosphere theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
@@ -34,7 +34,7 @@ All of these plugins are included with the Ionosphere RocketLauncher, and can be
 Recreating the Front Page
 -----
 
-The front page of the Ionosphere demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It is because of this that several widget and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Ionosphere theme.
+The front page of the Ionosphere demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you'll need to recreate elements present in the front page of the Ionosphere theme.
 
 Theme Settings
 -----
@@ -48,7 +48,7 @@ The next step you'll need to take in creating your Theme Settings override is to
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
->> Under the administrative area, you can check you site's home page settings by navigating to **Settings -> Reading** and making sure that **Your latest posts** is selected. This is the setting we use for the demo content's home page as it doesn't require the creation of a static page.
+>> Under the administrative area, you can check you site's home page settings by navigating to **Settings -> Reading** and making sure that **Your latest posts** is selected. This is the setting we use for the demo content's home page as it does not require the creation of a static page.
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [override portion][demooverride] of this tutorial.
 

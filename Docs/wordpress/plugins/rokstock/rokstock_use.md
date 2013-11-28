@@ -9,7 +9,7 @@ User Controls
 -----
 ![][rokstock]
 
-Users have the ability to add their own stocks to the widget from the frontend without having to have administrative access. You can define what, exactly, users can and can't do with the widget in cases where you want to display only what you have pre-selected to appear on RokStock.
+Users have the ability to add their own stocks to the widget from the frontend without having to have administrative access. You can define what, exactly, users can and can not do with the widget in cases where you want to display only what you have pre-selected to appear on RokStock.
 
 Users can add new stocks, remove the default ones (configured by you on the backend), and refresh the widget to pull the most current information available.
 

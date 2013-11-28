@@ -12,7 +12,7 @@ RokAjaxSearch is a truly powerful extension that brings fantastic search functio
 
 ![][featured]
 
-RokAjaxSearch adds real-time search to your site that is both powerful and customizable to meet your site's individual needs. It allows you to make full use of Google's Search API in addition to other features that allow for easier and more accurate discovery of content within your site. Best yet, you don't have to depend on Google to provide the UI for the results. Results appear as a seamless addition to your template's design.
+RokAjaxSearch adds real-time search to your site that is both powerful and customizable to meet your site's individual needs. It allows you to make full use of Google's Search API in addition to other features that allow for easier and more accurate discovery of content within your site. Best yet, you do not have to depend on Google to provide the UI for the results. Results appear as a seamless addition to your template's design.
 
 Requirements
 -----

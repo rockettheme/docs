@@ -104,7 +104,7 @@ button-text-link::http://www.mozilla.com/en-US/firefox/all.html
 
 So, as said earlier, we started writing a cell `name::padding-top:10px;|Firefox`. This translated means: "Create a cell, use as referenced class name 'name', add some in-line styling `padding-top:10px;` and use **Firefox** as text of the cell.
 
-In the case that you want that cell to have a subline, the next line of the code would contain something like: `name-sub::Gecko Engine`. As you can see, 'name' has been kept for referencing to the 'name' cell, but we added a new keyword `-sub`. That's what lets RokFeatureTable know that our second line in the code needs to be a subline of 'name'. Translation: "In the cell that has 'name' as reference class add a subline with the text 'Gecko Engine'".
+In the case that you want that cell to have a subline, the next line of the code would contain something like: `name-sub::Gecko Engine`. As you can see, 'name' has been kept for referencing to the 'name' cell, but we added a new keyword `-sub`. That is what lets RokFeatureTable know that our second line in the code needs to be a subline of 'name'. Translation: "In the cell that has 'name' as reference class add a subline with the text 'Gecko Engine'".
 
 Now, let's say we want our cell to have additional classes. To do so, follow the same rules of '-sub', we write: `name-classes::class2 class3`, which translates to: "In the cell that has 'name' as reference class, I also need other classnames: `class2` and `class3`".
 

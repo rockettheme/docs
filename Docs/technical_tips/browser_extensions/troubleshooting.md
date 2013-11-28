@@ -7,9 +7,9 @@ breadcrumb: /technical_tips:Technical Tips/!browser_extensions:Browser Extension
 
 Introduction
 ----
-Finding the right browser extensions (or plugins as they're called on some browsers) to help you test and troubleshoot issues on your site can taxing if you don't know where to start. Not everyone needs to dig into a site's code, and may not benefit from some of the more complex extensions out there. Meanwhile, you want to find an extension that meets all of your needs, including advanced testing and troubleshooting.
+Finding the right browser extensions (or plugins as they are called on some browsers) to help you test and troubleshoot issues on your site can taxing if you do not know where to start. Not everyone needs to dig into a site's code, and may not benefit from some of the more complex extensions out there. Meanwhile, you want to find an extension that meets all of your needs, including advanced testing and troubleshooting.
 
-In this article, we'll detail some useful tools for a variety of the most used browsers by site managers, developers, and IT professionals. Some browsers have th### eir own built-in solutions which work quite well, while others need a helping hand from their community.
+In this article, we will detail some useful tools for a variety of the most used browsers by site managers, developers, and IT professionals. Some browsers have th### eir own built-in solutions which work quite well, while others need a helping hand from their community.
 
 ### Google Chrome
 

@@ -67,7 +67,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Preview Length  |              0 |  
 | Strip HTML Tags |             No |  
 
-You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
 

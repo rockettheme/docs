@@ -20,7 +20,7 @@ Here's the widget breakdown for the Main Bottom section:
 * Gantry Divider
 * Text
 
-The Main Bottom Section contains four Text widgets separated by three Gantry Divider widgets. As you move your mouse over the widget, a title and "Read More" button appears. We'll go over what you need to do to make this happen below.
+The Main Bottom Section contains four Text widgets separated by three Gantry Divider widgets. As you move your mouse over the widget, a title and "Read More" button appears. We will go over what you need to do to make this happen below.
 
 ### Text
 

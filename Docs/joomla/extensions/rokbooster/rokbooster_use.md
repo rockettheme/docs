@@ -95,11 +95,11 @@ You can access the RokBooster plugin settings by navigating to **Extensions -> P
     3. **Scan Method** The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".  [65%, 36%, sw]
     4. **Use Background Rendering** Recommended. Render the combined and compressed cache files in the background. This will cause the first couple of hits to a page to show with uncompressed and uncollected files until the cache files are created.  [72%, 28%, sw]
     5. **Disable for Internet Explorer** Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE.  [78%, 35%, sw]
-    6. **Cache File Permissions** Permissions that the RokBooster cache files are created with. Don't change unless you need to.  [85%, 39%, sw]
+    6. **Cache File Permissions** Permissions that the RokBooster cache files are created with. Do not change unless you need to.  [85%, 39%, sw]
 
-1. **Ignored Pages** The paths, URLs, or partials to pages to be ignored by RokBooster. One file per line. Example: **/blog/stream/**. If you use double quotes ("") around a string, it will match exactly. If you don't use the quotes, it will match any part of the page to the current URL. Exact matches with double quotes should start with a forward slash (/). If you use just a forward slash and nothing else, it will match the homepage only.
+1. **Ignored Pages** The paths, URLs, or partials to pages to be ignored by RokBooster. One file per line. Example: **/blog/stream/**. If you use double quotes ("") around a string, it will match exactly. If you do not use the quotes, it will match any part of the page to the current URL. Exact matches with double quotes should start with a forward slash (/). If you use just a forward slash and nothing else, it will match the homepage only.
 
-2. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line. You can enter this information for a single file, or an entire folder by listing the name of the parent directory of the files you'd like to have RokBooster ignore. For exmaple, if you want RokBooster to ignore every JS file in **/jscripts**, just type `jscripts` in the box. Alternatively, you can just type the name of the file you wish to have RokBooster ignore without having to enter the directory path.
+2. **Ignored Files**: The paths or URLs to files to be ignored by RokBooster. One file per line. You can enter this information for a single file, or an entire folder by listing the name of the parent directory of the files you would like to have RokBooster ignore. For exmaple, if you want RokBooster to ignore every JS file in **/jscripts**, just type `jscripts` in the box. Alternatively, you can just type the name of the file you wish to have RokBooster ignore without having to enter the directory path.
 
 3. **Scan Method**: The method to use for script and style identification and replacement, "Joomla Header Scan", "Full Header Scan", and "Full Page Scan".
 
@@ -107,7 +107,7 @@ You can access the RokBooster plugin settings by navigating to **Extensions -> P
 
 5. **Disable for Internet Explorer**: Internet Explorer has hardcoded limits on the size of CSS files and rules per file that it can use. This setting lets you disable the compressed files only for IE. You can also elect to only disable compression for browsers less than IE10 while maintaining this feature for IE10+.
 
-6. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Don't change unless you need to.
+6. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Do not change unless you need to.
 
 ### Debug Settings
 ![][rokbooster_setup_7]

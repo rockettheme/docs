@@ -10,11 +10,11 @@ Creating a Widget
 
 ![][widget4]
 
-Creating a RokGallery widget is a fairly straightforward process. You'd create it as you would any other widget by navigating to **Admin -> Appearance -> Widgets** and selecting **RokGallery** from **Available Widgets** and dragging them to the desired widget position on the right side of the page.
+Creating a RokGallery widget is a fairly straightforward process. You Would create it as you would any other widget by navigating to **Admin -> Appearance -> Widgets** and selecting **RokGallery** from **Available Widgets** and dragging them to the desired widget position on the right side of the page.
 
 ### Widget Configuration
 
-For the purpose of this documentation, we'll split the widget settings into multiple images, each with an explanation of the various options and what they mean. Within the Widget field of WordPress, this appears as a single, continuous block.
+For the purpose of this documentation, we will split the widget settings into multiple images, each with an explanation of the various options and what they mean. Within the Widget field of WordPress, this appears as a single, continuous block.
 
 ![][widget1]
 

@@ -8,13 +8,13 @@ breadcrumb: /joomla:Joomla/!platform:Platform/!templates.md:How Joomla Templates
 What is a Joomla Template?
 -----
 
-Joomla templates are basically the shell of your site. They're comprised of a series of files that determine the look and feel of a site once your content and modules have been put into place. A template determines things like fonts, colors, menu styles, navigation controls, basic layout design, and certain images such as the header and background (in some cases). A template isn't an entire website in and of itself at all. It is more accurately described as a base on which your site's appearance and layout are formed.
+Joomla templates are basically the shell of your site. They are comprised of a series of files that determine the look and feel of a site once your content and modules have been put into place. A template determines things like fonts, colors, menu styles, navigation controls, basic layout design, and certain images such as the header and background (in some cases). A template isn't an entire website in and of itself at all. It is more accurately described as a base on which your site's appearance and layout are formed.
 
 Templates offer you the ability to completely separate a site's content from its design. This enables you to quickly switch between templates with only a small amount of necessary changes in the backend versus having to completely rebuild the site from the ground up. A CMS, like Joomla, gives you this ability.
 
 While some templates offer a great degree of control over layout to users, others can be significantly more rigid. Templates built on a framework that offers a great deal of user customization options, like Gantry, can extend on the built-in backend options Joomla offers in a way that empowers the user to rearrange and reconfigure a site's layout without having to modify the template's code directly.
 
-You can also modify an existing template to appear slightly different depending on which page you're accessing. For example, many sites are designed with a different layout for the home page than a single article page. You might not want some features to appear in specific areas of your site. By [duplicating the template style](../basic/create_duplicate_template_styles.md) and assigning the adjusted layout to specific pages, you can do this fairly easily.
+You can also modify an existing template to appear slightly different depending on which page you are accessing. For example, many sites are designed with a different layout for the home page than a single article page. You might not want some features to appear in specific areas of your site. By [duplicating the template style](../basic/create_duplicate_template_styles.md) and assigning the adjusted layout to specific pages, you can do this fairly easily.
 
 How to install a Joomla template
 -----
@@ -30,7 +30,7 @@ If you have an existing site, but haven't yet installed the Gantry library, you 
 
 RocketLauncher is a working copy of our demo site which you can install on your own server and bring live within minutes. This is essentially a demo replica which you can modify to create a robust site that fits your individual needs.
 
-You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.x. If you have a set of extensions in mind that you wish to use on your site that don't presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
+You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.x. If you have a set of extensions in mind that you wish to use on your site that do not presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
 
 After you've downloaded the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site. A more recommended method involves uploading the ZIP file directly to your server and unpacking it there. This reduces the probability of file corruption and makes for a faster uploading process. Not all hosts allow this, so check with yours to see if this is an option.
 
@@ -42,7 +42,7 @@ At this point, you'll access the Joomla Web Installer to complete installation. 
 
 ### Installing a Template Bundle
 
-Assuming that you already have Joomla installed and just wish to change your existing site over to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you're looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
+Assuming that you already have Joomla installed and just wish to change your existing site over to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you are looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
 
 >> Note: The Bundle template is only necessary if the Gantry Library is not installed at `/components/com_gantry`.
 
@@ -56,7 +56,7 @@ The easiest way to do this is by going to **Admin → Extensions → Extension M
 
 ![][install2]
 
-:   1. **Install** This sidebar indicates which area within the Extension Manager you're in. [37%, 13%, nw]
+:   1. **Install** This sidebar indicates which area within the Extension Manager you are in. [37%, 13%, nw]
     2. **Browse** Locate the template's ZIP file on your local drive. [60%, 91%, sw]
     3. **Upload and Install** This will begin installation of your new template. [71%, 42%, ne]
 

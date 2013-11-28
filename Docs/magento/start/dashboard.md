@@ -11,9 +11,9 @@ Introduction
 
 The Magento **Dashboard** is the default home page in the **Admin Panel** of Magento. It serves as a quick snapshot of your site's activity and performance. You can check your sales numbers, view graphs of order activity, see frequently used search terms within the site, and find out what your customers are viewing.
 
-All of this information is available at a glance, so you don't have to dig into the menu system to find these various bits and pieces.
+All of this information is available at a glance, so you do not have to dig into the menu system to find these various bits and pieces.
 
-You don't have to use the **Dashboard** as your administrative home page. You can choose an alternative page to load when you first access the **Admin Panel** by going to **System -> Configuration -> Advanced -> Admin** and changing the option there.
+You do not have to use the **Dashboard** as your administrative home page. You can choose an alternative page to load when you first access the **Admin Panel** by going to **System -> Configuration -> Advanced -> Admin** and changing the option there.
 
 Dashboard Components
 -----

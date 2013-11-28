@@ -50,7 +50,7 @@ Before cropping and resizing the actual image, we can use a placeholder image to
 
 ![][responsive1]
 
-Below, we'll take a look at how a 1000px x 500px image appears in the browser.
+Below, we will take a look at how a 1000px x 500px image appears in the browser.
 
 ![][responsive2]
 
@@ -62,7 +62,7 @@ Scaling down your browser's width to 767px or below initiates the smartphone sta
 
 ![][responsive4]
 
-From the result above, we will take the largest width, 659px. So, we can now resize and crop the actual image to the 659px width. For the height, you may adjust it to fit the article description. In our demo, the height of the image is 350px. This doesn't mean all of your images should be cropped or resized to a width of 659px, though doing so will certainly improve the optimization of your site as it'll only require users to download the image file at a size it will actually be presented at.
+From the result above, we will take the largest width, 659px. So, we can now resize and crop the actual image to the 659px width. For the height, you may adjust it to fit the article description. In our demo, the height of the image is 350px. This does not mean all of your images should be cropped or resized to a width of 659px, though doing so will certainly improve the optimization of your site as it'll only require users to download the image file at a size it will actually be presented at.
 
 ### Custom Responsive Grids
 We have some responsive grid classes that you can use to create custom width for your content.
@@ -101,7 +101,7 @@ In small tablets, larger and standard smartphones view, those blocks will be sta
 ### Responsive Utility Classes
 We have a [quick guide set up to assist][class] in the understanding of responsive support classes which you can use to make content on your site appear or disappear depending on the size of the browser window being used to display it. This allows you to trim around the edges where a little too much (or too little) content can make your site appear either too cluttered or bare.
 
-These classes aren't just for whole modules. They can be used to cut out content as it appears in a single block of text, or even some images. By adding `<span class="hidden-phone"></span>` to an area of text you wish to have hidden on smartphones and other small-screen devices but present elsewhere, you can trim this content out without losing the whole module. Otherwise, the content might be a bit crushed in the smaller screen and appear stretched (pictured below).
+These classes are not just for whole modules. They can be used to cut out content as it appears in a single block of text, or even some images. By adding `<span class="hidden-phone"></span>` to an area of text you wish to have hidden on smartphones and other small-screen devices but present elsewhere, you can trim this content out without losing the whole module. Otherwise, the content might be a bit crushed in the smaller screen and appear stretched (pictured below).
 
 ![][responsive8]
 

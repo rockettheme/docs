@@ -41,12 +41,12 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay   |         5 |  
 | Image Resize     |   Disable |  
 
-You can set the RokSprocket filters to include any category, specific posts, or otherwise you'd like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 #### Filtered post List
 ![][demo2]
 
-Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different posts presented in our demo. This step doesn't activate the embedded video feature (this is handled in the theme Manager), but it will enable you to have text display over the video as it does in our demo.
+Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different posts presented in our demo. This step does not activate the embedded video feature (this is handled in the theme Manager), but it will enable you to have text display over the video as it does in our demo.
 
 **theme Features**
 

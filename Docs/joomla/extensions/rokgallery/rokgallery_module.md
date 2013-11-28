@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokgallery:RokGallery
 
 Creating a Module
 -----
-Creating a RokGallery module is a fairly straightforward process. You'd create it as you would any other module by navigating to **Administrator -> Extensions -> Module Manager** and selecting the green **New** button in the upper-left region of the page.
+Creating a RokGallery module is a fairly straightforward process. You Would create it as you would any other module by navigating to **Administrator -> Extensions -> Module Manager** and selecting the green **New** button in the upper-left region of the page.
 
 ![][rokgallery_module_1]
 
@@ -37,7 +37,7 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 
 4. **Status** option allows you to determine the current publishing status of the module. An unpublished module will still appear on the backend for administrators, but will not appear on the live site.
 
-5. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors don't see it.
+5. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors do not see it.
 
 6. **Ordering** gives you the ability to set the ordering for the module. 
 

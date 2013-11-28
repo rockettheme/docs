@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_25.md:How to Insta
 How to Install Joomla! 2.5
 -----
 
-Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you're installing to a localhost or remote hosting environment.
+Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
 
 ### Technical Requirements
 
@@ -25,7 +25,7 @@ Currently, the Joomla requirements are as follows:
 | Nginx         | 1.0           |     1.1     |
 | Microsoft IIS | 7             | 7           |
 
-While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
+While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it does not offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
 
 For users on a non-Microsoft server architecture, MSSQL will not appear under the database options during installation. Instead, you will be able to choose between PostgreSQL, MySQL, and MySQLi. MySQLi is the recommended database type for Joomla 3.x due to its native support and enhanced performance.
 
@@ -65,7 +65,7 @@ First, you'll need to select your language of choice. Joomla is supported in a w
 
 The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks (point 1) come up missing, you'll need to correct the issue prior to continuing the installation process.
 
-In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options aren't required to run Joomla, but are recommended if you want to get the most out of your experience. Once you've confirmed the data on this page, you can hit the **Next** button to continue.
+In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options are not required to run Joomla, but are recommended if you want to get the most out of your experience. Once you've confirmed the data on this page, you can hit the **Next** button to continue.
 
 ![][installation_j25_3]
 
@@ -89,17 +89,17 @@ The **Database Type** field (point 1) offers you a list of supported database ty
 
 Your web hosting provider should supply you with a **Host Name** (point 2) to place in the listed field. Most hosts use `localhost` as the host name, though some do request that databases be hosted from a different IP address.
 
-Your host will also either issue or request that you register a username (point 3) and password (point 4) for database management. This can sometimes be "root", though not always. If you're running on a shared hosting plan, this name will likely be different. You can typically create new usernames and passwords through Cpanel or any other hosting management system.
+Your host will also either issue or request that you register a username (point 3) and password (point 4) for database management. This can sometimes be "root", though not always. If you are running on a shared hosting plan, this name will likely be different. You can typically create new usernames and passwords through Cpanel or any other hosting management system.
 
-The **Database Name** field (point 5) should be filled out to match the full name of your desired database. Some hosting providers allow Joomla to create a new database here by entering a database name that doesn't already exist on the server. Others will require that you create the database with the host prior to entering it in this field.
+The **Database Name** field (point 5) should be filled out to match the full name of your desired database. Some hosting providers allow Joomla to create a new database here by entering a database name that does not already exist on the server. Others will require that you create the database with the host prior to entering it in this field.
 
 The **Table Prefix** field (point 6) is usually best left randomized, though instances where a single database may be used for a larger set of information or multiple applications can benefit from some recognizable association. Essentially, this prefix will appear prior to the name of a table created for the purposes of serving Joomla-specific information.
 
-At the bottom of this page (point 7), you'll be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you're creating a new database for this purpose, your decision here really doesn't make as much of a difference.
+At the bottom of this page (point 7), you'll be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you are creating a new database for this purpose, your decision here really does not make as much of a difference.
 
 ![][installation_j25_5]
 
-The next step involves FTP configuration. Don't panic, this isn't a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally don't require this step at all.
+The next step involves FTP configuration. Do not panic, this isn't a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally do not require this step at all.
 
 ![][installation_j25_6]
 

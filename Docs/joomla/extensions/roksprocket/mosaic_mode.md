@@ -25,7 +25,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 
 3. The **Status** option allows you to determine the current publishing status of the module. An unpublished module will still appear on the backend for administrators, but will not appear on the live site.
 
-4. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors don't see it.
+4. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors do not see it.
 
 5. The **Filtered Article List** gives you access to item-specific settings including:
 

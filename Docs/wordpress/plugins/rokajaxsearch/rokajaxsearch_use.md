@@ -21,7 +21,7 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
     3. **Google API** This field needs to be completed in order for the various Google search options to work. Please see [this site][googleapi] to retrieve an API Key. [19%, 51%, se]
     4. **Show Description** Set to yes to show a description with each search result. [22%, 60%, sw]
     5. **Show Read More** Set whether the Read More link should be display. [27%, 51%, se]
-    6. **Read More Label** Set a label you'd like to have displayed for the **Read More** link. [30%, 71%, sw]
+    6. **Read More Label** Set a label you would like to have displayed for the **Read More** link. [30%, 71%, sw]
     7. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [34%, 51%, se]
     8. **Display Content** Gives you access to item-specific settings for the post's title, description, image, and link. [38%, 59%, sw]
     9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [41%, 51%, se]
@@ -48,7 +48,7 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 
 5. **Show Read More**: Set whether the Read More link should be display.
 
-6. **Read More Label**: Set a label you'd like to have displayed for the **Read More** link.
+6. **Read More Label**: Set a label you would like to have displayed for the **Read More** link.
 
 7. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*.
 

@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokquickcart:RokQuickCart
 Introduction
 -----
 
-RokQuickCart is a very simple Joomla extension that's designed to make it easy to add a cart to your site. As with any e-commerce tool, there are some important considerations to make prior to taking this component live. We have added the ability to set RokQuickCart up in a sandbox mode so you can test it prior to having transactions appear on your Google or PayPal account. We've also explained some of the important taxing and shipping considerations below.
+RokQuickCart is a very simple Joomla extension that is designed to make it easy to add a cart to your site. As with any e-commerce tool, there are some important considerations to make prior to taking this component live. We have added the ability to set RokQuickCart up in a sandbox mode so you can test it prior to having transactions appear on your Google or PayPal account. We've also explained some of the important taxing and shipping considerations below.
 
 There are two primary areas of interest when setting up the RokQuickCart component. The first area is the **RokQuickCart Configuration** page which is accessible by navigating to **Admin -> System -> Global Configuration -> RokQuickCart**. You can also visit it by selecting **Options** within the **RokQuickCart Items Manager** which is directly accessible by navigating to **Admin -> Components -> RokQuickCart**. These two pages give you the ability to configure your store on the backend.
 

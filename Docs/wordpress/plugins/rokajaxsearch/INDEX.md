@@ -12,7 +12,7 @@ RokAjaxSearch is a truly powerful widget that brings fantastic search functional
 
 ![][featured]
 
-RokAjaxSearch adds real-time search to your site that is both powerful and customizable to meet your site's individual needs. It allows you to make full use of Google's Search API in addition to other features that allow for easier and more accurate discovery of content within your site. Best yet, you don't have to depend on Google to provide the UI for the results. Results appear as a seamless addition to your theme's design.
+RokAjaxSearch adds real-time search to your site that is both powerful and customizable to meet your site's individual needs. It allows you to make full use of Google's Search API in addition to other features that allow for easier and more accurate discovery of content within your site. Best yet, you do not have to depend on Google to provide the UI for the results. Results appear as a seamless addition to your theme's design.
 
 Requirements
 -----
@@ -50,7 +50,7 @@ From WordPress 3.x:
 
 Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokAjaxSearch right away, select **Activate Plugin** from this confirmation page.
 
->> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you'd like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
+>> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 
 [featured]: assets/rokajaxsearch.jpeg
 [rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download

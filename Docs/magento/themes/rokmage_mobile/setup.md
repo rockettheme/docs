@@ -49,7 +49,7 @@ By default, the homepage slider will be enabled, and will show three demo slides
 How to Use the "Theme Switcher"
 -----
 
-If you want to add a button for switching to the desktop version, there's an option in the settings to Include '**View Desktop Site**' link. Set that to "Yes". This will add a button in the footer. Once viewing the desktop site, you now need a way to return to the mobile view. To add this to your theme, open both **app/design/frontend/base/default/layout/local2columns.xml** and **app/design/frontend/base/default/layout/local3columns.xml** and add immediately after the initial <default> tag the following:
+If you want to add a button for switching to the desktop version, there is an option in the settings to Include '**View Desktop Site**' link. Set that to "Yes". This will add a button in the footer. Once viewing the desktop site, you now need a way to return to the mobile view. To add this to your theme, open both **app/design/frontend/base/default/layout/local2columns.xml** and **app/design/frontend/base/default/layout/local3columns.xml** and add immediately after the initial <default> tag the following:
 
 ~~~
 <!-- START - Add Mobile Check -->
@@ -68,7 +68,7 @@ This will be added to the RokMage Layout extension in the next update.
 How to Set Up RokMage Mobile with Third Party Themes
 -----
 
-If you wish to use our mobile theme on a store that's using a third party theme, and hence none of our extensions, you will need to make two adjustments.
+If you wish to use our mobile theme on a store that is using a third party theme, and hence none of our extensions, you will need to make two adjustments.
 
 First, open **app/design/frontend/rokmagemobile/default/layout/local.xml** and replace contents with the following and save (copy manually, selecting from first < to last >, as sometimes the auto copy messes things up):
 
@@ -473,7 +473,7 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
         echo $object->htmlEscape( $category->getName() );
         echo '</a>';
         if($itemcount == 1) {
-            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you don't already have one
+            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you do not already have one
             $total = Mage::getModel('catalog/layer')->setCurrentCategory( $category_object )->getProductCollection()->getSize();
             echo "<span class=\"mageside-prod-num\">&nbsp;(".$total.")</span>";
             };
@@ -518,7 +518,7 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
         echo $object->htmlEscape( $category->getName() );
        
         if($itemcount == 1) {
-            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you don't already have one
+            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you do not already have one
             $total = Mage::getModel('catalog/layer')->setCurrentCategory( $category_object )->getProductCollection()->getSize();
             echo '<span class="numcount ';
             if($catlevel == '2') { echo 'ui-btn-up-a'; } else { echo 'ui-btn-up-b'; };
@@ -564,7 +564,7 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
         else { echo '<a href="' . $object->getCategoryUrl( $category ) . '"' . ($object->isCategoryActive( $category ) ? ' class="active"' : '' ) . '>'; }
         echo $object->htmlEscape( $category->getName() );  
         if($itemcount == 1) {
-            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you don't already have one
+            $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you do not already have one
             $total = Mage::getModel('catalog/layer')->setCurrentCategory( $category_object )->getProductCollection()->getSize();
             echo '<span class="numcount ';
             if($catlevel == '2') { echo 'ui-btn-up-a'; } else { echo 'ui-btn-up-b'; };
@@ -577,7 +577,7 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
             echo '<a href="' . $object->getCategoryUrl( $category ) . '"' . ($object->isCategoryActive( $category ) ? ' class="active"' : '' ) . '>';
             echo $this->__('View All').' '.$object->htmlEscape( $category->getName() );
             if($itemcount == 1) {
-                $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you don't already have one
+                $category_object = Mage::getModel('catalog/category')->load($category->getId()); // If you do not already have one
                 $total = Mage::getModel('catalog/layer')->setCurrentCategory( $category_object )->getProductCollection()->getSize();
                 echo '<span class="numcount ui-btn-up-b ui-btn-corner-all">'.$total.'</span>';
             };
@@ -611,7 +611,7 @@ Second, copy **app/code/core/Mage/Catalog/Block/Navigation.php**, add the follow
 How to Create a Style using Theme Roller
 -----
 
-RokMage Mobile was built with the jQuery Mobile Framework. One of the main reasons for this was so we could integrate the Theme Roller to enable simple, lightning-fast customization. You simply need to make the style with the [Theme Roller][themeroller], download and unzip, open the minified css file and copy and paste the contents into the style input in the RokMage Mobile config. And that's it.
+RokMage Mobile was built with the jQuery Mobile Framework. One of the main reasons for this was so we could integrate the Theme Roller to enable simple, lightning-fast customization. You simply need to make the style with the [Theme Roller][themeroller], download and unzip, open the minified css file and copy and paste the contents into the style input in the RokMage Mobile config. And that is it.
 
 ![][style2]
 
@@ -629,7 +629,7 @@ These correspond with different sections of the theme.
 | B | Sub-categories of the navigation and Call to Action buttons (Add to Cart) | 
 | C | Product Lists, Product Info Pages, and all other pages |
 
-Simply drag and drop your colors from the top onto the different parts of the swatches, then download the theme and you're done. You can also have more control over the styling by adjusting the theme settings on the left. Here you can adjust things like the gradients used etc.
+Simply drag and drop your colors from the top onto the different parts of the swatches, then download the theme and you are done. You can also have more control over the styling by adjusting the theme settings on the left. Here you can adjust things like the gradients used etc.
 
 To give an idea of how it will turn out, here's some examples:
 

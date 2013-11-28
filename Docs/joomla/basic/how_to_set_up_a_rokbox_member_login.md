@@ -24,9 +24,9 @@ Here are the steps you'll want to take to set up the RokBox login for your site.
 
 4. **Save** your changes and close the **Template Manager**. 
 
-5. Navigate to **Extensions → Module Manager** and search for **login**. If you don't see a module called **mod_login** you can create a new module and select `Login` as its type.
+5. Navigate to **Extensions → Module Manager** and search for **login**. If you do not see a module called **mod_login** you can create a new module and select `Login` as its type.
 
-6. Assign it to the `login` module position and assign it to all pages. Even if you don't wish to have the login button appear on all pages, this particular module will only appear when it is called.
+6. Assign it to the `login` module position and assign it to all pages. Even if you do not wish to have the login button appear on all pages, this particular module will only appear when it is called.
 
 7. **Save** your changes and publish the module.
 

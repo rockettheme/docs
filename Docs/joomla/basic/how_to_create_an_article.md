@@ -23,7 +23,7 @@ How to Create a New Article
 
 The first step to creating a new article is to navigate to the **Article Manager's** Add a New Article page. This can be done using the admin menu at the top of the Administrator side of your Joomla site. Just navigate to **Administrator > Content > Article Manager > Add a New Article** and you should be brought to a page which includes a text editor and article-specific options (pictured above).
 
->> For the purpose of this tutorial, we'll be using the TinyMCE content editor. You can replace the default content editor with one of your choice by installing it as an [extension][extension]. We recommend [RokPad 2][rokpad] if you're looking for a text editor geared towards programmers with many of the [integrated features][pad] you'd find in a desktop text editor like Textmate, SublimeText, UltraEdit, and others. 
+>> For the purpose of this tutorial, we will be using the TinyMCE content editor. You can replace the default content editor with one of your choice by installing it as an [extension][extension]. We recommend [RokPad 2][rokpad] if you are looking for a text editor geared towards programmers with many of the [integrated features][pad] you would find in a desktop text editor like Textmate, SublimeText, UltraEdit, and others. 
 
 ![][article2]
 
@@ -36,7 +36,7 @@ The main editing page is where you can set the **title** of your article (point 
 
 Setting your article's category can help you to sort and set different types of content into different menus and pages within your Joomla site. It is the most basic level of sorting between articles. An article can only exist inside one category at a time, though you can create nested categories which allows you to be as specific or broad as possible when sorting with filters.
 
-Once you're done editing your article, you can save it and close the editing area using the options along the top of the page (point 3).
+Once you are done editing your article, you can save it and close the editing area using the options along the top of the page (point 3).
 
 The **Details Sidebar** (point 4) allows you to set the publishing status, access, featured toggle, language, and tags for your article.
 

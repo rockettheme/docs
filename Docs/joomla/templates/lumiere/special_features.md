@@ -28,7 +28,7 @@ You can choose the background style you would like to use on the template manage
 
 ![][demo2]
 
-If you don't want to use RocketLauncher and just want to install the standalone Lumiere template, the videos are not included. Just download the video files from [Lumiere Download Area][lumiere], unpack it and upload the videos to <Joomla Root>/templates/rt_lumiere/videos/ directory. You could also upload your own videos in this directory.
+If you do not want to use RocketLauncher and just want to install the standalone Lumiere template, the videos are not included. Just download the video files from [Lumiere Download Area][lumiere], unpack it and upload the videos to <Joomla Root>/templates/rt_lumiere/videos/ directory. You could also upload your own videos in this directory.
 
 
 #### HTML5 Video Format
@@ -40,7 +40,7 @@ Lumiere uses HTML5 `<video>` element to to embed the video as the header backgro
 
 #### Video Conversion
 
-If you don't have any supported format for your videos, you can use video conversion tool to convert your videos. On Lumiere, we use [Miro Video Converter][miro] to convert and compress the videos. It offers a beautiful, simple way to convert almost any video to MP4, WebM, Ogg Theora, as well as batch conversion, custom sizing, and more!
+If you do not have any supported format for your videos, you can use video conversion tool to convert your videos. On Lumiere, we use [Miro Video Converter][miro] to convert and compress the videos. It offers a beautiful, simple way to convert almost any video to MP4, WebM, Ogg Theora, as well as batch conversion, custom sizing, and more!
 
 ![][demo4]
 
@@ -51,7 +51,7 @@ Please visit MiroVideoConverter.com to download the converter. It is available f
 
 As mentioned above, HTML5 video uses MP4, WebM and Ogg formats. While most servers have been configured for MP4, some servers will not run WebM and Ogg well if the mime types are not configured well.
 
-In case you couldn't see your video plays, and if you are using Apache webserver you will need to add the following code to an .htaccess file in the directory where your video files are located. 
+In case you could not see your video plays, and if you are using Apache webserver you will need to add the following code to an .htaccess file in the directory where your video files are located. 
 
 LINE NUMBER ON/OFF | EXPAND/CONTRACT | SELECT ALL
  

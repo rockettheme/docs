@@ -14,7 +14,7 @@ Here's the widget breakdown for the Content Bottom section:
 * RokGallery
 
 #### RokGallery
-This RokGallery widget utilizes RokBox to display images in a way that doesn't distract from the visual elements of the theme. RokBox is required for this feature to work.
+This RokGallery widget utilizes RokBox to display images in a way that does not distract from the visual elements of the theme. RokBox is required for this feature to work.
 
 Here's a breakdown of the widget options: 
 

@@ -118,7 +118,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 	6. **Slide Button Link** Sets the link the button sends the user to. [69%, 38%, se]
 	7. **Full Size Link** Allows you to make the full area of the image act as a clickable link. [82%, 38%, se]
 
-Custom Content blocks (like this one) allow you to add custom content that doesn't necessarily associate directly with any products. You can use these to bring attention to a general promotion, feature an upcoming event associated with your store, or any number of other custom content types. You can disable these panels by typing `disable` in the **Title** field.
+Custom Content blocks (like this one) allow you to add custom content that does not necessarily associate directly with any products. You can use these to bring attention to a general promotion, feature an upcoming event associated with your store, or any number of other custom content types. You can disable these panels by typing `disable` in the **Title** field.
 
 1. **Slide Title**: Sets the title that appears in the panel. Leave blank for no title.
 
@@ -141,7 +141,7 @@ You can download a zip package from the RokMage Extensions [downloads page][down
 
 Once you've downloaded and unzipped the extension package, you'll notice that the folder structure for the files has been included. This means you can simply copy the files/folders over to the corresponding folder of your Magento site, if developing locally. 
 
-If you're developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
+If you are developing on a remote server, you can simply upload the **app** and **skin** folders to the Magento install on your server.
 
 ![][installation]
 

@@ -9,7 +9,7 @@ tags: [RocketLauncher, Base, Platform, Tutorial]
 Introduction
 -----
 
-Installation can be quick and easy, as long as the server you're hosting it from meets all the requirements needed to run phpBB3. You'll find these requirements listed in the [Requirements Check][requirements] portion of this guide.
+Installation can be quick and easy, as long as the server you are hosting it from meets all the requirements needed to run phpBB3. You'll find these requirements listed in the [Requirements Check][requirements] portion of this guide.
 
 The majority of the installation process takes place in your browser, though you will need some way to move the zipped or unzipped files to your server. We recommend [FileZilla][filezilla], though any compatible FTP, SFTP, or web-based file management solution will work just fine.
 
@@ -19,7 +19,7 @@ You'll also need to have a compatible database set up and ready to go. Options f
 
 The first thing you'll need to do is download either [phpBB3][phpbb3] or a RocketLauncher. We recommend downloading the latest version of either in order to take advantage of the most recent features available in the platform.
 
-You can either keep the zip file compressed and upload it directly to your server via FTP. Once this is done, you can uncompress the file and move the resulting folder's contents to the directory you wish your phpBB3 site to run from. Doing it this way reduces the chance for file corruption during transfer as you're moving a single file from your local machine to the host.
+You can either keep the zip file compressed and upload it directly to your server via FTP. Once this is done, you can uncompress the file and move the resulting folder's contents to the directory you wish your phpBB3 site to run from. Doing it this way reduces the chance for file corruption during transfer as you are moving a single file from your local machine to the host.
 
 If your hosting provider does not allow you to uncompress zip files on the server, you can do so locally and move the contents of the resulting folder directly to the directory you want phpBB3 to run from.
 
@@ -35,11 +35,11 @@ Once this is done, you should be able to navigate your browser to the URL you pl
 
 ![][install2]
 
-In order to install phpBB3, you'll need to hit the **Install** tab from the main introduction page. This will initiate the installation process, starting with the page pictured above. You aren't required to take any action on this page. It is simply there to prepare you for the steps to come.
+In order to install phpBB3, you'll need to hit the **Install** tab from the main introduction page. This will initiate the installation process, starting with the page pictured above. You are not required to take any action on this page. It is simply there to prepare you for the steps to come.
 
 This is a good time to write down your database username and password, as well as think of your desired admin username and password for phpBB3. We recommend using different sets for each for security purposes.
 
-Once you're ready to move on, select the **Proceed to next step** button at the bottom of the page.
+Once you are ready to move on, select the **Proceed to next step** button at the bottom of the page.
 
 ### Step 3: Requirements Check
 
@@ -74,19 +74,19 @@ If you are unable to proceed, you can check the page for any missing options and
 
 :	1. **Database Type** Select which type of database you'll be connecting phpBB3 to. [18%, 65%, sw]
 	2. **Database Server Hostname or DSN** The server hostname or DSN of your database. This is usually `localhost`. [24%, 47%, se]
-	3. **Database Server Port** The port on which phpBB3 can communicate with the database. If you don't know (or if your hosting provider doesn't indicate any) this can be left blank. [38%, 47%, se]
+	3. **Database Server Port** The port on which phpBB3 can communicate with the database. If you do not know (or if your hosting provider does not indicate any) this can be left blank. [38%, 47%, se]
 	4. **Database Name** Enter the unique name of your database as it appears on your host. [48%, 47%, se]
 	5. **Database Username** This is the username used to manage the database, and will generally be different from the one you use to manage phpBB3 on the backend. [56%, 63%, sw]
 	6. **Database Password** This is the password linked to the administrative database username. [61%, 47%, se]
 	7. **Prefix for Tables in the Database** This prefix appears prior to tables used for phpBB3 in the database. This is done to keep your phpBB3 data separate from any other data being used for other areas of your site (for example: a Joomla or WordPress installation). [70%, 47%, ne]
 
-The **Database Configuration** page establishes a connection to the database on which phpBB3 will be hosted. This database doesn't have to be exclusive to phpBB3, though it certainly can be.
+The **Database Configuration** page establishes a connection to the database on which phpBB3 will be hosted. This database does not have to be exclusive to phpBB3, though it certainly can be.
 
 1. **Database Type** Select which type of database you'll be connecting phpBB3 to.
 
 2. **Database Server Hostname or DSN** The server hostname or DSN of your database. This is usually `localhost`.
 
-3. **Database Server Port** The port on which phpBB3 can communicate with the database. If you don't know (or if your hosting provider doesn't indicate any) this can be left blank.
+3. **Database Server Port** The port on which phpBB3 can communicate with the database. If you do not know (or if your hosting provider does not indicate any) this can be left blank.
 
 4. **Database Name** Enter the unique name of your database as it appears on your host.
 
@@ -138,9 +138,9 @@ Once the test has been run and you click to proceed again, a configuration file 
 ![][install9]
 
 :	1. **Enable Board-wide Emails** Enables or disables email sent by the board. Emails are used to notify users of direct messages, comments on followed threads, etc. [24%, 47%, se]
-	2. **Use SMTP for Email** If you have a named server you'd like to have email sent through (as opposed to the local mail function) then you'll want to select **Yes**. To use the local mail function, leave this option at its default setting. [40%, 47%, se]
+	2. **Use SMTP for Email** If you have a named server you would like to have email sent through (as opposed to the local mail function) then you'll want to select **Yes**. To use the local mail function, leave this option at its default setting. [40%, 47%, se]
 	3. **SMTP Server Address** This is the server address for your SMTP server. Only required if you choose to send mail through SMTP. [49%, 64%, sw]
-	4. **Authentication Method for SMTP** Only used if a username/password is set. Ask your provider if you're unsure. [56%, 47%, se]
+	4. **Authentication Method for SMTP** Only used if a username/password is set. Ask your provider if you are unsure. [56%, 47%, se]
 	5. **SMTP Username** Enter the username for your SMTP account. This should only be entered if the server requires it. [64%, 64%, sw]
 	6. **SMTP Password** A password should only be entered if the SMTP server requires it. The password will be stored as plain text in the database. This is visible to anyone with access to the database. [70%, 47%, se]
 
@@ -148,11 +148,11 @@ The **Email Settings** page is where you can configure the primary email setting
 
 1. **Enable Board-wide Emails** Enables or disables email sent by the board. Emails are used to notify users of direct messages, comments on followed threads, etc.
 
-2. **Use SMTP for Email** If you have a named server you'd like to have email sent through (as opposed to the local mail function) then you'll want to select **Yes**. To use the local mail function, leave this option at its default setting.
+2. **Use SMTP for Email** If you have a named server you would like to have email sent through (as opposed to the local mail function) then you'll want to select **Yes**. To use the local mail function, leave this option at its default setting.
 
 3. **SMTP Server Address** This is the server address for your SMTP server. Only required if you choose to send mail through SMTP.
 
-4. **Authentication Method for SMTP** Only used if a username/password is set. Ask your provider if you're unsure.
+4. **Authentication Method for SMTP** Only used if a username/password is set. Ask your provider if you are unsure.
 
 5. **SMTP Username** Enter the username for your SMTP account. This should only be entered if the server requires it.
 

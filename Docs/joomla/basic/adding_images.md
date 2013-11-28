@@ -9,7 +9,7 @@ How to Add Images to Articles and Modules
 ---------
 Let's face it: A site without images can be a fairly dull thing. Joomla has a number of different methods you can use to add images to articles and modules. While we're somewhat impartial to [RokGallery][rokgallery], you can use the default tools provided by a basic Joomla installation to apply images to your articles and modules with relative ease.
 
-For the interest of this area of documentation, we'll discuss the most commonly found image options. If you're looking for a more detailed how-to surrounding our [RokGallery][rokgallery] extension, you can find it [here][rokgallery].
+For the interest of this area of documentation, we will discuss the most commonly found image options. If you are looking for a more detailed how-to surrounding our [RokGallery][rokgallery] extension, you can find it [here][rokgallery].
 
 Adding Images to Articles
 ---------
@@ -40,7 +40,7 @@ To insert an image into one of these preset fields, simply click the **Select** 
 
 **Alt Text** (point 3) allows you to add text that appears in place of the image in cases where the image is unable to render. For instance, a blind visitor using a braille display may only be able to read what appears in this field.
 
-The **Caption** (point 4) is whatever you'd like to appear as a caption on the article.
+The **Caption** (point 4) is whatever you would like to appear as a caption on the article.
 
 ![][add_image_3]
 

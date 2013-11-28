@@ -41,7 +41,7 @@ Responsive Theme
 
 ![][responsive]
 
-Graffito is a responsive Magento theme. That means that there's no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
+Graffito is a responsive Magento theme. That means that there is no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
 
 This is achieved through @media queries - which can detect the width of the browser window, and allow for different CSS accordingly. It also detects if you are viewing from a mobile device, and if so, will display a mobile optimized version of our ProductView extension, complete with a product image gallery that can be browsed with touch slide gestures.
 
@@ -57,13 +57,13 @@ Graffito utilizes 12 of our custom RokMage Magento extensions, which come fully 
 How to Install the Theme
 -----
 
-Installing the Graffito theme is quick and easy to do. There are numerous ways to do it, but we'll outline the most common method(s) in this tutorial. We'll start with the process you'll likely want to go through if you are installing Graffito on an existing Magento install.
+Installing the Graffito theme is quick and easy to do. There are numerous ways to do it, but we will outline the most common method(s) in this tutorial. We will start with the process you'll likely want to go through if you are installing Graffito on an existing Magento install.
 
 If you are setting up a new site/store and wish to have sample data (such as that present in our demo) you should consider downloading the RocketLauncher, instead. Details for that process can be found below.
 
 >> NOTE: We recommend backing up all of your data (including your database) prior to installing any new theme, extension, and/or making any changes to settings.
 
-These instructions include the possible application of an extension settings SQL installer file. We put a blank installer file in place in order to preserve your already-existing settings. If you wish to have our settings applied, and don't mind them overwriting any existing settings you've made, the instructions for doing this can be found on **Step 2**. You should swap the installer file out prior to uploading the theme (**Step 3**).
+These instructions include the possible application of an extension settings SQL installer file. We put a blank installer file in place in order to preserve your already-existing settings. If you wish to have our settings applied, and do not mind them overwriting any existing settings you've made, the instructions for doing this can be found on **Step 2**. You should swap the installer file out prior to uploading the theme (**Step 3**).
 
 ### Step 1: Download the Theme
 
@@ -81,7 +81,7 @@ All of these files can be found on the [Downloads page][download] associated wit
 
 The integrated RokMage extensions are all included in the download zip. However, the configuration settings for each extension also make up part of the theme, as they control image sizes, layout options, animation settings, and so on. So, these changes also need to be added. 
 
-If you've set up a fresh Magento store (with or without sample data) and **have yet to start on any customization**, you can simply drop the extension settings SQL installer file (**mysql4-install-1.0.php**) into the **ExtensionSetup** module (**app/code/community/Rockettheme/ExtensionSetup/sql/extensionsetup_setup/**), replacing the dummy file that's currently there. This will assign the optimal configuration settings for this theme.
+If you've set up a fresh Magento store (with or without sample data) and **have yet to start on any customization**, you can simply drop the extension settings SQL installer file (**mysql4-install-1.0.php**) into the **ExtensionSetup** module (**app/code/community/Rockettheme/ExtensionSetup/sql/extensionsetup_setup/**), replacing the dummy file that is currently there. This will assign the optimal configuration settings for this theme.
 
 It will also automatically edit your CMS homepage to show the HomepageGrid extension, edit the other default CMS pages to use the correct RokMageLayout for the theme, and edit the footer menu CMS block to work within the FooterBlock extension. **Be sure to replace the installer file BEFORE you add the theme files to your Magento installation**, otherwise, the ExtensionSetup module will run with the dummy file in place.
 

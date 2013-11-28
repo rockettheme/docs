@@ -126,9 +126,9 @@ Livefyre
 
 ![][lfimg]
 
-The first step to installing Livefyre comments on your site is to Sign Up via the [http://www.livefyre.com][lf] website. When you have signed up, you should click **Install**, or go directly to the installation URL. Enter the URL of your site and click the **Custom** option for the **Platform**. When you're done, click the **Keep Going!** button.
+The first step to installing Livefyre comments on your site is to Sign Up via the [http://www.livefyre.com][lf] website. When you have signed up, you should click **Install**, or go directly to the installation URL. Enter the URL of your site and click the **Custom** option for the **Platform**. When you are done, click the **Keep Going!** button.
 
-That's all there is to it. You will be provided with a chunk of JavaScript, but all you need to do is copy the numeric **site_id** variable, as this will be used to configure RokComments to use Livefyre.
+That is all there is to it. You will be provided with a chunk of JavaScript, but all you need to do is copy the numeric **site_id** variable, as this will be used to configure RokComments to use Livefyre.
 
 ### Configure
 

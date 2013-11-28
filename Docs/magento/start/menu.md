@@ -11,7 +11,7 @@ Introduction
 
 ![][menu]
 
-The **Menu** positioned at the top of of the **Admin Panel** is the fastest way to move between administrative resources located in the backend of your site. It is organized by content type, which makes it easier to find what your searching for based on the task you're hoping to accomplish.
+The **Menu** positioned at the top of of the **Admin Panel** is the fastest way to move between administrative resources located in the backend of your site. It is organized by content type, which makes it easier to find what your searching for based on the task you are hoping to accomplish.
 
 This menu can change based on your individual configuration. More information about specific areas within Magento can be found in the official Magento documentation.
 
@@ -45,7 +45,7 @@ The **Mobile** menu allows you to access settings and options related to **Magen
 
 The **Customers** menu lets you manage information related to your customer base. This includes individual customer accounts, customer groups, and a list of all your customers currently online. 
 
-This list even includes customers that aren't presently logged in. It is a great resource to use in the event you're considering taking down your site for maintenance but want to make sure you're not "turning the lights out" on a busy store. It can also be useful for troubleshooting and resolving customer service issues.
+This list even includes customers that are not presently logged in. It is a great resource to use in the event you are considering taking down your site for maintenance but want to make sure you are not "turning the lights out" on a busy store. It can also be useful for troubleshooting and resolving customer service issues.
 
 ### Promotions
 
@@ -73,7 +73,7 @@ Anything found on the site that is not directly related to your products, custom
 
 ![][menu9]
 
-Data is your best friend in the world of e-commerce. The **Reports** menu gives you quick access to a vast array of reports you can use to evaluate virtually every aspect of your store's performance. If you want a more detailed report of anything touched on in the **Dashboard**, this is where you'd find it.
+Data is your best friend in the world of e-commerce. The **Reports** menu gives you quick access to a vast array of reports you can use to evaluate virtually every aspect of your store's performance. If you want a more detailed report of anything touched on in the **Dashboard**, this is where you would find it.
 
 ### System
 

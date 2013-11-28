@@ -109,7 +109,7 @@ You can toggle this feature on and off by navigating to **Administrator -> Exten
 
 Virtually everything about a Progressive Knob can be adjusted. From the width of the progression indicator to the size of the icon, all of this information is found and easily adjusted inside a single block of code.
 
-Here is the code related to the Progressive Knob found on the far left in the image above. If you're entering this into an article, you'll want to make sure you're either using RokPad or another non-WYSIWYG editor.
+Here is the code related to the Progressive Knob found on the far left in the image above. If you are entering this into an article, you'll want to make sure you are either using RokPad or another non-WYSIWYG editor.
 
 ~~~ .html
 <div class="canvas-graph" data-canvas-graph='{"icon":"icon-eye-open","iconSize":80,"radius":110,"size":15,"start":70}'><div class="longshadow"></div></div>

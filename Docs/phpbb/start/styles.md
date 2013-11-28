@@ -86,7 +86,7 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 
 >> NOTE: You can add as many style modules as you want.
 
-Don't be worried concerning the installation process as we only need this operation to be executed once. After that, to upgrading RokBB will only involve replacing files.
+Do not be worried concerning the installation process as we only need this operation to be executed once. After that, to upgrading RokBB will only involve replacing files.
 
 [filezilla]: https://filezilla-project.org/download.php
 [rokbb]: assets/rokbb.jpg

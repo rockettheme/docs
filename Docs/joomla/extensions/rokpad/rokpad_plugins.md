@@ -27,10 +27,10 @@ Next, go to **Extensions -> Plugin Manager**. From the list, find **Editor - Rok
 
 :   1. **Enable Auto-Save** Enables or disables the automatic save feature in RokPad. [13%, 49%, sw]
     2. **Auto-Save Every** Sets the duration between autosaves. [18%, 40%, se]
-    3. **Theme** Sets the theme you'd like to have applied to the RokPad editor. [31%, 54%, sw]
+    3. **Theme** Sets the theme you would like to have applied to the RokPad editor. [31%, 54%, sw]
     4. **Font size** Sets the font size within RokPad. [37%, 40%, se]
     5. **Code Folding** Determines how RokPad handles code folding. [42%, 65%, sw]
-    6. **Soft Wrap** Allows long lines to wrap so they're entirely in view without sidescrolling. [48%, 49%, sw]
+    6. **Soft Wrap** Allows long lines to wrap so they are entirely in view without sidescrolling. [48%, 49%, sw]
     7. **Full Line Selection** Determines how RokPad handles selections. [53%, 40%, se]
     8. **Highlight Active Line** Sets whether or not the current line should be highlighted. [59%, 49%, sw]
     9. **Highlight Active Word** Allows matching words to be highlighted when a word is selected. [64%, 40%, se]
@@ -43,7 +43,7 @@ Next, go to **Extensions -> Plugin Manager**. From the list, find **Editor - Rok
 
 2. The **Auto-Save Every** number sets the duration between autosaves. This is only taken into account when **Enable Auto-Save** is enabled.
 
-3. **Theme** sets the theme you'd like to have applied to the RokPad editor.
+3. **Theme** sets the theme you would like to have applied to the RokPad editor.
 
 4. The **Font size** option sets the font size within RokPad.
 
@@ -52,7 +52,7 @@ Next, go to **Extensions -> Plugin Manager**. From the list, find **Editor - Rok
 	* **Mark Begin** adds an arrow pointing down next to the line, at the start of the code that is possible to collapse or expand.
 	* **Mark Begin and End** adds arrows at the beginning and end of  collapsible or expandable code.
 
-6. **Soft Wrap** allows long lines to wrap so they're entirely in view without side-scrolling.
+6. **Soft Wrap** allows long lines to wrap so they are entirely in view without side-scrolling.
 
 7. **Full Line Selection** determines how RokPad handles selections.
 

@@ -10,7 +10,7 @@ Introduction
 
 Editing the logo on a RocketTheme template is fairly simple. There are two primary methods of getting the job done.
 
-First, you'll have to decide whether you want to create a "default logo" that's easy to go back to after any temporary or seasonal logos, or a promotional "replacement logo".
+First, you'll have to decide whether you want to create a "default logo" that is easy to go back to after any temporary or seasonal logos, or a promotional "replacement logo".
 
 The easiest method to use a "replacement logo" is to use the **Logo Picker** method. Alternatively, you can use the **Manual Logo Change** method to change your default logo, outright. We've outlined these two primary methods below.
 
@@ -22,7 +22,7 @@ The Logo Picker method essentially allows you to pick from any image in your Med
 
 To accomplish this, you'll want to follow these steps:
 
-1. Navigate to **Administrator → Extensions → Templates Manager** and select the Gantry-powered RocketTheme template you're currently using as your default. If you wish to change your logo in only a select number of pages, you will need to either create or choose an existing template override to apply this change to.
+1. Navigate to **Administrator → Extensions → Templates Manager** and select the Gantry-powered RocketTheme template you are currently using as your default. If you wish to change your logo in only a select number of pages, you will need to either create or choose an existing template override to apply this change to.
 
 2. Navigate to the **Style** tab.
 
@@ -46,7 +46,7 @@ Doing this makes it a little easier to revert back to the logo you wish to have 
 
 Here are the steps you'll want to follow:
 
-1. Navigate to **Administrator → Extensions → Templates Manager** and select the Gantry-powered RocketTheme template you're currently using as your default. If you wish to change your logo in only a select number of pages, you will need to either create or choose an existing template override to apply this change to.
+1. Navigate to **Administrator → Extensions → Templates Manager** and select the Gantry-powered RocketTheme template you are currently using as your default. If you wish to change your logo in only a select number of pages, you will need to either create or choose an existing template override to apply this change to.
 
 2. Navigate to the **Style** tab.
 

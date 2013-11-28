@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 
 ![][rokpad]
 
-:   1. **Ajax Save** Saves your progress, but doesn't replace the save button at the top of the article editing screen. [24%, 6%, se]
+:   1. **Ajax Save** Saves your progress, but does not replace the save button at the top of the article editing screen. [24%, 6%, se]
     2. **Undo and Redo** Undoes and reapplies the last single action. [26%, 14%, nw]
     3. **Find** Locates and selects either a single or all instances of the entered string. [24%, 19%, se]
     4. **Extras** Extra features to improve user experience.  [24%, 25%, sw]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
     6. **Keyboard Shortcuts** Gives you a quick reference guide to useful keyboard shortcuts available to you in the RokPad editor. [26%, 74%, nw]
     7. **Fullscreen** This button allows you to go to fullscreen mode with the editor. This gives you a distraction-free experience that fills the browser window. [24%, 78%, sw]
 
-1. **Ajax Save** saves your progress, but doesn't replace the save button at the top of the article editing screen.
+1. **Ajax Save** saves your progress, but does not replace the save button at the top of the article editing screen.
 
 2. **Undo and Redo** Undoes and reapplies the last single action. You can undo several actions in a row, and reapply them using the Redo command.
 
@@ -31,10 +31,10 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 
 ![][cog]
 
-:   1. **Theme** sets the theme you'd like to have applied to the RokPad editor. [17%, 70%, sw]
+:   1. **Theme** sets the theme you would like to have applied to the RokPad editor. [17%, 70%, sw]
     2. **Font size** Sets the font size within RokPad. [23%, 39%, se]
     3. **Code Folding** Determines how RokPad handles code folding. [29%, 68%, sw]
-    4. **Soft Wrap** Allows long lines to wrap so they're entirely in view without sidescrolling. [35%, 39%, se]
+    4. **Soft Wrap** Allows long lines to wrap so they are entirely in view without sidescrolling. [35%, 39%, se]
     5. **Full Line Selection** Determines how RokPad handles selections. [41%, 56%, sw]
     6. **Highlight Active Line** Sets whether or not the current line should be highlighted. [47%, 26%, se]
     7. **Highlight Active Word** Allows matching words to be highlighted when a word is selected. [52%, 56%, sw]
@@ -44,7 +44,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
     11. **Autosave** Enables or disables the automatic save feature in RokPad. [72%, 56%, sw]
     12. **Autohide Fold Widget** Determines if the fold widgets next to the gutter should be automatically hidden or always visible. [77%, 40%, se]
 
-1. **Theme** sets the theme you'd like to have applied to the RokPad editor.
+1. **Theme** sets the theme you would like to have applied to the RokPad editor.
 
 2. The **Font size** option sets the font size within RokPad.
 
@@ -53,7 +53,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokpad:RokPad
 	* **Mark Begin** adds an arrow pointing down next to the line, at the start of the code that is possible to collapse or expand.
 	* **Mark Begin and End** adds arrows at the beginning and end of  collapsable or expandable code.
 
-4. **Soft Wrap** allows long lines to wrap so they're entirely in view without sidescrolling.
+4. **Soft Wrap** allows long lines to wrap so they are entirely in view without sidescrolling.
 
 5. **Full Line Selection** determines how RokPad handles selections.
 

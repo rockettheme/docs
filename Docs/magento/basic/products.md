@@ -13,7 +13,7 @@ Creating products in Magento is a major step towards getting your e-commerce sit
 
 Unfortunately, the product creation process isn't as simple as filling out a form and uploading a photo. You have to take a few steps before you create that product in order to prevent headaches down the road.
 
-For example, you should already have created attributes and attribute sets for your products before reaching this point. Why? What good is creating a product if you don't have specs to assign to it? If you have just one attribute set and a large variety of product types, then you'll be stuck using the same set of variables for every product you create. You can't assign an existing product a new attribute set, and this often causes a lot of confusion to new users.
+For example, you should already have created attributes and attribute sets for your products before reaching this point. Why? What good is creating a product if you do not have specs to assign to it? If you have just one attribute set and a large variety of product types, then you'll be stuck using the same set of variables for every product you create. You can not assign an existing product a new attribute set, and this often causes a lot of confusion to new users.
 
 How to Create a New Product
 -----
@@ -24,9 +24,9 @@ To create a new product, you'll first need to navigate to the **Manage Products*
 
 ![][products]
 
-The **Product Settings** page allows you to assign an **Attribute Set** and **Product Type** to the new product. It is important to remember here that once an attribute set is assigned to the product, it can't be changed. This set adds a number of variables to the product that impact how it is listed and sorted in your store.
+The **Product Settings** page allows you to assign an **Attribute Set** and **Product Type** to the new product. It is important to remember here that once an attribute set is assigned to the product, it can not be changed. This set adds a number of variables to the product that impact how it is listed and sorted in your store.
 
-As an example, you might have a specific attribute set created for digital cameras. This would be the set you'd assign here if you're adding a digital camera to your store.
+As an example, you might have a specific attribute set created for digital cameras. This would be the set you would assign here if you are adding a digital camera to your store.
 
 Your **Product Type** determines how your product will be listed on the frontend. For example, a **Simple** product stands on its own as an individual item. It has its own product page, and can be searched independently of other products in its category.
 
@@ -40,7 +40,7 @@ A **Configurable** product is like a **Grouped** product in that it shares a pro
 
 The next stage in product creation is much more detailed and time consuming. This is where you configure all the variables and options for that product that impact its description, name, SKU number, price, image, and more.
 
-Since you're creating the product for the first time, you'll want to make sure you have all the necessary information available at hand. This includes the SKU number you'd like to assign to the product, it is stock level (inventory), any related products (if already created) that you'd like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
+Since you are creating the product for the first time, you'll want to make sure you have all the necessary information available at hand. This includes the SKU number you would like to assign to the product, it is stock level (inventory), any related products (if already created) that you would like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
 
 Below, we've broken down the sections of the **Product Information** area. You can find detailed instructions on the official [Magento support site][magento].
 
@@ -58,7 +58,7 @@ The **Price** tab gives you access to set the product's price, special price, a 
 
 #### Images
 
-Images are a very important selling point for your product. In fact, Magento requires three images per product. You'll need base, small, and thumbnail images for your product. If you don't upload an image to meet these requirements, a default one is used.
+Images are a very important selling point for your product. In fact, Magento requires three images per product. You'll need base, small, and thumbnail images for your product. If you do not upload an image to meet these requirements, a default one is used.
 
 You can configure a default image by visiting **Admin Panel -> System -> Configuration**.
 
@@ -70,7 +70,7 @@ This tab allows you to enable or disable **Recurring Profile** for this product.
 
 The **Design** tab gives you the ability to modify the look of individual product pages. The product design overrides any design changes made to the category design option. 
 
-You can use the **Active From** and **Active To** options to make this design change temporary. This is handy when a product is new and you'd like to theme the individual product page to feature it in a different light than other items in your inventory. 
+You can use the **Active From** and **Active To** options to make this design change temporary. This is handy when a product is new and you would like to theme the individual product page to feature it in a different light than other items in your inventory. 
 
 #### Gift Options
 
@@ -90,7 +90,7 @@ This is where you assign the product to a category / subcategory. A product can 
 
 #### Related Products
 
-**Related Products** allows you to let Magento know if there are any related products that would be worth promoting within the new product's page. If the product you're adding is a DSLR, you might add similar DSLR models here for customers to consider, should they be searching for something just a little different than this particular product.
+**Related Products** allows you to let Magento know if there are any related products that would be worth promoting within the new product's page. If the product you are adding is a DSLR, you might add similar DSLR models here for customers to consider, should they be searching for something just a little different than this particular product.
 
 #### Up-Sells
 

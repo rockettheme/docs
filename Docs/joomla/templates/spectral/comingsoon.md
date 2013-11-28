@@ -10,7 +10,7 @@ Introduction
 
 ![][comingsoon]
 
-Spectral introduces a **Coming Soon** page which allows you to display a stylish page indicating that your site is either being worked on or under construction. This page includes a countdown timer, your logo, and an area for text you can use to share any information you'd like to about the pending release.
+Spectral introduces a **Coming Soon** page which allows you to display a stylish page indicating that your site is either being worked on or under construction. This page includes a countdown timer, your logo, and an area for text you can use to share any information you would like to about the pending release.
 
 You can also have users subscribe to a newsletter should you wish to email them and let them know when the site is up, as well as keep in touch to share regular updates and information.
 
@@ -32,7 +32,7 @@ You can set the timer by visiting the **Features** tab within the **Template Man
 
 ### Email Subscription 
 
-To enable or disable the sample email subscription form, you can navigate to **Administrator -> Extensions -> Template Manager -> Spectral -> Features -> Email Subscription** to turn it on or off. By setting this option to **On**, you're turning on the email subscription form in both the **Offline** and **Coming Soon** pages.
+To enable or disable the sample email subscription form, you can navigate to **Administrator -> Extensions -> Template Manager -> Spectral -> Features -> Email Subscription** to turn it on or off. By setting this option to **On**, you are turning on the email subscription form in both the **Offline** and **Coming Soon** pages.
 
 ### Language 
 

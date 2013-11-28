@@ -18,7 +18,7 @@ You can see more information about this feature in our [HTML5 video guide][speci
 ### Filtered Article List
 ![][demo6]
 
-Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different articles presented in our demo. This step doesn't activate the embedded video feature (this is handled in the Template Manager), but it will enable you to have text display over the video as it does in our demo.
+Below is the HTML code for the sample content, to be placed in the **description** field in each line item on RokSprocket. There are three separate blocks of code below to represent the three different articles presented in our demo. This step does not activate the embedded video feature (this is handled in the Template Manager), but it will enable you to have text display over the video as it does in our demo.
 
 #### Template Features
 

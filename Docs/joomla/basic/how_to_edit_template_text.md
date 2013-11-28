@@ -9,7 +9,7 @@ Introduction
 -----
 Some words used in our template's frontend are set via the language file for that template. Other commonly modified statements (such as the copyright, Scroll To Top, and Login Panel) are set within Gantry and can be changed through the backend without accessing any files directly.
 
-Below, we'll outline the two primary methods for changing custom language strings on our template's frontend.
+Below, we will outline the two primary methods for changing custom language strings on our template's frontend.
 
 ### Changing the Template Frontend and Backend Text
 Words that are used in the template frontend, such as Text Size are set via our language file.

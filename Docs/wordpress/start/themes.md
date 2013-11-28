@@ -27,7 +27,7 @@ To install the theme powered by Gantry, you need two files:
 * **Theme** (*rt_themename_wp.zip*) - This file is the standalone theme package you will use to install your theme into WordPress.
 * **Gantry Plugin** (*gantry_wordpress_framework.zip*) - This file contains the Gantry Framework Plugin and it is required in order to have our themes working.
 
->> Please note that the Gantry plugin needs to be installed first and activated (doesn't apply to RocketLauncher).
+>> Please note that the Gantry plugin needs to be installed first and activated (does not apply to RocketLauncher).
 
 #### Other Files
 

@@ -28,7 +28,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### RokGallery
-This RokGallery widget utilizes RokBox to display images in a way that doesn't distract from the visual elements of the theme. RokBox is required for this feature to work.
+This RokGallery widget utilizes RokBox to display images in a way that does not distract from the visual elements of the theme. RokBox is required for this feature to work.
 
 Here's a breakdown of the widget options: 
 

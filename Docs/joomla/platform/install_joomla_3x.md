@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_3x.md:How to insta
 How to install Joomla! 3.x
 -----
 
-Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you're installing to a localhost or remote hosting environment.
+Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
 
 ### Technical Requirements
 
@@ -27,7 +27,7 @@ Currently, the Joomla requirements are as follows:
 | Nginx         | 1.0           |     1.1       |
 | Microsoft IIS | 7             | 7             |
 
-While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it doesn't offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
+While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it does not offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
 
 For users on a non-Microsoft server architecture, MSSQL will not appear under the database options during installation. Instead, you will be able to choose between PostgreSQL, MySQL, and MySQLi. MySQLi is the recommended database type for Joomla 3.x due to its native support and enhanced performance.
 
@@ -62,9 +62,9 @@ The first page in the Joomla! 3.x Web Installer is to select your preferred lang
 
 Next, you can name your site and give it a description (point 2). This description will be used by search engines as a reference to what it is your site is about. Ideally, it'll be the cached description Google displays when people search for something that can be found at the root of your site. 
 
-Next, you'll need to give yourself an administrative user name and password (point 3). This will allow you to receive email updates from the site as well as log in to the Administrator area, also known as the backend where you can configure site settings, layout, user properties, and customize the site to meet your specific needs. You can also opt to have the site remain offline (available only with an administrator's user name and password) until you're ready to switch it on later (point 4). You can have the site go live right away, but this means the public will see the demo duplicate as your home page until you've finished configuring your options. 
+Next, you'll need to give yourself an administrative user name and password (point 3). This will allow you to receive email updates from the site as well as log in to the Administrator area, also known as the backend where you can configure site settings, layout, user properties, and customize the site to meet your specific needs. You can also opt to have the site remain offline (available only with an administrator's user name and password) until you are ready to switch it on later (point 4). You can have the site go live right away, but this means the public will see the demo duplicate as your home page until you've finished configuring your options. 
 
-Once you're done with this page, hit the **Next** button.
+Once you are done with this page, hit the **Next** button.
 
 ![][installation_joomla3x_3]
 
@@ -75,7 +75,7 @@ Once you're done with this page, hit the **Next** button.
     5. **Table Prefix** This sets the prefix that appears on any Joomla-related tables in the database. [67%, 12%, ne]
     6. **Old Database Process** This option gives you the opportunity to back up or remove previous Joomla install data. [82%, 12%, ne]
 
-The next step in installation concerns the database you wish to use. If Joomla is your content management system, then your database is where this content is stored and made available. Joomla will actually create a database for you so you don't have to bother with setting this up on your end. Some Web hosts don't allow this feature, so you may have to create it yourself using Cpanel or another administrative tool your provider gives you to create a MySQL, MySQLi, or PostgreSQL database.
+The next step in installation concerns the database you wish to use. If Joomla is your content management system, then your database is where this content is stored and made available. Joomla will actually create a database for you so you do not have to bother with setting this up on your end. Some Web hosts do not allow this feature, so you may have to create it yourself using Cpanel or another administrative tool your provider gives you to create a MySQL, MySQLi, or PostgreSQL database.
 
 The **Database Type** option (point 1) gives you the ability to choose which type of database you wish to link to your Joomla site. For most users, MySQLi is the database type you'll want to select.
 
@@ -83,9 +83,9 @@ You'll then be asked for your database's **Host Name** (point 2). This should be
 
 Your **Username** and **Password** (point 3) need to be entered next. This information may be provided by your host, or available for you to configure to your preferences. Check with your host to determine which options are available to you. The same applies to the **Database Name** field (point 4).
 
-The **Table Prefix** (point 5) is used to differentiate your Joomla data from other data stored in the database. One will be randomly generated in this space, though you can change it to whatever you'd like.
+The **Table Prefix** (point 5) is used to differentiate your Joomla data from other data stored in the database. One will be randomly generated in this space, though you can change it to whatever you would like.
 
-If you're using a pre-created database, you'll want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
+If you are using a pre-created database, you'll want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
 
 ![][installation_joomla3x_5]
 

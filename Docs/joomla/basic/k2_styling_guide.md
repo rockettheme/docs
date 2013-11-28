@@ -13,7 +13,7 @@ The philosophy behind K2 is to bring the best bits and pieces from WordPress and
 
 While K2 might not completely replace Joomla's integrated article system for everyone, it does add a number of useful tidbits that can help you make the most of your site. Tagging, image management, comments, and other options pick up where Joomla leaves off with a powerful full-featured article management solution. This is in addition to its user and media management enhancements.
 
-Below, we'll detail exactly how we set up each of our Gantry-powered template demos using K2.
+Below, we will detail exactly how we set up each of our Gantry-powered template demos using K2.
 
 ### Installing K2
 K2 is installed the same way any other Joomla extension would be installed. We recommend downloading it directly from the [official K2 site][k2] so you have the most updated copy.

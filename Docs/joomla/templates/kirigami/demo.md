@@ -10,7 +10,7 @@ Introduction
 ![][kirigami2]
 Recreating features of the demo site used to show off some of the more interesting aspects of Kirigami can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
-Below, we'll break down some of these elements and give you the information you need to know to recreate them on your own site using the Kirigami Template.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Kirigami Template.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We've added most of these elements into the Template's core files in order to make them easily accessible without having to edit any code.
 
@@ -65,7 +65,7 @@ All of these extensions are included with the Kirigami RocketLauncher, and can b
 
 Recreating the Front Page
 =====
-The front page of the Kirigami demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we'll break down the settings you'll need to recreate elements present in the front page of the Kirigami template.
+The front page of the Kirigami demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you'll need to recreate elements present in the front page of the Kirigami template.
 
 Template Settings
 -----

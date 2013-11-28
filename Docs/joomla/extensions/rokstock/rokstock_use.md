@@ -9,7 +9,7 @@ User Controls
 -----
 ![][rokstock]
 
-Users have the ability to add their own stocks to the module from the frontend without having to have administrative access. You can define what, exactly, users can and can't do with the module in cases where you want to display only what you have pre-selected to appear on RokStock.
+Users have the ability to add their own stocks to the module from the frontend without having to have administrative access. You can define what, exactly, users can and can not do with the module in cases where you want to display only what you have pre-selected to appear on RokStock.
 
 Users can add new stocks, remove the default ones (configured by you on the backend), and refresh the module to pull the most current information available.
 
@@ -40,7 +40,7 @@ Administrator Options
 
 4. **Status** option allows you to determine the current publishing status of the module. An unpublished module will still appear on the backend for administrators, but will not appear on the live site.
 
-5. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors don't see it.
+5. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors do not see it.
 
 6. **Ordering** gives you the ability to set the ordering for the module. 
 

@@ -10,11 +10,11 @@ Managing Menu Items
 
 Joomla comes installed with the main menu created for you. This is the primary menu for your site, though you do have the ability to create as many new menus as you need, and not all of them have to appear anywhere on your site. Some menus can be hidden, and do little more than allow for your content to be displayed differently when linked outside of a menu module.
 
-Menus don't just link to different pages and URLs to your site. They are a determining factor in how contents and page styles are set. Each menu item has an alias that is used to create URLs which are understandable by humans and search engine friendly (SEF).
+Menus do not just link to different pages and URLs to your site. They are a determining factor in how contents and page styles are set. Each menu item has an alias that is used to create URLs which are understandable by humans and search engine friendly (SEF).
 
 You can also nest menu items within menus to create submenus. In order to display a menu on a page, a menu module needs to be created. 
 
-In this documentation, we'll explore what menus are and how to configure your own.
+In this documentation, we will explore what menus are and how to configure your own.
 
 How to Create a Menu
 ---------
@@ -42,7 +42,7 @@ The **Menu Type** field (point 3) sets the system name for the menu.
 
 The **Description** field (point 4) is where you describe what your menu does. It can be a useful personal reminder or indicator during collaborative site builds.
 
-Once you're done filling out at least the Title and Menu Type, click either **Save** (point 1) or **Save and Close** to create your new menu. You can also choose (Save + New) if you wish to create more than one menu.
+Once you are done filling out at least the Title and Menu Type, click either **Save** (point 1) or **Save and Close** to create your new menu. You can also choose (Save + New) if you wish to create more than one menu.
 
 ![][new_menu_3]
 
@@ -113,7 +113,7 @@ The **Menu Location** options (point 6) set which menu this link is appearing wi
 
 **Parent Item** (point 7) is useful when you wish to set a particular menu item in a submenu to another item. For example, a more specific topic within a larger topic.
 
-The **Ordering** field (point 8) gives you the ability to set a menu item which the item you're editing will appear after in the menu. If you want the menu item to appear after the Home link, this would be set to *Home*.
+The **Ordering** field (point 8) gives you the ability to set a menu item which the item you are editing will appear after in the menu. If you want the menu item to appear after the Home link, this would be set to *Home*.
 
 **Access** (point 9) allows you to determine which user group will be able to see this link in the menu.
 
@@ -133,7 +133,7 @@ The **Module Assignments for Menu Item** assist you in configuring which modules
 
 Creating Menu Modules
 ---------
-Creating a menu module allows you to add any menu to your site in just about any position you'd like to have it. This is a great way to add some extra functionality beyond the primary menu that usually comes pre-configured at the top of your template. Sometimes, you just want to have a menu leading directly to specific articles, forms, or pages that you may not want to appear on every page the main menu does, or for every visitor.
+Creating a menu module allows you to add any menu to your site in just about any position you would like to have it. This is a great way to add some extra functionality beyond the primary menu that usually comes pre-configured at the top of your template. Sometimes, you just want to have a menu leading directly to specific articles, forms, or pages that you may not want to appear on every page the main menu does, or for every visitor.
 
 ![][menu_module_1]
 
@@ -145,7 +145,7 @@ The first step to creating a menu module (beyond creating the menu) is to naviga
 
 :   1. **New** This button will initiate the creation of a module. [20%, 5%]
 
-Next, you'll need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you're building a box for a menu. Just hit the big green **New** button (point 1) to get started.
+Next, you'll need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you are building a box for a menu. Just hit the big green **New** button (point 1) to get started.
 
 ![][menu_module_3]
 
@@ -153,7 +153,7 @@ Next, you'll need to create a new module for your menu. Think of the module as a
 
 Creating a new menu module requires that you select either Menu (point 1) or an alternative menu extension (like [RokNavMenu][RokNavMenu]). 
 
-So far in this process, we've created a box and told Joomla what type of material will appear in the box. In the next page, we'll tell Joomla which menu we'd like the box to display.
+So far in this process, we've created a box and told Joomla what type of material will appear in the box. In the next page, we will tell Joomla which menu we'd like the box to display.
 
 ![][menu_module_4]
 

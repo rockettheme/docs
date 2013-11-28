@@ -35,7 +35,7 @@ The link field also provides an image picker. On the right side of the input fie
 DOM Element
 -----------
 The DOM Element field takes a CSS-Style syntax value that needs to be targeting an Element in the page. Whenever you start filling this field, the [Link][link] will get disabled and auto-populated with an hash `#`.
-This is because a DOM Element type link is not a true link and doesn't point to any actual link.
+This is because a DOM Element type link is not a true link and does not point to any actual link.
 
 More details on how DOM Element works and how to use it can be [found here][data-rokbox-element].
 
