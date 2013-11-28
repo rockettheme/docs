@@ -12,7 +12,7 @@ breadcrumb: /!WordPress:WordPress/
 	  Find out why WordPress is one of the most popular open source CMSs.
 
 	- [How to Install WordPress 3.x](start/install_wordpress_3x.md)
-	  Find out about the benefits and capabilities of joining the RocketTheme WordPress Club
+	  A helpful guide to installing WordPress 3.x for the first time.
 
 	- [WordPress Hosting Guide](start/hosting.md)
 	  Helpful tips and tricks to get you started with the right hosting provider.

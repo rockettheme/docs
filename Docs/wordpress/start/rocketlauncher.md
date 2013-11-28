@@ -15,9 +15,8 @@ Requirements
 
 RocketLauncher comes complete with its own copy of WordPress and required plugins. You will need to provide the database and hosting support this installation will run on. Here is a list of our recommended requirements for any updated RocketLauncher package.
 
-* Apache 2.x or Microsoft IIS 7
-* PHP 5.3.x
-* MySQL 5.0.4 or higher
+* PHP version 5.2.4 or greater
+* MySQL version 5.0 or greater
 
 Not all packages are the same, so we recommend checking with the theme's primary documentation to make sure your setup matches its recommended requirements.
 
@@ -33,7 +32,7 @@ Once you've downloaded this ZIP file, unpack it so you have a folder containing 
 ### Create a Database
 RocketLauncher for WordPress runs best on a MySQL database. You can create a database by going through your Web host. Some hosts have different processes for adding a database to your account than others, so you're best off checking with its specific processes to ensure that your MySQL database is up and ready to go.
 
-it is important that you write down the administrative username, password, and the database's address in relation to your site. In most cases, this will be `localhost`, though it may be a specific IP address if the database is hosted separately from your site.
+It is important that you write down the administrative username, password, and the database's address in relation to your site. In most cases, this will be `localhost`, though it may be a specific IP address if the database is hosted separately from your site.
 
 ### Launch the Installer
 ![][rocketlauncher1]
@@ -79,7 +78,7 @@ If a successful connection to the database has been made, a confirmation page wi
 
 5. **Privacy**: You can decide whether or not you wish to have your site indexed by the major search engines. This decision can be changed later.
 
-In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need but to select **Install WordPress** to complete installation and log in for the first time.
+In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
 
 ![][rocketlauncher6]
 

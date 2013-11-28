@@ -85,7 +85,7 @@ Step 5: Initial Configuration
 
 5. **Privacy**: You can decide whether or not you wish to have your site indexed by the major search engines. This decision can be changed later.
 
-In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need but to select **Install WordPress** to complete installation and log in for the first time.
+In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
 
 ![][install6]
 

@@ -5,10 +5,10 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 
-How do inject a RokSprocket Widget into a post?
+How do you inject a RokSprocket Widget into a post?
 -----
 
-Injecting a RokSprocket widget into a post is a fairy easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in RokSprocket Admin.
+Injecting a RokSprocket widget into a post is a fairly easy thing to do. In fact, RokSprocket provides you with a shortcode to do this in RokSprocket Admin.
 
 ![][module_1]
 
@@ -18,7 +18,7 @@ You can click the little clipboard located to the right of the shortcode to have
 
 ![][module_2]
 
-You can do this with the HTML editor, or with a WYSIWYG editor, though be aware that some WYSIWYG editors either misinterpret or strip uncommon characters, rendering the shortcode unusable. You should have no problems with the shortcode when using HTML mode on most post editors.
+You can do this with the Text editor, or with a Visual editor, though be aware that some WYSIWYG editors either misinterpret or strip uncommon characters, rendering the shortcode unusable. You should have no problems with the shortcode when using Text mode on most post editors.
 
 [module_1]: assets/widget_injection_1.jpeg
 [module_2]: assets/widget_injection_2.jpeg

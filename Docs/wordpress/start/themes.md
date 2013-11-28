@@ -49,7 +49,7 @@ There are other files that you may wish to download that accompany the release, 
 
 #### Installing Using FTP
 
-* Extract **rt_themename_wp**.
+* Extract **rt_themename_wp.zip**.
 * Load your FTP client, such as [FileZilla][filezilla].
 * Upload the **rt_themename_wp** folder to the **/wp-content/themes** directory.
 * Log in into the WordPress administrator dashboard (*http://www.yoursite.com/wp-admin/*).
