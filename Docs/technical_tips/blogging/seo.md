@@ -8,14 +8,15 @@ breadcrumb: /technical_tips:Technical Tips/!blogging:Blogging
 What is SEO?
 -----
 
-SEO stands for Search Engine Customization, and constitutes virtually anything and everything having to do with making your site easier to find on search engines. This is done with the purpose in mind of increasing the volume and/or quality of traffic to the site.
+SEO stands for Search Engine Optimization, and constitutes virtually anything and everything having to do with making your site easier to find on search engines. This is done with the purpose in mind of increasing the volume and/or quality of traffic to the site.
 
 Google, which currently holds market dominance in the world of Web search, frequently changes its algorithms to make its results more attuned to the needs of the user. Over the past several years, its search service has evolved to include social integration and email content analysis. If you are an Android or Google mobile application user, your habits and exact location can be used to better predict what exactly what you might be searching for. If you search "breakfast taco" on your phone from the corner of First and Main Street, your results might be different than they would be if you searched from the corner of Second and Elm. Why? Because, Google has a very advanced system in place to match each individual user to the right results.
 
 The practice of SEO attempts to position your site and its content in a way that gives it the best chance possible to appear on the front page of search results for the right audience and with the right keywords.
 
-A comprehensive SEO strategy includes a wide range of considerations including * Keyword Placement in Titles
+A comprehensive SEO strategy includes a wide range of considerations including:
 
+* Keyword Placement in Titles
 * Keyword Placement in Content
 * Article Length
 * Tags
@@ -34,7 +35,7 @@ Joomla, WordPress, and most other popular CMSs out there allow you to toggle an 
 
 It also does not hurt if every article search engines crawl on your site furthers your brand's authority with a given topic. While no one outside of these organizations really knows exactly what the authority algorithms look for, this step could not hurt. Each instance of your site's title or brand sitting alongside articles and pages about a topic you wish to gain ranking in is a good thing.
 
-Often, sites depend on their logo to establish a brand. Unfortunately, there are not any search engines today that link brands to content via an image, even if that image has a file name that correlates with the brand. Mention in the content body is good, but the title is better.
+Often, sites depend on their logo to establish a brand. Unfortunately, there are not any search engines today that link brands to content via an image, even if that image has a file name that correlates with the brand. Mention of your brand in the content body is good, but the title is better.
 
 ### Set SEO Settings in Global Configuration with Joomla
 For Joomla users, setting these SEO options is a fairly simple and straightforward process. Just navigate to **Administrator -> Global Configuration** and look for the options listed below.
@@ -84,6 +85,6 @@ These phrases should be separated by at least 50-100 words, but they will make a
 
 There is a debate going on between SEO analysts concerning the recommended length of an article. Search engines tend to rank sites and content based on authority, and it is hard to believe they would treat a 100-word article the same way they would one with over 1,000 words.
 
-In general, the first 300 words are believed to be what Google and Bing capture and store as part of the page's description in the absence of a defined one. It is this description potential visitors see in search results, and part of what search engines base the page's ranking on. These first 300 words should include keywords, a description of the content to follow, and a hook that capture's the reader's attention and makes them want to read more.
+In general, the first 300 words are believed to be what Google and Bing capture and store as part of the page's description in the absence of a defined one. It is this description potential visitors see in search results, and part of what search engines base the page's ranking on. These first 300 words should include keywords, a description of the content to follow, and a hook that captures the reader's attention and makes them want to read more.
 
 An article that is artificially pumped full of words can come across as cumbersome and dull. It is more important to have good content than to inflate your word count artificially. Consider article length as a goal and not a rule of thumb.

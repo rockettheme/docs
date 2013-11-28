@@ -34,41 +34,41 @@ You can place RokMicroNews into any widget area in your site by navigating to **
     17. **Thumbnail Generator** You can use this option to switch between any installed thumbnail generators. Your site may have only one installed, though others can be added. [82%, 12%, ne]
     18. **Thumbnail Size** This option determines the size of the associated thumbnail. [88%, 12%, ne]
 
-1. **Title**: This field adds the widget title. If the field is left blank, no title will appear. [12%, 28%]
+1. **Title**: This field adds the widget title. If the field is left blank, no title will appear.
 
-2. **Use Custom CSS**: If you select yes, the widget will not load its own CSS. You can create your own for use with RokMicroNews. [16%, 28%]
+2. **Use Custom CSS**: If you select yes, the widget will not load its own CSS. You can create your own for use with RokMicroNews.
 
-3. **Content Category**: Choose the category of posts to display. [20%, 28%]
+3. **Content Category**: Choose the category of posts to display.
 
-4. **Ordering**: Select the sorting order for displayed posts. [25%, 28%]
+4. **Ordering**: Select the sorting order for displayed posts.
 
-5. **Content Type**: You can choose to display the post's content, or data in the excerpt field. [30%, 28%]
+5. **Content Type**: You can choose to display the post's content, or data in the excerpt field.
 
-6. **Number of Posts**: This field determines the number of posts to display from the category. [36%, 28%]
+6. **Number of Posts**: This field determines the number of posts to display from the category.
 
-7. **Preview Length**: This sets the character length of the preview prior to the "Read More" link. [41%, 28%]
+7. **Preview Length**: This sets the character length of the preview prior to the "Read More" link.
 
-8. **Navigation Interaction**: You can choose to have the widget navigable by mouseover or click. [46%, 28%]
+8. **Navigation Interaction**: You can choose to have the widget navigable by mouseover or click.
 
-9. **First Load Status**: This setting determines if RokMicroNews is expanded or collapsed when the page first loads. [51%, 28%]
+9. **First Load Status**: This setting determines if RokMicroNews is expanded or collapsed when the page first loads.
 
-10. **Navigation Position**: You can choose between a right or left position for the navigation area of the widget. [57%, 28%]
+10. **Navigation Position**: You can choose between a right or left position for the navigation area of the widget.
 
-11. **Show Post Title**: This setting allows you to hide or display the title of displayed posts. [61%, 28%]
+11. **Show Post Title**: This setting allows you to hide or display the title of displayed posts.
 
-12. **Show "Read More"**: You can opt to have the "Read More" button appear or remain hidden. [64%, 28%]
+12. **Show "Read More"**: You can opt to have the "Read More" button appear or remain hidden.
 
-13. **"Read More" Label**: This field determines the text that will appear as the "Read More" label. [68%, 28%]
+13. **"Read More" Label**: This field determines the text that will appear as the "Read More" label.
 
-14. **Show Controls**: You can choose to have visitor controls appear, allowing users to expand or collapse the widget, as well as rearrange RokMicroNews widgets to meet user preferences. [71%, 28%]
+14. **Show Controls**: You can choose to have visitor controls appear, allowing users to expand or collapse the widget, as well as rearrange RokMicroNews widgets to meet user preferences.
 
-15. **Show Thumbnail**: This option allows you to hide the thumbnail image for associated posts. [74%, 28%]
+15. **Show Thumbnail**: This option allows you to hide the thumbnail image for associated posts.
 
-16. **Catch First Image**: If no thumbnail is set, you can choose this option to have the widget display a thumbnail-size copy of the first image that appears in the post. [77%, 28%]
+16. **Catch First Image**: If no thumbnail is set, you can choose this option to have the widget display a thumbnail-size copy of the first image that appears in the post.
 
-17. **Thumbnail Generator**: You can use this option to switch between any installed thumbnail generators. Your site may have only one installed, though others can be added. [82%, 28%]
+17. **Thumbnail Generator**: You can use this option to switch between any installed thumbnail generators. Your site may have only one installed, though others can be added.
 
-18. **Thumbnail Size** This option determines the size of the associated thumbnail. [88%, 28%]
+18. **Thumbnail Size** This option determines the size of the associated thumbnail.
 
 ![][widget3]
 

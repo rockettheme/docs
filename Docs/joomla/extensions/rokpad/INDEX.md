@@ -6,7 +6,8 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokpad:RokPad
 ---
 
 Introduction
-============
+-----
+
 ![][rokpad]
 
 Ever wished you could use a powerful desktop text editor such as Textmate, SublimeText, or UltraEdit directly on a Joomla! web site? Now with RokPad we provide many features and capabilities that traditionally would only be found in a powerful desktop editor. RokPad provides advanced functions such as an Ajax saving action, syntax highlighting, configurable themes, multiple cursors and selections, shortcut keys, multiple language support, and many other incredible features.
@@ -17,6 +18,7 @@ RokPad was created to meet the demands of the Team, a tool unrestricted by the l
 
 Requirements
 ------------
+
 RokPad has the following requirements in order to operate:
 
 * Joomla 2.5 or Joomla 3.x - ensure you are using the latest version
@@ -26,6 +28,7 @@ RokPad has the following requirements in order to operate:
 
 Key Features
 ------------
+
 * Code Highlighter built on the great ACE Editor
 * Support for CSS, HTML, JavaScript, JSON, LESS, Markdown, PHP, SQL, Plain Text, Textile, XML and more...
 * Ajax save and Automatic Save options. You'll never loose your content again, nor wait until the page has finished reloading after a save!
@@ -47,6 +50,7 @@ Key Features
 
 How to install
 --------------
+
 Installing RokPad takes just a matter of few minutes.
 
 The first thing you'll need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
@@ -68,7 +72,7 @@ If everything worked properly, you will get a notification indicating as much. Y
 
 ### Set RokPad as your default Editor
 ![][default]
-Go to **Site -> Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
+Go to **System -> Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
 
 [featured]: assets/rokpad-layout.jpeg
 [download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad

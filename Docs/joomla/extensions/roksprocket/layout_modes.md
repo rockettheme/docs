@@ -38,6 +38,7 @@ Alternatively, RokSprocket supports the following content providers:
 
 * [K2][K2]
 * [ZOO][zoo]
+* Simple
 * [ContentBuilder][contentbuilder]
 * [EasyBlog][easyblog]
 * [Seblod][seblod]

@@ -42,12 +42,15 @@ When you are working with a template that has many different built-in features, 
 This is where RokBooster comes in. It combines and compresses CSS and JavaScript into as few files as possible. This is done using GZip compression, which is used to send CSS and JavaScript files. 
 
 #### CSS
+
 With RokBooster, all of these separate CSS files are combined into as few files as possible. This reduces the number of requests, and optimizes page loading. If you are using a template with several different header, body, footer, background, etc. options to choose from, there is no sense in having to load CSS calls to components and options you are not actively using at the time.
 
 #### JavaScript
+
 The same goes for JavaScript files. Sites that feature a lot of functionality are often heavily reliant on scripts and other miscellaneous blocks of code to create a smooth and useful user experience. Unfortunately, this results in an increase in individual requests to the site, increasing the size and frequency of data that has to be transferred with each page view. RokBooster compresses and combines these files in order to streamline the process. The visitor can experience faster load times due, in part, to the browser having to download and render less individual blocks of data.
 
 #### Images
+
 Images are another area that RokBooster comes in handy. It is capable of converting inline and background images below a certain file size into data so they are loaded faster and smoother. This data is placed directly into the HTML, replacing the call to an external file.
 
 ### A Note About RokBooster as a Solution
