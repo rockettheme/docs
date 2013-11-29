@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokgallery:RokGallery
 
 Image Editing in RokGallery
 -----
-RokGallery isn't a full-fledged image editing solution, but it can be used to crop and resize images so that they fit within your site's layout. Because RokGallery preserves the original image, these edits are saved separately and referred to as slices. A single image in RokGallery can have as many slices as you need to fit various RokGallery widgets placed in your site. These slices can be created by the RokGallery Image Editor and further refined using the Slice Editor.
+RokGallery is not a full-fledged image editing solution, but it can be used to crop and resize images so that they fit within your site's layout. Because RokGallery preserves the original image, these edits are saved separately and referred to as slices. A single image in RokGallery can have as many slices as you need to fit various RokGallery widgets placed in your site. These slices can be created by the RokGallery Image Editor and further refined using the Slice Editor.
 
 ### RokGallery Image Editor
 
@@ -51,7 +51,7 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
     3. **Zoom Controls** These controls allow you to zoom in, zoom out, and view the image in the original size. [39%, 13%]
     4. **Marquee** This control gives you the current position of the selection area, as well as the ability to set a specific location. [39%, 29%]
     5. **Width and Height** This option allows you to set a specific width and height for the selection area. This option is disabled on administrative slices. Once applied, the selected area is cropped to become the new or edited slice. [39%, 40%]
-    6. **Size** The size settings allows you to do a simple resize of the image. You can adjust these settings even when there is a lock icon over the numbers, but changes will only be completed upon hitting the **Apply** button. This isn't an option on administrative slices. [39%, 52%]
+    6. **Size** The size settings allows you to do a simple resize of the image. You can adjust these settings even when there is a lock icon over the numbers, but changes will only be completed upon hitting the **Apply** button. This is not an option on administrative slices. [39%, 52%]
     7. **Revert and Apply** These buttons allow you to revert all settings to the original image, or apply any changes made. You still need to hit **Save** **(10)** before closing the slice to save all changes, though. [39%, 61%]
     8. **Title, Slug, Link, Caption, and Tags** These options allow you to change the title, slug, link (where clicking the image takes the visitor), caption, and the slice's tags independent of the defaults set in the Image Editor. [8%, 23%]
     9. **Thumbnail** This option sets the thumbnail size for the slice as it would appear in any gallery displays that require a thumbnail. Additionally, these settings are used on the administrative end to display the slice in the Image Editor. [8%, 65%]
@@ -67,7 +67,7 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
 
 5. **Width and Height**: This option allows you to set a specific width and height for the selection area. This option is disabled on administrative slices. Once applied, the selected area is cropped to become the new or edited slice.
 
-6. **Size**: The size settings allows you to do a simple resize of the image. You can adjust these settings even when there is a lock icon over the numbers, but changes will only be completed upon hitting the **Apply** button. This isn't an option on administrative slices.
+6. **Size**: The size settings allows you to do a simple resize of the image. You can adjust these settings even when there is a lock icon over the numbers, but changes will only be completed upon hitting the **Apply** button. This is not an option on administrative slices.
 
 7. **Revert and Apply**: These buttons allow you to revert all settings to the original image, or apply any changes made. You still need to hit **Save** **(10)** before closing the slice to save all changes, though.
 

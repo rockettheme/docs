@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!platform:Platform/!templates.md:How Joomla Templates
 What is a Joomla Template?
 -----
 
-Joomla templates are basically the shell of your site. They are comprised of a series of files that determine the look and feel of a site once your content and modules have been put into place. A template determines things like fonts, colors, menu styles, navigation controls, basic layout design, and certain images such as the header and background (in some cases). A template isn't an entire website in and of itself at all. It is more accurately described as a base on which your site's appearance and layout are formed.
+Joomla templates are basically the shell of your site. They are comprised of a series of files that determine the look and feel of a site once your content and modules have been put into place. A template determines things like fonts, colors, menu styles, navigation controls, basic layout design, and certain images such as the header and background (in some cases). A template is not an entire website in and of itself at all. It is more accurately described as a base on which your site's appearance and layout are formed.
 
 Templates offer you the ability to completely separate a site's content from its design. This enables you to quickly switch between templates with only a small amount of necessary changes in the backend versus having to completely rebuild the site from the ground up. A CMS, like Joomla, gives you this ability.
 

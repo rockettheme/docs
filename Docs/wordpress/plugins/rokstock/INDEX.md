@@ -20,7 +20,7 @@ Requirements
 RokStock has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure you have the latest version.
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 

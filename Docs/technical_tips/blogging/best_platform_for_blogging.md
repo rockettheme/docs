@@ -42,7 +42,7 @@ What makes Joomla appealing to bloggers is its modular construction. You can add
 
 ### Squarespace
 
-[Squarespace][square] is a relatively new face in the world of content delivery. While it isn't an open and freely distributed platform, it does have quite a lot going for it that bloggers might find appealing.
+[Squarespace][square] is a relatively new face in the world of content delivery. While it is not an open and freely distributed platform, it does have quite a lot going for it that bloggers might find appealing.
 
 For one, the CMS and hosting is all bundled together. You can not host a Squarespace site on your own server, so you will need to pay a monthly fee for that privilege. As a positive, you gain the simplicity and reliability of having a platform that is built from the ground up to work properly, regardless of shifts in load or demand.
 

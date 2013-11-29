@@ -22,7 +22,7 @@ Here are the current hosting requirements for WordPress:
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
-WordPress recommends a server powered by Apache or Nginx for their feature set and security, but this isn't a requirement. Any server capable of running these versions of PHP and MySQL is a likely candidate for WordPress.
+WordPress recommends a server powered by Apache or Nginx for their feature set and security, but this is not a requirement. Any server capable of running these versions of PHP and MySQL is a likely candidate for WordPress.
 
 You will need to have a MySQL database set up prior to installation. You can do this through your host's recommended method. Just make sure you have the location (typically **localhost**), username, and password for the database ready as you will need to use it during installation.
 

@@ -11,7 +11,7 @@ Your portfolio site should be the largest single representation of what it is yo
 
 Perhaps the most important step to building a professional personal portfolio is to make sure the site reflects your personality and unique style without distracting from what it is you want visitors to see. If you prefer to position your personal branding in a way that targets potential employers that share your mindset for self-expression, then you should inject your style in every component of your site from stem to stern.
 
-Many professionals work in fields where individual style isn't as appreciated as professional appeal. These portfolios are best designed with clean, intuitive interfaces. You should always target your site's design to the type of person you want to work for. Your site will speak volumes about you in the first five seconds. Make those seconds paint you in the best light possible.
+Many professionals work in fields where individual style is not as appreciated as professional appeal. These portfolios are best designed with clean, intuitive interfaces. You should always target your site's design to the type of person you want to work for. Your site will speak volumes about you in the first five seconds. Make those seconds paint you in the best light possible.
 
 The Importance of Proper Grammar and Spelling
 -----

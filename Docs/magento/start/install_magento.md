@@ -70,7 +70,7 @@ Magento does offer a paid version of its primary e-commerce software targeted to
 Step 2: Set Up the Database
 -----
 
-As mentioned before, Magento presently only runs on MySQL databases. There is a dropdown in the installation process that would indicate additional database types are supported, though this isn't presently the case.
+As mentioned before, Magento presently only runs on MySQL databases. There is a dropdown in the installation process that would indicate additional database types are supported, though this is not presently the case.
 
 Make sure you set up a username and password for Magento that has write permissions to the database. You can find out more about this process via your hosting provider's support and/or documentation.
 

@@ -23,7 +23,7 @@ Gantry BuddyPress has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure you have the latest version.
 * BuddyPress 1.6
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> Please note that you need to have activated Gantry Framework plugin and a Gantry-powered theme in order to get this plugin working.
 

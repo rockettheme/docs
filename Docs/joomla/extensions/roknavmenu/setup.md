@@ -9,7 +9,7 @@ tags: [roknavmenu, setup, splitmenu, dropdown]
 Introduction
 -----
 
-There isn't a whole lot that needs to be done out of the box to set RokNavMenu up on a RocketTheme template. A lot of what RokNavMenu adds to Joomla is done on the backend by taking the standard Joomla menus and adding additional features and details you can customize to meet your specific needs.
+There is not a whole lot that needs to be done out of the box to set RokNavMenu up on a RocketTheme template. A lot of what RokNavMenu adds to Joomla is done on the backend by taking the standard Joomla menus and adding additional features and details you can customize to meet your specific needs.
 
 In this tutorial, we will take a look at some of the options available to you through RokNavMenu, as well as some of the most important options you should be aware of when setting up a new site.
 

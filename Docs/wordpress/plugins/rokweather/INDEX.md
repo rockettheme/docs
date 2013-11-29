@@ -17,7 +17,7 @@ Requirements
 RokWeather has the following requirements in order to operate:
 
 * WordPress 1.5, 2.5, or WordPress 3.x - ensure you are using the latest version
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 

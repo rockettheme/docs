@@ -34,7 +34,7 @@ Requirements
 RokBox2 has the following requirements in order to operate:
 
 * WordPress 3.2 or above - ensure you are using the latest version
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 

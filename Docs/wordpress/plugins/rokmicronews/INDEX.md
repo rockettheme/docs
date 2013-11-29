@@ -11,22 +11,24 @@ RokMicroNews is a new widget perfect for displaying your content. Your content a
 
 ![][feature]
 
-it is just another way to display your content in a way that encourages users to click through and see more content in your site.
+It is just another way to display your content in a way that encourages users to click through and see more content in your site.
 
-What sets RokMicroNews apart from many the other content delivery plugins is its ability to stack and interact with other instances. If you have just one RokMicroNews widget in a widget area, it will maintain its own settings and features. When two are present, users can rearrange them at will on the frontend by clicking and dragging them. 
+What sets RokMicroNews apart from many of the other content delivery plugins is its ability to stack and interact with other instances. If you have just one RokMicroNews widget in a widget area, it will maintain its own settings and features. When two are present, users can rearrange them at will on the frontend by clicking and dragging them. 
 
-RokMicroNews isn't intended to be just one little widget somewhere on the page, but a full-on content delivery experience for your users.
+RokMicroNews is not intended to be just one little widget somewhere on the page, but a full-on content delivery experience for your users.
 
 Features
 -----
 
 
+
 Requirements
 -----
-RokStock has the following requirements in order to operate:
+
+RokMicroNews has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure you have the latest version.
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 

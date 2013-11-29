@@ -21,7 +21,7 @@ Adding Images to Articles
 
 The little **image icon** (point 1) in the text editor is included and supported by the editor itself. Some editors (like TinyMCE pictured above) have very basic image insertion tools. Generally, this tool is used to modify an image that has already been inserted into an article by way of the Image button located below the main text field. 
 
->> [RokPad][rokpad] is another alternative worth mentioning here. It isn't a WYSIWYG editor, but it does offer more for users and developers that want a little more control over what appears in an article from a text editor that makes scripting easier.
+>> [RokPad][rokpad] is another alternative worth mentioning here. It is not a WYSIWYG editor, but it does offer more for users and developers that want a little more control over what appears in an article from a text editor that makes scripting easier.
 
 The **Image button** (point 2) located below the main text field is the primary method most users insert images into their article. It gives you immediate access to the media folder as well as an upload option. You can set the image alignment, title, description, and caption using this option.
 

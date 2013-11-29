@@ -56,7 +56,7 @@ Through useful extensions such as RokBridge for Joomla, this integration can be 
 
 Additionally, many of our most popular features originated in Joomla (such as RokBox) appear in our phpBB Styles. 
 
-RocketTheme has a large selection of phpBB Styles that keeps getting better. You can use them along side your existing site, or run it as a stand-alone phpBB installation.
+RocketTheme has a large selection of phpBB Styles that keeps getting better. You can use them alongside your existing site, or run it as a stand-alone phpBB installation.
 
 [gnu]: http://opensource.org/licenses/gpl-2.0.php
 [introduction]: assets/alerion.jpg

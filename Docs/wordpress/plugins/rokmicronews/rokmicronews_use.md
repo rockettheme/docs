@@ -72,12 +72,12 @@ You can place RokMicroNews into any widget area in your site by navigating to **
 
 ![][widget3]
 
-:   1. **Allowed HTML Tags** This field determines which HTML tags are allows in the content preview area. [23%, 28%]
+:   1. **Allowed HTML Tags** This field determines which HTML tags are allowed in the content preview area. [23%, 28%]
     2. **Extra Widget CSS Class** You can use this field to add custom CSS Class values to the widget. [39%, 28%]
     3. **GD2 Library Present** This is a check for the presence of a GD2 Library. [51%, 28%]
     4. **Cache Dir Writable** This check discovers whether or not your cache directory is writable. [62%, 28%]
 
-1. **Allowed HTML Tags**: This field determines which HTML tags are allows in the content preview area. 
+1. **Allowed HTML Tags**: This field determines which HTML tags are allowed in the content preview area. 
 
 2. **Extra Widget CSS Class**: You can use this field to add custom CSS Class values to the widget.
 

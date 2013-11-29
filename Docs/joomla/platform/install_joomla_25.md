@@ -99,7 +99,7 @@ At the bottom of this page (point 7), you will be asked if you wish to back up i
 
 ![][installation_j25_5]
 
-The next step involves FTP configuration. Do not panic, this isn't a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally do not require this step at all.
+The next step involves FTP configuration. Do not panic, this is not a vital step in most cases. It is only really useful in the event that your server's configuration either prevents or requires that you upload media or install extensions through this method. Servers installed on a Windows operating system and most Linux setups generally do not require this step at all.
 
 ![][installation_j25_6]
 
@@ -111,7 +111,7 @@ The **Main Configuration** page is where you name your site (point 1) and set up
 
 You will need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
-At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you will need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
+At the bottom of the next page, you have the option to load sample data to your site. This is not a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you will need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
 
 ![][installation_j25_7]
 

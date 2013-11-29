@@ -13,7 +13,7 @@ Introduction
 
 The **ProductView** module overrides the default product view, adding some configurable extras. It does away with the default Magento zoom, which is based on **Scriptaculous**, and replaces it with a **jQuery** version.
 
-The original zoom isn't very user friendly. You need to drag a zoom bar below the image, move up to the image, and click and hold to drag it around and pan. The new jQuery version needs just one click to be activated. Then, simply moving the mouse will pan the image. A second click returns to the full image view.
+The original zoom is not very user friendly. You need to drag a zoom bar below the image, move up to the image, and click and hold to drag it around and pan. The new jQuery version needs just one click to be activated. Then, simply moving the mouse will pan the image. A second click returns to the full image view.
 
 The thumbnails have also been improved upon. You can now simply click a thumbnail to have that image show as the main picture, with the images fading between one another.
 

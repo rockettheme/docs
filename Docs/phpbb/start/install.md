@@ -23,7 +23,7 @@ You can either keep the zip file compressed and upload it directly to your serve
 
 If your hosting provider does not allow you to uncompress zip files on the server, you can do so locally and move the contents of the resulting folder directly to the directory you want phpBB3 to run from.
 
->> NOTE: Make sure the permissions for **config.php** are set to writable by all (666 or -rw-rw-rw-). Additionally, the **store/**, **cache/**, **files/** and **images/avatars/upload/** directories should be set to writable by all (777 or -rwxrwxrwx). You can usually do this directly through your FTP client.
+>> NOTE: Make sure the permissions for **config.php** are set to writable by all (666 or -rw-rw-rw-). Additionally, the **store/**, **cache/**, **files/** and **images/avatars/upload/** directories should be set to writable and executable by all (777 or -rwxrwxrwx). You can usually do this directly through your FTP client.
 
 As an example, if you want your forums to launch from *http://(your domain name).com/forum/* you will place the uncompressed directory in the **forum** folder found in your site's main HTML directory.
 
@@ -98,7 +98,7 @@ The **Database Configuration** page establishes a connection to the database on 
 
 ![][install5]
 
-Once you have filled out the required information, click **Proceed to the next step** to initiate a connection to the database. If successful, a message similar to the one pictured below above appear.
+Once you have filled out the required information, click **Proceed to the next step** to initiate a connection to the database. If successful, a message similar to the one pictured above should appear.
 
 ### Step 5: Administrator Configuration
 

@@ -26,15 +26,15 @@ The requirements for RokNavMenu are as follows:
 How to Install
 -----
 
-Installation of RokNavMenu Exporter involves making preparations on both Joomla and phpBB3. At the base level, RokNavMenu Exporter is a Joomla extension, but you will need to make sure both Joomla and phpBB3 are set up properly in order for the exported menu to properly appear.
+Installation of RokNavMenu Exporter involves making preparations on both Joomla and phpBB3. At the base level, RokNavMenu Exporter is a Joomla extension, but you will need to make sure both Joomla and phpBB3 are set up properly in order for the exported menu to appear as intended.
 
-Before installing, you should already have RokNavMenu set up on your existing Joomla site. Otherwise, there wouldn't be much for RokNavMenu Exporter to actually export. 
+Before installing, you should already have RokNavMenu set up on your existing Joomla site. Otherwise, there would not be much for RokNavMenu Exporter to actually export. 
 
 >> NOTE: The instructions detailed below apply to Joomla 2.5 / 3.x. RokNavMenu Exporter for Joomla 1.5 remains available, but is no longer officially supported.
 
 ### Step 1: Install RokNavMenu Exporter on Joomla
 
-You can download RokNavMenu Exporter for Joomla 2.5 / 3.0 from the [Administration Modules downloads page][download] on our official website.
+You can download RokNavMenu Exporter for Joomla 2.5 / 3.x from the [Administration Modules downloads page][download] on our official website.
 
 To install the RokNavMenu Exporter, you will need to first log in to your Joomla site's Administrator and navigate to the **Extension Manager** by going to **Administrator -> Extensions -> Extension Manager** and selecting the **Install** tab. From here, you can choose the RokNavMenu Exporter zip file from your local directory and select **Upload and Install**. Once this is done, RokNavMenu Exporter should be installed to Joomla.
 
@@ -42,12 +42,12 @@ To install the RokNavMenu Exporter, you will need to first log in to your Joomla
 
 ![][nav6]
 
-Once it is installed, you will need to activate it by navigating to **Admin -> Extensions -> plugin Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
+Once it is installed, you will need to activate it by navigating to **Admin -> Extensions -> Plugin Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
 
 Joomla Setup
 -----
 
-Setting up RokNavMenu Exporter is fairly easy. There are a number of options in its configuration menu which need to be set in order for your menu to properly appear on your phpBB site. The following is a breakdown of settings you should set in the **Basic Options** tab after clicking on **System - RokNavMenu Export** in the **plugin Manager**.
+Setting up RokNavMenu Exporter is fairly easy. There are a number of options in its configuration menu which need to be set in order for your menu to properly appear on your phpBB site. The following is a breakdown of settings you should set in the **Basic Options** tab after clicking on **System - RokNavMenu Export** in the **Plugin Manager**.
 
 ![][nav4]
 

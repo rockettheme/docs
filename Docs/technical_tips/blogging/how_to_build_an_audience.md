@@ -37,7 +37,7 @@ To be honest, nothing really makes your site unique beyond your individual perso
 
 Take the time to make the effort to interact with your audience. When someone comments on a video on YouTube, or posts their opinion of your site on your Facebook wall, it does not take any more than a few seconds to thank them or respond to their concerns. 
 
-Remember, these people took the time out of their day to not only visit your site or page, but they went as far as to comment and share their opinion. That makes them worth caring about, even if their opinion isn't particularly positive. Imagine how much harder it would be to post negative responses in the face of an acknowledgment and resolution of their issue? 
+Remember, these people took the time out of their day to not only visit your site or page, but they went as far as to comment and share their opinion. That makes them worth caring about, even if their opinion is not particularly positive. Imagine how much harder it would be to post negative responses in the face of an acknowledgment and resolution of their issue? 
 
 Even if your site does not sell anything, your words are a product and visitors are paying for them by enduring your advertisement or alternative monetization method. Your site might not actually cost them money to view, but that does not mean they are not consuming your product. Your reader is your customer, and any positive or negative feedback on any platform (comments section on the page, Facebook, etc.) should be treated as a customer service opportunity.
 

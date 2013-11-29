@@ -85,7 +85,7 @@ Your **Username** and **Password** (point 3) need to be entered next. This infor
 
 The **Table Prefix** (point 5) is used to differentiate your Joomla data from other data stored in the database. One will be randomly generated in this space, though you can change it to whatever you would like.
 
-If you are using a pre-created database, you will want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really isn't going to help or hinder you moving forward. Click the *Next* button to continue.
+If you are using a pre-created database, you will want to pay close attention to the **backup** option (point 6). This will allow you to either back up any data presently stored there in the event that something goes wrong with your installation. If you have an existing Joomla install on the database, it will be removed by this process. If it is a fresh install with a new database, this option really is not going to help or hinder you moving forward. Click the *Next* button to continue.
 
 ![][installation_joomla3x_5]
 

@@ -20,7 +20,7 @@ Requirements
 RokGallery has the following requirements in order to operate:
 
 * WordPress 3.x - Ensure that you are using the latest version.
-* Compatible Browser: Firefox, Chrome, Safari, IE8+, Opera.
+* Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 * PHP support for the SQLite PDO driver
 * PHP support for the MySQL PDO driver
 * MySQL with InnoDB support
