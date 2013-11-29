@@ -9,7 +9,7 @@ breadcrumb: /magento:Magento/!start:Start/
 Introduction
 -----
 
-Magento's installation process is not unlike many other popular CMS platforms. You'll need to create a database, choose your Magento package (RocketLauncher or default), and make sure you have all the permissions set correctly to avoid complications down the road.
+Magento's installation process is not unlike many other popular CMS platforms. You will need to create a database, choose your Magento package (RocketLauncher or default), and make sure you have all the permissions set correctly to avoid complications down the road.
 
 Magento only connects to MySQL databases, which can be created and hosted through most major hosting plans. This database stores settings, content, and sales information which results in the normal use of your site.
 
@@ -57,7 +57,7 @@ Here is a quick list of server-side requirements for Magento ([source][source]).
 Step 1: Download Magento
 -----
 
-There are two primary methods we recommend for downloading Magento. If you wish to start fresh with your own content and setup, you'll want to download the [official Magento Community Edition release][download] and start there. 
+There are two primary methods we recommend for downloading Magento. If you wish to start fresh with your own content and setup, you will want to download the [official Magento Community Edition release][download] and start there. 
 
 You will be asked to create a user name and password before being able to download. Once you have done this, you can download Magento Community Edition free and apply it to your site without any additional registration required.
 
@@ -142,7 +142,7 @@ The **Skip Base URL Validation Before Next Step** option is used if you are inst
 
 Its a good idea to set a secret word at this point to have a custom admin path.  Be sure to remember this as you will need it to log in to your site instead of using the typical path of **www.(your site name).com/admin**.
 
->> Note: Magento does not support self-signed SSL certificates. If you intend to use SSL for administrative access, you'll need a third-party signed SSL certificate. This is an optional feature.
+>> Note: Magento does not support self-signed SSL certificates. If you intend to use SSL for administrative access, you will need a third-party signed SSL certificate. This is an optional feature.
 
 The final area of this page is the **Session Storage Options** which determines where session data will be saved. You can choose either the **File System** or the **Database**.
 
@@ -167,7 +167,7 @@ If you do not select an encryption key, one will be generated and presented in t
 File Permissions
 -----
 
-In order for Magento to work properly, you will need to set file permissions in a way that allows it to write to certain folders. Below, we've listed the files and directories you'll want to set to `777` (read, write, and execute).
+In order for Magento to work properly, you will need to set file permissions in a way that allows it to write to certain folders. Below, we have listed the files and directories you will want to set to `777` (read, write, and execute).
 
 * File(s)
 	* magento/var/.htaccess

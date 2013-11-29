@@ -13,7 +13,7 @@ Header Section
 	2. **Header - Gantry Menu** [32%, 27%, se]
 	2. **Header - RokAjaxSearch** [32%, 75%, se]
 
-Here's the widget breakdown for the Header section:
+Here is the widget breakdown for the Header section:
 
 * Gantry Logo
 * Gantry Divider
@@ -22,7 +22,7 @@ Here's the widget breakdown for the Header section:
 * RokAjaxSearch
 
 #### Gantry Logo
-The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
+The first thing you will need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
 
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
@@ -47,7 +47,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Custom Chrome     |      Menu |   
 
 ### RokAjaxSearch
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Set the **Margin Variation** option to **No Margin Bottom**.
 * Set the **Padding Variation** option to **No Padding Bottom**.

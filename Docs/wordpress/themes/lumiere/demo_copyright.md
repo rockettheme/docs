@@ -12,19 +12,19 @@ Copyright Section
 :   1. **Custom Menu** [58%, 8%, se]
 	2. **Text** [58%, 72%, se]
 
-Here's the widget breakdown for the Copyright section:
+Here is the widget breakdown for the Copyright section:
 
 * Gantry Divider
 * Custom Menu
 * Gantry Divider
 * Text
 
-The Copyright section contains the bottom menu and social links for the front page. You'll find the configuration options for each widget below.
+The Copyright section contains the bottom menu and social links for the front page. You will find the configuration options for each widget below.
 
 #### Custom Menu
 The Custom Menu widget allows us to add an extra menu at the bottom of the page. This menu was created separately from the main menu linked in the header, and can be configured by going to **Administration -> Appearance -> Menus**.
 
-Here is a breakdown of what you'll need to change in the widget options to match the demo.
+Here is a breakdown of what you will need to change in the widget options to match the demo.
 
 * Set the **Select Menu** option to match the name of the menu you wish to appear in this area.
 * Set the **Custom Variations** field to `horizmenu rt-center`.
@@ -34,7 +34,7 @@ Here is a breakdown of what you'll need to change in the widget options to match
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
 ~~~
 <div class="rt-social-buttons">

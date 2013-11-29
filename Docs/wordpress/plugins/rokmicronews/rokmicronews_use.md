@@ -9,7 +9,7 @@ Widget Setup
 -----
 RokMicroNews has a wide variety of different widget settings that enable you to customize the widget to meet your individual needs. You can do everything from enabling custom CSS to defining the layout of the widget itself. 
 
-For the interest of this guide, we've broken the widget controls into two sections. These will appear as a single vertical menu within the widget's settings area.
+For the interest of this guide, we have broken the widget controls into two sections. These will appear as a single vertical menu within the widget's settings area.
 
 You can place RokMicroNews into any widget area in your site by navigating to **Admin -> Appearance -> Widgets** and clicking and dragging RokMicroNews Widget to your desired widget area.
 

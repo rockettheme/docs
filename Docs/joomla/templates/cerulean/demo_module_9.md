@@ -11,7 +11,7 @@ Top Features
 
 :   1. **mod_custom** [20%, 40%, se]
 
-We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You'll find the settings used in our demo below.
+We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

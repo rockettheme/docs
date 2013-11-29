@@ -18,7 +18,7 @@ The lower half of the floating widget set is a standard **Text** widget. The upp
 
 ### Text
 
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~ .html
 <div class="gantry-width-30 gantry-width-block rt-center">
@@ -46,7 +46,7 @@ You'll need to enter the following in the main text field to create this text wi
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Box Variation** to **Box 1**.
 * Enter `fp-feature-b jaggedtop largemarginbottom` in the **Custom Variations** field.

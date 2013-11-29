@@ -9,7 +9,7 @@ Sidebar Section
 -----
 The Sidebar section in our demo points out some of the more compelling features that went into our theme. It includes two text widgets sand a single RokSprocket Tabs widget.
 
-Here's the widget breakdown for the Sidebar section:
+Here is the widget breakdown for the Sidebar section:
 
 * Text
 * Text
@@ -62,7 +62,7 @@ The next text widget in this section is titled **Top Features** and has the foll
 
 The **Gantry Extras** widget located in the sidebar section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -84,7 +84,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Set the **Title** to `Gantry Extras`
 * Set the **Custom Variations** to `bg4`.

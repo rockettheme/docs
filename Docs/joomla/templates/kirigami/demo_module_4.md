@@ -11,7 +11,7 @@ Popular Features
 
 :   1. **RokSprocket Tabs** [55%, 5%, se]
 
-We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

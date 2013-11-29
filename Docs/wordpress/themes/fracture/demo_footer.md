@@ -10,7 +10,7 @@ Footer Section
 
 ![][demo8]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -20,7 +20,7 @@ Here's the widget breakdown for the Footer section:
 
 ### Text
 
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p class="medmarginbottom"><a href="http://www.rockettheme.com/wordpress-themes/fracture" target="_blank"><em class="bold">Fracture</em></a> is a RocketTheme theme built upon a Gantry4 Framework, which features a responsive layout core, a rejuvenated administrative interface and optimized coding.</p>
@@ -34,7 +34,7 @@ The first Text widget in the section is made a lot like the others. You'll need 
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Fracture Info`.
 * Set the **Title Variation** to **Title 2**.
@@ -43,7 +43,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p><a href="http://demo.rockettheme.com/wordpress/wp_fracture/features/plugins/"><em class="bold">Responsive Layout:</em></a> Based on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a flexible structure.</p>
@@ -53,7 +53,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 <a class="readon" href="http://www.gantry-framework.org/documentation/wordpress/basics/" target="_blank"><span>More Features</span></a>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Features`.
 * Set the **Title Variation** to **Title 1**.
@@ -62,7 +62,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-demo-width-10">
@@ -97,7 +97,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Set the **Title Variation** to **Title 2**.

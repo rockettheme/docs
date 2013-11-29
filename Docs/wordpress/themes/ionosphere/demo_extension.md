@@ -9,7 +9,7 @@ Extension
 -----
 ![][demo]
 
-Here's the widget breakdown for the Extension section:
+Here is the widget breakdown for the Extension section:
 
 * RokGallery
 * Gantry Divider
@@ -20,7 +20,7 @@ Here's the widget breakdown for the Extension section:
 #### RokGallery
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
-Here's a breakdown of the widget options: 
+Here is a breakdown of the widget options: 
 
 | Option           |                   Setting |  
 | :--------------- | ------------------------: |  
@@ -37,7 +37,7 @@ Here's a breakdown of the widget options:
 | Title Variation  |                   Title 1 |  
 | Margin Variation |          No Margin Bottom |  
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+This will create the widget, but you will need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
@@ -45,7 +45,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 #### RokGallery
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
-Here's a breakdown of the widget options: 
+Here is a breakdown of the widget options: 
 
 | Option           |                     Setting |  
 | :--------------- | --------------------------: |  
@@ -62,15 +62,15 @@ Here's a breakdown of the widget options:
 | Title Variation  |                     Title 1 |  
 | Margin Variation |            No Margin Bottom |  
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+This will create the widget, but you will need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
-You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -94,7 +94,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Set the **Title** to `Integrated RokPlugins`.
 * Select your RokSprocket Featured widget in the **Choose Widget** field.

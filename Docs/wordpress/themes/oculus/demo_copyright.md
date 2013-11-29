@@ -13,7 +13,7 @@ Copyright Section
 :	1. **Gantry Copyright** [35%, 6%, se]
 	2. **Gantry To Top** [35%, 90%, se]
 
-Here's the widget breakdown for the Copyright section:
+Here is the widget breakdown for the Copyright section:
 
 * Gantry Copyright
 * Gantry Divider

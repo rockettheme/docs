@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/voxel:Voxel
 Frontpage Article
 ----
 ![][demo]
-This area of the front page is a a featured article. You can replicate this by creating a new article by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You'll find the settings used in our demo below.
+This area of the front page is a a featured article. You can replicate this by creating a new article by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You will find the settings used in our demo below.
 
 ### Edit Article
 ![][demo2]

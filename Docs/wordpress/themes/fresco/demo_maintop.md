@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/xmenia:Ximenia
 Main Top Section
 -----
 
-Here's the widget breakdown for the Main Top section:
+Here is the widget breakdown for the Main Top section:
 
 * RokSprocket
 * Text
@@ -23,9 +23,9 @@ The Main Top section in the Ximenia demo adds a visual display of various theme 
 
 ![][demo1]
 
-You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -46,7 +46,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Featured widget in the **Choose Widget** field.
 * Set the **Block Variation** option to **No Block**.
@@ -58,7 +58,7 @@ The widget should now be created and ready for use on the front page of your Wor
 #### Text
 ![][demo5]
 
-The first Text widget is a simple text widget with HTML script written into the body. You'll need to enter the following in the main text field.
+The first Text widget is a simple text widget with HTML script written into the body. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image rt-floatright">
@@ -72,7 +72,7 @@ The first Text widget is a simple text widget with HTML script written into the 
 <a class="readon" href="#"><span>More Information</span></a>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Interview Creative Director`.
 * Set the **Title Variation** option to **Title 3**.
@@ -88,13 +88,13 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 ![][demo2]
 
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. Filling this out is fairly straightforward as you'll want to add your various social URLs to their respective fields before hitting **Save**.
+The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. Filling this out is fairly straightforward as you will want to add your various social URLs to their respective fields before hitting **Save**.
 
 #### Text
 
 ![][demo3]
 
-The second Text widget in the section is made a lot like the first. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the first. You will need to enter the following in the main text field.
 
 ~~~
 <div class="smallpaddingtop">
@@ -124,7 +124,7 @@ The second Text widget in the section is made a lot like the first. You'll need 
 <a class="readon smallmargintop smallmarginleft" href="#"><span>See More</span></a>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Features`.
 * Set the **Title Variation** option to **Title 2**.
@@ -135,7 +135,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ![][demo4]
 
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Set the **Block Variation** option to **No Block**.
 * Enter `nopaddingleft nopaddingtop nopaddingbottom` in the **Custom Variations** field.

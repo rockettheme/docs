@@ -9,7 +9,7 @@ Footer Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -19,7 +19,7 @@ Here's the widget breakdown for the Footer section:
 * RokGallery
 
 #### Text
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All images are from <a target="_blank" href="http://www.hdwallpapers.in">www.hdwallpapers.in</a> for use on this theme demo only.</p>
@@ -29,7 +29,7 @@ The first Text widget in the section is made a lot like the others. You'll need 
 <span>e: voxel&#64;contact.com</span>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Images`.
 * Set the **Title Variation** to **Title 2**.
@@ -38,7 +38,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <ul>
@@ -49,7 +49,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Inside Voxel`.
 * Set the **Title Variation** to **Title 2**.
@@ -58,7 +58,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <ul>
@@ -67,7 +67,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Help Desk`.
 * Set the **Title Variation** to **Title 2**.
@@ -76,7 +76,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 
-The fourth Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The fourth Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p class="smallmarginbottom">A content switchblade widget.</p>
@@ -95,7 +95,7 @@ The fourth Text widget in the section is made a lot like the others. You'll need
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `RokSprocket`.
 * Set the **Title Variation** to **Title 2**.
@@ -108,7 +108,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
-Here's a breakdown of the widget options: 
+Here is a breakdown of the widget options: 
 
 | Option            |             Setting |  
 | :---------------- | ------------------: |  
@@ -125,7 +125,7 @@ Here's a breakdown of the widget options:
 | Box Variation     |                   2 |  
 | Custom Variations | `footer-rokgallery` |  
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+This will create the widget, but you will need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 [demo1]: assets/demo_12.jpeg
 [rokgallery]: ../../plugins/rokgallery

@@ -1,6 +1,6 @@
 ---
 title: RocketTheme Documentation
-description: Here you'll find the latest and greatest documentation and information concerning all RocketTheme clubs, templates, themes, extensions, as well as general information about how RocketTheme works. Topics range from beginner to expert so *dig in!*
+description: Here you will find the latest and greatest documentation and information concerning all RocketTheme clubs, templates, themes, extensions, as well as general information about how RocketTheme works. Topics range from beginner to expert so *dig in!*
 
 ---
 

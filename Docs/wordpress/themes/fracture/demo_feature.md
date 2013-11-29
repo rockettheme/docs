@@ -9,7 +9,7 @@ Feature Section
 -----
 ![][demo3]
 
-Here's the widget breakdown for the Feature section:
+Here is the widget breakdown for the Feature section:
 
 * Text
 
@@ -23,7 +23,7 @@ The Text widget in this section is used as an artistic divider between the Slide
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Gantry`.
 * Set the **Title Variation** to **Title 3**.

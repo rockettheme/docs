@@ -43,7 +43,7 @@ The first step to creating a new attribute is visiting the **Attribute Manager**
 
 :	1. **Add New Attribute** This button initiates the attribute creation process. [10%, 84%, se]
 
-Once you have reached this page, you'll be able to quickly access and/or create attributes. To create a new attribute, select the **Add New Attribute** button in the upper-right area of the page.
+Once you have reached this page, you will be able to quickly access and/or create attributes. To create a new attribute, select the **Add New Attribute** button in the upper-right area of the page.
 
 ### Attribute Properties
 
@@ -51,7 +51,7 @@ Once you have reached this page, you'll be able to quickly access and/or create 
 
 :	1. **Attribute Code** This code is used for internal reference only. [27%, 42%, se]
 	2. **Scope** This settings determines if the attribute will apply globally, to a single site, or a individual store view. [40%, 42%, se]
-	3. **Catalog Input Type** This backend setting allows you to choose which type of input you'll use to add the attribute to your product(s). You can choose between a number of setting types including text fields (for open-ended attributes) and multiple select (for listed variables). [48%, 42%, se]
+	3. **Catalog Input Type** This backend setting allows you to choose which type of input you will use to add the attribute to your product(s). You can choose between a number of setting types including text fields (for open-ended attributes) and multiple select (for listed variables). [48%, 42%, se]
 	4. **Unique Value** Determines if this attribute applies to one item or multiple items in your store. [60%, 42%, se]
 	5. **Values Required** Sets whether or not values are required for this attribute to be applied. [69%, 42%, se]
 	6. **Input Validation for Store Owner** This sets the type of value the attribute should contain. [73%, 62%, sw]
@@ -61,7 +61,7 @@ Once you have reached this page, you'll be able to quickly access and/or create 
 
 2. **Scope**: This settings determines if the attribute will apply globally, to a single site, or a individual store view.
 
-3. **Catalog Input Type**: This backend setting allows you to choose which type of input you'll use to add the attribute to your product(s). You can choose between a number of setting types including text fields (for open-ended attributes) and multiple select (for listed variables).
+3. **Catalog Input Type**: This backend setting allows you to choose which type of input you will use to add the attribute to your product(s). You can choose between a number of setting types including text fields (for open-ended attributes) and multiple select (for listed variables).
 
 4. **Unique Value**: Determines if this attribute applies to one item or multiple items in your store.
 
@@ -133,19 +133,19 @@ Attribute sets are very handy when you have different product types in your stor
 
 These attributes, when bundled together in an **Attribute Set** can easily be assigned to a product during its creation. Instead of individually assigning these attributes to each product, you can assign a single set.
 
-To start creating an Attribute Set, you'll need to navigate to **Admin Panel -> Catalog -> Attributes -> Manage Attribute Sets** and select **Add New Attribute Set** from the upper-right area of the **Attribute Set** management page.
+To start creating an Attribute Set, you will need to navigate to **Admin Panel -> Catalog -> Attributes -> Manage Attribute Sets** and select **Add New Attribute Set** from the upper-right area of the **Attribute Set** management page.
 
 ![][attributes6]
 
 The resulting page will allow you to name your attribute, as well as choose an existing set to base this new set on. The **Name** of your attribute set should be one you can easily recognize and assign to a specific type of product. For example, if these attributes apply to cameras, you could name the set `Cameras`. This name is used internally, so it won't appear anywhere on the frontend.
 
-If this is your first Attribute Set, you'll want to select **Default** under **Based On**. If you have existing Attribute Sets already set up, you can choose one of them and modify it in your new set. This step is intended to save you time.
+If this is your first Attribute Set, you will want to select **Default** under **Based On**. If you have existing Attribute Sets already set up, you can choose one of them and modify it in your new set. This step is intended to save you time.
 
 Once you are done on this page, select **Save Attribute Set**.
 
 ![][attributes7]
 
-The next page is where you assign attributes to the set. The right column, titled **Unassigned Attributes** includes any attributes that have not yet been assigned to a set. You'll also find different groups under the **Groups** column. These groups are used to apply sorting rules and display options on the frontend, as well as to create tabs within the product page. 
+The next page is where you assign attributes to the set. The right column, titled **Unassigned Attributes** includes any attributes that have not yet been assigned to a set. You will also find different groups under the **Groups** column. These groups are used to apply sorting rules and display options on the frontend, as well as to create tabs within the product page. 
 
 Select **Add New** under the **Groups** column to create a new group. It is useful to name the group in a way that matches the type of product you are applying it to. For example, camera-specific attributes could be added to the **Cameras** group within your new set.
 

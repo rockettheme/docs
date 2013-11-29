@@ -8,12 +8,12 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcomments:RokComments
 Introduction
 -----
 
-RokComments is built to work with several of the most popular Javascript-based comment systems. Setting them up is a simple process, and we've detailed the steps involved for each of the four (presently supported) platforms below.
+RokComments is built to work with several of the most popular Javascript-based comment systems. Setting them up is a simple process, and We have detailed the steps involved for each of the four (presently supported) platforms below.
 
 Configuration
 -----
 
-You can access the main configuration page for RokComments by navigating to **Administrator -> Extensions -> Plugin Manager -> Content - RokComments**. The **Details** tab of this page gives you the ability to set the publishing status, access levels, and Joomla ordering. The main configuration options for this plugin are set in the **Basic Options** tab. Below, we've outlined the available options.
+You can access the main configuration page for RokComments by navigating to **Administrator -> Extensions -> Plugin Manager -> Content - RokComments**. The **Details** tab of this page gives you the ability to set the publishing status, access levels, and Joomla ordering. The main configuration options for this plugin are set in the **Basic Options** tab. Below, we have outlined the available options.
 
 ![][setup]
 

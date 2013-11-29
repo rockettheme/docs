@@ -11,12 +11,12 @@ Utility Section
 
 :   1. **Utility - Text** [60%, 6%, se]
 
-Here's the widget breakdown for the Utility section:
+Here is the widget breakdown for the Utility section:
 
 * Text
 
 #### Text
-You'll need to enter the following in the main text field.
+You will need to enter the following in the main text field.
 
 ~~~
 <ul class="menu">
@@ -27,7 +27,7 @@ You'll need to enter the following in the main text field.
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Margin Variation** to **No Margin All**.
 * Set the **Padding Variation** to **No Padding Top**.

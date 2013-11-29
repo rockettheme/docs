@@ -31,7 +31,7 @@ RokGallery has the following requirements in order to operate:
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
->> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you'll need to have CURL enabled on your server. You can ask your hosting provider to activate this.
+>> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you will need to have CURL enabled on your server. You can ask your hosting provider to activate this.
 
 Key Features
 ------------
@@ -59,7 +59,7 @@ How to install
 --------------
 Installing RokGallery takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokGallery. The package you will download contains everything you need to get RokGallery up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download contains everything you need to get RokGallery up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the WordPress Administrator and:
 
@@ -72,13 +72,13 @@ From WordPress 3.x:
 
 ![][rokgallery_install_1]
 
-Once installation is complete, you'll receive a message (shown above) indicating that the plugin was installed successfully. To activate RokGallery right away, select **Activate Plugin** from this confirmation page.
+Once installation is complete, you will receive a message (shown above) indicating that the plugin was installed successfully. To activate RokGallery right away, select **Activate Plugin** from this confirmation page.
 
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 
 RokBox
 -----
-We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery widget to RokBox, you'll be able to present images in a way that goes beyond what RokGallery alone can offer.
+We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery widget to RokBox, you will be able to present images in a way that goes beyond what RokGallery alone can offer.
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 

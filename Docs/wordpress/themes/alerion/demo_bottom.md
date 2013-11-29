@@ -11,7 +11,7 @@ Bottom Section
 ![][demo]
 
 #### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. 
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. 
 
 ~~~
 <div class="gantry-width-50 gantry-width-block">
@@ -37,7 +37,7 @@ You'll need to enter the following in the main text field to create this text wi
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `[span class="hidden-phone"]Additional Template [/span]Features` as the **Title**.
 * Set the **Title Variation** to **Title 4**.

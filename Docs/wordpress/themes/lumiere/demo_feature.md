@@ -12,7 +12,7 @@ Feature Section
 :   1. **Feature - Text** [40%, 11%, se]
 	2. **Feature - RokAjaxSearch** [40%, 44%, se]
 
-Here's the widget breakdown for the Feature section:
+Here is the widget breakdown for the Feature section:
 
 * Text
 * Gantry Divider
@@ -32,7 +32,7 @@ The text widget in this section has no title, and only contains one small line o
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokAjaxSearch
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Set the **Custom Variations** field to `fp-search`.
 * Leaving everything else at its default setting, select **Save**.

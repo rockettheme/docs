@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/oculus:Oculus
 FP RokSprocket Features - Slideshow
 -----
 ![][slideshow]
-We used a **RokSprocket** module with the **Features** layout to make up the Showcase area of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Features** layout to make up the Showcase area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][slideshow1]

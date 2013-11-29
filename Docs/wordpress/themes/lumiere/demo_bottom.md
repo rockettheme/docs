@@ -12,7 +12,7 @@ Bottom Section
 
 ### Text
 
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
 ~~~
 <div class="gantry-width-block demo-width-100 nomarginbottom">
@@ -32,7 +32,7 @@ You'll need to enter the following in the main text field to create this text wi
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Margin Variation** option to **No Margin Top**.
 * Set the **Padding Variation** option to **No Padding Top**.

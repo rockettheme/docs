@@ -13,7 +13,7 @@ Footer Section
 :   1. **Text** [18%, 5%, se]
     2. **Text** [18%, 66%, se]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -21,7 +21,7 @@ Here's the widget breakdown for the Footer section:
 
 #### Text
 
-You'll need to enter the following in the main text field.
+You will need to enter the following in the main text field.
 
 ~~~ .html
 <div class="rt-footer-logo"></div>
@@ -31,7 +31,7 @@ You'll need to enter the following in the main text field.
 <p class="promo3"><strong>Stratos</strong> is only available as part of a Club Subscription.</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Box Variation** to **Box 5**.
 * Enter `fp-footer-a` in the **Custom Variations** field.
@@ -43,7 +43,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 #### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~ .html
 <p class="rt-uppercase promo3 smallmarginbottom"><a href="#">123 WordPress Boulevard</a></p>
@@ -70,7 +70,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Box Variation** option to **Box 5**.
 * Enter `fp-footer-b` in the **Custom Varations** field.

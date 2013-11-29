@@ -27,7 +27,7 @@ There are two points we need to cover in order to create responsive images.
 #### Do Not Fix the Width and/or Height of Your Images
 First, you must not have fixed width and height attributes specified for any images placed on your site. A max width or height is fine, but locking any image in to a particular size will likely break your site's responsive features.
 
-Here's an example of an image set in a way that will break the responsive layout:
+Here is an example of an image set in a way that will break the responsive layout:
 
 ~~~
 <img src="path/to/your/image.jpg" width="600" height="200" alt="image" />

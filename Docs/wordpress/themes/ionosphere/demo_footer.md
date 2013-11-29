@@ -9,7 +9,7 @@ Footer Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -18,7 +18,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 #### Text
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <ul class="dots normarginbottom">
@@ -28,14 +28,14 @@ The first Text widget in the section is made a lot like the others. You'll need 
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Additional Downloads`.
 * Set the **Title Variation** to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p>All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All content images are licensed from <a href="http://www.shutterstock.com/" target="_blank">shutterstock.com</a> for exclusive use on this demo only.</p>
@@ -43,14 +43,14 @@ The second Text widget in the section is made a lot like the others. You'll need
 <span>Note: <strong>RokSprocket</strong> requires Gantry 1.27&#43; and RokCommon 3.0&#43;.</span>aced with <strong>sample images</strong> to avoid any copyright issue.</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Information`.
 * Set the **Title Variation** to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="feature">
@@ -70,7 +70,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Details`.
 * Set the **Title Variation** to **Title 1**.

@@ -49,7 +49,7 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 Menu Item Options
 -----
 
-Individual menu items can be edited from **Admin -> Menu -> Menu Name -> Menu Item**. In the **Advanced Settings** area of the editing page, you'll find a set of options each supported menu type. Typically, this includes Dropdown and Splitmenu. Here, you can refine how a menu item appears in a RokNavMenu menu.
+Individual menu items can be edited from **Admin -> Menu -> Menu Name -> Menu Item**. In the **Advanced Settings** area of the editing page, you will find a set of options each supported menu type. Typically, this includes Dropdown and Splitmenu. Here, you can refine how a menu item appears in a RokNavMenu menu.
 
 ### Dropdown Menu Options
 

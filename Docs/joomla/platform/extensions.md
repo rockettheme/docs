@@ -40,7 +40,7 @@ Languages are an essential type of extension within Joomla. They enable the site
 How to Install an Extension
 -----
 
-Installing an extension is a fairly simple process. Generally, you'll receive a ZIP file from an extension developer which contains all the necessary files needed for it to function properly.
+Installing an extension is a fairly simple process. Generally, you will receive a ZIP file from an extension developer which contains all the necessary files needed for it to function properly.
 
 The most common method for installing an extension (featured in images below) involves uploading the package file to your site directly and letting Joomla install the extension for you. 
 
@@ -63,17 +63,17 @@ If you do not see the **Install** page (see the figure below), you can navigate 
     4. **Browse** This will open a file manager window you can use to point to the extension package file on your hard drive. [49%, 90%, sw]
     5. **Upload and Install** Click this button after you have selected the package file from point 4. [60%, 40%, ne]
 
-From there, you'll be able to upload the package file directly by selecting *Browse* within the *Upload Package File* tab of the Extension Manager. 
+From there, you will be able to upload the package file directly by selecting *Browse* within the *Upload Package File* tab of the Extension Manager. 
 
-Once a file manager window appears, you'll just need to navigate to the package file you wish to install and select *Open*. Once your package file is selected, you can hit the *Upload and Install* button to initiate the upload.
+Once a file manager window appears, you will just need to navigate to the package file you wish to install and select *Open*. Once your package file is selected, you can hit the *Upload and Install* button to initiate the upload.
 
-Joomla will automatically install any extensions within the package file. Once this is done, you'll be taken to a page which will list the extensions and status of each installation. Some package files may update existing extensions while others install something entirely new.
+Joomla will automatically install any extensions within the package file. Once this is done, you will be taken to a page which will list the extensions and status of each installation. Some package files may update existing extensions while others install something entirely new.
 
 ![][upload_extension3]
 
-If any of these points are colored in red, or otherwise point out an error during the installation process, you'll need to take appropriate action to resolve the issue and try again.
+If any of these points are colored in red, or otherwise point out an error during the installation process, you will need to take appropriate action to resolve the issue and try again.
 
-Sometimes, a component will be too large, and your hosting provider won't allow a direct upload. In this case, you'll need to find an alternative method for getting the component into the file system. You can unpack the package file and upload individual files to a temporary folder you create within your server's file system. Once this is done, you can use the **Upload From Directory** option after entering the file path from the root directory of your server's filesystem. 
+Sometimes, a component will be too large, and your hosting provider won't allow a direct upload. In this case, you will need to find an alternative method for getting the component into the file system. You can unpack the package file and upload individual files to a temporary folder you create within your server's file system. Once this is done, you can use the **Upload From Directory** option after entering the file path from the root directory of your server's filesystem. 
 
 Another alternative is installing from an external URL using the **Install from URL** feature within the Extension Manager. This is a quick and easy way around some hosting restrictions, but also useful if someone gives you a link to a package file and you just want to install it without having to handle the file locally. Mobile users might find this option particularly useful while working on their site from the road.
 
@@ -93,13 +93,13 @@ To access the Update menu, navigate to **Administrator > Extensions > Extension 
     4. **Find Updates and Purge Cache* This will scan your extensions for available updates. Purge cache will refresh your update cache. [22%, 20%, nw]
     5. **Options** Allows you to set update permissions and cache cycle times. [22%, 41%, nw]
 
-From there, you'll want to hit the **Find Updates** button (point 4) to get a complete list of extensions.
+From there, you will want to hit the **Find Updates** button (point 4) to get a complete list of extensions.
 
 Once a list of available updates appears, you can select them (point 2) and click **Update** (point 3).
 
 This should automatically update the selected extensions.
 
-If you have any extensions that are not compatible with the automatic update menu within Joomla, you'll want to consult the developer's site for instructions on how to manually update them.
+If you have any extensions that are not compatible with the automatic update menu within Joomla, you will want to consult the developer's site for instructions on how to manually update them.
 
 [joomla-templates]: templates.md
 [upload_extension1]: assets/upload_extension1.png

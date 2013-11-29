@@ -13,7 +13,7 @@ Navigation Section
 :	1. **Gantry Menu** [35%, 5%, se]
 	2. **RokAjaxSearch** [35%, 73%, se]
 
-Here's the widget breakdown for the Navigation section:
+Here is the widget breakdown for the Navigation section:
 
 * Gantry Menu
 * Gantry Divider
@@ -44,7 +44,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 #### RokAjaxSearch
 
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Enter `fp-rokajaxsearch` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.

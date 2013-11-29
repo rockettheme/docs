@@ -10,13 +10,13 @@ Login Section
 
 ![][demo]
 
-Here's the widget breakdown for the Login section:
+Here is the widget breakdown for the Login section:
 
 * Gantry Login Form
 
 #### Gantry Login Form
 
-The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. Here are the widget options you'll need to change in order to match the demo.
+The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
 
 | Option            | Setting    | 
 | :---------------- | :--------- | 

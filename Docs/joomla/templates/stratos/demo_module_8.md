@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
 FP Footer A
 -----
 ![][footera1]
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][footera2]

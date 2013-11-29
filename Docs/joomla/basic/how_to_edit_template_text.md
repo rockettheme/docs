@@ -17,7 +17,7 @@ Words that are used in the template frontend, such as Text Size are set via our 
 1. Open en-GB.tpl_rt_(template name).ini at:
 `<Joomla Root>/templates/rt_(template name)/language/en-GB/(various).ini` The exact name of the file varies by template, though it should be the only **.ini** file in the folder.
 
-2. Change the lower-case text in the listed settings. We've outlined an example below.
+2. Change the lower-case text in the listed settings. We have outlined an example below.
 
 ~~~
 TEXT_SIZE="Text Size"
@@ -30,7 +30,7 @@ TEXT_SIZE="Font Size"
 ### Change the Text via Gantry
 ![][text1]
 
-Some text items are set through Gantry and can be modified in Template Manager. You'll just need to navigate to **Administrator → Extensions → Templates Manager** and select your default Gantry-powered template. From there, you can select the **Features** tab and find the appropriate field to modify.
+Some text items are set through Gantry and can be modified in Template Manager. You will just need to navigate to **Administrator → Extensions → Templates Manager** and select your default Gantry-powered template. From there, you can select the **Features** tab and find the appropriate field to modify.
 
 Copyright and To-Top Scroller are two of the most frequently customized fields.
 

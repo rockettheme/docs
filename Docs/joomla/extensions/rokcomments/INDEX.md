@@ -10,7 +10,7 @@ Introduction
 
 ![][featured]
 
-RokComments is a complete rewrite of the ever-popular RokIntenseDebate plugin. We've added support for Disqus and JS-Kit, as well as the original IntenseDebate support. RokComments can be enabled via menu item, Joomla category, or even a RokComments editor button for complete control.
+RokComments is a complete rewrite of the ever-popular RokIntenseDebate plugin. We have added support for Disqus and JS-Kit, as well as the original IntenseDebate support. RokComments can be enabled via menu item, Joomla category, or even a RokComments editor button for complete control.
 
 The RokComments plugin allows for easy integration of third-party JavaScript-based comment systems, such as: IntenseDebate, Facebook, Disqus, Livefyre, and JS-Kit.
 

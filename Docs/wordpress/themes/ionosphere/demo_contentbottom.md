@@ -9,12 +9,12 @@ Content Bottom Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Content Bottom section:
+Here is the widget breakdown for the Content Bottom section:
 
 * Text
 
 #### Text
-This Text widget is pretty simple and straightforward. You'll need to enter the following in the main text field.
+This Text widget is pretty simple and straightforward. You will need to enter the following in the main text field.
 
 ~~~
 <div class="component-content">
@@ -36,7 +36,7 @@ This Text widget is pretty simple and straightforward. You'll need to enter the 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `nomargintop nomarginbottom nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.

@@ -8,9 +8,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 Frontpage Article
 ----
 ![][demo]
-This area of the front page is a a featured article. You can replicate this by creating a new article by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You'll find the settings used in our demo below.
+This area of the front page is a a featured article. You can replicate this by creating a new article by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You will find the settings used in our demo below.
 
-In order for the social buttons to appear as they do in the demo, you'll first need to install and activate [**RokSocialButtons**][roksocial], which is available for free on our site.
+In order for the social buttons to appear as they do in the demo, you will first need to install and activate [**RokSocialButtons**][roksocial], which is available for free on our site.
 
 ![][social]
 

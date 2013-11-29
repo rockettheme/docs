@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 Gantry Extras
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

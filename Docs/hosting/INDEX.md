@@ -1,6 +1,6 @@
 ---
 title: Hosting Help
-description: Finding the right hosting solution can be difficult. We've written several guides to assist in making this process easier.
+description: Finding the right hosting solution can be difficult. We have written several guides to assist in making this process easier.
 landing: true
 breadcrumb: /!hosting:Hosting Help/
 

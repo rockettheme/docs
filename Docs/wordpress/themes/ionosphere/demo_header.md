@@ -12,14 +12,14 @@ Header Section
 :   1. **Header - Gantry Logo** [25%, 10%, se]
     2. **Header - Gantry Menu** [35%, 90%, sw]
 
-Here's the widget breakdown for the Header section:
+Here is the widget breakdown for the Header section:
 
 * Gantry Logo
 * Gantry Divider
 * Gantry Menu
 
 #### Gantry Logo
-The first thing you'll need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
+The first thing you will need to do is click and drag the **Gantry Logo** widget from the **Available Widgets** area of the Widgets menu to the appropriate section. Once this is done, the logo should appear in the upper-left area of the front page as it does in the demo. You can further customize this logo by following the instructions in our [FAQ][faq].
 
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.

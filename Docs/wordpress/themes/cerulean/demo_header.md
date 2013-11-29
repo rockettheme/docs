@@ -11,7 +11,7 @@ Header Section
 
 :   1. **Header - Gantry Menu** [22%, 9%, se]
 
-Here's the widget breakdown for the Header section:
+Here is the widget breakdown for the Header section:
 
 * Gantry Menu
 

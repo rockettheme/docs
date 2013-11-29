@@ -9,7 +9,7 @@ Extension
 -----
 ![][demo5]
 
-Here's the widget breakdown for the Extension section:
+Here is the widget breakdown for the Extension section:
 
 * Text
 * Gantry Divider
@@ -17,7 +17,7 @@ Here's the widget breakdown for the Extension section:
 
 ### Text
 
-The Text widget in this section is pretty straightforward. You'll need to enter the following in the main text field.
+The Text widget in this section is pretty straightforward. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image largemarginbottom">
@@ -29,7 +29,7 @@ The Text widget in this section is pretty straightforward. You'll need to enter 
 <p>All sample content images, shown in this demo, will be replaced with blanks in the <a href="http://127.0.0.1/wordpress/graffito/installation/"><strong>RocketLauncher</strong></a> package to avoid any copyright issue.</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Graffiti Demo`.
 * Switch the **Title Variation** option to **Title 1**.
@@ -43,9 +43,9 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 ![][demo6]
 
-This RokSprocket widget is a **Tabs** widget type. Like other RokSprocket Widgets, you'll need to create it first using the **RokSprocket Admin** menu. We named ours **Popular Features**.
+This RokSprocket widget is a **Tabs** widget type. Like other RokSprocket Widgets, you will need to create it first using the **RokSprocket Admin** menu. We named ours **Popular Features**.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -66,7 +66,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Set the title to `Popular Features.`
 * Select your RokSprocket Featured widget in the **Choose Widget** field.

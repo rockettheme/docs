@@ -39,7 +39,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 
 7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the items. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
-Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We've broken down the **Mosaic Layout Options** and **Mosaic Article Defaults** sections below.
+Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Mosaic Layout Options** and **Mosaic Article Defaults** sections below.
 
 ![][mosaic_2]
 

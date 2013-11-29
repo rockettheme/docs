@@ -9,7 +9,7 @@ Copyright Section
 -----
 ![][demo2]
 
-Here's the widget breakdown for the Copyright section:
+Here is the widget breakdown for the Copyright section:
 
 * Gantry Branding
 * Gantry Divider
@@ -20,7 +20,7 @@ Here's the widget breakdown for the Copyright section:
 The Copyright section remains the same for all areas of the site. Because of this, it is preserved as a Default widget override.
 
 #### Text
-The Text widget in the section is used as a handmade menu. You'll need to enter the following in the main text field.
+The Text widget in the section is used as a handmade menu. You will need to enter the following in the main text field.
 
 ~~~
 <ul class="menu">
@@ -32,7 +32,7 @@ The Text widget in the section is used as a handmade menu. You'll need to enter 
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Margin Variation** to **No Margin Left**.
 * Enter `horizmenu rt-floatright` in the **Custom Variations** field.

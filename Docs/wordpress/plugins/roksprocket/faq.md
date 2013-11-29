@@ -14,7 +14,7 @@ Injecting a RokSprocket widget into a post is a fairly easy thing to do. In fact
 
 :   1. **Shortcode** This is the shortcode you can use to add a RokSprocket widget to a post. [60%, 57%, se]
 
-You can click the little clipboard located to the right of the shortcode to have it copy the code directly to your clipboard. From there, you'll need to go to your post editing screen and add the shortcode where you would like it to appear in your widget.
+You can click the little clipboard located to the right of the shortcode to have it copy the code directly to your clipboard. From there, you will need to go to your post editing screen and add the shortcode where you would like it to appear in your widget.
 
 ![][module_2]
 

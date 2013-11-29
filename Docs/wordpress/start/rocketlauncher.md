@@ -25,7 +25,7 @@ Installing RocketLauncher
 
 ### Download the ZIP File and Add RocketLauncher to Your Site
 
-The first step you'll want to take whenever installing a WordPress RocketLauncher is to download the RocketLauncher file from [RocketTheme.com][rockettheme]. Any other source is likely to be outdated and unsupported. 
+The first step you will want to take whenever installing a WordPress RocketLauncher is to download the RocketLauncher file from [RocketTheme.com][rockettheme]. Any other source is likely to be outdated and unsupported. 
 
 Once you have downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
 
@@ -52,7 +52,7 @@ The next page is in place to make sure you have the required information you nee
 
 WordPress uses a MySQL database to host all of the information and settings used in your WordPress site. By establishing a link to the database, RocketLauncher can build your site and accept any new data or changes you make later on.
 
-If you come across a page that says "can't select database", you'll need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
+If you come across a page that says "can't select database", you will need to check the name of your database to make sure it is entered correctly. Some hosts add a tag to the beginning or end of your selected database name to differentiate it from databases owned by other members of a shared server. This is typically your account name or the title of your primary domain name on the account.
 
 ![][rocketlauncher4]
 
@@ -78,7 +78,7 @@ If a successful connection to the database has been made, a confirmation page wi
 
 5. **Privacy**: You can decide whether or not you wish to have your site indexed by the major search engines. This decision can be changed later.
 
-In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
+In this screen, you will select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
 
 ![][rocketlauncher6]
 

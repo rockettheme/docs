@@ -12,11 +12,11 @@ In phpBB3, **styles** are made up of three components: **templates**, **themes**
 
 Installing a new style in phpBB requires you to upload files to your site. We recommend using [FileZilla][filezilla], though any dedicated or Web-based file transfer solution that allows you to transfer files to your server should work.
 
-Secondly, you'll want to familiarize yourself with the **Administration Control Panel (ACP)** in order to complete installation once uploading is complete. You can access the **Styles** area of the ACP by navigating to **Admin -> Styles** in the backend. You can typically find a direct link to the ACP by navigating to the very bottom of the front page of your phpBB installation and clicking **Administration Control Panel**. 
+Secondly, you will want to familiarize yourself with the **Administration Control Panel (ACP)** in order to complete installation once uploading is complete. You can access the **Styles** area of the ACP by navigating to **Admin -> Styles** in the backend. You can typically find a direct link to the ACP by navigating to the very bottom of the front page of your phpBB installation and clicking **Administration Control Panel**. 
 
 ### Step 1: Download the Style
 
-Downloading a RocketTheme phpBB style is pretty simple. All you need to do is navigate to the desired style of your choice on RocketTheme.com and click the **Download** link. From here, you'll be taken to a page with three primary download options, along with the image sources you can use as a reference to customize images used in the style. These packages include:
+Downloading a RocketTheme phpBB style is pretty simple. All you need to do is navigate to the desired style of your choice on RocketTheme.com and click the **Download** link. From here, you will be taken to a page with three primary download options, along with the image sources you can use as a reference to customize images used in the style. These packages include:
 
 * **Style**: This is a style package that includes just the files needed to install the style on your existing site. Only choose this option if you  already have the latest RokBB installed. It is most commonly selected by users that are switching from one RocketTheme phpBB style to another.
 * **Bundle**: This package includes the style and the latest RokBB version. It is the preferred download option if you are installing a RocketTheme style for the first time.
@@ -28,7 +28,7 @@ Downloading a RocketTheme phpBB style is pretty simple. All you need to do is na
 
 Once you have downloaded your selected package, you can unzip it locally or choose to do so after the initial upload. In the case of the **Bundle** package, the unzipped package will include two additional zip files. One includes the style itself, and the other RokBB.
 
-Uploading the new Style involves moving the folder containing the style into the **Style** folder within your main phpBB directory. For example, if you are installing the Acacia style, you'll place the **Acacia** folder (and its associated contents) into the **pbpBB -> Styles** directory where the phpBB directory is whichever directory on your server that acts as the root folder for your phpBB installation.
+Uploading the new Style involves moving the folder containing the style into the **Style** folder within your main phpBB directory. For example, if you are installing the Acacia style, you will place the **Acacia** folder (and its associated contents) into the **pbpBB -> Styles** directory where the phpBB directory is whichever directory on your server that acts as the root folder for your phpBB installation.
 
 >> NOTE: You can upload all the files via FTP, or use cPanel or SSH to upload the zip and unzip directly onto the server. Inquire with your hosting provider.
 

@@ -52,11 +52,11 @@ For Joomla users, setting these SEO options is a fairly simple and straightforwa
 
 Including your site's name in page titles only impacts how the title appears in your browser's tab. As far as search engines go, it also adds a branding to search results. This enables people to quickly identify and select your site's article over any others that might appear in the page. It is a quick way around having to dig through the page description to find what you are looking for.
 
-There is a downside with doing this. Your total SEF (Search Engine Friendly) title should be no more than 70 characters. If your site's brand is 10 characters with a space, dash, and a space separating it from the main title,  you'll need to account for 13 fewer characters in your individual article titles.
+There is a downside with doing this. Your total SEF (Search Engine Friendly) title should be no more than 70 characters. If your site's brand is 10 characters with a space, dash, and a space separating it from the main title,  you will need to account for 13 fewer characters in your individual article titles.
 
 ### Unicode Aliases
 
-Unicode aliases are only really useful if you use non-Latin characters in your site or article titles. For example, if you use the Greek alphabet as part of your site's name, then you'll want to turn this feature on. Otherwise, it is probably best left off.
+Unicode aliases are only really useful if you use non-Latin characters in your site or article titles. For example, if you use the Greek alphabet as part of your site's name, then you will want to turn this feature on. Otherwise, it is probably best left off.
 
 ### Search Engine Friendly URLs
 
@@ -75,7 +75,7 @@ By titling your article, "How to Assemble Ikea Desks" rather than "Ikea Desk Ass
 
 Those keywords do not just extend to your title. You should use them no less than three times throughout your article. This is called keyword padding, and it allows the search engine to better relate your page's content to the subject the person is searching for. Here are a few examples of sentences that could be used to utilize those keywords in the content body of the article:
 
-* Here's my guide on how to assemble Ikea desks.
+* Here is my guide on how to assemble Ikea desks.
 * The most important thing to remember when you assemble Ikea desks is...
 * That is all you need to do to properly assemble Ikea desks.
 

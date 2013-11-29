@@ -11,7 +11,7 @@ Introduction
 
 RokNavMenu Exporter allows you to bring your existing styled Joomla menu over to phpBB3 for a more seamless experience. It is a great way to keep your visitors engaged with your site in its entirety, and allow them to transition from your Joomla site to your phpBB3 forums, without losing the main menu.
 
-RokNavMenu Exporter is primarily a Joomla extension, though it does require a little work to be done on both platforms. Below, we've outlined the requirements and steps you can take to make your phpBB3 and Joomla sites seamlessly transition between one-another.
+RokNavMenu Exporter is primarily a Joomla extension, though it does require a little work to be done on both platforms. Below, we have outlined the requirements and steps you can take to make your phpBB3 and Joomla sites seamlessly transition between one-another.
 
 Requirements
 -----
@@ -26,7 +26,7 @@ The requirements for RokNavMenu are as follows:
 How to Install
 -----
 
-Installation of RokNavMenu Exporter involves making preparations on both Joomla and phpBB3. At the base level, RokNavMenu Exporter is a Joomla extension, but you'll need to make sure both Joomla and phpBB3 are set up properly in order for the exported menu to properly appear.
+Installation of RokNavMenu Exporter involves making preparations on both Joomla and phpBB3. At the base level, RokNavMenu Exporter is a Joomla extension, but you will need to make sure both Joomla and phpBB3 are set up properly in order for the exported menu to properly appear.
 
 Before installing, you should already have RokNavMenu set up on your existing Joomla site. Otherwise, there wouldn't be much for RokNavMenu Exporter to actually export. 
 
@@ -36,13 +36,13 @@ Before installing, you should already have RokNavMenu set up on your existing Jo
 
 You can download RokNavMenu Exporter for Joomla 2.5 / 3.0 from the [Administration Modules downloads page][download] on our official website.
 
-To install the RokNavMenu Exporter, you'll need to first log in to your Joomla site's Administrator and navigate to the **Extension Manager** by going to **Administrator -> Extensions -> Extension Manager** and selecting the **Install** tab. From here, you can choose the RokNavMenu Exporter zip file from your local directory and select **Upload and Install**. Once this is done, RokNavMenu Exporter should be installed to Joomla.
+To install the RokNavMenu Exporter, you will need to first log in to your Joomla site's Administrator and navigate to the **Extension Manager** by going to **Administrator -> Extensions -> Extension Manager** and selecting the **Install** tab. From here, you can choose the RokNavMenu Exporter zip file from your local directory and select **Upload and Install**. Once this is done, RokNavMenu Exporter should be installed to Joomla.
 
 ### Step 2: Activate the Plugin
 
 ![][nav6]
 
-Once it is installed, you'll need to activate it by navigating to **Admin -> Extensions -> plugin Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
+Once it is installed, you will need to activate it by navigating to **Admin -> Extensions -> plugin Manager** and finding the plugin named **System - RokNavMenu Export**. You can activate it by clicking on the status icon, or selecting its checkbox and clicking **Enable** from the toolbar at the top of the page. Once activated, the status icon should be a green checkmark.
 
 Joomla Setup
 -----
@@ -74,7 +74,7 @@ phpBB3 Setup
 
 Before you can use the generated menu, there are some settings that need to be adjusted for phpBB3 to enable support for RokNavMenu Exporter.
 
-First, you'll want to make sure you have the latest version of RokBB 3/5 (depending on the RocketTheme Style you have deployed), as well as the phpBB3 style you want to use. Once these are in place and activated, you'll need to select **RokBB 3/5 Global Configuration** and configure it as follows: 
+First, you will want to make sure you have the latest version of RokBB 3/5 (depending on the RocketTheme Style you have deployed), as well as the phpBB3 style you want to use. Once these are in place and activated, you will need to select **RokBB 3/5 Global Configuration** and configure it as follows: 
 
 ![][nav3]
 

@@ -44,7 +44,7 @@ Subcategories in Magento are the most basic level of product organization. It is
 
 These categories appear in navigation menus and make it easier for your customers to quickly find what they are looking for. In addition to attributes, this is the best single way to separate different types of products.
 
-Creating a subcategory is done almost exactly the same way as a root category. The difference is that you'll need to single-click the root category you wish to place the subcategory into before hitting the **Add Subcategory** button and initiating its creation.
+Creating a subcategory is done almost exactly the same way as a root category. The difference is that you will need to single-click the root category you wish to place the subcategory into before hitting the **Add Subcategory** button and initiating its creation.
 
 ![][category2]
 

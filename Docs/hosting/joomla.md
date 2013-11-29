@@ -60,7 +60,7 @@ For the vast majority of Joomla applications out there, Linux is probably going 
 
 ### Apache Vs. NGINX Vs. IIS
 
-Joomla's technical requirements include three different server technologies you can choose from. Apache, NGINX, and Microsoft IIS are three of the most common server software solutions you'll find listed in hosting provider's spec sheets.
+Joomla's technical requirements include three different server technologies you can choose from. Apache, NGINX, and Microsoft IIS are three of the most common server software solutions you will find listed in hosting provider's spec sheets.
 
 #### Apache
 

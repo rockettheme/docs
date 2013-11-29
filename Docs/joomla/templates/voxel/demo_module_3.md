@@ -11,7 +11,7 @@ Most Popular
 
 :   1. **RokSprocket** [18%, 68%, se]
 
-We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. It is placed in the **slideinset** position in order to fit within the primary RokSprocket module located in the **showcase-a** position. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Lists** layout to make up this area of the front page. It is placed in the **slideinset** position in order to fit within the primary RokSprocket module located in the **showcase-a** position. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

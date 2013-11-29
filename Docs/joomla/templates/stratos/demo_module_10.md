@@ -10,7 +10,7 @@ Copyright Menu
 ![][menu]
 The **Copyright Menu** module that appears at the bottom of the front page of the demo is a standard **Menu** module.
 
-A new menu will need to be created using Joomla's Menu manager that features any items you wish to appear in this menu. For this tutorial, we've assigned that menu the name **'Copyright Menu'**.
+A new menu will need to be created using Joomla's Menu manager that features any items you wish to appear in this menu. For this tutorial, we have assigned that menu the name **'Copyright Menu'**.
 
 ### Details
 ![][menu1]

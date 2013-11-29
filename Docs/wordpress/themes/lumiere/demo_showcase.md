@@ -10,15 +10,15 @@ Showcase Section
 
 ![][demo]
 
-Here's the widget breakdown for the Showcase section:
+Here is the widget breakdown for the Showcase section:
 
 * RokSprocket
 
 ### RokSprocket
 
-The main feature showcase located near the top of the demo is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+The main feature showcase located near the top of the demo is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -189,7 +189,7 @@ Below is the HTML code for the sample content, to be placed in the **description
 </p>
 ~~~
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Featured widget in the **Choose Widget** field.
 * Set the **Corner Variation** option to **Basic**.

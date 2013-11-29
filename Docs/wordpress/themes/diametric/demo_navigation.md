@@ -9,7 +9,7 @@ Navigation Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Navigation section:
+Here is the widget breakdown for the Navigation section:
 
 * Gantry Menu
 

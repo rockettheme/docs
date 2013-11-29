@@ -31,7 +31,7 @@ For users on a non-Microsoft server architecture, MSSQL will not appear under th
 
 ### Downloading and Installing
 
-There are several ways to install Joomla! Finding the right method for you depends on a number of factors, but we've listed some of the more common installation types below.
+There are several ways to install Joomla! Finding the right method for you depends on a number of factors, but We have listed some of the more common installation types below.
 
 #### One-Click Install
 
@@ -39,9 +39,9 @@ Many hosting companies provide a quick and easy method known as a one-click inst
 
 #### Conventional Install
 
-For most users, a conventional installation will work just fine. You'll need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
+For most users, a conventional installation will work just fine. You will need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
 
-Upon downloading Joomla 2.5 or 3.x, you'll need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
+Upon downloading Joomla 2.5 or 3.x, you will need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
 
 #### RocketLauncher
 
@@ -56,14 +56,14 @@ Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There
 
 :   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [19%, 90%, nw]
 
-First, you'll need to select your language of choice. Joomla is supported in a wide range of languages, including several English dialects. Once you have chosen your desired language, hit the *Next* button in the upper-right corner of the page.
+First, you will need to select your language of choice. Joomla is supported in a wide range of languages, including several English dialects. Once you have chosen your desired language, hit the *Next* button in the upper-right corner of the page.
 
 ![][installation_j25_2]
 
 :   1. **Extensions** This will open the Extensions drop-down menu in Administrator. [35%, 90%, nw]
     2. **Extension Manager** This will open the Extension Manager where you can install any extension packages. [70%, 90%, nw]
 
-The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks (point 1) come up missing, you'll need to correct the issue prior to continuing the installation process.
+The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks (point 1) come up missing, you will need to correct the issue prior to continuing the installation process.
 
 In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options are not required to run Joomla, but are recommended if you want to get the most out of your experience. Once you have confirmed the data on this page, you can hit the **Next** button to continue.
 
@@ -71,7 +71,7 @@ In the **Recommended Settings** section (point 2) under the primary pre-installa
 
 :   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [18%, 90%, nw]
 
-At this point, you'll be asked to agree to the GNU General Public License that Joomla! is released under. All you need to do here is select **Next** (point 1) if you agree to the license terms.
+At this point, you will be asked to agree to the GNU General Public License that Joomla! is released under. All you need to do here is select **Next** (point 1) if you agree to the license terms.
 
 ![][installation_j25_4]
 
@@ -95,7 +95,7 @@ The **Database Name** field (point 5) should be filled out to match the full nam
 
 The **Table Prefix** field (point 6) is usually best left randomized, though instances where a single database may be used for a larger set of information or multiple applications can benefit from some recognizable association. Essentially, this prefix will appear prior to the name of a table created for the purposes of serving Joomla-specific information.
 
-At the bottom of this page (point 7), you'll be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you are creating a new database for this purpose, your decision here really does not make as much of a difference.
+At the bottom of this page (point 7), you will be asked if you wish to back up information presently existing on the database prior to installing Joomla. This is recommended if you have data you wish to preserve in the event that something goes wrong during installation. If you are creating a new database for this purpose, your decision here really does not make as much of a difference.
 
 ![][installation_j25_5]
 
@@ -109,9 +109,9 @@ The next step involves FTP configuration. Do not panic, this isn't a vital step 
 
 The **Main Configuration** page is where you name your site (point 1) and set up your administrator account. Here, you can name your site and set up the meta description and keywords you wish to have search engines use to rank and list your content. You can also opt to have the site taken offline (login credentials required to view) while you work on it (point 2).
 
-You'll need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
+You will need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
-At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
+At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you will need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
 
 ![][installation_j25_7]
 

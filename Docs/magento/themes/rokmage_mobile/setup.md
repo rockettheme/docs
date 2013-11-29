@@ -11,7 +11,7 @@ Introduction
 
 RokMage Mobile is an excellent theme to use in conjunction with a primary theme to create a more fluid experience for users, regardless of the platform they choose to visit your site through. If you are using a RocketTheme theme as your primary theme for desktop users, the setup process works a little differently than it would if you are using it as a secondary theme to a third-party product.
 
-Below, we've detailed setup instructions that enable you to set RokMage Mobile up to work with another RocketTheme product, as well as in a setting where your primary theme is provided by a third party.
+Below, we have detailed setup instructions that enable you to set RokMage Mobile up to work with another RocketTheme product, as well as in a setting where your primary theme is provided by a third party.
 
 How to Set up RokMage Mobile with a RocketTheme Template
 -----
@@ -617,7 +617,7 @@ RokMage Mobile was built with the jQuery Mobile Framework. One of the main reaso
 
 ### Using the Theme Roller
 
-When you visit the Theme Roller site, you'll see 3 identical "swatches", marked A, B and C:
+When you visit the Theme Roller site, you will see 3 identical "swatches", marked A, B and C:
 
 ![][style1]
 
@@ -631,7 +631,7 @@ These correspond with different sections of the theme.
 
 Simply drag and drop your colors from the top onto the different parts of the swatches, then download the theme and you are done. You can also have more control over the styling by adjusting the theme settings on the left. Here you can adjust things like the gradients used etc.
 
-To give an idea of how it will turn out, here's some examples:
+To give an idea of how it will turn out, Here is some examples:
 
 ![][example1]
 

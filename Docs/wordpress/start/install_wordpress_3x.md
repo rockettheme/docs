@@ -24,7 +24,7 @@ Here are the current hosting requirements for WordPress:
 
 WordPress recommends a server powered by Apache or Nginx for their feature set and security, but this isn't a requirement. Any server capable of running these versions of PHP and MySQL is a likely candidate for WordPress.
 
-You will need to have a MySQL database set up prior to installation. You can do this through your host's recommended method. Just make sure you have the location (typically **localhost**), username, and password for the database ready as you'll need to use it during installation.
+You will need to have a MySQL database set up prior to installation. You can do this through your host's recommended method. Just make sure you have the location (typically **localhost**), username, and password for the database ready as you will need to use it during installation.
 
 Step 1: Download and Unpack
 -----
@@ -85,7 +85,7 @@ Step 5: Initial Configuration
 
 5. **Privacy**: You can decide whether or not you wish to have your site indexed by the major search engines. This decision can be changed later.
 
-In this screen, you'll select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
+In this screen, you will select your site's title, administrative username and password, as well as the administrative email address used to send you information regarding your site. Once this information is filled out, you need to select **Install WordPress** to complete installation and log in for the first time.
 
 ![][install6]
 

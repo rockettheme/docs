@@ -10,7 +10,7 @@ Footer Section
 
 ![][demo]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -20,7 +20,7 @@ Here's the widget breakdown for the Footer section:
 
 ### Text
 
-The first Text widget in the section is fairly simple. You'll need to enter the following in the main text field.
+The first Text widget in the section is fairly simple. You will need to enter the following in the main text field.
 
 ~~~
 <p>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
@@ -38,7 +38,7 @@ The first Text widget in the section is fairly simple. You'll need to enter the 
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Info`.
 * Set the **Title Variation** to **Title 1**.
@@ -46,7 +46,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="gantry-width-10 gantry-width-block">
@@ -81,7 +81,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Set the **Title Variation** to **Title 1**.
@@ -90,7 +90,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image largemarginbottom">
@@ -98,7 +98,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Location`.
 * Set the **Title Variation** to **Title 1**.

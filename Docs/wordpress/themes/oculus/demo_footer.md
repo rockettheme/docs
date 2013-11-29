@@ -15,7 +15,7 @@ Footer Section
     3. **Text** [20%, 52%, se]
     4. **Text** [20%, 75%, se]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -27,7 +27,7 @@ Here's the widget breakdown for the Footer section:
 
 #### Text
 
-This section of the page is a standard text widget. You'll need to enter the following in the main text field.
+This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-footer-logo"></div>
@@ -35,7 +35,7 @@ This section of the page is a standard text widget. You'll need to enter the fol
 <span>All demo content is for <strong>sample</strong> purposes only<span class="visible-large">, intended to show a live site</span>. <span class="hidden-tablet">Use the <a href="http://demo.rockettheme.com/wordpress/wp_oculus/installation/"><strong>RocketLauncher</strong></a> for demo replication.</span> All images are copyrighted to their respective owners.</span>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Leaving everything else at its default setting, select **Save**.
 
@@ -47,7 +47,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 The **Custom Menu** widget allows us to add an extra menu somewhere on the page. This menu was created separately from the main menu linked in the header, and can be configured by going to **Administration -> Appearance -> Menus**.
 
-Here is a breakdown of what you'll need to change in the widget options to match the demo.
+Here is a breakdown of what you will need to change in the widget options to match the demo.
 
 * Set the **Select Menu** option to match the name of the menu you wish to appear in this area.
 * Enter `Inside Oculus` in the **Title** field.
@@ -56,7 +56,7 @@ Here is a breakdown of what you'll need to change in the widget options to match
 
 #### Text
 
-This section of the page is a standard text widget. You'll need to enter the following in the main text field.
+This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
 <p class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_oculus/plugins/">RokSprocket</a> is a powerful, switchblade content display plugin.</p>
@@ -66,7 +66,7 @@ This section of the page is a standard text widget. You'll need to enter the fol
 <p class="rt-tag">Core Navigation</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Features`.
 * Enter `fp-footer hidden-phone` in the **Custom Variations** field.
@@ -74,7 +74,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 
-This section of the page is a standard text widget. You'll need to enter the following in the main text field.
+This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
 <div class="gantry-width-10 gantry-width-block hidden-phone">
@@ -102,7 +102,7 @@ This section of the page is a standard text widget. You'll need to enter the fol
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Enter `fp-footer hidden-phone` in the **Custom Variations** field.

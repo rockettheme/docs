@@ -9,7 +9,7 @@ Footer Section
 -----
 ![][demo]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -18,7 +18,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 ### Text
-You'll need to enter the following in the main text field.
+You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-footer-logo"></div>
@@ -28,12 +28,12 @@ You'll need to enter the following in the main text field.
 <p class="hidden-tablet"><strong>Hexeris</strong>is only available as part of a RocketTheme WordPress Club Subscription.</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p class="nomarginbottom"><a href="#">RokGallery</a> is a gallery plugin based on a custom-tagging architecture.</p>
@@ -46,14 +46,14 @@ The second Text widget in the section is made a lot like the others. You'll need
 <p class="rt-tag hidden-tablet hide-ie8">Core Navigation</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Popular Addons [span class=\"rt-subtitle\"]RocketTheme[/span]`.
 * Set the **Custom Varations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="gantry-width-25 gantry-width-block rt-center">
@@ -141,7 +141,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Image Gallery [span class=\"rt-subtitle\"]RocketTheme Fonts[/span]`.
 * Set the **Custom Varations** to `hidden-phone`.

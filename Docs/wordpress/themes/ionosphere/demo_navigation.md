@@ -11,7 +11,7 @@ Navigation Section
 
 :   1. **Gantry Menu** [58%, 19%, se]
 
-Here's the widget breakdown for the Navigation section:
+Here is the widget breakdown for the Navigation section:
 
 * Gantry Menu
 

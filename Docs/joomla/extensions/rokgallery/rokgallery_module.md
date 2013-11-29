@@ -11,7 +11,7 @@ Creating a RokGallery module is a fairly straightforward process. You Would crea
 
 ![][rokgallery_module_1]
 
-Once there, you'll be asked which type of module you wish to create. RokGallery has its own module type listed as **RokGallery Module**.  Simply select that from the list (pictured above) and you can begin initial configuration.
+Once there, you will be asked which type of module you wish to create. RokGallery has its own module type listed as **RokGallery Module**.  Simply select that from the list (pictured above) and you can begin initial configuration.
 
 ### Module Configuration
 

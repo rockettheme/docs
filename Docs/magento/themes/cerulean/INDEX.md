@@ -55,7 +55,7 @@ Cerulean utilizes 12 of our custom RokMage Magento extensions, which come fully 
 How to Install the Theme
 -----
 
-Installing the Cerulean theme is quick and easy to do. There are numerous ways to do it, but we will outline the most common method(s) in this tutorial. We will start with the process you'll likely want to go through if you are installing Cerulean on an existing Magento install.
+Installing the Cerulean theme is quick and easy to do. There are numerous ways to do it, but we will outline the most common method(s) in this tutorial. We will start with the process you will likely want to go through if you are installing Cerulean on an existing Magento install.
 
 If you are setting up a new site/store and wish to have sample data (such as that present in our demo) you should consider downloading the RocketLauncher, instead. Details for that process can be found below.
 
@@ -104,7 +104,7 @@ How to Install the RocketLauncher
 
 If you are creating a fresh install and would like sample data included, you can use our RocketLauncher. This will install a complete version of Magento, along with all template files and extensions, plus the Magento sample data. It is basically a copy of our demo site minus some of the more difficult to remove sample data (such as reviews). This was done to make the process a little easier.
 
->> NOTE: Prior to starting installation, you need to to have a MySQL database created and active on your host. You'll be asked for information about this database during installation.
+>> NOTE: Prior to starting installation, you need to to have a MySQL database created and active on your host. You will be asked for information about this database during installation.
 
 ### Step 1: Unpack and Upload the RocketLauncher
 

@@ -45,7 +45,7 @@ With the introduction of RokSprocket 2, you can use another content provider nam
     2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [25%, 50%, sw]
     3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the widget and its content. [20%, 80%, sw]
     4. **Add New Item**: This button adds a new blank item to the widget. [35%, 81%, sw]
-    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change. [21%, 33%, sw]
+    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [21%, 33%, sw]
 
 1. **Rename Item** The pencil icon gives you the ability to rename an item in your widget.
 
@@ -55,7 +55,7 @@ With the introduction of RokSprocket 2, you can use another content provider nam
 
 4. **Add New Item** This button adds a new blank item to the widget.
 
-5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change.
+5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
 
 When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the widget appears the way you want it to every time a visitor loads the page.
 

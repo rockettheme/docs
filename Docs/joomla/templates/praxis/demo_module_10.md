@@ -11,7 +11,7 @@ FP Footer Login
 
 :   1. **FP Footer Login** [35%, 53%, se]
 
-This module, located on the front page, is a standard **Login** module. You'll find the details you'll need to replicate this module below.
+This module, located on the front page, is a standard **Login** module. You will find the details you will need to replicate this module below.
 
 ### Details
 ![][demo1]

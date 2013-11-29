@@ -9,7 +9,7 @@ Feature Section
 -----
 ![][demo3]
 
-Here's the widget breakdown for the Feature section:
+Here is the widget breakdown for the Feature section:
 
 * Text
 
@@ -20,7 +20,7 @@ The Text widget in this section is used as an artistic divider between the navig
 <span class="promo1 ribbon"><span>Kirigami is clean, flexible &amp; responsive</span></span>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Align Variation** to **RT-Center**.
 * Leaving everything else at its default setting, select **Save**.

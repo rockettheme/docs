@@ -30,7 +30,7 @@ RokGallery has the following requirements in order to operate:
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
->> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you'll need to have CURL enabled on your server. You can ask your hosting provider to activate this.
+>> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you will need to have CURL enabled on your server. You can ask your hosting provider to activate this.
 
 Key Features
 ------------
@@ -58,7 +58,7 @@ How to install
 --------------
 Installing RokGallery takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
@@ -79,7 +79,7 @@ Once installation is complete, a message highlighted in green should indicate it
 
 RokBox
 -----
-We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery module to RokBox, you'll be able to present images in a way that goes beyond what RokGallery alone can offer.
+We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery module to RokBox, you will be able to present images in a way that goes beyond what RokGallery alone can offer.
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 

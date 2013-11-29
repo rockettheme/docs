@@ -11,7 +11,7 @@ FP Footer A
 
 :   1. **FP Footer A** [35%, 6%, se]
 
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You'll find the settings used in our demo below.
+We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

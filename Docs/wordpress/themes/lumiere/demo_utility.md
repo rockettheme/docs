@@ -12,7 +12,7 @@ Utility Section
 : 1. **Utility - Text** [15%, 31%, se]
 	2. **Utility - RokSprocket** [30%, 6%, se]
 
-Here's the widget breakdown for the Utility section:
+Here is the widget breakdown for the Utility section:
 
 * Text
 * Gantry Divider
@@ -36,9 +36,9 @@ The text widget in this section has no title, and only contains one small amount
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
-This area of the front page is a **RokSprocket** widget using the **Mosaic** layout type. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+This area of the front page is a **RokSprocket** widget using the **Mosaic** layout type. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -59,7 +59,7 @@ Here is a look at the **Mosaic Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Mosaic widget in the **Choose Widget** field.
 * Set the **Corner Variation** option to **Basic**.

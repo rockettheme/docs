@@ -11,16 +11,16 @@ Slideshow Section
 
 :   1. **Top - Logo** [35%, 9%, se]
 
-Here's the widget breakdown for the Slideshow section:
+Here is the widget breakdown for the Slideshow section:
 
 * RokGallery
 
 #### RokGallery
-In our demo, we've actually broken down the Slideshow widget position by preset, so depending on which preset you use, you'll see a different slideshow. We did this in order to match appropriate images with the various potential color schemes of Cerulean.
+In our demo, we have actually broken down the Slideshow widget position by preset, so depending on which preset you use, you will see a different slideshow. We did this in order to match appropriate images with the various potential color schemes of Cerulean.
 
-For the sake of simplicity, we've broken down the details of the RokGallery slideshow for Preset 1. The other presets are virtually identical in their settings, aside from a different image selection.
+For the sake of simplicity, we have broken down the details of the RokGallery slideshow for Preset 1. The other presets are virtually identical in their settings, aside from a different image selection.
 
-Here's a breakdown of the widget options: 
+Here is a breakdown of the widget options: 
 
 | Option             |          Setting |  
 | :----------------- | ---------------: |  
@@ -40,7 +40,7 @@ Here's a breakdown of the widget options:
 | Autoplay           |         Disabled |  
 | Autoplay Delay     |                7 |  
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+This will create the widget, but you will need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 [demo]: assets/cerulean2.jpg
 [rokgallery]: ../../plugins/rokgallery/

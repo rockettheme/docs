@@ -124,11 +124,11 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 ![][rokgallery_component_upload]
 
 :   1. **Browse** Opens a file browser enabling you to select one or more image files to upload to RokGallery. [68%, 17%, se]
-    2. **Upload** Initiates the upload process for selected files. You'll see the upload status update during upload. [68%, 75%, sw]
+    2. **Upload** Initiates the upload process for selected files. You will see the upload status update during upload. [68%, 75%, sw]
 
 1. The **Browse** button opens a file browser enabling you to select one or more image files to upload to RokGallery. This is useful if you would prefer not to click and drag files manually into this popup, or if your browser does not support that functionality.
 
-2. The **Upload** button initiates the upload process for selected files. You'll see the upload status update during upload.
+2. The **Upload** button initiates the upload process for selected files. You will see the upload status update during upload.
 
 Uploading images to RokGallery using the built-in file uploader is the best way to get images into RokGallery. The standard media uploader included in Joomla will add files to the media folders, but won't actually include them in RokGallery's directory.
 

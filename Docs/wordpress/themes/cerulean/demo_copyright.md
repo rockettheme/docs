@@ -9,7 +9,7 @@ Copyright Section
 -----
 ![][copyright]
 
-Here's the widget breakdown for the Copyright section:
+Here is the widget breakdown for the Copyright section:
 
 * Gantry Copyright
 * Gantry Divider

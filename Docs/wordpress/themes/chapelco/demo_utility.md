@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/chapelco:Chapelco
 Utility Section
 -----
 
-Here's the widget breakdown for the Utility section:
+Here is the widget breakdown for the Utility section:
 
 * Text
 * RokSprocket
@@ -27,7 +27,7 @@ The following should be entered in the main text field.
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `[span class=\"hidden-phone\"]Popular [/span]Features`.
 * Set the **Title Variation** to **Title 5**.
@@ -42,7 +42,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 The lower widget is a Mosiac widget used to display the various features featured in the Chapelco theme.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -63,7 +63,7 @@ Here is a look at the **Mosaic Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Mosaic widget in the **Choose Widget** field.
 * Set the **Corner Variation** to **Basic**.

@@ -9,7 +9,7 @@ Sidebar Section
 -----
 The Sidebar section in our demo points out some of the more compelling features that went into our theme. It includes two text widgets sand a single RokSprocket Tabs widget.
 
-Here's the widget breakdown for the Sidebar section:
+Here is the widget breakdown for the Sidebar section:
 
 * Text
 * Text

@@ -9,7 +9,7 @@ Footer Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -21,7 +21,7 @@ Here's the widget breakdown for the Footer section:
 
 #### Text
 
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <ul class="dots">
@@ -30,7 +30,7 @@ The first Text widget in the section is made a lot like the others. You'll need 
 <p class="rt-center nomarginbottom"><img class="footer-logo" src="http://demo.rockettheme.com/wordpress/wp_fresco/wp-content/rockettheme/rt_fresco_wp/frontpage/general/logo-footer.png" width="164" height="84" alt="image" /></p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Images`.
 * Enter `nopaddingright nomarginbottom nopaddingbottom` in the **Custom Variations** field.
@@ -38,7 +38,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div>
@@ -58,27 +58,27 @@ The second Text widget in the section is made a lot like the others. You'll need
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Plugins`.
 * Enter `nopaddingleft nopaddingright nomarginbottom nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p class="nomarginbottom"><img src="http://demo.rockettheme.com/wordpress/wp_fresco/wp-content/rockettheme/rt_fresco_wp/frontpage/general/location-map.png" width="210" height="182" alt="image" /></p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Our Location`.
 * Enter `nopaddingleft nopaddingright nomarginbottom nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div>
@@ -123,7 +123,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us!`.
 * Enter `nopaddingleft nomarginbottom nopaddingbottom` in the **Custom Variations** field.

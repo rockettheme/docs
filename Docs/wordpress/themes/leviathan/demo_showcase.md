@@ -13,7 +13,7 @@ Showcase Section
 	2. **Showcase - Text** [45%, 6%, se]
 	3. **Showcase - RokSprocket** [25%, 29%, se]
 
-Here's the widget breakdown for the Showcase section:
+Here is the widget breakdown for the Showcase section:
 
 * RokAjaxSearch
 * Text
@@ -21,7 +21,7 @@ Here's the widget breakdown for the Showcase section:
 * RokSprocket
 
 #### RokAjaxSearch
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Enter `Site Search` in the **Title** field.
 * Set the **Custom Variations** field to `fp-rokajaxsearch icon-search nomarginbottom nopaddingbottom hidden-tablet hidden-phone nomarginright nomarginleft`.
@@ -78,9 +78,9 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 ### RokSprocket
-The main feature showcase located near the top of the demo is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+The main feature showcase located near the top of the demo is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -103,7 +103,7 @@ Here is a look at the **Features Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Featured widget in the **Choose Widget** field.
 * Set the **Custom Variations** field to `nomarginall nopaddingall`.

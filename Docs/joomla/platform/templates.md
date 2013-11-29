@@ -32,13 +32,13 @@ RocketLauncher is a working copy of our demo site which you can install on your 
 
 You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.x. If you have a set of extensions in mind that you wish to use on your site that do not presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
 
-After you have downloaded the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site. A more recommended method involves uploading the ZIP file directly to your server and unpacking it there. This reduces the probability of file corruption and makes for a faster uploading process. Not all hosts allow this, so check with yours to see if this is an option.
+After you have downloaded the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you will need to install Joomla and the RocketTheme template on your site. A more recommended method involves uploading the ZIP file directly to your server and unpacking it there. This reduces the probability of file corruption and makes for a faster uploading process. Not all hosts allow this, so check with yours to see if this is an option.
 
 Simply upload these files and subdirectories to your server's root web hosting directory. This is usually done via FTP/SFTP though your individual host may have other options available to you. 
 
 Once these files are in place, you can finish installation using your browser by visiting the URL you have elected to have your Joomla installation installed. This could be the root of your domain (http://example.com) or a subdirectory (http://example.com/joomla) depending on where you placed it in your server's file system.
 
-At this point, you'll access the Joomla Web Installer to complete installation. We have step-by-step guides for installing a [Joomla 2.5][joomla25] or [3.x][joomla3x] site available to take you through the remainder of the installation process.
+At this point, you will access the Joomla Web Installer to complete installation. We have step-by-step guides for installing a [Joomla 2.5][joomla25] or [3.x][joomla3x] site available to take you through the remainder of the installation process.
 
 ### Installing a Template Bundle
 
@@ -50,7 +50,7 @@ You can find this bundle package on all Gantry-supported template download pages
 
 ![][install1]
 
-:   1. **Extension Manager** This is where you'll want to go to install any extensions. [18%, 59%, se]
+:   1. **Extension Manager** This is where you will want to go to install any extensions. [18%, 59%, se]
 
 The easiest way to do this is by going to **Admin → Extensions → Extension Manager** (point 1) within the Administrator area of your site. 
 
@@ -60,7 +60,7 @@ The easiest way to do this is by going to **Admin → Extensions → Extension M
     2. **Browse** Locate the template's ZIP file on your local drive. [60%, 91%, sw]
     3. **Upload and Install** This will begin installation of your new template. [71%, 42%, ne]
 
-Once you have done this, you should be at an installation page (indicated by the sidebar in the image above). From here, you'll need to select **Browse** (point 2) and choose your template package zip file you downloaded previously. After you have made your selection, hit **Upload and Install** (point 3). Joomla will automatically unzip the package and install its components for you. 
+Once you have done this, you should be at an installation page (indicated by the sidebar in the image above). From here, you will need to select **Browse** (point 2) and choose your template package zip file you downloaded previously. After you have made your selection, hit **Upload and Install** (point 3). Joomla will automatically unzip the package and install its components for you. 
 
 ![][install3]
 

@@ -9,7 +9,7 @@ Content Top
 -----
 ![][demo28]
 
-Here's the widget breakdown for the Content Top section:
+Here is the widget breakdown for the Content Top section:
 
 * Text
 

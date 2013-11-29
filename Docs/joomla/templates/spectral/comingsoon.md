@@ -36,7 +36,7 @@ To enable or disable the sample email subscription form, you can navigate to **A
 
 ### Language 
 
-We've also added a number of language constants to display the text for the Coming Soon page. For example, in the same **rt_spectral/comingsoon.php** file you should see language constants such as: 
+We have also added a number of language constants to display the text for the Coming Soon page. For example, in the same **rt_spectral/comingsoon.php** file you should see language constants such as: 
 
 ~~~ .html
 'RT_COMINGSOON_TITLE', 'DAY', 'SECOND', 'MINUTES', 'RT_SUBSCRIBE'

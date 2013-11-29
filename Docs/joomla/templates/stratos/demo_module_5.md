@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
 FP RokSprocket Strips - MainBottom
 -----
 ![][mainbottom1]
-We used a **RokSprocket** module with the **Strips** layout to make up the MainBottom area of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Strips** layout to make up the MainBottom area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][mainbottom2]

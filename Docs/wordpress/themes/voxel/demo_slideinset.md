@@ -11,14 +11,14 @@ SlideInset Section
 
 The SlideInset section actually creates a RokSprocket widget within a RokSprocket widget for the visitor. It combines two different RokSprocket elements into a single interface for your visitors to enjoy. The result is a unique look that enhances user experience.
 
-Here's the widget breakdown for the SlideInset section:
+Here is the widget breakdown for the SlideInset section:
 
 * RokSprocket
 
 #### RokSprocket
-The **Most Popular** menu located in the main slideshow on the front page is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+The **Most Popular** menu located in the main slideshow on the front page is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -40,7 +40,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Featured widget in the **Choose Widget** field.
 * Set the **Title Variation** option to **Title 6**.

@@ -11,9 +11,9 @@ FP Featured RokGallery
 
 :   1. **RokGallery** [37%, 45%, se]
 
-This area of the front page is made up of a **RokGallery** module. Below, we've listed the settings you'll need to replicate the look of the demo module (minus the actual images, of course).
+This area of the front page is made up of a **RokGallery** module. Below, we have listed the settings you will need to replicate the look of the demo module (minus the actual images, of course).
 
-In this instance, we've injected the RokGallery module into the space occupied by a featured article. This is done by a special position built in to the template which is called by a line in the corresponding article's text field.
+In this instance, we have injected the RokGallery module into the space occupied by a featured article. This is done by a special position built in to the template which is called by a line in the corresponding article's text field.
 
 You can find more information on RokGallery in our [RokGallery Guide][rokgallery].
 

@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 Content Bottom Section
 -----
-Here's the widget breakdown for the Content Bottom section:
+Here is the widget breakdown for the Content Bottom section:
 
 * Text
 * Gantry Divider
@@ -15,7 +15,7 @@ Here's the widget breakdown for the Content Bottom section:
 
 #### Text
 ![][demo1]
-The first Text widget in the section is pretty simple and straightforward. You'll need to enter the following in the main text field.
+The first Text widget in the section is pretty simple and straightforward. You will need to enter the following in the main text field.
 
 ~~~
 <p class="rt-center">
@@ -25,7 +25,7 @@ The first Text widget in the section is pretty simple and straightforward. You'l
 </p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `RokBox Video` in the **Title** field.
 * Set the **Title Variation** option to **Title 5**.
@@ -33,7 +33,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 #### Text
 ![][demo2]
-The second Text widget in the section is also pretty simple and straightforward. You'll need to enter the following in the main text field.
+The second Text widget in the section is also pretty simple and straightforward. You will need to enter the following in the main text field.
 
 ~~~
 <img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut1.jpg" alt="image" style="margin-bottom: 15px;" />
@@ -45,7 +45,7 @@ The second Text widget in the section is also pretty simple and straightforward.
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `Theme Tutorials` in the **Title** field.
 * Set the **Title Variation** option to **Title 5**.

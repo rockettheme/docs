@@ -12,14 +12,14 @@ Footer Section
 :   1. **Text** [25%, 8%, se]
     2. **Text** [25%, 75%, se]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
 * Text
 
 ### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
 ~~~
 <p>
@@ -29,7 +29,7 @@ You'll need to enter the following in the main text field to create this text wi
 <span>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site.</span>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Margin Variation** option to **No Margin Bottom**.
 * Set the **Padding Variation** option to **No Padding Bottom**.
@@ -39,7 +39,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 ### Text
-The second Text widget in the section is made a lot like the other. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the other. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-social-buttons">
@@ -50,7 +50,7 @@ The second Text widget in the section is made a lot like the other. You'll need 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Follow Us`.
 * Set the **Title Variation** option to **Title 1**.

@@ -13,12 +13,12 @@ Creating products in Magento is a major step towards getting your e-commerce sit
 
 Unfortunately, the product creation process isn't as simple as filling out a form and uploading a photo. You have to take a few steps before you create that product in order to prevent headaches down the road.
 
-For example, you should already have created attributes and attribute sets for your products before reaching this point. Why? What good is creating a product if you do not have specs to assign to it? If you have just one attribute set and a large variety of product types, then you'll be stuck using the same set of variables for every product you create. You can not assign an existing product a new attribute set, and this often causes a lot of confusion to new users.
+For example, you should already have created attributes and attribute sets for your products before reaching this point. Why? What good is creating a product if you do not have specs to assign to it? If you have just one attribute set and a large variety of product types, then you will be stuck using the same set of variables for every product you create. You can not assign an existing product a new attribute set, and this often causes a lot of confusion to new users.
 
 How to Create a New Product
 -----
 
-To create a new product, you'll first need to navigate to the **Manage Products** page by going to **Admin Panel -> Catalog -> Manage Products**. From here, you can select the **Add New Product** button in the upper-right area of the page to initiate the creation of a new product.
+To create a new product, you will first need to navigate to the **Manage Products** page by going to **Admin Panel -> Catalog -> Manage Products**. From here, you can select the **Add New Product** button in the upper-right area of the page to initiate the creation of a new product.
 
 ### Product Settings
 
@@ -40,9 +40,9 @@ A **Configurable** product is like a **Grouped** product in that it shares a pro
 
 The next stage in product creation is much more detailed and time consuming. This is where you configure all the variables and options for that product that impact its description, name, SKU number, price, image, and more.
 
-Since you are creating the product for the first time, you'll want to make sure you have all the necessary information available at hand. This includes the SKU number you would like to assign to the product, it is stock level (inventory), any related products (if already created) that you would like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
+Since you are creating the product for the first time, you will want to make sure you have all the necessary information available at hand. This includes the SKU number you would like to assign to the product, it is stock level (inventory), any related products (if already created) that you would like to have appear on the product page to encourage up-sells and add-ons, and any other information related to the product's pricing structure.
 
-Below, we've broken down the sections of the **Product Information** area. You can find detailed instructions on the official [Magento support site][magento].
+Below, we have broken down the sections of the **Product Information** area. You can find detailed instructions on the official [Magento support site][magento].
 
 #### General
 
@@ -58,7 +58,7 @@ The **Price** tab gives you access to set the product's price, special price, a 
 
 #### Images
 
-Images are a very important selling point for your product. In fact, Magento requires three images per product. You'll need base, small, and thumbnail images for your product. If you do not upload an image to meet these requirements, a default one is used.
+Images are a very important selling point for your product. In fact, Magento requires three images per product. You will need base, small, and thumbnail images for your product. If you do not upload an image to meet these requirements, a default one is used.
 
 You can configure a default image by visiting **Admin Panel -> System -> Configuration**.
 
@@ -82,7 +82,7 @@ The **Inventory** tab is where you can go to set the initial stock quantity for 
 
 #### Websites
 
-This tab is especially useful for Magento installs with multiple websites and/or stores. Here, you'll be able to assign your product to the site(s) you wish to have it sold in.
+This tab is especially useful for Magento installs with multiple websites and/or stores. Here, you will be able to assign your product to the site(s) you wish to have it sold in.
 
 #### Categories
 

@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/praxis:Praxis
 FP RokSprocket - Strips
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Strips** layout to make up the MainBottom area of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Strips** layout to make up the MainBottom area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]

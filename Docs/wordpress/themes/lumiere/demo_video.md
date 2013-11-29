@@ -9,7 +9,7 @@ Video Background Section
 -----
 ![][demo]
 
-Here's the widget breakdown for the Video Background section:
+Here is the widget breakdown for the Video Background section:
 
 * Gantry Video Background
 

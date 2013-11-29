@@ -10,7 +10,7 @@ Copyright Section
 
 ![][demo2]
 
-Here's the widget breakdown for the Copyright section:
+Here is the widget breakdown for the Copyright section:
 
 * Gantry Divider
 * Text
@@ -21,13 +21,13 @@ The Copyright section remains the same for all areas of the site. Because of thi
 
 #### Text
 
-The Text widget in the section is very simple. You'll need to enter the following in the main text field.
+The Text widget in the section is very simple. You will need to enter the following in the main text field.
 
 ~~~
 <span class="copytext">&copy; 2012 Fresco - Designed by RocketTheme<br />Powered by Gantry Framework</span>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Leaving everything at its default setting, select **Save**.
 

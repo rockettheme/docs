@@ -9,7 +9,7 @@ breadcrumb: /magento:Magento/!basic:Basic/
 Introduction
 -----
 
-Magento uses cache in many different ways, so you'll notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it is best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you have made.
+Magento uses cache in many different ways, so you will notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it is best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you have made.
 
 ![][cache]
 
@@ -61,7 +61,7 @@ Magento makes many calls to the database to retrieve information for each page v
 
 If there are several bits of information that Magento needs to display a Category page, the **Flat Catalog Data** will compile all of these bits for that page into a single database table entry. This way, Magento can make one call to the database to retrieve the necessary information. This is beneficial, but does not work in all instances. This should be tested after it is turned on.
 
-To find these settings, you'll need to navigate to **System -> Configuration**, click **Catalog** in the sidebar, and manipulate the **Frontend** settings.
+To find these settings, you will need to navigate to **System -> Configuration**, click **Catalog** in the sidebar, and manipulate the **Frontend** settings.
 
 Flat Product Data
 -----
@@ -81,7 +81,7 @@ Magento requires many CSS files to display a site's theme and style. These files
 
 After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear JavaScript and CSS** cache. This is a good feature to turn on after you have completed customizing your site.
 
-You can find this feature by navigating to **Admin Panel -> System -> Configuration** and selecting **Developer** near the bottom of the sidebar on the left. You'll find the **CSS Settings** menu on the resulting page.
+You can find this feature by navigating to **Admin Panel -> System -> Configuration** and selecting **Developer** near the bottom of the sidebar on the left. You will find the **CSS Settings** menu on the resulting page.
 
 Merge JS
 -----

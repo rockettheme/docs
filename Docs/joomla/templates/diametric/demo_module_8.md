@@ -11,13 +11,13 @@ Featured Article
 
 The area of the front page dedicated to featured articles has a bit of unique styling in place to allow for additional functionality, such as the social buttons found in this example. 
 
-In order for the social buttons to appear as they do in the demo, you'll first need to install and activate [**RokSocialButtons**][roksocial], which is available for free on our site.
+In order for the social buttons to appear as they do in the demo, you will first need to install and activate [**RokSocialButtons**][roksocial], which is available for free on our site.
 
 ![][social]
 
 Once the extension is published using the settings listed in the above image, you can add them to your article using the `{socialbuttons}` line shows in the article text field below. You can find step-by-step instructions on installing and activating an extension in [our guide][ext].
 
-Next, you'll need to create a featured article. You can do this by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You'll find the settings used in our demo to create the **Core Gantry Framework** article below.
+Next, you will need to create a featured article. You can do this by going to **Administrator -> Content -> Article Manager -> Add New Article**. Making it appear on the front page is easy enough. Just assign the article to the home page and make sure you have **MainBody** turned on in your Template Settings page. You will find the settings used in our demo to create the **Core Gantry Framework** article below.
 
 ### Edit Article
 ![][demo2]

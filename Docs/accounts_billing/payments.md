@@ -9,7 +9,7 @@ breadcrumb: /accounts_billing:Accounts & Billing/!payments:Billing and Payments/
 Introduction
 -----
 
-RocketTheme works hard to make sure its approach to billing and payments is as seamless and easy to follow as possible. Below, we've outlined some of the more frequently asked questions surrounding RocketTheme's billing and payments policies.
+RocketTheme works hard to make sure its approach to billing and payments is as seamless and easy to follow as possible. Below, we have outlined some of the more frequently asked questions surrounding RocketTheme's billing and payments policies.
 
 #### Are Subscriptions Automatically Renewed?
 

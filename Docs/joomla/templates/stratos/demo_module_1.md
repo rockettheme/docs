@@ -43,9 +43,9 @@ Here are the details:
 | Module Class Suffix | Blank   |  
 
 ### Template Settings
-You'll need to make the actual member login button appear next to the main menu at the top of the page so your visitors have the ability to activate that module.
+You will need to make the actual member login button appear next to the main menu at the top of the page so your visitors have the ability to activate that module.
 
-To do this, you'll need to go through the template settings and activate the **Login Panel** option in the **header-c** position. More details about this process can be found in our [template settings documentation][login].
+To do this, you will need to go through the template settings and activate the **Login Panel** option in the **header-c** position. More details about this process can be found in our [template settings documentation][login].
 
 [login]: demo_override.md#features
 [ma1]: assets/member_access_1.jpg

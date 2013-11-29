@@ -10,7 +10,7 @@ Main Bottom Section
 
 ![][demo31]
 
-Here's the widget breakdown for the Main Bottom section:
+Here is the widget breakdown for the Main Bottom section:
 
 * Text
 * Gantry Divider
@@ -24,7 +24,7 @@ The Main Bottom Section contains four Text widgets separated by three Gantry Div
 
 ### Text
 
-The first Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others in the section. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image">
@@ -38,14 +38,14 @@ The first Text widget in the section is made a lot like the others in the sectio
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Corner Variation** option to **Basic**.
 * Enter `nopaddingleft nopaddingright` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-The second Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others in the section. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image">
@@ -59,7 +59,7 @@ The second Text widget in the section is made a lot like the others in the secti
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Corner Variation** option to **Basic**.
 * Enter `nopaddingleft nopaddingright hidden-phone` in the **Custom Variations** field.
@@ -67,7 +67,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The third Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others in the section. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image">
@@ -81,7 +81,7 @@ The third Text widget in the section is made a lot like the others in the sectio
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Corner Variation** option to **Basic**.
 * Enter `nopaddingleft nopaddingright hidden-phone` in the **Custom Variations** field.
@@ -89,7 +89,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 
 ### Text
 
-The fourth Text widget in the section is made a lot like the others in the section. You'll need to enter the following in the main text field.
+The fourth Text widget in the section is made a lot like the others in the section. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-image">
@@ -103,7 +103,7 @@ The fourth Text widget in the section is made a lot like the others in the secti
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Corner Variation** option to **Basic**.
 * Enter `nopaddingleft nopaddingright hidden-phone` in the **Custom Variations** field.

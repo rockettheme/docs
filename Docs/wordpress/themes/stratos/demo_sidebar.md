@@ -13,14 +13,14 @@ Sidebar Section
 :	1. **RokAjaxSearch** [12%, 17%, se]
 	2. **Text** [31%, 17%, se]
 
-Here's the widget breakdown for the Sidebar section:
+Here is the widget breakdown for the Sidebar section:
 
 * RokAjaxSearch
 * Text
 
 #### RokAjaxSearch
 
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you'll want to change to match the demo.
+The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Enter `Site Search` in the **Title** field.
 * Set the **Box Variation** to **Box 1**.
@@ -43,7 +43,7 @@ The following is entered in the main text field.
 <a href="http://demo.rockettheme.com/wordpress/wp_stratos/features/" class="readon">Read More</a>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `[span class=\"hidden-tablet\"]About [/span]Stratos` in the **Title** field.
 * Set the **Box Variation** option to **Box 6**.

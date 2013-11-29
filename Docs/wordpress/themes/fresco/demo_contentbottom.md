@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/fresco:Fresco
 
 Content Bottom Section
 -----
-Here's the widget breakdown for the Content Top section:
+Here is the widget breakdown for the Content Top section:
 
 * RokGallery
 * Gantry Divider
@@ -19,7 +19,7 @@ Here's the widget breakdown for the Content Top section:
 
 This RokGallery widget is used to display a **Grid** of images in order to demonstrate what RokGallery can do to enhance your site's look.
 
-Here's a breakdown of the widget options: 
+Here is a breakdown of the widget options: 
 
 | Option            |                     Setting |  
 | :---------------- | --------------------------: |  
@@ -35,7 +35,7 @@ Here's a breakdown of the widget options:
 | Grid Columns      |                           3 |  
 | Custom Variations |         `fp-rokgallery bg5` |  
 
-This will create the widget, but you'll need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
+This will create the widget, but you will need to actually build the gallery using RokGallery. We go into detail on [how to use RokGallery in our official guide][rokgallery].
 
 #### Gantry Divider
 

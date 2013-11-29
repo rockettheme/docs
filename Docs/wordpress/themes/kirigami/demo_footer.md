@@ -10,7 +10,7 @@ Footer Section
 
 ![][demo8]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -21,7 +21,7 @@ Here's the widget breakdown for the Footer section:
 
 #### Text
 
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a target="_blank" href="http://www.shutterstock.com"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
@@ -33,14 +33,14 @@ The first Text widget in the section is made a lot like the others. You'll need 
 <p>e: kirigami@<span>no-contact.com</span></p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Information`.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
 
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_kirigami/features/"><em class="bold">Features</em></a></div>
@@ -48,21 +48,21 @@ The second Text widget in the section is made a lot like the others. You'll need
 <div class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_kirigami/features/widget-variations/"><em class="bold">Widget Variations</em></a></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Inside Kirigami`.
 * Set the **Custom Variations** field to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_kirigami/tutorials/"><em class="bold">Tutorials &amp; Guides</em></a></div>
 <div class="smallmarginbottom"><a href="http://www.rockettheme.com/forum/index.php?f=717&amp;rb_v=viewforum"><em class="bold">Forum Support</em></a></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Help Desk`.
 * Set the **Custom Variations** field to `hidden-phone`.
@@ -70,7 +70,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The fourth Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The fourth Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_kirigami/wp-content/rockettheme/rt_kirigami_wp/frontpage/general/fp-footer-icon1.png" />
@@ -95,7 +95,7 @@ The fourth Text widget in the section is made a lot like the others. You'll need
 <em class="bold">noreply/@domain.com</em>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Details`.
 * Set the **Custom Variations** field to `hidden-phone`.

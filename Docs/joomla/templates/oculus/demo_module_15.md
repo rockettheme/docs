@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
 About Stratos
 -----
 ![][about1]
-The **About Stratos** area of the front page is a **mod_custom** module. You'll find the settings used in our demo below.
+The **About Stratos** area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
 ### Details
 ![][about2]

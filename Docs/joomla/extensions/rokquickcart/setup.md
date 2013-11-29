@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/rokquickcart:RokQuickCart
 Introduction
 -----
 
-RokQuickCart is a very simple Joomla extension that is designed to make it easy to add a cart to your site. As with any e-commerce tool, there are some important considerations to make prior to taking this component live. We have added the ability to set RokQuickCart up in a sandbox mode so you can test it prior to having transactions appear on your Google or PayPal account. We've also explained some of the important taxing and shipping considerations below.
+RokQuickCart is a very simple Joomla extension that is designed to make it easy to add a cart to your site. As with any e-commerce tool, there are some important considerations to make prior to taking this component live. We have added the ability to set RokQuickCart up in a sandbox mode so you can test it prior to having transactions appear on your Google or PayPal account. We have also explained some of the important taxing and shipping considerations below.
 
 There are two primary areas of interest when setting up the RokQuickCart component. The first area is the **RokQuickCart Configuration** page which is accessible by navigating to **Admin -> System -> Global Configuration -> RokQuickCart**. You can also visit it by selecting **Options** within the **RokQuickCart Items Manager** which is directly accessible by navigating to **Admin -> Components -> RokQuickCart**. These two pages give you the ability to configure your store on the backend.
 
@@ -183,7 +183,7 @@ The main **RokQuickCart Configuration** page can be accessed by navigating to **
 
 ![][setup7]
 
-:	1. **Tax Rate** The tax rate to use. This is based on a single unit of currency (1.00). For a 10% tax rate, you'll enter 0.10. [9%, 44%, se]
+:	1. **Tax Rate** The tax rate to use. This is based on a single unit of currency (1.00). For a 10% tax rate, you will enter 0.10. [9%, 44%, se]
 	2. **Checkout Mode** This option toggles between the Production and Sandbox checkout modes (see above). [18%, 44%, se]
 	3. **Checkout Method** Toggles between PayPal and Google Checkout as your primary checkout service. [26%, 44%, se]
 	4. **PayPal E-mail** This is the email account associated with your PayPal account. Payments made will go through this account. [37%, 44%, se]
@@ -196,7 +196,7 @@ The main **RokQuickCart Configuration** page can be accessed by navigating to **
 	11. **Google Checkout Merchant ID** This is the Merchant ID used for Google Checkout. [82%, 44%, se]
 	13. **Google Checkout Currency** This is the currency you wish to accept through Google Checkout. [87%, 44%, se]
 
-1. **Tax Rate**: The tax rate to use. This is based on a single unit of currency (1.00). For a 10% tax rate, you'll enter 0.10
+1. **Tax Rate**: The tax rate to use. This is based on a single unit of currency (1.00). For a 10% tax rate, you will enter 0.10
 
 2. **Checkout Mode**: This option toggles between the Production and Sandbox checkout modes (see above).
 

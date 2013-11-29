@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
 FP RokSprocket Tabs
 -----
 ![][tabs1]
-We used a **RokSprocket** module with the **Tabs** layout to make up the content in the **extesnion-a** position of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Tabs** layout to make up the content in the **extesnion-a** position of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][tabs2]

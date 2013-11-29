@@ -24,7 +24,7 @@ RokStock has the following requirements in order to operate:
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
->> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you'll need to have CURL enabled on your server. You can ask your hosting provider to activate this.
+>> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you will need to have CURL enabled on your server. You can ask your hosting provider to activate this.
 
 Key Features
 ------------

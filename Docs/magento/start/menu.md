@@ -21,7 +21,7 @@ This menu can change based on your individual configuration. More information ab
 
 The **Sales** menu gives you quick access to orders, invoices, shipments, terms and conditions, and other information related to specific sales made on the site. For example, if you want to look at a specific invoice, you could navigate to **Sales -> Invoices** and find it there.
 
-This is also the menu you'll find Tax settings such as **Tax Rules** and **Customer Tax Classes** you can use to manage the tax collection through your site. 
+This is also the menu you will find Tax settings such as **Tax Rules** and **Customer Tax Classes** you can use to manage the tax collection through your site. 
 
 Pretty much everything and anything relating to sales made on your site can be found in this menu.
 
@@ -59,7 +59,7 @@ Promotional aspects of your online store are managed through pages accessible by
 
 The **Newsletter** menu is your one-stop shop for all things related to your store's newsletter. If you want to get the word out about an upcoming promotion, sale, or maybe even any new items you have recently added to the catalog, this is where you can get that done.
 
-You'll also find a list of current subscribers you can use to manage this group, as well as a list of newsletter problem reports.
+You will also find a list of current subscribers you can use to manage this group, as well as a list of newsletter problem reports.
 
 ### CMS
 

@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/cerulean:Cerulean
 Sidebar Section
 -----
 
-Here's the widget breakdown for the Utility section:
+Here is the widget breakdown for the Utility section:
 
 * RokSprocket
 * Text
@@ -19,7 +19,7 @@ Here's the widget breakdown for the Utility section:
 
 The **Gantry Extras** widget located in the sidebar section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -41,7 +41,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Set the **Title** to `Gantry Extras`.
 * Select your RokSprocket widget in the **Choose Widget** field.
@@ -54,7 +54,7 @@ The widget should now be created and ready for use on the front page of your Wor
 
 ![][demo2]
 
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~ .html
 [solid-separator]
@@ -74,7 +74,7 @@ You'll need to enter the following in the main text field to create this text wi
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `[span class="hidden-tablet"]Guest [/span]Speakers [small]Speakers Table[/small]` as the **Title** of the widget.
 * Set the **Box Variation** option to **Box 2**.

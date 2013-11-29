@@ -31,7 +31,7 @@ Key Features
 
 * Code Highlighter built on the great ACE Editor
 * Support for CSS, HTML, JavaScript, JSON, LESS, Markdown, PHP, SQL, Plain Text, Textile, XML and more...
-* Ajax save and Automatic Save options. You'll never loose your content again, nor wait until the page has finished reloading after a save!
+* Ajax save and Automatic Save options. You will never loose your content again, nor wait until the page has finished reloading after a save!
 * Save, Undo, Redo, Goto line, Advanced Search and Search & Replace, Full Screen. Settings like Themes, Font Size, Code Folding, Wrap Mode, Invisible Characters, Print Margin, Highlight of selected word
 * 26 Themes to choose from
 * Resizable Editor by dragging the Statusbar
@@ -53,7 +53,7 @@ How to install
 
 Installing RokPad takes just a matter of few minutes.
 
-The first thing you'll need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 

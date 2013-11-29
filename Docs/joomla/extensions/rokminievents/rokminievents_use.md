@@ -12,7 +12,7 @@ Once you have created a new RokMiniEvents module, you can quickly gain access to
 
 Creating a new module is a simple process, as well. You just navigate to the **Module Manager** and select **New** on the toolbar in the upper-left area of the page.
 
-Below, we've outlined the options available to you as you configure your RokMiniEvents module.
+Below, we have outlined the options available to you as you configure your RokMiniEvents module.
 
 ### Basic Options
 

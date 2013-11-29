@@ -10,12 +10,12 @@ Main Top Section
 
 ![][demo]
 
-Here's the widget breakdown for the Main Top section:
+Here is the widget breakdown for the Main Top section:
 
 * Text
 
 ### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
 <div class="gantry-width-block demo-width-100">
@@ -95,7 +95,7 @@ You'll need to enter the following in the main text field to create this text wi
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `Template Overview` as the **Title** of the widget.
 * Set the **Title Variation** option to **Title 5**.

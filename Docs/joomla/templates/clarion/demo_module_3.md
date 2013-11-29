@@ -11,7 +11,7 @@ FP RokGallery Feature
 
 :   1. **RokGallery** [20%, 30%, se]
 
-This area of the front page is made up of a **RokGallery** module. Below, we've listed the settings you'll need to replicate the look of the demo module (minus the actual images, of course).
+This area of the front page is made up of a **RokGallery** module. Below, we have listed the settings you will need to replicate the look of the demo module (minus the actual images, of course).
 
 You can find more information on RokGallery in our [RokGallery Guide][rokgallery].
 

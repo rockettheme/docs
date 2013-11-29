@@ -14,9 +14,9 @@ RokSprocket has multiple layout modes to display your content including: [Featur
 
 :   1. **RokSprocket Module** This option within the Module Manager's **New Module** type list will initiate the creation of a RokSprocket Module. [37%, 8%, se]
 
-To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you'll initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you have created the new module, you'll be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
+To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you will initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you have created the new module, you will be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
 
-Below, you'll see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
+Below, you will see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
 
 You can jump to a specific layout mode using the menu in the sidebar, or clicking the mode's name below:
 
@@ -53,7 +53,7 @@ With the introduction of RokSprocket 2, you can use another content provider nam
     2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [25%, 50%, sw]
     3. **Content Provider** Selecting the **Simple** content provider allows you manual control over the module and its content. [20%, 80%, sw]
     4. **Add New Item** This button adds a new blank item to the module. [35%, 81%, sw]
-    5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change. [21%, 33%, sw]
+    5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [21%, 33%, sw]
 
 1. **Rename Item**: The pencil icon gives you the ability to rename an item in your module.
 
@@ -63,7 +63,7 @@ With the introduction of RokSprocket 2, you can use another content provider nam
 
 4. **Add New Item**: This button adds a new blank item to the module.
 
-5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you'll need to click the icon twice to lock in the change.
+5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
 
 When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the module appears the way you want it to every time a visitor loads the page.
 

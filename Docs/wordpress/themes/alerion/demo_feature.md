@@ -12,12 +12,12 @@ Feature Section
 
 :	1. **Text** [30%, 10%, se]
 
-Here's the widget breakdown for the Feature section:
+Here is the widget breakdown for the Feature section:
 
 * Text
 
 ### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
 <div class="fp-feature-a">
@@ -59,7 +59,7 @@ You'll need to enter the following in the main text field to create this text wi
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `TechnoEvent` as the **Title** of the widget.
 * Set the **Title Variation** option to **Title 2**.

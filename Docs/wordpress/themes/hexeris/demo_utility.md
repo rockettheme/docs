@@ -10,7 +10,7 @@ Utility Section
 
 ![][demo]
 
-Here's the widget breakdown for the Utility section:
+Here is the widget breakdown for the Utility section:
 
 * Text
 
@@ -24,7 +24,7 @@ The following is entered in the main text field.
 <div class="clear"></div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Box Variation** option to **Box 6**.
 * Set the **Margin Variation** option to **No Margin Top**.

@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/templates:Templates/oculus:Oculus
 Popular News
 -----
 ![][news]
-We used a **RokSprocket** module with the **Lists** layout to make up the content in the **sidebar-a** position of the front page. You'll find the settings used in our demo below.
+We used a **RokSprocket** module with the **Lists** layout to make up the content in the **sidebar-a** position of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][news1]

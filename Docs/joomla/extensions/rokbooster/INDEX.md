@@ -15,7 +15,7 @@ In the chart below, we detail some of the performance increases possible with Ro
 
 RokBooster can dramatically reduce the number of HTTP calls a browser has to make, and sending those compressed files GZipped means your pages will load faster with less load on your server.
 
-Looking beyond Afterburner2, RokBooster can benefit just about any updated Joomla site. Here, we will break down how exactly RokBooster can benefit your site. For the interest of comparison, we've tested with both Afterburner2 and our default Gantry template.
+Looking beyond Afterburner2, RokBooster can benefit just about any updated Joomla site. Here, we will break down how exactly RokBooster can benefit your site. For the interest of comparison, we have tested with both Afterburner2 and our default Gantry template.
 
 |          | Afterburner2* | + RokBooster | Gantry | + RokBooster |  
 | :------- | :------------ | :----------- | :----- | :----------- |  

@@ -12,7 +12,7 @@ Getting to the primary RokAjaxSearch settings menu is a simple process. Once the
 ### Options
 The **Options** area of the greater RokAjaxSearch settings menu has a long list of different settings to choose from. This is where you set the module's look and determine how it will function. The options menu is split into several different subcategories in order to make navigation easier. You can choose different Basic, Style, Advanced, Google, and other settings to make RokAjaxSearch function in a way that fits your specific site's needs.
 
-For the interest of this guide, we've broken the **Options** menu into several sections and detailed what various options make possible.
+For the interest of this guide, we have broken the **Options** menu into several sections and detailed what various options make possible.
 
 ![][settings1]
 

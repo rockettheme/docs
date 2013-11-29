@@ -144,7 +144,7 @@ The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 1
 
 #### Safari 5 on Windows
 
-In order for RokBox to operate properly for Safari 5 users on Windows, you'll need to add a browser-specific CSS file with the following code:
+In order for RokBox to operate properly for Safari 5 users on Windows, you will need to add a browser-specific CSS file with the following code:
 
 `.rokbox-wrapper .rokbox-outer .rokbox-row .rokbox-inner .rokbox-container {
 min-width: 50% !important;

@@ -20,7 +20,7 @@ We currently offer Club memberships for four web application platforms.
 * Magento
 * phpBB
 
-Club memberships give you complete access to our entire product catalog for the platform you are subscribed to. This includes templates and extensions we've created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 2, 6, and 12 month periods.
+Club memberships give you complete access to our entire product catalog for the platform you are subscribed to. This includes templates and extensions We have created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 2, 6, and 12 month periods.
 
 You also receive **Domains** allowing you to use RocketTheme products on multiple web application installs so you can pay once to create two or more sites. You can continue using your template/theme/style even after your subscription period has expired. You just do not get access to any updates or additional products that are released outside of your subscription period. Additional Domains can be purchased ala carte should you need more than those included with your initial membership.
 

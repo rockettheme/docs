@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 Features
 -----
 ![][features]
-Features is a content slideshow/showcase layout mode. It can display both images and text, or images only, with varying options on their display. Here's a look at the options screen for the Features layout mode.
+Features is a content slideshow/showcase layout mode. It can display both images and text, or images only, with varying options on their display. Here is a look at the options screen for the Features layout mode.
 
 ![][features_1]
 
@@ -39,7 +39,7 @@ Features is a content slideshow/showcase layout mode. It can display both images
 
 7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the features. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
-Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We've broken down the **Features Layout Options** and **Features Article Defaults** sections below.
+Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Features Layout Options** and **Features Article Defaults** sections below.
 
 ![][features_2]
 

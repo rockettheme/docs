@@ -10,7 +10,7 @@ Bottom Section
 ![][demo1]
 
 #### Text
-The Text widget in the section is pretty simple and straightforward. You'll need to enter the following in the main text field.
+The Text widget in the section is pretty simple and straightforward. You will need to enter the following in the main text field.
 
 ~~~
 <ul class="menu">
@@ -22,7 +22,7 @@ The Text widget in the section is pretty simple and straightforward. You'll need
 </li></ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `horizmenu bottom-menu` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.

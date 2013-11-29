@@ -9,14 +9,14 @@ Feature Section
 -----
 ![][demo3]
 
-Here's the widget breakdown for the Feature section:
+Here is the widget breakdown for the Feature section:
 
 * Text
 * Gantry Divider
 * RokSprocket
 
 #### Text
-The Text widget is a simple text widget with HTML script written into the body. You'll need to enter the following in the main text field.
+The Text widget is a simple text widget with HTML script written into the body. You will need to enter the following in the main text field.
 
 ~~~
 <p class="paneltitle nomarginbottom">Diametric</p>
@@ -38,7 +38,7 @@ The Text widget is a simple text widget with HTML script written into the body. 
 <a href="http://demo.rockettheme.com/wordpress/wp_diametric/theme-features/" class="readon"><span>More Information</span></a>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Custom Variations** option to `nomarginbottom nopaddingbottom nomargintop nopaddingtop`.
 * Leaving everything else at its default setting, select **Save**.
@@ -47,9 +47,9 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 ### RokSprocket
-The tabs content display located just under the main feature showcase is a RokSprocket widget. You'll need to do two things to prepare this widget so that it looks similar to the one in the demo.
+The tabs content display located just under the main feature showcase is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
-First, you'll need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
@@ -69,7 +69,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Enter **Technical Support** in the **Title** field.
 * Select your RokSprocket Tabs widget in the **Choose Widget** field.

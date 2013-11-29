@@ -11,7 +11,7 @@ Bottom Section
 ![][demo]
 
 #### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. 
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. 
 
 ~~~
 <p class="rt-image rt-center">
@@ -20,7 +20,7 @@ You'll need to enter the following in the main text field to create this text wi
 </p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Popular [span class=\"hidden-tablet\"]Templates[/span]`.
 * Enter `horiztitle fp-popular hidden-phone` in the **Custom Variations** field.

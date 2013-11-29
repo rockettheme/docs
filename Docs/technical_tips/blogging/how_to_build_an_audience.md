@@ -25,7 +25,7 @@ That is simple context, and it is quickly becoming the way PR agencies do busine
 The Importance of Social Media
 -----
 
-Facebook, Twitter, Google+, and even more blog-like communities like Tumblr should be well within your radar for potential audience building. These networks are full of people conversing about topics and sharing links to content they care about. Why shouldn't your site be a part of this conversation? After all, Facebook and Reddit are where more people are discovering information these days.
+Facebook, Twitter, Google+, and even more blog-like communities like Tumblr should be well within your radar for potential audience building. These networks are full of people conversing about topics and sharing links to content they care about. Why should your site not be a part of this conversation? After all, Facebook and Reddit are where more people are discovering information these days.
 
 Take a moment to consider what makes a post sharable to you. Why would you pass along a link to a story or opinion piece you might have seen on one of a thousand sites already? What makes your blog stand out?
 

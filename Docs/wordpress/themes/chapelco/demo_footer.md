@@ -13,7 +13,7 @@ Footer Section
     2. **Text** [20%, 36%, se]
     3. **Text** [20%, 67%, se]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -22,7 +22,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 ### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
 <p><strong><a href="#">NOTE:</a></strong> <span class="hidden-tablet">All demo content is for <strong>sample</strong> purposes only, intended to show a live site. </span>All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
@@ -36,7 +36,7 @@ You'll need to enter the following in the main text field to create this text wi
 </div>  
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `Demo Info[span class=\"hidden-tablet\"]rmation[/span].` in the **Title** field.
 * Leaving everything else at its default setting, select **Save**.
@@ -45,7 +45,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 ### Text
-The second Text widget in the section is made a lot like the other. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the other. You will need to enter the following in the main text field.
 
 ~~~
 <div class="gantry-width-10 gantry-width-block">
@@ -79,14 +79,14 @@ The second Text widget in the section is made a lot like the other. You'll need 
 <div class="clear largemarginbottom">&nbsp;</div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Set the **Custom Varations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-You'll need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
 ~~~
 <div class="rt-image">
@@ -94,7 +94,7 @@ You'll need to enter the following in the main text field to create this text wi
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Enter `Location` in the **Title** field.
 * Enter `hidden-phone` in the **Custom Variations** field.

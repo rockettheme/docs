@@ -9,7 +9,7 @@ Footer Section
 -----
 ![][demo1]
 
-Here's the widget breakdown for the Footer section:
+Here is the widget breakdown for the Footer section:
 
 * Text
 * Gantry Divider
@@ -18,7 +18,7 @@ Here's the widget breakdown for the Footer section:
 * Text
 
 #### Text
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <ul class="dots">
@@ -37,7 +37,7 @@ The first Text widget in the section is made a lot like the others. You'll need 
 </ul>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Plugins`.
 * Set the **Title Variation** to **Title 3**.
@@ -45,7 +45,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a target="_blank" href="http://www.shutterstock.com"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
@@ -53,7 +53,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 <p><strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/tutorials/rocketlauncher/"><strong>install</strong></a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.</p>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Demo Information`.
 * Set the **Title Variation** to **Title 3**.
@@ -61,7 +61,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon1.png" />
@@ -86,7 +86,7 @@ The third Text widget in the section is made a lot like the others. You'll need 
 <em class="bold">noreply@domain.com</em>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Details`.
 * Set the **Title Variation** to **Title 3**.

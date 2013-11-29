@@ -25,7 +25,7 @@ Creating a new menu is a fairly straightforward process. Whether you want this n
 
 :   1. **Add New Menu** This will initiate the creation of a new menu. [16%, 83%]
 
-To start, you'll need to navigate to **Administrator > Menus > Menu Manager > Add New Menu** (point 1) to initiate the creation of a new menu. 
+To start, you will need to navigate to **Administrator > Menus > Menu Manager > Add New Menu** (point 1) to initiate the creation of a new menu. 
 
 ![][new_menu_2]
 
@@ -34,7 +34,7 @@ To start, you'll need to navigate to **Administrator > Menus > Menu Manager > Ad
     3. **Menu Type** This sets the system name for the menu. [63%, 25%]
     4. **Description** This is where you describe what your menu does. [73%, 25%]
 
-Next, you'll need to fill out the **Menu Details** page to give your menu a title (point 2), type designation (point 3), and description (point 4).
+Next, you will need to fill out the **Menu Details** page to give your menu a title (point 2), type designation (point 3), and description (point 4).
 
 The **Title** (point 2) you set for the menu will appear in the Administrator Menubar and lists.
 
@@ -48,7 +48,7 @@ Once you are done filling out at least the Title and Menu Type, click either **S
 
 :   1. Once you have saved your new menu, it should appear in the Menu Manager. [75%, 15%]
 
-Once you have saved your new menu, it should appear in the **Menu Manager** (point 1). This is also the page you'll use to edit and manage your new menu.
+Once you have saved your new menu, it should appear in the **Menu Manager** (point 1). This is also the page you will use to edit and manage your new menu.
 
 Managing Your Menus
 ---------
@@ -137,7 +137,7 @@ Creating a menu module allows you to add any menu to your site in just about any
 
 ![][menu_module_1]
 
-:   1. **Module Manager** This is where you'll need to go to create and manage modules for your Joomla site. [22%, 53%]
+:   1. **Module Manager** This is where you will need to go to create and manage modules for your Joomla site. [22%, 53%]
 
 The first step to creating a menu module (beyond creating the menu) is to navigate to the **Module Manager** from **Administrator > Extensions > Module Manager** (point 1).
 
@@ -145,7 +145,7 @@ The first step to creating a menu module (beyond creating the menu) is to naviga
 
 :   1. **New** This button will initiate the creation of a module. [20%, 5%]
 
-Next, you'll need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you are building a box for a menu. Just hit the big green **New** button (point 1) to get started.
+Next, you will need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you are building a box for a menu. Just hit the big green **New** button (point 1) to get started.
 
 ![][menu_module_3]
 
@@ -153,7 +153,7 @@ Next, you'll need to create a new module for your menu. Think of the module as a
 
 Creating a new menu module requires that you select either Menu (point 1) or an alternative menu extension (like [RokNavMenu][RokNavMenu]). 
 
-So far in this process, we've created a box and told Joomla what type of material will appear in the box. In the next page, we will tell Joomla which menu we'd like the box to display.
+So far in this process, we have created a box and told Joomla what type of material will appear in the box. In the next page, we will tell Joomla which menu we'd like the box to display.
 
 ![][menu_module_4]
 

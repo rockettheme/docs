@@ -9,7 +9,7 @@ Showcase Section
 -----
 ![][demo2]
 
-Here's the widget breakdown for the Showcase section:
+Here is the widget breakdown for the Showcase section:
 
 * Text
 * Gantry Divider
@@ -20,7 +20,7 @@ Here's the widget breakdown for the Showcase section:
 * Text
 
 #### Text
-The first Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The first Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-center">
@@ -29,7 +29,7 @@ The first Text widget in the section is made a lot like the others. You'll need 
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `RokGallery Gallery Plugin`.
 * Set the **Title Variation** to **Title 5**.
@@ -41,7 +41,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Text
-The second Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-center">
@@ -50,7 +50,7 @@ The second Text widget in the section is made a lot like the others. You'll need
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Gantry Core Framework`.
 * Set the **Title Variation** to **Title 5**.
@@ -59,7 +59,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget is just like the other three. You'll need to enter the following in the main text field.
+The third Text widget is just like the other three. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-center">
@@ -68,7 +68,7 @@ The third Text widget is just like the other three. You'll need to enter the fol
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Plugins Integrated Styling`.
 * Set the **Title Variation** to **Title 5**.
@@ -77,7 +77,7 @@ Here is a breakdown of options changes you'll want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The fourth Text widget in the section is made a lot like the others. You'll need to enter the following in the main text field.
+The fourth Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div class="rt-center">
@@ -86,7 +86,7 @@ The fourth Text widget in the section is made a lot like the others. You'll need
 </div>
 ~~~
 
-Here is a breakdown of options changes you'll want to make to match the demo.
+Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Details`.
 * Set the **Title Variation** to **Title 5**.
