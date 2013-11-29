@@ -1,6 +1,6 @@
 ---
 title: RokStock
-description: Your Guide to Using RokStock for Joomla
+description: Your Guide to Using RokStock for WordPress
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokstock:RokStock
 
 ---
@@ -48,10 +48,10 @@ From WordPress 3.x:
 
 * Select from the top menu: `wp-admin -> Plugins -> Add New -> Upload`
 * Click on the **Choose File** button
-* Select the `wp_rokweather.zip` that you just downloaded from your local drive.
+* Select the `wp_rokstock.zip` that you just downloaded from your local drive.
 * Click the **Install Now** button.
 
-Once installation is complete, you will receive a message (shown above) indicating that the plugin was installed successfully. To activate RokStock right away, select **Activate Plugin** from this confirmation page.
+Once installation is complete, you will receive a message indicating that the plugin was installed successfully. To activate RokStock right away, select **Activate Plugin** from this confirmation page.
 
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 

@@ -40,7 +40,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [RokGallery](plugins/rokgallery/)
 	- [RokWeather](plugins/rokweather/)
 	- [RokStock](plugins/rokstock/)
-	- [RokMiniEvents](plugins/rokminievents/)
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
 	- [RokNewsPager](plugins/roknewspager)
