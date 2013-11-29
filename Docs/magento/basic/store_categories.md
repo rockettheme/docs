@@ -31,11 +31,11 @@ There are four tabs which you can use to set options for this root category.
 
 ![][category]
 
-To get your store up and running, you really only need to concentrate on the **General Information** tab and the **Name, Is Active, and Include Navigation Menu** settings. You will want to come back to this menu to assign products once you've reached a point where products are created and assignment is needed.
+To get your store up and running, you really only need to concentrate on the **General Information** tab and the **Name, Is Active, and Include Navigation Menu** settings. You will want to come back to this menu to assign products once you have reached a point where products are created and assignment is needed.
 
 The **Name** you gives your root category a name, and this is basically a background resource that does not need to appear anywhere on the frontend. It is the name you can best associate with your assigned store. Typically, users opt to stick with "Default Category" if they are just using a single root category and further organizing products by subcategory.
 
-Your root category needs to be **active** in order to be assigned. Once you've set your category up to your personal preferences, just hit the **Save Category** button in the upper-right area of the page.
+Your root category needs to be **active** in order to be assigned. Once you have set your category up to your personal preferences, just hit the **Save Category** button in the upper-right area of the page.
 
 How to Create a Subcategory
 -----

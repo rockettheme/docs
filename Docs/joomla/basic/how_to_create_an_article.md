@@ -29,7 +29,7 @@ The first step to creating a new article is to navigate to the **Article Manager
 
 :   1. **Extensions** This will open the Extensions drop-down menu in Administrator. [32%, 6%, se]
     2. **Category** This will open the Extension Manager where you can install any extension packages. [32%, 38%, se]
-    3. **Saving** This bar allows you to save any changes you've made and close the editing pane. [17%, 40%, sw]
+    3. **Saving** This bar allows you to save any changes you have made and close the editing pane. [17%, 40%, sw]
     4. **Details Sidebar** This area allows you to set the publishing status, access, featured toggle, language, and tags for your article. [26%, 82%, se]
 
 The main editing page is where you can set the **title** of your article (point 1), **category** (point 2), and more. This is the primary content entry page for your Joomla site. All of your articles are created and edited on this page. 

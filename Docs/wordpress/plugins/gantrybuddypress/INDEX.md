@@ -34,7 +34,7 @@ Installing Gantry BuddyPress takes just a matter of few minutes.
 
 The first thing you'll need to do is [download][download] the latest version of Gantry BuddyPress. The package you will download contains everything you need to get Gantry BuddyPress up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
 
-Once you've downloaded the package, go into the WordPress Administrator and:
+Once you have downloaded the package, go into the WordPress Administrator and:
 
 From WordPress 3.x:
 

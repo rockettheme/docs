@@ -26,7 +26,7 @@ Downloading a RocketTheme phpBB style is pretty simple. All you need to do is na
 
 ### Step 2: Unzip and Upload
 
-Once you've downloaded your selected package, you can unzip it locally or choose to do so after the initial upload. In the case of the **Bundle** package, the unzipped package will include two additional zip files. One includes the style itself, and the other RokBB.
+Once you have downloaded your selected package, you can unzip it locally or choose to do so after the initial upload. In the case of the **Bundle** package, the unzipped package will include two additional zip files. One includes the style itself, and the other RokBB.
 
 Uploading the new Style involves moving the folder containing the style into the **Style** folder within your main phpBB directory. For example, if you are installing the Acacia style, you'll place the **Acacia** folder (and its associated contents) into the **pbpBB -> Styles** directory where the phpBB directory is whichever directory on your server that acts as the root folder for your phpBB installation.
 
@@ -38,14 +38,14 @@ Uploading the new Style involves moving the folder containing the style into the
 
 :	1. **Install** Select this link to initiate the installation process for the new phpBB style. [53%, 75%, se]
 
-Once your style is uploaded, you can activate it and set it to default by accessing the **Administration Control Panel (ACP)**. From there, navigate to the **Styles** tab and select **Install** next to the style you've just uploaded. If your style does not appear in this list, it may have been placed in the wrong folder.
+Once your style is uploaded, you can activate it and set it to default by accessing the **Administration Control Panel (ACP)**. From there, navigate to the **Styles** tab and select **Install** next to the style you have just uploaded. If your style does not appear in this list, it may have been placed in the wrong folder.
 
 ![][style3]
 
 :	1. **Active** Select this option to activate the new style. [68%, 47%, se]
 	2. **Make Default Style** If this option is set to **Yes**, the new style will be set as your default. [73%, 52%, se]
 
-After you've set these options, simply select **Submit** to complete installation.
+After you have set these options, simply select **Submit** to complete installation.
 
 Installing Administrative Modules
 -----

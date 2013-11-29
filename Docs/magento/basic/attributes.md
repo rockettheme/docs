@@ -43,7 +43,7 @@ The first step to creating a new attribute is visiting the **Attribute Manager**
 
 :	1. **Add New Attribute** This button initiates the attribute creation process. [10%, 84%, se]
 
-Once you've reached this page, you'll be able to quickly access and/or create attributes. To create a new attribute, select the **Add New Attribute** button in the upper-right area of the page.
+Once you have reached this page, you'll be able to quickly access and/or create attributes. To create a new attribute, select the **Add New Attribute** button in the upper-right area of the page.
 
 ### Attribute Properties
 
@@ -151,7 +151,7 @@ Select **Add New** under the **Groups** column to create a new group. It is usef
 
 You can then click and drag unassigned attributes to the new group by moving them from the **Unassigned Attributes** column to the group folder in the **Groups** column. If you wish to remove an existing attribute, you can do so by dragging it from the **Groups** column to the **Unsassigned Attributes** column. You can also double-click any existing group name to rename it.
 
-Once you've configured the set the way you would like it, select **Save Attribute Set**.
+Once you have configured the set the way you would like it, select **Save Attribute Set**.
 
 >> Note: Remember that attribute sets can not be reassigned once a product has been created. You can modify attribute sets to your heart's content, but creating a new set and assigning it to an existing product is not currently possible.
 

@@ -57,7 +57,7 @@ The **Users** section includes any areas of Joomla's backend that deal specifica
 
 ![][j3x5]
 
-At the heart of your Joomla site is its content. This is the meat and potatoes of what your visitors come to see. Here, you can access the **Article Manager**, **Category Manager**, **Featured Articles**, and **Media Manager** where you can manage any images, videos, or audio clips you've uploaded.
+At the heart of your Joomla site is its content. This is the meat and potatoes of what your visitors come to see. Here, you can access the **Article Manager**, **Category Manager**, **Featured Articles**, and **Media Manager** where you can manage any images, videos, or audio clips you have uploaded.
 
 ### Components
 

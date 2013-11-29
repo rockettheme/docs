@@ -98,7 +98,7 @@ The **Database Configuration** page establishes a connection to the database on 
 
 ![][install5]
 
-Once you've filled out the required information, click **Proceed to the next step** to initiate a connection to the database. If successful, a message similar to the one pictured below above appear.
+Once you have filled out the required information, click **Proceed to the next step** to initiate a connection to the database. If successful, a message similar to the one pictured below above appear.
 
 ### Step 5: Administrator Configuration
 
@@ -125,7 +125,7 @@ The **Administrator Configuration** page is where you can set the primary langua
 
 6. **Confirm Contact Email Address** Enter the email address used above again to confirm.
 
-Once you've entered the required information, select **Proceed to the next step** to continue. phpBB3 will then test your administrative options before allowing you to proceed.
+Once you have entered the required information, select **Proceed to the next step** to continue. phpBB3 will then test your administrative options before allowing you to proceed.
 
 ![][install7]
 
@@ -185,7 +185,7 @@ The **Server URL Settings** page is where miscellaneous server-specific data can
 
 ![][install11]
 
-Once you've entered the information, you can select **Proceed to next step** to lock the settings in and finalize installation. From here, you'll be given the option to log in to the backend of your site and begin using it.
+Once you have entered the information, you can select **Proceed to next step** to lock the settings in and finalize installation. From here, you'll be given the option to log in to the backend of your site and begin using it.
 
 [install1]: assets/phpbb_install_1.jpeg
 [install2]: assets/phpbb_install_2.jpeg

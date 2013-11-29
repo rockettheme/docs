@@ -6,7 +6,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/stratos:Stratos
 ---
 
 Introduction
-=====
+-----
 
 ![][stratos]
 
@@ -17,7 +17,7 @@ Below, we will break down some of these elements and give you the information yo
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We've added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
 Recommended Plugins
-=====
+-----
 
 Here is a list of RocketTheme plugins used to create the demo version of Stratos:
 
@@ -30,7 +30,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Stratos
 All of these plugins are included with the Stratos RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
-=====
+-----
 
 The front page of the Stratos demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you'll need to recreate elements present in the front page of the Stratos theme.
 

@@ -27,7 +27,7 @@ Installing RocketLauncher
 
 The first step you'll want to take whenever installing a WordPress RocketLauncher is to download the RocketLauncher file from [RocketTheme.com][rockettheme]. Any other source is likely to be outdated and unsupported. 
 
-Once you've downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
+Once you have downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
 
 ### Create a Database
 RocketLauncher for WordPress runs best on a MySQL database. You can create a database by going through your Web host. Some hosts have different processes for adding a database to your account than others, so you are best off checking with its specific processes to ensure that your MySQL database is up and ready to go.

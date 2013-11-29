@@ -59,7 +59,7 @@ Step 1: Download Magento
 
 There are two primary methods we recommend for downloading Magento. If you wish to start fresh with your own content and setup, you'll want to download the [official Magento Community Edition release][download] and start there. 
 
-You will be asked to create a user name and password before being able to download. Once you've done this, you can download Magento Community Edition free and apply it to your site without any additional registration required.
+You will be asked to create a user name and password before being able to download. Once you have done this, you can download Magento Community Edition free and apply it to your site without any additional registration required.
 
 If you wish to download a complete copy of our demo, including any widgets and/or pre-created products, you can do so by downloading a RocketLauncher from your desired theme's Download page.
 
@@ -146,7 +146,7 @@ Its a good idea to set a secret word at this point to have a custom admin path. 
 
 The final area of this page is the **Session Storage Options** which determines where session data will be saved. You can choose either the **File System** or the **Database**.
 
-Once you've set all the options as you would like them, click **Continue**.
+Once you have set all the options as you would like them, click **Continue**.
 
 ### Create Admin Account
 ![][install5]

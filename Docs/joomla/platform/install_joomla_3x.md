@@ -62,7 +62,7 @@ The first page in the Joomla! 3.x Web Installer is to select your preferred lang
 
 Next, you can name your site and give it a description (point 2). This description will be used by search engines as a reference to what it is your site is about. Ideally, it'll be the cached description Google displays when people search for something that can be found at the root of your site. 
 
-Next, you'll need to give yourself an administrative user name and password (point 3). This will allow you to receive email updates from the site as well as log in to the Administrator area, also known as the backend where you can configure site settings, layout, user properties, and customize the site to meet your specific needs. You can also opt to have the site remain offline (available only with an administrator's user name and password) until you are ready to switch it on later (point 4). You can have the site go live right away, but this means the public will see the demo duplicate as your home page until you've finished configuring your options. 
+Next, you'll need to give yourself an administrative user name and password (point 3). This will allow you to receive email updates from the site as well as log in to the Administrator area, also known as the backend where you can configure site settings, layout, user properties, and customize the site to meet your specific needs. You can also opt to have the site remain offline (available only with an administrator's user name and password) until you are ready to switch it on later (point 4). You can have the site go live right away, but this means the public will see the demo duplicate as your home page until you have finished configuring your options. 
 
 Once you are done with this page, hit the **Next** button.
 
@@ -98,7 +98,7 @@ On this page, you can elect to install sample data which will populate your site
 
 ![][installation_joomla3x_4]
 
-Once you've verified the settings on this page, just hit **Install** and your Joomla site will be set up for you. You will be prompted to remove the installation folder in the next page. By clicking this, you will have completed the installation process. 
+Once you have verified the settings on this page, just hit **Install** and your Joomla site will be set up for you. You will be prompted to remove the installation folder in the next page. By clicking this, you will have completed the installation process. 
 
 [installation_joomla3x_2]: assets/installation_joomla3x_2.png
 [installation_joomla3x_3]: assets/installation_joomla3x_3.png

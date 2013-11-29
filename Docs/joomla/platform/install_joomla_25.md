@@ -56,7 +56,7 @@ Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There
 
 :   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [19%, 90%, nw]
 
-First, you'll need to select your language of choice. Joomla is supported in a wide range of languages, including several English dialects. Once you've chosen your desired language, hit the *Next* button in the upper-right corner of the page.
+First, you'll need to select your language of choice. Joomla is supported in a wide range of languages, including several English dialects. Once you have chosen your desired language, hit the *Next* button in the upper-right corner of the page.
 
 ![][installation_j25_2]
 
@@ -65,7 +65,7 @@ First, you'll need to select your language of choice. Joomla is supported in a w
 
 The next step includes the pre-installation checks and a readout of recommended settings. These checks are in place to make sure that your server is capable of hosting Joomla 2.5 natively. If any of these checks (point 1) come up missing, you'll need to correct the issue prior to continuing the installation process.
 
-In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options are not required to run Joomla, but are recommended if you want to get the most out of your experience. Once you've confirmed the data on this page, you can hit the **Next** button to continue.
+In the **Recommended Settings** section (point 2) under the primary pre-installation check, a series of server-side settings options are checked and displayed for you. These options are not required to run Joomla, but are recommended if you want to get the most out of your experience. Once you have confirmed the data on this page, you can hit the **Next** button to continue.
 
 ![][installation_j25_3]
 
@@ -111,7 +111,7 @@ The **Main Configuration** page is where you name your site (point 1) and set up
 
 You'll need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
-At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you've finished building your site, you can easily remove this sample data in favor of your own.
+At the bottom of the next page, you have the option to load sample data to your site. This isn't a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you'll need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
 
 ![][installation_j25_7]
 

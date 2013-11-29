@@ -37,7 +37,7 @@ RokGallery's Component Administrator is broken into two main areas.
 	* **Delete**: This option gives you the ability to delete an image from RokGallery. Once deleted, it will no longer be available to appear on your site.
 
 2. The four icons on the right represent gallery-level controls.
-	* **Jobs**: Shows a popup log of all previous and current operations, such as imports. This is a good place to go if you've recently made changes to an image or gallery and do not see them on the frontend. This is typically due to the time required to process changes made to image files on the backend.
+	* **Jobs**: Shows a popup log of all previous and current operations, such as imports. This is a good place to go if you have recently made changes to an image or gallery and do not see them on the frontend. This is typically due to the time required to process changes made to image files on the backend.
 	* **Galleries**: Allows you to create, delete and manage all tag galleries. This popup is also available within a RokGallery widget when you have a gallery assigned. Changes made in this popup will impact all instances of the tag gallery.
 	* **Settings**: Gives you access to configuration for general aspects of RokGallery.
 	* **Upload**: This button opens a HTML5/Flash drag and drop image uploader.

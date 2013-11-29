@@ -14,7 +14,7 @@ RokSprocket has multiple layout modes to display your content including: [Featur
 
 :   1. **RokSprocket Module** This option within the Module Manager's **New Module** type list will initiate the creation of a RokSprocket Module. [37%, 8%, se]
 
-To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you'll initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you've created the new module, you'll be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
+To start, all of the layout modes are accessible using a single module type. By selecting **RokSprocket Module** from the module type list, you'll initiate the creation of a RokSprocket Module, which can be configured to fit any of the layout modes listed below. Once you have created the new module, you'll be taken to the module manager for `mod_roksprocket` where you can configure its individual settings. 
 
 Below, you'll see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
 

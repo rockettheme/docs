@@ -46,9 +46,9 @@ Once you are done filling out at least the Title and Menu Type, click either **S
 
 ![][new_menu_3]
 
-:   1. Once you've saved your new menu, it should appear in the Menu Manager. [75%, 15%]
+:   1. Once you have saved your new menu, it should appear in the Menu Manager. [75%, 15%]
 
-Once you've saved your new menu, it should appear in the **Menu Manager** (point 1). This is also the page you'll use to edit and manage your new menu.
+Once you have saved your new menu, it should appear in the **Menu Manager** (point 1). This is also the page you'll use to edit and manage your new menu.
 
 Managing Your Menus
 ---------

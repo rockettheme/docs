@@ -29,7 +29,7 @@ You can use your social media pages to build a reputation as an expert and influ
 
 This rule of thumb goes for any other link you might share on your portfolio. Previous clients, work examples, and other information should be checked regularly for 404 errors and potentially vetted to make sure the individuals involved with these links are not going to work against you. 
 
-Before you give out a previous client's name, make sure you've talked to them after the job was done and asked if they would mind if you added their brand to your portfolio. Some more detailed contracts involve reaching out to previous clients and asking them what their experience was like with you. This simple precaution will avoid any issues in this area.
+Before you give out a previous client's name, make sure you have talked to them after the job was done and asked if they would mind if you added their brand to your portfolio. Some more detailed contracts involve reaching out to previous clients and asking them what their experience was like with you. This simple precaution will avoid any issues in this area.
 
 Make Contact Information Easy to Find
 -----

@@ -31,7 +31,7 @@ Step 1: Download and Unpack
 
 The first step to installing WordPress is to download it either through [WordPress.org][org] or via one of our [RocketLaunchers][rockettheme].
 
-Once you've downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
+Once you have downloaded this ZIP file, unpack it so you have a folder containing the WordPress installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
 
 Alternatively, you can upload the ZIP file directly to your server and unzip it there, making sure the resulting files are moved to the directory you wish to have as the root of your WordPress install.
 

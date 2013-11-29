@@ -53,7 +53,7 @@ How to Install
 
 The first thing you’ll need to do is [download][download] the latest version of RokBridge. The package you will download contains everything to get RokBridge up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
-Once you've downloaded the package, go into the Joomla Administrator and:
+Once you have downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5:
 

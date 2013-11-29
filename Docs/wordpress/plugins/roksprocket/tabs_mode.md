@@ -27,7 +27,7 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
 
 3. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the module.
 
-Below the **Content Filter Rules** section are two options areas specific to the layout mode you've chosen. We've broken down the **Tabs Layout Options** and **Tabs Article Defaults** sections below.
+Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We've broken down the **Tabs Layout Options** and **Tabs Article Defaults** sections below.
 
 ![][tabs_2]
 

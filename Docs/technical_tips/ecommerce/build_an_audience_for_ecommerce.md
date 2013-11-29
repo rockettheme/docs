@@ -20,7 +20,7 @@ First, you'll want to find a way to communicate with your community on a one-on-
 
 This is a relatively easy task to pull off if you use the right tools. [HootSuite][hootsuite] is a popular choice for many businesses that want an easy way to find comments and messages from multiple social networks (Facebook, Twitter, Google+, etc.) in one place. It only takes a few seconds to make a lasting impression.
 
-Think about it this way: Would you rather give your business to a company that you've had a conversation with, or one that you've only heard about through advertising or passing word-of-mouth? Chances are, the average consumer will go with the company that has established a relationship beyond passive advertising.
+Think about it this way: Would you rather give your business to a company that you have had a conversation with, or one that you have only heard about through advertising or passing word-of-mouth? Chances are, the average consumer will go with the company that has established a relationship beyond passive advertising.
 
 ### Social Media Strategy: Be Informative
 The second social media plan of attack you might want to consider involves making your posts more useful to your customers than simply pitching your products. In fact, some of the best strategic posts out there do not even mention the brand's products at all. They are useful, sharable, and they generate conversation.

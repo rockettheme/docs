@@ -41,7 +41,7 @@ Installing RokSprocket takes just a matter of few minutes.
 
 The first thing you’ll need to do is [download][download] the latest version of RokSprocket. The package you will download contains everything to get RokSprocket up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
-Once you've downloaded the package, go into the Joomla Administrator and:
+Once you have downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5 and 3.x:
 

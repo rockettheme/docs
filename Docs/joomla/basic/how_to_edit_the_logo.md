@@ -18,7 +18,7 @@ The easiest method to use a "replacement logo" is to use the **Logo Picker** met
 
 ![][logo2]
 
-The Logo Picker method essentially allows you to pick from any image in your Media Manager (or RokGallery) and use that in place of the logo in its associated position. The logo will continue to act the same way as it did when you first installed the RocketLauncher and/or standalone template, though its source image file will be directed to the image you've selected.
+The Logo Picker method essentially allows you to pick from any image in your Media Manager (or RokGallery) and use that in place of the logo in its associated position. The logo will continue to act the same way as it did when you first installed the RocketLauncher and/or standalone template, though its source image file will be directed to the image you have selected.
 
 To accomplish this, you'll want to follow these steps:
 
@@ -32,7 +32,7 @@ To accomplish this, you'll want to follow these steps:
 
 5. Select your logo, click **Insert**, and **Save**.
 
-Your logo should now be replaced by the image you've selected.
+Your logo should now be replaced by the image you have selected.
 
 >> Note: Some templates have this option under the **Features** tab rather than **Style**.
 

@@ -13,7 +13,7 @@ Creating a New Gallery Page
 -----
 ![][page1]
 
-The first step to creating a gallery page is to access the **RokGallery Pages** tool accessible from your administrative sidebar. You can create a new gallery by selecting **Add New** in either the sidebar or next to the RokGallery title in the main **RokGallery Pages** configuration screen. This screen (pictured above) will list any gallery pages you've already created.
+The first step to creating a gallery page is to access the **RokGallery Pages** tool accessible from your administrative sidebar. You can create a new gallery by selecting **Add New** in either the sidebar or next to the RokGallery title in the main **RokGallery Pages** configuration screen. This screen (pictured above) will list any gallery pages you have already created.
 
 >> Gallery pages and tag galleries are handled differently by RokGallery. Creating a tag gallery makes image slice properties easily accessible while creating a gallery page has more in common with a widget. You apply tag galleries to gallery pages and RokGallery widgets. 
 

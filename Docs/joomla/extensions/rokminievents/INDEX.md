@@ -6,7 +6,8 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokminievents:RokMiniEvents
 ---
 
 Introduction
-======
+-----
+
 ![][intro]
 
 RokMiniEvents is a simple and elegant solution for displaying events on your site. The module syncs automatically with either Google Calendar, JomSocial, RSEvents, JEvents, EventList or RedEvent presenting basic information such as title, date and a description, which link to the full event.
@@ -15,6 +16,7 @@ The module is very intuitive, automatically adjusting itself based on your event
 
 Key Features
 ------------
+
 * **Sources**: Google Calendar, JomSocial, RSEvents, JEvents, EventList, RedEvent
 * **Time Range**: Select events from a variety of periods
 * **Time Format**: Control the type of date displayed
@@ -24,6 +26,7 @@ Key Features
 
 Requirements
 ------------
+
 RokMiniEvents has the following requirements in order to operate:
 
 * Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
@@ -33,11 +36,12 @@ RokMiniEvents has the following requirements in order to operate:
 
 How to install
 --------------
+
 Installing RokMiniEvents takes just a matter of few minutes.
 
 The first thing you'll need to do is [download][download] the latest version of RokMiniEvents. The package you will download contains everything to get RokMiniEvents up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
-Once you've downloaded the package, go into the Joomla Administrator and:
+Once you have downloaded the package, go into the Joomla Administrator and:
 
 From Joomla 2.5 and 3.x:
 

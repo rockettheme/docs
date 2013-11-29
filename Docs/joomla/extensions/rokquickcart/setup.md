@@ -107,14 +107,14 @@ The **Items Manager** is the primary hub for creating and modifying products tha
 ![][setup3]
 
 :	1. **Name** This is the name of your product that will be displayed on the products page. [14%, 31%, se]
-	2. **Price** This price (in the currency you've selected on the main configuration page) is for the product itself and does not include shipping. [19%, 31%, se]
+	2. **Price** This price (in the currency you have selected on the main configuration page) is for the product itself and does not include shipping. [19%, 31%, se]
 	3. **Shipping Cost** This is where you can add the shipping costs for the product that sit apart from the main product price. [25%, 31%, se]
 	4. **Select an Image** You can upload a full-size image of your product here. RokQuickCart will automatically create smaller image sizes for your site. [30%, 31%, se]
 	5. **Description** This is the description you wish to have appear with the product on your site. [55%, 31%, se]
 
 1. **Name**: This is the name of your product that will be displayed on the products page.
 
-2. **Price**: This price (in the currency you've selected on the main configuration page) is for the product itself and does not include shipping.
+2. **Price**: This price (in the currency you have selected on the main configuration page) is for the product itself and does not include shipping.
 
 3. **Shipping Cost**: This is where you can add the shipping costs for the product that sit apart from the main product price
 

@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/RokMiniEvents:RokMiniEvents
 Module Options
 -----
 
-Once you've created a new RokMiniEvents module, you can quickly gain access to its customization options by visiting **Administrator -> Extensions -> Module Manager** and selecting your RokMiniEvents module.
+Once you have created a new RokMiniEvents module, you can quickly gain access to its customization options by visiting **Administrator -> Extensions -> Module Manager** and selecting your RokMiniEvents module.
 
 Creating a new module is a simple process, as well. You just navigate to the **Module Manager** and select **New** on the toolbar in the upper-left area of the page.
 

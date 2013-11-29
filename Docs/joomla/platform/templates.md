@@ -23,7 +23,7 @@ There are several different ways to install a Joomla template from RocketTheme. 
 
 If you have an existing site running a Gantry-enabled template, you just need to download and install the standalone template along with any required and/or recommended extensions listed on the template's product page.
 
-If you have an existing site, but haven't yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.
+If you have an existing site, but have not yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.
 
 
 ### Installing a Template Using RocketLauncher
@@ -32,7 +32,7 @@ RocketLauncher is a working copy of our demo site which you can install on your 
 
 You can find the RocketLauncher file by visiting the main template page and selecting **Download**. RocketLauncher packages may be available for different versions of Joomla. This gives you a choice between the slightly older yet more widely supported Joomla 2.5 (J25) or the newer and slightly less extension-supported Joomla 3.x. If you have a set of extensions in mind that you wish to use on your site that do not presently support the latest version of Joomla, then packages labeled J25 in the download page will probably be the best choice for you. You can always update your Joomla installation, as well as other components of the site, within the Administrator area.
 
-After you've downloaded the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site. A more recommended method involves uploading the ZIP file directly to your server and unpacking it there. This reduces the probability of file corruption and makes for a faster uploading process. Not all hosts allow this, so check with yours to see if this is an option.
+After you have downloaded the RocketLauncher ZIP file, you can unpack it. This will give you a directory filled with the files you'll need to install Joomla and the RocketTheme template on your site. A more recommended method involves uploading the ZIP file directly to your server and unpacking it there. This reduces the probability of file corruption and makes for a faster uploading process. Not all hosts allow this, so check with yours to see if this is an option.
 
 Simply upload these files and subdirectories to your server's root web hosting directory. This is usually done via FTP/SFTP though your individual host may have other options available to you. 
 
@@ -60,7 +60,7 @@ The easiest way to do this is by going to **Admin → Extensions → Extension M
     2. **Browse** Locate the template's ZIP file on your local drive. [60%, 91%, sw]
     3. **Upload and Install** This will begin installation of your new template. [71%, 42%, ne]
 
-Once you've done this, you should be at an installation page (indicated by the sidebar in the image above). From here, you'll need to select **Browse** (point 2) and choose your template package zip file you downloaded previously. After you've made your selection, hit **Upload and Install** (point 3). Joomla will automatically unzip the package and install its components for you. 
+Once you have done this, you should be at an installation page (indicated by the sidebar in the image above). From here, you'll need to select **Browse** (point 2) and choose your template package zip file you downloaded previously. After you have made your selection, hit **Upload and Install** (point 3). Joomla will automatically unzip the package and install its components for you. 
 
 ![][install3]
 
@@ -72,7 +72,7 @@ The downloads page for the template might indicate one or more extensions are re
 
 :   1. **Default** Selecting the star will set the template as default template for the visitors side of your Joomla site. [75%, 70%, ne]
 
-Once you've successfully installed the bundle, you can navigate to **Admin → Extensions → Template Manager** and select the star next to your new template (point 1) to set it as the default template for the front end of your site.
+Once you have successfully installed the bundle, you can navigate to **Admin → Extensions → Template Manager** and select the star next to your new template (point 1) to set it as the default template for the front end of your site.
 
 ### Installing a Standalone Template
 

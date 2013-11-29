@@ -19,4 +19,4 @@ In this example, you would add `{loadposition 11}` into your article body. The m
 
 **loadmodule**
 
-The `{loadmodule xxx}` command is an alternative that works by finding the first module type that matches what you've placed instead of `xxx` and injects it into the article body wherever you put the code.
+The `{loadmodule xxx}` command is an alternative that works by finding the first module type that matches what you have placed instead of `xxx` and injects it into the article body wherever you put the code.

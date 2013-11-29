@@ -55,7 +55,7 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
     7. **Revert and Apply** These buttons allow you to revert all settings to the original image, or apply any changes made. You still need to hit **Save** **(10)** before closing the slice to save all changes, though. [38%, 62%, nw]
     8. **Title, Slug, Link, Caption, and Tags** These options allow you to change the title, slug, link (where clicking the image takes the visitor), caption, and the slice's tags independently of defaults set in the Image Editor. [9%, 16%, sw]
     9. **Thumbnail** This option sets the thumbnail size for the slice as it would appear in any gallery displays that require a thumbnail. Additionally, these settings are used on the administrative end to display the slice in the Image Editor. [12%, 65%, se]
-    10. **Save, Publish, Gallery, and Close** These options allow you to save the slice as it has been edited in the Slice Editor, as well as publish the slice, assign a gallery (tags), and close the Slice Editor. If you wish to exit the Slice Editor without saving anything you've done, just hit **Close**. [12%, 85%, nw]
+    10. **Save, Publish, Gallery, and Close** These options allow you to save the slice as it has been edited in the Slice Editor, as well as publish the slice, assign a gallery (tags), and close the Slice Editor. If you wish to exit the Slice Editor without saving anything you have done, just hit **Close**. [12%, 85%, nw]
 
 1. **Grip**: This tool allows you to grab and move a zoomed-in image around in the editor.
 
@@ -75,7 +75,7 @@ The RokGallery Image Editor is available to you from within the RokGallery compo
 
 9. **Thumbnail**: This option sets the thumbnail size for the slice as it would appear in any gallery displays that require a thumbnail. Additionally, these settings are used on the administrative end to display the slice in the Image Editor.
 
-10. **Save, Publish, Gallery, and Close**: These options allow you to save the slice as it has been edited in the Slice Editor, as well as publish the slice, assign a gallery (tags), and close the Slice Editor. If you wish to exit the Slice Editor without saving anything you've done, just hit **Close**.
+10. **Save, Publish, Gallery, and Close**: These options allow you to save the slice as it has been edited in the Slice Editor, as well as publish the slice, assign a gallery (tags), and close the Slice Editor. If you wish to exit the Slice Editor without saving anything you have done, just hit **Close**.
 
 The Slice Editor gives you the ability to edit (or create) individual slices used in gallery modules and other RokGallery-supported areas of your site. These slices are independent copies of the original images, and as such, any changes you make in the Slice Editor only affect the individual slice.
 

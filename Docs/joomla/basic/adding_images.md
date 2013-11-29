@@ -50,7 +50,7 @@ The **Caption** (point 4) is whatever you would like to appear as a caption on t
 
 The Joomla media management tool gives you the ability to access files in your media directories, as well as upload new ones. You can access this popup by hitting the **Image** button under the text editor of your new article page.
 
-The top portion of this tool gives you basic navigation and selection controls (points 1 and 2). You can use this to quickly select your image or media file of choice. Once you've done this, hit **Insert** to add the selected image to your article.
+The top portion of this tool gives you basic navigation and selection controls (points 1 and 2). You can use this to quickly select your image or media file of choice. Once you have done this, hit **Insert** to add the selected image to your article.
 
 If you wish to use an image hosted separately from your site, or define the image's settings beyond the defaults, you can do so using the bottom portion(s) of the utility (pictured below).
 
@@ -75,13 +75,13 @@ If you have not yet added your new image to the media library, you can do so usi
 :   1. **Dimensions** This sets the dimensions of the image as it appears on the article. [37%, 40%]
     2. **Border** This option allows you to set a border thickness in the event that you wish to have a border around your image. Some templates may offer mixed support for this option. [43%, 32%]
     3. **Vertical and Horizontal Space** This option allows you to specificy the amount of space between your text and the image. [50%, 32%]
-    4. **Update** This locks in the changes you've made using this tool. [70%, 24%]
+    4. **Update** This locks in the changes you have made using this tool. [70%, 24%]
 
 The integrated image tool built in to TinyMCE is very simple, though it does offer several useful features for refining how your image looks when placed in the inline editor.
 
 For example, you can set the **Dimensions** (point 1), **Border** (point 2), the **Vertical and Horizontal Space** between your image and the surrounding text (point 3), configure image alignment, and set an image description which appears when you move your mouse over the image.
 
-Once you've made your desired changes, hit **Update** (point 4) to lock them in.
+Once you have made your desired changes, hit **Update** (point 4) to lock them in.
 
 [add_image_1]: assets/add_image_1.jpeg
 [add_image_2]: assets/add_image_2.jpeg

@@ -33,7 +33,7 @@ Here is a look at the **Mosaic Layout Options** for this widget.
 
 You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
-Once you've created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you've done this, you'll need to complete the following.
+Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you'll need to complete the following.
 
 * Select your RokSprocket Featured widget in the **Choose Widget** field.
 * Set the **Custom Variations** option to `nomarginbottom nopaddingbottom`.

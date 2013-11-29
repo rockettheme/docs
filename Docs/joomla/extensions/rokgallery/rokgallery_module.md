@@ -54,7 +54,7 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 
 :   1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences. [30%, 72%, sw]
     2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
-    3. **Default Linked Item** If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to. [39%, 60%, sw]
+    3. **Default Linked Item** If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to. [39%, 60%, sw]
     4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [44%, 32%, se]
     5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [49%, 60%, sw]
     6. **Sort By** This option sets the default sorting order for images in the gallery. [53%, 32%, se]
@@ -67,7 +67,7 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 
 2. **Link Type**: This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all.
 
-3. **Default Linked Item**: If you've selected **Link in Slice** and you haven't set a link within the slice, this will be the link the gallery defaults to.
+3. **Default Linked Item**: If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to.
 
 4. **Show Title**: This option sets whether or not the title of a slice is shown in the gallery.
 
@@ -83,7 +83,7 @@ Once there, you'll be asked which type of module you wish to create. RokGallery 
 
 10. **Gallery Layout**: Galleries can be laid out in a Grid, Slideshow, or Showcase pattern.
 
-Each layout option comes with one or more specific settings. These settings appear at the bottom of the **Basic** module options, depending on which **Gallery Layout** you've selected.
+Each layout option comes with one or more specific settings. These settings appear at the bottom of the **Basic** module options, depending on which **Gallery Layout** you have selected.
 
 ![][grid]
 

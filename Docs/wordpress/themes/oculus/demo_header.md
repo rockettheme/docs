@@ -25,7 +25,7 @@ The header section remains the same across the entire demo site. For this reason
 
 #### Gantry Social Buttons
 
-The Gantry Social Buttons widget creates a set of social buttons on the top of the page. Filling this out is fairly straightforward. Once you've clicked and dragged the **Gantry Social Buttons** widget in place, you'll want to add your various social URLs to their respective fields. Once this is done, simply hit **Save** and check the site.
+The Gantry Social Buttons widget creates a set of social buttons on the top of the page. Filling this out is fairly straightforward. Once you have clicked and dragged the **Gantry Social Buttons** widget in place, you'll want to add your various social URLs to their respective fields. Once this is done, simply hit **Save** and check the site.
 
 #### Gantry Divider
 

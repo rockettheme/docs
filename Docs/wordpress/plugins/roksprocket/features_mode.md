@@ -32,7 +32,7 @@ Features is a content slideshow/showcase layout mode. It can display both images
 
 4. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the widget.
 
-Below the **Content Filter Rules** section are two options areas specific to the layout mode you've chosen. We've broken down the **Features Layout Options** and **Features Article Defaults** sections below.
+Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We've broken down the **Features Layout Options** and **Features Article Defaults** sections below.
 
 ![][features_2]
 

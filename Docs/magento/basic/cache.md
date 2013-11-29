@@ -9,7 +9,7 @@ breadcrumb: /magento:Magento/!basic:Basic/
 Introduction
 -----
 
-Magento uses cache in many different ways, so you'll notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it is best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you've made.
+Magento uses cache in many different ways, so you'll notice several various caching features that you can enable or disable. If you are working on customizing your site and getting it set up, it is best to **disable** all the cache settings. This allows you to work and check your site routinely without having to wait for cache to catch up with any changes you have made.
 
 ![][cache]
 
@@ -79,7 +79,7 @@ Merge CSS
 
 Magento requires many CSS files to display a site's theme and style. These files can be merged using this feature, saving time and weight on page load. This process takes multiple CSS files used by your site and compiles them into a single file. 
 
-After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear JavaScript and CSS** cache. This is a good feature to turn on after you've completed customizing your site.
+After turning this feature on, be sure to test several pages and try different browsers. Also, visit your cache settings and **Clear JavaScript and CSS** cache. This is a good feature to turn on after you have completed customizing your site.
 
 You can find this feature by navigating to **Admin Panel -> System -> Configuration** and selecting **Developer** near the bottom of the sidebar on the left. You'll find the **CSS Settings** menu on the resulting page.
 

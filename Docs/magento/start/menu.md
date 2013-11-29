@@ -57,7 +57,7 @@ Promotional aspects of your online store are managed through pages accessible by
 
 ![][menu7]
 
-The **Newsletter** menu is your one-stop shop for all things related to your store's newsletter. If you want to get the word out about an upcoming promotion, sale, or maybe even any new items you've recently added to the catalog, this is where you can get that done.
+The **Newsletter** menu is your one-stop shop for all things related to your store's newsletter. If you want to get the word out about an upcoming promotion, sale, or maybe even any new items you have recently added to the catalog, this is where you can get that done.
 
 You'll also find a list of current subscribers you can use to manage this group, as well as a list of newsletter problem reports.
 

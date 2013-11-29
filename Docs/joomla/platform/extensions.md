@@ -61,7 +61,7 @@ If you do not see the **Install** page (see the figure below), you can navigate 
     2. **Install from Directory** Useful if you are installing an unzipped extension from a server directory. [30%, 43%, sw]
     3. **Install from URL** Useful if you need to install from an external Web server. [30%, 55%, sw]
     4. **Browse** This will open a file manager window you can use to point to the extension package file on your hard drive. [49%, 90%, sw]
-    5. **Upload and Install** Click this button after you've selected the package file from point 4. [60%, 40%, ne]
+    5. **Upload and Install** Click this button after you have selected the package file from point 4. [60%, 40%, ne]
 
 From there, you'll be able to upload the package file directly by selecting *Browse* within the *Upload Package File* tab of the Extension Manager. 
 
