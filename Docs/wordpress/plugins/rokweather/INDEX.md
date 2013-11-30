@@ -7,22 +7,26 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokweather:RokWeather
 
 Introduction
 -----
+
 ![][rokweather]
+
 RokWeather is an Ajax-powered weather widget which utilizes the Yahoo or Wunderground APIs to display weather data and related information from regions all across the globe.
 
 Included are options to display temperature, climate, wind speed as well as frontend based location user interaction, default location settings and cookie enabling options.
 
 Requirements
 ------------
+
 RokWeather has the following requirements in order to operate:
 
-* WordPress 1.5, 2.5, or WordPress 3.x - ensure you are using the latest version
+* WordPress 3.x - Ensure you are using the latest version
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
 Key Features
 ------------
+
 * **Graphical Representation**: the widget is packaged with images to showcase all types of weather from rain to sunshine.
 * **Location Chooser**: Click the current area and type your desired location and the widget will show the appropriate weather, with both frontend and backend configuration options.
 * **Temperature Units**: RokWeather supports both the Fahrenheit and Celsius temperate scales.
@@ -34,6 +38,7 @@ Key Features
 
 How to install
 --------------
+
 Installing RokWeather takes just a matter of few minutes.
 
 The first thing you will need to do is [download][download] the latest version of RokWeather. The package you will download contains everything you need to get RokWeather up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 

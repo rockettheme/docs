@@ -18,7 +18,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
     3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 80%, nw]
     4. **Content Filter Rules** Sets the content filter rules for the widget. [56%, 80%, sw]
 
-1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the widget should appear in.
+1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look.
 
 2. The **Filtered Article List** gives you access to item-specific settings including:
 

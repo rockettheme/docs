@@ -10,7 +10,7 @@ Introduction
 
 In phpBB3, **styles** are made up of three components: **templates**, **themes**, and **imagesets**. These components work together to create a unique user experience for members of your board. A style can be altered after installation, and you can freely switch between styles in the backend of your phpBB site.
 
-Installing a new style in phpBB requires you to upload files to your site. We recommend using [FileZilla][filezilla], though any dedicated or Web-based file transfer solution that allows you to transfer files to your server should work.
+Installing a new style in phpBB requires you to upload files to your site. One popular choice is [FileZilla][filezilla], though any dedicated or Web-based file transfer solution that allows you to transfer files to your server should work.
 
 Secondly, you will want to familiarize yourself with the **Administration Control Panel (ACP)** in order to complete installation once uploading is complete. You can access the **Styles** area of the ACP by navigating to **Admin -> Styles** in the backend. You can typically find a direct link to the ACP by navigating to the very bottom of the front page of your phpBB installation and clicking **Administration Control Panel**. 
 

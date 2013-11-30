@@ -27,7 +27,7 @@ RokGallery has the following requirements in order to operate:
 * PHP support for PDO
 * PHP support for GD2
 * PHP 5.2.17 and above
-* RokCommon 3.1+ Plugin (You can download it [here][rokgallery_download])
+* RokCommon 3.1+ Plugin (You can download it [here][download])
 
 >> NOTE: Internet Explorer 7 and before are not supported
 
@@ -70,7 +70,7 @@ From WordPress 3.x:
 * Select the `wp_rokgallery.zip` that you just downloaded from your local drive.
 * Click the **Install Now** button.
 
-![][rokgallery_install_1]
+![][install2]
 
 Once installation is complete, you will receive a message (shown above) indicating that the plugin was installed successfully. To activate RokGallery right away, select **Activate Plugin** from this confirmation page.
 

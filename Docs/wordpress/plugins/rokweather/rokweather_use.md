@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokweather:RokWeather
 Using RokWeather
 -----
 
-RokWeather is a highly configurable widget that allows you to control the various aspects of its appearance and functions. Not only does this widget configurable in the backend, but you can double-click the location from the frontend and change it without having to access the administrator account at all. This is a small, but useful function that users can take advantage of.
+RokWeather is a highly configurable widget that allows you to control the various aspects of its appearance and functions. Not only is this widget configurable in the backend, but you can double-click the location from the frontend and change it without having to access the administrator account at all. This is a small, but useful function that users can take advantage of.
 
 ### Widget Options
 
@@ -17,7 +17,7 @@ RokWeather is a highly configurable widget that allows you to control the variou
 :   1. **Title** This title will appear over the widget on the frontend. If left blank, no title will appear. [15%, 10%, ne]
     2. **Source** Choose between Yahoo or Wunderground. [20%, 10%, ne]
     3. **Default Location** Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO. [26%, 10%, ne]
-    4. **Location Display Override** This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town. [33%, 10%, ne]
+    4. **Location Display Override** This option allows you to display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town. [33%, 10%, ne]
     5. **Forecast Items to Show** This setting determines how many days ahead the widget will display a forecast for. [47%, 10%, ne]
     6. **Default Degree Type** Choose between degree Celsius or Fahrenheit for the default temperature reading. [52%, 10%, ne]
     7. **User interaction** This parameter allows to disable user interaction so they cannot change the location and weather data. [56%, 10%, ne]
@@ -37,7 +37,7 @@ RokWeather is a highly configurable widget that allows you to control the variou
 3. **Default Location**: Enter a location that will have its weather data displayed by default. For example, the default option is Golden, CO.
 >> Some locations may return as invalid, although available on the respective sources due to limitations in their APIs, not RokWeather.
 
-4. **Location Override**: This option allows you display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town.
+4. **Location Override**: This option allows you to display weather data for one location whilst displaying a label for another, such as using a nearby city's weather data but displaying the name of your own town.
 
 5. **Forecast Items to Show**: This setting determines how many days ahead the widget will display a forecast for. This only works if **Enable Weather Forecasts** is turned on under **General Settings**.
 
@@ -47,7 +47,7 @@ RokWeather is a highly configurable widget that allows you to control the variou
 
 8. **Enable Units Switch**: This option allows you to configure whether the Celsius/Fahrenheit switch is displayed.
 
-9. **Location Caching**: 
+9. **Location Caching**: Enables or disables a location cache.
 
 10. **Enable Location Cookie**: A cookie is created when a user enters a location which will be stored for when the user visits again. This option allows you to disable the setting of a cookie, and therefore, the default location will be shown on each refresh.
 

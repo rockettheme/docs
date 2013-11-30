@@ -23,10 +23,10 @@ RokSprocket has the following requirements in order to operate:
 Key Features
 ------------
 
-* Multiple layout options: Features, Tabs, Lists, Mosaic & Headlines
+* Multiple layout options: Features, Tabs, Lists, Mosaic, Strips, and Headlines
 * 6 supported content providers: WordPress, CFS, CPT, Types, PostTypes, and Simple
 * Advanced cumulative filters: specific and dynamic filters
-* Advanced sorting rules: automatic, manual, mixed or random
+* Advanced sorting rules: automatic, manual, or random
 * Individual post display and configuration
 * Inline post previews
 * Inline post details and editing

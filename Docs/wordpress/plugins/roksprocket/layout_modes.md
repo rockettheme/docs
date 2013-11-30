@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 Introduction
 ------------
-RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the RokSprocket Admin interface.
+RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the RokSprocket Admin interface.
 
 ![][admin1]
 
@@ -22,6 +22,7 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Lists][lists_link]
 * [Mosaic][mosaic_link]
 * [Headlines][headlines_link]
+* [Strips][strips_link]
 
 Content Providers
 -----
@@ -34,6 +35,7 @@ Alternatively, RokSprocket supports the following content providers:
 * [CFS][cfs]
 * [CPT][cpt]
 * [Types][types]
+* Simple
 * PostTypes
 
 ### Using the 'Simple' Content Provider

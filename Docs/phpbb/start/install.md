@@ -11,7 +11,7 @@ Introduction
 
 Installation can be quick and easy, as long as the server you are hosting it from meets all the requirements needed to run phpBB3. You will find these requirements listed in the [Requirements Check][requirements] portion of this guide.
 
-The majority of the installation process takes place in your browser, though you will need some way to move the zipped or unzipped files to your server. We recommend [FileZilla][filezilla], though any compatible FTP, SFTP, or web-based file management solution will work just fine.
+The majority of the installation process takes place in your browser, though you will need some way to move the zipped or unzipped files to your server. One popular option is [FileZilla][filezilla], though any compatible FTP, SFTP, or web-based file management solution will work just fine.
 
 You will also need to have a compatible database set up and ready to go. Options for this database can be found in the [Requirements Check][requirements] area of this tutorial.
 

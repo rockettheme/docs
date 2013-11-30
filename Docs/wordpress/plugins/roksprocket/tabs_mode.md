@@ -33,7 +33,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 :   1. **Theme** This sets the theme for displaying tabs in the module. [12%, 08%, ne]
     2. **Tabs Position** This option sets where in the widget the tabs will appear. [16%, 08%, ne]
-    3. **Display Limit** This option sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited. [20%, 08%, ne]
+    3. **Display Limit** This option sets the amount of items that display when rendering. 0 or ∞ indicates unlimited. [20%, 08%, ne]
     4. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one tab to the next. [26%, 08%, ne]
     5. **Autoplay** Sets whether you want the widget to start rolling through tabs automatically when the page loads, or to await a command from the visitor. [31%, 08%, ne]
     6. **Autoplay Delay** Sets the amount of time between cycled tabs in the module. The longer this delay (in seconds), the longer a single post will be featured in the module. [37%, 08%, ne]
@@ -49,7 +49,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 2. **Tabs Position** sets where in the widget the tabs will appear. 
 
-3. **Display Limit** sets the amount of tiles that display when rendering. 0 or ∞ indicates unlimited.
+3. **Display Limit** sets the amount of items that display when rendering. 0 or ∞ indicates unlimited.
 
 4. **Animation** gives you the ability to set the type of animation that happens during transitions from one tab to the next. 
 

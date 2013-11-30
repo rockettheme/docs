@@ -13,7 +13,7 @@ It is a modular platform that utilizes a system of plugins and themes in order t
 
 WordPress is used for a wide range of sites including: eCommerce, blogs, photo galleries, news, aggregates, and many more. In many cases, WordPress serves as the backbone of sites that are largely static in order to allow for easy changes by non-developer personnel later on.
 
-WordPress is built to be simple and easy for the end user to manage. Site content is added by way of an integrated text editor and can be arranged using a series of click-and-drag widget placement operations. It is currently one of the most popular CMS platforms for personal and small business use, thought it is also used on some of the most popular sites on the Web today.
+WordPress is built to be simple and easy for the end user to manage. Site content is added by way of an integrated text editor and can be arranged using a series of click-and-drag widget placement operations. It is currently one of the most popular CMS platforms for personal and small business use, though it is also used on some of the most popular sites on the Web today.
 
 Features
 -----
@@ -31,17 +31,17 @@ Widgets are the modular building blocks on which a site is built. While the main
 
 You could have a login widget that allows users to log in to WordPress from the frontend of your site, a weather widget that displays the weather in a specific area of a page, or any number of other possible solutions. 
 
-Widget positions are largely determined by the individual theme. Some themes support a large number of potential widget positions, while others might not support any.
+Widget positions are largely determined by the individual theme. Some themes support a large number of potential widget positions.
 
 ### Multi-User
 WordPress allows for collaboration and for the use of member-based site management. You can, through the use of plugins and several integrated features, use WordPress to manage a member's only section, ecommerce, and many other possible solutions.
 
-As a blogging platform, WordPress allows you to set up and manage an entire team. You can set up some members with greater permission levels than others. For example: You can set one member up as a contributor that can only write and submit posts to your site while another individual is assigned the role of editor. Editors can edit contributions and handle other site management tasks as allows by the administrator.
+As a blogging platform, WordPress allows you to set up and manage an entire team. You can set up some members with greater permission levels than others. For example: You can set one member up as a contributor that can only write and submit posts to your site while another individual is assigned the role of editor. Editors can edit contributions and handle other site management tasks as allowed by the administrator.
 
 Every site needs at least one administrator with the ability to assign and remove roles from users.
 
 ### Open Architecture
-Because WordPress is built on an open architecture, it is extremely flexible. Through the use of scripts built into you theme, you can extend the capabilities of WordPress well beyond its initial blog-friendly framework. You can also host it through a series of different databases and server solutions in order to optimize and scale. 
+Because WordPress is built on an open architecture, it is extremely flexible. Through the use of scripts built into your theme, you can extend the capabilities of WordPress well beyond its initial blog-friendly framework. You can also host it through a series of different databases and server solutions in order to optimize and scale. 
 
 WordPress sites can be hosted on anything from a shared budget hosting plan to a massive network of storage and active servers, CDNs, and other complex solutions.
 

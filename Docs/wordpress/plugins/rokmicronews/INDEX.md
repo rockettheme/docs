@@ -30,9 +30,7 @@ RokMicroNews has the following requirements in order to operate:
 * WordPress 3.x - Ensure you have the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
->> NOTE: Internet Explorer 7 and before are not supported
-
->> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you will need to have CURL enabled on your server. You can ask your hosting provider to activate this.
+>> NOTE: Internet Explorer 7 and before are not supported.
 
 How to install
 --------------
@@ -49,7 +47,7 @@ From WordPress 3.x:
 * Select the `wp_rokmicronews.zip` that you just downloaded from your local drive.
 * Click the **Install Now** button.
 
-Once installation is complete, you will receive a message (shown above) indicating that the plugin was installed successfully. To activate RokSprocket right away, select **Activate Plugin** from this confirmation page.
+Once installation is complete, you will receive a message indicating that the plugin was installed successfully. To activate RokSprocket right away, select **Activate Plugin** from this confirmation page.
 
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 

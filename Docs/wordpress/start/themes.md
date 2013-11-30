@@ -10,7 +10,7 @@ How to Install a WordPress Theme from RocketTheme
 
 There are two primary methods used to install a theme by RocketTheme. You can download the theme files and associated plugins to install them on an existing site, or opt to go with RocketLauncher. 
 
-What makes RocketLauncher an appealing solutions is that it includes everything you need to hit the ground running with your site. It comes complete with WordPress, a quick and easy database setup method, associated plugins, and plenty of pre-written content to help you get started with your site.
+What makes RocketLauncher an appealing solution is that it includes everything you need to hit the ground running with your site. It comes complete with WordPress, a quick and easy database setup method, associated plugins, and plenty of pre-written content to help you get started with your site.
 
 Whichever way you decide to go, RocketTheme is dedicated to making sure its products are easily updated and capable of running on all of the most common server solutions.
 
@@ -20,7 +20,7 @@ Gantry-powered themes require the Gantry framework in order to run on your site.
 
 #### Downloading the Theme Files
 
-Installing the theme by way of the theme files and associated plugins is the most common way to get Metropolis on your site if you have existing content and widgets you wish to preserve. You can download all the files listed below by visiting the theme's primary download page.
+Installing the theme by way of the theme files and associated plugins is the most common way to get it on your site if you have existing content and widgets you wish to preserve. You can download all the files listed below by visiting the theme's primary download page.
 
 To install the theme powered by Gantry, you need two files:
 
@@ -40,7 +40,7 @@ There are other files that you may wish to download that accompany the release, 
 #### Installing Using the WordPress Installer
 
 * Log in into the WordPress administrative dashboard (*http://www.yoursite.com/wp-admin/*).
-* In the left menu sidebar, go to **Appearance → Add New Themes → Upload**.
+* In the left menu sidebar, go to **Appearance → Install Themes → Upload**.
 * Select the **Choose File** button.
 * Locate the **rt_themename_wp.zip** file on your computer.
 * Click **Install Now**.
