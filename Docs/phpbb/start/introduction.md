@@ -11,11 +11,11 @@ What is phpBB?
 
 ![][introduction]
 
-**phpBB** is one of the most popular and widely used open source bulletin board systems currently available. Forums are powered by [phpBB][phpbb] that cater to virtually any sized audience from a handful of users per month to thousands per day.
+**phpBB** is one of the most popular and widely used open source bulletin board systems currently available. Forums are powered by [phpBB][phpbb] that cater to virtually any sized audience from a handful of users per month to thousands per day. 
 
 Sites powered by phpBB are frequently used to provide support, facilitate community interaction, and are even useful for small, collaborative teams searching for a platform where multiple discussions can be easily searched and read.
 
-phpBB is released under the [GNU Public License][gnu] and can be modified and expanded upon.
+phpBB is released under the [GNU Public License][gnu] and can be modified and expanded upon. An abundance of add-ons and other third-party modifications are available for free through multiple phpBB user groups and resources. phpBB has a large and active user community, with many contributors producing third-party tools to extend phpBB's functionality well beyond what's available with the core product.
 
 Features of phpBB3
 -----

@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokfeaturetable:RokFeatureTabl
 
 Widget Options
 -----
+
 You can access RokFeatureTable's main widget settings by navigating to **Admin -> Appearance -> Widgets -> RokFeatureTable**. Any changes you make here will be reflected in a single occurrence of the RokFeatureTable widget on the frontend of your site.
 
 ![][widget1]
@@ -29,7 +30,8 @@ You can access RokFeatureTable's main widget settings by navigating to **Admin -
 
 Table Layout
 -----
-You can access the table layout options via the widget properties menu featured above. This tool allows you to create and fill your feature table with information that includes everything from basic text to custom CSS classes, subline text, links, and styles.
+
+You can access the table layout options via the widget properties menu. This tool allows you to create and fill your feature table with information that includes everything from basic text to custom CSS classes, subline text, links, and styles.
 
 ![][widget2]
 

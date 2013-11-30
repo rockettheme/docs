@@ -88,13 +88,18 @@ First, you will want to make sure you have the latest version of RokBB 3/5 (depe
 
 1. **Show Joomla Menu** This should be set to **Yes** in order to turn on the feature to show the Joomla menu at the top of the phpBB3 page instead of the built-in phpBB3 menu.
 
-2. **Joomla Menu Path** This is the relative path to the directory containing your Joomla installation. This path should end in a `/`. (Example: ../joomla/)
+2. **Joomla Menu Path** This is the relative path to the directory containing your Joomla installation. This path should end in a `/`. If, for example, your phpBB installation is located in a subdirectory within your Joomla install (/joomla root/phpbb3/), you would put `../` in the field. The **../** points up one level to the Joomla root directory. If your phpBB3 installation is located in a different directory branch (on the same level as the Joomla root), then you will want to put `../joomla root/`.
 
 3. **Guest Menu Filename** This is the name of the menu file used for non-registered users of the forum. Copy this value from your plugin settings in Joomla. These file names must remain the same.
 
 4. **Registered Menu Filename** This is the name of the menu file used for registered members of your forum. This name must be the same as the one entered on the Joomla side.
 
 5. **Headers Filename** This is the name of the file used for head scripts.
+
+![][folders]
+
+:	1. **Relative Path** ../ [37%, 32%, sw]
+	2. **Relative Path** ../joomla/ [47%, 28%, nw]
 
 Once this is set, press **Submit** and enjoy using your Joomla menu on your phpbb3 board. If changes made here are not immediately visable, a manual cache purge is advised. You can do this by deleting cached files from the **Cache** folder in the phpBB3 installation via FTP.
 
@@ -107,3 +112,4 @@ Once this is set, press **Submit** and enjoy using your Joomla menu on your phpb
 [nav6]: assets/roknavmenu_6.jpeg
 [nav7]: assets/roknavmenu_7.jpeg
 [nav8]: assets/roknavmenu_8.jpeg
+[folders]: assets/folders.jpg
