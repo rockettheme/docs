@@ -10,7 +10,7 @@ How to Install a WordPress Theme from RocketTheme
 
 There are two primary methods used to install a theme by RocketTheme. You can download the theme files and associated plugins to install them on an existing site, or opt to go with RocketLauncher. 
 
-What makes RocketLauncher an appealing solution is that it includes everything you need to hit the ground running with your site. It comes complete with WordPress, a quick and easy database setup method, associated plugins, and plenty of pre-written content to help you get started with your site.
+What makes RocketLauncher an appealing solution is that it includes everything you need to hit the ground running with your site. It comes complete with WordPress, a quick and easy database setup method, associated plugins, and plenty of pre-written content to help you get started with your site. The Rocketlauncher will replicate the demo as seen on the Rockettheme site, so you are ready to go after just a few clicks.
 
 Whichever way you decide to go, RocketTheme is dedicated to making sure its products are easily updated and capable of running on all of the most common server solutions.
 

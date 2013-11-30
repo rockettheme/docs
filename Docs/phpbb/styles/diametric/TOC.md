@@ -5,8 +5,8 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!diametric:Diametric/
 ---
 
 * Diametric
-	* [Introduction](index.md#introduction)
-	* [Features](index.md#features)
+	* [Introduction](INDEX.md#introduction)
+	* [Features](INDEX.md#features)
 * Installation
 	* [How to Install phpBB3](../../start/install.md)
 	* [How to Install Styles](../../start/styles.md)

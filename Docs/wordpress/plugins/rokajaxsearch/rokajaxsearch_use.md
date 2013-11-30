@@ -89,9 +89,9 @@ Widget Settings
 
 1. **Title**: If a title is present in this field, it will appear along with the RokAjaxSearch widget. If left blank, no title will propagate.
 
-All other options listed in the above image are added via Gantry. If you are using a theme build on [Gantry framework][gantry], then these options may allow you some additional variations on the widget's appearance and positioning. Here is a quick look at these options:
+All other options listed in the above image are added via Gantry. If you are using a theme built on [Gantry framework][gantry], then these options may allow you some additional variations on the widget's appearance and positioning. Here is a quick look at these options:
 
-* **Widget Style**: Sets the widget style for the gallery. You can choose from Flush, Flush Bottom, or Flush Top.
+* **Widget Style**: Sets the widget style. You can choose from Flush, Flush Bottom, or Flush Top.
 * **Box Variation**: Sets a background look for the widget box, based on the active theme.
 * **Title Variation**: Allows you to choose from different title variations, based on the theme.
 * **Shadow Variation**: Allows you to choose from different shadow appearances, based on the theme.

@@ -38,6 +38,8 @@ Here are some questions to ask yourself prior to making any hosting decisions.
 * Will my hosting provider also need to manage email for my domain?
 * What type of hosting can I afford? Can I handle overage fees if my site is hit by an unexpected overflow of traffic?
 
+You should also take in account where your main target audience are located - For example, if your customers are mainly from Europe, you should choose a Web host that is based in (or have services) in Europe. The further away you are from your customers, the slower your Web site will be in general. You will lose customers/visitors if your Web site is slow.
+
 With these answers at the ready, choosing the right hosting provider can be a fairly easy process. The vast majority of hosts out there offer pretty much the same list of benefits, with minor differences in location, technology, traffic capabilities, and price.
 
 ### Windows Vs. Linux
@@ -82,7 +84,7 @@ On the positive, NGINX currently powers some of the most popular sites on the We
 Server Requirements
 --------------
 
-In order for Joomla to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are some of the server, PHP, and MySQL requirements for the two current major versions of Joomla [(source)](http://www.joomla.org/technical-requirements.html).
+In order for Joomla to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are some of the server, PHP, and MySQL requirements for the two current major versions of Joomla [(source)](http://www.joomla.org/technical-requirements.html). Even if Joomla 2.5.x officially supports PHP 5.2.x many templates, frameworks and plug-ins will need at least PHP 5.3.17 in order to run properly.
 
 #### Joomla 2.5
 

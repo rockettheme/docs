@@ -57,3 +57,4 @@ Once installation is complete, you will receive a message (shown above) indicati
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
+[download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch

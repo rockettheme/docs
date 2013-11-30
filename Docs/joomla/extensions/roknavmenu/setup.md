@@ -22,7 +22,7 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 
 :	1. **Show** Enabling this option enables the main menu on the frontend. If this is turned off, the menu will not appear as assigned. [40%, 24%, se]
 	2. **Type** This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend. [40%, 31%, se]
-	3. **Menu Numbering** Enabling or disabling menu numbering is done via this option.  [40%, 41%, se]
+	3. **Menu Numbering** Enabling or disabling menu numbering is done via this option. This option is not present in all templates.  [40%, 41%, se]
 	4. **Select a Menu** The Joomla menu you select here will be the source for the main menu. [50%, 24%, se]
 	5. **Position** This is where you select a module position to assign the main menu to. [58%, 32%, sw]
 	6. **Responsive Menu** For smartphones and tablets, this option determines how the menu will appear. [66%, 24%, se]
@@ -33,7 +33,7 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 
 2. **Type**: This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend.
 
-3. **Menu Numbering**: Enabling or disabling menu numbering is done via this option. 
+3. **Menu Numbering**: Enabling or disabling menu numbering is done via this option. This option is not present in all templates.
 
 4. **Select a Menu**: The Joomla menu you select here will be the source for the main menu.
 
@@ -49,13 +49,13 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 Menu Item Options
 -----
 
-Individual menu items can be edited from **Admin -> Menu -> Menu Name -> Menu Item**. In the **Advanced Settings** area of the editing page, you will find a set of options each supported menu type. Typically, this includes Dropdown and Splitmenu. Here, you can refine how a menu item appears in a RokNavMenu menu.
+Individual menu items can be edited from **Admin -> Menu -> Menu Name -> Menu Item**. In the **Advanced Settings** area of the editing page, you will find a set of options for each supported menu type. Typically, this includes Dropdown and Splitmenu. Here, you can refine how a menu item appears in a RokNavMenu menu.
 
 ### Dropdown Menu Options
 
 ![][dropdown]
 
-The Dropdown Menu is an advanced CSS drive dropdown menu system. It offers advanced structural features such as multiple columns, inline icons and text, inline modules and positions, custom column widths, item distribution and menu offset. All of these are configurable for each menu item.
+The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers advanced structural features such as multiple columns, inline icons and text, inline modules and positions, custom column widths, item distribution and menu offset. All of these are configurable for each menu item.
 
 ![][menu1]
 
@@ -63,8 +63,8 @@ The Dropdown Menu is an advanced CSS drive dropdown menu system. It offers advan
 	2. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. [19%, 47%, se]
 	3. **Custom CSS Class** This field allows you to add a custom CSS class to the menu item. [25%, 47%, se]
 	4. **Columns of Child Items** This setting gives you the ability to choose to have one or more columns for child items. [31%, 47%, se]
-	5. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,3,2. If these were done **In Order**, it would be 3,3,1. [38%, 47%, se]
-	6. **Manual Item Distribution** This is the comma-separated count of rows in each column. Example: 3,3,2. [49%, 47%, se]
+	5. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,2,2. If these were done **In Order**, it would be 3,3,1. [38%, 47%, se]
+	6. **Manual Item Distribution** This is the comma-separated count of rows in each column. Example: 3,2,2. [49%, 47%, se]
 	7. **Drop-Down Width** This is the width of any dropdown column (in pixels). [55%, 47%, se]
 	8. **Column Widths** For multiple columns, this is the width (in pixels) of each column. Example: 100,150,300. [61%, 47%, se]
 	9. **Group Child Items** You can select whether or not to group children under the menu item rather than as a submenu. [68%, 47%, se]
@@ -113,7 +113,7 @@ RokNavMenu Module Options
 
 We designed RokNavMenu to work with most templates, even ones that do not include the Gantry framework. While you might not be able to take advantage of the Templates Manager setup for the main menu in these instances, you can still use styled RokNavMenu modules to extend the features and functionality of the core Joomla menu.
 
-To create a new RokNavMenu module, you need but to navigate to **Administrator -> Extensions -> Module Manager -> New** and select **RokNavMenu** as the module type. Here, you can configure the menu module to meet your needs.
+To create a new RokNavMenu module, you need to navigate to **Administrator -> Extensions -> Module Manager -> New** and select **RokNavMenu** as the module type. Here, you can configure the menu module to meet your needs.
 
 ### Details 
 
