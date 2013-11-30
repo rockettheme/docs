@@ -36,7 +36,7 @@ Features
 * FF, Opera, Safari 4, IE8+ Compatible
 * HTML5, CSS3, LESS CSS
 
-NOTE: **RokBB 5+** is required for Lumiere to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 5+** is required for Lumiere to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
 ### HTML5 Video in the Header
 Lumiere uses HTML5 support for displaying stunning videos and images in the header. You can upload your own file and display it on your forum. Various video options are also available.

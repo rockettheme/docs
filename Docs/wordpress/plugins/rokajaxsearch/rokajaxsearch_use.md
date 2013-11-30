@@ -23,8 +23,8 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
     5. **Show Read More** Set whether the Read More link should be display. [27%, 51%, se]
     6. **Read More Label** Set a label you would like to have displayed for the **Read More** link. [30%, 71%, sw]
     7. **Hide Divs** This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*. [34%, 51%, se]
-    8. **Display Content** Gives you access to item-specific settings for the post's title, description, image, and link. [38%, 59%, sw]
-    9. **Order** Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from. [41%, 51%, se]
+    8. **Display Content** Gives you the ability to choose between displaying an assigned excerpt of an article, or its content. [38%, 59%, sw]
+    9. **Order** Set the order of the search results. [41%, 51%, se]
     10. **Items Per Page** Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [45%, 58%, sw]
     11. **Limit Items** Set the limit for the number of search results per page, whether: 3, 5, 10, 15, 20, 25, 30 or 50 [49%, 51%, se]
     12. **Google Web Search** When enabled, an option will appear in the widget to search Google Web Search. The API key needs to be correctly completed for this to work. [52%, 58%, sw]
@@ -52,9 +52,9 @@ All settings set through this page affect every instance of the RokAjaxSearch wi
 
 7. **Hide Divs**: This option allows you to set which elements of your site you wish to be excluded from searching. Enter the ID names separated by a comma such as: *logo-module, side-column,* and *maincontent*.
 
-8. **Display Content**: Gives you access to item-specific settings for the post's title, description, image, and link.
+8. **Display Content**: Gives you the ability to choose between displaying an assigned excerpt of an article, or its content.
 
-9. **Order**: Set the order of the search results. For example, if you set to Oldest First then the oldest item will be loaded in the search result. There are a variety of options to chose from.
+9. **Order**: Set the order of the search results.
 
 10. **Items Per Page**: Set the limit for the number of search result pages, whether: 3, 5, 10, 15, 20, 25, 30 or 50.
 

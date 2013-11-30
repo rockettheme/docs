@@ -35,7 +35,7 @@ Features
 * Customizable layout options
 * FF, Opera, Safari 4, IE8+ Compatible
 
-NOTE: **RokBB 5.0.4+** is required for Oculus to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 5.0.4+** is required for Oculus to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
 ### WebFonts Imageset and Icons
 

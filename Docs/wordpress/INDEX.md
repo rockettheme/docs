@@ -1,6 +1,6 @@
 ---
 title: WordPress Documentation
-description: WordPress is a hugely popular open source Content Management System (CMS) and the platform this site is built upon. This section enables you to find out more about WordPress and how to use it with RocketTheme Themes and Plugins.
+description: WordPress is a hugely popular open source Content Management System (CMS). This section enables you to find out more about WordPress and how to use it with RocketTheme Themes and Plugins.
 landing: true
 breadcrumb: /!WordPress:WordPress/
 

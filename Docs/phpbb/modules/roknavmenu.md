@@ -23,6 +23,8 @@ The requirements for RokNavMenu are as follows:
 * RokBB 3 / 5
 * RocketTheme Style
 
+>> NOTE: RokNavMenu Exporter does not function when Joomla is offline. The site being referenced has to be active in order to generate the menu files. RokNavMenu Exporter also does not support **Splitmenu**, or third-party Joomla menus. It requires RokNavMenu installed and active on Joomla to properly function.
+
 How to Install
 -----
 
@@ -74,7 +76,7 @@ phpBB3 Setup
 
 Before you can use the generated menu, there are some settings that need to be adjusted for phpBB3 to enable support for RokNavMenu Exporter.
 
-First, you will want to make sure you have the latest version of RokBB 3/5 (depending on the RocketTheme Style you have deployed), as well as the phpBB3 style you want to use. Once these are in place and activated, you will need to select **RokBB 3/5 Global Configuration** and configure it as follows: 
+First, you will want to make sure you have the latest version of RokBB 3/5 (depending on the RocketTheme Style you have deployed), as well as the phpBB3 style you want to use. Once these are in place and activated, you will need to navigate to **ACP -> Styles -> Rockettheme Styles -> Global Configuration**, select **RokBB 3/5 Global Configuration**, and configure it as follows: 
 
 ![][nav3]
 
@@ -94,7 +96,7 @@ First, you will want to make sure you have the latest version of RokBB 3/5 (depe
 
 5. **Headers Filename** This is the name of the file used for head scripts.
 
-Once this is set, press **Submit** and enjoy using your Joomla menu on your phpbb3 board.
+Once this is set, press **Submit** and enjoy using your Joomla menu on your phpbb3 board. If changes made here are not immediately visable, a manual cache purge is advised. You can do this by deleting cached files from the **Cache** folder in the phpBB3 installation via FTP.
 
 [download]: http://www.rockettheme.com/phpbb3-downloads/club/646-administration-modules
 [nav]: assets/roknavmenu_1.jpeg

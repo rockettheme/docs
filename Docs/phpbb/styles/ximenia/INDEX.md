@@ -34,7 +34,7 @@ Features
 * FF, Opera, Safari 4, IE7+ Compatible
 * W3C XHTML 1.0 Transitional.
 
-NOTE: **RokBB 4.5+** is required for Ximenia to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 4.5+** is required for Ximenia to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
 ### Separate Category and Topics lists styling
 

@@ -34,7 +34,7 @@ Features
 * FF, Opera, Safari 4, IE7+ Compatible
 * W3C XHTML 1.0 Transitional.
 
-NOTE: **RokBB 4.0+** is required for Clarion to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 4.0+** is required for Clarion to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
 ### New RokBB3 Administration
 

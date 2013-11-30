@@ -52,7 +52,7 @@ Installing Administrative Modules
 
 ![][rokbb]
 
-When installing RokBB, the contents of the downloaded zip file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files.
+When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files contained within:
 
 | File                            | Upload to                          |  
 | :------------------------------ | :--------------------------------- |  
@@ -84,9 +84,11 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 * After adding it. Press **Enable** to make the module active.
 * Now go to the **Styles** tab at the top. **RocketTheme Styles** category is third in a row. You can now select the Acacia style and configure it is options.
 
->> NOTE: You can add as many style modules as you want.
+>> NOTE: You can add as many style modules as you want. After making changes, including installing new styles, remember to clear/refresh the cache. For any changes to be visible on the frontend of the site, the cache needs to be properly cleared.
 
 Do not be worried concerning the installation process as we only need this operation to be executed once. After that, to upgrading RokBB will only involve replacing files.
+
+>> NOTE: There are currently three RokBB editions available. This includes: RokBB 3 and RokBB 5 for Club members, and a free version we've made available to non-members that works with our trimmed-down free styles. If you are using a paid style, make sure you're not using the free edition of RokBB.
 
 [filezilla]: https://filezilla-project.org/download.php
 [rokbb]: assets/rokbb.jpg

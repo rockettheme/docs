@@ -21,7 +21,7 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 ![][menu3]
 
 :	1. **Show** Enabling this option enables the main menu on the frontend. If this is turned off, the menu will not appear as assigned. [40%, 24%, se]
-	2. **Type** This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend. [40%, 31%, se]
+	2. **Type** This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend. Some templates may include **Fusion** in lieu of **Dropdown**, and others may also offer **Spicemenu**. [40%, 31%, se]
 	3. **Menu Numbering** Enabling or disabling menu numbering is done via this option. This option is not present in all templates.  [40%, 41%, se]
 	4. **Select a Menu** The Joomla menu you select here will be the source for the main menu. [50%, 24%, se]
 	5. **Position** This is where you select a module position to assign the main menu to. [58%, 32%, sw]
@@ -31,7 +31,7 @@ In order to make our templates easy to use, we baked RokNavMenu in and made many
 
 1. **Show**: Enabling this option enables the main menu on the frontend. If this is turned off, the menu will not appear as assigned.
 
-2. **Type**: This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend.
+2. **Type**: This option allows you to select the menu type. Types such as **Dropdown** and **Splitmenu** change the way the menu works on the frontend. Some templates may include **Fusion** in lieu of **Dropdown**, and others may also offer **Spicemenu**.
 
 3. **Menu Numbering**: Enabling or disabling menu numbering is done via this option. This option is not present in all templates.
 
@@ -51,6 +51,8 @@ Menu Item Options
 
 Individual menu items can be edited from **Admin -> Menu -> Menu Name -> Menu Item**. In the **Advanced Settings** area of the editing page, you will find a set of options for each supported menu type. Typically, this includes Dropdown and Splitmenu. Here, you can refine how a menu item appears in a RokNavMenu menu.
 
+>> NOTE: These options will only appear if the **RokExtender** extension (part of RokNavMenu) is **enabled**. Also, these settings will only appear when a Gantry template that supports these options has been set as the default template. When switching to another template, these options may have to be reconfigured for the new template.
+
 ### Dropdown Menu Options
 
 ![][dropdown]
@@ -60,7 +62,7 @@ The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers adva
 ![][menu1]
 
 :	1. **Subtext Line** You can post a second line here. [13%, 47%, se]
-	2. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. [19%, 47%, se]
+	2. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin`. [19%, 47%, se]
 	3. **Custom CSS Class** This field allows you to add a custom CSS class to the menu item. [25%, 47%, se]
 	4. **Columns of Child Items** This setting gives you the ability to choose to have one or more columns for child items. [31%, 47%, se]
 	5. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,2,2. If these were done **In Order**, it would be 3,3,1. [38%, 47%, se]
@@ -72,7 +74,7 @@ The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers adva
 
 1. **Subtext Line**: You can post a second line here.
 
-2. **Menu Icon**: You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field.
+2. **Menu Icon**: You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin` will add a [Bitcoin icon][bitcoin].
 
 3. **Custom CSS Class**: This field allows you to add a custom CSS class to the menu item.
 
@@ -222,3 +224,4 @@ To create a new RokNavMenu module, you need to navigate to **Administrator -> Ex
 [module3]: assets/module_3.jpeg
 [split]: assets/splitmenu.jpeg
 [dropdown]: assets/dropdownmenu.jpeg
+[bitcoin]: http://fontawesome.io/icon/btc/

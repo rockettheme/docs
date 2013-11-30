@@ -34,7 +34,7 @@ Features
 * FF, Opera, Safari 4, IE8+ Compatible
 * HTML5, CSS3, LESS CSS
 
-NOTE: **RokBB 5+** is required for Graffito to work correctly. For more details on installing RokBB, please visit the [**Administrative Module** installation guide][adminguide].
+NOTE: **RokBB 5+** is required for Graffito to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
 ### Rocket Launcher
 
