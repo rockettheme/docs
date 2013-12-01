@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
 Introduction
 -----
 
-Paradigm is a rich infusion of elegant, transparent visuals with a contemporary design frame, to create a subtle but invigorating site experience.The dynamically changing, transparent to opaque, fixed header, combines design and functionality.
+Paradigm is a rich infusion of elegant, transparent visuals with a contemporary design frame, to create a subtle but invigorating site experience. The dynamically changing, transparent to opaque, fixed header, combines design and functionality.
 
 ![][Paradigm]
 
@@ -46,13 +46,13 @@ Key Features
 
 ![][chooser]
 
-Paradigm has an extensive Color Chooser in the template manager to provide intricate controls for each section of Paraidmg, inclusive of overlay type, text color, accent colors, background color, background opacity and/or background image.
+Paradigm has an extensive Color Chooser in the template manager to provide intricate controls for each section of Paradigm, inclusive of overlay type, text color, accent colors, background color, background opacity and/or background image.
 
 ### Responsive Layout
 
 ![][responsive]
 
-Paradigm' responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
+Paradigm's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
 
 The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
 
