@@ -1,6 +1,6 @@
 ---
 title: Lumiere: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Lumiere Template for WordPress
+description: Your Guide to Recreating Elements of the Lumiere Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/lumiere:Lumiere
 
 ---

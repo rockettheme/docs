@@ -1,6 +1,6 @@
 ---
 title: Acacia: Coming Soon
-description: Your Guide to Creating Elements of the Acacia Template for WordPress
+description: Your Guide to Creating Elements of the Acacia Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:templates/acacia:Acacia
 
 ---

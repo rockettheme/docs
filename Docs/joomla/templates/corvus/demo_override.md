@@ -1,6 +1,6 @@
 ---
 title: Corvus: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Corvus Template for WordPress
+description: Your Guide to Recreating Elements of the Corvus Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/corvus:Corvus
 
 ---

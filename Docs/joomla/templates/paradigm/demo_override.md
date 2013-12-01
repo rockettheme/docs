@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Paradigm Template for WordPress
+description: Your Guide to Recreating Elements of the Paradigm Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
@@ -34,7 +34,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Coming Soon Page   |             | Show: Off                                                                                        |  
 | Default | Email Subscription |             | Show: On                                                                                         |  
 | Default | Feedburner URI     |             | Blank                                                                                            |  
-| Default | Date               | utility-a   | Client-Side Date: Off                                                                            |  
+| Default | Date               | utility-a   | Show: Off, Client-Side Date: Off                                                                            |  
 | Default | Font-Sizer         | utility-b   | Show: Off                                                                                        |  
 | Default | Login Panel        | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`                       |  
 | Default | Popup Panel        | utility-d   | Show: Off, Popup Button Text: `Popup Module`                                                     |  

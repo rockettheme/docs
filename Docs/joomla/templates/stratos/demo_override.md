@@ -1,6 +1,6 @@
 ---
 title: Stratos: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Stratos Template for WordPress
+description: Your Guide to Recreating Elements of the Stratos Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/stratos:Stratos
 
 ---

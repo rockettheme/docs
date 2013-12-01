@@ -1,6 +1,6 @@
 ---
 title: Spectral: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Spectral Template for WordPress
+description: Your Guide to Recreating Elements of the Spectral Template for Joomla
 breadcrumb: /joomla:Joomla/!Templates:Templates/spectral:Spectral
 
 ---

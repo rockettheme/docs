@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - FP RokSprocket Showcase
-description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
+description: Your Guide to Recreating Elements of the Paradigm Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
@@ -12,7 +12,7 @@ FP RokSprocket Showcase
 
 The **RokSprocket Showcase** module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
-We utilized the **Simple Content** Content Provider type in order to create custom articles for the front page. Most of the magic involving the look and feel of these items happen in the **Title** and **Description** fields for the individual line items. Custom images are also used to add visual flare to each item in the showcase.
+We utilized the **Simple** Content Provider type in order to create custom articles for the front page. Most of the magic involving the look and feel of these items happen in the **Title** and **Description** fields for the individual line items. Custom images are also used to add visual flare to each item in the showcase.
 
 ### Details
 

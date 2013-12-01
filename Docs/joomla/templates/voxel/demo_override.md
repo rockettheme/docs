@@ -1,6 +1,6 @@
 ---
 title: Voxel: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Voxel Template for WordPress
+description: Your Guide to Recreating Elements of the Voxel Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/voxel:Voxel
 
 ---

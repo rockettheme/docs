@@ -31,6 +31,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
             * [FP Footer Menu](demo_module_12.md)
         * [Main Menu](demo.md#menu-settings)
         * [Module Positions](positions.md)
+        * [Charts](charts.md)
+        * [Coming Soon](comingsoon.md)
     * [FAQ](faq.md)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)

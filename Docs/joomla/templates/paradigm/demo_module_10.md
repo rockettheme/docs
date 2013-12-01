@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - Join Our Newsletter
-description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
+description: Your Guide to Recreating Elements of the Paradigm Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---

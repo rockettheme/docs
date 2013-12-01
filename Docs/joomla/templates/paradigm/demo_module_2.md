@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - Utility Modules
-description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
+description: Your Guide to Recreating Elements of the Paradigm Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
@@ -11,6 +11,8 @@ Utility Modules
 ![][demo1]
 
 This area of the front page is a series of three **mod_custom** modules. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 Support for Mobile
 -----

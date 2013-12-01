@@ -1,6 +1,6 @@
 ---
 title: Fracture: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Fracture Template for WordPress
+description: Your Guide to Recreating Elements of the Fracture Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/fracture:Fracture
 
 ---

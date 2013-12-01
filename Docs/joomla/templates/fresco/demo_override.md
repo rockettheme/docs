@@ -1,6 +1,6 @@
 ---
 title: Fresco: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Fresco Template for WordPress
+description: Your Guide to Recreating Elements of the Fresco Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/fresco:Fresco
 
 ---

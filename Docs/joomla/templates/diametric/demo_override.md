@@ -1,6 +1,6 @@
 ---
 title: Diametric: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Diametric Template for WordPress
+description: Your Guide to Recreating Elements of the Diametric Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/diametric:Diametric
 
 ---

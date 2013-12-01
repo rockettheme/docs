@@ -1,6 +1,6 @@
 ---
 title: Leviathan: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Leviathan Template for WordPress
+description: Your Guide to Recreating Elements of the Leviathan Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 
 ---

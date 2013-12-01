@@ -1,6 +1,6 @@
 ---
 title: Graffito: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Graffito Template for WordPress
+description: Your Guide to Recreating Elements of the Graffito Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
