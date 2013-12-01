@@ -1,7 +1,7 @@
 ---
 title: Kirigami: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Kirigami Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/kirigami:Kirigami
+breadcrumb: /joomla:Joomla/!templates:templates/kirigami:Kirigami
 
 ---
 

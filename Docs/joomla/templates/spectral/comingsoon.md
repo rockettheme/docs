@@ -1,7 +1,7 @@
 ---
 title: Spectral: Coming Soon
 description: Your Guide to Creating Elements of the Spectral Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/spectral:Spectral
+breadcrumb: /joomla:Joomla/!templates:templates/spectral:Spectral
 
 ---
 

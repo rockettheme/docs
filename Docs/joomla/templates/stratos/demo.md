@@ -1,7 +1,7 @@
 ---
 title: Stratos: Recreating the Demo
 description: Your Guide to Recreating Elements of the Stratos Template for Joomla
-breadcrumb: /joomla:Joomla/Templates:Templates/Stratos:Stratos
+breadcrumb: /joomla:Joomla/!templates:Templates/Stratos:Stratos
 
 ---
 

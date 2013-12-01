@@ -1,7 +1,7 @@
 ---
 title: Cerulean: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Cerulean Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/cerulean:Cerulean
+breadcrumb: /joomla:Joomla/!templates:templates/cerulean:Cerulean
 
 ---
 

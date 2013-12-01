@@ -1,7 +1,7 @@
 ---
 title: Oculus: Recreating the Demo
 description: Your Guide to Recreating Elements of the Oculus Template for Joomla
-breadcrumb: /joomla:Joomla/Templates:Templates/oculus:Oculus
+breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 
 ---
 

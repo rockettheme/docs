@@ -1,7 +1,7 @@
 ---
 title: Metropolis: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Metropolis Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/metropolis:Metropolis
+breadcrumb: /joomla:Joomla/!templates:templates/metropolis:Metropolis
 
 ---
 

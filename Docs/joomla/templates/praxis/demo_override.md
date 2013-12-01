@@ -1,7 +1,7 @@
 ---
 title: Praxis: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Praxis Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/praxis:Praxis
+breadcrumb: /joomla:Joomla/!templates:templates/praxis:Praxis
 
 ---
 

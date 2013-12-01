@@ -1,7 +1,7 @@
 ---
 title: Metropolis: Recreating the Demo - Contact Us
 description: Your Guide to Recreating Elements of the Metropolis Theme for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/metropolis:Metropolis
+breadcrumb: /joomla:Joomla/!templates:Templates/metropolis:Metropolis
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/templates:Templates/!oculus:Oculus
+breadcrumb: /joomla:Joomla/!templates:Templates/!oculus:Oculus
 
 ---
 

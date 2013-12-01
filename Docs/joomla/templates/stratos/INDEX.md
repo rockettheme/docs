@@ -1,7 +1,7 @@
 ---
 title: Stratos
 description: Your Guide to Using the Stratos Template for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/!stratos:Stratos
+breadcrumb: /joomla:Joomla/!templates:Templates/!stratos:Stratos
 
 ---
 

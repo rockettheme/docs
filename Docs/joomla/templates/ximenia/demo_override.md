@@ -1,7 +1,7 @@
 ---
 title: Ximenia: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Ximenia Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/ximenia:Ximenia
+breadcrumb: /joomla:Joomla/!templates:templates/ximenia:Ximenia
 
 ---
 

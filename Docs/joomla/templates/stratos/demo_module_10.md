@@ -1,7 +1,7 @@
 ---
 title: Stratos: Recreating the Demo - Copyright Menu
 description: Your Guide to Recreating Elements of the Stratos Theme for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/stratos:Stratos
+breadcrumb: /joomla:Joomla/!templates:Templates/stratos:Stratos
 
 ---
 

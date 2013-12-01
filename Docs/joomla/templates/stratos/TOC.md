@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/templates:Templates/!stratos:Stratos
+breadcrumb: /joomla:Joomla/!templates:Templates/!stratos:Stratos
 
 ---
 

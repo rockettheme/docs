@@ -1,7 +1,7 @@
 ---
 title: Hexeris: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Hexeris Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templated/hexeris:Hexeris
+breadcrumb: /joomla:Joomla/!templates:templates/hexeris:Hexeris
 
 ---
 

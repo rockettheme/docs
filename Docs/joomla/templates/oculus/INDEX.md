@@ -1,7 +1,7 @@
 ---
 title: Oculus
 description: Your Guide to Using the Oculus Template for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/!oculus:Oculus
+breadcrumb: /joomla:Joomla/!templates:Templates/!oculus:Oculus
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Praxis
 description: Your Guide to Using the Praxis Template for Joomla
-breadcrumb: /joomla:Joomla/templates:Templates/!Praxis:Praxis
+breadcrumb: /joomla:Joomla/!templates:Templates/!Praxis:Praxis
 
 ---
 
