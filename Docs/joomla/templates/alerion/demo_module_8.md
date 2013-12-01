@@ -1,6 +1,6 @@
 ---
 title: Alerion: Recreating the Demo - Gantry Extras
-description: Your Guide to Recreating Elements of the Alerion Theme for Joomla
+description: Your Guide to Recreating Elements of the Alerion Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 
 ---

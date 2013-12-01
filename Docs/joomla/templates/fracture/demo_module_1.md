@@ -1,6 +1,6 @@
 ---
 title: Fracture: Recreating the Demo - FP Showcase
-description: Your Guide to Recreating Elements of the Fracture Theme for Joomla
+description: Your Guide to Recreating Elements of the Fracture Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/fracture:Fracture
 
 ---

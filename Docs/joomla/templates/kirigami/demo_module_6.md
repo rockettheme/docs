@@ -1,6 +1,6 @@
 ---
 title: Kirigami: Recreating the Demo - Demo Replica
-description: Your Guide to Recreating Elements of the Kirigami Theme for Joomla
+description: Your Guide to Recreating Elements of the Kirigami Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/kirigami:Kirigami
 
 ---

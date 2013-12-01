@@ -1,72 +1,78 @@
 ---
-title: Paradigm: Recreating the Demo - FP RokSprocket Strips - MainBottom
-description: Your Guide to Recreating Elements of the Paradigm Theme for Joomla
+title: Paradigm: Recreating the Demo - Gantry Framework
+description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-FP RokSprocket Strips - MainBottom
+Gantry Framework
 -----
-![][mainbottom1]
-We used a **RokSprocket** module with the **Strips** layout to make up the MainBottom area of the front page. You will find the settings used in our demo below.
+
+![][demo]
+
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
-![][mainbottom2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP RokSprocket Strips MainBottom |
-| Show Title | Hide |
-| Access | Public |
-| Position | mainbottom-a |
-| Status | Published |
-| Content Provider | Joomla |
-| Type | Strips |
+![][demo2]
 
-### Layout Options
-![][mainbottom3]
+| Option     | Setting             |  
+| :--------- | :------------------ |  
+| Title      | `Gantry Framework`  |  
+| Show Title | Hide                |  
+| Position   | maintop-a           |  
+| Status     | Published           |  
+| Access     | Public              |  
+| Language   | All                 |  
+| Note       | Blank               |  
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Display Limit | ∞ |
-| Preview Length | 50 |
-| Strip HTML Tags | No |
-| Previews Per Page | 4 |
-| Items Per Row | 4 |
-| Arrow Navigation | Show |
-| Pagination | Hide |
-| Animation | Fade Delayed |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
+### Custom Output
 
-### Article Defaults
-![][mainbottom4]
+Enter the following in the **Custom Output** text editor.
 
-| Option | Setting |
-|:------|:-------|
-| Default Title | None |
-| Default Image | Default Article Image|
-| Default Article Text | Default Article Text |
-| Default Link | None |
+~~~ .html
+<div class="gantry-width-block gantry-width-50">
+	<div class="gantry-width-spacer">
+		<div class="rt-maintop-desc">
+			<div class="module-title">
+			  <h2 class="title">Gantry <span class="hidden-tablet">Framework</span></h2>
+			</div>	
+			<p class="rt-large-text">
+				A powerful core framework that offers a standard set of<span class="hidden-tablet"> intuitive and expandable</span> features<span class="hidden-tablet">, for easy administration through an advanced user interface</span>.
+			</p>			
+		</div>
+	</div>
+</div>
+
+<div class="gantry-width-block gantry-width-50">
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/frontpage/maintop/img1.png" alt="img" />
+	</div>
+</div>
+
+<div class="clear"></div>
+~~~
+
+### Basic
+
+![][demo3]
+
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][mainbottom5]
 
-| Option | Setting |
-|:------|:-------|
-| Ordering | 1. FP RokSprocket Strips MainBottom |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
-| Module Class Suffix | fp-roksprocket-strips-mainbottom |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[mainbottom1]: assets/mainbottom_1.jpeg
-[mainbottom2]: assets/mainbottom_2.jpeg
-[mainbottom3]: assets/mainbottom_3.jpeg
-[mainbottom4]: assets/mainbottom_4.jpeg
-[mainbottom5]: assets/mainbottom_5.jpg
+| Option              | Setting                    |  
+| :------------------ | :------------------------- |  
+| Module Class Suffix | `fp-maintop1 rt-big-title` |  
+
+[demo]: assets/demo_4.jpeg
+[demo2]: assets/gantry_1.jpeg
+[demo3]: assets/gantry_2.jpeg
+[demo4]: assets/gantry_3.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Ionosphere: Recreating the Demo - FP Feature
-description: Your Guide to Recreating Elements of the Ionosphere Theme for Joomla
+description: Your Guide to Recreating Elements of the Ionosphere Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ionosphere:Ionosphere
 
 ---

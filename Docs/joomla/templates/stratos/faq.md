@@ -1,6 +1,6 @@
 ---
 title: Stratos: FAQ
-description: Your Guide to Using the Stratos Theme for Joomla
+description: Your Guide to Using the Stratos Template for Joomla
 breadcrumb: /joomla:Joomla/themes:Themes/stratos:Stratos
 
 ---

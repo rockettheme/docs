@@ -1,6 +1,6 @@
 ---
 title: Voxel: Recreating the Demo - FP Feature
-description: Your Guide to Recreating Elements of the Voxel Theme for Joomla
+description: Your Guide to Recreating Elements of the Voxel Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/voxel:Voxel
 
 ---

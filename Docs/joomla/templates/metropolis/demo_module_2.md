@@ -1,6 +1,6 @@
 ---
 title: Metropolis: Recreating the Demo - FP Feature - RokSprocket Mosaic
-description: Your Guide to Recreating Elements of the Metropolis Theme for Joomla
+description: Your Guide to Recreating Elements of the Metropolis Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/metropolis:Metropolis
 
 ---

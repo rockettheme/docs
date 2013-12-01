@@ -1,6 +1,6 @@
 ---
 title: Hexeris: Recreating the Demo - Popular Addons
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
+description: Your Guide to Recreating Elements of the Hexeris Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
 
 ---

@@ -1,60 +1,63 @@
 ---
-title: Paradigm: Recreating the Demo - About Paradigm
-description: Your Guide to Recreating Elements of the Paradigm Theme for Joomla
+title: Paradigm: Recreating the Demo - Mobile Ready
+description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-About Paradigm
+Mobile Ready
 -----
-![][about1]
-The **About Paradigm** area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+![][demo]
+
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below. Due to the `visible-phone` Module Class Suffix setting, this module will only appear once the width of the browser has dropped to 480 pixels and below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
-![][about2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | `[span class="hidden-tablet"]About [/span]Paradigm` |
-| Show Title | Show |
-| Position | sidebar-a |
-| Status | Published |
-| Access | Public |
-| Ordering | 4. Collapsible |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+![][demo2]
+
+| Option     | Setting             |  
+| :--------- | :------------------ |  
+| Title      | `Mobile Ready`      |  
+| Show Title | Hide                |  
+| Position   | feature-a           |  
+| Status     | Published           |  
+| Access     | Public              |  
+| Language   | All                 |  
+| Note       | Blank               |  
 
 ### Custom Output
+
 Enter the following in the **Custom Output** text editor.
 
-~~~
-<p class="hidden-tablet">A responsive template with colorful iconography.</p>
-<p class="box3 fp-sidebar-img"><img src="images/rocketlauncher/frontpage/sidebar/img1.png" border="0" alt="image" /></p>
-<p>Built with Gantry4 and LESS CSS.</p>
-<p><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=108">Read More</a></p>
+~~~ .html
+<div class="module-title">
+  <h2 class="title">Mobile Ready<span class="rt-title-tag">The responsive layout allows the site to adapt to mobile layout.</span></h2>
+</div>
+
+<img src="images/rocketlauncher/frontpage/feature/img1.png" alt="image" />
 ~~~
 
 ### Basic
-![][about3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+![][demo3]
+
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][about4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
-| Module Class Suffix | box6 nomargintop |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[about1]: assets/about_1.jpeg
-[about2]: assets/about_2.jpeg
-[about3]: assets/about_3.jpeg
-[about4]: assets/about_4.jpeg
+| Option              | Setting                                           |  
+| :------------------ | :------------------------------------------------ |  
+| Module Class Suffix | `fp-feature rt-big-title rt-center visible-phone` |  
+
+[demo]: assets/demo_10.jpeg
+[demo2]: assets/template_1.jpeg
+[demo3]: assets/template_2.jpeg
+[demo4]: assets/template_3.jpeg

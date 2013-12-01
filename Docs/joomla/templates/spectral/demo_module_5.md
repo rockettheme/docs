@@ -1,6 +1,6 @@
 ---
 title: Spectral: Recreating the Demo - About Spectral
-description: Your Guide to Recreating Elements of the Spectral Theme for Joomla
+description: Your Guide to Recreating Elements of the Spectral Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/spectral:Spectral
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hexeris: Recreating the Demo - FP RokGallery
-description: Your Guide to Recreating Elements of the Hexeris Theme for Joomla
+description: Your Guide to Recreating Elements of the Hexeris Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
 
 ---

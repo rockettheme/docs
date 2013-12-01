@@ -1,12 +1,13 @@
 ---
 title: Corvus: Recreating the Demo - RocketLauncher Package
-description: Your Guide to Recreating Elements of the Corvus Theme for Joomla
+description: Your Guide to Recreating Elements of the Corvus Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/corvus:Corvus
 
 ---
 
 RocketLauncher Package
 -----
+
 ![][demo]
 
 This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
@@ -14,6 +15,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
+
 ![][demo2]
 
 | Option     | Setting                                              |  
@@ -27,6 +29,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 | Note       | Blank                                                |  
 
 ### Custom Output
+
 Enter the following in the **Custom Output** text editor.
 
 ~~~
@@ -37,6 +40,7 @@ Enter the following in the **Custom Output** text editor.
 ~~~
 
 ### Basic
+
 ![][demo3]
 
 | Option                    | Setting |  
@@ -45,6 +49,7 @@ Enter the following in the **Custom Output** text editor.
 | Select a Background Image | Blank   |
 
 ### Advanced
+
 ![][demo4]
 
 | Option              | Setting                |  

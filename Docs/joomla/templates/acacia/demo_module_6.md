@@ -1,6 +1,6 @@
 ---
 title: Acacia: Recreating the Demo - FP RokSprocket - Tabs
-description: Your Guide to Recreating Elements of the Acacia Theme for Joomla
+description: Your Guide to Recreating Elements of the Acacia Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/acacia:Acacia
 
 ---

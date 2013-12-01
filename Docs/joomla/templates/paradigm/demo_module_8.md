@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - FP Footer A
-description: Your Guide to Recreating Elements of the Paradigm Theme for Joomla
+description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---

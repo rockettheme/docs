@@ -1,6 +1,6 @@
 ---
 title: Stratos: Recreating the Demo - FP RokSprocket Strips - MainBottom
-description: Your Guide to Recreating Elements of the Stratos Theme for Joomla
+description: Your Guide to Recreating Elements of the Stratos Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/stratos:Stratos
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oculus: FAQ
-description: Your Guide to Using the Oculus Theme for Joomla
+description: Your Guide to Using the Oculus Template for Joomla
 breadcrumb: /joomla:Joomla/themes:Themes/oculus:Oculus
 
 ---

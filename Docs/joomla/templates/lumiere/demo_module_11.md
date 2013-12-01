@@ -1,6 +1,6 @@
 ---
 title: Lumiere: Recreating the Demo - Popular Features
-description: Your Guide to Recreating Elements of the Lumiere Theme for Joomla
+description: Your Guide to Recreating Elements of the Lumiere Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/lumiere:Lumiere
 
 ---

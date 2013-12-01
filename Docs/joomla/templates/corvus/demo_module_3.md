@@ -1,6 +1,6 @@
 ---
 title: Corvus: Recreating the Demo - FP RokSprocket Strips Showcase
-description: Your Guide to Recreating Elements of the Corvus Theme for Joomla
+description: Your Guide to Recreating Elements of the Corvus Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/corvus:Corvus
 
 ---

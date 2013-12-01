@@ -1,6 +1,6 @@
 ---
 title: Clarion: Recreating the Demo - Network With Us
-description: Your Guide to Recreating Elements of the Clarion Theme for Joomla
+description: Your Guide to Recreating Elements of the Clarion Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/clarion:Clarion
 
 ---

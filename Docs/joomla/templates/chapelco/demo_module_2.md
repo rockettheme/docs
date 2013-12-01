@@ -1,6 +1,6 @@
 ---
 title: Chapelco: Recreating the Demo - FP Showcase - RokSprocket Features
-description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+description: Your Guide to Recreating Elements of the Chapelco Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---

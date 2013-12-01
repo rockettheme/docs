@@ -1,6 +1,6 @@
 ---
 title: Leviathan: Recreating the Demo - Top Features
-description: Your Guide to Recreating Elements of the Leviathan Theme for Joomla
+description: Your Guide to Recreating Elements of the Leviathan Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/leviathan:Leviathan
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ximenia: Recreating the Demo - FP Bottom Menu
-description: Your Guide to Recreating Elements of the Ximenia Theme for Joomla
+description: Your Guide to Recreating Elements of the Ximenia Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ximenia:Ximenia
 
 ---

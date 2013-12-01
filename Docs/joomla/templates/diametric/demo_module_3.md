@@ -1,6 +1,6 @@
 ---
 title: Diametric: Recreating the Demo - Technical Support
-description: Your Guide to Recreating Elements of the Diametric Theme for Joomla
+description: Your Guide to Recreating Elements of the Diametric Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/diametric:Diametric
 
 ---

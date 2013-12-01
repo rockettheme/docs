@@ -1,6 +1,6 @@
 ---
 title: Praxis: Recreating the Demo - FP RokSprocket - Headlines
-description: Your Guide to Recreating Elements of the Praxis Theme for Joomla
+description: Your Guide to Recreating Elements of the Praxis Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/praxis:Praxis
 
 ---

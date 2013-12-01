@@ -1,6 +1,6 @@
 ---
 title: Praxis: FAQ
-description: Your Guide to Using the Praxis Theme for Joomla
+description: Your Guide to Using the Praxis Template for Joomla
 breadcrumb: /joomla:Joomla/!themes:Themes/praxis:Praxis
 
 ---

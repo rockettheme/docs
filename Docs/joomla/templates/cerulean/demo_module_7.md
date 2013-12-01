@@ -1,6 +1,6 @@
 ---
 title: Cerulean: Recreating the Demo - Cerulean Demo
-description: Your Guide to Recreating Elements of the Cerulean Theme for Joomla
+description: Your Guide to Recreating Elements of the Cerulean Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---

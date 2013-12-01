@@ -1,6 +1,6 @@
 ---
 title: Fresco: Recreating the Demo - Extensions Support
-description: Your Guide to Recreating Elements of the Fresco Theme for Joomla
+description: Your Guide to Recreating Elements of the Fresco Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/fresco:Fresco
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chapelco: Recreating the Demo - Location
-description: Your Guide to Recreating Elements of the Chapelco Theme for Joomla
+description: Your Guide to Recreating Elements of the Chapelco Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
