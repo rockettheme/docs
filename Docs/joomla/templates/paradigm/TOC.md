@@ -30,6 +30,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
             * [Get in Touch](demo_module_11.md)
             * [FP Footer Menu](demo_module_12.md)
         * [Main Menu](demo.md#menu-settings)
+        * [Module Positions](positions.md)
     * [FAQ](faq.md)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
