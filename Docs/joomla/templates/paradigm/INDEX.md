@@ -23,7 +23,7 @@ Requirements
 
 For more information visit our [Gantry documentation][gantry] on the settings menu.
 
->> NOTE: Gantry v4.1.10+ is required for Paradigm to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v4.1.19+ is required for Paradigm to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
