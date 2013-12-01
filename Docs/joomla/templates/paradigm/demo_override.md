@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Paradigm Template for WordPress
+description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
