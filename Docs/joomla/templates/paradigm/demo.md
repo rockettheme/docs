@@ -1,6 +1,6 @@
 ---
 title: Paradigm: Recreating the Demo
-description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
+description: Your Guide to Recreating Elements of the Paradigm Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Paradigm can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+Recreating features of the demo site used to show off some of the more interesting aspects of Paradigm can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Paradigm Template.
 
@@ -74,7 +74,7 @@ All of these extensions are included with the Paradigm RocketLauncher, and can b
 Recreating the Front Page
 -----
 
-The front page of the Paradigm demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Paradigm template.
+The front page of the Paradigm demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Paradigm demo.
 
 Template Settings
 -----
@@ -104,7 +104,7 @@ First, you will need to change the **Page Class** setting under the Home menu it
 
 The icons that appear at the top-level menu area are configured under the individual menu item's **Dropdown Menu Options**, and are set in the **Menu Icon** option.
 
-For example, the **Home** menu icon is set to `icon-home`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
+For example, the **Pages** menu icon is set to `icon-file-text`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
