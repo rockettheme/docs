@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 	
+	- [Paradigm](templates/paradigm)
 	- [Spectral](templates/spectral)
 	- [Acacia](templates/acacia)
 	- [Corvus](templates/corvus)
