@@ -1,7 +1,7 @@
 ---
 title: Clarion: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Clarion Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:templates/clarion:Clarion
+breadcrumb: /joomla:Joomla/!templates:Templates/clarion:Clarion
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Oculus: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Oculus Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:templates/oculus:Oculus
+breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 
 ---
 

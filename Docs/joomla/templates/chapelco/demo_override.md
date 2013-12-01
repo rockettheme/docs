@@ -1,7 +1,7 @@
 ---
 title: Chapelco: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Chapelco Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:templates/chapelco:Chapelco
+breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 

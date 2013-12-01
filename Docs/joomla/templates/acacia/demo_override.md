@@ -1,7 +1,7 @@
 ---
 title: Acacia: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Acacia Template for WordPress
-breadcrumb: /joomla:Joomla/!templates:templates/acacia:Acacia
+breadcrumb: /joomla:Joomla/!templates:Templates/acacia:Acacia
 
 ---
 
