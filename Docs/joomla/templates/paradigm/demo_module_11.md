@@ -1,46 +1,63 @@
 ---
-title: Paradigm: Recreating the Demo - Copyright Menu
+title: Paradigm: Recreating the Demo - Get in Touch
 description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-Copyright Menu
-----
-![][menu]
-The **Copyright Menu** module that appears at the bottom of the front page of the demo is a standard **Menu** module.
+Get in Touch
+-----
 
-A new menu will need to be created using Joomla's Menu manager that features any items you wish to appear in this menu. For this tutorial, we have assigned that menu the name **'Copyright Menu'**.
+![][demo]
+
+:	1. **mod_custom** [30%, 37%, se]
+
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
-![][menu1]
 
-| Option | Setting |
-|:------|:-------|
-| Title | Copyright Menu |
-| Show Title | Hide |
-| Position | copyright-b |
-| Status | Published |
-| Access | Public |
+![][demo2]
 
-### Basic Options
-![][menu2]
+| Option     | Setting        |  
+| :--------- | :------------- |  
+| Title      | `Get in Touch` |  
+| Show Title | Show           |  
+| Position   | footer-b       |  
+| Status     | Published      |  
+| Access     | Public         |  
+| Language   | All            |  
+| Note       | Blank          |  
 
-| Option | Setting |
-|:------|:-------|
-| Select Menu | Copyright Menu |
-| Start Level | 1 |
-| End Level | All |
-| Show Sub-menu Items | No |
+### Custom Output
 
-### Advanced Options
-![][menu3]
+Enter the following in the **Custom Output** text editor.
 
-| Option | Setting |
-|:------|:-------|
-| Module Class Suffix | `horizmenu rt-center hidden-phone` |
+~~~ .html
+<p>We are always open for a quick chat!</p>
+<h5><span class="icon-phone"></span>&nbsp;&nbsp;678-123-6789</h5>
+<h5><span class="icon-envelope"></span>&nbsp;hello/@paradigm.com</h5>
+~~~
 
-[menu]: assets/copyright.jpeg
-[menu1]: assets/menu_1a.jpeg
-[menu2]: assets/menu_2.jpeg
-[menu3]: assets/menu_3.jpeg
+### Basic
+
+![][demo3]
+
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |
+
+### Advanced
+
+![][demo4]
+
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix |         |  
+
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/contact_1.jpeg
+[demo3]: assets/contact_2.jpeg
+[demo4]: assets/contact_3.jpeg

@@ -1,59 +1,56 @@
 ---
-title: Paradigm: Recreating the Demo - FP Footer A
+title: Paradigm: Recreating the Demo - Latest From the Blog
 description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-FP Footer A
+Latest From the Blog
 -----
-![][footera1]
-We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You will find the settings used in our demo below.
+
+![][demo]
+
+This area of the front page is an **Article Newsflash** module. You will find the settings used in our demo below. 
 
 ### Details
-![][footera2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Footer A |
-| Show Title | Hide |
-| Position | footer-a |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Footer A |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+![][demo2]
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<div class="rt-footer-logo"> </div>
-<p class="promo3">All demo content is for <strong>sample</strong> purposes only, intended to show a live site. Use the Paradigm <strong>RocketLauncher</strong> to install an equivalent of the demo onto your site.</p>
-<p class="promo3"><strong>Paradigm</strong> is only available as part of a Club Subscription.</p>
-~~~
+| Option     | Setting                |  
+| :--------- | :--------------------- |  
+| Title      | `Latest From the Blog` |  
+| Show Title | Show                   |  
+| Position   | mainbottom-b           |  
+| Status     | Published              |  
+| Access     | Public                 |  
+| Language   | All                    |  
+| Note       | Blank                  |  
 
 ### Basic
-![][footera3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+![][demo3]
+
+| Option              | Setting        |  
+| :------------------ | :------------- |  
+| Category            | Blog           |  
+| Show Images         | No             |  
+| Show Article Title  | Yes            |  
+| Linked Titles       | Use Global     |  
+| Header Level        | h1             |  
+| Show Last Separator | Yes            |  
+| 'Read More...' Link | Show           |  
+| Number of Articles  | 1              |  
+| Order Results       | Published Date |  
 
 ### Advanced
-![][footera4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
-| Module Class Suffix | box5 fp-footer-a |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[footera1]: assets/footera_1.jpeg
-[footera2]: assets/footera_2.jpeg
-[footera3]: assets/footera_3.jpeg
-[footera4]: assets/footera_4.jpeg
+| Option              | Setting                                       |  
+| :------------------ | :-------------------------------------------- |  
+| Module Class Suffix | `fp-newsflash title2 icon-list-alt rt-center` |  
+
+[demo]: assets/demo_7.jpeg
+[demo2]: assets/blog_1.jpeg
+[demo3]: assets/blog_2.jpeg
+[demo4]: assets/blog_3.jpeg

@@ -1,61 +1,61 @@
 ---
-title: Paradigm: Recreating the Demo - FP Footer B
+title: Paradigm: Recreating the Demo - Build Your Own Site
 description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-FP Footer B
+Build Your Own Site
 -----
-![][footerb1]
-We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You will find the settings used in our demo below.
+
+![][demo]
+
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
-![][footerb2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Footer B |
-| Show Title | Hide |
-| Position | footer-b |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Footer B |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+![][demo2]
+
+| Option     | Setting                                     |  
+| :--------- | :------------------------------------------ |  
+| Title      | `Build Your Own Site Using Paradigm Today.` |  
+| Show Title | Hide                                        |  
+| Position   | extension-a                                 |  
+| Status     | Published                                   |  
+| Access     | Public                                      |  
+| Language   | All                                         |  
+| Note       | Blank                                       |  
 
 ### Custom Output
+
 Enter the following in the **Custom Output** text editor.
 
-~~~
-<p class="rt-uppercase promo3 smallmarginbottom"><a href="#">123 Joomla! Boulevard</a></p>
-<p class="rt-uppercase promo3 nomarginbottom"><a href="#">Seattle, WA 00000, USA</a></p>
-<p> </p>
-<p><a href="#">noreply/@domain.com</a></p>
-<div class="rt-social-buttons"> </div>
+~~~ .html
+<p class="largemargintop largepaddingtop">
+	<a href="#" class="readon rt-uppercase">Purchase Theme</a>
+</p>
 ~~~
 
 ### Basic
-![][footerb3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+![][demo3]
+
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][footerb4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
-| Module Class Suffix | box5 fp-footer-b |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[footerb1]: assets/footerb_1.jpeg
-[footerb2]: assets/footerb_2.jpeg
-[footerb3]: assets/footerb_3.jpeg
-[footerb4]: assets/footerb_4.jpeg
+| Option              | Setting                    |  
+| :------------------ | :------------------------- |  
+| Module Class Suffix | `fp-extension rt-center`   |  
+
+[demo]: assets/demo_8.jpeg
+[demo2]: assets/build_1.jpeg
+[demo3]: assets/build_2.jpeg
+[demo4]: assets/build_3.jpeg

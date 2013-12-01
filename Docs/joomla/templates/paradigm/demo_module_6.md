@@ -1,69 +1,78 @@
 ---
-title: Paradigm: Recreating the Demo - FP RokSprocket Tabs
+title: Paradigm: Recreating the Demo - Responsive Design
 description: Your Guide to Recreating Elements of the Paradigm Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
-FP RokSprocket Tabs
+Responsive Design
 -----
-![][tabs1]
-We used a **RokSprocket** module with the **Tabs** layout to make up the content in the **extesnion-a** position of the front page. You will find the settings used in our demo below.
+
+![][demo]
+
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
-![][tabs2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP RokSprocket Tabs |
-| Show Title | Hide |
-| Access | Public |
-| Position | extension-a |
-| Status | Published |
-| Content Provider | Joomla |
-| Type | Tabs |
+![][demo2]
 
-### Layout Options
-![][tabs3]
+| Option     | Setting              |  
+| :--------- | :------------------- |  
+| Title      | `Responsive Design`  |  
+| Show Title | Hide                 |  
+| Position   | maintop-a            |  
+| Status     | Published            |  
+| Access     | Public               |  
+| Language   | All                  |  
+| Note       | Blank                |  
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Tabs Position | Top |
-| Display Limit | ∞ |
-| Animation | Slide and Fade |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
-| Preview Length | 0 |
-| Strip HTML Tags | No |
+### Custom Output
 
-### Article Defaults
-![][tabs4]
+Enter the following in the **Custom Output** text editor.
 
-| Option | Setting |
-|:------|:-------|
-| Default Title | Default Article Title |
-| Default Image | Default Article Image|
-| Default Link | Default Article Link |
-| Default Article Text | Default Article Text |
+~~~ .html
+<div class="gantry-width-block gantry-width-50">
+	<div class="gantry-width-spacer nomarginbottom">
+		<img src="images/rocketlauncher/frontpage/maintop/img2.png" alt="img" />
+	</div>
+</div>
+
+<div class="gantry-width-block gantry-width-50">
+	<div class="gantry-width-spacer">
+		<div class="rt-maintop-desc">
+			<div class="module-title">
+			  <h2 class="title">Responsive <span class="hidden-tablet">Design</span></h2>
+			</div>	
+			<p class="rt-large-text">
+				A responsive layout adapts to the viewing device<span class="hidden-tablet">, whether mobile, tablet or a small or larger desktop, to ensure your site is accessible on all devices</span>.</span>
+			</p>			
+		</div>
+	</div>
+</div>
+
+<div class="clear"></div>
+~~~
+
+### Basic
+
+![][demo3]
+
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | No      |  
+| Select a Background Image | Blank   |
 
 ### Advanced
-![][tabs5]
 
-| Option | Setting |
-|:------|:-------|
-| Ordering | 1. FP RokSprocket Strips Tabs |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
-| Module Class Suffix | fp-roksprocket-tabs |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[tabs1]: assets/tabs_1.jpeg
-[tabs2]: assets/tabs_2.jpeg
-[tabs3]: assets/tabs_3.jpeg
-[tabs4]: assets/tabs_4.jpeg
-[tabs5]: assets/tabs_5.jpeg
+| Option              | Setting                                                                |  
+| :------------------ | :--------------------------------------------------------------------- |  
+| Module Class Suffix | `fp-maintop2 rt-big-title nomarginbottom nopaddingbottom hidden-phone` |  
+
+[demo]: assets/demo_5.jpeg
+[demo2]: assets/responsive_1.jpeg
+[demo3]: assets/responsive_2.jpeg
+[demo4]: assets/responsive_3.jpeg

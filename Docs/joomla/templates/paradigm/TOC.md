@@ -27,9 +27,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
             * [Latest From the Blog](demo_module_8.md)
             * [Build Your Own Site](demo_module_9.md)
             * [Join Our Newsletter](demo_module_10.md)
-            * [Get in Touch](demo_module_10.md)
-            * [FP Footer Menu](demo_module_10.md)
-            * [Social Buttons](demo_module_10.md)
+            * [Get in Touch](demo_module_11.md)
+            * [FP Footer Menu](demo_module_12.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
 * Template Tutorials
