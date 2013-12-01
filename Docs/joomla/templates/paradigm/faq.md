@@ -13,7 +13,7 @@ Please check our [Template Info page][features] for all Paradigm features in one
 What font is used on Paradigm template?
 -----
 
-Ubuntu. You can download it at [here][font].
+Raleway. You can download it at [here][font].
 
 Is there any tutorial to get me started with Paradigm?
 -----
@@ -33,7 +33,7 @@ What is RokSprocket?
 What is Gantry?
 -----
 
-[Gantry][gantry] is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 What is DropDown Menu?
 -----
@@ -48,9 +48,9 @@ A static menu system that displays 1st level items in the main horizontal menu a
 What extensions are integrated with the template?
 -----
 
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and Third party extension K2.
+A few of our RocketTheme extensions have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and Third party extension K2.
 
-Can I install RocketLauncher on existing Joomla! website?
+Can I install RocketLauncher onto an existing Joomla! website?
 -----
 
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.
@@ -62,9 +62,8 @@ To avoid image license copyright issues, all sample content images shown in our 
 
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla/paradigm/features
-[font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=831&rb_v=viewforum
+[font]: http://www.fontsquirrel.com/fonts/Raleway
+[forum]: http://www.rockettheme.com/forum/index.php?f=832&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla/paradigm/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla/paradigm/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/paradigm/features/extensions
