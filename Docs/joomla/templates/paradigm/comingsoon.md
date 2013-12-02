@@ -34,6 +34,8 @@ You can set the timer by visiting the **Features** tab within the **Template Man
 
 To enable or disable the sample email subscription form, you can navigate to **Administrator -> Extensions -> Template Manager -> Paradigm -> Features -> Email Subscription** to turn it on or off. By setting this option to **On**, you are turning on the email subscription form in both the **Offline** and **Coming Soon** pages.
 
+You can find out more information on creating a [FeedBurner Email Subscription here][feedburner].
+
 ### Language 
 
 We have also added a number of language constants to display the text for the Coming Soon page. For example, in the same **rt_Paradigm/comingsoon.php** file you should see language constants such as: 
@@ -63,3 +65,4 @@ Once this is done, place your desired text in the Text box to display your text.
 
 [comingsoon]: assets/comingsoon.jpg
 [comingsoon2]: assets/comingsoon2.jpg
+[feedburner]: http://theedublogger.com/2010/01/26/setting-up-feedburner-rss-and-email-subscription-for-your-blog/
