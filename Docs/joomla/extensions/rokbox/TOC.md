@@ -14,9 +14,7 @@ support: http://www.rockettheme.com/forum/index.php?f=201&rb_v=viewforum
     * [Introduction](INDEX.md)
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
-* Advanced
-    * [Tweak Modal Size](#)
-    * [Album Slideshow](#)
-    * [Menu Item Integration](#)
-    * [RokGallery Integration](#)
-    * [RokSprocket Integration](#)
+* Extensions with RokBox Support
+	* [RokSprocket](../roksprocket/)
+	* [RokGallery](../rokgallery/)
+	* [RokNavMenu](../roknavmenu/)

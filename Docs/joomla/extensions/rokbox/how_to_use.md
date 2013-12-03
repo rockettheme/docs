@@ -59,7 +59,13 @@ Here are a couple of examples of a RokBox2 link with caption, both plain caption
 <a data-rokbox data-rokbox-caption="The description of &lt;strong&gt;my picture&lt;/strong&gt;" href="images/my_image.jpg">RokBox 2 HTML Caption</a>
 ~~~
 
-If you do not know how to convert to HTML entities, you can find [many][convert_1], [online][convert_2], [tools][convert_3], to do it for you. You could also use the [Editor Button][editor-button] which does convert automatically your caption into HTML entities.
+If you do not know how to convert to HTML entities, you can find many online tools to do it for you. We've listed three such tools below.
+
+* [HTMLEntities.net][convert_1]
+* [Web 2.0 Generators][convert_2]
+* [HTML Entities Converter][convert_3]
+
+You could also use the [Editor Button][editor-button] which does convert automatically your caption into HTML entities.
 
 
 #### data-rokbox-album
@@ -142,16 +148,6 @@ The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 1
 
 >> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible. 
 
-#### Safari 5 on Windows
-
-In order for RokBox to operate properly for Safari 5 users on Windows, you will need to add a browser-specific CSS file with the following code:
-
-`.rokbox-wrapper .rokbox-outer .rokbox-row .rokbox-inner .rokbox-container {
-min-width: 50% !important;
-}`
-
->> Apple does not support Safari on Windows any longer.
-
 [editor-button]: editor_button.md
 [data-rokbox-caption]: #data-rokbox-caption
 [data-rokbox-album]: #data-rokbox-album
@@ -162,7 +158,6 @@ min-width: 50% !important;
 [convert_2]: http://www.web2generators.com/html/entities
 [convert_3]: http://spacefem.com/tutorials/makecode.php
 [dom_specs]: http://www.w3.org/TR/DOM-Level-2-Core/introduction.html
-
 [rokbox2-data-element]: assets/rokbox2-data-rokbox-element.png
 [rokbox2-thumbs-settings]: assets/rokbox2-thumbs-settings.png
 [rokbox2-generated-thumb]: assets/rokbox2-generated-thumb.png

@@ -13,7 +13,7 @@ Introduction
 
 Magento is a powerful and full-featured e-commerce platform built on open-source technology. It enables you to quickly create a professional and functional e-commerce site, including one or more stores, that empowers you to customize and control virtually every aspect of the customer experience.
 
-From sales to marketing, product management to customer interaction, Magento comes complete with everything you need to manage and execute a wide variety of business models and store types. All of this is made available for free to the community. It is a dramatic cut from the typical e-commerce startup costs associated with operating a direct sale site in years past.
+From sales to marketing, product management to customer interaction, Magento comes complete with everything you need to manage and execute a wide variety of business models and store types. All of this is made available for free to the community. It is a dramatic cut from the typical e-commerce startup costs associated with operating a direct sale site in the past.
 
 Magento is clean, intuitive, and full scalable.
 

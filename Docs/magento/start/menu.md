@@ -1,6 +1,6 @@
 ---
 title: How to Use the Admin Panel Menu
-description: The menu located at the top of the Magento Admin Panel gives you quick access to virtually every area administrative component of your site.
+description: The menu located at the top of the Magento Admin Panel gives you quick access to virtually every administrative component of your site.
 tags: [Menu, Tutorial, Admin Panel]
 breadcrumb: /magento:Magento/!start:Start/
 
@@ -11,7 +11,7 @@ Introduction
 
 ![][menu]
 
-The **Menu** positioned at the top of of the **Admin Panel** is the fastest way to move between administrative resources located in the backend of your site. It is organized by content type, which makes it easier to find what your searching for based on the task you are hoping to accomplish.
+The **Menu** positioned at the top of of the **Admin Panel** is the fastest way to move between administrative resources located in the backend of your site. It is organized by content type, which makes it easier to find what you are searching for based on the task you are hoping to accomplish.
 
 This menu can change based on your individual configuration. More information about specific areas within Magento can be found in the official Magento documentation.
 

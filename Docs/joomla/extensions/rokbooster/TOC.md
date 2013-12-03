@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbooster:RokBooster
 
+details: http://www.rockettheme.com/extensions-joomla/rokbooster
+demo: http://demo.rockettheme.com/extensions/?extension=rokbooster
+download: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster
+support: http://www.rockettheme.com/forum/index.php?f=623&rb_v=viewforum
+
 ---
 
 * RokBooster

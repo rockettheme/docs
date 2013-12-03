@@ -9,11 +9,11 @@ breadcrumb: /magento:Magento/!start:Start/
 Introduction
 -----
 
-Magento's installation process is not unlike many other popular CMS platforms. You will need to create a database, choose your Magento package (RocketLauncher or default), and make sure you have all the permissions set correctly to avoid complications down the road.
+Magento's installation process is not unlike other popular site platforms. You will need to create a database, choose your Magento package (RocketLauncher or default), and make sure you have all the permissions set correctly to avoid complications down the road.
 
 Magento only connects to MySQL databases, which can be created and hosted through most major hosting plans. This database stores settings, content, and sales information which results in the normal use of your site.
 
-Once Magento is installed, you can customize it is just about any way you could imagine. From applying a custom theme to adding modules, Magento is a complete solution for almost any e-commerce application.
+Once Magento is installed, you can customize it in just about any way you could imagine. From applying a custom theme to adding modules, Magento is a complete solution for almost any e-commerce application.
 
 Requirements
 -----
@@ -90,7 +90,7 @@ Simply unpack it where you would like to have your Magento site appear in your s
 Step 4: The Installation Wizard
 -----
 
-The Magento installation wizard allows you to complete initial setup of your new site using your browser. Accessing the wizard can be done right after uploading and unpacking the installer into your desired directory. You need but to navigate to the root directory for your Magento site.
+The Magento installation wizard allows you to complete initial setup of your new site using your browser. Accessing the wizard can be done right after uploading and unpacking the installer into your desired directory. You need to navigate to the root directory for your Magento site.
 
 If you uploaded and unpacked the downloader, a lighter and smaller file package that downloads the entirety of the Magento package prior to initiating installation, you will want to navigate to the same directory with an additional `/downloader.php` to open the **Downloader**.
 
@@ -140,7 +140,7 @@ The **Web Access Options** area is where you set the base URL, administrative pa
 
 The **Skip Base URL Validation Before Next Step** option is used if you are installing Magento behind a password protected directory.
 
-Its a good idea to set a secret word at this point to have a custom admin path.  Be sure to remember this as you will need it to log in to your site instead of using the typical path of **www.(your site name).com/admin**.
+It is a good idea to set a secret word at this point to have a custom admin path.  Be sure to remember this as you will need it to log in to your site instead of using the typical path of **www.(your site name).com/admin**.
 
 >> Note: Magento does not support self-signed SSL certificates. If you intend to use SSL for administrative access, you will need a third-party signed SSL certificate. This is an optional feature.
 

@@ -3,6 +3,10 @@ title: Magento Documentation
 description: Magento is a powerful all-in-one solution for e-commerce.
 landing: true
 breadcrumb: /!Magento:Magento/
+more:
+	Basic Tutorials: 6
+	RokMage Extensions: 5
+	Club Themes: 5
 
 ---
 
@@ -11,32 +15,20 @@ breadcrumb: /!Magento:Magento/
 	- [What is Magento Community Edition?](start/introduction.md)
 	  Find out why Magento is one of the most popular open source CMSs.
 
-	- [How Does Magento Work?](start/understanding.md)
-	  Learn what the basic components of Magento are and how they fit into your site.
-
 	- [How to install Magento](start/install_Magento.md)
 	  Step-by-step through the installation procedure for Magento.
-
-	- [Magento Templates](start/templates.md)
-	  Find out exactly what a Magento template entails and what its relationship is with Magento's extensions.
-
-	- [Magento Extensions](start/extensions.md)
-	  Discover how RokMage extensions help you to create a more powerful site.
 
 <!-- -->
 
 * About Magento
 
-	- [Introduction](start/)
-	- [How Magento Works](start/understanding.md)
-	- [Magento Extensions](start/extensions.md)
-	- [Magento Themes](start/themes.md)
+	- [Introduction](start/introduction.md)
 
 <!-- -->
 
 * Basic Tutorials
 
-	- [How to Install Magento](start/install_Magento.md)
+	- [How to Install Magento](start/install_magento.md)
 	- [How to Use the Dashboard](start/dashboard.md)
 	- [How to Work with Cache](basic/cache.md)
 	- [How to Create Store Categories](basic/store_categories.md)
@@ -47,7 +39,7 @@ breadcrumb: /!Magento:Magento/
 
 * Club Themes
 
-	- [Cerulean](themes/metropolis)
+	- [Cerulean](themes/cerulean)
 	- [Metropolis](themes/metropolis)
 	- [Graffito](themes/graffito)
 	- [Kirigami](themes/kirigami)

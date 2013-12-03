@@ -13,15 +13,15 @@ RokBox2 is a fully responsive modal plugin for Joomla and the successor of the v
 
 RokBox2 is bundled with:
 
-1. a Content plugin
-2. a Button Editor plugin
-3. a System plugin
+1. Content plugin
+2. Editor Button plugin
+3. System plugin
 
-The **Content plugin** can auto-generate thumbnails of local images that can be used as content for the RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
+The **Content** plugin can auto-generate thumbnails of local images that can be used as content for the RokBox2 links. All thumbnails generated are responsive so that they can easily adapt to any device.
 
-The **Button Editor plugin** allows for easy creation of RokBox2 snippets with just a few clicks.
+The **Button** plugin enables the RokBox Editor Button which allows for easy creation of RokBox2 snippets with just a few clicks.
 
-The **System plugin** is responsible for loading the assets necessary for RokBox2 to work.
+The **System** plugin is responsible for loading the assets necessary for RokBox2 to work.
 
 >> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plugin.
 >>

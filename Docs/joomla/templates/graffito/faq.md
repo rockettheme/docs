@@ -29,9 +29,9 @@ What is Gantry?
 -----
 [Gantry][gantry] is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
-What is DropDown Menu?
+What is Fusion Menu?
 -----
-[DropDown Menu][dropdown] is a menu theme of the RokNavMenu extension, the addon that drives all RocketTheme template menus. It is primarily a CSS enhanced dropdown menu, with subtext line, multi-columns, icons and more.
+Fusion Menu is a menu theme of the RokNavMenu extension, the addon that drives all RocketTheme template menus. It is primarily a javascript enhanced CSS dropdown menu, that combines standard suckerfish type functionality with animations, transitions and other advanced effects provided by Mootools.
 
 What is Splitmenu?
 -----

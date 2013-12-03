@@ -71,7 +71,6 @@ A selection of our RocketTheme Extensions have been styled to integrate with the
 
 * RokTabs: A tabbed based content module, with advanced display controls.
 * RokFeatureTable: A stylistic and highly configurable tabular data displayer.
-* RokTwittie: A module that integrates Twitter into your Joomla site.
 * RokNewsPager: A snippet content previewer, supports accordion and list layout styles.
 * RokMiniEvents: A simple and elegant solution for displaying events on your site.
 * RokAjaxSearch: An advanced ground-up revolutionary Joomla! gallery extension.

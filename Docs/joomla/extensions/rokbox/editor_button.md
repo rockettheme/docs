@@ -15,14 +15,7 @@ RokBox has a built-in editor button that integrates with the Joomla Content and 
     3. This **item** has no _title_, the position is invalid. [50%,50%]
     4. **Invalid Position** This item has an invalid position [90%, 90%]
 
-The Editor Button popup is meant to be as user-friendly as possible and as can be noticed from the screenshot above, it is very self explainatory.
-
-This is a normal DL DT
-
-:    This is a DL DD
-
-:    And another one
-
+The Editor Button popup is meant to be as user-friendly as possible and as can be noticed from the screenshot above, it is very self explanatory.
 
 Link
 ----
