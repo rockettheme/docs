@@ -50,13 +50,15 @@ RocketTheme works hard to ensure that our customers have the maximum value for t
 
 Site Licenses were created in order for us to be able to offer budget-friendly membership prices for customers that really only need to set up one or two sites, but do not have intentions to set up a full-time development company working with numerous clients. The time and expense involved in creating our templates and extensions is considerable, and this is the best way we could justify keeping our prices low by avoiding charging everyone the Developer Club rate.
 
-Even if a Club or Developer Club member has extra site licenses, they are not allowed to resell, give away, or re-distribute RocketTheme products. Site Licenses apply to the member alone, and while they can be used to create a site for a client (which the client then owns), the entitlement remains with the member.
+Even if a Club or Developer Club member has extra site licenses, they are not allowed to resell, give away, or re-distribute RocketTheme products. Site Licenses apply to the member alone, and while they can be used to create a site for a client (which the client then owns), the Site license remains with the member.
 
-For example, a member that creates a site for a local business using a RocketTheme template/theme/style can do so as long as they have not extinguished their allowed site licenses. Once the site is created, the Entitlement is considered used until such time as the theme is removed from the site. Regular Club account members can have up to their Entitlement limit in active installs live at any given time, even after their membership has expired. 
+For example, a member that creates a site for a local business using a RocketTheme template/theme/style can do so as long as they have not extinguished their allowed site licenses. Once the site is created, the site license is considered used until such time as the theme is removed from the site. Regular Club account members can have up to their site license limit in active installs live at any given time, even after their membership has expired. 
 
 Developer Club members with unlimited site licenses must have an active membership at the time the site is created. They could not, for example, build a new site for a client using a RocketTheme Club product after their membership has expired. Any site they set up during their active membership can remain up after its expiration, however.
 
 Site Licenses currently exist on the honor system, though RocketTheme reserves the right to change this at any time, requiring new installs on live (non-development) servers to be linked to an active account.
+
+For detailed information on site licenses, and how they are counted, see our [Site Licenses Guide][licenses].
 
 #### Misrepresentation
 
@@ -80,3 +82,4 @@ However, although your website maybe categorized as a non-profit site, you will 
 Therefore, memberships are not provided for free, or at an additional discount, to non-profits.
 
 [terms]: http://www.rockettheme.com/legal/terms.php
+[licenses]: site_licenses.md
