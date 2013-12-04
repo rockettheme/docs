@@ -29,8 +29,6 @@ Affiliates are paid at a regular pace for any sales made resulting from their af
 
 You also gain immediate access to a library of banners and text links that make adding your affiliate link(s) to your site easier.
 
-Sign up is quick and easy, and can be done directly from [RocketTheme's ShareASale affiliate page][shareasale].
-
 Your customers benefit from receiving:
 
 * Immense value through top-notch designs at affordable prices. 
@@ -40,10 +38,57 @@ Your customers benefit from receiving:
 Expectations
 -----
 
+The expectations placed on members of RocketTheme's affiliate program are listed below. These are the qualities we look for when determining whether or not to accept an applicant as an affiliate.
 
+* Quality site design.
+* Top-Level-Domain (i.e., www.yourdomainname.com) is recommended.
+* Site content displayed in English.
+* Potential for traffic generation. Main site topic, target audience, etc.
+* Disallowed sites include: Any illegal content, porn, hate, etc... on your site, or on sites you link to.
+* Other miscellaneous factors.
+
+RocketTheme reserves the right to reject and/or remove any party from the affiliate program for any reason.
 
 How to Become an Affiliate
 -----
 
+Sign up is quick and easy, and can be done directly from [RocketTheme's ShareASale affiliate page][shareasale]. If you already have an affiliate account with ShareASale, you can use this existing account. Otherwise, you will need to create a new one.
+
+#### Step 1: Create a Username and Password
+
+In the first step, you will be asked to create a **username**, **password**, and indicate your **country of origin**. If you have entered a unique username that has not already been used, you can proceed to the next step in the sign-up process.
+
+#### Step 2: Tell Us About Your Site
+
+The second step tells ShareASale which URL you will primarily display your affiliate banners at. This is the initial URL that will be reviewed during the approval process. You can add additional URLs to your account after its initial creation. You will also be asked to list your site's primary language, and answer a number of qualifying questions about site strategy. Once you have completed this step, you can select **Move on to Step 3** to continue.
+
+#### Step 3: Email Address and Confirmation
+
+This step allows you to list an email address which is used for RocketTheme and/or ShareASale to contact you. For faster approval, you can elect to use an email address that utilizes the same domain you listed as the primary for the account. Alternatively, you can elect to use an email address with a different domain, with the understanding that approval may take a little longer to process.
+
+#### Step 4: Contact
+
+This page establishes your contact information. This includes your real name, a name to make checks payable to, contact phone, address, and additional information about your primary site.
+
+The **Support Phone Pin** is a four-digit code you can use when calling support to verify your identity. We recommend writing this PIN down and storing it in a safe, secure place.
+
+#### Step 5: Payment
+
+The final step to setting up an account involves choosing a payment method. Payouts can be done by way of a mailed check, or via direct deposit. 
+
+Once your account is created, your application will be reviewed by RocketTheme and a response will be sent to you via email within a few business days. Once you are approved, you can retrieve site banners, track performance, and manage your account through ShareASale.
+
+How to Get Affiliate Banners
+-----
+
+![][link]
+
+:	1. **Get a Link/Banner** [45%, 19%, se]
+
+Once you are approved, you can find the affiliate banners by going to your ShareASale Dashboard and navigating to **Links -> Get a Link / Banner** and selecting **Get Links** under **RocketTheme.com** in your **Merchant Programs** list.
+
+We have provided a number of **Text Links** and **Banners** you can choose from. Additionally, you can create a custom link by selecting the **Create Custom Link** tab and filling out the information there.
+
 [shareasale]: http://www.shareasale.com/shareasale.cfm?merchantID=30300
-[share]: shareasale.jpg
+[share]: assets/shareasale.jpg
+[link]: assets/shareasalelink.jpg
