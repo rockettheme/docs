@@ -25,5 +25,6 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 
 * Affiliates
 
-	- [How to Become an Affiliate](affiliates.md)
 	- [Affiliate Guidelines](affiliates.md#affiliate-guidelines)
+	- [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
+	- [Benefits of Being an Affiliate](affiliates.md#benefits-of-being-an-affiliate)

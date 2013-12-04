@@ -15,3 +15,6 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 		* [Common Scenarios](site_licenses.md#common-use-scenarios)
 		* [Frequently Asked Questions](site_licenses.md#frequently-asked-questions)
 	* [Billing and Payments](payments.md)
+	* Affiliates
+		* [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
+		* [Affiliate Guidelines](affiliates.md)

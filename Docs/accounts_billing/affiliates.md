@@ -47,7 +47,9 @@ The expectations placed on members of RocketTheme's affiliate program are listed
 * Disallowed sites include: Any illegal content, porn, hate, etc... on your site, or on sites you link to.
 * Other miscellaneous factors.
 
-RocketTheme reserves the right to reject and/or remove any party from the affiliate program for any reason.
+Affiliates are restricted from representing themselves as being associated with, or a representative of, RocketTheme and/or its products. RocketTheme also does not approve of the affiliate program's use as part of an incentive rewards program, or in any situation where a visitor is compelled to click the affiliate link in order to participate in a third-party program.
+
+Automatic redirects and other forced traffic is strictly forbidden, and will result in immediate removal from the program. RocketTheme reserves the right to reject and/or remove any party from the affiliate program for any reason.
 
 How to Become an Affiliate
 -----
