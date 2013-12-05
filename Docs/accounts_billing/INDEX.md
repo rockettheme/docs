@@ -13,6 +13,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	- [Restrictions](membership.md#membership-restrictions)
 	- [Entitlements](membership.md#entitlements)
 	- [Non-Profits](membership.md#non-profits)
+	- [Club Vs. Single Template Purchases](comparisons.md)
 
 <!-- -->
 

@@ -23,16 +23,16 @@ Creating a new menu is a fairly straightforward process. Whether you want this n
 
 ![][new_menu_1]
 
-:   1. **Add New Menu** This will initiate the creation of a new menu. [16%, 83%]
+:   1. **Add New Menu** This will initiate the creation of a new menu. [18%, 83%, sw]
 
 To start, you will need to navigate to **Administrator > Menus > Menu Manager > Add New Menu** (point 1) to initiate the creation of a new menu. 
 
 ![][new_menu_2]
 
-:   1. **Save** This options bar allows you to save your new menu. [30%, 10%]
-    2. **Title** This title will appear in the Administrator Menubar and lists. [53%, 25%]
-    3. **Menu Type** This sets the system name for the menu. [63%, 25%]
-    4. **Description** This is where you describe what your menu does. [73%, 25%]
+:   1. **Save** This options bar allows you to save your new menu. [30%, 10%, ne]
+    2. **Title** This title will appear in the Administrator Menubar and lists. [53%, 31%, se]
+    3. **Menu Type** This sets the system name for the menu. [63%, 31%, se]
+    4. **Description** This is where you describe what your menu does. [73%, 31%, se]
 
 Next, you will need to fill out the **Menu Details** page to give your menu a title (point 2), type designation (point 3), and description (point 4).
 
@@ -46,7 +46,7 @@ Once you are done filling out at least the Title and Menu Type, click either **S
 
 ![][new_menu_3]
 
-:   1. Once you have saved your new menu, it should appear in the Menu Manager. [75%, 15%]
+:   1. Once you have saved your new menu, it should appear in the Menu Manager. [76%, 23%, se]
 
 Once you have saved your new menu, it should appear in the **Menu Manager** (point 1). This is also the page you will use to edit and manage your new menu.
 
@@ -56,8 +56,8 @@ Proper menu management is important to make sure your site is well organized and
 
 ![][new_menu_3]
 
-:   1. **New** This will initiate the creation of a new menu. [22%, 5%]
-    2. **Edit** Checking a menu and selecting Edit will take you a page in which you can change the title, menu type, and description. [22%, 16%]
+:   1. **New** This will initiate the creation of a new menu. [24%, 6%, se]
+    2. **Edit** Checking a menu and selecting Edit will take you a page in which you can change the title, menu type, and description. [24%, 20%, se]
 
 The main page within the **Menu Manager** is the Menus tab. This is where you can see a list of your existing menus, edit them, and create a new menu.
 
@@ -72,7 +72,7 @@ Adding and Managing Menu Items
 
 ![][menu_manager_1]
 
-:   1. **Filter** This will allow you to easily locate a particular menu item. [22%, 5%]
+:   1. **Filter** This will allow you to easily locate a particular menu item. [45%, 5%, se]
     
 The **Menu Items** area of the menu manager gives you the ability to view specific items within a particular menu. For menus with an extensive amount of individual items, you can filter what you see in this page using several different options (point 1).
 
@@ -84,18 +84,18 @@ You can click any individual menu item's title to delve deeper into that particu
 
 ![][menu_manager_3]
 
-:   1. **Menu Item Type** What type of link is it? You can link a component, URL, alias, separator, or heading. [27%, 17%]
-    2. **Menu Title** This is the title of the menu item that will display in the menu. [40%, 17%]
-    3. **Alias** Alias is used for search engine friendly (SEF) linking. Use this to modify the link for the menu item. [46%, 17%]
-    4. **Status** This sets the publication status for the menu item. It can be published, unpublished, or trashed. [56%, 17%]
-    5. **Link** This is the link for this menu. [62%, 17%]
-    6. **Menu Location** This indicates which menu the link will appear in. [68%, 17%]
-    7. **Parent Item** This is useful when you wish to change the level of a link in order to put it below another link in the menu, or make it a top-level link. [74%, 17%]
-    8. **Ordering** This indicates which menu item the select item will appear after in the designated menu. [80%, 17%]
-    9. **Access** Which level group do you want to have access to view this menu item? [27%, 65%]
-    10. **Default Page** Is this menu item the home page of your site? [34%, 65%]
-    11. **Template Style** This allows you to use a different template for this particular menu item. Useful if you have different styles set on your site for one page to the next. [47%, 65%]
-    12. **Language** This is where you assign a language to a menu item. [53%, 65%]
+:   1. **Menu Item Type** What type of link is it? You can link a component, URL, alias, separator, or heading. [29%, 22%, se]
+    2. **Menu Title** This is the title of the menu item that will display in the menu. [42%, 22%, se]
+    3. **Alias** Alias is used for search engine friendly (SEF) linking. Use this to modify the link for the menu item. [48%, 22%, se]
+    4. **Status** This sets the publication status for the menu item. It can be published, unpublished, or trashed. [58%, 22%, se]
+    5. **Link** This is the link for this menu. [64%, 22%, se]
+    6. **Menu Location** This indicates which menu the link will appear in. [70%, 22%, se]
+    7. **Parent Item** This is useful when you wish to change the level of a link in order to put it below another link in the menu, or make it a top-level link. [76%, 22%, se]
+    8. **Ordering** This indicates which menu item the select item will appear after in the designated menu. [82%, 22%, se]
+    9. **Access** Which level group do you want to have access to view this menu item? [29%, 71%, se]
+    10. **Default Page** Is this menu item the home page of your site? [36%, 71%, se]
+    11. **Template Style** This allows you to use a different template for this particular menu item. Useful if you have different styles set on your site for one page to the next. [49%, 71%, se]
+    12. **Language** This is where you assign a language to a menu item. [55%, 71%, se]
 
 The **Details** area of the menu item editor gives you access to the most commonly used options relating to a menu item. You can change virtually anything about the link from its behavior to the type of link it is.
 
@@ -137,19 +137,19 @@ Creating a menu module allows you to add any menu to your site in just about any
 
 ![][menu_module_1]
 
-:   1. **Module Manager** This is where you will need to go to create and manage modules for your Joomla site. [22%, 53%]
+:   1. **Module Manager** This is where you will need to go to create and manage modules for your Joomla site. [24%, 56%, se]
 
 The first step to creating a menu module (beyond creating the menu) is to navigate to the **Module Manager** from **Administrator > Extensions > Module Manager** (point 1).
 
 ![][menu_module_2]
 
-:   1. **New** This button will initiate the creation of a module. [20%, 5%]
+:   1. **New** This button will initiate the creation of a module. [22%, 6%, se]
 
 Next, you will need to create a new module for your menu. Think of the module as a box with which you can place any number of different things. In this case, you are building a box for a menu. Just hit the big green **New** button (point 1) to get started.
 
 ![][menu_module_3]
 
-:   1. **Menu Item Type** What type of link is it? You can link a component, URL, alias, separator, or heading. [74%, 45%]
+:   1. **Menu** [75%, 10%, se]
 
 Creating a new menu module requires that you select either Menu (point 1) or an alternative menu extension (like [RokNavMenu][RokNavMenu]). 
 
@@ -157,11 +157,11 @@ So far in this process, we have created a box and told Joomla what type of mater
 
 ![][menu_module_4]
 
-:   1. **Title / Show Title** New modules must have a title. You can elect to make it visible to visitors or hidden using the option below. [32%, 16%]
-    2. **Position** This is the title of the menu item that will display in the menu. [40%, 16%]
-    3. **Status** This sets the publishing status for the module. If unpublished or trashed, it will not appear on the frontend of your site. [49%, 16%]
-    4. **Access** This option enables you to determine which user group levels have access to view the module on the frontend. [55%, 16%]
-    5. **Start/Stop Publishing** This option allows you to specify a time when the module will start and stop being published. [70%, 16%]
+:   1. **Title / Show Title** New modules must have a title. You can elect to make it visible to visitors or hidden using the option below. [34%, 21%, se]
+    2. **Position** This is the title of the menu item that will display in the menu. [42%, 21%, se]
+    3. **Status** This sets the publishing status for the module. If unpublished or trashed, it will not appear on the frontend of your site. [51%, 21%, se]
+    4. **Access** This option enables you to determine which user group levels have access to view the module on the frontend. [57%, 21%, se]
+    5. **Start/Stop Publishing** This option allows you to specify a time when the module will start and stop being published. [72%, 21%, se]
 
 The **Title** and **Show Title** options (point 1) allow you to give your module a name, and decide whether or not this name should be displayed on the frontend of your site. 
 
@@ -177,11 +177,11 @@ You can also assign a specific language to the module.
 
 ![][menu_module_5]
 
-:   1. **Select Menu** This option gives you access to basic and advanced options you can use to further customize how your menu module appears to visitors. [42%, 17%]
-    2. **Base Item** This is the base item for the displayed menu. [49%, 17%]
-    3. **Start Level** This indicates which menu level the page needs to be to start rendering the module. It will continue to render for lower levels until it reaches the **End Level** set in the field below. [56%, 17%]
-    4. **End Level** This indicates which menu level you would like the module to stop rendering after. [63%, 17%]
-    5. **Show Sub-menu Items** This indicates if you want the full menu, including sub-menus, to appear in the module. [72%, 17%]
+:   1. **Select Menu** This option gives you access to basic and advanced options you can use to further customize how your menu module appears to visitors. [44%, 22%, se]
+    2. **Base Item** This is the base item for the displayed menu. [51%, 22%, se]
+    3. **Start Level** This indicates which menu level the page needs to be to start rendering the module. It will continue to render for lower levels until it reaches the **End Level** set in the field below. [58%, 22%, se]
+    4. **End Level** This indicates which menu level you would like the module to stop rendering after. [65%, 22%, se]
+    5. **Show Sub-menu Items** This indicates if you want the full menu, including sub-menus, to appear in the module. [74%, 22%, se]
 
 The **Options** tab gives you access to basic and advanced options you can use to further customize how your menu module appears to visitors. This tab may be propagated with different options depending on if you go with the default menu module or an extension. For the purposes of this tutorial, the images you see here are generated with the default menu options.
 
