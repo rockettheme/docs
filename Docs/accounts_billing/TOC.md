@@ -14,6 +14,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 		* [How Many Do I Get?](site_licenses.md#how-many-site-licenses-do-i-get?)
 		* [Common Scenarios](site_licenses.md#common-use-scenarios)
 		* [Frequently Asked Questions](site_licenses.md#frequently-asked-questions)
+	* [Product Comparisons](comparisons.md)
 	* [Billing and Payments](payments.md)
 	* Affiliates
 		* [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
