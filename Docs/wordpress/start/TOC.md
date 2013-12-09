@@ -10,5 +10,9 @@ breadcrumb: /wordpress:WordPress/!start:Start
     * [Installing a Theme](themes.md)
     	* [Theme Files](themes.md#theme-files)
     	* [RocketLauncher](themes.md#rocketlauncher)
-* Advanced
-    * [RocketLauncher Setup](rocketlauncher.md)
+    * [Plugins Guide](plugins.md)
+    	* [How to Install a Plugin](plugins.md#how-to-install-a-plugin)
+    	* [How to Manage Plugins](plugins.md#how-to-manage-plugins)
+    * [Menus Guide](menus.md)
+    	* [How to Create a Menu](menus.md#how-to-create-a-menu)
+    	* [Item Customization](menus.md#item-customization)
