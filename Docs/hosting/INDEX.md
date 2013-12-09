@@ -9,3 +9,4 @@ breadcrumb: /!hosting:Hosting Help/
 * General Hosting
 
 	- [Joomla Hosting Guide](joomla.md)
+	- [Recommended Hosting Providers](hosting_providers.md)

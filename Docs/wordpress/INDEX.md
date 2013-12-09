@@ -29,7 +29,6 @@ breadcrumb: /!WordPress:WordPress/
 
 	- [How to Create a New Post](start/post.md)
 	- [How to Manage Menus](start/menus.md)
-	- [How to Manage Media](start/media.md)
 
 <!-- -->
 
