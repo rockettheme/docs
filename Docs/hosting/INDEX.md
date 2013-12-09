@@ -9,4 +9,5 @@ breadcrumb: /!hosting:Hosting Help/
 * General Hosting
 
 	- [Joomla Hosting Guide](joomla.md)
+	- [How to Find a Good Hosting Provider](hosting.md)
 	- [Recommended Hosting Providers](hosting_providers.md)
