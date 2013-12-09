@@ -1,7 +1,7 @@
 ---
 title: Recommended Hosting Providers
 description: Finding the right hosting solution can be difficult. Here is our list of recommended providers.
-breadcrumb: /!hosting:Hosting Help/!hosting_providers:Recommended Providers/
+breadcrumb: /hosting:Hosting Help/!hosting_providers:Recommended Providers/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to Find a Good Hosting Provider
 description: Finding the right hosting solution can be difficult. Here is our guide to finding the right one.
-breadcrumb: /!hosting:Hosting Help/!hosting:How to Find a Good Hosting Provider/
+breadcrumb: /hosting:Hosting Help/!hosting:How to Find a Good Hosting Provider/
 
 ---
 
