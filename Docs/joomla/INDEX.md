@@ -34,7 +34,7 @@ more:
 	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
 	- [How Joomla Extensions Work](platform/extensions.md)
 	- [How Joomla Templates Work](platform/templates.md)
-	- [How Joomla Administration Menu Work](platform/administrator.md)
+	- [How Joomla's Administration Menu Works](platform/administrator.md)
 
 <!-- -->
 

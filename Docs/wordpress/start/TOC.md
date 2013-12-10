@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!start:Start
 * Start
     * [What is WordPress?](INDEX.md)
     	* [Features](INDEX.md#features)
-    * [Installing a Theme](themes.md)
+    * [How to Install a Theme](themes.md)
     	* [Theme Files](themes.md#theme-files)
     	* [RocketLauncher](themes.md#rocketlauncher)
     * [Plugins Guide](plugins.md)
@@ -16,3 +16,4 @@ breadcrumb: /wordpress:WordPress/!start:Start
     * [Menus Guide](menus.md)
     	* [How to Create a Menu](menus.md#how-to-create-a-menu)
     	* [Item Customization](menus.md#item-customization)
+    * [How to Create a Post](post.md)
