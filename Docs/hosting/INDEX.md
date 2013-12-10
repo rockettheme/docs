@@ -8,6 +8,14 @@ breadcrumb: /!hosting:Hosting Help/
 
 * General Hosting
 
-	- [Joomla Hosting Guide](joomla.md)
 	- [How to Find a Good Hosting Provider](hosting.md)
 	- [Recommended Hosting Providers](hosting_providers.md)
+
+<!-- -->
+
+* Platform Hosting
+
+	- [Joomla Hosting Guide](joomla.md)
+	- [WordPress Hosting Guide](wordpress.md)
+	- [phpBB3 Hosting Guide](phpbb3.md)
+	- [Magento Hosting Guide](magento.md)
