@@ -12,7 +12,7 @@ Utility Modules
 
 This area of the front page is a series of three **mod_custom** modules. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 Support for Mobile
 -----

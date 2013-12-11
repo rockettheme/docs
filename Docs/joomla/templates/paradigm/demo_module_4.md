@@ -12,7 +12,7 @@ Mobile Ready
 
 This area of the front page is a **mod_custom** module. You will find the settings used in our demo below. Due to the `visible-phone` Module Class Suffix setting, this module will only appear once the width of the browser has dropped to 480 pixels and below.
 
->> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSISYG editor can cause issues with any code that exists in the **Custom Output** field.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
 
