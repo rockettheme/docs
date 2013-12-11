@@ -14,7 +14,7 @@ Clarion, the February 2012 template release, is a subtle theme, primed for busin
 
 Built on the Gantry Framework, Clarion has a range of powerful, flexible and intuitive features and functions. The administrative interface offers a user friendly control panel for intricately customizing the template layouts. 
 
-Clarion has styled support for a variety of RocketTheme Addons, such as RokGallery, RokNewsPager, RokTabs, as well as K2, the advanced content extension.
+Clarion has styled support for a variety of RocketTheme extensions, such as RokGallery, RokNewsPager, RokTabs, as well as K2, the advanced content extension.
 
 >> NOTICE: Clarion is a Joomla 2.5 and Joomla 3.x Template.
 
