@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Recreating the Demo - FP MainTop - RokSprocket Mosaic
-description: Your Guide to Recreating Elements of the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Lumiere: Recreating the Demo - FP MainTop - RokSprocket Mosaic
+description: Your Guide to Recreating Elements of the Lumiere Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/lumiere:Lumiere
 
 ---
 
