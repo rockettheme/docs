@@ -47,13 +47,13 @@ We have detailed how to recreate the individual modules pictured above in the li
 5. [Most Popular][module5]
 6. [Popular News][module6]
 7. [Popular Features][module7]
-8. [Gantry Extras][module8]
-9. [Oculus Demo][module9]
-10. [Our Users][module10]
-11. [FP Footer A][module11]
-12. [Inside Oculus][module12]
-13. [Top Features][module13]
-14. [Contact Us][module14]
+8. [Gantry Extras][module9]
+9. [Oculus Demo][module10]
+10. [Our Users][module11]
+11. [FP Footer A][module12]
+12. [Inside Oculus][module13]
+13. [Top Features][module14]
+14. [Contact Us][module15]
 
 
 Recommended Extensions
@@ -121,4 +121,5 @@ You can find more information about the entire override breakdown for both the f
 [module12]: demo_module_12.md
 [module13]: demo_module_13.md
 [module14]: demo_module_14.md
+[module15]: demo_module_15.md
 [login]: a_header_login.jpg

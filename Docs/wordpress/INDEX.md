@@ -14,7 +14,7 @@ breadcrumb: /!WordPress:WordPress/
 	- [How to Install WordPress 3.x](start/install_wordpress_3x.md)
 	  A helpful guide to installing WordPress 3.x for the first time.
 
-	- [WordPress Hosting Guide](start/hosting.md)
+	- [WordPress Hosting Guide](../hosting/wordpress.md)
 	  Helpful tips and tricks to get you started with the right hosting provider.
 
 	- [WordPress Themes](start/themes.md)
@@ -41,7 +41,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [RokStock](plugins/rokstock/)
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
-	- [RokNewsPager](plugins/roknewspager)
 	- [RokStories](plugins/rokstories)
 	- [RokBox2](plugins/rokbox2)
 

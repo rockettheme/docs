@@ -1,61 +1,53 @@
 ---
-title: Stratos: Recreating the Demo - FP Footer B
-description: Your Guide to Recreating Elements of the Stratos Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/stratos:Stratos
+title: Oculus: Recreating the Demo - Inside Oculus
+description: Your Guide to Recreating Elements of the Oculus Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 
 ---
 
-FP Footer B
+Inside Oculus
 -----
-![][footerb1]
-We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You will find the settings used in our demo below.
+
+![][demo]
+
+:	1. **menu** [17%, 28%, se]
+
+This area of the front page is a **menu** module. You will find the settings used in our demo below.
 
 ### Details
-![][footerb2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Footer B |
-| Show Title | Hide |
-| Position | footer-b |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Footer B |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+![][demo2]
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
-
-~~~
-<p class="rt-uppercase promo3 smallmarginbottom"><a href="#">123 Joomla! Boulevard</a></p>
-<p class="rt-uppercase promo3 nomarginbottom"><a href="#">Seattle, WA 00000, USA</a></p>
-<p> </p>
-<p><a href="#">noreply/@domain.com</a></p>
-<div class="rt-social-buttons"> </div>
-~~~
+| Option     | Setting         |  
+| :--------- | :-------------- |  
+| Title      | `Inside Oculus` |  
+| Show Title | Show            |  
+| Position   | footer-b        |  
+| Status     | Published       |  
+| Access     | Public          |  
+| Language   | All             |  
+| Note       | Blank           |  
 
 ### Basic
-![][footerb3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+![][demo3]
+
+| Option              | Setting     |  
+| :------------------ | :---------- |  
+| Select Menu         | Footer Menu |  
+| Start Level         | 1           |  
+| End Level           | All         |  
+| Show Sub-menu Items | No          |  
 
 ### Advanced
-![][footerb4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
-| Module Class Suffix | box5 fp-footer-b |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo4]
 
-[footerb1]: assets/footerb_1.jpeg
-[footerb2]: assets/footerb_2.jpeg
-[footerb3]: assets/footerb_3.jpeg
-[footerb4]: assets/footerb_4.jpeg
+| Option              | Setting                  |  
+| :------------------ | :----------------------- |  
+| Module Class Suffix | `fp-footer hidden-phone` |  
+
+[demo]: assets/demo_module_9.jpeg
+[demo2]: assets/footmenu_1.jpeg
+[demo3]: assets/footmenu_2.jpeg
+[demo4]: assets/footmenu_3.jpeg

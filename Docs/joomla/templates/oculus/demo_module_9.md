@@ -1,63 +1,70 @@
 ---
-title: Stratos: Recreating the Demo - FP Footer B
-description: Your Guide to Recreating Elements of the Stratos Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/stratos:Stratos
+title: Oculus: Recreating the Demo - Gantry Extras
+description: Your Guide to Recreating Elements of the Oculus Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 
 ---
 
-FP Footer B
+Gantry Extras
 -----
-![][footerb1]
-We used a **mod_custom** module to make up the content in the **footer-b** position of the front page. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+![][demo]
+
+We used a **RokSprocket** module with the **Lists** layout to make up the content in the **sidebar-b** position of the front page. You will find the settings used in our demo below.
 
 ### Details
-![][footerb2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP Footer B |
-| Show Title | Hide |
-| Position | footer-b |
-| Status | Published |
-| Access | Public |
-| Ordering | 1. FP Footer B |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+![][demo2]
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
+| Option           | Setting       |  
+| :--------------- | :------------ |  
+| Title            | Gantry Extras |  
+| Show Title       | Show          |  
+| Access           | Public        |  
+| Position         | sidebar-b     |  
+| Status           | Published     |  
+| Content Provider | Joomla        |  
+| Type             | Lists         |  
 
-~~~
-<p class="rt-uppercase promo3 smallmarginbottom"><a href="#">123 Joomla! Boulevard</a></p>
-<p class="rt-uppercase promo3 nomarginbottom"><a href="#">Seattle, WA 00000, USA</a></p>
-<p> </p>
-<p><a href="#">noreply/@domain.com</a></p>
-<div class="rt-social-buttons"> </div>
-~~~
+### Layout Options
 
-### Basic
-![][footerb3]
+![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+| Option            | Setting |  
+| :---------------- | :------ |  
+| Theme             | Default |  
+| Display Limit     | ∞       |  
+| Preview Length    | 20      |  
+| Strip HTML Tags   | No      |  
+| Previews Per Page | 3       |  
+| Arrow Navigation  | Hide    |  
+| Pagination        | Show    |  
+| Autoplay          | Disable |  
+| Autoplay Delay    | 5       |  
+| Image Resize      | Disable |  
+
+### Article Defaults
+
+![][demo4]
+
+| Option               | Setting               |  
+| :------------------- | :-------------------- |  
+| Default Title        | Default Article Title |  
+| Default Image        | Default Article Image |  
+| Default Article Text | Default Article Text  |  
+| Default Link         | Default Article Link  |  
 
 ### Advanced
-![][footerb4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
-| Module Class Suffix | box5 fp-footer-b |
-| Caching | Use Global |
-| Cache Time | 900 |
+![][demo5]
 
-[footerb1]: assets/footerb_1.jpeg
-[footerb2]: assets/footerb_2.jpeg
-[footerb3]: assets/footerb_3.jpeg
-[footerb4]: assets/footerb_4.jpeg
+| Option              | Setting                                                                   |  
+| :------------------ | :------------------------------------------------------------------------ |  
+| Module Class Suffix | `title4 box6 rt-horizontal-gradient fp-roksprocket-lists-3 nomarginright` |  
+
+
+[demo]: assets/demo_module_5.jpeg
+[demo2]: assets/extras_2.jpeg
+[demo3]: assets/extras_3.jpeg
+[demo4]: assets/extras_4.jpeg
+[demo5]: assets/extras_5.jpeg

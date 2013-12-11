@@ -18,7 +18,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 ### Style
 | Style | Option | Setting |
 |:-----|:------|:-------|
-| Default | Font Settings | Font Family: Stratos, Font Size: Default |
+| Default | Font Settings | Font Family: Oculus, Font Size: Default |
 
 ### Features
 | Style | Option | Position |  Setting |
@@ -83,6 +83,6 @@ Once you have selected a Preset, these options can be further adjusted to match 
 |:-----|:------|:-------|
 | Home | Main Menu | Home |
 
-[demo25]: assets/stratos.jpg
+[demo25]: assets/Oculus.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
