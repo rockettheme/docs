@@ -13,7 +13,7 @@ Introduction
 
 RokMage Mobile, the 9th Magento Club Theme release, is a universal mobile template, built on the jQuery Mobile Framework.
 
-The theme has it is own configuration page, and can be styled to match your site in seconds using the jQuery Mobile Theme Roller. 
+The theme has its own configuration page, and can be styled to match your site in seconds using the jQuery Mobile Theme Roller. 
 
 Features
 -----
