@@ -13,6 +13,8 @@ Copyright Menu
 
 The **Copyright Menu** located at the bottom of the demo site is a standard **mod_menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
+>> Any **mod_custom** (Custom HTML) are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 ### Details
 ![][demo2]
 
