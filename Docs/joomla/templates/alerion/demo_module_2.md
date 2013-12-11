@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Recreating the Demo - FP RokSrocket Features
-description: Your Guide to Recreating Elements of the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Alerion: Recreating the Demo - FP RokSrocket Features
+description: Your Guide to Recreating Elements of the Alerion Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 
 ---
 
