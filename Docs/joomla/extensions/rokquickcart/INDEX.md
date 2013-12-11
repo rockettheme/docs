@@ -52,6 +52,16 @@ From Joomla 2.5 and 3.x:
 
 >> RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
+How to Publish to the Frontend
+-----
+
+Publishing RokQuickCart to the frontend of your site is an easy process. You do this by creating a menu item using the **RokQuickCart** item type. That menu item becomes your RokQuickCart page.
+
+To do this, navigate to **Administrator -> Menus -> Menu Manager** and select the menu you would like to add a link to your RokQuickCart from. You can then select the green **New** button to initiate the creation of a new menu item. The **Menu Item Type** should be **RokQuickCart**.
+
+You can find more information about menu management in Joomla [in our guide][guide].
+
 [download]: http://www.rockettheme.com/extensions-downloads/free/1112-rokquickcart
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [extension]: assets/rokquickcart.jpg
+[guide]: ../../basic/menu_manager.md
