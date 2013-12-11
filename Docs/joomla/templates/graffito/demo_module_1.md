@@ -1,11 +1,11 @@
 ---
-title: Graffito: Recreating the Demo - FP RokAjaxSearch
+title: Graffito: Recreating the Demo - FP Showcase - Features
 description: Your Guide to Recreating Elements of the Graffito Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
-FP RokAjaxSearch
+FP Showcase - Features
 -----
 ![][demo]
 The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
