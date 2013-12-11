@@ -1,11 +1,11 @@
 ---
-title: Hexeris: Recreating the Demo - Popular Addons
-description: Your Guide to Recreating Elements of the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Kirigami: Recreating the Demo - Copyright Menu
+description: Your Guide to Recreating Elements of the Kirigami Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kirigami:Kirigami
 
 ---
 
-Popular Addons
+Copyright Menu
 ----
 ![][demo]
 
