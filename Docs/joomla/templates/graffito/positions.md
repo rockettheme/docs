@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Module Positions
-description: Your Guide to Module Positions in the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Graffito: Module Positions
+description: Your Guide to Module Positions in the Graffito Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/graffito:Graffito
 
 ---
 
