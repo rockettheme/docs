@@ -1,7 +1,7 @@
 ---
-title: Hexeris: Module Positions
-description: Your Guide to Module Positions in the Hexeris Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/hexeris:Hexeris
+title: Cerulean: Module Positions
+description: Your Guide to Module Positions in the Cerulean Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/cerulean:Cerulean
 
 ---
 
