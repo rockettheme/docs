@@ -1,11 +1,11 @@
 ---
-title: Ximenia: Recreating the Demo - Demo Replica
+title: Ximenia: Recreating the Demo - Fusion with MegaMenu
 description: Your Guide to Recreating Elements of the Ximenia Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ximenia:Ximenia
 
 ---
 
-Demo Replica
+Fusion with MegaMenu
 -----
 ![][demo]
 
