@@ -13,6 +13,8 @@ Demo Information
 
 We used a **mod_custom** module to make up the content in the **footer-a** position of the front page. You will find the settings used in our demo below.
 
+>> Any **mod_custom** (Custom HTML) are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 ### Details
 ![][demo2]
 
