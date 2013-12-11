@@ -1,11 +1,11 @@
 ---
-title: Alerion: Recreating the Demo - Popular Addons
+title: Alerion: Recreating the Demo - Copyright Menu
 description: Your Guide to Recreating Elements of the Alerion Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 
 ---
 
-Popular Addons
+Copyright Menu
 ----
 ![][demo]
 The **Copyright Menu** module is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
