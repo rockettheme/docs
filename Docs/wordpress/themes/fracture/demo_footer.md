@@ -41,6 +41,9 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Set the **Custom Variations** field to `icon-star`.
 * Leaving everything else at its default setting, select **Save**.
 
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 ### Text
 
 The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
