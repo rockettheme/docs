@@ -101,7 +101,7 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-First, you will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` nov12-home`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` nov12-home`.
 
 You can also set the Dropdown Menu Offset in order to center the sub-menu as seen in our demo. As an example, we will look at the settings for the Features sub-menu within the **Main Menu** found at the top of the **Home** page.
 

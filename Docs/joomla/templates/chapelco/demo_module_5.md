@@ -1,11 +1,11 @@
 ---
-title: Chapelco: Recreating the Demo - FP Featured - RokSprocket Tabs
+title: Chapelco: Recreating the Demo - Featured Article
 description: Your Guide to Recreating Elements of the Chapelco Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 
 ---
 
-FP Featured - RokSprocket Tabs
+Featured Article
 -----
 ![][demo]
 

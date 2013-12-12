@@ -100,7 +100,7 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-First, you will need to change the **Page Class** setting under the Home menu item to ` dec13-home`.
+You will need to change the **Page Class** setting under the Home menu item to ` dec13-home`.
 
 The icons that appear at the top-level menu area are configured under the individual menu item's **Dropdown Menu Options**, and are set in the **Menu Icon** option.
 

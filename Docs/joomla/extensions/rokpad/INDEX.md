@@ -12,7 +12,7 @@ Introduction
 
 Ever wished you could use a powerful desktop text editor such as Textmate, SublimeText, or UltraEdit directly on a Joomla! web site? Now with RokPad we provide many features and capabilities that traditionally would only be found in a powerful desktop editor. RokPad provides advanced functions such as an Ajax saving action, syntax highlighting, configurable themes, multiple cursors and selections, shortcut keys, multiple programming language support, and many other incredible features.
 
-RokPad is not a WYSIWG editor, instead it is a powerful desktop-style editor for developers. With RokPad creating content becomes a pleasure not a chore.
+RokPad is not a WYSIWYG editor, instead it is a powerful desktop-style editor for developers. With RokPad creating content becomes a pleasure not a chore.
 
 RokPad was created to meet the demands of the Team, a tool unrestricted by the limitations of the WYSIWYG editors, and something more advanced than simply using None. RokPad provides a medium for this, a balance between a useful interface and the unrestricted approach of code view. We at RocketTheme proudly build our content with RokPad.
 

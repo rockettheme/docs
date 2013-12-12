@@ -84,7 +84,7 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple key changes in order for your home page to appear as it does in our demo.
 
-First, you will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `Afterburner2 — Free, GPL Template`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `Afterburner2 — Free, GPL Template`.
 
 [gantry]: http://gantry-framework.org/download
 [afterburner2]: assets/afterburner22.jpeg
