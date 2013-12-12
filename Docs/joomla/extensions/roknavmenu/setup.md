@@ -90,7 +90,7 @@ The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers adva
 
 9. **Group Child Items**: You can select whether or not to group children under the menu item rather than as a submenu.
 
-10. **Child Item Type**: Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself.
+10. **Child Item Type**: Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself. This is especially useful if you would like to have a custom HTML module, or perhaps a login module embedded in the menu itself. There are a lot of different things you can do with this particular option.
 
 ### Splitmenu Options
 

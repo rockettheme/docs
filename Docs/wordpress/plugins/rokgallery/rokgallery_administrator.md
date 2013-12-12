@@ -99,7 +99,7 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery widget can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
 
-For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any widget with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
+For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any widget with that gallery assigned. You can add multiple tags to a single gallery with commas between tags.
 
 Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
 

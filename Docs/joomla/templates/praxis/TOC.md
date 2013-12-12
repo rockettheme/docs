@@ -29,6 +29,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!praxis:Praxis
             * [FP Footer Login](demo_module_10.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
+    * [Module Positions](positions.md)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
     * [Editing Template Text](../../basic/how_to_edit_template_text.md)

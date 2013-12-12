@@ -17,11 +17,6 @@ What sets RokMicroNews apart from many of the other content delivery plugins is 
 
 RokMicroNews is not intended to be just one little widget somewhere on the page, but a full-on content delivery experience for your users.
 
-Features
------
-
-
-
 Requirements
 -----
 
