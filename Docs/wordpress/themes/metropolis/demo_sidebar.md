@@ -109,6 +109,9 @@ The first Text widget in this section is titled **Our Users** and has the follow
 <div class="clear"></div>
 ~~~
 
+### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 ### RokAjaxSearch
 The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
