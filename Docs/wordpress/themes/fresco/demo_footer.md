@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Footer
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Fresco: Recreating the Demo - Footer
+description: Your Guide to Recreating Elements of the Fresco Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/fresco:Fresco
 
 ---
 
@@ -35,6 +35,9 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Set the **Title** to `Demo Images`.
 * Enter `nopaddingright nomarginbottom nopaddingbottom` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
+
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Text
 
