@@ -1,7 +1,7 @@
 ---
-title: Cerulean: Recreating the Demo - Main Top
-description: Your Guide to Recreating Elements of the Cerulean Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/cerulean:Cerulean
+title: Lumiere: Recreating the Demo - Main Top
+description: Your Guide to Recreating Elements of the Lumiere Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 ---
 
