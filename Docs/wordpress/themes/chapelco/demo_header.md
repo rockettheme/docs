@@ -46,7 +46,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Maximum Depth     |        10 |  
 | Custom Chrome     |      Menu |   
 
-### RokAjaxSearch
+#### RokAjaxSearch
 The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo.
 
 * Set the **Margin Variation** option to **No Margin Bottom**.
