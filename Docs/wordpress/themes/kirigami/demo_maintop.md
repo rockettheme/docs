@@ -13,7 +13,6 @@ Here is the widget breakdown for the Main Top section:
 
 * RokSprocket
 
-The Main Top section in the Kirigami demo adds a visual display of various theme features that puts images are the forefront of the front page's visual appeal.
 
 #### RokSprocket
 You will need to do two things to prepare this widget so that it looks similar to the one in the demo.

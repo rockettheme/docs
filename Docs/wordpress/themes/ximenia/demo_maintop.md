@@ -17,8 +17,6 @@ Here is the widget breakdown for the Main Top section:
 * Text
 * RokAjaxSearch
 
-The Main Top section in the Ximenia demo adds a visual display of various theme features that puts images are the forefront of the front page's visual appeal.
-
 #### RokSprocket
 
 ![][demo1]
