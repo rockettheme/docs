@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Showcase
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Voxel: Recreating the Demo - Showcase
+description: Your Guide to Recreating Elements of the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 
