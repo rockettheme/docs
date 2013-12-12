@@ -81,7 +81,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
-The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
+The fourth Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
 <div>
