@@ -24,7 +24,7 @@ The first thing you will need to do is click and drag the **Gantry Logo** widget
 ### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
-#### Gantry Menu
+### Gantry Menu
 The Gantry Menu widget should be set to match your site's main menu as it serves as the primary menu widget for the entire site. You can customize this menu by navigating to **Administration -> Appearance -> Menus** and creating or modifying your selected menu there. 
 
 Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
