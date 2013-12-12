@@ -29,7 +29,7 @@ Here is a breakdown of what you will need to change in the widget options to mat
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
-### RokSprocket
+#### RokSprocket
 ![][sidebar2]
 
 This widget located in the sidebar section of the page is a RokSprocket Lists widget created in a very similar way to the previous RokSprocket widgets featured on the front page of the demo.
