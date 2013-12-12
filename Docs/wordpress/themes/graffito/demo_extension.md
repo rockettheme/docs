@@ -31,7 +31,7 @@ The Text widget in this section is pretty straightforward. You will need to ente
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Set the **Title** to `Graffiti Demo`.
+* Set the **Title** to `Graffito Demo`.
 * Switch the **Title Variation** option to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
