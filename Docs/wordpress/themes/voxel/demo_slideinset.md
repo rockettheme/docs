@@ -16,7 +16,7 @@ Here is the widget breakdown for the SlideInset section:
 * RokSprocket
 
 #### RokSprocket
-The **Most Popular** menu located in the main slideshow on the front page is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
+The **Most Popular** widget located in the main slideshow on the front page is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Lists** widget. 
 
