@@ -20,7 +20,7 @@ Here is the widget breakdown for the Main Top section:
 * Gantry Divider
 * Text
 
-### Text
+#### Text
 
 You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
@@ -39,7 +39,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
-### Text
+#### Text
 
 You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
 
