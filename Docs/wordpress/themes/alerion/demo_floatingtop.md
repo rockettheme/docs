@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
 
-Floating widget Top Section
+Floating Widget Top Section
 -----
 
 ![][demo]
