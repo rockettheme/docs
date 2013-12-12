@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 Site Search
 -----
 ![][search]
-The RokAjaxSearch area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
+The Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
 
 ### Details
 ![][ss1]
