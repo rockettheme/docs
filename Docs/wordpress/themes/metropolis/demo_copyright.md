@@ -23,6 +23,9 @@ The Copyright section remains the same for all areas of the site. Because of thi
 #### Gantry Copyright
 The Gantry Copyright widget places a tiny Copyright notification at the bottom of the page. The only thing you need to change in this widget to match the demo is the text field, which includes: `Designed by RocketTheme`. 
 
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 #### Custom Menu
 The Custom Menu widget allows us to add an extra menu at the bottom of the page. This menu was created separately from the main menu linked in the header, and can be configured by going to **Administration -> Appearance -> Menus**.
 
