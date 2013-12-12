@@ -86,7 +86,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
-You will need to enter the following in the main text field to create this text widget as it appears in our demo. The title is left blank.
+You will need to enter the following in the main text field to create this text widget as it appears in our demo.
 
 ~~~
 <div class="rt-image">
