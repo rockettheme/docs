@@ -49,7 +49,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Popular Addons [span class=\"rt-subtitle\"]RocketTheme[/span]`.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
@@ -144,7 +144,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Image Gallery [span class=\"rt-subtitle\"]RocketTheme Fonts[/span]`.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [demo]: assets/demo_9.jpeg

@@ -85,7 +85,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Set the **Title Variation** to **Title 1**.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
@@ -102,7 +102,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Location`.
 * Set the **Title Variation** to **Title 1**.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [demo]: assets/wp_graffito_demo_8.jpeg

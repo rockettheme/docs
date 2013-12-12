@@ -52,7 +52,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Inside Metropolis`.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
@@ -96,7 +96,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [demo6]: assets/wp_metropolis_demo_6.jpeg

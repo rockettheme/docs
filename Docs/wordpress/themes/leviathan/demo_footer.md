@@ -56,7 +56,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Set the **Title Variation** option to **Title 1**.
 * Set the **Module Variation** option to **No Margin Bottom**.
 * Set the **Padding Variation** option to **No Padding Bottom**.
-* Set the **Custom Varations** to `hidden-phone`.
+* Set the **Custom Variations** to `hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [footer]: assets/demo_footer.jpeg

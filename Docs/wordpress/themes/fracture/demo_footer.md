@@ -60,7 +60,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Features`.
 * Set the **Title Variation** to **Title 1**.
-* Set the **Custom Varations** to `icon-heart hidden-phone`.
+* Set the **Custom Variations** to `icon-heart hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text
@@ -104,7 +104,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us`.
 * Set the **Title Variation** to **Title 2**.
-* Set the **Custom Varations** to `icon-info-sign hidden-phone`.
+* Set the **Custom Variations** to `icon-info-sign hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [demo8]: assets/wp_fracture_demo_5.jpeg

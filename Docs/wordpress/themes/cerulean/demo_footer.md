@@ -67,7 +67,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Top Features. [span class=\"icon-chevron-down rt-teaser\"][/span]`.
-* Set the **Custom Varations** to `nomarginbottom nopaddingbottom nomargintop medpaddingtop hidden-phone`.
+* Set the **Custom Variations** to `nomarginbottom nopaddingbottom nomargintop medpaddingtop hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 ### Text
@@ -123,7 +123,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Contact Us.  [span class=\"icon-chevron-down rt-teaser\"][/span]`.
-* Set the **Custom Varations** to `nomarginbottom nopaddingbottom nomargintop medpaddingtop hidden-phone`.
+* Set the **Custom Variations** to `nomarginbottom nopaddingbottom nomargintop medpaddingtop hidden-phone`.
 * Leaving everything else at its default setting, select **Save**.
 
 [footer]: assets/footer.jpeg

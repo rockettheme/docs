@@ -52,7 +52,7 @@ Installing Administrative Modules
 
 ![][rokbb]
 
-When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files contained within:
+When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB3 installation. Here is a quick list of critical files contained within:
 
 | File                            | Upload to                          |  
 | :------------------------------ | :--------------------------------- |  

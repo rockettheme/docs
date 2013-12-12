@@ -73,7 +73,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Box Variation** option to **Box 5**.
-* Enter `fp-footer-b` in the **Custom Varations** field.
+* Enter `fp-footer-b` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
 [demo]: assets/demo_7.jpeg
