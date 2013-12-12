@@ -1,7 +1,7 @@
 ---
-title: Ximenia: Recreating the Demo - Sidebar
-description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Fresco: Recreating the Demo - Sidebar
+description: Your Guide to Recreating Elements of the Fresco Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/fresco:Fresco
 
 ---
 
