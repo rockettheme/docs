@@ -1,14 +1,14 @@
 ---
-title: Ximenia: FAQ
-description: Your Guide to Using the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
+title: Voxel: FAQ
+description: Your Guide to Using the Voxel Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 ---
 
 Where can I find theme settings?
 -----
 * Log in to the WordPress administrative dashboard at http://www.yoursite.com/wp-admin/
-* Select the **Ximenia Settings** sidebar tab on the left of the dashboard.
+* Select the **Voxel Settings** sidebar tab on the left of the dashboard.
 * For more information visit our [Gantry documentation][gantry] on the settings menu.
 
 How do I change the logo?

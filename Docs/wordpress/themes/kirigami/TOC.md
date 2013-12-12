@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!kirigami:Kirigami
 
+details: http://www.rockettheme.com/wordpress/themes/kirigami/
+demo: http://rockettheme.com/demo/wordpress/kirigami/
+download: http://rockettheme.com/wordpress/themes/kirigami/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Kirigami

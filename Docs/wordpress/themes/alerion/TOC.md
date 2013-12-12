@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!alerion:Alerion
 
+details: http://www.rockettheme.com/wordpress/themes/alerion/
+demo: http://rockettheme.com/demo/wordpress/alerion/
+download: http://rockettheme.com/wordpress/themes/alerion/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Alerion

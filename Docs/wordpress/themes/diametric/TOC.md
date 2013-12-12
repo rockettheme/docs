@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!diametric:Diametric
 
+details: http://www.rockettheme.com/wordpress/themes/diametric/
+demo: http://rockettheme.com/demo/wordpress/diametric/
+download: http://rockettheme.com/wordpress/themes/diametric/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Diametric

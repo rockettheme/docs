@@ -1,7 +1,7 @@
 ---
 title: Ximenia: Recreating the Demo - Main Top
 description: Your Guide to Recreating Elements of the Ximenia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/xmenia:Ximenia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ximenia:Ximenia
 
 ---
 

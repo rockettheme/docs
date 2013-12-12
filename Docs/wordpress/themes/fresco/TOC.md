@@ -1,10 +1,15 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!themes:Themes/!ximenia:Ximenia
+breadcrumb: /wordpress:WordPress/!themes:Themes/!fresco:Fresco
+
+details: http://www.rockettheme.com/wordpress/themes/fresco/
+demo: http://rockettheme.com/demo/wordpress/fresco/
+download: http://rockettheme.com/wordpress/themes/fresco/modal/downloads
+support: http://www.rockettheme.com/forum/
 
 ---
 
-* Ximenia
+* Fresco
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)

@@ -53,6 +53,6 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Submenus Y Offset  |             -11 |  
 | Enable ActiveID    |              No |  
 
-[demo1]: assets/wp_Ximenia_demo_1.jpeg
+[demo1]: assets/demo_widget_1.jpeg
 [faq]: faq.md
 [menu]: ../../start/menu.md

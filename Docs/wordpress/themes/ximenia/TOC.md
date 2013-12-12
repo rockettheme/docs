@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
 
+details: http://www.rockettheme.com/wordpress/themes/ximenia/
+demo: http://rockettheme.com/demo/wordpress/ximenia/
+download: http://rockettheme.com/wordpress/themes/ximenia/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Ximenia
@@ -15,7 +20,7 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
         * [Recommended Plugins](demo.md#recommended-plugins)
         * [Theme Settings](demo.md#theme-settings)
         * [Widget Settings](demo.md#widget-settings)
-            * [Header](demo_header.md)
+            * [Navigation](demo_navigation.md)
             * [Showcase](demo_showcase.md)
             * [Main Top](demo_maintop.md)
             * [Sidebar](demo_sidebar.md)

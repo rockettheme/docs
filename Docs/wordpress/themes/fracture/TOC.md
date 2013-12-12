@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!fracture:Fracture
 
+details: http://www.rockettheme.com/wordpress/themes/fracture/
+demo: http://rockettheme.com/demo/wordpress/fracture/
+download: http://rockettheme.com/wordpress/themes/fracture/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Fracture

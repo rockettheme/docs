@@ -1,7 +1,7 @@
 ---
 title: Ionosphere
 description: Your Guide to Using the Ionosphere Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/!Ionosphere:Ionosphere
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ionosphere:Ionosphere
 
 ---
 

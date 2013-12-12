@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!lumiere:Lumiere
 
+details: http://www.rockettheme.com/wordpress/themes/lumiere/
+demo: http://rockettheme.com/demo/wordpress/lumiere/
+download: http://rockettheme.com/wordpress/themes/lumiere/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Lumiere

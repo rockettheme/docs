@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!voxel:Voxel
 
+details: http://www.rockettheme.com/wordpress/themes/voxel/
+demo: http://rockettheme.com/demo/wordpress/voxel/
+download: http://rockettheme.com/wordpress/themes/voxel/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Voxel

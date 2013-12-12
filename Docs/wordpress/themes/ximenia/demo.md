@@ -97,7 +97,6 @@ One important thing to note here is that many of the widget sections included in
 * [Content Top][contenttop]
 * [Content Bottom][contentbottom]
 * [Bottom][bottom]
-* [Extension][extension]
 * [Footer][footer]
 * [Copyright][copyright]
 

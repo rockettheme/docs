@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!ionosphere:Ionosphere
 
+details: http://www.rockettheme.com/wordpress/themes/ionosphere/
+demo: http://rockettheme.com/demo/wordpress/ionosphere/
+download: http://rockettheme.com/wordpress/themes/ionosphere/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Ionosphere

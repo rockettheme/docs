@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!chapelco:Chapelco
 
+details: http://www.rockettheme.com/wordpress/themes/chapelco/
+demo: http://rockettheme.com/demo/wordpress/chapelco/
+download: http://rockettheme.com/wordpress/themes/chapelco/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Chapelco

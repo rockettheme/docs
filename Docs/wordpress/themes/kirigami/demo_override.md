@@ -1,7 +1,7 @@
 ---
 title: Kirigami: Recreating the Demo - Overrides
 description: Your Guide to Recreating Elements of the Kirigami Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/Kirigami:Kirigami
+breadcrumb: /wordpress:WordPress/!themes:Themes/kirigami:Kirigami
 
 ---
 

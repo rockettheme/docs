@@ -38,8 +38,6 @@ Here is a breakdown of what you will need to change in the widget options to mat
 
 #### RokAjaxSearch
 
-![][demo4]
-
 The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo. This particular instance of RokAjaxSearch requires no adjustments of options. It works just fine at its default settings.
 
 * Leaving everything at its default setting, select **Save**.

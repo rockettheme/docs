@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!oculus:Oculus
 
+details: http://www.rockettheme.com/wordpress/themes/oculus/
+demo: http://rockettheme.com/demo/wordpress/oculus/
+download: http://rockettheme.com/wordpress/themes/oculus/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Oculus
