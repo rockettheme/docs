@@ -19,6 +19,9 @@ Here is the widget breakdown for the Copyright section:
 
 The Copyright section remains the same for all areas of the site. Because of this, it is preserved as a Default widget override.
 
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 #### Text
 The Text widget in the section is used as a handmade menu. You will need to enter the following in the main text field.
 
