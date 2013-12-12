@@ -13,7 +13,7 @@ Mosaic displays content dynamically in blocks, that can be rearranged via tags o
 
 ![][mosaic1]
 
-:   1. **Title** This is the title of your widget. [16%, 10%, se]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [16%, 10%, se]
     2. **Filtered Article List Options** Gives you access to item-specific settings for the post's title, description, image, and link. [53%, 55%, nw]
     3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 80%, nw]
     4. **Content Filter Rules** Sets the content filter rules for the widget. [56%, 80%, sw]
@@ -73,7 +73,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 11. **Default Title** sets a default title for all posts in the widget. If this selection is set at **Default Article Title**, then the post's given titles are used.
 
-12. **Default Article Text** allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used.
+12. **Default Article Text** allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all.
 
 13. **Default Article Image** determines which image field the widget will default to when locating an image for the feature.
 

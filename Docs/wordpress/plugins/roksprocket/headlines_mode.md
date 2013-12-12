@@ -14,7 +14,7 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
 
 ![][headlines1]
 
-:   1. **Title** This is the title of your widget. [16%, 10%, se]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [16%, 10%, se]
     2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [53%, 48%, nw]
     3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [46%, 82%, nw]
     4. **Content Filter Rules** Sets the content filter rules for the widget. [54%, 80%, sw]
@@ -63,11 +63,11 @@ Headlines is a content ticket layout mode. It can displays lines of text in succ
 
 9. **Image Resize** is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields.
 
-10. The **Default Article Text** field allows you to set default post text for all headlines in the widget. If this is not changed from its default, then the post's introductory text is used.
+10. The **Default Article Text** field allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all.
 
 11. **Default Article Image** determines which image field the widget will default to when locating an image for the feature. 
 
-12. **Default Link** determines which link field the widget will default to when locating a link for the feature. 
+12. **Default Link** gives you the ability to set a default link field from posts in the widget. This can be either the default article link, a custom link that applies as the default for all items, or nothing at all.
 
 [headlines]: assets/headlines.png
 [headlines_link]: headlines_mode.md

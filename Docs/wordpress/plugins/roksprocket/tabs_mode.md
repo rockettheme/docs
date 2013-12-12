@@ -69,7 +69,7 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 12. **Default Link** determines which link field the widget will default to when locating a link for the tab.
 
-13. **Default Article Text** allows you to set default post text for all tab in the module. If this is not changed from its default, then the post's introductory text is used.
+13. **Default Article Text** allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all.
 
 [tabs]: assets/tabs.png
 [tabs_link]: tabs_mode.md

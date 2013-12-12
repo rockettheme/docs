@@ -26,6 +26,7 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 
 Content Providers
 -----
+
 ![][content]
 
 RokSprocket has the ability to pull content from a number of content providers that work within WordPress. Most site administrators will use WordPress as the content provider for RokSprocket as it pulls posts from your primary WordPress install and arranges them to meet your needs. 
@@ -43,11 +44,11 @@ With the introduction of RokSprocket 2, you can use another content provider nam
 
 ![][simple]
 
-:   1. **Rename Item**: The pencil icon gives you the ability to rename an item in your widget. [21%, 13%, sw]
-    2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [25%, 50%, sw]
-    3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the widget and its content. [20%, 80%, sw]
-    4. **Add New Item**: This button adds a new blank item to the widget. [35%, 81%, sw]
-    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [21%, 33%, sw]
+:   1. **Rename Item**: The pencil icon gives you the ability to rename an item in your widget. [32%, 17%, sw]
+    2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [35%, 55%, sw]
+    3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the widget and its content. [32%, 83%, sw]
+    4. **Add New Item**: This button adds a new blank item to the widget. [50%, 82%, sw]
+    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [34%, 34%, sw]
 
 1. **Rename Item** The pencil icon gives you the ability to rename an item in your widget.
 
@@ -77,8 +78,8 @@ When using ‘Simple’ as the content provider, you can set ordering to random 
 [tabs1]: assets/wp_roksprocket_tabs_1.png
 [widget1]: assets/wp_roksprocket_widget_1.png
 [widget2]: assets/wp_roksprocket_widget_2.png
-[simple]: assets/roksprocket_simple.jpg
-[content]: assets/roksprocket_content.jpg
+[simple]: assets/roksprocket_simple.jpeg
+[content]: assets/roksprocket_content.jpeg
 [cfs]: http://wordpress.org/plugins/custom-field-suite/
 [cpt]: http://wordpress.org/plugins/custom-post-type-ui/
 [types]: http://wordpress.org/plugins/types/

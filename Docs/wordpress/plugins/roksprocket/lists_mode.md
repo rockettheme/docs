@@ -13,7 +13,7 @@ Lists is a vertical display content mode, with accordion support. Here is a look
 
 ![][lists1]
 
-:   1. **Title** This is the title of your widget. [22%, 13%, se]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [22%, 13%, se]
     2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [53%, 46%, sw]
     3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 82%, sw]
     4. **Content Filter Rules** Sets the content filter rules for the widget. [53%, 75%, ne]
@@ -75,11 +75,11 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 12.  You can set a default title for all posts from the **Default Title** field. If this selection is set at **Default post Title**, then the post's given titles are used. 
 
-13.  The **Default Article Text** field allows you to set default post text for all lists in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all..
+13.  The **Default Article Text** field allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all.
 
 14.  The **Default Article Image** option gives you the ability to set a standard default image for posts. This includes: a custom image, post intro image, and post full image. Alternatively, you can leave this set to default and it will grab the global default post image.
 
-15.  The **Default Article Link** gives you the ability to set a default link field from posts in this widget. For example, if you wish to link to the link provided in the post's **Link A** or **Link B** settings, you can do so here.
+15.  The **Default Article Link** gives you the ability to set a default link field from posts in the widget. This can be either the default article link, a custom link that applies as the default for all items, or nothing at all.
 
 [lists]: assets/lists.png
 [lists_link]: layout_modes.md#lists

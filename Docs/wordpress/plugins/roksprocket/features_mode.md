@@ -14,12 +14,12 @@ Features is a content slideshow/showcase layout mode. It can display both images
 
 ![][features1]
 
-:   1. **Title** This is the title of your widget. [16%, 09%, se]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [16%, 09%, se]
     2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [53%, 47%, nw]
     3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 82%, sw]
     4. **Content Filter Rules** Sets the content filter rules for the widget. [56%, 80%, sw]
 
-1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look.
+1. The **Title** is the label you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site.
 
 2. The **Filtered Article List** gives you access to item-specific settings including:
 
@@ -77,13 +77,13 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 12.  The **Image Resize** option is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields. This option is disabled by default, but can be used to fit a variety of themes which would benefit from this uniformity. In a responsive theme, images will continue to expand or shrink based on the grid and browser window size.
 
-13.  You can set a default title for all posts from the **Default Title** field. If this selection is set at **Default post Title**, then the post's given titles are used. 
+13.  You can set a default title for all posts from the **Default Title** field. If this selection is set at **Default Article Title**, then the post's given titles are used. Alternatively, you can choose to use **Post Content** or a **Post Excerpt** in place of the title.
 
-14. The **Default Article Text** field allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all..
+14. The **Default Article Text** field allows you to set default post text for all features in the widget. If this is not changed from its default, then the post's introductory text is used. You can choose to use post content, an assigned post excerpt, the default article text, or to have nothing appear at all.
 
-15. The **Default Article Image** option gives you the ability to set a standard default image for posts. This includes: a custom image, post intro image, and post full image. Alternatively, you can leave this set to default and it will grab the global default post image.
+15. The **Default Article Image** option gives you the ability to set a standard default image for posts. This includes either the default article image or a custom image.
 
-16. The **Default Article Link** gives you the ability to set a default link field from posts in this widget. For example, if you wish to link to a custom link rather than the default article link, you can do so here.
+16. The **Default Article Link** gives you the ability to set a default link field from posts in the widget. This can be either the default article link, a custom link that applies as the default for all items, or nothing at all.
 
 [features]: assets/features.png
 [features_link]: features_mode.md

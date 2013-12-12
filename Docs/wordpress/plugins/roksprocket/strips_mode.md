@@ -12,7 +12,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 
 ![][strips_1]
 
-:   1. **Title** This is the title of your module. [10%, 09%, ne]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [10%, 09%, ne]
     2. **Show Title** Determines whether the title of the widget will appear for visitors or remain hidden. [9%, 47%, ne]
     3. **Status** Sets the publishing status for the module. [17%, 47%, ne]
     4. **Access** Sets the access level for the module. [10%, 70%, ne]
