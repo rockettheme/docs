@@ -77,7 +77,7 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
 #### Gantry Divider
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
-### RokSprocket
+#### RokSprocket
 The main feature showcase located near the top of the demo is a RokSprocket widget. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
@@ -105,7 +105,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
-* Select your RokSprocket Featured widget in the **Choose Widget** field.
+* Select your RokSprocket Features widget in the **Choose Widget** field.
 * Set the **Custom Variations** field to `nomarginall nopaddingall`.
 * Leaving everything else at its default setting, select **Save**.
 
