@@ -39,7 +39,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
-* Select your RokSprocket Mosaic widget in the **Choose Widget** field.
+* Select your RokSprocket Headlines widget in the **Choose Widget** field.
 * Leaving everything else at its default setting, select **Save**.
 
 The widget should now be created and ready for use on the front page of your WordPress site.
