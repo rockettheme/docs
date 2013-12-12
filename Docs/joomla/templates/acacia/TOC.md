@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!acacia:Acacia
 
+details: http://rockettheme.com/joomla/templates/acacia
+demo: http://rockettheme.com/demo/live/acacia/
+download: rockettheme.com/joomla/templates/acacia/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Acacia

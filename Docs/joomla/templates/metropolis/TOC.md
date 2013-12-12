@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!metropolis:Metropolis
 
+details: http://rockettheme.com/joomla/templates/metropolis/
+demo: http://rockettheme.com/demo/live/metropolis/
+download: rockettheme.com/joomla/templates/metropolis/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Metropolis

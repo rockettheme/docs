@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!leviathan:Leviathan
 
+details: http://rockettheme.com/joomla/templates/leviathan/
+demo: http://rockettheme.com/demo/live/leviathan/
+download: rockettheme.com/joomla/templates/leviathan/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Leviathan

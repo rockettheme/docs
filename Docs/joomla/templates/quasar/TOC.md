@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!quasar:Quasar
 
+details: http://rockettheme.com/joomla/templates/quasar/
+demo: http://rockettheme.com/demo/live/quasar/
+download: rockettheme.com/joomla/templates/quasar/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Quasar

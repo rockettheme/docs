@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
 
+details: http://rockettheme.com/joomla/templates/paradigm/
+demo: http://rockettheme.com/demo/live/paradigm/
+download: rockettheme.com/joomla/templates/paradigm/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Paradigm

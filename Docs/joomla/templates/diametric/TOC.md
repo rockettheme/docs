@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!diametric:Diametric
 
+details: http://rockettheme.com/joomla/templates/diametric/
+demo: http://rockettheme.com/demo/live/diametric/
+download: rockettheme.com/joomla/templates/diametric/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Diametric

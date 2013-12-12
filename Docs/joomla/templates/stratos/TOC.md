@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!stratos:Stratos
 
+details: http://rockettheme.com/joomla/templates/stratos/
+demo: http://rockettheme.com/demo/live/stratos/
+download: rockettheme.com/joomla/templates/stratos/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Stratos

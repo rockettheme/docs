@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!grunge:Grunge
 
+details: http://rockettheme.com/joomla/templates/grunge/
+demo: http://rockettheme.com/demo/live/grunge/
+download: rockettheme.com/joomla/templates/grunge/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Grunge

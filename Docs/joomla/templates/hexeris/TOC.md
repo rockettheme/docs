@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!hexeris:Hexeris
 
+details: http://rockettheme.com/joomla/templates/hexeris/
+demo: http://rockettheme.com/demo/live/hexeris/
+download: rockettheme.com/joomla/templates/hexeris/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Hexeris

@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!fresco:Fresco
 
+details: http://rockettheme.com/joomla/templates/fresco/
+demo: http://rockettheme.com/demo/live/fresco/
+download: rockettheme.com/joomla/templates/fresco/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Fresco

@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!graffito:Graffito
 
+details: http://rockettheme.com/joomla/templates/graffito/
+demo: http://rockettheme.com/demo/live/graffito/
+download: rockettheme.com/joomla/templates/graffito/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Graffito

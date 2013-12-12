@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!ionosphere:Ionosphere
 
+details: http://rockettheme.com/joomla/templates/ionosphere/
+demo: http://rockettheme.com/demo/live/ionosphere/
+download: rockettheme.com/joomla/templates/ionosphere/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Ionosphere

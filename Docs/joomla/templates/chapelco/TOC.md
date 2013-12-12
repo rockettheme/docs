@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!chapelco:Chapelco
 
+details: http://rockettheme.com/joomla/templates/chapelco
+demo: http://rockettheme.com/demo/live/chapelco/
+download: rockettheme.com/joomla/templates/chapelco/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Chapelco
