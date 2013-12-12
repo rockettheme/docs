@@ -40,7 +40,7 @@ The second text widget in this section has no title. The following should be ent
 <p class="rt-center"><a href="https://www.rockettheme.com/join-a-club" target="_blank" title="Join RocketTheme"><img class="rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/rockettheme_268x225.jpg" alt="RocketTheme" width="268" height="225" /></a></p>
 ~~~
 
-* Leave everything its default settings and select **Save**.
+* Leave everything at its default settings and select **Save**.
 
 [demo1]: assets/demo_6.jpeg
 [demo3]: assets/demo_7.jpeg
