@@ -69,7 +69,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Set the title to `Popular Features.`
-* Select your RokSprocket Featured widget in the **Choose Widget** field.
+* Select your RokSprocket Features widget in the **Choose Widget** field.
 * Set the **Title Variation** option to **Title 1**.
 * Leaving everything else at its default setting, select **Save**.
 
