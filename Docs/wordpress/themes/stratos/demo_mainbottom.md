@@ -20,7 +20,7 @@ This RokSprocket widget is a **Strips** widget type. Like other RokSprocket Widg
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Strips** widget. 
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket/).
 
 Here is a look at the **Strips Layout Options** for this widget.
 

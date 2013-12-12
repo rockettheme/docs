@@ -46,7 +46,7 @@ The tabs located in the sidebar section of the page is a RokSprocket widget crea
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget. 
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket/).
 
 Here is a look at the **Tabs Layout Options** for this widget.
 

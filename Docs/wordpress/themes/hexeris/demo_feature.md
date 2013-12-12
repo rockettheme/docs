@@ -20,7 +20,7 @@ The mosaic content display located just under the main feature showcase is a Rok
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket/).
 
 Here is a look at the **Mosaic Layout Options** for this widget.
 

@@ -20,7 +20,7 @@ The main feature showcase located near the top of the demo is a RokSprocket widg
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Features** widget. 
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket/).
 
 >> The video element on the top of Lumiere is enabled via the **Gantry Video Background** widget present in the **Video Background** widget position. You can further configure this element by visiting **Admin -> Lumiere Theme -> Style** and changing settings in the **Video** area of the menu.
 
