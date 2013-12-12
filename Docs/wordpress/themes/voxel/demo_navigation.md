@@ -50,7 +50,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokAjaxSearch
-The RokAjaxSearch widget allows users to search your site for interesting content. Here is a breakdown of the options you will want to change to match the demo. This particular instance of RokAjaxSearch requires no adjustments of options. It works just fine at its default settings.
+The RokAjaxSearch widget allows users to search your site for interesting content. This particular instance of RokAjaxSearch requires no adjustments of options. It works just fine at its default settings.
 
 * Leaving everything at its default setting, select **Save**.
 
