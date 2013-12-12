@@ -7,11 +7,12 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/chapelco:Chapelco
 
 Copyright Section
 -----
+
 ![][copyright]
 
-:   1. **Text** [62%, 61%, se]
-	2. **Custom Menu** [62%, 61%, se]
-	3. **Gantry To Top** [62%, 61%, se]
+:   1. **Text** [40%, 5%, se]
+	2. **Custom Menu** [40%, 28%, se]
+	3. **Gantry To Top** [40%, 88%, se]
 
 Here is the widget breakdown for the Copyright section:
 

@@ -70,7 +70,7 @@ Parallax is apparent motion of a 3D object depending on your perspective. This e
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-alerion
-[theme]: assets/Alerion2.jpeg
+[theme]: assets/alerion2.jpeg
 [responsive]: assets/responsive.jpg
 [quicknav]: assets/quicknav.jpg
 [parallax]: assets/parallax.jpg
