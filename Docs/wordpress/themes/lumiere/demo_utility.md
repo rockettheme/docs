@@ -15,7 +15,6 @@ Utility Section
 Here is the widget breakdown for the Utility section:
 
 * Text
-* Gantry Divider
 * RokSprocket
 
 #### Text
@@ -31,9 +30,6 @@ The text widget in this section has no title, and only contains one small amount
 * Set the **Margin Variation** option to **No Margin Bottom**.
 * Set the **Padding Variation** option to **No Padding Bottom**.
 * Leaving everything else at its default setting, select **Save**.
-
-#### Gantry Divider
-This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### RokSprocket
 This area of the front page is a **RokSprocket** widget using the **Mosaic** layout type. You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
