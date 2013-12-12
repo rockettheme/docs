@@ -55,7 +55,7 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Custom Chrome      |           Menu |  
 
 #### Gantry Social Buttons
-The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Header widget section so it is present in all of the demo pages. Filling this out is fairly straightforward as you will want to add your various social URLs to their respective fields before hitting **Save**.
+The Gantry Social Buttons widget creates a floating set of social buttons on the right side of the page. We placed it in the Header widget section so it is present in all of the demo pages. Filling this out is fairly straightforward as you will want to add your various social URLs to their respective fields before hitting **Save**.
 
 [demo1]: assets/wp_graffito_demo_1.jpeg
 [faq]: faq.md
