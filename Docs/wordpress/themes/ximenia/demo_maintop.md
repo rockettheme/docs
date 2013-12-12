@@ -48,7 +48,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
-* Select your RokSprocket Featured widget in the **Choose Widget** field.
+* Select your RokSprocket Tabs widget in the **Choose Widget** field.
 * Set the **Block Variation** option to **No Block**.
 * Set the **Custom Variations** option to `nopaddingleft nopaddingright nopaddingbottom demo-sprocket-tabs`.
 * Leaving everything else at its default setting, select **Save**.
