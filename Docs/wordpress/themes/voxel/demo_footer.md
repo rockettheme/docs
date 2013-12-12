@@ -16,6 +16,8 @@ Here is the widget breakdown for the Footer section:
 * Text
 * Text
 * Gantry Divider
+* Text
+* Gantry Divider
 * RokGallery
 
 #### Text
