@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ionosphere:Ionosphere
 
 Sidebar Section
 -----
-The Sidebar section in our demo points out some of the more compelling features that went into our theme. It includes two text widgets sand a single RokSprocket Tabs widget.
+The Sidebar section in our demo points out some of the more compelling features that went into our theme. It includes a RokAjaxSearch widget, a text widget and a single RokSprocket Tabs widget.
 
 Here is the widget breakdown for the Sidebar section:
 
