@@ -14,7 +14,7 @@ Here is the widget breakdown for the Feature section:
 * Text
 
 ### Text
-The Text widget in this section is used as an artistic divider between the navigation panel and the following section. It also offers a link directly to the plugins section of the demo.
+The Text widget in this section is used as an artistic divider between the navigation panel and the following section.
 
 ~~~
 <span class="promo1 ribbon"><span>Kirigami is clean, flexible &amp; responsive</span></span>
