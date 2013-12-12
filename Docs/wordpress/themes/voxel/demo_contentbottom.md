@@ -31,6 +31,9 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Set the **Title Variation** option to **Title 5**.
 * Leaving everything else at its default setting, select **Save**.
 
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 #### Text
 ![][demo2]
 The second Text widget in the section is also pretty simple and straightforward. You will need to enter the following in the main text field.
