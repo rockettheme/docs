@@ -23,7 +23,7 @@ Here is the widget breakdown for the Copyright section:
 
 The Copyright section remains the same for all areas of the site. Because of this, it is preserved as a Default widget override.
 
-### Text
+#### Text
 The text widget in this area has no title. You will need to enter the following in the main text field.
 
 ~~~
