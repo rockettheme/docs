@@ -67,10 +67,19 @@ When installing RokBB, the contents of the downloaded ZIP file you receive from 
 
 After this this done, log in to the **phpBB Administration Control Panel** and change the following settings:
 
+![][phpadmin1]
+
+:	1. **Load Settings** [43%, 16%, sw]
+	2. **Recompile Stale Style Components** [83%, 37%, se]
+
 * **General → Server configuration → Load settings** → Recompile stale style components to **Yes**
 * **General → Server configuration → Security Settings** → Allow php in templates to **Yes**
 
-**Purge the cache** in General tab. After emptying cache complete following steps:
+**Purge the cache** in General tab. After emptying cache, complete following steps:
+
+![][phpadmin2]
+
+:	1. **Module Type** [45%, 33%, se]
 
 * Go to the **System tab → Module Management category → Administration Control Panel**.
 * Select **Styles** in the Module management list.
@@ -86,7 +95,7 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 
 >> NOTE: You can add as many style modules as you want. After making changes, including installing new styles, remember to clear/refresh the cache. For any changes to be visible on the frontend of the site, the cache needs to be properly cleared.
 
-Do not be worried concerning the installation process as we only need this operation to be executed once. After that, to upgrading RokBB will only involve replacing files.
+Do not be worried about the installation process, as we only need this operation to be executed once. After that, upgrading RokBB will only involve replacing files.
 
 >> NOTE: There are currently three RokBB editions available. This includes: RokBB 3 and RokBB 5 for Club members, and a free version we've made available to non-members that works with our trimmed-down free styles. If you are using a paid style, make sure you're not using the free edition of RokBB.
 
@@ -94,3 +103,5 @@ Do not be worried concerning the installation process as we only need this opera
 [rokbb]: assets/rokbb.jpg
 [style2]: assets/style_2.jpeg
 [style3]: assets/style_3.jpeg
+[phpadmin1]: assets/phpadmin1.jpeg
+[phpadmin2]: assets/phpadmin2.jpeg

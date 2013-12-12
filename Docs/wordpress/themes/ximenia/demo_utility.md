@@ -28,7 +28,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 ### RokSprocket
-The lower widget is a Mosiac widget used to display the various features featured in the Fracture theme.
+The lower widget is a Mosaic widget used to display the various features featured in the Fracture theme.
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
 
