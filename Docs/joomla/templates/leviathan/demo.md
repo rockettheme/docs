@@ -115,7 +115,6 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [module8]: demo_module_8.md
 [module9]: demo_module_9.md
 [module10]: demo_module_10.md
-[module11]: demo_module_11.md
 [mainmenu]: assets/menu_1.jpg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [article]: assets/article.jpg
