@@ -8,6 +8,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/Stratos:Stratos
 Introduction
 -----
 
+![][stratos]
+
 Recreating features of the demo site used to show off some of the more interesting aspects of Stratos can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Stratos Template.
@@ -114,6 +116,7 @@ To replicate this specific layout, the publishing date needs to be used.
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
 [stratos2]: assets/stratos2.jpg
+[stratos]: assets/stratos.jpg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
 [rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster

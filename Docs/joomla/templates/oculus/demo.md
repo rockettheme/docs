@@ -8,6 +8,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/oculus:Oculus
 Introduction
 -----
 
+![][oculus]
+
 Recreating features of the demo site used to show off some of the more interesting aspects of Oculus can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Oculus Template.
@@ -112,6 +114,7 @@ You can also set the Dropdown Menu Offset in order to center the sub-menu as see
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
 [Oculus2]: assets/oculus2.jpeg
+[oculus]: assets/oculus.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
 [rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster

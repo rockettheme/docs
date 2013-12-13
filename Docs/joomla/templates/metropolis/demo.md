@@ -115,8 +115,8 @@ To get to the screen shown above, you will want to navigate to the **Main Menu**
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[Metropolis]: assets/Metropolis.jpeg
-[Metropolis2]: assets/Metropolis2.jpeg
+[Metropolis]: assets/metropolis.jpeg
+[Metropolis2]: assets/metropolis2.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
 [rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
