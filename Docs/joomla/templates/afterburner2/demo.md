@@ -77,15 +77,6 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
-Menu Settings
------
-
-![][mainmenu]
-
-In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
-
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `Afterburner2 — Free, GPL Template`.
-
 [gantry]: http://gantry-framework.org/download
 [afterburner2]: assets/afterburner22.jpeg
 [afterburner22]: assets/afterburner2.jpeg
@@ -107,6 +98,5 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [module13]: demo_module_13.md
 [module14]: demo_module_14.md
 [module15]: demo_module_15.md
-[mainmenu]: assets/menu_1.jpeg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [scroll]: assets/demo_2.jpeg

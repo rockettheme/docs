@@ -9,4 +9,4 @@ Module Positions
 -----
 ![][positions]
 
-[positions]: assets/positions.png
+[positions]: assets/positions.jpg

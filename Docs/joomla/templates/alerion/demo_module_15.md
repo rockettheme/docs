@@ -31,7 +31,7 @@ In order to show two featured articles on the front page, we placed a `2` in the
 Article Properties
 -----
 
-The **Popular Features** article is a standard article with the **Featured** option turned on so it appears in the front page mainbody.
+The **RokSprocket Layouts** article is a standard article with the **Featured** option turned on so it appears in the front page mainbody.
 
 Here is the **Article Text** we used:
 
