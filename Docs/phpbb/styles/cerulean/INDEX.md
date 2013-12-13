@@ -51,5 +51,5 @@ Similar to the Joomla version of Cerulean, there are 9 stylistic module class su
 Additionally, there are 25 structural suffixes which affect the layout and metrics of the modules. You can apply variations using RokBB framework. Suffixes can be applied to the forum categories list, forum topics list, forum posts list and various modules. Extensive CSS styling gives user an ability to completely redesign the forum look, and achieve even the most sophisticated results.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/Cerulean.jpeg
+[style]: assets/cerulean.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
