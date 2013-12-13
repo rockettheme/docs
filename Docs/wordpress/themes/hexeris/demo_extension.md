@@ -52,6 +52,9 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
+#### Gantry Divider
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 #### Text
 
 ![][demo2]
