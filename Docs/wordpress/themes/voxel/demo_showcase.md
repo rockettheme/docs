@@ -7,7 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 Showcase Section
 -----
+
 ![][demo2]
+
+:	1. **RokSprocket - Showcase** [17%, 10%, se]
+	2. **RokSprocket - Lists** [15%, 70%, se]
 
 Here is the widget breakdown for the Showcase section:
 

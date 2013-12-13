@@ -7,7 +7,10 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/voxel:Voxel
 
 SlideInset Section
 -----
+
 ![][demo2]
+
+:	1. **RokSprocket - Lists** [15%, 70%, se]
 
 The SlideInset section actually creates a RokSprocket widget within a RokSprocket widget for the visitor. It combines two different RokSprocket elements into a single interface for your visitors to enjoy. The result is a unique look that enhances user experience.
 
