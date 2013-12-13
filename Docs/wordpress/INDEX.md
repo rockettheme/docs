@@ -3,7 +3,10 @@ title: WordPress Documentation
 description: WordPress is a hugely popular open source Content Management System (CMS). This section enables you to find out more about WordPress and how to use it with RocketTheme Themes and Plugins.
 landing: true
 breadcrumb: /!WordPress:WordPress/
-
+more:
+	Basic Tutorials: 7
+	Club Plugins: 7
+	Club Themes: 7
 ---
 
 * Start Here
@@ -45,15 +48,6 @@ breadcrumb: /!WordPress:WordPress/
 
 <!-- -->
 
-* Free Plugins
-
-	- [RokSprocket](plugins/roksprocket/)
-	- [Gantry BuddyPress](plugins/gantrybuddypress/)
-	- [RokAjaxSearch](plugins/rokajaxsearch/)
-	- [RokBox](plugins/rokbox/)
-
-<!-- -->
-
 * Club Themes
 	
 	- [Stratos](themes/stratos)
@@ -72,3 +66,14 @@ breadcrumb: /!WordPress:WordPress/
 	- [Voxel](themes/voxel)
 	- [Diametric](themes/diametric)
 	- [Ionosphere](themes/ionosphere)
+
+<!-- -->
+
+* Free Plugins
+
+	- [RokSprocket](plugins/roksprocket/)
+	- [Gantry BuddyPress](plugins/gantrybuddypress/)
+	- [RokAjaxSearch](plugins/rokajaxsearch/)
+	- [RokBox](plugins/rokbox/)
+
+
