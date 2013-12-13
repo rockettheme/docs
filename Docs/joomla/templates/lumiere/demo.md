@@ -25,7 +25,7 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Lumiere]
 
-:   1. **FP Showcase - RokSprocket Features**  [10%, 10%, se]
+:   1. **FP Showcase**  [10%, 10%, se]
     2. **Search Our Site Title**  [27%, 10%, se]
     3. **Search Our Site Inputbox**  [27%, 25%, se]
     4. **Top News of the Week Title**  [33%, 30%, se]
