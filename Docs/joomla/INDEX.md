@@ -63,7 +63,6 @@ more:
 	- [Diametric](templates/diametric)
 	- [Ionosphere](templates/ionosphere)
 	- [Clarion](templates/clarion)
-	- [Halcyon](templates/halcyon)
 
 <!-- -->
 

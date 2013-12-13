@@ -18,10 +18,10 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 
 | Option           | Setting                 |  
 | :--------------- | :---------------------- |  
-| Title            | `FP RokSprocket - Tabs` |  
+| Title            | `Popular Features`      |  
 | Show Title       | Hide                    |  
 | Access           | Public                  |  
-| Position         | extension-a             |  
+| Position         | sidebar-a               |  
 | Status           | Published               |  
 | Content Provider | Simple                  |  
 | Type             | Tabs                    |  

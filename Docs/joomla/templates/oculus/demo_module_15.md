@@ -10,6 +10,8 @@ Contact Us
 
 ![][demo]
 
+:	1. **mod_custom** [17%, 75%, se]
+
 This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
@@ -72,7 +74,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :----------------------- |  
 | Module Class Suffix | `fp-footer hidden-phone` |  
 
-[demo]: assets/demo_module_7.jpeg
+[demo]: assets/demo_module_9.jpeg
 [demo2]: assets/contact_1.jpeg
 [demo3]: assets/contact_2.jpeg
 [demo4]: assets/contact_3.jpeg

@@ -96,6 +96,17 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
+Menu Settings
+-----
+
+![][mainmenu]
+
+In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
+
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to ` jun13-home`.
+
+You can also set the Dropdown Menu Offset in order to center the sub-menu as seen in our demo. As an example, we will look at the settings for the Features sub-menu within the **Main Menu** found at the top of the **Home** page.
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
@@ -122,4 +133,5 @@ You can find more information about the entire override breakdown for both the f
 [module13]: demo_module_13.md
 [module14]: demo_module_14.md
 [module15]: demo_module_15.md
+[mainmenu]: menu_1.jpg
 [login]: a_header_login.jpg

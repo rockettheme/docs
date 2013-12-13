@@ -29,7 +29,6 @@ support: http://www.rockettheme.com/forum/
             * [Who's Online](demo_module_5.md)
             * [Six Preset Styles](demo_module_6.md)
             * [Demo Information](demo_module_7.md)
-        * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
 * Template Tutorials
