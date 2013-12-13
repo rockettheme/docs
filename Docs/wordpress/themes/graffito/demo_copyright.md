@@ -7,7 +7,12 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
 
 Copyright Section
 -----
+
 ![][demo2]
+
+:	1. **Gantry Copyright** [40%, 6%, se]
+	2. **Custom Menu** [40%, 37%, se]
+	3. **Gantry To Top** [40%, 91%, se]
 
 Here is the widget breakdown for the Copyright section:
 
@@ -36,4 +41,4 @@ Here is a breakdown of what you will need to change in the widget options to mat
 #### Gantry To Top
 The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
-[demo2]: assets/wp_graffito_demo_2.jpeg
+[demo2]: assets/wp_graffito_demo_9.jpeg

@@ -53,7 +53,8 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Gantry Login Form
-The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. 
+
+The login form located on **Footer** section of the front page is actually a **Gantry Login Form** widget. 
 
 | Option            |                                      Setting |  
 | :---------------- | -------------------------------------------: |  
