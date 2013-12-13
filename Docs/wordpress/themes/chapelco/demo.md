@@ -8,6 +8,8 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/chapelco:Chapelco
 Introduction
 -----
 
+![][chapelco2]
+
 Recreating features of the demo site used to show off some of the more interesting aspects of Chapelco can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Chapelco theme.
@@ -91,6 +93,7 @@ One important thing to note here is that many of the widget sections included in
 [rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
 [chapelco]: assets/chapelco.jpeg
+[chapelco2]: assets/chapelco2.jpeg
 [roksprocket]: ../../plugins/roksprocket/
 [gallery]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
 [faq]: faq.md
