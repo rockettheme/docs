@@ -111,7 +111,7 @@ If you are creating a fresh install and would like sample data included, you can
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
-[theme]: assets/Infuse.jpeg
+[theme]: assets/infuse.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
 [download]: http://www.rockettheme.com/magento-downloads/club/2196-infuse
 [filezilla]: https://filezilla-project.org/download.php
