@@ -111,7 +111,7 @@ If you are creating a fresh install and would like sample data included, you can
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
-[theme]: assets/theme.jpeg
-[rokmagelayout]: assets/RokMageLayout.jpg
+[theme]: assets/clarion.jpeg
+[rokmagelayout]: assets/rokmagelayout.jpg
 [download]: http://www.rockettheme.com/magento-downloads/club/3119-clarion
 [filezilla]: https://filezilla-project.org/download.php
