@@ -7,7 +7,14 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/metropolis:Metropolis
 
 Sidebar Section
 -----
+
 ![][demo27]
+
+: 1. **RokSprocket** [9%, 51%, se]
+  2. **Text** [64%, 51%, se]
+  3. **RokAjaxSearch** [9%, 74%, se]
+  4. **Text** [25%, 74%, se]
+  5. **Text** [53%, 74%, se]
 
 Here is the widget breakdown for the Sidebar section:
 

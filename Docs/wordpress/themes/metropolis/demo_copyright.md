@@ -7,7 +7,12 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/metropolis:Metropolis
 
 Copyright Section
 -----
+
 ![][demo2]
+
+:	1. **Gantry Copyright** [35%, 7%, se]
+	2. **Custom Menu** [35%, 35%, se]
+	3. **Gantry To Top** [35%, 86%, se]
 
 Here is the widget breakdown for the Copyright section:
 
@@ -39,6 +44,12 @@ Here is a breakdown of what you will need to change in the widget options to mat
 The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it.
 
 #### Gantry Social Buttons
+
+![][social]
+
+:	1. **Social Buttons** [10%, 8%, sw]
+
 The Gantry Social Buttons widget creates a floating set of social buttons on the left side of the page. We placed it in the Copyright widget section so it is present in all of the demo pages. Filling this out is fairly straightforward as you will want to add your various social URLs to their respective fields before hitting **Save**.
 
 [demo2]: assets/wp_metropolis_demo_2.jpeg
+[social]: assets/social.jpg
