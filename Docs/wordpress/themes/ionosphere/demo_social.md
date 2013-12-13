@@ -7,7 +7,10 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ionosphere:Ionosphere
 
 Social Section
 -----
+
 ![][demo1]
+
+:	1. **Gantry Social Buttons** [20%, 92%, se]
 
 Here is the widget breakdown for the Social section:
 
@@ -16,4 +19,4 @@ Here is the widget breakdown for the Social section:
 #### Gantry Social Buttons
 The Gantry Social Buttons widget creates a floating set of social buttons on the right side of the page. Filling this out is fairly straightforward as you will want to add your various social URLs to their respective fields before hitting **Save**.
 
-[demo1]: assets/demo_13.jpeg
+[demo1]: assets/social.jpg

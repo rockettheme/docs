@@ -7,6 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/lumiere:Lumiere
 
 Header Section
 -----
+
 ![][demo]
 
 :   1. **Header - Gantry Logo** [12%, 7%, se]
@@ -43,5 +44,5 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Maximum Depth     |        10 |  
 | Custom Chrome     |      Menu |   
 
-[demo]: assets/Lumiere2.jpeg
+[demo]: assets/lumiere2.jpeg
 [menu]: ../../start/menus.md
