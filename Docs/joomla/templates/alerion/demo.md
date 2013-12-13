@@ -37,6 +37,11 @@ Below, you will find the module placement and settings for the various module po
     8. **Gantry Extras**  [47%, 78%, sw]
     9. **FP RokSprocketTabs**  [80%, 22%, se]
     10. **Copyright Menu**  [93%, 41%, se]
+    11. **Guest Speakers** [55%, 78%, sw]
+    12. **Parallax** [65%, 22%, se]
+    13. **Floating** [65%, 42%, se]
+    14. **Module Style** [65%, 62%, se]
+    15. **RokSprocket Layouts** [47%, 22%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
@@ -50,6 +55,11 @@ We have detailed how to recreate the individual modules pictured above in the li
 8. [Gantry Extras][module8]
 9. [FP RokSprocketTabs][module9]
 10. [Copyright Menu][module10]
+11. [Guest Speakers][module11]
+12. [Parallax][module12]
+13. [Floating][module13]
+14. [Module Style][module14]
+15. [RokSprocket Layouts][module15]
 
 Recommended Extensions
 -----
@@ -119,6 +129,10 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [module9]: demo_module_9.md
 [module10]: demo_module_10.md
 [module11]: demo_module_11.md
+[module12]: demo_module_12.md
+[module13]: demo_module_13.md
+[module14]: demo_module_14.md
+[module15]: demo_module_15.md
 [mainmenu]: assets/menu_1.jpeg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [article]: assets/article.jpg

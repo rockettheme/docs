@@ -7,6 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 
 TechnoEvent
 -----
+
 ![][demo]
 
 :   1. **mod_custom** [20%, 10%, se]
