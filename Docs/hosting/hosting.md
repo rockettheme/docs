@@ -12,9 +12,9 @@ Finding the right hosting solution for your site can be difficult. There are lit
 
 #### Watch Out for Oversellers
 
-Some hosting providers offer extremely competitive rates, only to offset these savings by overselling shared severs. When a shared hosting plan is oversold, the server can become quickly overwhelmed if too many customers are actively using the services at the level advertised. For example, your site might run fine when 20% of the customers on your overcrowded server are receiving significant traffic, but it could become slow or even unresponsive at a higher percentage.
+Some hosting providers offer extremely competitive rates, only to offset these savings by overselling shared servers. When a shared hosting plan is oversold, the server can become quickly overwhelmed if too many customers are actively using the services at the level advertised. For example, your site might run fine when 20% of the customers on your overcrowded server are receiving significant traffic, but it could become slow or even unresponsive at a higher percentage.
 
-A good hosting provider has all of its bases covered. It doesn't oversell shared hosting plans, offers reasonable rates on virtual private servers and dedicated server solutions.
+A good hosting provider has all of its bases covered. It does not oversell shared hosting plans, offers reasonable rates on virtual private servers and dedicated server solutions.
 
 If you are considering a shared hosting solution for your site, pay close attention to reviews surrounding shared plans. Look out for consistent complaints of slowdowns and reports of overselling.
 
@@ -30,6 +30,6 @@ Look for a host that has multiple data centers and/or points of distribution in 
 
 #### Value
 
-Price is what you pay, but value is what you receive. Consider what a hosting provider offers in terms of additional services. Is one-click WordPress and Joomla installation important to you? Do you want your host to regularly back up your site(s) so that nothing is lost should unforeseen circumstances occur? You might even be looking specifically for a company that offers Cpanel management because that's the interface you're most familiar with.
+Price is what you pay, but value is what you receive. Consider what a hosting provider offers in terms of additional services. Is one-click WordPress and Joomla installation important to you? Do you want your host to regularly back up your site(s) so that nothing is lost should unforeseen circumstances occur? You might even be looking specifically for a company that offers Cpanel management because that is the interface you are most familiar with.
 
 In any case, these extras are worth considering when deciding which host to go with. Cheap and reliable is great, but you should be able to feel comfortable with the product you are paying for.
