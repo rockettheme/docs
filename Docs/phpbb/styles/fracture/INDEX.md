@@ -45,5 +45,5 @@ Fracture's responsive grid system is designed for desktops, tablets, and smartph
 We base our responsive layout on Twitter's Bootstrap Framework, with its collection of utility classes, to provide a great degree of flexibility for a responsive design.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/Fracture.jpeg
+[style]: assets/fracture.jpeg
 [rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
