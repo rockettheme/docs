@@ -42,7 +42,6 @@ breadcrumb: /!WordPress:WordPress/
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
 	- [RokStories](plugins/rokstories)
-	- [RokBox2](plugins/rokbox2)
 
 <!-- -->
 
