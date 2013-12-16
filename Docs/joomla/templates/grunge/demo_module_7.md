@@ -33,7 +33,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p>All images are the copyright of their respective owners. In addition, this site is purely for demonstrative purposes, as such, all content and images are designed to showcase a sample site.</p>
+<p>All demo content is for demo <strong>purposes</strong> only, to show an example of a <strong>live site</strong>. All images are the copyright of their respective owners.</p>
 ~~~
 
 ### Basic
@@ -53,7 +53,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------ |  
 | Module Class Suffix |         |  
 
-[demo]: assets/demo_7.jpeg
-[demo2]: assets/info_1.jpg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/demoinfo_1.jpeg
+[demo3]: assets/demoinfo_2.jpeg
+[demo4]: assets/demoinfo_3.jpeg

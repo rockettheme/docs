@@ -15,33 +15,9 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 <!-- -->
 
-* Podcasting
-
-	- [Placeholder]()
-
-<!-- -->
-
 * Ecommerce
 
 	- [How to Build an Audience for E-commerce](build_an_audience_for_ecommerce.md)
-
-<!-- -->
-
-* Browser Extensions
-
-	- [Troubleshooting](browser_extensions/troubleshooting.md)
-
-<!-- -->
-
-* Corporate and Enterprise
-
-	- [Placeholder]()
-
-<!-- -->
-
-* Web Development
-
-	- [Placeholder]()
 
 <!-- -->
 

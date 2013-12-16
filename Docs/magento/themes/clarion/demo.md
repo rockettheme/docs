@@ -347,4 +347,4 @@ Enables the Tiny MCE editor for RokMage Extensions.
 #homepage_grid_settings_welcome_msg,#homepage_grid_settings_grid_text,#content_slider_settings_custom_one_slide_one_content,#content_slider_settings_custom_two_slide_two_content,#content_slider_settings_custom_three_slide_three_content,#content_slider_settings_custom_four_slide_four_content,#cms_callouts_settings_leftcallouttext,#cms_callouts_settings_rightcallouttext,#footer_block_settings_first-custom-text,#footer_block_settings_second-custom-text,#footer_block_settings_third-custom-text,#footer_block_settings_text-box
 ~~~
 
-[rokmagelayout]: assets/RokMageLayout.jpg
+[rokmagelayout]: assets/rokmagelayout.jpg

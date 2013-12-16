@@ -103,6 +103,7 @@ One important thing to note here is that many of the widget sections included in
 [contenttop]: demo_contenttop.md
 [showcase]: demo_showcase.md
 [maintop]: demo_maintop.md
+[header]: demo_header.md
 [feature]: demo_feature.md
 [sidebar]: demo_sidebar.md
 [contenttop]: demo_contenttop.md

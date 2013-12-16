@@ -114,6 +114,7 @@ One important thing to note here is that many of the widget sections included in
 [showcase]: demo_showcase.md
 [maintop]: demo_maintop.md
 [sidebar]: demo_sidebar.md
+[header]: demo_header.md
 [contenttop]: demo_contenttop.md
 [contentbottom]: demo_contentbottom.md
 [bottom]: demo_bottom.md

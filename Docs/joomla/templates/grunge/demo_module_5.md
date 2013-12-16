@@ -42,7 +42,7 @@ This area of the page is a **Who's Online** module. It displays the numbers of g
 | :------------------ | :-------------------- |  
 | Module Class Suffix |                       |  
 
-[demo]: assets/demo_5.jpeg
+[demo]: assets/demo_6.jpeg
 [demo2]: assets/who_1.jpeg
 [demo3]: assets/who_2.jpeg
 [demo4]: assets/who_3.jpeg

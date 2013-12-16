@@ -25,23 +25,25 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Grunge2]
 
-:   1. **FP Showcase A**  [15%, 18%, se]
-    2. **The Gantry Framework**  [15%, 52%, se]
-    3. **Free GPL Template**  [31%, 18%, se]
-    4. **Main Menu** [31%, 62%, se]
-    5. **Who's Online** [50%, 62%, se]
-    6. **Six Preset Styles** [64%, 18%, se]
-    7. **Demo Information** [76%, 18%, se] 
+:   1. **FP Showcase A**  [11%, 33%, se]
+    2. **RokStories Info**  [25%, 62%, se]
+    3. **Site Search**  [37%, 62%, se]
+    4. **Main Menu** [42%, 62%, se]
+    5. **Who's Online** [66%, 62%, se]
+    6. **Customize the Design** [73%, 18%, se]
+    7. **Demo Information** [85%, 18%, se] 
+    8. **Grunge Free/GPL Template** [25%, 18%, se]
 
 We have detailed how to recreate the individual modules and features pictured above in the links below.
 
 1. [FP Showcase A][module1]
-2. [The Gantry Framework][module2]
-3. [Free GPL Template][module3]
+2. [RokStories Info][module2]
+3. [Site Search][module3]
 4. [Main Menu][module4]
 5. [Who's Online][module5]
-6. [Six Preset Styles][module6]
+6. [Customize the Design][module6]
 7. [Demo Information][module7]
+8. [Grunge Free/GPL Template][module8]
 
 Recommended Extensions
 -----
@@ -80,7 +82,7 @@ You can find more information about the entire override breakdown for both the f
 
 [gantry]: http://gantry-framework.org/download
 [Grunge]: assets/grunge2.jpeg
-[Grunge2]: assets/grunge.jpeg
+[Grunge2]: assets/grunge.jpg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
 [rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster

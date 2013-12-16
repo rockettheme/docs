@@ -1,15 +1,15 @@
 ---
-title: Fresco: Recreating the Demo - Navigation
+title: Fresco: Recreating the Demo - Header
 description: Your Guide to Recreating Elements of the Fresco Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/fresco:Fresco
 
 ---
 
-Navigation Section
+Header Section
 -----
 ![][demo1]
 
-Here is the widget breakdown for the Navigation section:
+Here is the widget breakdown for the Header section:
 
 * Gantry Logo
 * Gantry Divider
@@ -17,7 +17,7 @@ Here is the widget breakdown for the Navigation section:
 * Gantry Divider
 * RokAjaxSearch
 
-The Navigation section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It is also a fairly simple section to set up.
+The Header section remains the same across the entire demo site. For this reason, it exists in the default **Widget Override** menu. It is also a fairly simple section to set up.
 
 #### Gantry Logo
 

@@ -18,22 +18,27 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option     | Setting              |  
-| :--------- | :------------------- |  
-| Title      | `FP Showcase A`      |  
-| Show Title | Hide                 |  
-| Position   | showcase-a           |  
-| Status     | Published            |  
-| Access     | Public               |  
-| Language   | All                  |  
-| Note       | Blank                |  
+| Option     | Setting                  |  
+| :--------- | :----------------------- |  
+| Title      | `RokStories Placeholder` |  
+| Show Title | Hide                     |  
+| Position   | showcase-a               |  
+| Status     | Published                |  
+| Access     | Public                   |  
+| Language   | All                      |  
+| Note       | Blank                    |  
 
 ### Custom Output
 
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-"Powerful, New and Feature Rich: Gantry 2.0."
+<div class="rokstories-layout2">
+<div class="feature-block"><img class="floatleft rt-sample-rokstories" src="images/stories/demo/frontpage/showcase1.jpg" border="0" alt="image" /> <span class="feature-title">Grunge Free/GPL Template Release</span>
+<p class="feature-desc"><strong>Grunge</strong>, the June 2010 Free GPL release, is the second free template to take advantage of the Gantry Framework, and is outfitted with a sophisticated, artistic and professional design, on top of the highly functional core.</p>
+<div class="readon"><a href="#"><span>Read the Full Story</span></a></div>
+</div>
+</div>
 ~~~
 
 ### Basic
@@ -54,6 +59,6 @@ Enter the following in the **Custom Output** text editor.
 | Module Class Suffix |         |  
 
 [demo]: assets/demo_1.jpeg
-[demo2]: assets/showcase_1.jpeg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
+[demo2]: assets/fpshowcase_1.jpeg
+[demo3]: assets/fpshowcase_2.jpeg
+[demo4]: assets/fpshowcase_3.jpeg

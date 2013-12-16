@@ -1,11 +1,11 @@
 ---
-title: Grunge: Recreating the Demo - The Gantry Framework
+title: Grunge: Recreating the Demo - RokStories Info
 description: Your Guide to Recreating Elements of the Grunge Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/grunge:Grunge
 
 ---
 
-The Gantry Framework
+RokStories Info
 -----
 
 ![][demo]
@@ -20,9 +20,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option     | Setting                |  
 | :--------- | :--------------------- |  
-| Title      | `The Gantry Framework` |  
+| Title      | `RokStories Info`      |  
 | Show Title | Show                   |  
-| Position   | showcase-b             |  
+| Position   | sidebar-a              |  
 | Status     | Published              |  
 | Access     | Public                 |  
 | Language   | All                    |  
@@ -33,9 +33,14 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<p>Gantry is a sophisticated framework with the sole intention of being the best platform to build a template with, such as being easy to configure, simple to extend, and powerful enough to handle anything.</p>
-<p><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=104"><span>Learn More</span></a>
-</p>
+<p><span class="article-title2">RokStories: Only available to RocketTheme club members.</span></p>
+<p>You can replicate the exact demo construction if you have RokStories, simply:</p>
+<ol>
+<li>Disable the <strong>RokStories Placeholder</strong> module</li>
+<li>Install RokStories</li>
+<li>Setup with the following settings</li>
+</ol>
+<div class="readon"><a href="images/stories/demo/frontpage/rokstories-settings.png"><span>Preview Settings</span></a></div>
 ~~~
 
 ### Basic
@@ -56,6 +61,6 @@ Enter the following in the **Custom Output** text editor.
 | Module Class Suffix |         |  
 
 [demo]: assets/demo_2.jpeg
-[demo2]: assets/gantry_1.jpeg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
+[demo2]: assets/info_1.jpeg
+[demo3]: assets/info_2.jpeg
+[demo4]: assets/info_3.jpeg

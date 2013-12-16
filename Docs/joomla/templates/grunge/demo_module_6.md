@@ -1,11 +1,11 @@
 ---
-title: Grunge: Recreating the Demo - Six Preset Styles
+title: Grunge: Recreating the Demo - Customize the Design
 description: Your Guide to Recreating Elements of the Grunge Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/grunge:Grunge
 
 ---
 
-Six Preset Styles
+Customize the Design with Ease
 -----
 
 ![][demo]
@@ -18,23 +18,23 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option     | Setting             |  
-| :--------- | :------------------ |  
-| Title      | `Six Preset Styles` |  
-| Show Title | Show                |  
-| Position   | bottom-a            |  
-| Status     | Published           |  
-| Access     | Public              |  
-| Language   | All                 |  
-| Note       | Blank               |  
+| Option     | Setting                          |  
+| :--------- | :------------------------------- |  
+| Title      | `Customize the Design with Ease` |  
+| Show Title | Show                             |  
+| Position   | bottom-a                         |  
+| Status     | Published                        |  
+| Access     | Public                           |  
+| Language   | All                              |  
+| Note       | Blank                            |  
 
 ### Custom Output
 
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p>An array of <strong>6 stunning</strong>, unique, and professionally designed style variations, in <strong>18 combinations</strong> of Low, Medium &amp; High levels.</p>
-<p><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=105"><span>Read More</span></a></p>
+<p>We provide <strong>Adobe® Fireworks</strong> PNG image sources with every template, inclusive of a separate source for the logo. This allows for virtually complete customization control over the images that constitute the template..</p>
+<p><a class="readon" href="index.php?option=com_content&amp;view=article&amp;id=55&amp;Itemid=161"><span>Read More</span></a></p>
 ~~~
 
 ### Basic
@@ -54,7 +54,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------ |  
 | Module Class Suffix |         |  
 
-[demo]: assets/demo_6.jpeg
-[demo2]: assets/six_1.jpg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
+[demo]: assets/demo_7.jpeg
+[demo2]: assets/custom_1.jpeg
+[demo3]: assets/custom_2.jpeg
+[demo4]: assets/custom_3.jpeg
