@@ -55,6 +55,26 @@ You can find more information about the entire override breakdown for both the f
 Widget Settings
 -----
 
+![][theme]
+
+:   1. **Header - Gantry Logo** [6%, 12%, se]
+	2. **Header - Gantry Menu** [6%, 47%, se]
+	3. **Social - Gantry Social Buttons** [10%, 89%, se]
+	4. **Showcase - RokSprocket**  [13%, 12%, se]
+    5. **Feature - Text**  [10%, 12%, se]
+    6. **Main Top - RokSprocket**  [26%, 12%, se]
+    7. **Sidebar - RokSprocket**  [55%, 88%, sw]
+    8. **Sidebar - Text**  [68%, 88%, sw]
+    9. **Content Bottom - RokSprocket**  [70%, 12%, se]
+    10. **Footer - Text**  [82%, 12%, se]
+    11. **Footer - Text**  [82%, 38%, se]
+    12. **Footer - Text** [87%, 38%, se]
+    13. **Footer - Text**  [82%, 64%, se]
+    14. **Copyright - Gantry Copyright** [92%, 12%, se]
+    15. **Copyright - Custom Menu** [92%, 38%, se]
+    16. **Copyright - Gantry To Top** [92%, 85%, se]
+    17. **Post** [55%, 12%, se]
+
 Like any Gantry theme, Kirigami utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
@@ -70,6 +90,7 @@ One important thing to note here is that many of the widget sections included in
 * [Extension][extension]
 * [Footer][footer]
 * [Copyright][copyright]
+* [Post][post]
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
@@ -90,3 +111,5 @@ One important thing to note here is that many of the widget sections included in
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
 [social]: http://www.rockettheme.com/wordpress-downloads/club/3402-kirigami
+[theme]: assets/kirigami2.jpg
+[post]: demo_post.md
