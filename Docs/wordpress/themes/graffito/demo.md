@@ -55,6 +55,24 @@ You can find more information about the entire override breakdown for both the f
 Widget Settings
 -----
 
+![][theme]
+
+:   1. **Header - Gantry Logo** [6%, 13%, se]
+	2. **Header - Gantry Menu** [6%, 35%, se]
+	3. **Header - Gantry Social Buttons** [6%, 82%, se]
+	4. **Showcase - FP Showcase - RokSprocket Features**  [10%, 12%, se]
+    5. **Feature - FP Feature - RokSprocket Mosaic**  [27%, 12%, se]
+    6. **Sidebar - Gantry Extras**  [46%, 88%, sw]
+    7. **Extension - Graffito Demo**  [62%, 12%, se]
+    8. **Extension - Popular Features**  [62%, 88%, sw]
+    9. **Footer - Demo Info**  [79%, 12%, se]
+    10. **Footer - Contact Us**  [79%, 38%, se]
+    11. **Footer - Location**  [79%, 64%, se]
+    12. **Copyright - Gantry Copyright** [92%, 12%, se]
+    13. **Copyright - Copyright Menu**  [92%, 37%, se]
+    14. **Copyright - Gantry To Top** [92%, 85%, se]
+    15. **Post - Top News of the Week** [46%, 12%, se]
+
 Like any Gantry theme, Graffito utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
@@ -70,6 +88,7 @@ One important thing to note here is that many of the widget sections included in
 * [Extension][extension]
 * [Footer][footer]
 * [Copyright][copyright]
+* [Post][post]
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
@@ -88,3 +107,5 @@ One important thing to note here is that many of the widget sections included in
 [footer]: demo_footer.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
+[theme]: assets/graffito2.jpg
+[post]: demo_post.md

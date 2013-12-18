@@ -54,6 +54,27 @@ You can find more information about the entire override breakdown for both the f
 Widget Settings
 -----
 
+![][theme]
+
+:   1. **Header - Gantry Logo** [6%, 13%, se]
+	2. **Header - Gantry Menu** [6%, 50%, se]
+	3. **Showcase - FP Showcase - RokSprocket Features**  [10%, 12%, se]
+    4. **Feature - FP Feature - RokSprocket Mosaic**  [25%, 12%, se]
+    5. **Content Top - About Metropolis**  [45%, 12%, se]
+    6. **Content Bottom - From Blog**  [55%, 12%, se]
+    7. **Sidebar - Help & Tips**  [45%, 51%, se]
+    8. **Sidebar - Our Users**  [58%, 51%, se]
+    9. **Sidebar - Site Search**  [45%, 88%, sw]
+    10. **Sidebar - Preset Styles**  [50%, 88%, sw]
+    11. **Sidebar - RocketLauncher**  [57%, 88%, sw]
+    12. **MainBottom - FP MainBottom**  [69%, 12%, se]
+    13. **Footer - Demo Info**  [81%, 12%, se]
+    14. **Footer - Inside Metropolis** [81%, 38%, se]
+    15. **Footer - Contact Us** [81%, 65%, se]
+    16. **Copyright - Gantry Copyright** [92%, 12%, se]
+    17. **Copyright - Copyright Menu** [92%, 36%, se]
+    18. **Copyright - Gantry To Top** [92%, 81%, se]
+
 Like any Gantry theme, Metropolis utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
@@ -91,3 +112,4 @@ One important thing to note here is that many of the widget sections included in
 [footer]: demo_footer.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
+[theme]: assets/metropolis2.jpg

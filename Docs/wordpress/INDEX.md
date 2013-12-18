@@ -7,6 +7,7 @@ more:
 	Basic Tutorials: 7
 	Club Plugins: 7
 	Club Themes: 7
+
 ---
 
 * Start Here
@@ -74,6 +75,4 @@ more:
 	- [RokSprocket](plugins/roksprocket/)
 	- [Gantry BuddyPress](plugins/gantrybuddypress/)
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
-	- [RokBox](plugins/rokbox/)
-
 

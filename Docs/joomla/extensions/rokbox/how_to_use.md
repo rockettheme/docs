@@ -6,7 +6,7 @@ title: How to use
 How to use
 -----
 
-The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Exactly as any `<a>` link, a RokBox2 link can be placed just about anywhere in a page.
+The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox identify the link in the page. Just like any `<a>` link, a RokBox2 link can be placed just about anywhere in a page.
 
 The most basic and simple example of a RokBox2 snippet to get it up and running is:
 
@@ -14,28 +14,28 @@ The most basic and simple example of a RokBox2 snippet to get it up and running 
 <a data-rokbox href="images/my_image.jpg">This is a RokBox 2 Link</a>
 ~~~
 
-As can be noticed, it is a regular `<a>` link. The only extraneous bit is that data-set `data-rokbox`. Being just a normal link, it implies that you can have any type of content you want. In this case we used `This is a RokBox 2 Link` as simple text, but it could have been an image and worked exactly the same.
+This is a regular `<a>` link. The only extraneous bit is that data-set `data-rokbox`. Being just a normal link, it implies that you can have any type of content you want. In this case we used `This is a RokBox 2 Link` as simple text, but it could have been an image and worked exactly the same.
 
 >> NOTE: RokBox2 snippets can be easily generated using the user-friendly [Editor Button Plugin][editor-button].
 
 Data-sets
 ---------
 
-Data-sets are introduced with HTML5 and allow to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for referencing settings.
+Data-sets are introduced with HTML5, and allow you to attach data to HTML elements. They are extremely useful for JavaScript. In the past, developers were relying on the `class` attribute and different class names where added for referencing settings.
 
-Moving away from class names in favor of data-sets allows not only to keep the HTML cleaner but also to avoid possible conflicts with the class names.
+Moving away from class names in favor of data-sets allows you to not only to keep the HTML cleaner, but also to avoid possible conflicts with class names.
 
-RokBox2 has different data-sets, each with a specific meaning and all optional with the exception of `data-rokbox` which is what triggers RokBox2 to identify a link. If the `data-rokbox` is not specified, the link will be skipped and will just function as a regular plain link.
+RokBox2 has different data-sets, each with a specific meaning and all optional with the exception of `data-rokbox`, which is what triggers RokBox2 to identify a link. If the `data-rokbox` is not specified, the link will be skipped and will just function as a regular plain link.
 
 Below is a summary of implemented data-sets for RokBox2.
 
-| data-set                         | Description
-|----------------------------------|-----------------------------------------------------------------------------------
-| `data-rokbox`                    | Triggers RokBox2 to identify an element as a RokBox2 link versus a regular link.
-| `data-rokbox-caption`            | Defines the caption of the link. It allows HTML syntax but needs to be converted to HTML entities ([more info][data-rokbox-caption])
-| `data-rokbox-album`              | Associates the link to an album. Many links with the same album will trigger navigation ([more info][data-rokbox-album])
-| `data-rokbox-element`            | Specifies the element in the DOM, through CSS-style selectors ([more info][data-rokbox-element])
-| `data-rokbox-generate-thumbnail` | Triggers RokBox2 to auto-generate a thumbnail, if the link is to a local image ([more info][data-rokbox-generate-thumbnail])
+| data-set                         | Description                                                                                                                          |  
+| :------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |  
+| `data-rokbox`                    | Triggers RokBox2 to identify an element as a RokBox2 link versus a regular link.                                                     |  
+| `data-rokbox-caption`            | Defines the caption of the link. It allows HTML syntax, but needs to be converted to HTML entities ([more info][data-rokbox-caption]) |  
+| `data-rokbox-album`              | Associates the link to an album. Many links with the same album will trigger navigation ([more info][data-rokbox-album])             |  
+| `data-rokbox-element`            | Specifies the element in the DOM, through CSS-style selectors ([more info][data-rokbox-element])                                     |  
+| `data-rokbox-generate-thumbnail` | Triggers RokBox2 to auto-generate a thumbnail, if the link is to a local image ([more info][data-rokbox-generate-thumbnail])         |  
 
 
 #### data-rokbox-caption
@@ -43,7 +43,7 @@ Below is a summary of implemented data-sets for RokBox2.
 The caption is an optional data-set and will be shown on the popup when the specified link gets triggered.
 
 If desired, a caption can also be written using HTML syntax, but it has to be converted into [HTML entities][html_entities] in order to work.  
-It is suggested not to abuse the HTML syntax in a caption, to prevent potential layout issues. The preferred HTML syntax one would use are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
+It is suggested not to abuse the HTML syntax in a caption to prevent potential layout issues. The preferred HTML syntax one would use are inline tags, such as `<strong>`, `<a>`, `<em>`, etc.
 
 Here are a couple of examples of a RokBox2 link with caption, both plain caption and HTML caption.
 
@@ -113,7 +113,7 @@ It is important to note that an element deep in the DOM might have specific styl
 } 
 ~~~
 
-Below is a screenshot of a real world example of `data-rokbox-element` usage. We are creating a RokBox2 link that opens the search form right into RokBox2. 
+Below is a screenshot of a real-world example of `data-rokbox-element` usage. We are creating a link that opens the search form right into RokBox2. 
 
 ![][rokbox2-data-element]
 
@@ -140,9 +140,9 @@ When you have a RokBox2 link pointing to a local image, setting the `data-rokbox
 <a data-rokbox data-rokbox-generate-thumbnail href="images/planes.jpg"></a>
 ~~~
 
-As can be noticed in the example above, we left the content of the `<a>` tag empty. Even if there was text written there, it would have been removed and replaced by RokBox2 with the auto-generated thumbnail.
+As shown in the example above, we left the content of the `<a>` tag empty. Even if there was text written there, it would have been removed and replaced by RokBox2 with the auto-generated thumbnail.
 
-The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page like in the screenshot below.
+The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page as seen in the screenshot below.
 
 ![][rokbox2-generated-thumb]
 

@@ -27,6 +27,7 @@ support: http://www.rockettheme.com/forum/
             * [Extension](demo_extension.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
+            * [Post](demo_post.md)
         * [Override Settings](demo_override.md)
     * [FAQ](faq.md)
 
