@@ -56,6 +56,22 @@ You can find more information about the entire override breakdown for both the f
 
 Widget Settings
 -----
+
+![][theme]
+
+:   1. **Navigation - Gantry Logo** [6%, 13%, se]
+	2. **Navigation - Gantry Menu** [6%, 53%, se]
+	3. **Slideshow - RokSprocket**  [12%, 11%, se]
+    4. **Feature - Text**  [31%, 11%, se]
+    5. **Utility - Text**  [40%, 11%, se]
+    6. **Utility - RokSprocket**  [45%, 11%, se]
+    7. **Footer - Text**  [76%, 11%, se]
+  	8. **Footer - Text**  [76%, 38%, se]
+    9. **Footer - Text**  [76%, 65%, se]
+    10. **Copyright - Gantry Copyright** [91%, 11%, se]
+    11. **Copyright - Gantry Social Buttons** [91%, 32%, se]
+    12. **Copyright - Gantry To Top** [91%, 66%, se]
+
 Like any Gantry theme, Fracture utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
@@ -90,3 +106,4 @@ One important thing to note here is that many of the widget sections included in
 [footer]: demo_footer.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
+[theme]: assets/fracture2.jpg
