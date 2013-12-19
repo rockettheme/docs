@@ -51,6 +51,7 @@ more:
 
 * Club Themes
 	
+	- [Praxis](themes/praxis)
 	- [Stratos](themes/stratos)
 	- [Hexeris](themes/hexeris)
 	- [Alerion](themes/alerion)
