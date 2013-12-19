@@ -34,7 +34,7 @@ All of these plugins are included with the Fresco RocketLauncher, and can be dow
 Recreating the Front Page
 -----
 
-The front page of the Fresco demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the blog. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Fresco theme.
+The front page of the Fresco demo sits apart from the rest of the page layouts in that it features the latest and greatest features used in the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Fresco theme.
 
 Theme Settings
 -----
