@@ -1,7 +1,7 @@
 ---
 title: Praxis: Recreating the Demo - Overrides
 description: Your Guide to Recreating Elements of the Praxis Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/Praxis:Praxis
+breadcrumb: /wordpress:WordPress/!themes:Themes/praxis:Praxis
 
 ---
 
@@ -18,66 +18,70 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override | Option                 | Setting                                    |  
 | :------- | :--------------------- | :----------------------------------------- |  
-| Default  | Logo                   | Praxis                                    |  
+| Default  | Logo                   | Preset 1                                   |  
 | Default  | Responsive Menu        | Panel                                      |  
-| Default  | Featured Image Size    | Width: 245, Height: 240, Position: Left    |  
-| Default  | Font Settings          | Font Family: Praxis, Font Size: Default   |  
+| Default  | Featured Image Size    | Width: 379, Height: 303, Position: Left    |  
+| Default  | Font Settings          | Font Family: Praxis, Font Size: Default    |  
 | Default  | Pagination             | Enabled: On, Show Count: On, Side Pages: 8 |  
 | Default  | Use WordPress Comments | On                                         |  
 | Default  | Custom CSS             | Blank                                      |  
 
 ### Gizmos
 
-| Override | Option                | Setting                      |  
-| :------- | :-------------------- | :--------------------------- |  
-| Default  | Page Suffix           | Enabled: Off, Class: Blank   |  
-| Default  | Feed Links            | On                           |  
-| Default  | Custom Title Tag      | Blank                        |  
-| Default  | Shortcodes in Widgets | On                           |  
-| Default  | RokStyle              | On                           |  
-| Default  | Google Analytics      | Enabled: Off, UA Code: Blank |  
+| Override   | Option                | Setting                      |  
+| :--------- | :-------------------- | :--------------------------- |  
+| Default    | Side Widget           | Off, Position: Inside Left   |  
+| Default    | Page Suffix           | Enabled: Off, Class: Blank   |  
+| Default    | Feed Links            | On                           |  
+| Default    | Custom Title Tag      | Blank                        |  
+| Default    | Shortcodes in Widgets | On                           |  
+| Default    | RokStyle              | On                           |  
+| Default    | Google Analytics      | Enabled: Off, UA Code: Blank |  
+| Front Page | Side Widget           | On, Position: Inside Left    |  
+| Front Page | Page Suffix           | menu-home                    |  
 
 ### Layouts
 
-| Override | Option               | Setting               |  
-| :------- | :------------------- | :-------------------- |  
-| Default  | Top Positions        | Positions: 4, 3:3:3:3 |  
-| Default  | Header Positions     | Positions: 3, 3:7:2   |  
-| Default  | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default  | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default  | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default  | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default  | MainBody Positions   | Positions: 2, 8:4     |  
-| Default  | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default  | Extension Positions  | Positions: 4, 3:3:3:3 |  
-| Default  | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default  | Footer Positions     | Positions: 3, 4:4:4   |  
-| Default  | Copyright Positions  | Positions: 3, 3:7:2   |  
-| Home     | MainBody Positions   | Positions: 2, 9:3     |  
-| Home     | Extension Positions  | Positions: 2, 8:4     |  
-| Home     | Footer Positions     | Positions: 2, 8:4     |  
+| Override   | Option               | Setting               |  
+| :--------- | :------------------- | :-------------------- |  
+| Default    | Top Positions        | Positions: 4, 3:3:3:3 |  
+| Default    | Navigation Positions | Positions: 3, 7:2:3   |  
+| Default    | Header Positions     | Positions: 2, 2:10    |  
+| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
+| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
+| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
+| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
+| Default    | MainBody Positions   | Positions: 2, 8:4     |  
+| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |  
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
+| Default    | Footer Positions     | Positions: 3, 4:4:4   |  
+| Default    | Copyright Positions  | Positions: 2, 6:6     |  
+| Front Page | Footer Positions     | Positions: 3, 4:4:4   |  
 
 ### Advanced
 
-| Override | Option                  | Setting                                     |  
-| :------- | :---------------------- | :------------------------------------------ |  
-| Default  | Layout Mode             | Responsive                                  |  
-| Default  | Maintenance Mode        | Off                                         |  
-| Default  | Load Transition         | Off                                         |  
-| Default  | Display Content         | On                                          |  
-| Default  | Display Mainbody        | On                                          |  
-| Default  | RTL Support             | On                                          |  
-| Default  | Disable Auto Paragraphs | Enabled: On, Content Type: Both             |  
-| Default  | Disable Texturize       | Off                                         |  
-| Default  | Selectivizr             | Off                                         |  
-| Default  | Less Compiler           | CSS Compression: On, Compile: 2, Debug: Off |  
-| Default  | IE7 Redirect            | On                                          |  
+| Override   | Option                  | Setting                                     |  
+| :--------- | :---------------------- | :------------------------------------------ |  
+| Default    | Layout Mode             | Responsive                                  |  
+| Default    | Maintenance Mode        | Off                                         |  
+| Default    | Load Transition         | Off                                         |  
+| Default    | Display Content         | On                                          |  
+| Default    | Display Mainbody        | On                                          |  
+| Default    | RTL Support             | On                                          |  
+| Default    | Disable Auto Paragraphs | Enabled: On, Content Type: Both             |  
+| Default    | Disable Texturize       | Off                                         |  
+| Default    | Selectivizr             | Off                                         |  
+| Default    | Less Compiler           | CSS Compression: On, Compile: 2, Debug: Off |  
+| Default    | IE7 Redirect            | On                                          |  
+| Front Page | Display Mainbody        | Off                                         |  
+
 
 ### Assignments
 
 | Override   | Option              | Setting               |  
 | :--------- | :------------------ | :-------------------- |  
-| Front Page | Template Page Types | Home Page, Front Page |  
+| Front Page | Template Page Types | Front Page            |  
 
 [demo]: assets/Praxis2.jpeg
 [menu]: ../../start/menu.md
