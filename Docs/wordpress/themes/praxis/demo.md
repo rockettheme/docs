@@ -45,9 +45,7 @@ It would be a good idea for organization to name this layout override something 
 
 The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the page you wish to use as the home page. Under the **Template Page Types** list, you will want to select your desired page.
 
-Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
-
->> Under the administrative area, you can check you site's home page settings by navigating to **Settings -> Reading** and making sure that **Your latest posts** is selected. This is the setting we use for the demo content's home page as it does not require the creation of a static page.
+Doing this will assign the override to this page. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [override portion][demooverride] of this tutorial.
 

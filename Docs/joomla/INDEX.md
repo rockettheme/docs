@@ -63,6 +63,7 @@ more:
 	- [Diametric](templates/diametric)
 	- [Ionosphere](templates/ionosphere)
 	- [Clarion](templates/clarion)
+	- [Halcyon](templates/halcyon)
 
 <!-- -->
 
@@ -109,6 +110,7 @@ more:
 	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
 	- [How to Create Responsive Content](basic/creating_responsive_content.md)
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
+	- [Frequently Asked Questions](basic/faq.md)
 
 <!-- -->
 

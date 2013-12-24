@@ -22,3 +22,4 @@ breadcrumb: /joomla:Joomla/!basic:Basic
 	* [How to Use Responsive Support Classes](responsive_support_classes.md)
 	* [How to Create Responsive Content](creating_responsive_content.md)
 	* [K2 Styling Guide](k2_styling_guide.md)
+* [Joomla FAQ](faq.md)

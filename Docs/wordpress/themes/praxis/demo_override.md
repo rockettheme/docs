@@ -79,9 +79,9 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Assignments
 
-| Override   | Option              | Setting               |  
-| :--------- | :------------------ | :-------------------- |  
-| Front Page | Template Page Types | Front Page            |  
+| Override   | Option | Setting    |  
+| :--------- | :----- | :--------- |  
+| Front Page | Page   | Front Page |  
 
 [demo]: assets/Praxis2.jpeg
 [menu]: ../../start/menu.md
