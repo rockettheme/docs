@@ -23,6 +23,8 @@ more:
 
 * Club Styles
 
+	- [Paradigm](styles/paradigm)
+	- [Spectral](styles/spectral)
 	- [Acacia](styles/acacia)
 	- [Corvus](styles/corvus)
 	- [Praxis](styles/praxis)
