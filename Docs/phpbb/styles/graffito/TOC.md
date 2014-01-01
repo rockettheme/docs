@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!graffito:Graffito/
 
+details: http://rockettheme.com/phpbb/styles/graffito
+demo: http://demo.rockettheme.com/phpbb/graffito/
+download: rockettheme.com/joomla/phpbb/styles/graffito/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Graffito

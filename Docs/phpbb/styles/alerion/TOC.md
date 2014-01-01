@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!alerion:Alerion/
 
+details: http://rockettheme.com/phpbb/styles/alerion
+demo: http://demo.rockettheme.com/phpbb/alerion/
+download: rockettheme.com/joomla/phpbb/styles/alerion/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Alerion

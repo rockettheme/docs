@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!ximenia:Ximenia/
 
+details: http://rockettheme.com/phpbb/styles/ximenia
+demo: http://demo.rockettheme.com/phpbb/ximenia/
+download: rockettheme.com/joomla/phpbb/styles/ximenia/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Ximenia

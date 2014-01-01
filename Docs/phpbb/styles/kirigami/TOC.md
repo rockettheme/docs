@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!kirigami:Kirigami/
 
+details: http://rockettheme.com/phpbb/styles/kirigami
+demo: http://demo.rockettheme.com/phpbb/kirigami/
+download: rockettheme.com/joomla/phpbb/styles/kirigami/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Kirigami

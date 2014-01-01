@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!halcyon:Halcyon/
 
+details: http://rockettheme.com/phpbb/styles/halcyon
+demo: http://demo.rockettheme.com/phpbb/halcyon/
+download: rockettheme.com/joomla/phpbb/styles/halcyon/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Halcyon

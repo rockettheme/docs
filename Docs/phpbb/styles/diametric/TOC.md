@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!diametric:Diametric/
 
+details: http://rockettheme.com/phpbb/styles/diametric
+demo: http://demo.rockettheme.com/phpbb/diametric/
+download: rockettheme.com/joomla/phpbb/styles/diametric/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Diametric

@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!fracture:Fracture/
 
+details: http://rockettheme.com/phpbb/styles/fracture
+demo: http://demo.rockettheme.com/phpbb/fracture/
+download: rockettheme.com/joomla/phpbb/styles/fracture/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Fracture

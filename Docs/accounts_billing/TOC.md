@@ -19,3 +19,5 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	* Affiliates
 		* [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
 		* [Affiliate Guidelines](affiliates.md)
+* RocketTheme Site Guides
+	* [Purchasing Guide](purchase.md)

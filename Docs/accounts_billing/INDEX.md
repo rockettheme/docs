@@ -11,7 +11,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	- [Membership Guide](membership.md)
 	- [Benefits](membership.md#membership-benefits)
 	- [Restrictions](membership.md#membership-restrictions)
-	- [Entitlements](membership.md#entitlements)
+	- [Site Licenses](site_licenses.md)
 	- [Non-Profits](membership.md#non-profits)
 	- [Club Vs. Single Template Purchases](comparisons.md)
 
@@ -29,3 +29,9 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	- [Affiliate Guidelines](affiliates.md#affiliate-guidelines)
 	- [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
 	- [Benefits of Being an Affiliate](affiliates.md#benefits-of-being-an-affiliate)
+
+<!-- -->
+
+* RocketTheme Site Guides
+
+	- [Purchasing Guide](purchase.md)

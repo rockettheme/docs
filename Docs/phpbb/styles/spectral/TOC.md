@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!spectral:Spectral/
 
+details: http://rockettheme.com/phpbb/styles/spectral
+demo: http://demo.rockettheme.com/phpbb/spectral/
+download: rockettheme.com/joomla/phpbb/styles/spectral/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Spectral

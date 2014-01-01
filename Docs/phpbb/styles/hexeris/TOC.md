@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!hexeris:Hexeris/
 
+details: http://rockettheme.com/phpbb/styles/hexeris
+demo: http://demo.rockettheme.com/phpbb/hexeris/
+download: rockettheme.com/joomla/phpbb/styles/hexeris/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Hexeris

@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!praxis:Praxis/
 
+details: http://rockettheme.com/phpbb/styles/praxis
+demo: http://demo.rockettheme.com/phpbb/praxis/
+download: rockettheme.com/joomla/phpbb/styles/praxis/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Praxis

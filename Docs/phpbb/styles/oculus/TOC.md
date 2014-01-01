@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!oculus:Oculus/
 
+details: http://rockettheme.com/phpbb/styles/oculus
+demo: http://demo.rockettheme.com/phpbb/oculus/
+download: rockettheme.com/joomla/phpbb/styles/oculus/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Oculus

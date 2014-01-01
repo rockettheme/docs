@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!clarion:Clarion/
 
+details: http://rockettheme.com/phpbb/styles/clarion
+demo: http://demo.rockettheme.com/phpbb/clarion/
+download: rockettheme.com/joomla/phpbb/styles/clarion/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Clarion

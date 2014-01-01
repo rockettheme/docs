@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!paradigm:Paradigm/
 
+details: http://rockettheme.com/phpbb/styles/paradigm
+demo: http://demo.rockettheme.com/phpbb/paradigm/
+download: rockettheme.com/joomla/phpbb/styles/paradigm/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Paradigm

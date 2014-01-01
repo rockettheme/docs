@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!leviathan:Leviathan/
 
+details: http://rockettheme.com/phpbb/styles/leviathan
+demo: http://demo.rockettheme.com/phpbb/leviathan/
+download: rockettheme.com/joomla/phpbb/styles/leviathan/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Leviathan

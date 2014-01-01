@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!stratos:Stratos/
 
+details: http://rockettheme.com/phpbb/styles/stratos
+demo: http://demo.rockettheme.com/phpbb/stratos/
+download: rockettheme.com/joomla/phpbb/styles/stratos/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Stratos

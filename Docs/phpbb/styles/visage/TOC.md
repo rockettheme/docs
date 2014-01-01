@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!visage:Visage/
 
+details: http://rockettheme.com/phpbb/styles/visage/
+demo: http://demo.rockettheme.com/phpbb/visage/
+download: rockettheme.com/joomla/phpbb/styles/visage/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Visage

@@ -2,6 +2,11 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!cerulean:Cerulean/
 
+details: http://rockettheme.com/phpbb/styles/cerulean
+demo: http://demo.rockettheme.com/phpbb/cerulean/
+download: rockettheme.com/joomla/phpbb/styles/cerulean/modal/downloads
+support: http://www.rockettheme.com/forum/
+
 ---
 
 * Cerulean
