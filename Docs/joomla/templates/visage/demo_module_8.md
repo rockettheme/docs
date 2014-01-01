@@ -1,48 +1,38 @@
 ---
-title: Visage: Recreating the Demo - Other Menu Options
+title: Visage: Recreating the Demo - Gantry Framework: Power at your Fingertips
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-Other Menu Options
+Gantry Framework: Power at your Fingertips
 -----
 
 ![][demo]
 
-:   1. **mod_custom** [15%, 6%, se]
-
-This area of the front page is a series of three **mod_custom** modules. You will find the settings used in our demo below. In this example, we're focusing on the first module in this set, **Other Menu Options**.
+This area of the front page is a series of three **mod_custom** modules. You will find the settings used in our demo below. In this example, we're focusing on the first module in this set, **Gantry Framework: Power at your Fingertips**.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
 ![][demo2]
 
-| Option     | Setting              |  
-| :--------- | :------------------- |  
-| Title      | `Other Menu Options` |  
-| Show Title | Show                 |  
-| Position   | extension-a          |  
-| Status     | Published            |  
-| Access     | Public               |  
+| Option     | Setting                                      |  
+| :--------- | :------------------------------------------- |  
+| Title      | `Gantry Framework: Power at your Fingertips` |  
+| Show Title | Show                                         |  
+| Position   | bottom-a                                     |  
+| Status     | Published                                    |  
+| Access     | Public                                       |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<div class="fp-side largepaddingbottom largemarginbottom">
-    <img src="images/stories/demo/frontpage/ex1.jpg" width="110" height="82" alt="image" class="rt-image floatleft"/>
-    <span><strong>SplitMenu</strong></span><br />
-    <span>A basic, horizontal <em>dropline</em> menu system, with configurable options such as <em>suffix</em> and position.</span>
-    <div class="clear"></div>
-</div>
-<div>
-    <img src="images/stories/demo/frontpage/ex2.jpg" width="110" height="82" alt="image" class="rt-image floatleft"/>
-    <span><strong>Fusion with MegaMenu</strong></span><br />
-    <span>A <em>Mootools</em> enhanced, CSS <em>dropdown</em> menu, with animated dropdowns, column width/allocation control plus much more.</span>
-    <div class="clear"></div>
-</div>
+<img src="images/stories/demo/frontpage/fp-bottom1.jpg" width="180" height="120" alt="image" class="rt-image floatleft"/>
+<p><strong>Gantry</strong> is the core Framework that <strong>powers</strong> the major template features and functions, <strong>standardized</strong> in a standalone platform.</p>
+<p>Principal features include the <strong>advanced</strong> administrator interface, plus <strong>mobile</strong> viewing support for <strong>iPhone/Android</strong>.</p>
+<a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=108" class="readon"><span>Read More</span></a>
 ~~~
 
 ### Basic
@@ -56,11 +46,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Option              | Setting                                 |  
+| :------------------ | :-------------------------------------- |  
+| Module Class Suffix | `title1 nomarginbottom nopaddingbottom` |  
 
-[demo]: assets/demo_8.jpeg
-[demo2]: assets/other_1.jpeg
-[demo3]: assets/other_2.jpeg
-[demo4]: assets/other_3.jpeg
+[demo]: assets/demo_12.jpeg
+[demo2]: assets/gantry_1.jpeg
+[demo3]: assets/gantry_2.jpeg
+[demo4]: assets/gantry_3.jpeg

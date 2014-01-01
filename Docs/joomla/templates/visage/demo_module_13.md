@@ -1,16 +1,16 @@
 ---
-title: Visage: Recreating the Demo - FP Footer A
+title: Visage: Recreating the Demo - Network with Us
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-FP Footer A
+Network with Us
 -----
 
 ![][demo]
 
-:   1. **mod_custom** [40%, 7%, se]
+:   1. **mod_custom** [20%, 75%, se]
 
 This area of the front page is a series of four **mod_custom** modules. For this example, we have detailed the first of these modules. You will find the settings used in our demo below.
 
@@ -19,19 +19,29 @@ This area of the front page is a series of four **mod_custom** modules. For this
 ### Details
 ![][demo2]
 
-| Option     | Setting              |  
-| :--------- | :------------------- |  
-| Title      | `FP Footer A`        |  
-| Show Title | Hide                 |  
-| Position   | footer-a             |  
-| Status     | Published            |  
-| Access     | Public               |  
+| Option     | Setting           |  
+| :--------- | :---------------- |  
+| Title      | `Network with Us` |  
+| Show Title | Hide              |  
+| Position   | footer-d          |  
+| Status     | Published         |  
+| Access     | Public            |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<span class="text-icon phone smallmarginbottom">+1 (555) 555-5555 / 5556</span>
+<p>Connect with us via a selection of popular social media, networks and other platforms.</p>
+<div class="fp-icon floatleft"><a href="#"><img src="images/stories/demo/frontpage/icon1.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft"><a href="#"><img src="images/stories/demo/frontpage/icon2.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft"><a href="#"><img src="images/stories/demo/frontpage/icon3.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft nomarginright"><a href="#"><img src="images/stories/demo/frontpage/icon4.png" alt="icon" /></a></div>
+<div class="clear"></div>
+<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="images/stories/demo/frontpage/icon5.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="images/stories/demo/frontpage/icon6.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="images/stories/demo/frontpage/icon7.png" alt="icon" /></a></div>
+<div class="fp-icon floatleft nomarginright nomarginbottom"><a href="#"><img src="images/stories/demo/frontpage/icon8.png" alt="icon" /></a></div>
+<div class="clear"></div>
 ~~~
 
 ### Basic
@@ -45,11 +55,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix |          |  
+| Option              | Setting          |  
+| :------------------ | :--------------- |  
+| Module Class Suffix | `nomarginbottom` |  
 
-[demo]: assets/demo_10.jpeg
-[demo2]: assets/footer_1.jpeg
-[demo3]: assets/footer_2.jpeg
-[demo4]: assets/footer_3.jpeg
+[demo]: assets/demo_14.jpeg
+[demo2]: assets/network_1.jpeg
+[demo3]: assets/network_2.jpeg
+[demo4]: assets/network_3.jpeg

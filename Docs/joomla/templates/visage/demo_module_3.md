@@ -1,65 +1,58 @@
 ---
-title: Visage: Recreating the Demo - RokAjaxSearch
+title: Visage: Recreating the Demo - Content Bottom A
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-RokAjaxSearch
+Content Bottom A
 -----
 
 ![][demo]
 
-:   1. **RokAjaxSearch** [37%, 52%, se]
+:   1. **mod_custom** [19%, 8%, se]
 
-The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
+This area of the front page is a series of two **mod_custom** modules. You will find the settings used in our demo below. In this example, we're focusing on the first module in this set.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
 ![][demo2]
 
-| Option            | Setting            |  
-| :---------------- | :----------------- |  
-| Title             | `RokAjaxSearch`    |  
-| Show Title        | Hide               |  
-| Position          | header-b           |  
-| Status            | Published          |  
-| Access            | Public             |  
+| Option     | Setting                     |  
+| :--------- | :-------------------------- |  
+| Title      | `FP CTB A`                  |  
+| Show Title | Hide                        |  
+| Position   | content-bottom-a            |  
+| Status     | Published                   |  
+| Access     | Public                      |  
 
-### Layout Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~ .html
+<p><strong>Fusion with MegaMenu</strong>, is a javascript enhanced CSS <strong>dropdown</strong> menu, with configurable features such as <strong>menu icons</strong>.</p>
+<a href="index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=115" class="readon"><span>Read More</span></a>
+~~~
+
+### Basic
+
 ![][demo3]
 
-| Option                            | Setting                                                 |  
-| :-------------------------------- | :------------------------------------------------------ |  
-| Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component`|  
-| Advanced Search Page URL          | `index.php?option=com_search&view=search`               |  
-| Include RokAjaxSearch default CSS | No                                                      |  
-| Theme Style                       | Dark                                                    |  
-| Searchphrase                      | Any words                                               |  
-| Ordering                          | Newest First                                            |  
-| Limit                             | 10                                                      |  
-| Results Per Page                  | 3                                                       |  
-| Google Web Search                 | Yes                                                     |  
-| Google Blog Search                | No                                                      |  
-| Google Images Search              | Yes                                                     |  
-| Google Videos Search              | No                                                      |  
-| Show Pagination                   | Yes                                                     |  
-| Google SafeSearch                 | Moderate                                                |  
-| Image Size to Search              | Medium                                                  |  
-| Show Estimated                    | Yes                                                     |  
-| Hide div id(s)                    | Blank                                                   |  
-| Link to All Results               | Yes                                                     |  
-| Show Description                  | Yes                                                     |  
-| Include (Category/Section)        | Yes                                                     |  
-| Show Read More Link               | Yes                                                     |  
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
 ### Advanced
+
 ![][demo4]
 
-| Option              | Setting |  
-| :------------------ | :------ |  
-| Module Class Suffix |         |  
+| Option              | Setting      |  
+| :------------------ | :----------- |  
+| Module Class Suffix | `box2 icon1` |  
 
-[demo]: assets/demo_1.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+[demo]: assets/demo_11.jpeg
+[demo2]: assets/ctba_1.jpeg
+[demo3]: assets/ctba_2.jpeg
+[demo4]: assets/ctba_3.jpeg

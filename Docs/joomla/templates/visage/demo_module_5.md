@@ -1,15 +1,14 @@
 ---
-title: Visage: Recreating the Demo - FP Feature A
+title: Visage: Recreating the Demo - 12 Preset Styles
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-FP Feature A
+12 Preset Styles
 -----
-![][demo]
 
-:   1. **mod_custom** [16%, 7%, se]
+![][demo]
 
 This area of the front page is a series of four **mod_custom** modules. You will find the settings used in our demo below. In this example, we're focusing on the first module in this set, **FP Feature A**.
 
@@ -18,23 +17,22 @@ This area of the front page is a series of four **mod_custom** modules. You will
 ### Details
 ![][demo2]
 
-| Option     | Setting        |  
-| :--------- | :------------- |  
-| Title      | `FP Feature A` |  
-| Show Title | Show           |  
-| Position   | feature-a      |  
-| Status     | Published      |  
-| Access     | Public         |  
-| Language   | All            |  
-| Note       | Blank          |  
+| Option     | Setting            |  
+| :--------- | :----------------- |  
+| Title      | `12 Preset Styles` |  
+| Show Title | Show               |  
+| Position   | sidebar-a          |  
+| Status     | Published          |  
+| Access     | Public             |  
+| Language   | All                |  
+| Note       | Blank              |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p><img src="images/stories/demo/frontpage/ft1.jpg" alt="image" width="182" height="135" class="rt-image" /></p>
-<div class="module-title"><h2 class="title">Ecwid Styling</h2></div>
-<p class="nomarginbottom">A <strong>free</strong> and popular third party <strong>ecommerce</strong> extension.</p>
+<p>A selection of twelve configurable style variations, each with stunning, sophisticated and refined graphics.</p>
+<a href="index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=117" class="readon"><span>More Information</span></a>
 ~~~
 
 ### Basic
@@ -48,11 +46,11 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Option              | Setting          |  
+| :------------------ | :--------------- |  
+| Module Class Suffix | `box1 rt-center` |  
 
-[demo]: assets/demo_4.jpeg
-[demo2]: assets/feature_1.jpeg
-[demo3]: assets/feature_2.jpeg
-[demo4]: assets/feature_3.jpeg
+[demo]: assets/demo_9.jpeg
+[demo2]: assets/twelve_1.jpeg
+[demo3]: assets/twelve_2.jpeg
+[demo4]: assets/twelve_3.jpeg

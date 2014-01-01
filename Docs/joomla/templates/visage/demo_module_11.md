@@ -1,16 +1,16 @@
 ---
-title: Visage: Recreating the Demo - FP Bottom A
+title: Visage: Recreating the Demo - Contact us
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-FP Bottom A
+Contact us
 -----
 
 ![][demo]
 
-:   1. **mod_custom** [20%, 7%, se]
+:   1. **mod_custom** [20%, 22%, se]
 
 This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
@@ -19,54 +19,31 @@ This area of the front page is a **mod_custom** module. You will find the settin
 ### Details
 ![][demo2]
 
-| Option     | Setting              |  
-| :--------- | :------------------- |  
-| Title      | `FP Bottom A`        |  
-| Show Title | Show                 |  
-| Position   | bottom-a          |  
-| Status     | Published            |  
-| Access     | Public               |  
+| Option     | Setting      |  
+| :--------- | :----------- |  
+| Title      | `Contact Us` |  
+| Show Title | Show         |  
+| Position   | footer-b     |  
+| Status     | Published    |  
+| Access     | Public       |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<div class="floatleft">
-    <div class="smallmarginbottom"><em class="bold nobold">Products</em></div>
-    <ul class="dots nomarginbottom">
-        <li><a href="#"><em class="nobold normal">Laptops</em></a></li>
-        <li><a href="#"><em class="nobold normal">Desktop PC</em></a></li>
-        <li><a href="#"><em class="nobold normal">Printers</em></a></li>
-        <li class="nomarginbottom"><a href="#"><em class="nobold normal">Tablets</em></a></li>
-    </ul>
-</div>
-<div class="floatleft largemarginleft">
-    <div class="smallmarginbottom">&nbsp;</div>
-    <ul class="dots nomarginbottom">
-        <li><a href="#"><em class="nobold normal">Monitors</em></a></li>
-        <li><a href="#"><em class="nobold normal">Keyboards</em></a></li>
-        <li><a href="#"><em class="nobold normal">Speakers</em></a></li>
-        <li class="nomarginbottom"><a href="#"><em class="nobold normal">Cameras</em></a></li>
-    </ul>
-</div>
-<div class="floatleft largemarginleft">
-    <div class="smallmarginbottom">&nbsp;</div>
-    <ul class="dots nomarginbottom">
-        <li><a href="#"><em class="nobold normal">Storage</em></a></li>
-        <li><a href="#"><em class="nobold normal">Phones</em></a></li>
-        <li><a href="#"><em class="nobold normal">Accessories</em></a></li>
-        <li class="nomarginbottom"><a href="#"><em class="nobold normal">Seasonal</em></a></li>
-    </ul>
-</div>
-<div class="floatleft nomarginright largemarginleft">
-    <div class="smallmarginbottom">&nbsp;</div>
-    <ul class="dots nomarginbottom">
-        <li><a href="#"><em class="nobold normal">Delivery</em></a></li>
-        <li><a href="#"><em class="nobold normal">Refunds</em></a></li>
-        <li><a href="#"><em class="nobold normal">Careers</em></a></li>
-        <li class="nomarginbottom"><a href="#"><em class="nobold normal">Sitemap</em></a></li>
-    </ul>
-</div>
+<em class="bold nobold">
+<span>1234 South Street</span>
+<br />
+<span>San Francisco CA 00000</span>
+<br />
+<span>United States</span>
+<br /><br />
+<span>T +1 (555) 555-555</span>
+<br />
+<span>F +1 (555) 555-555</span>
+<br />
+<a href="#">help/@rockettheme.com</a>
+</em>
 ~~~
 
 ### Basic
@@ -84,7 +61,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------- |  
 | Module Class Suffix |          |  
 
-[demo]: assets/demo_9.jpeg
-[demo2]: assets/bottom_1.jpeg
-[demo3]: assets/bottom_2.jpeg
-[demo4]: assets/bottom_3.jpeg
+[demo]: assets/demo_14.jpeg
+[demo2]: assets/contact_1.jpeg
+[demo3]: assets/contact_2.jpeg
+[demo4]: assets/contact_3.jpeg

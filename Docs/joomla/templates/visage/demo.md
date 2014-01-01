@@ -25,35 +25,35 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Visage]
 
-:   1. **Top Menu**  [5%, 21%, se]
-    2. **Sample Cart**  [5%, 70%, se]
-    3. **RokAjaxSearch**  [8%, 52%, se]
-    4. **FP Showcase A**  [27%, 28%, se]
-    5. **FP Feature A**  [30%, 21%, se]
-    6. **Top Sellers** [40%, 20%, se]
-    7. **Individual Module Styling** [64%, 21%, se]
-    8. **Other Menu Options** [71%, 21%, se]
-    9. **Tutorials** [71%, 47%, se]
-    10. **Promotion** [71%, 63%, se]
-    11. **FP Bottom A** [82%, 21%, se]
-    12. **Demo Information** [82%, 62%, se]
-    13. **FP Footer A** [90%, 21%, se]
+:   1. **Header Content**  [13%, 28%, se]
+    2. **RokGallery Slideshow**  [16%, 28%, se]
+    3. **Content Bottom A**  [59%, 20%, se]
+    4. **Member Login** [35%, 78%, sw]
+    5. **12 Preset Styles** [45%, 78%, sw]
+    6. **RocketLauncher - Quick Demo Replica** [55%, 78%, sw]
+    7. **Module Suffixes - Unique Variations** [61%, 78%, sw]
+    8. **Gantry Framework: Power at your Fingertips** [68%, 20%, se]
+    9. **PNG Sources** [82%, 78%, sw]
+    10. **Site Map** [82%, 62%, se]
+    11. **Contact Us** [90%, 21%, se]
+    12. **Demo Information** [80%, 80%, se]
+    13. **Network with Us** [85%, 85%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
-1. [Top Menu][module1]
-2. [Sample Cart][module2]
-3. [RokAjaxSearch][module3]
-4. [FP Showcase A][module4]
-5. [FP Feature A][module5]
-6. [Top Sellers][module6]
-7. [Individual Module Styling][module7]
-8. [Other Menu Options][module8]
-9. [Tutorials][module9]
-10. [Promotion][module10]
-11. [FP Bottom A][module11]
+1. [Header Content][module1]
+2. [RokGallery Slideshow][module2]
+3. [Content Bottom A][module3]
+4. [Member Login][module4]
+5. [12 Preset Styles][module5]
+6. [RocketLauncher - Quick Demo Replica][module6]
+7. [Module Suffixes - Unique Variations][module7]
+8. [Gantry Framework: Power at your Fingertips][module8]
+9. [PNG Sources][module9]
+10. [Site Map][module10]
+11. [Contact Us][module11]
 12. [Demo Information][module12]
-13. [FP Footer A][module13]
+13. [Network With Us][module13]
 
 Recommended Extensions
 -----
@@ -68,7 +68,6 @@ Here is a list of RocketTheme extensions used to create the demo version of Visa
 * [RokCandy][rokcandy]
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
-* [RokEcwid][rokecwid]
 
 All of these extensions are included with the Visage RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
@@ -101,7 +100,7 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `feb12-home`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `dec11-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
@@ -131,4 +130,3 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [mainmenu]: assets/menu_1.jpg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [article]: assets/article.jpg
-[rokecwid]: http://kb.ecwid.com/w/page/15853297/Joomla#Installation

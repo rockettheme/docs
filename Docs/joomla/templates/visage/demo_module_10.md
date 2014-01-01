@@ -1,56 +1,51 @@
 ---
-title: Visage: Recreating the Demo - Promotion
+title: Visage: Recreating the Demo - Site Map
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-Promotion
+Site Map
 -----
 
 ![][demo]
 
-:   1. **mod_custom** [15%, 68%, se]
+:   1. **menu** [18%, 6%, se]
 
-This area of the front page is a series of three **mod_custom** modules. You will find the settings used in our demo below. In this example, we're focusing on the third module in this set, **Promotion**.
-
->> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+This area of the front page is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
+
 ![][demo2]
 
-| Option     | Setting              |  
-| :--------- | :------------------- |  
-| Title      | `Promotion`          |  
-| Show Title | Show                 |  
-| Position   | extension-b          |  
-| Status     | Published            |  
-| Access     | Public               |  
+| Option     | Setting    |  
+| :--------- | :--------- |  
+| Title      | `Site Map` |  
+| Show Title | Show       |  
+| Position   | footer-a   |  
+| Status     | Published  |  
+| Access     | Public     |  
 
-### Custom Output
-Enter the following in the **Custom Output** text editor.
+### Basic Options
 
-~~~
-<p><img src="images/stories/demo/frontpage/ex3.jpg" alt="image" width="240" height="180" class="rt-image" /></p>
-<span class="rt-upper">Advertisement</span>
-~~~
-
-### Basic
 ![][demo3]
-
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
-
-### Advanced
-![][demo4]
 
 | Option              | Setting  |  
 | :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Select Menu         | Bottom Menu |  
+| Start Level         | 1        |  
+| End Level           | All      |  
+| Show Sub-menu Items | No       |  
 
-[demo]: assets/demo_8.jpeg
-[demo2]: assets/promotion_1.jpeg
-[demo3]: assets/promotion_2.jpeg
-[demo4]: assets/promotion_3.jpeg
+### Advanced Options
+
+![][demo4]
+
+| Option              | Setting           |  
+| :------------------ | :---------------- |  
+| Module Class Suffix | `footermenu` |  
+
+[demo]: assets/demo_14.jpeg
+[demo2]: assets/sitemap_1.jpeg
+[demo3]: assets/sitemap_2.jpeg
+[demo4]: assets/sitemap_3.jpeg

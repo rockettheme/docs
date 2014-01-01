@@ -1,51 +1,56 @@
 ---
-title: Visage: Recreating the Demo - Top Menu
+title: Visage: Recreating the Demo - Header Content
 description: Your Guide to Recreating Elements of the Visage Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/visage:Visage
 
 ---
 
-Top Menu
+Header Content
 -----
 
 ![][demo]
 
-:   1. **menu** [18%, 6%, se]
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
-This area of the front page is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
 
 ![][demo2]
 
-| Option     | Setting    |  
-| :--------- | :--------- |  
-| Title      | `Top Menu` |  
-| Show Title | Hide       |  
-| Position   | top-a      |  
-| Status     | Published  |  
-| Access     | Public     |  
+| Option     | Setting           |  
+| :--------- | :---------------- |  
+| Title      | `FP Header A`     |  
+| Show Title | Hide              |  
+| Position   | header-a          |  
+| Status     | Published         |  
+| Access     | Public            |  
 
-### Basic Options
+### Custom Output
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<span>A contemporary blend of vibrant and engaging visuals, mixed with a subtle, polished undertone of powerful functions and features.</span>
+~~~
+
+### Basic
 
 ![][demo3]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Select Menu         | Top Menu |  
-| Start Level         | 1        |  
-| End Level           | All      |  
-| Show Sub-menu Items | No       |  
+| Option                    | Setting |  
+| :------------------------ | :------ |  
+| Prepare Content           | Yes     |  
+| Select a Background Image | Blank   |
 
-### Advanced Options
+### Advanced
 
 ![][demo4]
 
-| Option              | Setting           |  
-| :------------------ | :---------------- |  
-| Module Class Suffix | `horizmenu flush` |  
+| Option              | Setting                                |  
+| :------------------ | :------------------------------------- |  
+| Module Class Suffix | `intro nomarginbottom nopaddingbottom` |  
 
-[demo]: assets/demo_1.jpeg
-[demo2]: assets/topmenu_1.jpeg
-[demo3]: assets/topmenu_2.jpeg
-[demo4]: assets/topmenu_3.jpeg
+[demo]: assets/demo_3.jpeg
+[demo2]: assets/headera_1.jpeg
+[demo3]: assets/headera_2.jpeg
+[demo4]: assets/headera_3.jpeg
