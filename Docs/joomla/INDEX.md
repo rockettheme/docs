@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 	
+	- [Hadron](templates/hadron)
 	- [Paradigm](templates/paradigm)
 	- [Spectral](templates/spectral)
 	- [Acacia](templates/acacia)
@@ -64,6 +65,7 @@ more:
 	- [Ionosphere](templates/ionosphere)
 	- [Clarion](templates/clarion)
 	- [Halcyon](templates/halcyon)
+	- [Visage](templates/visage)
 
 <!-- -->
 
