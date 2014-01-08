@@ -17,13 +17,15 @@ Another option would be to go to **Admin -> Extensions -> Extensions Manager** a
 
 Make sure you have cleared your Joomla and browser cache before refreshing your site. The steps for doing this are listed below.
 
-* In **Joomla 2.5**, go to your **Admin -> Site -> Maintenance -> Clear Cache**.
-* In **Joomla 3.x**, go to your **Admin -> System -> Clear Cache**.
-* In **Firefox**, go to **Admin -> History -> Clear Recent History**.
-* In **Chrome**, go to **Admin -> Chrome -> Clear Browsing Data**.
-* In **Safari**, go to **Admin -> Develop -> Empty Caches**.
-* In **Opera**, go to **Admin -> Opera -> Delete Private Data**.
-* In **IE**, go to **Admin -> Settings -> Safety -> Delete Browsing History**.
+| **Platform** | **Steps**                                              |  
+| :----------- | :----------------------------------------------------- |  
+| Joomla 2.5   | Admin -> Site -> Maintenance -> Clear Cache            |  
+| Joomla 3.x   | Admin -> System -> Clear Cache                         |  
+| Firefox      | Admin -> System -> Clear Cache                         |  
+| Chrome       | Admin -> Chrome -> Clear Browsing Data                 |  
+| Safari       | Admin -> Develop -> Empty Caches                       |  
+| Opera        | Admin -> Opera -> Delete Private Data                  |  
+| IE           | Admin -> Settings -> Safety -> Delete Browsing History |  
 
 For more browsers and mobile browsers, see [this link][link].
 

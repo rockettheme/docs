@@ -5,6 +5,8 @@ breadcrumb: /!hosting:Hosting Help/
 ---
 
 * Hosting Help
+	* [How to Find a Good Provider](finding_hosting.md)
+	* [Recommended Providers](hosting_providers.md)
 	* [Joomla Guide](joomla.md)
 		* [Hosting Options](joomla.md#hosting-options)
 		* [Windows Vs. Linux](joomla.md#windows-vs-linux)
