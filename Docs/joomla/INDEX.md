@@ -67,6 +67,7 @@ more:
 	- [Halcyon](templates/halcyon)
 	- [Visage](templates/visage)
 	- [Enigma](templates/enigma)
+	- [Momentum](templates/momentum)
 
 <!-- -->
 

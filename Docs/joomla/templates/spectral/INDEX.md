@@ -68,7 +68,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 Spectral has configurable header backgrounds, behind the showcase area. Choose between 8 preset images or a custom background. The backgrounds sit behind the exquisite transparent design of the template.
 
 [gantry]: http://www.gantry-framework.org/
-[Spectral]: assets/Spectral2.jpeg
+[Spectral]: assets/spectral2.jpeg
 [responsive]: assets/responsive.jpg
 [filezilla]: https://filezilla-project.org
 [launcher]: ../../start/rocketlauncher.md
