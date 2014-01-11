@@ -27,10 +27,6 @@ Link
 
 The link is the only **required** field that needs to be filled out. It could be a local image, a YouTube video, a remote URL, or anything that [RokBox 2 supports][key-features].
 
-The link field also provides an image picker. On the right side of the input field you can click the icon to pick an image from the WordPress Media Manager.
-
->> By default, WordPress Media Manager loads images from `images/`. This can be changed from **Content -> Media Manager -> Options**.
-
 
 DOM Element
 -----------
@@ -68,7 +64,7 @@ The content is what will be wrapped by the RokBox2 `<a>` link. It could be eithe
 
 If you decide to have text as content, you can either have it being plain text or HTML syntax. Differently from [the caption][caption], the HTML syntax written in the Content will be kept intact.
 
-If you decide to have an image as content, you can either have it [auto-generated][data-rokbox-generate-thumbnail] or like for the [Link field][link], you can use the picker to choose a local image.
+If you decide to have an image as content, you can either have it [auto-generated][data-rokbox-generate-thumbnail] or like for the [Link field][link].
 
 [key-features]: INDEX.md#key-features
 [link]: #link

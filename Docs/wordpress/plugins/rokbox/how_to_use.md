@@ -11,7 +11,7 @@ The essence of RokBox2 is an `<a>` link with some data-sets that let RokBox iden
 The most basic and simple example of a RokBox2 snippet to get it up and running is:
 
 ~~~ .html
-<a data-rokbox href="images/my_image.jpg">This is a RokBox 2 Link</a>
+<a data-rokbox href="http://(Your  Site URL)images/my_image.jpg">This is a RokBox 2 Link</a>
 ~~~
 
 This is a regular `<a>` link. The only extraneous bit is that data-set `data-rokbox`. Being just a normal link, it implies that you can have any type of content you want. In this case we used `This is a RokBox 2 Link` as simple text, but it could have been an image and worked exactly the same.
@@ -56,7 +56,7 @@ Here are a couple of examples of a RokBox2 link with caption, both plain caption
 ~~~ .html
 <!-- HTML encoded Caption -->
 <!-- Output: The description of <strong>my picture</strong> -->
-<a data-rokbox data-rokbox-caption="The description of &lt;strong&gt;my picture&lt;/strong&gt;" href="images/my_image.jpg">RokBox 2 HTML Caption</a>
+<a data-rokbox data-rokbox-caption="The description of &lt;strong&gt;my picture&lt;/strong&gt;" href="http://(Your  Site URL)images/my_image.jpg">RokBox 2 HTML Caption</a>
 ~~~
 
 If you do not know how to convert to HTML entities, you can find many online tools to do it for you. We've listed three such tools below.
@@ -75,9 +75,9 @@ Assigning the same album value to different RokBox2 links will trigger the navig
 Imagine having 3 pictures of a product that you want the user to  navigate through. This is how you would achieve it:
 
 ~~~ .html
-<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Front View" href="images/product1.jpg">Product 1</a>
-<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Side View" href="images/product2.jpg">Product 2</a>
-<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Back View" href="images/product3.jpg">Product 3</a>
+<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Front View" href="http://(Your Site URL)images/product1.jpg">Product 1</a>
+<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Side View" href="http://(Your Site URL)images/product2.jpg">Product 2</a>
+<a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Back View" href="http://(Your Site URL)images/product3.jpg">Product 3</a>
 ~~~
 
 As can be noticed, all three links share the same album name. The album name is just an identifier string and won't be visible anywhere. For this very reason it is advised to keep the album name as simple as possible. Try avoiding using unicode characters or any special characters as they might cause issues during interpretation from RokBox2.
@@ -134,15 +134,15 @@ RokBox2 comes with a built-in thumbnail generator, for local images, that can be
 
 In these settings you can set the max width, max height and quality of a thumbnail. All thumbnails are saved as **JPEG**.
 
-When you have a RokBox2 link pointing to a local image, setting the `data-rokbox-generate-thumbnail` will trigger RokBox2 to create a thumbnail for you, at the same location where your local image resides and with the `_thumb` suffix appended to the name. It will also load it for you automatically, as if you were manually specifying the thumbnail to render.
+When you have a RokBox2 link pointing to a local image (stored under the same WordPress directory as your site), setting the `data-rokbox-generate-thumbnail` will trigger RokBox2 to create a thumbnail for you, at the same location where your local image resides and with the `_thumb` suffix appended to the name. It will also load it for you automatically, as if you were manually specifying the thumbnail to render.
 
 ~~~ .html
-<a data-rokbox data-rokbox-generate-thumbnail href="images/planes.jpg"></a>
+<a data-rokbox data-rokbox-generate-thumbnail href="http://(your site URL).com/images/planes.jpg"></a>
 ~~~
 
 As shown in the example above, we left the content of the `<a>` tag empty. Even if there was text written there, it would have been removed and replaced by RokBox2 with the auto-generated thumbnail.
 
-The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page as seen in the screenshot below.
+The above example generates a thumbnail `http://(your site URL).com/images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page as seen in the screenshot below.
 
 ![][rokbox2-generated-thumb]
 

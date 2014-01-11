@@ -80,7 +80,7 @@ Imagine having 3 pictures of a product that you want the user to  navigate throu
 <a data-rokbox data-rokbox-album="My Product" data-rokbox-caption="Product Back View" href="images/product3.jpg">Product 3</a>
 ~~~
 
-As can be noticed, all three links share the same album name. The album name is just an identifier string and won't be visible anywhere. For this very reason it is adviced to keep the album name as simple as possible. Try avoiding using unicode characters or any special characters as they might cause issues during interpretation from RokBox2.
+As can be noticed, all three links share the same album name. The album name is just an identifier string and won't be visible anywhere. For this very reason it is advised to keep the album name as simple as possible. Try avoiding using unicode characters or any special characters as they might cause issues during interpretation from RokBox2.
 
 
 #### data-rokbox-element
