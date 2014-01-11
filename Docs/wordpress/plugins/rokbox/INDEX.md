@@ -7,11 +7,11 @@ tags: [rokbox, index, documentation, installation, install, intro]
 Introduction
 -----
 
-RokBox2 is a fully responsive modal plugin for WordPress and the successor of the very popular, but quite dated, RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress modules and takes advantage of the new technologies such as HTML5 and CSS3.
+RokBox2 is a fully responsive modal plugin for WordPress and the successor of the very popular, but quite dated, RokBox1. Rewritten from the ground up it can display many different media formats such as images, videos, music, embedded widgets, Ajax content and WordPress widgets and takes advantage of the new technologies such as HTML5 and CSS3.
 
 ![][featured]
 
->> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `{rokbox}` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plugin.
+>> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as `[rokbox]` or `<a rel="rokbox" ..`, you can enable the Backward Compatibility from both the **System** and **Content** plugin.
 >>
 >> Be aware that the Backward compatibility can dramatically slow down the loading of your site. It is highly suggested to convert the old syntax into the new one.
 

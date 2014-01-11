@@ -14,7 +14,7 @@ support: http://www.rockettheme.com/forum/
     * [Introduction](INDEX.md)
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
-* Extensions with RokBox Support
+* Plugins with RokBox Support
 	* [RokSprocket](../roksprocket/)
 	* [RokGallery](../rokgallery/)
 	* [RokNavMenu](../roknavmenu/)
