@@ -46,6 +46,7 @@ more:
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
 	- [RokStories](plugins/rokstories)
+	- [RokBox](plugins/rokbox)
 
 <!-- -->
 
