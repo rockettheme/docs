@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
 
-details: http://www.rockettheme.com/wordpress/themes/ximenia/
-demo: http://rockettheme.com/demo/wordpress/ximenia/
-download: http://rockettheme.com/wordpress/themes/ximenia/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/ximenia
+demo: http://demo.rockettheme.com/wordpress/ximenia/
+download: http://www.rockettheme.com/wordpress/themes/ximenia/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-ximenia
 
 ---
 

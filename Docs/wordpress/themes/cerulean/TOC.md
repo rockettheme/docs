@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!cerulean:Cerulean
 
-details: http://www.rockettheme.com/wordpress/themes/cerulean/
-demo: http://rockettheme.com/demo/wordpress/cerulean/
-download: http://rockettheme.com/wordpress/themes/cerulean/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/cerulean
+demo: http://demo.rockettheme.com/wordpress/cerulean/
+download: http://www.rockettheme.com/wordpress/themes/cerulean/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-cerulean
 
 ---
 

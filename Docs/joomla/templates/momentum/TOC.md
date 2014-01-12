@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!momentum:Momentum
 
-details: http://rockettheme.com/joomla/templates/momentum/
-demo: http://rockettheme.com/demo/live/momentum/
-download: rockettheme.com/joomla/templates/momentum/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://rockettheme.com/joomla/templates/momentum
+demo: http://demo.rockettheme.com/joomla/momentum/
+download: http://rockettheme.com/joomla/templates/momentum/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-momentum/
 
 ---
 
@@ -28,7 +28,7 @@ support: http://www.rockettheme.com/forum/
             * [Color Chooser Controls](demo_module_4.md)
             * [Initial Template Setup](demo_module_5.md)
             * [Integrated Extensions](demo_module_6.md)
-            * [Demo Informationn](demo_module_7.md)
+            * [Demo Information](demo_module_7.md)
             * [Frontpage Article](demo_module_8.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)

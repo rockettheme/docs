@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!diametric:Diametric
 
-details: http://rockettheme.com/joomla/templates/diametric/
-demo: http://rockettheme.com/demo/live/diametric/
-download: rockettheme.com/joomla/templates/diametric/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/joomla/templates/diametric
+demo: http://demo.rockettheme.com/joomla/diametric/
+download: http://www.rockettheme.com/joomla/templates/diametric/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-diametric
 
 ---
 

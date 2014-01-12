@@ -9,7 +9,7 @@ Template Settings
 -----
 One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Momentum Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
-![][Momentum2]
+![][momentum2]
 
 :   1. **Logo** [7%, 18%, se]
     2. **Menu** [7%, 31%, se]
@@ -124,7 +124,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  
 
-[demo25]: assets/Momentum.jpg
+[demo25]: assets/momentum.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [Momentum2]: assets/Momentum2.jpeg

@@ -1,29 +1,9 @@
 ---
 title: Momentum: FAQ
 description: Your Guide to Using the Momentum Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!Momentum:Momentum
+breadcrumb: /joomla:Joomla/!templates:Templates/!momentum:Momentum
 
 ---
-
-What are Momentum template features?
------
-Please check our [Template Info page][features] for all Momentum features in one complete list.
-
-What font is used on Momentum template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Momentum?
------
-Yes. Please check our [Momentum Tutorials & Guides forum][forum] in addition to this guide.
-
-Is Momentum compatible for Joomla 1.5?
------
-No, Momentum is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
-
-What is RokSprocket?
------
-[RokSprocket][roksprocket] is a powerful content display extension for Joomla 2.5 and above. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles.
 
 What is Gantry?
 -----
@@ -39,7 +19,7 @@ A static menu system that displays 1st level items in the main horizontal menu a
 
 What extensions are integrated with the template?
 -----
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and Third party extension K2.
+A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokGallery and RokNavMenu.
 
 Can I install RocketLauncher on existing Joomla! website?
 -----
@@ -50,10 +30,10 @@ I installed Momentum RocketLauncher but the images are different with the demo s
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/Momentum/features
+[features]: http://demo.rockettheme.com/joomla/momentum/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=575&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/joomla-momentum
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/Momentum/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/Momentum/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/Momentum/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla/momentum/features/extensions

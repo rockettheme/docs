@@ -3,8 +3,8 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!alerion:Alerion
 
 details: http://rockettheme.com/joomla/templates/alerion
-demo: http://rockettheme.com/demo/live/alerion/
-download: rockettheme.com/joomla/templates/alerion/modal/downloads
+demo: http://demo.rockettheme.com/joomla/alerion/
+download: http://rockettheme.com/joomla/templates/alerion/modal/downloads
 support: http://www.rockettheme.com/forum/
 
 ---

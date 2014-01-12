@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!Radiance:Radiance
 
-details: http://rockettheme.com/joomla/templates/Radiance/
-demo: http://rockettheme.com/demo/live/Radiance/
-download: rockettheme.com/joomla/templates/Radiance/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://rockettheme.com/joomla/templates/radiance/
+demo: http://demo.rockettheme.com/joomla/radiance/
+download: http://rockettheme.com/joomla/templates/radiance/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-radiance/
 
 ---
 

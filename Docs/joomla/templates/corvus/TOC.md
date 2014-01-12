@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!corvus:Corvus
 
-details: http://rockettheme.com/joomla/templates/corvus/
-demo: http://rockettheme.com/demo/live/corvus/
-download: rockettheme.com/joomla/templates/corvus/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://rockettheme.com/joomla/templates/corvus
+demo: http://demo.rockettheme.com/joomla/corvus/
+download: http://rockettheme.com/joomla/templates/corvus/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-corvus/
 
 ---
 

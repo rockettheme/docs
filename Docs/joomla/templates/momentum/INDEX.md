@@ -63,6 +63,6 @@ A Color Chooser template uses CSS color values, combined with transparent overla
 The Background Picker allows you to load a background image, either through RokGallery or the Joomla Media Manager.
 
 [gantry]: http://www.gantry-framework.org/
-[theme]: assets/Momentum.jpeg
+[theme]: assets/momentum.jpeg
 [color]: assets/color.jpg
 [slideshow]: assets/slideshow.jpg

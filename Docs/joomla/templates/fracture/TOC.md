@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!fracture:Fracture
 
-details: http://rockettheme.com/joomla/templates/fracture/
-demo: http://rockettheme.com/demo/live/fracture/
-download: rockettheme.com/joomla/templates/fracture/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://rockettheme.com/joomla/templates/fracture
+demo: http://demo.rockettheme.com/joomla/fracture/
+download: http://rockettheme.com/joomla/templates/fracture/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-fracture/
 
 ---
 

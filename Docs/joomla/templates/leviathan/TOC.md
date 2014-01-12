@@ -3,9 +3,9 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!leviathan:Leviathan
 
 details: http://rockettheme.com/joomla/templates/leviathan/
-demo: http://rockettheme.com/demo/live/leviathan/
-download: rockettheme.com/joomla/templates/leviathan/modal/downloads
-support: http://www.rockettheme.com/forum/
+demo: http://demo.rockettheme.com/joomla/leviathan/
+download: http://rockettheme.com/joomla/templates/leviathan/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-leviathan/
 
 ---
 

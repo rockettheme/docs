@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!leviathan:Leviathan
 
-details: http://www.rockettheme.com/wordpress/themes/leviathan/
-demo: http://rockettheme.com/demo/wordpress/leviathan/
-download: http://rockettheme.com/wordpress/themes/leviathan/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/leviathan
+demo: http://demo.rockettheme.com/wordpress/leviathan/
+download: http://www.rockettheme.com/wordpress/themes/leviathan/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-leviathan
 
 ---
 

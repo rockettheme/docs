@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!stratos:Stratos
 
-details: http://www.rockettheme.com/wordpress/themes/stratos/
-demo: http://rockettheme.com/demo/wordpress/stratos/
-download: http://rockettheme.com/wordpress/themes/stratos/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/stratos
+demo: http://demo.rockettheme.com/wordpress/stratos/
+download: http://www.rockettheme.com/wordpress/themes/stratos/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-stratos
 
 ---
 

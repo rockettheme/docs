@@ -3,8 +3,8 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!cerulean:Cerulean
 
 details: http://rockettheme.com/joomla/templates/cerulean
-demo: http://rockettheme.com/demo/live/cerulean/
-download: rockettheme.com/joomla/templates/cerulean/modal/downloads
+demo: http://demo.rockettheme.com/joomla/cerulean/
+download: http://rockettheme.com/joomla/templates/cerulean/modal/downloads
 support: http://www.rockettheme.com/forum/
 
 ---

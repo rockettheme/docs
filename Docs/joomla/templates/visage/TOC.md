@@ -3,9 +3,9 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!visage:Visage
 
 details: http://rockettheme.com/joomla/templates/visage/
-demo: http://rockettheme.com/demo/live/visage/
-download: rockettheme.com/joomla/templates/visage/modal/downloads
-support: http://www.rockettheme.com/forum/
+demo: http://demo.rockettheme.com/joomla/visage/
+download: http://rockettheme.com/joomla/templates/visage/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-visage/
 
 ---
 

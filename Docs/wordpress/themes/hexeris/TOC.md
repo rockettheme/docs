@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!hexeris:Hexeris
 
-details: http://www.rockettheme.com/wordpress/themes/hexeris/
-demo: http://rockettheme.com/demo/wordpress/hexeris/
-download: http://rockettheme.com/wordpress/themes/hexeris/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/hexeris
+demo: http://demo.rockettheme.com/wordpress/hexeris/
+download: http://www.rockettheme.com/wordpress/themes/hexeris/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-hexeris
 
 ---
 

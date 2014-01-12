@@ -3,8 +3,8 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!afterburner2:Afterburner2
 
 details: http://rockettheme.com/joomla/templates/afterburner2
-demo: http://rockettheme.com/demo/live/afterburner2/
-download: rockettheme.com/joomla/templates/afterburner2/modal/downloads
+demo: http://demo.rockettheme.com/joomla/afterburner2/
+download: http://rockettheme.com/joomla/templates/afterburner2/modal/downloads
 support: http://www.rockettheme.com/forum/
 
 ---

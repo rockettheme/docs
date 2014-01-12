@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!ximenia:Ximenia
 
-details: http://rockettheme.com/joomla/templates/ximenia
-demo: http://rockettheme.com/demo/live/ximenia/
-download: rockettheme.com/joomla/templates/ximenia/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://rockettheme.com/joomla/templates/ximenia/
+demo: http://demo.rockettheme.com/joomla/ximenia/
+download: http://rockettheme.com/joomla/templates/ximenia/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-ximenia/
 
 ---
 

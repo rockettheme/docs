@@ -3,9 +3,9 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!halcyon:Halcyon
 
 details: http://rockettheme.com/joomla/templates/halcyon/
-demo: http://rockettheme.com/demo/live/halcyon/
-download: rockettheme.com/joomla/templates/halcyon/modal/downloads
-support: http://www.rockettheme.com/forum/
+demo: http://demo.rockettheme.com/joomla/halcyon/
+download: http://rockettheme.com/joomla/templates/halcyon/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-halcyon/
 
 ---
 

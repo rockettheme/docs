@@ -27,7 +27,7 @@ To put it simply: We do not offer refunds once a membership has been purchased. 
 
 #### What Payment Options are Available?
 
-RocketTheme currently accepts both PayPal and Credit Card payments. Please be aware that all payments, even credit cards, are processed through [PayPal][paypal]. 
+RocketTheme currently accepts [PayPal][paypal] and Credit Card payments. Please be aware that all credit cards are processed through [Stripe][stripe]. 
 
 #### The Payment Failed. What Should I Do?
 
@@ -35,9 +35,10 @@ The most common cause of a failed transaction is some error in the information p
 
 If the transaction fails repeatedly, you may wish to contact your bank or credit card holder. You can also [contact support directly][contact] at and we can take a look. 
 
-Please be aware, we only receive the error messages from PayPal and have no control over the transaction. Therefore, we can only advise on how to address the issue. Only PayPal and your bank can offer an affirmative solution.
+>> NOTE for PayPal Users: Please be aware, we only receive the error messages from PayPal and have no control over the transaction. Therefore, we can only advise on how to address the issue. Only PayPal and your bank can offer an affirmative solution.
 
 [terms]: http://www.rockettheme.com/legal/terms.php
 [forum]: http://www.rockettheme.com/forum/
-[paypal]: http://www.paypal.com
+[stripe]: http://www.stripe.com
 [contact]: http://www.rockettheme.com/contact-us
+[paypal]: http://paypal.com

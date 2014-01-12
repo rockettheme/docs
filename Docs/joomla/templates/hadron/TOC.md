@@ -3,9 +3,9 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!Hadron:Hadron
 
 details: http://rockettheme.com/joomla/templates/hadron/
-demo: http://rockettheme.com/demo/live/hadron/
-download: rockettheme.com/joomla/templates/hadron/modal/downloads
-support: http://www.rockettheme.com/forum/
+demo: http://demo.rockettheme.com/joomla/hadron/
+download: http://rockettheme.com/joomla/templates/hadron/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-hadron/
 
 ---
 

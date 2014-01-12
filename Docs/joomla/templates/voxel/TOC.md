@@ -3,9 +3,9 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!voxel:Voxel
 
 details: http://rockettheme.com/joomla/templates/voxel/
-demo: http://rockettheme.com/demo/live/voxel/
-download: rockettheme.com/joomla/templates/voxel/modal/downloads
-support: http://www.rockettheme.com/forum/
+demo: http://demo.rockettheme.com/joomla/voxel/
+download: http://rockettheme.com/joomla/templates/voxel/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-voxel/
 
 ---
 

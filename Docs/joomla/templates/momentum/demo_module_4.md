@@ -51,7 +51,7 @@ Enter the following in the **Custom Output** text editor.
 | :------------------ | :------- |  
 | Module Class Suffix | `title2` |  
 
-[demo]: assets/demo_2.jpeg
+[demo]: assets/demo_4.jpeg
 [demo2]: assets/color_1.jpeg
 [demo3]: assets/color_2.jpeg
 [demo4]: assets/color_3.jpeg

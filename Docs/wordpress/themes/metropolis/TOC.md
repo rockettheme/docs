@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!metropolis:Metropolis
 
-details: http://www.rockettheme.com/wordpress/themes/metropolis/
-demo: http://rockettheme.com/demo/wordpress/metropolis/
-download: http://rockettheme.com/wordpress/themes/metropolis/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/wordpress/themes/metropolis
+demo: http://demo.rockettheme.com/wordpress/metropolis/
+download: http://www.rockettheme.com/wordpress/themes/metropolis/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-metropolis
 
 ---
 
