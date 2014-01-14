@@ -81,8 +81,8 @@ You can find more information about the entire override breakdown for both the f
 [afterburner2]: assets/afterburner22.jpeg
 [afterburner22]: assets/afterburner2.jpeg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
+[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
 [module1]: demo_module_1.md
 [module2]: demo_module_2.md
 [module3]: demo_module_3.md

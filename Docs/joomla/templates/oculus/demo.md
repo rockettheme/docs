@@ -110,17 +110,17 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 You can also set the Dropdown Menu Offset in order to center the sub-menu as seen in our demo. As an example, we will look at the settings for the Features sub-menu within the **Main Menu** found at the top of the **Home** page.
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [Oculus2]: assets/oculus2.jpeg
 [oculus]: assets/oculus.jpeg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
-[rokcandy]: http://www.rockettheme.com/extensions-joomla/rokcandy
-[rokpad]: http://www.rockettheme.com/extensions-joomla/rokpad
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
+[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
+[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
+[rokpad]: http://www.rockettheme.com/joomla/extensions/rokpad
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
 [module1]: demo_module_1.md
 [module2]: demo_module_2.md
 [module3]: demo_module_3.md

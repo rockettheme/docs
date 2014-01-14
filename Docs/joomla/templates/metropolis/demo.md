@@ -112,15 +112,15 @@ To get to the screen shown above, you will want to navigate to the **Main Menu**
 >> The Features sub-menu is an example found in the Metropolis RocketLauncher, your site's contents may vary. The process remains the same, throughout.
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [Metropolis]: assets/metropolis.jpeg
 [Metropolis2]: assets/metropolis2.jpeg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
-[rokcandy]: http://www.rockettheme.com/extensions-joomla/rokcandy
+[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
+[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
 [module1]: demo_module_1.md
 [module2]: demo_module_2.md
 [module3]: demo_module_3.md

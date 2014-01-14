@@ -33,4 +33,4 @@ Using this feature is fairly straightforward, and can be done with just about an
 
 [popup1]: assets/popup_1.jpeg
 [popup2]: assets/popup_2.jpeg
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox

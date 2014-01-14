@@ -53,7 +53,7 @@ To avoid image license copyright issues, all sample content images shown in our 
 [features]: http://demo.rockettheme.com/joomla/fracture/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/index.php?f=729&rb_v=viewforum
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla/Fracture/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla/Fracture/features/menu-options
 [extensions]: http://demo.rockettheme.com/joomla/Fracture/features/extensions

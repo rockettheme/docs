@@ -97,14 +97,14 @@ The icons that appear at the top-level menu area are configured under the indivi
 For example, the **Pages** menu icon is set to `icon-file-text`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [Hadron2]: assets/hadron2.jpeg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
-[rokcandy]: http://www.rockettheme.com/extensions-joomla/rokcandy
+[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
+[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
 [module1]: demo_module_1.md
 [module2]: demo_module_2.md
 [module3]: demo_module_3.md

@@ -32,4 +32,4 @@ Here are the steps you will want to take to set up the RokBox login for your sit
 
 [login1]: assets/login_1.jpeg
 [login2]: assets/login_2.jpeg
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox

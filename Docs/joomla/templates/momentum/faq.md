@@ -33,7 +33,7 @@ To avoid image license copyright issues, all sample content images shown in our 
 [features]: http://demo.rockettheme.com/joomla/momentum/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-momentum
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
 [extensions]: http://demo.rockettheme.com/joomla/momentum/features/extensions

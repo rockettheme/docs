@@ -52,8 +52,8 @@ To avoid image license copyright issues, all sample content images shown in our 
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla/acacia/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=797&rb_v=viewforum
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[forum]: http://www.rockettheme.com/forum/joomla-acacia/
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla/acacia/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla/acacia/features/menu-options
 [extensions]: http://demo.rockettheme.com/joomla/acacia/features/extensions

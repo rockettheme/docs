@@ -112,15 +112,15 @@ For example, the **RokSprocket Styling** article preview as it appears in the **
 To replicate this specific layout, the publishing date needs to be used.
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/extensions-joomla/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/extensions-joomla/rokbox
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
+[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [stratos2]: assets/stratos2.jpg
 [stratos]: assets/stratos.jpg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/extensions-joomla/roknavmenu
-[rokbooster]: http://www.rockettheme.com/extensions-joomla/rokbooster
-[rokcandy]: http://www.rockettheme.com/extensions-joomla/rokcandy
+[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
+[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
 [module1]: demo_module_1.md
 [module2]: demo_module_2.md
 [module3]: demo_module_3.md

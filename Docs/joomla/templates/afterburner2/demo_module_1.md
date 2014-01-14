@@ -81,7 +81,7 @@ Enter the following in the **Custom Output** text editor.
         	<h5>RokBooster<span class="hidden-tablet"> Ready</span></h5>  
 			<span>Compress CSS/scripts/images <span class="hidden-tablet">with RokBooster </span>to increase speed even further.</span>
 			<br />
-        	<a href="http://www.rockettheme.com/extensions-joomla/rokbooster" class="readon largemargintop"><span>Read More</span></a>
+        	<a href="http://www.rockettheme.com/joomla/extensions/rokbooster" class="readon largemargintop"><span>Read More</span></a>
 		</div>
 		<div class="clear"></div>
     </div>
