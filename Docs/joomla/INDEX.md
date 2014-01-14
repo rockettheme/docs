@@ -71,7 +71,7 @@ more:
 
 <!-- -->
 
-* Club Extensions
+* Extensions
 
 	- [RokBox](extensions/rokbox/)
 	- [RokFeatureTable](extensions/rokfeaturetable/)
@@ -79,11 +79,6 @@ more:
 	- [RokWeather](extensions/rokweather/)
 	- [RokStock](extensions/rokstock/)
 	- [RokMiniEvents](extensions/rokminievents/)
-
-<!-- -->
-
-* Free Extensions
-
 	- [RokPad](extensions/rokpad/)
 	- [RokSprocket](extensions/roksprocket/)
 	- [RokNavMenu](extensions/roknavmenu/)

@@ -2,6 +2,11 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
+details: http://rockettheme.com/joomla/extensions/roksprocket
+demo: http://demo.rockettheme.com/joomla/roksprocket/
+download: http://www.rockettheme.com/joomla/extensions/roksprocket/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-roksprocket/
+
 ---
 
 * RokSprocket

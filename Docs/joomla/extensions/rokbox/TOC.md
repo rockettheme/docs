@@ -3,10 +3,10 @@ title: RokBox Docs
 description: RokBox is a *state-of-the-art* responsive modal solution for Joomla with support for images, videos, widgets and much more.
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
 
-details: http://www.rockettheme.com/extensions-joomla/rokbox
-demo: http://demo.rockettheme.com/extensions/?extension=rokbox
-download: http://www.rockettheme.com/extensions-downloads/club/1005-rokbox
-support: http://www.rockettheme.com/forum/index.php?f=201&rb_v=viewforum
+details: http://rockettheme.com/joomla/extensions/rokbox
+demo: http://demo.rockettheme.com/joomla/rokbox/
+download: http://www.rockettheme.com/joomla/extensions/rokbox/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-rokbox/
 
 ---
 

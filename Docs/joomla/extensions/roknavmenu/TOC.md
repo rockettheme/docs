@@ -2,9 +2,13 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!roknavmenu:RokNavMenu
 
+details: http://rockettheme.com/joomla/extensions/roknavmenu
+download: http://www.rockettheme.com/joomla/extensions/roknavmenu/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-roknavmenu/
+
 ---
 
-* RokCandy
+* RokNavMenu
     * [Introduction](INDEX.md)
     * [Key Features](INDEX.md#key-features)
     * [Installation](INDEX.md#how-to-install)

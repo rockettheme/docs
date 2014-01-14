@@ -2,10 +2,10 @@
 
 breadcrumb: /phpbb:phpBB3/styles:Styles/!lumiere:Lumiere/
 
-details: http://rockettheme.com/phpbb/styles/lumiere
-demo: http://demo.rockettheme.com/phpbb/lumiere/
-download: rockettheme.com/joomla/phpbb/styles/lumiere/modal/downloads
-support: http://www.rockettheme.com/forum/
+details: http://www.rockettheme.com/phpbb/styles/lumiere
+demo: http://demo.rockettheme.com/live/phpbb/lumiere/
+download: http://rockettheme.com/phpbb/styles/lumiere/modal/downloads
+support: http://www.rockettheme.com/forum/phpbb3-lumiere/
 
 ---
 

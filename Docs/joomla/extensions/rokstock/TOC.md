@@ -2,6 +2,11 @@
 
 breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
+details: http://rockettheme.com/joomla/extensions/rokstock
+demo: http://demo.rockettheme.com/joomla/rokstock/
+download: http://www.rockettheme.com/joomla/extensions/rokstock/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-rokstock/
+
 ---
 
 * Basics

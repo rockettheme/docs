@@ -2,6 +2,11 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!quasar:Quasar/
 
+details: http://rockettheme.com/magento/themes/quasar
+demo: http://demo.rockettheme.com/magento/quasar/
+download: http://www.rockettheme.com/quasar/modal/downloads
+support: http://www.rockettheme.com/forum/magento-quasar/
+
 ---
 
 * Quasar

@@ -2,6 +2,11 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!affinity:Affinity/
 
+details: http://rockettheme.com/magento/themes/affinity
+demo: http://demo.rockettheme.com/magento/affinity/
+download: http://www.rockettheme.com/affinity/modal/downloads
+support: http://www.rockettheme.com/forum/magento-affinity/
+
 ---
 
 * Affinity

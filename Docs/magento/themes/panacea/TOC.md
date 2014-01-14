@@ -2,6 +2,11 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!panacea:Panacea/
 
+details: http://rockettheme.com/magento/themes/panacea
+demo: http://demo.rockettheme.com/magento/panacea/
+download: http://www.rockettheme.com/panacea/modal/downloads
+support: http://www.rockettheme.com/forum/magento-panacea/
+
 ---
 
 * Panacea

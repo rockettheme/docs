@@ -2,6 +2,11 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!ionosphere:Ionosphere/
 
+details: http://rockettheme.com/magento/themes/ionosphere
+demo: http://demo.rockettheme.com/magento/ionosphere/
+download: http://www.rockettheme.com/ionosphere/modal/downloads
+support: http://www.rockettheme.com/forum/magento-ionosphere/
+
 ---
 
 * Ionosphere

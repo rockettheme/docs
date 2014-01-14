@@ -2,6 +2,9 @@
 
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!Rokmicronews:RokMicroNews
 
+details: http://www.rockettheme.com/wordpress/plugins/roklegacy
+download: http://www.rockettheme.com/wordpress/plugins/roklegacy/modal/downloads
+
 ---
 
 * RokMicroNews
