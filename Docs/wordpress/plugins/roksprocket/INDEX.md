@@ -54,7 +54,7 @@ Once installation is complete, you will receive a message (shown above) indicati
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 
 [featured]: assets/roksprocket-layout.png
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
+[download]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [admin1]: assets/wp_roksprocket_admin_1.png
 [features1]: assets/wp_roksprocket_features_1.png

@@ -83,13 +83,13 @@ One important thing to note here is that many of the widget sections included in
 * [Copyright][copyright]
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
-[rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
-[roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [leviathan]: assets/leviathan.jpeg
 [theme2]: assets/leviathan2.jpeg
 [roksprocket]: ../../plugins/roksprocket/
-[gallery]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
+[gallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
 [menu]: ../../start/menu.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/

@@ -101,9 +101,9 @@ One important thing to note here is that many of the widget sections included in
 * [Copyright][copyright]
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
-[rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
-[roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
+[rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [ximenia]: assets/ximenia.jpeg
 [ximenia2]: assets/ximenia2.jpeg
 [roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket

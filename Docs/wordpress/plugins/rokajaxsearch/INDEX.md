@@ -53,8 +53,8 @@ Once installation is complete, you will receive a message (shown above) indicati
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 
 [featured]: assets/rokajaxsearch.jpeg
-[rokajaxsearch-download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/rokajaxsearch/2629-rokajaxsearch-plugin/download
+[rokajaxsearch-download]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch/modal/downloads
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
+[download]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch

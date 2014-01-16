@@ -90,10 +90,10 @@ One important thing to note here is that many of the widget sections included in
 * [Side Widget][sidewidget]
 
 [gantry]: http://gantry-framework.org/download
-[rokajaxsearch]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2624-rokajaxsearch
-[rokbox]: http://www.rockettheme.com/wordpress-downloads/plugins/free/2625-rokbox
-[roksprocket]: http://www.rockettheme.com/wordpress-downloads/plugins/free/3228-roksprocket
-[Praxis]: assets/Praxis.jpeg
+[rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
+[rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
+[Praxis]: assets/praxis.jpeg
 [roksprocket]: ../../plugins/roksprocket/
 [faq]: faq.md
 [menu]: ../../start/menu.md
@@ -111,4 +111,4 @@ One important thing to note here is that many of the widget sections included in
 [sidewidget]: demo_side.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
-[theme]: assets/Praxis2.jpeg
+[theme]: assets/praxis2.jpeg

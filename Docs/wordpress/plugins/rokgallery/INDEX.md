@@ -83,7 +83,7 @@ We recommend downloading and installing [RokBox][rokbox] in addition to RokGalle
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
 
 [featured]: assets/wp_rokgallery.jpeg
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
+[download]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [rokbox]: ../rokbox/
 [admin1]: assets/wp_rokgallery_admin_1.jpeg
 [admin2]: assets/wp_rokgallery_admin_2.jpeg

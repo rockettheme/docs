@@ -186,7 +186,7 @@ The Showcase layout works very similarly. You have the option to choose whether 
 [showcase]: assets/rokgallery_showcase.jpeg
 [details]: assets/rokgallery_widget_2.jpeg
 [featured]: assets/wp_rokgallery.jpeg
-[rokgallery_download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2837-rokgallery
+[rokgallery_download]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [rokbox]: ../rokbox/
 [admin1]: assets/wp_rokgallery_admin_1.jpeg
 [admin2]: assets/wp_rokgallery_admin_2.jpeg

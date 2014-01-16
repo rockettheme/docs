@@ -75,6 +75,5 @@ more:
 * Free Plugins
 
 	- [RokSprocket](plugins/roksprocket/)
-	- [Gantry BuddyPress](plugins/gantrybuddypress/)
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
 
