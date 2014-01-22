@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!voxel:Voxel
 
 details: http://www.rockettheme.com/wordpress/themes/voxel
-demo: http://demo.rockettheme.com/wordpress/voxel/
+demo: http://demo.rockettheme.com/wordpress-themes/voxel/
 download: http://www.rockettheme.com/wordpress/themes/voxel/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-voxel
 

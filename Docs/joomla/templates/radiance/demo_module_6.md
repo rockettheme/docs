@@ -1,11 +1,11 @@
 ---
-title: Radiance: Recreating the Demo - Integrated Extensions
+title: Radiance: Recreating the Demo - Connect with Us
 description: Your Guide to Recreating Elements of the Radiance Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/Radiance:Radiance
 
 ---
 
-Integrated Extensions
+Connect with Us
 -----
 
 ![][demo]
@@ -19,9 +19,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option     | Setting                 |  
 | :--------- | :---------------------- |  
-| Title      | `Integrated Extensions` |  
+| Title      | `Connect with Us`       |  
 | Show Title | Show                    |  
-| Position   | content-bottom-a        |  
+| Position   | bottom-c                |  
 | Status     | Published               |  
 | Access     | Public                  |  
 
@@ -29,8 +29,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p>Choose from an array of <strong>RocketTheme Extensions</strong>, which have integrated template styling support, such as <em>RokNewsPager</em>, <em>RokStories</em> or <em>RokTabs</em>.</p>
-<a href="index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=111" class="readon"><span>Read More</span></a>
+<img src="images/stories/demo/frontpage/bottom1.png" alt="image" width="206" height="36" />
 ~~~
 
 ### Basic
@@ -46,9 +45,9 @@ Enter the following in the **Custom Output** text editor.
 
 | Option              | Setting |  
 | :------------------ | :------ |  
-| Module Class Suffix | `box1`  |  
+| Module Class Suffix |         |  
 
 [demo]: assets/demo_6.jpeg
-[demo2]: assets/integrated_1.jpeg
-[demo3]: assets/integrated_2.jpeg
-[demo4]: assets/integrated_3.jpeg
+[demo2]: assets/connect_1.jpeg
+[demo3]: assets/connect_2.jpeg
+[demo4]: assets/connect_3.jpeg

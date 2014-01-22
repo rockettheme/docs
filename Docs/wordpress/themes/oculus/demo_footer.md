@@ -32,7 +32,7 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~
 <div class="rt-footer-logo"></div>
 
-<span>All demo content is for <strong>sample</strong> purposes only<span class="visible-large">, intended to show a live site</span>. <span class="hidden-tablet">Use the <a href="http://demo.rockettheme.com/wordpress/wp_oculus/installation/"><strong>RocketLauncher</strong></a> for demo replication.</span> All images are copyrighted to their respective owners.</span>
+<span>All demo content is for <strong>sample</strong> purposes only<span class="visible-large">, intended to show a live site</span>. <span class="hidden-tablet">Use the <a href="http://demo.rockettheme.com/wordpress-themes/wp_oculus/installation/"><strong>RocketLauncher</strong></a> for demo replication.</span> All images are copyrighted to their respective owners.</span>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -59,10 +59,10 @@ Here is a breakdown of what you will need to change in the widget options to mat
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
-<p class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_oculus/plugins/">RokSprocket</a> is a powerful, switchblade content display plugin.</p>
+<p class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_oculus/plugins/">RokSprocket</a> is a powerful, switchblade content display plugin.</p>
 <p class="rt-tag">Multiple Layouts</p>
 
-<p class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_oculus/plugins/">RokNavMenu</a> is the core menu extension behind Dropdown Menu.</p>
+<p class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_oculus/plugins/">RokNavMenu</a> is the core menu extension behind Dropdown Menu.</p>
 <p class="rt-tag">Core Navigation</p>
 ~~~
 

@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!diametric:Diametric
 
 details: http://www.rockettheme.com/wordpress/themes/diametric
-demo: http://demo.rockettheme.com/wordpress/diametric/
+demo: http://demo.rockettheme.com/wordpress-themes/diametric/
 download: http://www.rockettheme.com/wordpress/themes/diametric/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-diametric
 

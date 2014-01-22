@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!grunge:Grunge
 
 details: http://rockettheme.com/joomla/templates/grunge/
-demo: http://demo.rockettheme.com/joomla/grunge/
+demo: http://demo.rockettheme.com/joomla-templates/grunge/
 download: http://rockettheme.com/joomla/templates/grunge/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-grunge/
 

@@ -1,58 +1,51 @@
 ---
-title: Radiance: Recreating the Demo - Demo Information
+title: Radiance: Recreating the Demo - Main Menu (Sidebar)
 description: Your Guide to Recreating Elements of the Radiance Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/Radiance:Radiance
+breadcrumb: /joomla:Joomla/!templates:Templates/radiance:Radiance
 
 ---
 
-Demo Information
+Main Menu (Sidebar)
 -----
 
 ![][demo]
 
-This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
-
->> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+The menu area of the sidebar is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
 
 ![][demo2]
 
-| Option     | Setting                     |  
-| :--------- | :-------------------------- |  
-| Title      | `Demo Information`          |  
-| Show Title | Show                        |  
-| Position   | footer-a                    |  
-| Status     | Published                   |  
-| Access     | Public                      |  
+| Option     | Setting     |  
+| :--------- | :---------- |  
+| Title      | `Main Menu` |  
+| Show Title | Show        |  
+| Position   | sidebar-a   |  
+| Status     | Published   |  
+| Access     | Public      |  
+| Language   | All         |  
+| Note       | Blank       |  
 
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
-
-~~~ .html
-<p>All demo content is for sample purposes only. Template images are generously provided by <a class="nobold" href="http://www.sxc.hu/profile/adiju" target="_blank">adjiu</a>, <a class="nobold" href="http://www.sxc.hu/profile/Jochem_a" target="_blank">Jochem_a</a> &amp; <a class="nobold" href="http://www.sxc.hu/gallery/timgrin" target="_blank">timgrin</a>.</p>
-<a href="index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=113" class="readon"><span>Read More</span></a>
-~~~
-
-### Basic
+### Basic Options
 
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | Yes     |  
-| Select a Background Image | Blank   |
+| Option              | Setting   |  
+| :------------------ | :-------- |  
+| Select Menu         | Main Menu |  
+| Start Level         | 1         |  
+| End Level           | All       |  
+| Show Sub-menu Items | No        |  
 
-### Advanced
+### Advanced Options
 
 ![][demo4]
 
-| Option              | Setting  |  
-| :------------------ | :------- |  
-| Module Class Suffix | `title1` |  
+| Option              | Setting |  
+| :------------------ | :------ |  
+| Module Class Suffix | `_menu` |  
 
 [demo]: assets/demo_7.jpeg
-[demo2]: assets/info_1.jpeg
-[demo3]: assets/info_2.jpeg
-[demo4]: assets/info_3.jpeg
+[demo2]: assets/mainmenu_1.jpeg
+[demo3]: assets/mainmenu_2.jpeg
+[demo4]: assets/mainmenu_3.jpeg

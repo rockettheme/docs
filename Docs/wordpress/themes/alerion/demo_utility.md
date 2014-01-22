@@ -24,8 +24,8 @@ Here is the widget breakdown for the Utility section:
 You will need to enter the following in the main text field to create this text widget as it appears in our demo. This widget creates the map with its associated pins.
 
 ~~~
-<img class="rt-map rt-img-circle hidden-phone" src="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/utility/img1.jpg" alt="image" />
-<img class="rt-map-phone visible-phone" src="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/utility/img2.png" alt="image" />
+<img class="rt-map rt-img-circle hidden-phone" src="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/utility/img1.jpg" alt="image" />
+<img class="rt-map-phone visible-phone" src="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/utility/img2.png" alt="image" />
 
 [span class="rt-map-pins hidden-phone"]
     [pin top="-30px" left="-50px"]1[/pin]

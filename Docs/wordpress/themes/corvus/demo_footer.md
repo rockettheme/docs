@@ -33,7 +33,7 @@ You will need to enter the following in the main text field.
     <span class="rt-footer-logo"></span>
 </div>
 
-<p class="rt-uppercase"><span>All demo content is for <strong>sample</strong> purposes only<span class="visible-large">, intended to show a live site</span>. <span class="hidden-tablet">Use the <a href="http://demo.rockettheme.com/wordpress/wp_corvus/installation/"><strong>RocketLauncher</strong></a> for demo replication.</span> All images are copyrighted to their respective owners.</span></p>
+<p class="rt-uppercase"><span>All demo content is for <strong>sample</strong> purposes only<span class="visible-large">, intended to show a live site</span>. <span class="hidden-tablet">Use the <a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/installation/"><strong>RocketLauncher</strong></a> for demo replication.</span> All images are copyrighted to their respective owners.</span></p>
 
 <p class="rt-copyright-text nomarginbottom">Designed by <a href="http://www.rockettheme.com/" target="_blank">RocketTheme</a></p>
 ~~~
@@ -55,26 +55,26 @@ You will need to enter the following in the main text field.
 <div class="largemargintop largepaddingtop largemarginbottom largepaddingbottom">
     <div class="gantry-width-50 gantry-width-block">
         <ul class="fp-footer-menu rt-uppercase">
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/features/">Features</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/widget-positions/">Positions</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/widget-variations/">Variations</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/typography/">Typography</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/menu-options/">Menu<span class="hidden-tablet"> Options</span></a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/plugins/">Plugins</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/tutorials/">Tutorials</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/installation/">Installation</a></li>       
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/features/">Features</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/widget-positions/">Positions</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/widget-variations/">Variations</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/typography/">Typography</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/menu-options/">Menu<span class="hidden-tablet"> Options</span></a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/plugins/">Plugins</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/tutorials/">Tutorials</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/installation/">Installation</a></li>       
         </ul>
     </div>
     <div class="gantry-width-50 gantry-width-block">
         <ul class="fp-footer-menu rt-uppercase">
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/logo-editing/">Logo <span class="hidden-tablet">Editing</span></a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/logo-editing/">Logo <span class="hidden-tablet">Editing</span></a></li>
             <li><a href="http://www.rockettheme.com/forum/index.php?f=844&amp;rb_v=viewforum"><span class="hidden-tablet">Forum</span> Guides</a></li>
             <li><a href="http://www.gantry-framework.org/documentation">Gantry</a></li>                     
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/preset-styles/">Preset Styles</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/sed-imperdiet-ligula-nisi/">Sample Post</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/sample-page-2/"><span class="hidden-tablet">Dummy</span> Page</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/?m=2013">Archive</a></li>
-            <li><a href="http://demo.rockettheme.com/wordpress/wp_corvus/?s=varius">Search</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/preset-styles/">Preset Styles</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/sed-imperdiet-ligula-nisi/">Sample Post</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/sample-page-2/"><span class="hidden-tablet">Dummy</span> Page</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/?m=2013">Archive</a></li>
+            <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/?s=varius">Search</a></li>
         </ul>
     </div>
     <div class="clear"></div>

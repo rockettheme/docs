@@ -98,4 +98,4 @@ You can find extensive documentation listing the different elements found here o
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
 [chart_1]: assets/chart_1.jpeg
 [chart_2]: assets/chart_2.jpeg
-[list]: http://demo.rockettheme.com/joomla/hadron/features/typography
+[list]: http://demo.rockettheme.com/joomla-templates/hadron/features/typography

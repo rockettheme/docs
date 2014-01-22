@@ -21,4 +21,4 @@ All you need to do is create a new Joomla menu module and assign it one of the h
 
 [compatibility]: http://www.rockettheme.com/joomla-templates/compatibility-matrix
 [gantry]: http://gantry-framework.org/
-[dropdown]: http://demo.rockettheme.com/joomla/grunge/features/menu-options
+[dropdown]: http://demo.rockettheme.com/joomla-templates/grunge/features/menu-options

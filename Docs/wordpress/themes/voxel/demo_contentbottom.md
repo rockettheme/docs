@@ -20,7 +20,7 @@ The first Text widget in the section is pretty simple and straightforward. You w
 ~~~
 <p class="rt-center">
   <a href="http://www.youtube.com/watch?v=a0_FIK6h7t8" title="Thor - Official Trailer @ http://www.youtube.com/watch?v=a0_FIK6h7t8" rel="rokbox[580 320]">
-    <img alt="Image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/sample-video.jpg" width="267" height="174" class="rt-image" />
+    <img alt="Image" src="http://demo.rockettheme.com/wordpress-themes/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/sample-video.jpg" width="267" height="174" class="rt-image" />
   </a>
 </p>
 ~~~
@@ -39,11 +39,11 @@ This widget tells WordPress to start a new widget column beginning with the widg
 The second Text widget in the section is also pretty simple and straightforward. You will need to enter the following in the main text field.
 
 ~~~
-<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut1.jpg" alt="image" style="margin-bottom: 15px;" />
-<p>Learn how to install the theme, plugins and RocketLauncher, with this demo's <a href="http://demo.rockettheme.com/wordpress/wp_voxel/tutorials/installation/" class="nobold">Installation</a> tutorial.</p>
+<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress-themes/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut1.jpg" alt="image" style="margin-bottom: 15px;" />
+<p>Learn how to install the theme, plugins and RocketLauncher, with this demo's <a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/tutorials/installation/" class="nobold">Installation</a> tutorial.</p>
 <div class="clear"></div>
 
-<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut2.jpg" alt="image" />
+<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress-themes/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/tut2.jpg" alt="image" />
 <p class="nomarginbottom">Explore even more with a range of theme specific <a href="http://www.rockettheme.com/forum/index.php?f=697&amp;rb_v=viewforum" class="nobold">Forum-based Tutorials</a>, such as overrides setup.</p>
 <div class="clear"></div>
 ~~~

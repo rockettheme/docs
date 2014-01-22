@@ -23,7 +23,7 @@ The Text widget in this section is titled **Unique Variations Sophisticated Desi
 ~~~
 <p><strong>Fresco</strong>, the January 2013 WordPress Theme Club release, is a visually <strong>rich</strong> theme, bringing life to your content through <strong>stunning</strong> and intricate graphics, each customised for specific <strong>themes</strong>.</p>
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_fresco/preset-styles/"><span>See More</span></a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_fresco/preset-styles/"><span>See More</span></a>
 ~~~
 
 * Set the **Title** to `Unique Variations Sophisticated Design`.

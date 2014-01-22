@@ -46,7 +46,7 @@ In this instance, we did not do a whole lot to customize the simple items. We di
 <div class="gantry-width-40 gantry-width-block">
     <div class="gantry-width-spacer nomarginleft">
         <div class="sprocket-tabs-image"><img alt="image" src=
-        "http://demo.rockettheme.com/wordpress/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/roksprocket-tabs/img1.jpg"></div>
+        "http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/roksprocket-tabs/img1.jpg"></div>
     </div>
 </div>
 <div class="gantry-width-60 gantry-width-block">
@@ -60,7 +60,7 @@ In this instance, we did not do a whole lot to customize the simple items. We di
             providing the base for all major features and functions, such as
             the intuitive administrative interface.</p>
         </div><a class="readon largemargintop" href=
-        "http://demo.rockettheme.com/wordpress/wp_praxis/features/">Read
+        "http://demo.rockettheme.com/wordpress-themes/wp_praxis/features/">Read
         More</a>
     </div>
 </div>

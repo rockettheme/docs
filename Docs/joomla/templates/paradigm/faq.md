@@ -61,9 +61,9 @@ I installed Paradigm RocketLauncher but the images are different with the demo s
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/paradigm/features
+[features]: http://demo.rockettheme.com/joomla-templates/paradigm/features
 [font]: http://www.fontsquirrel.com/fonts/Raleway
 [forum]: http://www.rockettheme.com/forum/index.php?f=832&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/paradigm/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/paradigm/features/menu-options
+[dropdown]: http://demo.rockettheme.com/joomla-templates/paradigm/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/paradigm/features/menu-options

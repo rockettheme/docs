@@ -29,4 +29,4 @@ No. RocketLauncher will install both Joomla and the demo sample content and imag
 
 [compatibility]: http://www.rockettheme.com/joomla-templates/compatibility-matrix
 [gantry]: http://gantry-framework.org/
-[dropdown]: http://demo.rockettheme.com/joomla/afterburner2/features/menu-options
+[dropdown]: http://demo.rockettheme.com/joomla-templates/afterburner2/features/menu-options

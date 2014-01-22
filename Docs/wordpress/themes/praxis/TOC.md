@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!praxis:Praxis
 
 details: http://www.rockettheme.com/wordpress/themes/praxis
-demo: http://demo.rockettheme.com/wordpress/praxis/
+demo: http://demo.rockettheme.com/wordpress-themes/praxis/
 download: http://www.rockettheme.com/wordpress/themes/praxis/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-praxis
 

@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!ximenia:Ximenia
 
 details: http://rockettheme.com/joomla/templates/ximenia/
-demo: http://demo.rockettheme.com/joomla/ximenia/
+demo: http://demo.rockettheme.com/joomla-templates/ximenia/
 download: http://rockettheme.com/joomla/templates/ximenia/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-ximenia/
 

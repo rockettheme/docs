@@ -63,4 +63,4 @@ The varying layout modes of RokSprocket: Tabs, Features, Lists, Headlines and Mo
 [bg_level]: assets/bg_level.jpg
 [gantry4]: assets/gantry4.jpg
 [bootstrap]: http://twitter.github.com/bootstrap/
-[demosite]: http://demo.rockettheme.com/wordpress/?theme=fresco
+[demosite]: http://demo.rockettheme.com/wordpress-themes/?theme=fresco

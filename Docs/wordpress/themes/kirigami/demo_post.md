@@ -28,7 +28,7 @@ Here is the content body of the post.
 <div class="rt-demo-block rt-demo-width-60">
     <div class="rt-featured-image">
     <div class="rt-image">
-      <img src="http://demo.rockettheme.com/wordpress/wp_kirigami/wp-content/rockettheme/rt_kirigami_wp/frontpage/general/fp-featured.jpg" alt="image" />
+      <img src="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/wp-content/rockettheme/rt_kirigami_wp/frontpage/general/fp-featured.jpg" alt="image" />
     </div>
   </div>
 </div>  
@@ -39,7 +39,7 @@ Here is the content body of the post.
 
     <p>Therefore, you can have one template that will adjust itself to a <strong>mobile</strong>, tablet or desktop, without necessarily needing to load a separate layout with different content.</p>
 
-    <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_kirigami/features/"><span>See More</span></a>
+    <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/features/"><span>See More</span></a>
   </div>
 </div>
 ~~~

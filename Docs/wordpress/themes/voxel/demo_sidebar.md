@@ -20,7 +20,7 @@ Here is the widget breakdown for the Sidebar section:
 The first text widget in this section is titled **Ultimate Customization** and has the following in the main text field.
 
 ~~~
-<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/color-chooser.jpg" width="110" height="108" alt="image" />
+<img class="rt-floatleft rt-image" src="http://demo.rockettheme.com/wordpress-themes/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/color-chooser.jpg" width="110" height="108" alt="image" />
 <p>The twelve style variations are fully customizable with the most comprehensive <strong>color chooser </strong>system.</p>
 <div class="clear"></div>
 <p class="nomarginbottom">Choose just a few tones and shades, and <strong>Voxel</strong> does the rest, <strong>automatically</strong> calculating an appropriate color scheme for the various theme elements.</p>
@@ -37,7 +37,7 @@ The first text widget in this section is titled **Ultimate Customization** and h
 The second text widget in this section has no title. The following should be entered in the main text field.
 
 ~~~
-<p class="rt-center"><a href="https://www.rockettheme.com/join-a-club" target="_blank" title="Join RocketTheme"><img class="rt-image" src="http://demo.rockettheme.com/wordpress/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/rockettheme_268x225.jpg" alt="RocketTheme" width="268" height="225" /></a></p>
+<p class="rt-center"><a href="https://www.rockettheme.com/join-a-club" target="_blank" title="Join RocketTheme"><img class="rt-image" src="http://demo.rockettheme.com/wordpress-themes/wp_voxel/wp-content/rockettheme/rt_voxel_wp/frontpage/general/rockettheme_268x225.jpg" alt="RocketTheme" width="268" height="225" /></a></p>
 ~~~
 
 * Leave everything at its default setting and select **Save**.

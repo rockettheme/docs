@@ -66,7 +66,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~
 <p><strong>RocketLauncher</strong> installs a replica of the demo.</p>
-<a href="#"><span class="rt-image-b"><img src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/sidebar-b/img1.jpg" alt="image"></span></a>
+<a href="#"><span class="rt-image-b"><img src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/sidebar-b/img1.jpg" alt="image"></span></a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -115,15 +115,15 @@ Description:
 "hidden-tablet">Mobile, Tablet &amp; Desktop</strong>
 
 <p><a href=
-"http://demo.rockettheme.com/wordpress/wp_corvus/features/"><span class=
+"http://demo.rockettheme.com/wordpress-themes/wp_corvus/features/"><span class=
 "rt-image-b"><img alt="image" src=
-"http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/sidebar-b/img2.jpg"></span></a></p>
+"http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/sidebar-b/img2.jpg"></span></a></p>
 
 <p><span class="hidden-tablet">A single template that a</span><span class=
 "rt-displayinline visible-tablet">A</span>dapts to different viewing
 devices<span class="rt-displayinline visible-large">, such as
 mobile</span>.</p><span class="readon-wrapper"><a class="readon2" href=
-"http://demo.rockettheme.com/wordpress/wp_corvus/features/">+</a></span>
+"http://demo.rockettheme.com/wordpress-themes/wp_corvus/features/">+</a></span>
 ~~~
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.

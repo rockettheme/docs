@@ -28,7 +28,7 @@ Here is the content body of the post.
 <div class="gantry-width-50 gantry-width-block hidden-large">
     <div class="gantry-width-spacer nomarginleft nomarginright">
         <div class="rt-image">
-      <img src="http://demo.rockettheme.com/wordpress/wp_graffito/wp-content/rockettheme/rt_graffito_wp/frontpage/general/featured-1.jpg" alt="image" />
+      <img src="http://demo.rockettheme.com/wordpress-themes/wp_graffito/wp-content/rockettheme/rt_graffito_wp/frontpage/general/featured-1.jpg" alt="image" />
     </div>
   </div>
 </div>  
@@ -41,14 +41,14 @@ Here is the content body of the post.
 
     <p class="visible-tablet">Built with the <strong>Gantry4</strong> Framework, it features a responsive layout.</p>
 
-    <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_graffito/features/"><span>See More</span></a>
+    <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_graffito/features/"><span>See More</span></a>
   </div>
 </div>
 
 <div class="gantry-width-40 gantry-width-block visible-large">
     <div class="gantry-width-spacer nomarginleft nomarginright">
       <div class="rt-image">
-      <img src="http://demo.rockettheme.com/wordpress/wp_graffito/wp-content/rockettheme/rt_graffito_wp/frontpage/general/featured-1.jpg" alt="image" />
+      <img src="http://demo.rockettheme.com/wordpress-themes/wp_graffito/wp-content/rockettheme/rt_graffito_wp/frontpage/general/featured-1.jpg" alt="image" />
     </div>
   </div>
 </div>  
@@ -59,7 +59,7 @@ Here is the content body of the post.
 
     <p>Built with the <strong>Gantry4</strong> Framework, it features a responsive layout and LESS CSS support  for dynamic behaviours within stylesheets.</p>
 
-    <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_graffito/features/"><span>See More</span></a>
+    <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_graffito/features/"><span>See More</span></a>
   </div>
 </div>
 ~~~

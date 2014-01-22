@@ -21,25 +21,25 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~
 <div class="hidden-phone">
     <div class="gantry-width-25 gantry-width-block"><div class="largemarginright">
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img1.png" />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img1.png" />
     </div></div>
     <div class="gantry-width-25 gantry-width-block"><div class="largemarginright">
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img2.png" />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img2.png" />
     </div></div>
     <div class="gantry-width-25 gantry-width-block"><div class="largemarginright">
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img3.png" />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img3.png" />
     </div></div>
     <div class="gantry-width-25 gantry-width-block"><div class="largemarginleft">
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img4.png" />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img4.png" />
     </div></div>
     <div class="clear"></div>
 </div>
 <div class="visible-phone">
     <div class="largemargintop largemarginbottom largemarginright largepaddingtop">
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img1.png" /><br />
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img2.png" /><br />
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img3.png" /><br />
-        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img4.png" />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img1.png" /><br />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img2.png" /><br />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img3.png" /><br />
+        <img class="rt-extension-img" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/extension/img4.png" />
     </div>  
 </div>
 ~~~

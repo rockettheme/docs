@@ -57,7 +57,7 @@ You will need to enter the following in the main text field to create this text 
 </div>
 <div class="rt-order">
   <div class="gantry-width-50 gantry-width-block rt-center">
-    <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/showcase/cards.jpg" class="largemargintop">
+    <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/showcase/cards.jpg" class="largemargintop">
   </div>
   <div class="gantry-width-50 gantry-width-block">
     <div class="rt-floatright">

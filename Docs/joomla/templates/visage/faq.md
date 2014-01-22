@@ -50,10 +50,10 @@ I installed Visage RocketLauncher but the images are different with the demo sit
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/Visage/features
+[features]: http://demo.rockettheme.com/joomla-templates/Visage/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/index.php?f=575&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/Visage/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/Visage/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/Visage/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla-templates/Visage/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/Visage/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-templates/Visage/features/extensions

@@ -36,5 +36,5 @@ Using the Theme Roller could not be easier - simply drag the colours from the bo
 [theme]: assets/rokmage_mobile.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
 [roller]: assets/roller.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/2700-rokmagemobile
+[download]: http://www.rockettheme.com/magento/themes/rokmagemobile/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

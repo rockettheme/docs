@@ -138,7 +138,7 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~
 <p>RocketLauncher installs a replica of the demo.</p>
 
-<p class="fp-sidebar-b-img"><img class="rt-image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img7.jpg" alt="image" /></p>
+<p class="fp-sidebar-b-img"><img class="rt-image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img7.jpg" alt="image" /></p>
 
 <a class="readon" href="#">Read More</a>
 ~~~
@@ -165,7 +165,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img1.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img1.jpg">
     </span>
   </div>
 </div>
@@ -173,7 +173,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img2.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img2.jpg">
     </span>
   </div>
 </div>
@@ -181,7 +181,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img3.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img3.jpg">
     </span>
   </div>
 </div>
@@ -191,7 +191,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img4.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img4.jpg">
     </span>
   </div>
 </div>
@@ -199,7 +199,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img5.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img5.jpg">
     </span>
   </div>
 </div>
@@ -207,7 +207,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-33 gantry-width-block">
   <div class="gantry-width-spacer">
     <span class="rt-image">
-      <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img6.jpg">
+      <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_oculus/wp-content/rockettheme/rt_oculus_wp/frontpage/sidebar/img6.jpg">
     </span>
   </div>
 </div>

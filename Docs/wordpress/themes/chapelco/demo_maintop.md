@@ -25,7 +25,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-tasks rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/plugins/">Gantry 4<span class="hidden-tablet"> Core</span></a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/plugins/">Gantry 4<span class="hidden-tablet"> Core</span></a></h3>
         <p>Gantry 4 Framework powering all standardized features and functions.</p>
       </div>  
     </div>
@@ -36,7 +36,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-list rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/menu-options/">Dropdown<span class="hidden-tablet"> Menu</span></a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/menu-options/">Dropdown<span class="hidden-tablet"> Menu</span></a></h3>
         <span>A CSS based dropdown menu with<span class="hidden-large"> advanced</span> options such as mutli-columns.</span>
       </div>  
     </div>
@@ -47,7 +47,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-cog rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/plugins/">Plugins</a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/plugins/">Plugins</a></h3>
         <p>Styled support for RokSprocket, RokAjaxSearch and RokGallery.</p>
       </div>  
     </div>
@@ -63,7 +63,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-th rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/plugins/">Mosaic<span class="hidden-tablet"> Mode</span></a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/plugins/">Mosaic<span class="hidden-tablet"> Mode</span></a></h3>
         <span>Mosaic is a dynamic ajax content<span class="hidden-large"> display</span> mode, perfect for magazine layouts.</span>
       </div>  
     </div>
@@ -74,7 +74,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-picture rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/preset-styles/">Preset<span class="hidden-tablet"> Style</span>s</a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/preset-styles/">Preset<span class="hidden-tablet"> Style</span>s</a></h3>
         <p>Eight preset style variations to choose, each with configurable options.</p>
       </div>  
     </div>
@@ -85,7 +85,7 @@ You will need to enter the following in the main text field to create this text 
         <h5 class="title largemarginright"><span class="rt-bubble icon-random rt-big-bubble"></span></h5>
       </div>  
       <div class="gantry-width-70 gantry-width-block">
-        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_chapelco/menu-options/">SplitMenu</a></h3>
+        <h3 class="nomarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/menu-options/">SplitMenu</a></h3>
         <p>Static horizontal menu with children placed in the sidebar, or as configured.</p>
       </div>  
     </div>

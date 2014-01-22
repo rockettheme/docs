@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!corvus:Corvus
 
 details: http://www.rockettheme.com/wordpress/themes/corvus
-demo: http://demo.rockettheme.com/wordpress/corvus/
+demo: http://demo.rockettheme.com/wordpress-themes/corvus/
 download: http://www.rockettheme.com/wordpress/themes/corvus/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-corvus
 

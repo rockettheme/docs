@@ -80,7 +80,7 @@ The second text widget in this section is titled **Advertisement** and has the f
 ~~~
 <a href="http://www.rockettheme.com/" target="_blank">
   <span class="rt-image rt-floatleft smallmargintop">
-    <img width="190" height="150" alt="RocketTheme" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/rockettheme.jpg" />
+    <img width="190" height="150" alt="RocketTheme" src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/rockettheme.jpg" />
   </span>
 </a>
 ~~~

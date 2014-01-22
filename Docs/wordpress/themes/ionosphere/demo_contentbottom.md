@@ -27,11 +27,11 @@ This Text widget is pretty simple and straightforward. You will need to enter th
 </div>
 
 <div class="module-content">
-<div class="fp-main-img"><img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-main-2.jpg" alt="image"  width="284" height="253"/></div>
+<div class="fp-main-img"><img src="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-main-2.jpg" alt="image"  width="284" height="253"/></div>
 
 <div class="promo largepaddingtop"><h3 class="feature nobold largemarginbottom">Ultimate Customization</h3></div>
 <p>The twelve style variations are fully customizable with the most comprehensive <strong>color chooser </strong>system ever. Choose just a few tones and shades, and <strong>Ionosphere</strong> does the rest, <strong>automatically</strong> calculating an appropriate color scheme for the various theme elements. All at a push of the button inside the <strong>Gantry Administrator</strong>.</p>
-<a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/preset-styles/" class="readon"><span>More Information</span></a>
+<a href="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/preset-styles/" class="readon"><span>More Information</span></a>
 </div>
 </div>
 ~~~

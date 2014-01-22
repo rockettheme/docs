@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!Radiance:Radiance
 
 details: http://rockettheme.com/joomla/templates/radiance/
-demo: http://demo.rockettheme.com/joomla/radiance/
+demo: http://demo.rockettheme.com/joomla-templates/radiance/
 download: http://rockettheme.com/joomla/templates/radiance/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-radiance/
 
@@ -22,14 +22,14 @@ support: http://www.rockettheme.com/forum/joomla-radiance/
         * [Extensions](demo.md#recommended-extensions)
         * [Template Settings](demo_override.md)
         * [Module Settings](demo.md#module-settings)
-            * [RokGallery Showcase](demo_module_1.md)
-            * [FP Content Top A](demo_module_2.md)
-            * [Login Form](demo_module_3.md)
-            * [Color Chooser Controls](demo_module_4.md)
-            * [Initial Template Setup](demo_module_5.md)
-            * [Integrated Extensions](demo_module_6.md)
-            * [Demo Informationn](demo_module_7.md)
-            * [Frontpage Article](demo_module_8.md)
+            * [FP Feature A](demo_module_1.md)
+            * [Swift Customizing with Color Chooser](demo_module_2.md)
+            * [Radiance Gallery](demo_module_3.md)
+            * [Contact Us](demo_module_4.md)
+            * [Demo Information](demo_module_5.md)
+            * [Connect with Us](demo_module_6.md)
+            * [Main Menu (Sidebar)](demo_module_7.md)
+            * [Who's Online](demo_module_8.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)

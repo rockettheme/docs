@@ -110,7 +110,7 @@ The Text widget in this section is pretty straightforward. You will need to ente
 <div class="clear"></div>
 <div class="rt-separator"></div> 
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_hexeris/features/">Read More</a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_hexeris/features/">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

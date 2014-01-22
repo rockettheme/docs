@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!stratos:Stratos
 
 details: http://rockettheme.com/joomla/templates/stratos/
-demo: http://demo.rockettheme.com/joomla/stratos/
+demo: http://demo.rockettheme.com/joomla-templates/stratos/
 download: http://rockettheme.com/joomla/templates/stratos/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-stratos/
 

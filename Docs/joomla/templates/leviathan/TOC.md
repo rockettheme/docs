@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!leviathan:Leviathan
 
 details: http://rockettheme.com/joomla/templates/leviathan/
-demo: http://demo.rockettheme.com/joomla/leviathan/
+demo: http://demo.rockettheme.com/joomla-templates/leviathan/
 download: http://rockettheme.com/joomla/templates/leviathan/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-leviathan/
 

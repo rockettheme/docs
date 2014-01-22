@@ -52,6 +52,7 @@ more:
 
 * Club Themes
 	
+	- [Corvus](themes/corvus)
 	- [Praxis](themes/praxis)
 	- [Stratos](themes/stratos)
 	- [Hexeris](themes/hexeris)

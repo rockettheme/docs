@@ -90,7 +90,7 @@ You will need to enter the following in the main text field to create this text 
 
 ~~~
 <div class="rt-image">
-    <img src="http://demo.rockettheme.com/wordpress/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/footer/img1.jpg" alt="Image" />
+    <img src="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/footer/img1.jpg" alt="Image" />
 </div>
 ~~~
 

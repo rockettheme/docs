@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!paradigm:Paradigm
 
 details: http://rockettheme.com/joomla/templates/paradigm/
-demo: http://demo.rockettheme.com/joomla/paradigm/
+demo: http://demo.rockettheme.com/joomla-templates/paradigm/
 download: http://rockettheme.com/joomla/templates/paradigm/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-paradigm/
 

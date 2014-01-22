@@ -23,13 +23,13 @@ The first Text widget in the section is made a lot like the others. You will nee
 ~~~
 <ul class="dots">
   <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
+    <a href="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/plugins/">
       <em class="bold">RokSprocket</em>
     </a>
     <br />A <strong>revolutionary</strong> multi-purpose WordPress content widget to display your <strong>content</strong>, in <strong>multliple</strong> formats such as <strong>Tabs</strong>.
   </li>
   <li>
-    <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/plugins/">
+    <a href="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/plugins/">
       <em class="bold">RokGallery</em>
     </a>
     <br />A powerful <strong>gallery</strong> plugin based on a custom tag <strong>architecture</strong>, with a flexible, non-destructive <strong>slice</strong> editor.
@@ -53,7 +53,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 ~~~
 <p><strong>NOTE:</strong> All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a target="_blank" href="http://www.shutterstock.com"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site only.</p>
 
-<p><strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress/wp_ximenia/tutorials/rocketlauncher/"><strong>install</strong></a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.</p>
+<p><strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/tutorials/rocketlauncher/"><strong>install</strong></a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.</p>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -67,13 +67,13 @@ Here is a breakdown of options changes you will want to make to match the demo.
 The third Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon1.png" />
+<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon1.png" />
 <a href="#"><em class="bold"> 1 (555) 555-555-5555</em></a><br />
 <a href="#"><em class="bold"> 1 (555) 555-555-5556</em></a>
 
 <div class="clear largemarginbottom">&nbsp;</div>
 
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon2.png" />
+<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon2.png" />
 <em class="bold">
   <strong>Ximenia Theme LLC</strong><br />
 </em>
@@ -85,7 +85,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 
 <div class="clear largemarginbottom">&nbsp;</div>
 
-<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon3.png" />
+<img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/fp-footer-icon3.png" />
 <em class="bold">noreply@domain.com</em>
 ~~~
 

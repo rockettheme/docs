@@ -50,10 +50,10 @@ I installed Diametric RocketLauncher but the images are different with the demo 
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/diametric/features
+[features]: http://demo.rockettheme.com/joomla-templates/diametric/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/index.php?f=606&rb_v=viewforum
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/diametric/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/diametric/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/diametric/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla-templates/diametric/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/diametric/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-templates/diametric/features/extensions

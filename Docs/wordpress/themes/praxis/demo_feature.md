@@ -27,7 +27,7 @@ This section of the page is a standard text widget. You will need to enter the f
 	<div class="rt-center">
 		<div class="gantry-width-33 gantry-width-block rt-dark-text">
 			<div class="gantry-width-spacer">
-				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img1.jpg" /></p>
+				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img1.jpg" /></p>
 				<h3 class="rt-dark-text">Dropdown <strong>Menu</strong></h3>
 				<p><strong>Dropdown</strong> is a CSS powered dropdown menu system with advanced features such as multiple columns.</p>
 			</div>
@@ -35,7 +35,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 		<div class="gantry-width-33 gantry-width-block rt-dark-text">
 			<div class="gantry-width-spacer">
-				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img2.jpg" /></p>
+				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img2.jpg" /></p>
 				<h3 class="rt-dark-text">Site <strong>Performance</strong></h3>
 				<p><strong>Optimized</strong> images and compressed CSS files, through usage of the LESS, improve overall template performance.</p>
 			</div>
@@ -43,7 +43,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 		<div class="gantry-width-33 gantry-width-block rt-dark-text">
 			<div class="gantry-width-spacer">
-				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img3.jpg" /></p>
+				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img3.jpg" /></p>
 				<h3 class="rt-dark-text">Addon <strong>Styling</strong></h3>
 				<p><strong>Praxis</strong> has styled integration for a variety of RocketTheme plugins such as RokSprocket or RokAjaxSearch.</p>
 			</div>

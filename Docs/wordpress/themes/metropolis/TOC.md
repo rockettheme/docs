@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!metropolis:Metropolis
 
 details: http://www.rockettheme.com/wordpress/themes/metropolis
-demo: http://demo.rockettheme.com/wordpress/metropolis/
+demo: http://demo.rockettheme.com/wordpress-themes/metropolis/
 download: http://www.rockettheme.com/wordpress/themes/metropolis/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-metropolis
 

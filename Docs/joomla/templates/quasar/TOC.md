@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!quasar:Quasar
 
 details: http://rockettheme.com/joomla/templates/quasar/
-demo: http://demo.rockettheme.com/joomla/quasar/
+demo: http://demo.rockettheme.com/joomla-templates/quasar/
 download: http://rockettheme.com/joomla/templates/quasar/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-quasar/
 

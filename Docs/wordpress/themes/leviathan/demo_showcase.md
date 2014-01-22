@@ -33,7 +33,7 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
 ~~~
 <div class="visible-large">
     <div class="gantry-width-25 gantry-width-block">
-    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img1.jpg" /></span>
+    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img1.jpg" /></span>
   </div>
 
   <div class="gantry-width-75 gantry-width-block rt-condensed-text">
@@ -44,7 +44,7 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
   </div>
   <div class="clear"></div> 
   <div class="gantry-width-25 gantry-width-block largemargintop">
-    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img2.jpg" /></span>
+    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img2.jpg" /></span>
   </div>
 
   <div class="gantry-width-75 gantry-width-block rt-condensed-text largemargintop">
@@ -58,7 +58,7 @@ The text widget in this section is titled **Top Feature(s)** and has the followi
 
 <div class="hidden-phone hidden-tablet hidden-large">
   <div class="gantry-width-30 gantry-width-block">
-    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img1.jpg" /></span>
+    <span class="rt-image"><img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/sidebar-a/img1.jpg" /></span>
   </div>
 
   <div class="gantry-width-70 gantry-width-block rt-condensed-text">

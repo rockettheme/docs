@@ -89,10 +89,10 @@ The next Text widget in the section is made a lot like the others. You will need
 ~~~
 <div>
 <span class="rt-image rt-floatleft">
-<img src="http://demo.rockettheme.com/wordpress/wp_cerulean/wp-content/rockettheme/rt_cerulean_wp/frontpage/sidebar-b/img1.jpg" alt="image">
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_cerulean/wp-content/rockettheme/rt_cerulean_wp/frontpage/sidebar-b/img1.jpg" alt="image">
 </span>
-<small class="hidden-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress/wp_cerulean/plugins/">RokGallery</a> powered slideshow in the theme <strong>header</strong><span class="visible-large">, with its standard configuration options</span>.</small>
-<small class="visible-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress/wp_cerulean/plugins/">RokGallery</a> slideshow header.</small>
+<small class="hidden-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress-themes/wp_cerulean/plugins/">RokGallery</a> powered slideshow in the theme <strong>header</strong><span class="visible-large">, with its standard configuration options</span>.</small>
+<small class="visible-tablet">Choose between a static or a <a href="http://demo.rockettheme.com/wordpress-themes/wp_cerulean/plugins/">RokGallery</a> slideshow header.</small>
 </div>
 ~~~
 

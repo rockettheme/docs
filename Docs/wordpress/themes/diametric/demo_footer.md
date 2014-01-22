@@ -43,7 +43,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 The second Text widget in the section is made a lot like the others. You will need to enter the following in the main text field.
 
 ~~~
-<img src="http://demo.rockettheme.com/wordpress/wp_diametric/wp-content/rockettheme/rt_diametric_wp/frontpage/map.png" width="308" height="183" alt="Our Location" />
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_diametric/wp-content/rockettheme/rt_diametric_wp/frontpage/map.png" width="308" height="183" alt="Our Location" />
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

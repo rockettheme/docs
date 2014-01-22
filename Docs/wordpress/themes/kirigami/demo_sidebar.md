@@ -53,9 +53,9 @@ The Text widget in this section is titled **Demo Replica** and has the following
 ~~~
 <p class="medmarginbottom hidden-tablet"><strong>RocketLauncher</strong> is a customized <strong>WordPress</strong> install, that installs a <strong>replica</strong> of the <strong>demo</strong>.</p>
 
-<p>All sample content images, shown in this demo, will be replaced with blanks in the <a href="http://demo.rockettheme.com/wordpress/wp_kirigami/tutorials/installation/"><strong>Kirigami RocketLauncher</strong></a> package to avoid any copyright issue.</p>4
+<p>All sample content images, shown in this demo, will be replaced with blanks in the <a href="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/tutorials/installation/"><strong>Kirigami RocketLauncher</strong></a> package to avoid any copyright issue.</p>4
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_kirigami/tutorials/installation/"><span>Download</span></a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/tutorials/installation/"><span>Download</span></a>
 ~~~
 
 * Set the **Title** to `Demo Replica`

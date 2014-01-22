@@ -15,8 +15,8 @@ You will need to enter the following in the main text field to create this text 
 
 ~~~
 <p class="rt-image rt-center">
-  <img class="fp-img-light rt-noborder" src="http://demo.rockettheme.com/wordpress/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/bottom/img-light.jpg" alt="image">
-  <img class="fp-img-dark rt-noborder" src="http://demo.rockettheme.com/wordpress/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/bottom/img-dark.jpg" alt="image">
+  <img class="fp-img-light rt-noborder" src="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/bottom/img-light.jpg" alt="image">
+  <img class="fp-img-dark rt-noborder" src="http://demo.rockettheme.com/wordpress-themes/wp_chapelco/wp-content/rockettheme/rt_chapelco_wp/frontpage/bottom/img-dark.jpg" alt="image">
 </p>
 ~~~
 

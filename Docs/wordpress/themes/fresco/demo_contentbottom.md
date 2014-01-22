@@ -50,7 +50,7 @@ The Text widget in this section is titled **Plugins Support** and has the follow
 ~~~
 <p><strong>RokTwittie</strong> displays tweets from any Twitter account and/or search terms; and has <strong>Fresco</strong>-specific styling.</p>
 
-<img src="http://demo.rockettheme.com/wordpress/wp_fresco/wp-content/rockettheme/rt_fresco_wp/frontpage/general/cb-img1.jpg" class="rt-image cb-img1" alt="image" width="330" height="145" />
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_fresco/wp-content/rockettheme/rt_fresco_wp/frontpage/general/cb-img1.jpg" class="rt-image cb-img1" alt="image" width="330" height="145" />
 ~~~
 
 * Set the **Title** to `Plugins Support`.

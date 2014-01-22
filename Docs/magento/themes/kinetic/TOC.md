@@ -4,7 +4,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!kinetic:Kinetic/
 
 details: http://rockettheme.com/magento/themes/kinetic
 demo: http://demo.rockettheme.com/magento/kinetic/
-download: http://www.rockettheme.com/kinetic/modal/downloads
+download: http://www.rockettheme.com/magento/themes/kinetic/modal/downloads
 support: http://www.rockettheme.com/forum/magento-kinetic/
 
 ---

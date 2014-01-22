@@ -28,14 +28,14 @@ This section of the page is a standard text widget. You will need to enter the f
 RocketLauncher package</h3>
 
 <p><a href=
-"http://demo.rockettheme.com/wordpress/wp_corvus/installation/"><span class=
+"http://demo.rockettheme.com/wordpress-themes/wp_corvus/installation/"><span class=
 "rt-image-b"><img alt="image" src=
-"http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/mainbottom-a/img1.jpg"></span></a></p>
+"http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/mainbottom-a/img1.jpg"></span></a></p>
 
 <p><span>The RocketLauncher package installs a full version of WordPress
 <span class="hidden-tablet">with the demo sample data and sample images
 included</span>.</span></p><span class="readon-wrapper2"><a class="readon"
-href="http://demo.rockettheme.com/wordpress/wp_corvus/installation/">Read
+href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/installation/">Read
 More</a></span>
 ~~~
 

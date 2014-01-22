@@ -24,7 +24,7 @@ You will need to enter the following in the main text field to create this text 
 
 ~~~
 <p class="rt-center">
-    <img alt="Logo" src="http://demo.rockettheme.com/wordpress/wp_Lumiere/wp-content/rockettheme/rt_Lumiere_wp/frontpage/footer/logo-footer.png" class="rt-noborder">
+    <img alt="Logo" src="http://demo.rockettheme.com/wordpress-themes/wp_Lumiere/wp-content/rockettheme/rt_Lumiere_wp/frontpage/footer/logo-footer.png" class="rt-noborder">
 </p>
 ~~~
 

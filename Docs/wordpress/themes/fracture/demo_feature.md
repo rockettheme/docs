@@ -19,7 +19,7 @@ The Text widget in this section is used as an artistic divider between the Slide
 ~~~
 <div class="rt-center">
   <p class="promo1">is a comprehensive set of building blocks to enable rapid development ...</p>
-  <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_fracture/features/plugins/">Read More</a>
+  <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_fracture/features/plugins/">Read More</a>
 </div>
 ~~~
 

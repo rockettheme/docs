@@ -4,7 +4,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!Metropolis:Metropolis/
 
 details: http://rockettheme.com/magento/themes/metropolis
 demo: http://demo.rockettheme.com/magento/metropolis/
-download: http://www.rockettheme.com/metropolis/modal/downloads
+download: http://www.rockettheme.com/magento/themes/metropolis/modal/downloads
 support: http://www.rockettheme.com/forum/magento-metropolis/
 
 ---

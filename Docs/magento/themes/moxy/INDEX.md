@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/moxy.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/1786-Moxy
+[download]: http://www.rockettheme.com/magento/themes/moxy/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

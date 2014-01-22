@@ -1,11 +1,11 @@
 ---
-title: Radiance: Recreating the Demo - Color Chooser Controls
+title: Radiance: Recreating the Demo - Contact Us
 description: Your Guide to Recreating Elements of the Radiance Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/Radiance:Radiance
+breadcrumb: /joomla:Joomla/!templates:Templates/radiance:Radiance
 
 ---
 
-Color Chooser Controls
+Contact Us
 -----
 
 ![][demo]
@@ -20,9 +20,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option     | Setting                  |  
 | :--------- | :----------------------- |  
-| Title      | `Color Chooser Controls` |  
+| Title      | `Contact Us`             |  
 | Show Title | Show                     |  
-| Position   | sidebar-a                |  
+| Position   | bottom-a                 |  
 | Status     | Published                |  
 | Access     | Public                   |  
 
@@ -31,7 +31,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p><a href="index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=116">Customize</a> the template's <strong>color scheme</strong> via the Gantry administrator. Control various style elements such as <strong>link, text and background color</strong>, of the current or new <strong>presets</strong>.</p>
+<span>Radiance Template, Inc.</span><br />
+<span>7001 Saint Thomas Av.</span><br />
+<span>Seattle, WA, 00000, USA</span>
 ~~~
 
 ### Basic
@@ -49,9 +51,9 @@ Enter the following in the **Custom Output** text editor.
 
 | Option              | Setting  |  
 | :------------------ | :------- |  
-| Module Class Suffix | `title2` |  
+| Module Class Suffix |          |  
 
-[demo]: assets/demo_2.jpeg
-[demo2]: assets/color_1.jpeg
-[demo3]: assets/color_2.jpeg
-[demo4]: assets/color_3.jpeg
+[demo]: assets/demo_4.jpeg
+[demo2]: assets/contact_1.jpeg
+[demo3]: assets/contact_2.jpeg
+[demo4]: assets/contact_3.jpeg

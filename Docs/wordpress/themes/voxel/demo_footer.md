@@ -47,10 +47,10 @@ The second Text widget in the section is made a lot like the others. You will ne
 
 ~~~
 <ul>
-  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/">FEATURES</a></li>
-  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/plugins/">PLUGINS</a></li>
-  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/typography/">TYPOGRAPHY</a></li>
-  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/preset-styles/">STYLES</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/theme-features/">FEATURES</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/plugins/">PLUGINS</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/theme-features/typography/">TYPOGRAPHY</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/preset-styles/">STYLES</a></li>
 </ul>
 ~~~
 
@@ -67,7 +67,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 
 ~~~
 <ul>
-  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress/wp_voxel/tutorials/">TUTORIALS &amp; GUIDES</a></li>
+  <li><a class="normalfont" href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/tutorials/">TUTORIALS &amp; GUIDES</a></li>
   <li><a class="normalfont" href="http://www.rockettheme.com/forum/index.php?f=697&amp;rb_v=viewforum" target="_blank">FORUM SUPPORT</a></li>
 </ul>
 ~~~
@@ -94,7 +94,7 @@ The fourth Text widget in the section is made a lot like the others. You will ne
 
 
 <div class="rt-floatright medmargintop">
-  <a href="http://demo.rockettheme.com/wordpress/wp_voxel/plugins/">Learn More  </a>
+  <a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/plugins/">Learn More  </a>
 </div>
 
 <div class="clear"></div>

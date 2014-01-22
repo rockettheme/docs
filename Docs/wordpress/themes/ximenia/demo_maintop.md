@@ -61,7 +61,7 @@ The first Text widget is a simple text widget with HTML script written into the 
 
 ~~~
 <div class="rt-image rt-floatright">
-  <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/maintop-a.jpg" width="336" height="212" alt="image" />
+  <img src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/maintop-a.jpg" width="336" height="212" alt="image" />
 </div>
 
 <p><em class="bold nobold."><strong>Ximenia</strong>, the February 2013 theme release, is an elegant, <strong>subtle</strong> and conservative <strong>design</strong>, with <strong>soft</strong> tones and shapes.</em></p>
@@ -98,21 +98,21 @@ The second Text widget in the section is made a lot like the first. You will nee
 ~~~
 <div class="smallpaddingtop">
   <div class="rt-image rt-floatleft medmarginbottom nomarginright">
-    <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-1.jpg" alt="image">
+    <img src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-1.jpg" alt="image">
     <span class="cornertab"></span>
     <span class="image-description">Fusion with MegaMenu or SplitMenu menu options.</span>
     <span class="corner-symbol">&#043;</span>    
   </div>
   <div class="clear smallmarginbottom">&nbsp;</div>
   <div class="rt-image rt-floatleft medmarginbottom nomarginright">
-    <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-2.jpg" alt="image">
+    <img src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-2.jpg" alt="image">
     <span class="cornertab"></span>
     <span class="image-description">Eight elegant, subtle and conservative styles.</span>
     <span class="corner-symbol">&#043;</span>    
   </div>
   <div class="clear smallmarginbottom">&nbsp;</div>
   <div class="rt-image rt-floatleft medmarginbottom nomarginright">
-    <img src="http://demo.rockettheme.com/wordpress/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-3.jpg" alt="image">
+    <img src="http://demo.rockettheme.com/wordpress-themes/wp_ximenia/wp-content/rockettheme/rt_ximenia_wp/frontpage/general/sidebar-3.jpg" alt="image">
     <span class="cornertab"></span>
     <span class="image-description">RokSprocket style integration.</span>
     <span class="corner-symbol">&#043;</span>    

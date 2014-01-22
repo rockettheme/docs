@@ -23,7 +23,7 @@ You will need to enter the following in the main text field to create this text 
 
 ~~~
 <p>
-    <img class="rt-noborder" src="http://demo.rockettheme.com/wordpress/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/footer/logo-footer.png" alt="Logo" />
+    <img class="rt-noborder" src="http://demo.rockettheme.com/wordpress-themes/wp_leviathan/wp-content/rockettheme/rt_leviathan_wp/frontpage/footer/logo-footer.png" alt="Logo" />
 </p>
 
 <span>All demo content is for <strong>sample</strong> purposes only, intended to show a live site. All images are licensed from <a href="http://www.shutterstock.com" target="_blank"><strong>ShutterStock</strong></a> for  exclusive use on this <strong>demo</strong> site.</span>

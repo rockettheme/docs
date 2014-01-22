@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!corvus:Corvus
 
 details: http://rockettheme.com/joomla/templates/corvus
-demo: http://demo.rockettheme.com/joomla/corvus/
+demo: http://demo.rockettheme.com/joomla-templates/corvus/
 download: http://rockettheme.com/joomla/templates/corvus/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-corvus/
 

@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!stratos:Stratos
 
 details: http://www.rockettheme.com/wordpress/themes/stratos
-demo: http://demo.rockettheme.com/wordpress/stratos/
+demo: http://demo.rockettheme.com/wordpress-themes/stratos/
 download: http://www.rockettheme.com/wordpress/themes/stratos/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-stratos
 

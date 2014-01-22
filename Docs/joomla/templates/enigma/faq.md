@@ -22,9 +22,9 @@ What extensions are integrated with the template?
 A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokNavMenu and RokGallery.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/enigma/features
+[features]: http://demo.rockettheme.com/joomla-templates/enigma/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-enigma/
-[dropdown]: http://demo.rockettheme.com/joomla/enigma/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/enigma/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/enigma/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla-templates/enigma/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/enigma/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-templates/enigma/features/extensions

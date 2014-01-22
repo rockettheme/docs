@@ -25,7 +25,7 @@ The first text widget in this section is titled **Style Control** and has the fo
 ~~~
 <p>There are 3 background levels: low, med &amp; high; so you can flip between a rich or subtle style.</p>
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_fresco/preset-styles/"><span>See More</span></a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_fresco/preset-styles/"><span>See More</span></a>
 ~~~
 
 * Set the **Title** to `Style Control`.
@@ -49,7 +49,7 @@ The next text widget in this section is titled **Top Features** and has the foll
   <p>A Mootools-enhanced CSS dropdown menu system, with multi-column support.</p>
 </div>
 
-<a href="http://demo.rockettheme.com/wordpress/wp_fresco/theme-features/" class="readon"><span>See More</span></a>
+<a href="http://demo.rockettheme.com/wordpress-themes/wp_fresco/theme-features/" class="readon"><span>See More</span></a>
 ~~~
 
 * Set the **Title** to `Top Features`.
@@ -99,7 +99,7 @@ The widget should now be created and ready for use on the front page of your Wor
 The last text widget in this section has no title and has the following in the main text field.
 
 ~~~
-<strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress/wp_fresco/tutorials/installation/">install</a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.
+<strong>RocketLauncher</strong> is a custom WordPress package that will <a href="http://demo.rockettheme.com/wordpress-themes/wp_fresco/tutorials/installation/">install</a> the <strong>demo</strong> onto your site. Demo images are replaced with <strong>sample images</strong> to avoid any copyright issue.
 ~~~
 
 * Set the **Margin Variation** to **No Margin Bottom**.

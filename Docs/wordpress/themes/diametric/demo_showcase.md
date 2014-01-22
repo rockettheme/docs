@@ -25,7 +25,7 @@ The first Text widget in the section is made a lot like the others. You will nee
 ~~~
 <div class="rt-center">
   <p class="nopaddingtop">A gallery solution that uses a custom-tag based architecture and non-destructive editing.</p>
- <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_diametric/plugins/"><span>Read More</span></a>
+ <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_diametric/plugins/"><span>Read More</span></a>
 </div>
 ~~~
 
@@ -46,7 +46,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 ~~~
 <div class="rt-center">
  <p class="nopaddingtop">A powerful base that provides the majority of the theme's features and functions.</p>
- <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_diametric/theme-features/"><span>Read More</span></a>
+ <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_diametric/theme-features/"><span>Read More</span></a>
 </div>
 ~~~
 
@@ -64,7 +64,7 @@ The third Text widget is just like the other three. You will need to enter the f
 ~~~
 <div class="rt-center">
  <p class="nopaddingtop">An array of RokPlugins with Diametric specific styling, such as the new RokSprocket.</p>
- <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_diametric/plugins/"><span>Read More</span></a>
+ <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_diametric/plugins/"><span>Read More</span></a>
 </div>
 ~~~
 
@@ -82,7 +82,7 @@ The fourth Text widget in the section is made a lot like the others. You will ne
 ~~~
 <div class="rt-center">
   <p class="nopaddingtop">A Mootools enhanced CSS dropdown menu, supporting complex layouts and features.</p>
- <a class="readon" href="http://demo.rockettheme.com/wordpress/wp_diametric/theme-features/menu-options/"><span>Read More</span></a>
+ <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_diametric/theme-features/menu-options/"><span>Read More</span></a>
 </div>
 ~~~
 

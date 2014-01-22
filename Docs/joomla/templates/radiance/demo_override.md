@@ -1,7 +1,7 @@
 ---
 title: Radiance: Recreating the Demo - Template Settings
 description: Your Guide to Recreating Elements of the Radiance Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/Radiance:Radiance
+breadcrumb: /joomla:Joomla/!templates:Templates/radiance:Radiance
 
 ---
 
@@ -11,9 +11,9 @@ One of the most important aspects of any Gantry template is its ability to be ea
 
 ![][Radiance2]
 
-:   1. **Logo** [7%, 18%, se]
-    2. **Menu** [7%, 31%, se]
-    3. **Copyright** [92%, 19%, se]
+:   1. **Logo** [6%, 45%, se]
+    2. **Menu** [9%, 28%, se]
+    3. **Copyright** [92%, 17%, se]
     4. **To-Top** [92%, 48%, se]
     3. **Branding** [92%, 73%, se]
 
@@ -34,11 +34,11 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style   | Option           | Position     | Setting                                                                                 |  
 | :------ | :--------------- | :----------- | :-------------------------------------------------------------------------------------- |  
-| Default | Logo             | header-a     | Show: On, Auto Size: On, Background: Dark                                               |  
+| Default | Logo             | header-c     | Show: On, Auto Size: On, Background: Dark                                               |  
 | Default | Date             | utility-a    | Show: Off                                                                               |  
 | Default | Font-Sizer       | utility-b    | Show: Off                                                                               |  
 | Default | Login Panel      | utility-c    | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`              |  
-| Default | Popup Panel      | utility-d    | Show: Off, Popup Button Text: `Popup Module`                                            |  
+| Default | Popup Panel      | top-d        | Show: Off, Popup Button Text: `Popup Module`                                            |  
 | Default | Branding         | copyright-c  | Show: On                                                                                |  
 | Default | Copyright        | copyright-a  | Show: On, Text: `Designed by RocketTheme`                                               |  
 | Default | SmartLoad        |              | Show: On, Component Ignores: `com_community,com_contact,com_k2,com_tienda,com_weblinks` |  
@@ -52,9 +52,9 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style   | Option                  | Setting                                    |  
 | :------ | :---------------------- | :----------------------------------------- |  
-| Default | Menu Control            | Show: On, Type: Fusion-Menu                |  
+| Default | Menu Control            | Show: On, Centering: On Type: Fusion-Menu  |  
 | Default | Select a Menu           | Main Menu                                  |  
-| Default | Position                | navigation                                 |
+| Default | Position                | navigation-a                               |
 | Default | Enable Javascript       | On                                         |  
 | Default | Menu Opacity            | 1                                          |  
 | Default | Menu Effect             | Slide + Fade                               |  
@@ -69,16 +69,18 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Style   | Option               | Setting               |  
 | :------ | :------------------- | :-------------------- |  
 | Default | Top Positions        | Positions: 2, 5:7     |  
-| Default | Header Positions     | Positions: 4, 3:3:3:3 |  
-| Default | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default | Feature Positions    | Positions: 4, 3:3:3:3 |  
+| Default | Header Positions     | Positions: 1, 12      |  
+| Default | Navigation Positions | Positions: 1, 12      |  
+| Default | Showcase Positions   | Positions: 1, 12      |  
+| Default | Feature Positions    | Positions: 1, 12      |  
 | Default | Utility Positions    | Positions: 4, 3:3:3:3 |  
 | Default | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default | MainBody Positions   | Positions: 2, 8:4     |  
+| Default | MainBody Positions   | Positions: 2, 9:3     |  
 | Default | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default | Footer Positions     | Positions: 3, 4:4:4   |  
+| Default | Bottom Positions     | Positions: 3, 4:4:4   |  
+| Default | Footer Positions     | Positions: 4, 3:3:3:3 |  
 | Default | Copyright Positions  | Positions: 3, 4:4:4   |  
+| Home    | Bottom Positions     | Positions: 3, 3:5:4   |  
 
 ### Mobile
 
@@ -89,13 +91,13 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Scalable Content     |                   | Off                                          |  
 | Default | Standard View Switch | mobile-copyright  | Enable: On                                   |  
 | Default | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Cube        |  
-| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 12% |  
+| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |  
 | Default | Positions Aliases    | mobile-drawer     | drawer                                       |  
 | Default | Positions Aliases    | mobile-top        | header-a                                     |  
 | Default | Positions Aliases    | mobile-header     | header-c                                     |  
 | Default | Positions Aliases    | mobile-navigation | mobile-navigation                            |  
 | Default | Positions Aliases    | mobile-showcase   | mobile-showcase                              |  
-| Default | Positions Aliases    | mobile-feature    | mobile-feature                               |  
+| Default | Positions Aliases    | mobile-feature    | content-top-a                                |  
 | Default | Positions Aliases    | mobile-bottom     | bottom-b                                     |  
 | Default | Positions Aliases    | mobile-footer     | footer-a                                     |  
 | Default | Positions Aliases    | mobile-copyright  | copyright-a                                  |   
@@ -105,7 +107,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Style   | Option            | Setting                                                                                               |  
 | :------ | :---------------- | :---------------------------------------------------------------------------------------------------- |  
 | Default | Gantry Cache      | Enabled: Off, Cache Timeout: 900                                                                      |  
-| Default | Input Styling     | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin','#vmMainPage'`                 |  
+| Default | Input Styling     | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin','#contact-form','#vmMainPage'` |  
 | Default | Inline JS File    | Off                                                                                                   |  
 | Default | Display Component | On                                                                                                    |  
 | Default | Display Mainbody  | On                                                                                                    |  
@@ -114,9 +116,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Page Suffix       | On                                                                                                    |  
 | Default | RT Typography     | Enabled: On, Typography Styling: Light                                                                |  
 | Default | RT Extensions     | On                                                                                                    |  
-| Default | K2 Styling        | On                                                                                                    |  
-| Default | IE7 Redirect      | On                                                                                                    |  
-| Home    | Input Styling     | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin','#contact-form','#vmMainPage'` |  
+| Default | IE6 Redirect      | On                                                                                                    |  
 
 ### Assignments
 
@@ -124,7 +124,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  
 
-[demo25]: assets/Radiance.jpg
+[demo25]: assets/radiance.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [Radiance2]: assets/Radiance2.jpeg

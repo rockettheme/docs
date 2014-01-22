@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!diametric:Diametric
 
 details: http://www.rockettheme.com/joomla/templates/diametric
-demo: http://demo.rockettheme.com/joomla/diametric/
+demo: http://demo.rockettheme.com/joomla-templates/diametric/
 download: http://www.rockettheme.com/joomla/templates/diametric/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-diametric
 

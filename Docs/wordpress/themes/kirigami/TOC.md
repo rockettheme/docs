@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!kirigami:Kirigami
 
 details: http://www.rockettheme.com/wordpress/themes/kirigami
-demo: http://demo.rockettheme.com/wordpress/kirigami/
+demo: http://demo.rockettheme.com/wordpress-themes/kirigami/
 download: http://www.rockettheme.com/wordpress/themes/kirigami/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-kirigami
 

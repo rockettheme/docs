@@ -44,7 +44,7 @@ You will need to enter the following in the main text field to create this text 
 <div class="clear"></div>
 
 <div class="rt-image fp-image">
-  <img alt="image" src="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/feature/img1.jpg">
+  <img alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/feature/img1.jpg">
   <div class="rt-image-desc hidden-phone">
     <span><strong>Monday, April 1,</strong> 2013 at 1:00 PM</span><br />
     <span><strong>Tuesday, April 30,</strong> 2013 at 4:00 PM (PDT)</span>

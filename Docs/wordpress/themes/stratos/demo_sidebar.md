@@ -35,12 +35,12 @@ The following is entered in the main text field.
 <p class="hidden-tablet">A responsive theme with colorful iconography.</p>
 
 <p class="box3 fp-sidebar-img">
-    <img src="http://demo.rockettheme.com/wordpress/wp_stratos/wp-content/rockettheme/rt_stratos_wp/frontpage/sidebar/img1.png" alt="image" />
+    <img src="http://demo.rockettheme.com/wordpress-themes/wp_stratos/wp-content/rockettheme/rt_stratos_wp/frontpage/sidebar/img1.png" alt="image" />
 </p>
 
 <p>Built with Gantry4 and LESS CSS.</p>
 
-<a href="http://demo.rockettheme.com/wordpress/wp_stratos/features/" class="readon">Read More</a>
+<a href="http://demo.rockettheme.com/wordpress-themes/wp_stratos/features/" class="readon">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

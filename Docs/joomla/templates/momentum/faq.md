@@ -30,10 +30,10 @@ I installed Momentum RocketLauncher but the images are different with the demo s
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/momentum/features
+[features]: http://demo.rockettheme.com/joomla-templates/momentum/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-momentum
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/momentum/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/momentum/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla-templates/momentum/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/momentum/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-templates/momentum/features/extensions

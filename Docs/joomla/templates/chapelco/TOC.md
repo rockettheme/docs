@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!chapelco:Chapelco
 
 details: http://rockettheme.com/joomla/templates/chapelco
-demo: http://demo.rockettheme.com/joomla/chapelco/
+demo: http://demo.rockettheme.com/joomla-templates/chapelco/
 download: http://rockettheme.com/joomla/templates/chapelco/modal/downloads
 support: http://www.rockettheme.com/forum/
 

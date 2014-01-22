@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!clarion:Clarion
 
 details: http://rockettheme.com/joomla/templates/clarion
-demo: http://demo.rockettheme.com/joomla/clarion/
+demo: http://demo.rockettheme.com/joomla-templates/clarion/
 download: http://rockettheme.com/joomla/templates/clarion/modal/downloads
 support: http://www.rockettheme.com/forum/
 

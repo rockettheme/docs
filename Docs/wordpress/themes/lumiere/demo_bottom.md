@@ -24,8 +24,8 @@ You will need to enter the following in the main text field to create this text 
   <div class="gantry-width-70 gantry-width-block">
   	<div class="gantry-width-spacer">
 		<p class="rt-image">
-		  <img class="fp-img-light rt-noborder" src="http://demo.rockettheme.com/wordpress/wp_lumiere/wp-content/rockettheme/rt_lumiere_wp/frontpage/bottom/img-light.jpg" alt="image">
-		  <img class="fp-img-dark rt-noborder" src="http://demo.rockettheme.com/wordpress/wp_lumiere/wp-content/rockettheme/rt_lumiere_wp/frontpage/bottom/img-dark.jpg" alt="image">
+		  <img class="fp-img-light rt-noborder" src="http://demo.rockettheme.com/wordpress-themes/wp_lumiere/wp-content/rockettheme/rt_lumiere_wp/frontpage/bottom/img-light.jpg" alt="image">
+		  <img class="fp-img-dark rt-noborder" src="http://demo.rockettheme.com/wordpress-themes/wp_lumiere/wp-content/rockettheme/rt_lumiere_wp/frontpage/bottom/img-dark.jpg" alt="image">
 		</p>
 	</div>
   </div>

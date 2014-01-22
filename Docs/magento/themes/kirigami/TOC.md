@@ -4,7 +4,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!kirigami:Kirigami/
 
 details: http://rockettheme.com/magento/themes/kirigami
 demo: http://demo.rockettheme.com/magento/kirigami/
-download: http://www.rockettheme.com/kirigami/modal/downloads
+download: http://www.rockettheme.com/magento/themes/kirigami/modal/downloads
 support: http://www.rockettheme.com/forum/magento-kirigami/
 
 ---

@@ -59,18 +59,18 @@ You will need to enter the following in the main text field to create this text 
 ~~~ .html
 [solid-separator]
 
-[speaker img="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img1.jpg" name="Mary Watson" position="Software Architech" info="Gantry offers powerful under the hood features and extras." link="#"]View Full Bio[/speaker]
+[speaker img="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img1.jpg" name="Mary Watson" position="Software Architech" info="Gantry offers powerful under the hood features and extras." link="#"]View Full Bio[/speaker]
 
 [solid-separator]
 
 <div class="hidden-tablet">
-[speaker img="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img2.jpg" name="Peter Malkay" position="Design Visionary" info="Beautifully integrated typography to add life to your content." link="#"]View Full Bio[/speaker]
+[speaker img="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img2.jpg" name="Peter Malkay" position="Design Visionary" info="Beautifully integrated typography to add life to your content." link="#"]View Full Bio[/speaker]
 
 [solid-separator]
 </div>
 
 <div class="visible-large">
-[speaker img="http://demo.rockettheme.com/wordpress/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img3.jpg" name="Franklin Johnston" position="CEO &amp; Founder" info="Integrated styling for K2 is also provided, but not demoed." link="#"]View Full Bio[/speaker]
+[speaker img="http://demo.rockettheme.com/wordpress-themes/wp_alerion/wp-content/rockettheme/rt_alerion_wp/frontpage/sidebar/img3.jpg" name="Franklin Johnston" position="CEO &amp; Founder" info="Integrated styling for K2 is also provided, but not demoed." link="#"]View Full Bio[/speaker]
 </div>
 ~~~
 

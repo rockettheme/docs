@@ -50,10 +50,10 @@ I installed Acacia RocketLauncher but the images are different with the demo sit
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla/acacia/features
+[features]: http://demo.rockettheme.com/joomla-templates/acacia/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-acacia/
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[dropdown]: http://demo.rockettheme.com/joomla/acacia/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla/acacia/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla/acacia/features/extensions
+[dropdown]: http://demo.rockettheme.com/joomla-templates/acacia/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-templates/acacia/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-templates/acacia/features/extensions

@@ -29,7 +29,7 @@ You will need to enter the following in the main text field to create this text 
 ~~~
 <p>Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the theme, allowing configurable areas to move based on scroll position.</p>
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/features/">Read More</a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_alerion/features/">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -46,7 +46,7 @@ You will need to enter the following in the main text field to create this text 
 ~~~
 <p>Configure floating widgets to 'bounce' between the theme sections. Choose an end position in the widget settings. The QuickNav feature also 'bounces' between all sections.</p>
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/preset-styles/">Read More</a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_alerion/preset-styles/">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -63,7 +63,7 @@ You will need to enter the following in the main text field to create this text 
 ~~~
 <p>A wide assortment of widget variations are available, to diversify your widgetized content. Modify the style of the titles, backgrounds, layouts or varying combinations for each widget.</p>
 
-<a class="readon" href="http://demo.rockettheme.com/wordpress/wp_alerion/widget-variations/">Read More</a>
+<a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_alerion/widget-variations/">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

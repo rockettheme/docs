@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!fresco:Fresco
 
 details: http://www.rockettheme.com/wordpress/themes/fresco
-demo: http://demo.rockettheme.com/wordpress/fresco/
+demo: http://demo.rockettheme.com/wordpress-themes/fresco/
 download: http://www.rockettheme.com/wordpress/themes/fresco/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-fresco
 

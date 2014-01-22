@@ -32,7 +32,7 @@ Most of the magic takes place in the article content:
 
 ~~~ .html
 <div class="gantry-width-30 gantry-width-block">
-    <img class="rt-image-a" src="http://demo.rockettheme.com/wordpress/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/featured/img2.jpg" alt="image">
+    <img class="rt-image-a" src="http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/featured/img2.jpg" alt="image">
 </div>
 
 <div class="gantry-width-60 gantry-width-block">
@@ -48,7 +48,7 @@ Most of the magic takes place in the article content:
 	<span class="rt-tag">Action</span>
 </span>
 
-<a href="http://demo.rockettheme.com/wordpress/wp_corvus/plugins/" class="readon2 rt-floatright">+</a>
+<a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/plugins/" class="readon2 rt-floatright">+</a>
 ~~~ 
 
 [demo]: assets/demo_10.jpeg

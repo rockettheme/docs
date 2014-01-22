@@ -22,9 +22,9 @@ The first Text widget in the section is made a lot like the others. You will nee
 
 ~~~
 <ul class="dots normarginbottom">
-    <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/tutorials/rocketlauncher/">RocketLauncher: Demo Pack</a><br /><span>A complete, streamlined / modified WordPress install that replicates this theme demo.</span> </li>
-  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/plugins/">Plugins Package</a><br /><span>A zip package that contains all of the plugins utilised in this theme.</span></li>
-  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress/wp_ionosphere/tutorials/installation/">Adobe&#174; Fireworks PNG Sources</a><br /><span>Theme / BG Sources &amp; Font(s).</span></li>
+    <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/tutorials/rocketlauncher/">RocketLauncher: Demo Pack</a><br /><span>A complete, streamlined / modified WordPress install that replicates this theme demo.</span> </li>
+  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/plugins/">Plugins Package</a><br /><span>A zip package that contains all of the plugins utilised in this theme.</span></li>
+  <li class="smallmarginbottom"><a href="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/tutorials/installation/">Adobe&#174; Fireworks PNG Sources</a><br /><span>Theme / BG Sources &amp; Font(s).</span></li>
 </ul>
 ~~~
 
@@ -57,18 +57,18 @@ The third Text widget in the section is made a lot like the others. You will nee
 
 ~~~
 <div class="feature">
-<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon1.png" alt="image" class="largepaddingleft floatleft smallpaddingright medpaddingtop" />
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon1.png" alt="image" class="largepaddingleft floatleft smallpaddingright medpaddingtop" />
 <a><em class="bold2 nobold"> 1 (555) 555-555-5555</em></a><br />
 <a><em class="bold2 nobold"> 1 (555) 555-555-5556</em></a>
 <div class="clear largemarginbottom">&nbsp;</div>
-<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon3.png" alt="image" class="largepaddingleft floatleft smallpaddingright largemarginbottom largepaddingbottom" />
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon3.png" alt="image" class="largepaddingleft floatleft smallpaddingright largemarginbottom largepaddingbottom" />
 <em class="bold2 nobold">
     Ionosphere Theme LLC<br />
   123 Joomla! Boulevard<br />
   Seattle, WA 00000, USA
 </em>
 <div class="clear largemarginbottom">&nbsp;</div>
-<img src="http://demo.rockettheme.com/wordpress/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon4.png" alt="image" class="largepaddingleft floatleft smallpaddingright" />
+<img src="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon4.png" alt="image" class="largepaddingleft floatleft smallpaddingright" />
 <em class="bold2 nobold">noreply&#64;domain.com</em>
 </div>
 ~~~

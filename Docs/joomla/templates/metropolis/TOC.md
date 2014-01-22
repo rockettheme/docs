@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!templates:Templates/!metropolis:Metropolis
 
 details: http://rockettheme.com/joomla/templates/metropolis
-demo: http://demo.rockettheme.com/joomla/metropolis/
+demo: http://demo.rockettheme.com/joomla-templates/metropolis/
 download: http://rockettheme.com/joomla/templates/metropolis/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-metropolis/
 

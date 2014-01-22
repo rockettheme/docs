@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/clarion.jpeg
 [rokmagelayout]: assets/rokmagelayout.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/3119-clarion
+[download]: http://www.rockettheme.com/magento/themes/clarion/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

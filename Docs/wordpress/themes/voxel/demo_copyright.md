@@ -38,10 +38,10 @@ The Text widget in the section is used as a handmade menu. You will need to ente
 
 ~~~
 <ul class="menu">
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/">Home</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/">Features</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/tutorials/">Tutorials</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/preset-styles/">Styles</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/">Home</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/theme-features/">Features</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/tutorials/">Tutorials</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/preset-styles/">Styles</a></li>
 	<li><a href="http://rockettheme.com" target="_blank">RocketTheme</a></li>
 </ul>
 ~~~

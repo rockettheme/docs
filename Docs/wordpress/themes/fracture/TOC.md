@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!themes:Themes/!fracture:Fracture
 
 details: http://www.rockettheme.com/wordpress/themes/fracture
-demo: http://demo.rockettheme.com/wordpress/fracture/
+demo: http://demo.rockettheme.com/wordpress-themes/fracture/
 download: http://www.rockettheme.com/wordpress/themes/fracture/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-fracture
 

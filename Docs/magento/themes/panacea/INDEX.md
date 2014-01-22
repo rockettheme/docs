@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/panacea.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/2574-panacea
+[download]: http://www.rockettheme.com/magento/themes/panacea/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

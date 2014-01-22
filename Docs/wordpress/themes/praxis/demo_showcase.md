@@ -48,7 +48,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 In this instance, we did not do a whole lot to customize the simple items. We did, however, add a custom description for each item. This description sets the images found in the strips. Below, you will find the text used in one of these items.
 
 ~~~ .html
-<span class="sprocket-strips-image">	<span class="strips-image-shadow"></span>	<img src="http://demo.rockettheme.com/wordpress/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/roksprocket-strips/img8.jpg" alt="image" /></span>
+<span class="sprocket-strips-image">	<span class="strips-image-shadow"></span>	<img src="http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/roksprocket-strips/img8.jpg" alt="image" /></span>
 ~~~
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.

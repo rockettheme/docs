@@ -125,5 +125,5 @@ If you are creating a fresh install and would like sample data included, you can
 [theme]: assets/ionosphere.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
 [responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento-downloads/club/3647-Ionosphere
+[download]: http://www.rockettheme.com/magento/themes/ionosphere/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

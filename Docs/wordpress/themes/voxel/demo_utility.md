@@ -20,10 +20,10 @@ You will need to enter the following in the main text field.
 
 ~~~
 <ul class="menu">
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/">Theme Features</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/plugins/">RokSprocket Mosaic</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/theme-features/menu-options/">Menu Options</a></li>
-	<li><a href="http://demo.rockettheme.com/wordpress/wp_voxel/preset-styles/">Preset Styles</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/theme-features/">Theme Features</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/plugins/">RokSprocket Mosaic</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/theme-features/menu-options/">Menu Options</a></li>
+	<li><a href="http://demo.rockettheme.com/wordpress-themes/wp_voxel/preset-styles/">Preset Styles</a></li>
 </ul>
 ~~~
 

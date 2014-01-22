@@ -129,4 +129,4 @@ The `longshadow` div at the end of the line creates that shadow that sweeps acro
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
 [chart_1]: assets/chart_1.jpeg
 [chart_2]: assets/chart_2.jpeg
-[list]: http://demo.rockettheme.com/joomla/acacia/features/typography
+[list]: http://demo.rockettheme.com/joomla-templates/acacia/features/typography

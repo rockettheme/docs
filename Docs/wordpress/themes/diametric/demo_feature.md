@@ -24,7 +24,7 @@ The Text widget is a simple text widget with HTML script written into the body. 
 
 <p class="largemargintop"><strong>Diametric</strong>, the November 2012 theme release, is a beautifully layered theme, with a distinct panel-based design, using the powerful <strong>ColorChooser</strong> system; with comprehensive RokPlugins styling.</p>
 
-<img class="rt-floatright largepaddingleft" src="http://demo.rockettheme.com/wordpress/wp_diametric/wp-content/rockettheme/rt_diametric_wp/frontpage/fp-feature1.png" alt="Feature" width="270" height="247" />
+<img class="rt-floatright largepaddingleft" src="http://demo.rockettheme.com/wordpress-themes/wp_diametric/wp-content/rockettheme/rt_diametric_wp/frontpage/fp-feature1.png" alt="Feature" width="270" height="247" />
 
 <ul class="list-icon checkbox">
   <li><strong>ColorChooser: Ultimate Style Control</strong><br />
@@ -35,7 +35,7 @@ The Text widget is a simple text widget with HTML script written into the body. 
   </li>
 </ul>
 
-<a href="http://demo.rockettheme.com/wordpress/wp_diametric/theme-features/" class="readon"><span>More Information</span></a>
+<a href="http://demo.rockettheme.com/wordpress-themes/wp_diametric/theme-features/" class="readon"><span>More Information</span></a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

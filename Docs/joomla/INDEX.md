@@ -68,6 +68,7 @@ more:
 	- [Visage](templates/visage)
 	- [Enigma](templates/enigma)
 	- [Momentum](templates/momentum)
+	- [Radiance](templates/radiance)
 
 <!-- -->
 

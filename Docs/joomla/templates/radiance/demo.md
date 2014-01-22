@@ -25,25 +25,25 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Radiance]
 
-:   1. **RokGallery Showcase**  [10%, 18%, se]
-    2. **FP Content Top A** [24%, 18%, se]
-    3. **Login Form** [42%, 82%, sw]
-    4. **Color Chooser Controls**  [55%, 82%, sw]
-    5. **Initial Template Setup**  [64%, 82%, sw]
-    6. **Integrated Extensions**  [65%, 18%, se]
-    7. **Demo Information** [81%, 18%, se]
-    8. **Frontpage Article** [45%, 18%, se]
+:   1. **Frontpage Feature-A**  [24%, 17%, se]
+    2. **Swift Customizing with Color Chooser** [31%, 17%, se]
+    3. **Frontpage RokGallery** [43%, 17%, se]
+    4. **Contact Us**  [83%, 17%, se]
+    5. **Demo Information**  [83%, 35%, se]
+    6. **Connect With Us**  [83%, 63%, se]
+    7. **Sidebar Menu** [31%, 84%, sw]
+    8. **Who's Online** [59%, 84%, sw]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
-1. [RokGallery Showcase][module1]
-2. [FP Content Top A][module2]
-3. [Login Form][module3]
-4. [Color Chooser Controls][module4]
-5. [Initial Template Setup][module5]
-6. [Integrated Extensions][module6]
-7. [Demo Information][module7]
-8. [Frontpage Article][module8]
+1. [Frontpage Feature-A][module1]
+2. [Swift Customizing with Color Chooser][module2]
+3. [Frontpage RokGallery][module3]
+4. [Contact Us][module4]
+5. [Demo Information][module5]
+6. [Connect With Us][module6]
+7. [Sidebar Menu][module7]
+8. [Who's Online][module8]
 
 Recommended Extensions
 -----
@@ -90,14 +90,14 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `oct11-home`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `sep11-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery
-[Radiance]: assets/Radiance2.jpeg
-[Radiance2]: assets/Radiance.jpeg
+[Radiance]: assets/radiance2.jpeg
+[Radiance2]: assets/radiance.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
