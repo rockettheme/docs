@@ -69,6 +69,7 @@ more:
 	- [Enigma](templates/enigma)
 	- [Momentum](templates/momentum)
 	- [Radiance](templates/radiance)
+	- [Camber](templates/camber)
 
 <!-- -->
 
