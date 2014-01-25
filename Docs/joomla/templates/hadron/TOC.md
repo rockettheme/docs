@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!Hadron:Hadron
 details: http://rockettheme.com/joomla/templates/hadron/
 demo: http://demo.rockettheme.com/joomla-templates/hadron/
 download: http://rockettheme.com/joomla/templates/hadron/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-hadron/
+support: http://www.rockettheme.com/forum/joomla-template-hadron/
 
 ---
 

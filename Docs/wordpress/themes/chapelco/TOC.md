@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!chapelco:Chapelco
 details: http://www.rockettheme.com/wordpress/themes/chapelco
 demo: http://demo.rockettheme.com/wordpress-themes/chapelco/
 download: http://www.rockettheme.com/wordpress/themes/chapelco/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-chapelco
+support: http://www.rockettheme.com/forum/wordpress-theme-chapelco
 
 ---
 

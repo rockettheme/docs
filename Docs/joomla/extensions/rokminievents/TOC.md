@@ -6,7 +6,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokminievents:RokMiniEvents
 details: http://rockettheme.com/joomla/extensions/rokminievents
 demo: http://demo.rockettheme.com/joomla/rokminievents/
 download: http://www.rockettheme.com/joomla/extensions/rokminievents/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-rokminievents/
+support: http://www.rockettheme.com/forum/joomla-extension-rokminievents/
 
 ---
 

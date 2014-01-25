@@ -93,4 +93,4 @@ If you have any questions regarding this tutorial, please post in [Lumiere Forum
 [demo6]: assets/video_6.jpg
 [lumiere]: http://www.rockettheme.com/joomla-downloads/club/3333-lumiere
 [miro]: http://www.mirovideoconverter.com/
-[forum]: http://www.rockettheme.com/forum/index.php?f=703&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/joomla-template-lumiere

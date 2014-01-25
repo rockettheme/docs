@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!visage:Visage/
 details: http://www.rockettheme.com/phpbb/styles/visage
 demo: http://demo.rockettheme.com/live/phpbb/visage/
 download: http://rockettheme.com/phpbb/styles/visage/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-visage/
+support: http://www.rockettheme.com/forum/phpbb-style-visage/
 
 ---
 

@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcomments:RokComments
 details: http://rockettheme.com/joomla/extensions/rokcomments
 demo: http://demo.rockettheme.com/joomla/rokcomments/
 download: http://www.rockettheme.com/joomla/extensions/rokcomments/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-rokcomments/
+support: http://www.rockettheme.com/forum/joomla-extension-rokcomments/
 
 ---
 

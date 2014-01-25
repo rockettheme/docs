@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!alerion:Alerion
 details: http://www.rockettheme.com/wordpress/themes/alerion
 demo: http://demo.rockettheme.com/wordpress-themes/alerion/
 download: http://www.rockettheme.com/wordpress/themes/alerion/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-alerion
+support: http://www.rockettheme.com/forum/wordpress-theme-alerion
 
 ---
 

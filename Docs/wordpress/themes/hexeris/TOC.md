@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!hexeris:Hexeris
 details: http://www.rockettheme.com/wordpress/themes/hexeris
 demo: http://demo.rockettheme.com/wordpress-themes/hexeris/
 download: http://www.rockettheme.com/wordpress/themes/hexeris/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-hexeris
+support: http://www.rockettheme.com/forum/wordpress-theme-hexeris
 
 ---
 

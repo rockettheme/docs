@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!fracture:Fracture/
 details: http://www.rockettheme.com/phpbb/styles/fracture
 demo: http://demo.rockettheme.com/live/phpbb/fracture/
 download: http://rockettheme.com/phpbb/styles/fracture/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-fracture/
+support: http://www.rockettheme.com/forum/phpbb-style-fracture/
 
 ---
 

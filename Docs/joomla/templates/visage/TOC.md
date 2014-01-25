@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!visage:Visage
 details: http://rockettheme.com/joomla/templates/visage/
 demo: http://demo.rockettheme.com/joomla-templates/visage/
 download: http://rockettheme.com/joomla/templates/visage/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-visage/
+support: http://www.rockettheme.com/forum/joomla-template-visage/
 
 ---
 

@@ -4,7 +4,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 details: http://rockettheme.com/joomla/extensions/rokpad
 download: http://www.rockettheme.com/joomla/extensions/rokpad/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-rokpad/
+support: http://www.rockettheme.com/forum/joomla-extension-rokpad/
 
 ---
 

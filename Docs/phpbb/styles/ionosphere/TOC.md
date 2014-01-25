@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!ionosphere:Ionosphere/
 details: http://www.rockettheme.com/phpbb/styles/ionosphere
 demo: http://demo.rockettheme.com/live/phpbb/ionosphere/
 download: http://rockettheme.com/phpbb/styles/ionosphere/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-ionosphere/
+support: http://www.rockettheme.com/forum/phpbb-style-ionosphere/
 
 ---
 

@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!fresco:Fresco/
 details: http://www.rockettheme.com/phpbb/styles/fresco
 demo: http://demo.rockettheme.com/live/phpbb/fresco/
 download: http://rockettheme.com/phpbb/styles/fresco/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-fresco/
+support: http://www.rockettheme.com/forum/phpbb-style-fresco/
 
 ---
 

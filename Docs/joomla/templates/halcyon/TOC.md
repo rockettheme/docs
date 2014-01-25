@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!halcyon:Halcyon
 details: http://rockettheme.com/joomla/templates/halcyon/
 demo: http://demo.rockettheme.com/joomla-templates/halcyon/
 download: http://rockettheme.com/joomla/templates/halcyon/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-halcyon/
+support: http://www.rockettheme.com/forum/joomla-template-halcyon/
 
 ---
 

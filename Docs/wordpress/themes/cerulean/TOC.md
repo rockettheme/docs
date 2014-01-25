@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!cerulean:Cerulean
 details: http://www.rockettheme.com/wordpress/themes/cerulean
 demo: http://demo.rockettheme.com/wordpress-themes/cerulean/
 download: http://www.rockettheme.com/wordpress/themes/cerulean/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-cerulean
+support: http://www.rockettheme.com/forum/wordpress-theme-cerulean
 
 ---
 

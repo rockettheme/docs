@@ -6,7 +6,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokbox:RokBox
 details: http://www.rockettheme.com/wordpress/plugins/rokbox
 demo: http://demo.rockettheme.com/joomla/rokbox/
 download: http://www.rockettheme.com/wordpress/plugins/rokbox/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-rokbox/
+support: http://www.rockettheme.com/forum/wordpress-plugin-rokbox/
 
 ---
 

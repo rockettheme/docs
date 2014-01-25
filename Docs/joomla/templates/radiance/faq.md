@@ -24,7 +24,7 @@ A few of our [RocketTheme extensions][extensions] have been given individual sty
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-templates/radiance/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=575&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/joomla-template-radiance
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla-templates/Radiance/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla-templates/Radiance/features/menu-options

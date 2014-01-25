@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!fresco:Fresco
 details: http://rockettheme.com/joomla/templates/fresco
 demo: http://demo.rockettheme.com/joomla-templates/fresco/
 download: http://rockettheme.com/joomla/templates/fresco/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-fresco/
+support: http://www.rockettheme.com/forum/joomla-template-fresco/
 
 ---
 

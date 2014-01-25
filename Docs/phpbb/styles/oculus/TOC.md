@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!oculus:Oculus/
 details: http://www.rockettheme.com/phpbb/styles/oculus
 demo: http://demo.rockettheme.com/live/phpbb/oculus/
 download: http://rockettheme.com/phpbb/styles/oculus/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-oculus/
+support: http://www.rockettheme.com/forum/phpbb-style-oculus/
 
 ---
 

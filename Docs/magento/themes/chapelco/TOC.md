@@ -5,7 +5,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!Chapelco:Chapelco/
 details: http://rockettheme.com/magento/themes/chapelco
 demo: http://demo.rockettheme.com/magento-themes/chapelco/
 download: http://www.rockettheme.com/magento/themes/cerulean/modal/downloads
-support: http://www.rockettheme.com/forum/magento-chapelco/
+support: http://www.rockettheme.com/forum/magento-theme-chapelco/
 
 ---
 

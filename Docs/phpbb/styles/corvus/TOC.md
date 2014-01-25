@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!corvus:Corvus/
 details: http://www.rockettheme.com/phpbb/styles/corvus
 demo: http://demo.rockettheme.com/live/phpbb/corvus/
 download: http://rockettheme.com/phpbb/styles/corvus/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-corvus/
+support: http://www.rockettheme.com/forum/phpbb-style-corvus/
 
 ---
 

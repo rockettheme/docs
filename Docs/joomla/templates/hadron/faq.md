@@ -63,7 +63,7 @@ To avoid image license copyright issues, all sample content images shown in our 
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-templates/hadron/features
 [font]: http://www.fontsquirrel.com/fonts/Raleway
-[forum]: http://www.rockettheme.com/forum/index.php?f=839&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/joomla-template-hadron
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla-templates/hadron/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla-templates/hadron/features/menu-options

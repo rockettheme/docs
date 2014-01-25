@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!oculus:Oculus
 details: http://www.rockettheme.com/wordpress/themes/oculus
 demo: http://demo.rockettheme.com/wordpress-themes/oculus/
 download: http://www.rockettheme.com/wordpress/themes/oculus/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-oculus
+support: http://www.rockettheme.com/forum/wordpress-theme-oculus
 
 ---
 

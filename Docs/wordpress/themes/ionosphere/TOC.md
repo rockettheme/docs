@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!ionosphere:Ionosphere
 details: http://www.rockettheme.com/wordpress/themes/ionosphere
 demo: http://demo.rockettheme.com/wordpress-themes/ionosphere/
 download: http://www.rockettheme.com/wordpress/themes/ionosphere/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-ionosphere
+support: http://www.rockettheme.com/forum/wordpress-theme-ionosphere
 
 ---
 

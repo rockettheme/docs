@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!plugins:Plugins/!rokgallery:RokGallery
 details: http://www.rockettheme.com/wordpress/plugins/rokgallery
 demo: http://demo.rockettheme.com/joomla/rokgallery/
 download: http://www.rockettheme.com/wordpress/plugins/rokgallery/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-rokgallery/
+support: http://www.rockettheme.com/forum/wordpress-plugin-rokgallery/
 
 ---
 

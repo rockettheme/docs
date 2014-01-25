@@ -32,7 +32,7 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~
 <div class="smallmarginbottom"><a href="index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=108"><em class="bold">Tutorials &amp; Guides</em></a></div>
-<div class="smallmarginbottom"><a href="http://www.rockettheme.com/forum/index.php?f=653&amp;rb_v=viewforum"><em class="bold">Forum Support</em></a></div>
+<div class="smallmarginbottom"><a href="http://www.rockettheme.com/forum/joomla-template-kirigami&amp;rb_v=viewforum"><em class="bold">Forum Support</em></a></div>
 ~~~
 
 ### Basic

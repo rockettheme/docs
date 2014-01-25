@@ -48,7 +48,7 @@ These constants are defined in **rt_Hadron/language/en-GB/en-GB.tpl_rt_Hadron.in
 
 ~~~ .html
 RT_COMINGSOON_TITLE="Our Website is Coming Soon"
-RT_COMINGSOON_MESSAGE="Hadron supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match the template. This feature can be enabled in Template Manager &rarr; Hadron &rarr; Features &rarr; Coming Soon Page. You can customize this page by editing the comingsoon.php file inside the template folder. Please visit <a href='http://www.rockettheme.com/forum/index.php?f=840&t=214331&p=1051043&rb_v=viewtopic'>this tutorial</a> for more information."
+RT_COMINGSOON_MESSAGE="Hadron supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match the template. This feature can be enabled in Template Manager &rarr; Hadron &rarr; Features &rarr; Coming Soon Page. You can customize this page by editing the comingsoon.php file inside the template folder. Please visit <a href='http://www.rockettheme.com/forum/joomla-template-hadron'>this tutorial</a> for more information."
 RT_AUTHORIZED_LOGIN_MESSAGE="This feature hides your Joomla site behind the Coming Soon page with its Countdown timer. You can still access the frontend of the site by logging in as an administrator below. You can customize this message in the Hadron template language file."
 ~~~
 

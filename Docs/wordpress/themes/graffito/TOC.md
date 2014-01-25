@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!graffito:Graffito
 details: http://www.rockettheme.com/wordpress/themes/graffito
 demo: http://demo.rockettheme.com/wordpress-themes/graffito/
 download: http://www.rockettheme.com/wordpress/themes/graffito/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-graffito
+support: http://www.rockettheme.com/forum/wordpress-theme-graffito
 
 ---
 

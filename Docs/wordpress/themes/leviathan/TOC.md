@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!leviathan:Leviathan
 details: http://www.rockettheme.com/wordpress/themes/leviathan
 demo: http://demo.rockettheme.com/wordpress-themes/leviathan/
 download: http://www.rockettheme.com/wordpress/themes/leviathan/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-leviathan
+support: http://www.rockettheme.com/forum/wordpress-theme-leviathan
 
 ---
 

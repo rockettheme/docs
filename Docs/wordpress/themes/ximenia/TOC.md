@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/themes:Themes/!ximenia:Ximenia
 details: http://www.rockettheme.com/wordpress/themes/ximenia
 demo: http://demo.rockettheme.com/wordpress-themes/ximenia/
 download: http://www.rockettheme.com/wordpress/themes/ximenia/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-ximenia
+support: http://www.rockettheme.com/forum/wordpress-theme-ximenia
 
 ---
 

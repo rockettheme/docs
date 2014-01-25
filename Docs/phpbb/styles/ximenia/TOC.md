@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!ximenia:Ximenia/
 details: http://www.rockettheme.com/phpbb/styles/ximenia
 demo: http://demo.rockettheme.com/live/phpbb/ximenia/
 download: http://rockettheme.com/phpbb/styles/ximenia/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-ximenia/
+support: http://www.rockettheme.com/forum/phpbb-style-ximenia/
 
 ---
 

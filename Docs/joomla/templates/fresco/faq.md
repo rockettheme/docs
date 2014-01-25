@@ -52,7 +52,7 @@ To avoid image license copyright issues, all sample content images shown in our 
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-templates/fresco/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/index.php?f=631&rb_v=viewforum
+[forum]: http://www.rockettheme.com/forum/joomla-template-fresco
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [dropdown]: http://demo.rockettheme.com/joomla-templates/fresco/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla-templates/fresco/features/menu-options

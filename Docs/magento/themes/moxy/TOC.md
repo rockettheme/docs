@@ -5,7 +5,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!moxy:Moxy/
 details: http://rockettheme.com/magento/themes/moxy
 demo: http://demo.rockettheme.com/magento/moxy/
 download: http://www.rockettheme.com/magento/themes/mercado/moxy/downloads
-support: http://www.rockettheme.com/forum/magento-moxy/
+support: http://www.rockettheme.com/forum/magento-theme-moxy/
 
 ---
 

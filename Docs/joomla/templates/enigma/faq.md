@@ -24,7 +24,7 @@ A few of our [RocketTheme extensions][extensions] have been given individual sty
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-templates/enigma/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/joomla-enigma/
+[forum]: http://www.rockettheme.com/forum/joomla-template-enigma/
 [dropdown]: http://demo.rockettheme.com/joomla-templates/enigma/features/menu-options
 [splitmenu]: http://demo.rockettheme.com/joomla-templates/enigma/features/menu-options
 [extensions]: http://demo.rockettheme.com/joomla-templates/enigma/features/extensions

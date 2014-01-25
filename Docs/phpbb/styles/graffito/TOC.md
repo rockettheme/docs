@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!graffito:Graffito/
 details: http://www.rockettheme.com/phpbb/styles/graffito
 demo: http://demo.rockettheme.com/live/phpbb/graffito/
 download: http://rockettheme.com/phpbb/styles/graffito/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-graffito/
+support: http://www.rockettheme.com/forum/phpbb-style-graffito/
 
 ---
 

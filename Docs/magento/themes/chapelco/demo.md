@@ -29,7 +29,7 @@ The **ModalHeader** module adds in some extra functionality to the header sectio
 | Build Title Spans           | No      |  
 | Disable Modal Log In        | No      |  
 | Disable Text Resizer        | No      |  
-| Disable Date                | Yes     |  
+| Disable Date                | No      |  
 
 #### IE Support
 
@@ -41,7 +41,7 @@ The **ModalHeader** module adds in some extra functionality to the header sectio
 #### Modal Window Animation Settings
 
 ~~~ .html
-Animation settings: overlayopacity: 0.2,overlayinspeed: 300,modalpreposition: {"top":"43%"},modalpauseb4entry: 200,modalentryanimation: {"top": "50%", "opacity": "1"},modalentryspeed: 550,modalexitanimation: {"top": "55%", "opacity": "0"},modalexitspeed: 350,pauseb4overlayfadeout: 500,overlayoutspeed: 200
+overlayopacity: 0.2,overlayinspeed: 300,modalpreposition: {"top":"43%"},modalpauseb4entry: 200,modalentryanimation: {"top": "50%", "opacity": "1"},modalentryspeed: 550,modalexitanimation: {"top": "55%", "opacity": "0"},modalexitspeed: 350,pauseb4overlayfadeout: 500,overlayoutspeed: 200
 ~~~
 
 ### MageMenus
@@ -50,26 +50,27 @@ Replace the default Magento dropdown menu with fully configurable, animated, jQu
 
 #### General
 
-| Option                 | Setting |  
-| :--------------------- | :------ |  
-| Enable Top Menu        | Yes     |  
-| Enable Left Side Menu  | Yes     |  
-| Enable Right Side Menu | No      |  
+| Option                          | Setting |  
+| :------------------------------ | :------ |  
+| Enable Top Menu                 | Yes     |  
+| Enable Left Side Menu           | Yes     |  
+| Enable Right Side Menu          | Yes     |  
+| Enable Top Menu lavalamp effect | No      |  
 
 #### Top Menu Settings
 
-| Option                     | Setting  |  
-| :------------------------- | :------- |  
-| Double Column Dropdown     | No       |  
-| Include Home Link          | Yes      |  
-| Include Catalog Categories | Yes      |  
-| Slot #1 CMS Page Link      | About Us |  
-| Include Contact Link       | Yes      |  
+| Option                     | Setting                     |  
+| :------------------------- | :-------------------------- |  
+| Double Column Dropdown     | Yes                         |  
+| Apply Right Offset Fix     | No                          |  
+| Include Home Link          | Yes                         |  
+| Include Catalog Categories | Yes - as standard dropdowns |  
+| Include Contact Link       | Yes                         |  
 
 #### Top Menu Animation Settings
 
 ~~~ .html
-Animation settings: mm_slidedownspeed: 100,mm_fadeoutspeed: 50,mm_css_pre: {left: 100, opacity: 0 },mm_animatein: {left: 165, opacity: 1},mm_animateout: {opacity: 0, left: 185},mm_animate_speed: 150,mm_pause: 0
+mm_slidedownspeed: 250,mm_slideupspeed: 150,mm_css_pre: {left: 100, opacity: 0 },mm_animatein: {left: 165, opacity: 1},mm_animateout: {opacity: 0, left: 180},mm_animate_speed: 200,mm_pause: 200
 ~~~
 
 ### HomePage Grid
@@ -84,21 +85,31 @@ Set up your store homepage with just a few clicks, with a welcome message and pr
 
 #### Product Grid Settings
 
-| Option                               | Setting                                                         |  
-| :----------------------------------- | :-------------------------------------------------------------- |  
-| Product Grid Title                   | A selection of our products!                                    |  
-| Product Grid Text                    | `<p>Check out a selection of our items currently for sale:</p>` |  
-| Number of products to show in grid   | 6                                                               |  
-| Filter Products By                   | Show All Products                                               |  
-| Truncate Product Titles/Descriptions | Truncate On                                                     |  
-| Max Titles Length                    | 50                                                              |  
-| Max Descriptions Length              | 110                                                             |  
-| Image Height                         | 300                                                             |  
-| Image Width                          | 300                                                             |  
+| Option                               | Setting                                                  |  
+| :----------------------------------- | :------------------------------------------------------- |  
+| Product Grid Title                   | A selection of our products!                             |  
+| Product Grid Text                    | `Check out a selection of our items currently for sale:` |  
+| Number of products to show in grid   | 6                                                        |  
+| Default Products Layout              | Grid                                                     |  
+| Filter Products By                   | Show All Products                                        |  
+| Truncate Product Titles/Descriptions | Truncate On                                              |  
+| Max Titles Length                    | 50                                                       |  
+| Max Descriptions Length              | 110                                                      |  
+| Image Height                         | 90                                                       |  
+| Image Width                          | 90                                                       |  
+| Disable Ribbons                      | No                                                       |  
 
 ### RokMage Layouts
 
 Configure the theme's responsive layout and/or fix to a specific width.
+
+#### Store Layout Overrides 
+
+| Option                  | Setting |  
+| :---------------------- | :------ |  
+| Enable Layout Overrides | Yes     |  
+| Use 2 Column Layout     | No      |  
+| Layout Update XML       | Blank   |  
 
 #### Responsive Layout Settings
 
@@ -118,29 +129,35 @@ Add a fully configurable content slider to the homepage and category pages, choo
 | Enable Homepage Slider | Yes                   |  
 | Enable Category Slider | Yes                   |  
 | Homepage Content Type  | Show Catalog Products |  
-| Show Prev/Next Arrows  | No                    |  
+| Autoplay               | On                    |  
+| Show Prev/Next Arrows  | Yes                   |  
 | Duration               | 4                     |  
+| Disable Ribbons        | No                    |  
 
 #### Homepage Slider Products
 
 | Option                               | Setting           |  
 | :----------------------------------- | :---------------- |  
 | Filter Products By                   | Show All Products |  
+| Number of Products                   | 4                 |  
 | Truncate Product Titles/Descriptions | Truncate On       |  
 | Max Titles Length                    | 60                |  
 | Max Descriptions Length              | 250               |  
-| Image Size                           | 350               |  
+| Image Size                           | 250               |  
+| Randomize Products                   | Off               |  
 
 #### Category Slider Products
 
 | Option                               | Setting           |  
 | :----------------------------------- | :---------------- |  
 | Filter Products By                   | Show All Products |  
+| Number of Products                   | 4                 |  
 | Truncate Product Titles/Descriptions | Truncate On       |  
 | Max Titles Length                    | 30                |  
 | Max Descriptions Length              | 130               |  
-| Hide Description                     | No                |  
-| Image Size                           | 230               |  
+| Hide Description                     | Yes               |  
+| Image Size                           | 200               |  
+| Randomize Products                   | Off               |  
 
 ### ProductScroller
 
@@ -148,30 +165,40 @@ Add a fully configurable, jQuery based, animated horizontal product scroller to 
 
 #### General
 
-| Option                   | Setting     |  
-| :----------------------- | :---------- |  
-| Enable Homepage Scroller | Yes         |  
-| Enable Category Scroller | Yes         |  
-| Prev/Next Function       | Page        |  
-| Truncate Product Titles  | Truncate On |  
-| Max Titles Length        | 32          |  
-| Image Size               | 140         |  
-| Speed                    | 1           |  
-| Circular                 | Loop On     |  
-| Products Per Page        | 6           |  
-| Use Tooltip for Details  | Yes         |  
+| Option                              | Setting     |  
+| :---------------------------------- | :---------- |  
+| Enable Homepage Scroller            | Yes         |  
+| Enable Category Scroller            | Yes         |  
+| Prev/Next Function                  | Page        |  
+| Enable Scroll Button Fade Animation | No          |  
+| Truncate Product Titles             | Truncate On |  
+| Max Titles Length                   | 36          |  
+| Image Size                          | 90          |  
+| Speed                               | 1           |  
+| Circular                            | Loop Off    |  
+| Enable Autoscroll                   | No          |  
+| Autoscroll Level                    | 3           |  
+| Products Per Page                   | 4           |  
+| Use Tooltip for Details             | Yes         |  
+| Use Tooltip Animations              | No          |  
+| Set Tooltip Offset                  | 10,2        |  
+| Disable Ribbons                     | No          |  
  
 #### Homepage Scroller Products
 
 | Option             | Setting           |  
 | :----------------- | :---------------- |  
+| Number of Products | 16                |  
 | Filter Products By | Show All Products |  
- 
+| Randomize Products | Off               |  
+
 #### Category Scroller Products
 
 | Option             | Setting           |  
 | :----------------- | :---------------- |  
+| Number of Products | 16                |  
 | Filter Products By | Show All Products |  
+| Randomize Products | Off               |  
 
 ### CategoryView
 
@@ -182,23 +209,26 @@ Add the ability to truncate product titles and descriptions, and switch between 
 | Option                               | Setting     |  
 | :----------------------------------- | :---------- |  
 | Enable Category View                 | Yes         |  
+| Use 2 Column Layout                  | No          |  
 | Truncate Product Titles/Descriptions | Truncate On |  
 | Max Titles Length                    | 50          |  
-| Max Descriptions Length              | 300         |  
+| Max Descriptions Length              | 110         |  
+| Default Products Layout              | Grid        |  
 
- 
 #### PRODUCT FILTER SETTINGS
 
-| Option               | Setting |  
-| :------------------- | :------ |  
-| Use Accordion Effect | Yes     |  
+| Option                          | Setting |  
+| :------------------------------ | :------ |  
+| Use Accordion Effect            | Yes     |  
+| Product Filter Title            |         |  
+| Open First Accordion by Default | No      |  
  
 #### CATEGORY PRODUCT IMAGE SETTINGS
 
 | Option       | Setting |  
 | :----------- | :------ |  
-| Image Height | 300     |  
-| Image Width  | 300     |  
+| Image Height | 90      |  
+| Image Width  | 90      |  
 
 ### ProductView
 
@@ -223,6 +253,7 @@ Replace the default zoom with a jQuery version, add improved thumbnails, and sho
 | Tab #2 Attribute           | Additional Information |  
 | Tab #2 Content             | `{{value}}`            |  
 | Show Product Reviews       | Yes                    |  
+| Equalize Tab Heights       | No                     |  
 | Upsell Columns             | 2                      |  
  
 #### PRODUCT IMAGE SETTINGS
@@ -234,13 +265,15 @@ Replace the default zoom with a jQuery version, add improved thumbnails, and sho
 | Image background location       | default/rokmage-productview/images/ |  
 | Small Image Width               | 260                                 |  
 | Small Image Height              | 260                                 |  
-| Large Image Width               | 1000                                |  
-| Large Image Height              | 1000                                |  
+| Large Image Width               | 800                                 |  
+| Large Image Height              | 800                                 |  
 | Thumbnail Width                 | 78                                  |  
 | Thumbnail Height                | 78                                  |  
 | Disable Zoomer                  | No                                  |  
+| Enable Lightbox                 | No                                  |  
+| Original Size Lightbox Images   | No                                  |  
 | Use Overlaid Thumb Gallery      | Yes                                 |  
-| Spacing Offset                  | 20                                  |  
+| Spacing Offset                  | 10                                  |  
 
 ### CmsCallouts
 
@@ -263,13 +296,13 @@ Add your left and right sidebar callout content directly from the admin - no nee
 **Left Callout Text** 
 
 ~~~
-<p>You can add your content here by going to Admin -&gt; Config -&gt; CmsCallouts -&gt; Left Callout Text. You can also disable this box entirely.</p>
+You can add your content here by going to Admin -> Config -> CmsCallouts -> Left Callout Text. You can also disable this box entirely.
 ~~~
 
 **Right Callout Text**
 
 ~~~
-<p>You can add your content here by going to Admin -&gt; Config -&gt; CmsCallouts -&gt; Right Callout Text. You can also disable this box entirely.</p>
+You can add your content here by going to Admin -> Config -> CmsCallouts -> Right Callout Text. You can also disable this box entirely.
 ~~~
 
 ### FeaturedProducts
@@ -278,15 +311,17 @@ Define your featured products from the admin, using selected category, attribute
 
 #### GENERAL
 
-| Option                | Setting       |  
-| :-------------------- | :------------ |  
-| Get Featured Products | Featured List |  
+| Option                | Setting           |  
+| :-------------------- | :---------------- |  
+| Get Featured Products | Featured Category |  
  
 #### SETTINGS
 
-| Option               | Setting                                                                                                          |  
-| :------------------- | :--------------------------------------------------------------------------------------------------------------- |  
-| Select Featured List | Select at least 6 'Featured' products from this list. Hold **ctrl** and click to multi-select (**cmd** on a Mac) |  
+| Option                    | Setting                                                                                                          |  
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------- |  
+| Select Featured Attribute | Featured                                                                                                         |  
+| Select Featured List      | Select at least 6 'Featured' products from this list. Hold **ctrl** and click to multi-select (**cmd** on a Mac) |  
+| Filter By Store Root      | No                                                                                                               | 
 
 ### ImageBorders
 
@@ -304,12 +339,14 @@ Add product lists to the footer, a text box (for disclaimers etc), styled footer
 
 #### General
 
-| Option                   | Setting     |  
-| :----------------------- | :---------- |  
-| Enable Footer Block      | Yes         |  
-| Number of Items in Lists | 6           |  
-| Truncate Product Titles  | Truncate On |  
-| Max Titles Length        | 22          |  
+| Option                         | Setting     |  
+| :----------------------------- | :---------- |  
+| Enable Footer Block            | Yes         |  
+| Number of Items in Lists       | 6           |  
+| Truncate Product Titles        | Truncate On |  
+| Max Titles Length              | 22          |  
+| Randomize Products             | Off         |  
+| Show Recently Viewed in Footer | No          |  
  
 #### Settings
 
@@ -317,14 +354,12 @@ Add product lists to the footer, a text box (for disclaimers etc), styled footer
 | :----------------- | :--------------------- |  
 | 1st Column Content | Recently Added List    |  
 | 2nd Column Content | Highest Rated Products |  
-| 3rd Column Content | Featured Products List |  
+| 3rd Column Content | Most Viewed Products   |  
 
 **Text Block Content**
 
 ~~~ .html
-<h3>Disclaimer</h3>
-<p><strong>Important:</strong> This demo is purely for demonstration purposes and all the content relating to products, services and events are fictional and are designed to showcase a live shopping site. All images are copyrighted to their respective owners. This is not an actual store, only representative of one.</p>
-<p><strong>You can edit this text by going to Admin -&gt; Configuration -&gt; RT RokMage Modules -&gt; FooterBlock -&gt; Text Box Content.</strong></p>
+<h3>Disclaimer</h3><p><strong>Important:</strong> This demo is purely for demonstration purposes and all the content relating to products, services and events are fictional and are designed to showcase a live shopping site. All images are copyrighted to their respective owners. This is not an actual store, only representative of one.</p><p><strong>You can edit this text by going to Admin -&gt; Config -&gt; FooterBlock -&gt; Text Box Content.</strong></p>
 ~~~
 
 ### TinyMCE
@@ -335,7 +370,7 @@ Enables the Tiny MCE editor for RokMage Extensions.
 
 | Option                                 | Setting                |  
 | :------------------------------------- | :--------------------- |  
-| Enable Tiny MCE for RokMage Extensions | Yes                    |  
+| Enable Tiny MCE for RokMage Extensions | No                     |  
 
 **Textareas to enable for**
 

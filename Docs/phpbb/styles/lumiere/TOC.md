@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!lumiere:Lumiere/
 details: http://www.rockettheme.com/phpbb/styles/lumiere
 demo: http://demo.rockettheme.com/live/phpbb/lumiere/
 download: http://rockettheme.com/phpbb/styles/lumiere/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-lumiere/
+support: http://www.rockettheme.com/forum/phpbb-style-lumiere/
 
 ---
 

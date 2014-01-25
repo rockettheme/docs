@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!lumiere:Lumiere
 details: http://www.rockettheme.com/wordpress/themes/lumiere
 demo: http://demo.rockettheme.com/wordpress-themes/lumiere/
 download: http://www.rockettheme.com/wordpress/themes/lumiere/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-lumiere
+support: http://www.rockettheme.com/forum/wordpress-theme-lumiere
 
 ---
 

@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!cerulean:Cerulean
 details: http://rockettheme.com/joomla/templates/cerulean
 demo: http://demo.rockettheme.com/joomla-templates/cerulean/
 download: http://rockettheme.com/joomla/templates/cerulean/modal/downloads
-support: http://www.rockettheme.com/forum/
+support: http://www.rockettheme.com/forum/joomla-template-cerulean
 
 ---
 

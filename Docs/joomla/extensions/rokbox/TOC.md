@@ -6,7 +6,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
 details: http://rockettheme.com/joomla/extensions/rokbox
 demo: http://demo.rockettheme.com/joomla/rokbox/
 download: http://www.rockettheme.com/joomla/extensions/rokbox/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-rokbox/
+support: http://www.rockettheme.com/forum/joomla-extension-rokbox/
 
 ---
 

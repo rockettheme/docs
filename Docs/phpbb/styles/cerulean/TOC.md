@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!cerulean:Cerulean/
 details: http://www.rockettheme.com/phpbb/styles/cerulean
 demo: http://demo.rockettheme.com/live/phpbb/cerulean/
 download: http://rockettheme.com/phpbb/styles/cerulean/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-cerulean/
+support: http://www.rockettheme.com/forum/phpbb-style-cerulean/
 
 ---
 

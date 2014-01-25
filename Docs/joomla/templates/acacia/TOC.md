@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!acacia:Acacia
 details: http://rockettheme.com/joomla/templates/acacia
 demo: http://demo.rockettheme.com/joomla-templates/acacia/
 download: http://rockettheme.com/joomla/templates/acacia/modal/downloads
-support: http://www.rockettheme.com/forum/
+support: http://www.rockettheme.com/forum/joomla-template-acacia/
 
 ---
 

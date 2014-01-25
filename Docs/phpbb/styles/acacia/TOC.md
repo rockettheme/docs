@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!acacia:Acacia/
 details: http://www.rockettheme.com/phpbb/styles/acacia
 demo: http://demo.rockettheme.com/live/phpbb/acacia/
 download: http://rockettheme.com/phpbb/styles/acacia/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-acacia/
+support: http://www.rockettheme.com/forum/phpbb-style-acacia/
 
 ---
 

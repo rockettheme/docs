@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB3/styles:Styles/!hexeris:Hexeris/
 details: http://www.rockettheme.com/phpbb/styles/hexeris
 demo: http://demo.rockettheme.com/live/phpbb/hexeris/
 download: http://rockettheme.com/phpbb/styles/hexeris/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb3-hexeris/
+support: http://www.rockettheme.com/forum/phpbb-style-hexeris/
 
 ---
 

@@ -4,7 +4,7 @@ breadcrumb: /magento:Magento/!extensions:Extensions/!productscroller:ProductScro
 
 details: http://www.rockettheme.com/magento/extensions/productscroller
 download: http://www.rockettheme.com/extensions/productscroller/modal/downloads
-support: http://www.rockettheme.com/forum/magento-productscroller/
+support: http://www.rockettheme.com/forum/magento-extensions/
 
 ---
 

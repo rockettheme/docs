@@ -5,7 +5,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!ionosphere:Ionosphere
 details: http://rockettheme.com/joomla/templates/ionosphere/
 demo: http://demo.rockettheme.com/joomla-templates/ionosphere/
 download: http://rockettheme.com/joomla/templates/ionosphere/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-ionosphere/
+support: http://www.rockettheme.com/forum/joomla-template-ionosphere/
 
 ---
 
