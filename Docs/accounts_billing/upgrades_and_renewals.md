@@ -9,7 +9,7 @@ breadcrumb: /accounts_billing:Accounts & Billing/!upgrades_and_renewals:Upgrades
 Introduction
 -----
 
-RocketTheme has created several methods by which our existing Club members can save money through renewals and upgrades. In this guide, we will examine some frequently asked questions surrounding the the benefits to renewing a RocketTheme Club membership. We will also touch on the upgrade option, and how membership upgrades work.
+RocketTheme has created several methods by which our existing Club members can save money through renewals and upgrades. In this guide, we will examine some frequently asked questions surrounding the benefits of renewing a RocketTheme Club membership. We will also touch on the upgrade option, and how membership upgrades work.
 
 #### What is the Difference Between a Renewal and an Upgrade?
 
@@ -23,7 +23,7 @@ You can renew any standard and developer-level Club membership with the exceptio
 
 If 30 days have passed since the expiration of a membership, you can still take advantage of a smaller loyalty discount on a renewed membership.
 
-Because single-template purchases do not have time-based limitations, renewals do not apply. If you wish purchase additional site licenses, you will need to re-purchase the template(s).
+Because single-template purchases do not have time-based limitations, renewals do not apply. If you wish to purchase additional site licenses, you will need to re-purchase the template(s).
 
 #### How Much is the Loyalty Discount?
 
@@ -50,11 +50,11 @@ After his fifth day of membership, he can renew his account and enjoy a loyalty 
 
 #### Example 2: Expired Membership
 
-John is site developer, and he just landed a new client that needs several sites. His RocketTheme Developer Club membership expired 30 days ago. He can restart his membership at a slightly smaller discounted rate than he would have been able to if his subscription was either active or within 5 days after expiration.
+John is site developer, and he just landed a new client that needs several sites. His RocketTheme Developer Club membership expired 30 days ago. He can restart his membership at a slightly smaller discounted rate than he would have been able to if his subscription was either active or within 30 days after expiration.
 
 #### Example 3: Upgrading
 
-Jill just took on a new client that needs a dozen WordPress sites. She is a standard Joomla Club member with six site licenses. She can either purchase additional licenses or upgrade her account to a full Developer Club membership to take advantage of unlimited site licenses. 
+Jill just took on a new client that needs a dozen WordPress sites. She is a standard WordPress Club member with six site licenses. She can either purchase additional licenses or upgrade her account to a full Developer Club membership to take advantage of unlimited site licenses. 
 
 She has already used 3 out of 12 months on her standard subscription, but will receive a full year of membership in the Developer Club upon upgrading. Once the Developer Club subscription expires, she will maintain her original site licenses.
 

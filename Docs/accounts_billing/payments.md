@@ -17,7 +17,7 @@ For starters, we do not have an automatically recurring billing option. This is 
 
 #### When Can I Renew My Membership?
 
-You have the ability to renew within 30 days of your current term's expiration date, or any time after that. Any discounts offered apply both during and after expiration.
+You have the ability to renew within 360 days of your current term's expiration date, or any time after that. You can find out more about loyalty discounts [here][loyalty].
 
 #### Can I Get a Refund?
 
@@ -42,3 +42,4 @@ If the transaction fails repeatedly, you may wish to contact your bank or credit
 [stripe]: http://www.stripe.com
 [contact]: http://www.rockettheme.com/contact-us
 [paypal]: http://paypal.com
+[loyalty]: upgrades_and_renewals.md

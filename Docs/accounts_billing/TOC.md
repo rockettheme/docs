@@ -17,7 +17,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 		* [Frequently Asked Questions](site_licenses.md#frequently-asked-questions)
 	* [Product Comparisons](comparisons.md)
 	* [Billing and Payments](payments.md)
-	* Affiliates
+	* [Affiliates](affiliates.md)
 		* [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
 		* [Affiliate Guidelines](affiliates.md)
 * RocketTheme Site Guides
