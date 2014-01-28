@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!praxis:Praxis
 
-details: http://rockettheme.com/joomla/templates/praxis/
+details: http://www.rockettheme.com/joomla/templates/praxis/
 demo: http://demo.rockettheme.com/joomla-templates/praxis/
-download: http://rockettheme.com/joomla/templates/praxis/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/praxis/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-praxis/
 
 ---

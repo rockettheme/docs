@@ -2,7 +2,7 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!momentum:Momentum/
 
-details: http://rockettheme.com/magento/themes/momentum
+details: http://www.rockettheme.com/magento/themes/momentum
 demo: http://demo.rockettheme.com/magento/momentum/
 download: http://www.rockettheme.com/magento/themes/momentum/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-momentum/

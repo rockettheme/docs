@@ -1,6 +1,6 @@
 ---
 title: Graffito
-description: Your Guide to Using the Graffito Style for phpBB3.
+description: Your Guide to Using the Graffito Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!graffito:Graffito/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

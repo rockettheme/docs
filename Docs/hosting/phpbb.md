@@ -1,17 +1,17 @@
 ---
-title: phpBB3 Hosting Guide
-breadcrumb: /hosting:Hosting Help/!phpbb3:phpBB3 Hosting Guide/
+title: phpBB Hosting Guide
+breadcrumb: /hosting:Hosting Help/!phpbb:phpBB Hosting Guide/
 
 ---
 
 Hosting
 -----
 
-phpBB3, like any web-based technology, needs to be hosted somewhere in order for you to use it. You can host phpBB3 on several different platforms ranging from your personal computer to a series of redundant data centers placed strategically around the world. Most small sites opt to have phpBB3 hosted via a shared or managed hosting plan set up with a commercial provider. These providers set up data centers, complete with server hardware, software and a user-friendly Web-based interface that enables you to manage your server from anywhere in the world. Often, this comes at a very low price, and with the option to upgrade to dedicated server hardware and redundant Internet access, at a higher cost.
+phpBB, like any web-based technology, needs to be hosted somewhere in order for you to use it. You can host phpBB on several different platforms ranging from your personal computer to a series of redundant data centers placed strategically around the world. Most small sites opt to have phpBB hosted via a shared or managed hosting plan set up with a commercial provider. These providers set up data centers, complete with server hardware, software and a user-friendly Web-based interface that enables you to manage your server from anywhere in the world. Often, this comes at a very low price, and with the option to upgrade to dedicated server hardware and redundant Internet access, at a higher cost.
 
-If you are just wanting to get started with phpBB3 and build your site before jumping to a publicly-accessible hosting solution, then the answer can be as simple as setting one up on your personal computer. All you need to do this is compatible hosting software and a little time to set up. 
+If you are just wanting to get started with phpBB and build your site before jumping to a publicly-accessible hosting solution, then the answer can be as simple as setting one up on your personal computer. All you need to do this is compatible hosting software and a little time to set up. 
 
-Here are a list of programs you can use to set up your own phpBB3-capable server at home:
+Here are a list of programs you can use to set up your own phpBB-capable server at home:
 
 * [MAMP and MAMP Pro](http://www.mamp.info/en/index.html) - Apache, PHP, MySQL on OS X
 * [Microsoft IIS7](http://www.iis.net/)
@@ -52,27 +52,27 @@ Linux has long been the go-to platform for Web hosting. The vast majority of the
 
 One of the reasons for Linux's popularity is that, for providers, it is free. You do not have to buy a new license for every instance of Linux you run in your data center. It is clean, configurable, and can be managed without ever having to load a graphical user interface. These savings are often passed on to customers.
 
-In addition, you enjoy native support for a number of scripting languages including PHP, the language on which phpBB3 is built.
+In addition, you enjoy native support for a number of scripting languages including PHP, the language on which phpBB is built.
 
 #### Windows
 
 Windows is given a hard time for a number of reasons unrelated to actual server performance. Windows is actually a very capable server platform, especially if you need to run ASP or ASP.NET scripting.
 
-For the vast majority of phpBB3 applications out there, Linux is probably going to be your safest bet.
+For the vast majority of phpBB applications out there, Linux is probably going to be your safest bet.
 
 ### Apache Vs. NGINX Vs. IIS
 
-phpBB3's technical requirements include three different server technologies you can choose from. Apache, NGINX, and Microsoft IIS are three of the most common server software solutions you will find listed in hosting provider's spec sheets.
+phpBB's technical requirements include three different server technologies you can choose from. Apache, NGINX, and Microsoft IIS are three of the most common server software solutions you will find listed in hosting provider's spec sheets.
 
 #### Apache
 
 Apache is by far the most popular Web hosting software currently being used. It can be run in a variety of forms on virtually any operating system (including OS X and Windows).
 
-Apache supports all of the technologies phpBB3 requires to function natively, and is quick and easy to set up via bundle software like MAMP, LAMP, and WAMP (listed above).
+Apache supports all of the technologies phpBB requires to function natively, and is quick and easy to set up via bundle software like MAMP, LAMP, and WAMP (listed above).
 
 #### Microsoft IIS7
 
-Microsoft's IIS server software is robust and capable. It is also the second most readily available hosting option aside from Linux-based Apache solutions. If you plan on running ASP or ASP.NET applications as part of your overall Web hosting needs, then this may well be the best option for you. You can run these through Apache with the help of extensions. phpBB3 does not require either to operate.
+Microsoft's IIS server software is robust and capable. It is also the second most readily available hosting option aside from Linux-based Apache solutions. If you plan on running ASP or ASP.NET applications as part of your overall Web hosting needs, then this may well be the best option for you. You can run these through Apache with the help of extensions. phpBB does not require either to operate.
 
 #### NGINX
 
@@ -84,7 +84,7 @@ On the positive, NGINX currently powers some of the most popular sites on the We
 Server Requirements
 --------------
 
-In order for phpBB3 to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are the requirements for [phpBB3][phpreqs].
+In order for phpBB to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are the requirements for [phpBB][phpreqs].
 
 * A webserver or web hosting account running on any major Operating System with support for PHP
 * A SQL database system, one of:

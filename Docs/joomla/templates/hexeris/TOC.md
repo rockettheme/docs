@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!hexeris:Hexeris
 
-details: http://rockettheme.com/joomla/templates/hexeris
+details: http://www.rockettheme.com/joomla/templates/hexeris
 demo: http://demo.rockettheme.com/joomla-templates/hexeris/
-download: http://rockettheme.com/joomla/templates/hexeris/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/hexeris/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-hexeris/
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lumiere
-description: Your Guide to Using the Lumiere Style for phpBB3.
+description: Your Guide to Using the Lumiere Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!lumiere:Lumiere/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

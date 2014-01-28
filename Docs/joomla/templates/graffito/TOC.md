@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!graffito:Graffito
 
-details: http://rockettheme.com/joomla/templates/graffito/
+details: http://www.rockettheme.com/joomla/templates/graffito/
 demo: http://demo.rockettheme.com/joomla-templates/graffito/
-download: http://rockettheme.com/joomla/templates/graffito/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/graffito/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-graffito/
 
 ---

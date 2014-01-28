@@ -1,6 +1,6 @@
 ---
 title: Alerion
-description: Your Guide to Using the Alerion Style for phpBB3.
+description: Your Guide to Using the Alerion Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!alerion:Alerion/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

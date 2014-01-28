@@ -1,6 +1,6 @@
 ---
 title: Spectral
-description: Your Guide to Using the Spectral Style for phpBB3.
+description: Your Guide to Using the Spectral Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!spectral:Spectral/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

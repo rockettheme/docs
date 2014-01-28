@@ -9,6 +9,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 		* [Benefits](membership.md#membership-benefits)
 		* [Restrictions](membership.md#membership-restrictions)
 		* [Non-Profits](membership.md#non-profits)
+		* [Upgrades and Renewals](upgrades_and_renewals.md)
 	* [Site Licenses](site_licenses.md)
 		* [What Happened to Entitlements?](site_licenses.md#what-happened-to-entitlements)
 		* [How Many Do I Get?](site_licenses.md#how-many-site-licenses-do-i-get?)

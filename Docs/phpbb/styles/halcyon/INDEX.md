@@ -1,6 +1,6 @@
 ---
 title: Halcyon
-description: Your Guide to Using the Halcyon Style for phpBB3.
+description: Your Guide to Using the Halcyon Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!halcyon:Halcyon/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Halcyon, the February 2012 phpBB3 club release, is elegant and subtle, reflecting a conservative design direction, perfect for deployment on a professionally or commercially orientated forum, or as an excellent platform for extensive and individual customization. 
+Halcyon, the February 2012 phpBB club release, is elegant and subtle, reflecting a conservative design direction, perfect for deployment on a professionally or commercially orientated forum, or as an excellent platform for extensive and individual customization. 
 
 ![][style]
 
@@ -25,7 +25,7 @@ Features
 * Fluid Width Support
 * RokTabs Styling
 * RokNewsPager Styling
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 59 Structural and Stylistic suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

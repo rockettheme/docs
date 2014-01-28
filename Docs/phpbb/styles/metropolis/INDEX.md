@@ -1,6 +1,6 @@
 ---
 title: Metropolis
-description: Your Guide to Using the Metropolis Style for phpBB3.
+description: Your Guide to Using the Metropolis Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!metropolis:Metropolis/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

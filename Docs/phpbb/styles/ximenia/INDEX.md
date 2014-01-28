@@ -1,6 +1,6 @@
 ---
 title: Ximenia
-description: Your Guide to Using the Ximenia Style for phpBB3.
+description: Your Guide to Using the Ximenia Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!ximenia:Ximenia/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Ximenia, the August 2012 phpBB3 style club release, is an elegant, subtle and conservative design, very customizable, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance. 
+Ximenia, the August 2012 phpBB style club release, is an elegant, subtle and conservative design, very customizable, with soft tones and shapes to bring focus to your content. The theme is perfect for any corporate-type site that prefers a more moderate, but still visually luring appearance. 
 
 ![][style]
 
@@ -25,7 +25,7 @@ Features
 * RokBB3 Administration Interface
 * Extensive configuration options
 * Fluid Width Support
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 10 Styled and 25 Structural Module Suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

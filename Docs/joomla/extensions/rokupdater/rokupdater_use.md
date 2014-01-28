@@ -53,5 +53,5 @@ Once an extension has been successfully applied, you should receive a confirmati
 [rokupdater_plugin_manager_1]: assets/rokupdater_plugin_manager_1.jpeg
 [rokupdater_update_manager_1]: assets/rokupdater_update_manager_1.jpeg
 [rokupdater_update_manager_2]: assets/rokupdater_update_manager_2.jpeg
-[rokupdater-download]: http://rockettheme.com
-[rockettheme]: http://rockettheme.com
+[rokupdater-download]: http://www.rockettheme.com
+[rockettheme]: http://www.rockettheme.com

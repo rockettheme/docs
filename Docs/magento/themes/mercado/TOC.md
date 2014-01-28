@@ -2,7 +2,7 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!mercado:Mercado/
 
-details: http://rockettheme.com/magento/themes/mercado
+details: http://www.rockettheme.com/magento/themes/mercado
 demo: http://demo.rockettheme.com/magento/mercado/
 download: http://www.rockettheme.com/magento/themes/mercado/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-mercado/

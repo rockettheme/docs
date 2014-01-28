@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!enigma:Enigma
 
-details: http://rockettheme.com/joomla/templates/enigma
+details: http://www.rockettheme.com/joomla/templates/enigma
 demo: http://demo.rockettheme.com/joomla-templates/enigma/
-download: http://rockettheme.com/joomla/templates/enigma/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/enigma/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-enigma
 
 ---

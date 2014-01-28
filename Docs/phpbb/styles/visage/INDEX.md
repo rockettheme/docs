@@ -1,6 +1,6 @@
 ---
 title: Visage
-description: Your Guide to Using the Visage Style for phpBB3.
+description: Your Guide to Using the Visage Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!visage:Visage/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Visage, the January 2012 phpBB3 club release, is a contemporary blending of stunning, refined visuals. These elements are combined with a polished and powerful undertone, providing a unique look that is flexible and intuitive to use. The foundational RokBB3 Administration Module creates a base template rich with features, such as the fluid width, configurable modules, amongst many others. 
+Visage, the January 2012 phpBB club release, is a contemporary blending of stunning, refined visuals. These elements are combined with a polished and powerful undertone, providing a unique look that is flexible and intuitive to use. The foundational RokBB3 Administration Module creates a base template rich with features, such as the fluid width, configurable modules, amongst many others. 
 
 ![][style]
 
@@ -23,7 +23,7 @@ Features
 * Extended configuration options
 * Fluid Width Support
 * RokTabs Styling
-* phpBB3 3.0.9 Compatible
+* phpBB 3.0.9 Compatible
 * 28 Structural and Stylistic suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

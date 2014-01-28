@@ -1,6 +1,6 @@
 ---
 title: Clarion
-description: Your Guide to Using the Clarion Style for phpBB3.
+description: Your Guide to Using the Clarion Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!clarion:Clarion/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Clarion, the March 2012 phpBB3 club release, is a subtle style, primed for business use or as a platform for extensive individual customization. 
+Clarion, the March 2012 phpBB club release, is a subtle style, primed for business use or as a platform for extensive individual customization. 
 
 ![][style]
 
@@ -25,7 +25,7 @@ Features
 * Fluid Width Support
 * RokTabs Styling
 * RokNewsPager Styling
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 26 Structural & 12 Stylistic suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

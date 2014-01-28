@@ -1,6 +1,6 @@
 ---
 title: Chapelco
-description: Your Guide to Using the Chapelco Style for phpBB3.
+description: Your Guide to Using the Chapelco Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!chapelco:Chapelco/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

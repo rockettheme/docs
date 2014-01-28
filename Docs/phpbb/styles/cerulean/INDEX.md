@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-description: Your Guide to Using the Cerulean Style for phpBB3.
+description: Your Guide to Using the Cerulean Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!cerulean:Cerulean/
 tags: [Style, Template, Theme, Features, Description, rokBB 5]
 

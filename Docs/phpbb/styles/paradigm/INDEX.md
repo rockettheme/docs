@@ -1,6 +1,6 @@
 ---
 title: Paradigm
-description: Your Guide to Using the Paradigm Style for phpBB3.
+description: Your Guide to Using the Paradigm Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!paradigm:Paradigm/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

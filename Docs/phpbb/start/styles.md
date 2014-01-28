@@ -1,6 +1,6 @@
 ---
 title: How to Install a RocketTheme phpBB Style
-description: This document will guide you through the process of installing a new phpBB3 style.
+description: This document will guide you through the process of installing a new phpBB style.
 breadcrumb: /phpbb:phpBB/!start:Getting Started/!styles.md:How to Install a RocketTheme phpBB Style
 
 ---
@@ -8,7 +8,7 @@ breadcrumb: /phpbb:phpBB/!start:Getting Started/!styles.md:How to Install a Rock
 Introduction
 -----
 
-In phpBB3, **styles** are made up of three components: **templates**, **themes**, and **imagesets**. These components work together to create a unique user experience for members of your board. A style can be altered after installation, and you can freely switch between styles in the backend of your phpBB site.
+In phpBB, **styles** are made up of three components: **templates**, **themes**, and **imagesets**. These components work together to create a unique user experience for members of your board. A style can be altered after installation, and you can freely switch between styles in the backend of your phpBB site.
 
 Installing a new style in phpBB requires you to upload files to your site. One popular choice is [FileZilla][filezilla], though any dedicated or Web-based file transfer solution that allows you to transfer files to your server should work.
 
@@ -20,7 +20,7 @@ Downloading a RocketTheme phpBB style is pretty simple. All you need to do is na
 
 * **Style**: This is a style package that includes just the files needed to install the style on your existing site. Only choose this option if you  already have the latest RokBB installed. It is most commonly selected by users that are switching from one RocketTheme phpBB style to another.
 * **Bundle**: This package includes the style and the latest RokBB version. It is the preferred download option if you are installing a RocketTheme style for the first time.
-* **RocketLauncher**: This package contains a full latest version of phpBB3 install, as well as the style, latest RokBB, and demo sample content allowing you to easily deploy your chosen forum with a few clicks. This should only be used if you are creating a new phpBB install. Existing sites should be created using either the **Style** or **Bundle** options.
+* **RocketLauncher**: This package contains a full latest version of phpBB install, as well as the style, latest RokBB, and demo sample content allowing you to easily deploy your chosen forum with a few clicks. This should only be used if you are creating a new phpBB install. Existing sites should be created using either the **Style** or **Bundle** options.
 
 >> NOTE: We always recommend installing a RocketLauncher first to trial and understand the style more efficiently. It contains sample content and initial configuration. It is ready for further customizations. It must be installed as new, and not over an existing phpBB install.
 
@@ -52,7 +52,7 @@ Installing Administrative Modules
 
 ![][rokbb]
 
-When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB3 installation. Here is a quick list of critical files contained within:
+When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files contained within:
 
 | File                            | Upload to                          |  
 | :------------------------------ | :--------------------------------- |  

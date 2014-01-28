@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!oculus:Oculus
 
-details: http://rockettheme.com/joomla/templates/oculus/
+details: http://www.rockettheme.com/joomla/templates/oculus/
 demo: http://demo.rockettheme.com/joomla-templates/oculus/
-download: http://rockettheme.com/joomla/templates/oculus/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/oculus/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-oculus/
 
 ---

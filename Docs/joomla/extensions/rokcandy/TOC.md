@@ -2,7 +2,7 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcandy:RokCandy
 
-details: http://rockettheme.com/joomla/extensions/rokcandy
+details: http://www.rockettheme.com/joomla/extensions/rokcandy
 download: http://www.rockettheme.com/joomla/extensions/rokcandy/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokcandy/
 

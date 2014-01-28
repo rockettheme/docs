@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!momentum:Momentum
 
-details: http://rockettheme.com/joomla/templates/momentum
+details: http://www.rockettheme.com/joomla/templates/momentum
 demo: http://demo.rockettheme.com/joomla-templates/momentum/
-download: http://rockettheme.com/joomla/templates/momentum/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/momentum/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-momentum/
 
 ---

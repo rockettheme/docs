@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!metropolis:Metropolis
 
-details: http://rockettheme.com/joomla/templates/metropolis
+details: http://www.rockettheme.com/joomla/templates/metropolis
 demo: http://demo.rockettheme.com/joomla-templates/metropolis/
-download: http://rockettheme.com/joomla/templates/metropolis/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/metropolis/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-metropolis/
 
 ---

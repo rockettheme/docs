@@ -1,6 +1,6 @@
 ---
 title: Fresco
-description: Your Guide to Using the Fresco Style for phpBB3.
+description: Your Guide to Using the Fresco Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!fresco:Fresco/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Fresco, the July 2012 phpBB3 club release, is a visually rich design with each style variation being truly unique with acute attention to detail. The design brings life to your content, creating a positive user experience for visitors. 
+Fresco, the July 2012 phpBB club release, is a visually rich design with each style variation being truly unique with acute attention to detail. The design brings life to your content, creating a positive user experience for visitors. 
 
 ![][style]
 
@@ -25,7 +25,7 @@ Features
 * RokBB3 Administration Interface
 * Extensive configuration options
 * Fluid Width Support
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 9 Styled and 26 Structural Module Suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

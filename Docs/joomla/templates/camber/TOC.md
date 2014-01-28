@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!camber:Camber
 
-details: http://rockettheme.com/joomla/templates/camber
+details: http://www.rockettheme.com/joomla/templates/camber
 demo: http://demo.rockettheme.com/joomla-templates/camber/
-download: http://rockettheme.com/joomla/templates/camber/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/camber/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-camber
 
 ---

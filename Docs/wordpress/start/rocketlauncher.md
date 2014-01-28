@@ -82,7 +82,7 @@ In this screen, you will select your site's title, administrative username and p
 
 ![][rocketlauncher6]
 
-[rockettheme]: http://rockettheme.com
+[rockettheme]: http://www.rockettheme.com
 [rocketlauncher1]: assets/wp_rocketlauncher_1.jpeg
 [rocketlauncher2]: assets/wp_rocketlauncher_2.jpeg
 [rocketlauncher3]: assets/wp_rocketlauncher_3.jpeg

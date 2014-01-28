@@ -1,6 +1,6 @@
 ---
 title: Leviathan
-description: Your Guide to Using the Leviathan Style for phpBB3.
+description: Your Guide to Using the Leviathan Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!leviathan:Leviathan/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Leviathan, the February 2013 phpBB3 Club release, is a visually enriched design with stunning graphics, contrasts, and tones. Its sidebar adds focus and boldness that complements and contrasts with the mainbody area, to great effect. 
+Leviathan, the February 2013 phpBB Club release, is a visually enriched design with stunning graphics, contrasts, and tones. Its sidebar adds focus and boldness that complements and contrasts with the mainbody area, to great effect. 
 
 ![][style]
 

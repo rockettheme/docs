@@ -2,7 +2,7 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!mynxx:Mynxx/
 
-details: http://rockettheme.com/magento/themes/mynxx
+details: http://www.rockettheme.com/magento/themes/mynxx
 demo: http://demo.rockettheme.com/magento/mynxx/
 download: http://www.rockettheme.com/magento/themes/mynxx/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-mynxx/

@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!spectral:Spectral
 
-details: http://rockettheme.com/joomla/templates/spectral/
+details: http://www.rockettheme.com/joomla/templates/spectral/
 demo: http://demo.rockettheme.com/joomla-templates/spectral/
-download: http://rockettheme.com/joomla/templates/spectral/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/spectral/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-spectral/
 
 ---

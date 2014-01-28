@@ -1,7 +1,7 @@
 ---
-title: Introduction to phpBB3
-description: This document serves as a basic introduction to the phpBB3 platform.
-breadcrumb: /phpbb:phpBB/!start:Getting Started/!introduction.md:Introduction to phpBB3
+title: Introduction to phpBB
+description: This document serves as a basic introduction to the phpBB platform.
+breadcrumb: /phpbb:phpBB/!start:Getting Started/!introduction.md:Introduction to phpBB
 tags: [Introduction, Features, Platform]
 
 ---
@@ -17,7 +17,7 @@ Sites powered by phpBB are frequently used to provide support, facilitate commun
 
 phpBB is released under the [GNU Public License][gnu] and can be modified and expanded upon. An abundance of add-ons and other third-party modifications are available for free through multiple phpBB user groups and resources. phpBB has a large and active user community, with many contributors producing third-party tools to extend phpBB's functionality well beyond what's available with the core product.
 
-Features of phpBB3
+Features of phpBB
 -----
 
 * Licensed Under GPLv2

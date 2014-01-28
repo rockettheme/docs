@@ -14,6 +14,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	- [Site Licenses](site_licenses.md)
 	- [Non-Profits](membership.md#non-profits)
 	- [Club Vs. Single Template Purchases](comparisons.md)
+	- [Upgrades and Renewals](upgrades_and_renewals.md)
 
 <!-- -->
 

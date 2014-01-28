@@ -2,7 +2,7 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!graffito:Graffito/
 
-details: http://rockettheme.com/magento/themes/graffito
+details: http://www.rockettheme.com/magento/themes/graffito
 demo: http://demo.rockettheme.com/magento/graffito/
 download: http://www.rockettheme.com/magento/themes/graffito/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-graffito/

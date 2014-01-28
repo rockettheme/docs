@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!Radiance:Radiance
 
-details: http://rockettheme.com/joomla/templates/radiance/
+details: http://www.rockettheme.com/joomla/templates/radiance/
 demo: http://demo.rockettheme.com/joomla-templates/radiance/
-download: http://rockettheme.com/joomla/templates/radiance/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/radiance/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-radiance/
 
 ---

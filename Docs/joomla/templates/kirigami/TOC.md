@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!kirigami:Kirigami
 
-details: http://rockettheme.com/joomla/templates/kirigami/
+details: http://www.rockettheme.com/joomla/templates/kirigami/
 demo: http://demo.rockettheme.com/joomla-templates/kirigami/
-download: http://rockettheme.com/joomla/templates/kirigami/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/kirigami/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-kirigami/
 
 ---

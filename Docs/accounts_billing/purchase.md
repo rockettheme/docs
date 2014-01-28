@@ -95,7 +95,7 @@ Once you have confirmed the order, you will see your final confirmation, as well
 
 ![][image9]
 
-[rockettheme]: http://rockettheme.com
+[rockettheme]: http://www.rockettheme.com
 [image1]: assets/rtv3_new_account_1.jpeg
 [image2]: assets/rtv3_new_account_2.jpeg
 [image3]: assets/rtv3_new_account_3.jpeg

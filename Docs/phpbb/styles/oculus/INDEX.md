@@ -1,6 +1,6 @@
 ---
 title: Oculus
-description: Your Guide to Using the Oculus Style for phpBB3.
+description: Your Guide to Using the Oculus Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!oculus:Oculus/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/!modules:Modules/
+breadcrumb: /phpbb:phpBB/!modules:Modules/
 
 ---
 
@@ -9,9 +9,9 @@ breadcrumb: /phpbb:phpBB3/!modules:Modules/
 		* [Requirements](roknavmenu.md#requirements)
 		* [How to Install](roknavmenu.md#how-to-install)
 		* [Joomla Setup](roknavmenu.md#joomla-setup)
-		* [phpbb3 Setup](roknavmenu.md#phpbb3-setup)
+		* [phpBB Setup](roknavmenu.md#phpBB-setup)
 * Introduction
-	* [What is phpBB3?](../start/introduction.md)
+	* [What is phpBB?](../start/introduction.md)
 * Installation
-	* [How to Install phpBB3](../start/install.md)
+	* [How to Install phpBB](../start/install.md)
 	* [How to Install Styles](../start/styles.md)

@@ -1,6 +1,6 @@
 ---
-title: phpBB3 Documentation
-description: phpBB3 is a powerful and popular forum solution for small, medium, and large communities.
+title: phpBB Documentation
+description: phpBB is a powerful and popular forum solution for small, medium, and large communities.
 landing: true
 breadcrumb: /!phpbb:phpBB/
 more:
@@ -11,13 +11,13 @@ more:
 * Start Here
 
 	- [What is phpBB?](start/introduction.md)
-	  Find out why phpBB3 is one of the most popular forum platforms on the Web.
+	  Find out why phpBB is one of the most popular forum platforms on the Web.
 
-	- [How to install phpBB3](start/install.md)
-	  Step-by-step through the installation procedure for phpBB3.
+	- [How to install phpBB](start/install.md)
+	  Step-by-step through the installation procedure for phpBB.
 
 	- [How to Install Styles](start/styles.md)
-	  Find out exactly what a phpBB3 template entails and what its relationship is with phpBB3's extensions.
+	  Find out exactly what a phpBB template entails and what its relationship is with phpBB's extensions.
 
 <!-- -->
 

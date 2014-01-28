@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!fracture:Fracture
 
-details: http://rockettheme.com/joomla/templates/fracture
+details: http://www.rockettheme.com/joomla/templates/fracture
 demo: http://demo.rockettheme.com/joomla-templates/fracture/
-download: http://rockettheme.com/joomla/templates/fracture/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/fracture/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-fracture/
 
 ---

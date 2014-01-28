@@ -35,9 +35,9 @@ HostGator is one of the largest and most well-known hosting providers out there.
 HostGator also offers [25% off to RocketTheme Club members][gatordiscount].
 
 
-[inmotiondiscount]: http://rockettheme.com/promotions
+[inmotiondiscount]: http://www.rockettheme.com/promotions
 [inmotion]: http://www.inmotionhosting.com/
 [inmotionimage]: assets/inmotion.jpg
-[gatordiscount]: http://rockettheme.com/promotions
+[gatordiscount]: http://www.rockettheme.com/promotions
 [gator]: http://www.hostgator.com/
 [gatorimage]: assets/hostgator.jpg

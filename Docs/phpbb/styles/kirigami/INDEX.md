@@ -1,6 +1,6 @@
 ---
 title: Kirigami
-description: Your Guide to Using the Kirigami Style for phpBB3.
+description: Your Guide to Using the Kirigami Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!kirigami:Kirigami/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Kirigami, the September 2012 phpBB3 club style release, is the first responsive RocketTheme phpBB3 style built in conjuction with the RokBB3. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms. 
+Kirigami, the September 2012 phpBB club style release, is the first responsive RocketTheme phpBB style built in conjuction with the RokBB3. A responsive design adapts itself to a particular viewing environment such as desktop or mobile, without the need for separate layouts for varying platforms. 
 
 ![][style]
 
@@ -24,7 +24,7 @@ Features
 * Tabs and Headlines Responsive Layout
 * RokBB3 Administration Interface
 * Extensive configuration options
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 10 Styled and 25 Structural Module Suffixes
 * Various Module Positions
 * Loading Transitions

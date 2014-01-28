@@ -1,6 +1,6 @@
 ---
 title: Hexeris
-description: Your Guide to Using the Hexeris Style for phpBB3.
+description: Your Guide to Using the Hexeris Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!hexeris:Hexeris/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Hexeris is a beautifully versatile phpBB3 template with rich style elements to invigorate your site content. The style introduces scalable vector icons support bundled into custom webfont. 
+Hexeris is a beautifully versatile phpBB template with rich style elements to invigorate your site content. The style introduces scalable vector icons support bundled into custom webfont. 
 
 ![][style]
 

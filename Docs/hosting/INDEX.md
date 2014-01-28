@@ -17,5 +17,5 @@ breadcrumb: /!hosting:Hosting Help/
 
 	- [Joomla Hosting Guide](joomla.md)
 	- [WordPress Hosting Guide](wordpress.md)
-	- [phpBB3 Hosting Guide](phpbb3.md)
+	- [phpBB Hosting Guide](phpbb.md)
 	- [Magento Hosting Guide](magento.md)

@@ -1,6 +1,6 @@
 ---
 title: Acacia
-description: Your Guide to Using the Acacia Style for phpBB3.
+description: Your Guide to Using the Acacia Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!acacia:Acacia/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Acacia is a beautifully designed professional phpBB3 style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
+Acacia is a beautifully designed professional phpBB style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
 
 ![][style]
 

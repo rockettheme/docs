@@ -1,6 +1,6 @@
 ---
 title: Fracture
-description: Your Guide to Using the Fracture Style for phpBB3.
+description: Your Guide to Using the Fracture Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!fracture:Fracture/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 

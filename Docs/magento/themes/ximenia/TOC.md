@@ -2,7 +2,7 @@
 
 breadcrumb: /magento:Magento/!themes:Themes/!ximenia:Ximenia/
 
-details: http://rockettheme.com/magento/themes/ximenia
+details: http://www.rockettheme.com/magento/themes/ximenia
 demo: http://demo.rockettheme.com/magento/ximenia/
 download: http://www.rockettheme.com/magento/themes/ximenia/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-ximenia/

@@ -90,7 +90,7 @@ In this screen, you will select your site's title, administrative username and p
 ![][install6]
 
 [org]: http://wordpress.org
-[rockettheme]: http://rockettheme.com
+[rockettheme]: http://www.rockettheme.com
 [install1]: assets/wp_rocketlauncher_1.jpeg
 [install2]: assets/wp_rocketlauncher_2.jpeg
 [install3]: assets/wp_rocketlauncher_3.jpeg

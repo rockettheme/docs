@@ -1,6 +1,6 @@
 ---
 title: Diametric
-description: Your Guide to Using the Diametric Style for phpBB3.
+description: Your Guide to Using the Diametric Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!diametric:Diametric/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Diametric, the May 2012 phpBB3 club release, is a beautifully layered style with a distinct panel-based design, using the powerful ColorChooser system. The template has integrated styling for a range of popular RocketTheme interfaces, such as RokTabs, RokNewspager, and RokNewsFlash -- allowing for maximum visual and structural flexibility. 
+Diametric, the May 2012 phpBB club release, is a beautifully layered style with a distinct panel-based design, using the powerful ColorChooser system. The template has integrated styling for a range of popular RocketTheme interfaces, such as RokTabs, RokNewspager, and RokNewsFlash -- allowing for maximum visual and structural flexibility. 
 
 ![][style]
 
@@ -26,7 +26,7 @@ Features
 * RokTabs Styling
 * RokNewsPager Styling
 * RokNewsFlash Styling
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 15 Styled and 26 Structural Module Suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

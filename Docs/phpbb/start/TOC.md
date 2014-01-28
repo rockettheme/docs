@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /phpbb:phpBB3/!start:Getting Started/
+breadcrumb: /phpbb:phpBB/!start:Getting Started/
 
 ---
 
 * Introduction
-	* [What is phpBB3?](introduction.md)
+	* [What is phpBB?](introduction.md)
 * Installation
-	* [How to Install phpBB3](install.md)
+	* [How to Install phpBB](install.md)
 	* [How to Install Styles](styles.md)

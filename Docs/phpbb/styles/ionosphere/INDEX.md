@@ -1,6 +1,6 @@
 ---
 title: Ionosphere
-description: Your Guide to Using the Ionosphere Style for phpBB3.
+description: Your Guide to Using the Ionosphere Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!ionosphere:Ionosphere/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 
@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB3]
 Introduction
 -----
 
-Ionosphere, the April 2012 phpBB3 Club style release, is an incredibly versatile phpBB3 style that places the artist's palette in your hands, through our most comprehensive Color Chooser system to date. 
+Ionosphere, the April 2012 phpBB Club style release, is an incredibly versatile phpBB style that places the artist's palette in your hands, through our most comprehensive Color Chooser system to date. 
 
 ![][style]
 
@@ -27,7 +27,7 @@ Features
 * RokTabs Styling
 * RokNewsPager Styling
 * RokNewsFlash Styling
-* phpBB3 3.0.10 Compatible
+* phpBB 3.0.10 Compatible
 * 11 Styled and 26 Layout Module Suffixes
 * Fusion Menu (with RokNavMenu Exporter)
 * Loading Transitions

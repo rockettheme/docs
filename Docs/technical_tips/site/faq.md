@@ -57,13 +57,13 @@ If you want more control over your search, you can hit **Enter** after typing in
 
 :   1. **Filter** The filter allows you to quickly jump to results for a specific platform and/or page type. [47%, 36%, se]
 
-[profile]: http://rockettheme.com/account/forum
+[profile]: http://www.rockettheme.com/account/forum
 [login]: assets/login.jpg
 [changeprofile]: assets/profile.jpg
 [dropdown]: assets/dropdown.jpeg
 [orders]: assets/orders.jpeg
 [expire]: assets/expire.jpg
-[purchases]: http://rockettheme.com/account/purchases
+[purchases]: http://www.rockettheme.com/account/purchases
 [search1]: assets/search1.jpeg
 [search2]: assets/search2.jpeg
-[history]: http://rockettheme.com/account/history
+[history]: http://www.rockettheme.com/account/history

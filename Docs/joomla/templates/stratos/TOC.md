@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!stratos:Stratos
 
-details: http://rockettheme.com/joomla/templates/stratos/
+details: http://www.rockettheme.com/joomla/templates/stratos/
 demo: http://demo.rockettheme.com/joomla-templates/stratos/
-download: http://rockettheme.com/joomla/templates/stratos/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/stratos/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-stratos/
 
 ---

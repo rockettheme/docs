@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!alerion:Alerion
 
-details: http://rockettheme.com/joomla/templates/alerion
+details: http://www.rockettheme.com/joomla/templates/alerion
 demo: http://demo.rockettheme.com/joomla-templates/alerion/
-download: http://rockettheme.com/joomla/templates/alerion/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/alerion/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-alerion
 
 ---

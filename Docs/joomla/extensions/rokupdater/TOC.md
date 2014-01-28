@@ -2,7 +2,7 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokupdater:RokUpdater
 
-details: http://rockettheme.com/joomla/extensions/rokupdater
+details: http://www.rockettheme.com/joomla/extensions/rokupdater
 download: http://www.rockettheme.com/joomla/extensions/rokupdater/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokupdater/
 

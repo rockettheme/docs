@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!lumiere:Lumiere
 
-details: http://rockettheme.com/joomla/templates/lumiere
+details: http://www.rockettheme.com/joomla/templates/lumiere
 demo: http://demo.rockettheme.com/joomla-templates/lumiere/
-download: http://rockettheme.com/joomla/templates/lumiere/modal/downloads
+download: http://www.rockettheme.com/joomla/templates/lumiere/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-template-lumiere/
 
 ---

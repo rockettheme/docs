@@ -1,6 +1,6 @@
 ---
 title: Stratos
-description: Your Guide to Using the Stratos Style for phpBB3.
+description: Your Guide to Using the Stratos Style for phpBB.
 breadcrumb: /phpbb:phpBB/!styles:Styles/!stratos:Stratos/
 tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 
