@@ -3,9 +3,9 @@
 breadcrumb: /magento:Magento/!themes:Themes/!rokmage_mobile:RokMage Mobile/
 
 details: http://www.rockettheme.com/magento/themes/rokmagemobile
-demo: http://demo.rockettheme.com/magento/rokmagemobile/
+demo: http://demo.rockettheme.com/magento-themes/rokmagemobile/
 download: http://www.rockettheme.com/magento/themes/rokmagemobile/modal/downloads
-support: http://www.rockettheme.com/forum/rokmage-mobile/
+support: http://www.rockettheme.com/forum/magento-theme-rokmagemobile
 
 ---
 

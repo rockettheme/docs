@@ -3,8 +3,8 @@
 breadcrumb: /magento:Magento/!themes:Themes/!moxy:Moxy/
 
 details: http://www.rockettheme.com/magento/themes/moxy
-demo: http://demo.rockettheme.com/magento/moxy/
-download: http://www.rockettheme.com/magento/themes/mercado/moxy/downloads
+demo: http://demo.rockettheme.com/magento-themes/moxy/
+download: http://www.rockettheme.com/magento/themes/moxy/downloads
 support: http://www.rockettheme.com/forum/magento-theme-moxy/
 
 ---

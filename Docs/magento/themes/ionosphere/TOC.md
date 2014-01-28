@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!themes:Themes/!ionosphere:Ionosphere/
 
 details: http://www.rockettheme.com/magento/themes/ionosphere
-demo: http://demo.rockettheme.com/magento/ionosphere/
+demo: http://demo.rockettheme.com/magento-themes/ionosphere/
 download: http://www.rockettheme.com/magento/themes/ionosphere/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-ionosphere/
 

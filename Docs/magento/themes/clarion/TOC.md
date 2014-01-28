@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!themes:Themes/!clarion:Clarion/
 
 details: http://www.rockettheme.com/magento/themes/clarion
-demo: http://demo.rockettheme.com/magento/clarion/
+demo: http://demo.rockettheme.com/magento-themes/clarion/
 download: http://www.rockettheme.com/magento/themes/clarion/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-clarion/
 

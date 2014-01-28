@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!kirigami:Kirigami/
 
 details: http://www.rockettheme.com/phpbb/styles/kirigami
-demo: http://demo.rockettheme.com/live/phpbb/kirigami/
+demo: http://demo.rockettheme.com/phpbb-styles/kirigami/
 download: http://www.rockettheme.com/phpbb/styles/kirigami/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-kirigami/
 

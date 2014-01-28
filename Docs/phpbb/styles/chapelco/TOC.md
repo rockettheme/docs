@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!chapelco:Chapelco/
 
 details: http://www.rockettheme.com/phpbb/styles/chapelco
-demo: http://demo.rockettheme.com/live/phpbb/chapelco/
+demo: http://demo.rockettheme.com/phpbb-styles/chapelco/
 download: http://www.rockettheme.com/phpbb/styles/chapelco/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-chapelco/
 

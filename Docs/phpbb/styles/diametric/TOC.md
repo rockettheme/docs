@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!diametric:Diametric/
 
 details: http://www.rockettheme.com/phpbb/styles/diametric
-demo: http://demo.rockettheme.com/live/phpbb/diametric/
+demo: http://demo.rockettheme.com/phpbb-styles/diametric/
 download: http://www.rockettheme.com/phpbb/styles/diametric/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-diametric/
 

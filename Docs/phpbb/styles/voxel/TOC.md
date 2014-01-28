@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!voxel:Voxel/
 
 details: http://www.rockettheme.com/phpbb/styles/voxel
-demo: http://demo.rockettheme.com/live/phpbb/voxel/
+demo: http://demo.rockettheme.com/phpbb-styles/voxel/
 download: http://www.rockettheme.com/phpbb/styles/voxel/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-voxel/
 

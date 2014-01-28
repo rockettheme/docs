@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!metropolis:Metropolis/
 
 details: http://www.rockettheme.com/phpbb/styles/metropolis
-demo: http://demo.rockettheme.com/live/phpbb/metropolis/
+demo: http://demo.rockettheme.com/phpbb-styles/metropolis/
 download: http://www.rockettheme.com/phpbb/styles/metropolis/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-metropolis/
 

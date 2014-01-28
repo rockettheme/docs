@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!themes:Themes/!kinetic:Kinetic/
 
 details: http://www.rockettheme.com/magento/themes/kinetic
-demo: http://demo.rockettheme.com/magento/kinetic/
+demo: http://demo.rockettheme.com/magento-themes/kinetic/
 download: http://www.rockettheme.com/magento/themes/kinetic/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-kinetic/
 

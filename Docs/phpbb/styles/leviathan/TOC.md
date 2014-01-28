@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!leviathan:Leviathan/
 
 details: http://www.rockettheme.com/phpbb/styles/leviathan
-demo: http://demo.rockettheme.com/live/phpbb/leviathan/
+demo: http://demo.rockettheme.com/phpbb-styles/leviathan/
 download: http://www.rockettheme.com/phpbb/styles/leviathan/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-leviathan/
 

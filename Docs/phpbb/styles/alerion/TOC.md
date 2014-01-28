@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!alerion:Alerion/
 
 details: http://www.rockettheme.com/phpbb/styles/alerion
-demo: http://demo.rockettheme.com/live/phpbb/alerion/
+demo: http://demo.rockettheme.com/phpbb-styles/alerion/
 download: http://www.rockettheme.com/phpbb/styles/alerion/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-alerion/
 

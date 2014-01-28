@@ -3,7 +3,7 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!cerulean:Cerulean/
 
 details: http://www.rockettheme.com/phpbb/styles/cerulean
-demo: http://demo.rockettheme.com/live/phpbb/cerulean/
+demo: http://demo.rockettheme.com/phpbb-styles/cerulean/
 download: http://www.rockettheme.com/phpbb/styles/cerulean/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-cerulean/
 

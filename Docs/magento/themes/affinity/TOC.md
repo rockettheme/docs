@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!themes:Themes/!affinity:Affinity/
 
 details: http://www.rockettheme.com/magento/themes/affinity
-demo: http://demo.rockettheme.com/magento/affinity/
+demo: http://demo.rockettheme.com/magento-themes/affinity/
 download: http://www.rockettheme.com/magento/themes/affinity/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-affinity/
 
