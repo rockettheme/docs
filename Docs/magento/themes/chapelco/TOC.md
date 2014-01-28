@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!themes:Themes/!Chapelco:Chapelco/
 
 details: http://www.rockettheme.com/magento/themes/chapelco
-demo: http://demo.rockettheme.com/magento-themes-themes/chapelco/
+demo: http://demo.rockettheme.com/magento-themes/chapelco/
 download: http://www.rockettheme.com/magento/themes/chapelco/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-chapelco/
 
