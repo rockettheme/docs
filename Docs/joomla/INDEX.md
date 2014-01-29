@@ -5,7 +5,7 @@ landing: true
 breadcrumb: /!joomla:Joomla/
 more:
 	Basic Tutorials: 7
-	Free Extensions: 7
+	Extensions: 6
 	Club Templates: 7
 
 ---
@@ -70,6 +70,25 @@ more:
 	- [Momentum](templates/momentum)
 	- [Radiance](templates/radiance)
 	- [Camber](templates/camber)
+	- [Reflex (Coming Soon)](templates/reflex)
+	- [Modulus (Coming Soon)](templates/modulus)
+	- [Nebulae (Coming Soon)](templates/nebulae)
+	- [Entropy (Coming Soon)](templates/entropy)
+	- [Mercado (Coming Soon)](templates/mercado)
+	- [Tachyon (Coming Soon)](templates/tachyon)
+	- [Maelstrom (Coming Soon)](templates/maelstrom)
+	- [Paradox (Coming Soon)](templates/paradox)
+	- [Hybrid (Coming Soon)](templates/hybrid)
+	- [Syndicate (Coming Soon)](templates/syndicate)
+	- [Omnicron (Coming Soon)](templates/omnicron)
+	- [Zephyr (Coming Soon)](templates/zephyr)
+	- [Juxta (Coming Soon)](templates/juxta)
+	- [Quantive (Coming Soon)](templates/quantive)
+	- [Cystalline (Coming Soon)](templates/crystalline)
+	- [Kinetic (Coming Soon)](templates/kinetic)
+	- [Dominion (Coming Soon)](templates/dominion)
+	- [Reaction (Coming Soon)](templates/reaction)
+
 
 <!-- -->
 
