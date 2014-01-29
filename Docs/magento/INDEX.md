@@ -70,7 +70,6 @@ more:
 	- [ProductScroller](extensions/productscroller/)
 	- [CategoryView](extensions/categoryview/)
 	- [ProductView](extensions/productview)
-	- [CategoryView](extensions/categoryview)
 	- [CmsCallouts](extensions/cmscallouts)
 	- [FeaturedProducts](extensions/featuredproducts)
 	- [ImageBorders](extensions/imageborders)

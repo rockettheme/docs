@@ -5,7 +5,7 @@ landing: true
 breadcrumb: /!WordPress:WordPress/
 more:
 	Basic Tutorials: 7
-	Club Plugins: 7
+	Free Plugins: 10
 	Club Themes: 7
 
 ---
@@ -36,7 +36,7 @@ more:
 
 <!-- -->
 
-* Club Plugins
+* Free Plugins
 
 
 	- [RokFeatureTable](plugins/rokfeaturetable/)
@@ -47,6 +47,8 @@ more:
 	- [RokMicroNews](plugins/rokmicronews)
 	- [RokStories](plugins/rokstories)
 	- [RokBox](plugins/rokbox)
+	- [RokSprocket](plugins/roksprocket/)
+	- [RokAjaxSearch](plugins/rokajaxsearch/)
 
 <!-- -->
 
@@ -70,11 +72,3 @@ more:
 	- [Voxel](themes/voxel)
 	- [Diametric](themes/diametric)
 	- [Ionosphere](themes/ionosphere)
-
-<!-- -->
-
-* Free Plugins
-
-	- [RokSprocket](plugins/roksprocket/)
-	- [RokAjaxSearch](plugins/rokajaxsearch/)
-

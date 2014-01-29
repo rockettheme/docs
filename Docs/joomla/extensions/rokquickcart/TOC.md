@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokquickcart:RokQuickCart
 
 details: http://www.rockettheme.com/joomla/extensions/rokquickcart
-demo: http://demo.rockettheme.com/joomla/rokquickcart/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokquickcart/
 download: http://www.rockettheme.com/joomla/extensions/rokquickcart/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokquickcart/
 

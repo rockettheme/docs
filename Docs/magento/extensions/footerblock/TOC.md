@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!extensions:Extensions/!footerblock:FooterBlock
 
 details: http://www.rockettheme.com/magento/extensions/footerblock
-download: http://www.rockettheme.com/extensions/footerblock/modal/downloads
+download: http://www.rockettheme.com/magento/extensions/footerblock/modal/downloads
 support: http://www.rockettheme.com/forum/magento-extensions/
 
 ---

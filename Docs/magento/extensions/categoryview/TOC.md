@@ -3,7 +3,7 @@
 breadcrumb: /magento:Magento/!extensions:Extensions/!categoryview:CategoryView
 
 details: http://www.rockettheme.com/magento/extensions/categoryview
-download: http://www.rockettheme.com/extensions/categoryview/modal/downloads
+download: http://www.rockettheme.com/magento/extensions/categoryview/modal/downloads
 support: http://www.rockettheme.com/forum/magento-extensions/
 
 ---

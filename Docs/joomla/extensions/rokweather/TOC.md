@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!extensions:Extensions/rokweather:RokWeather
 
 details: http://www.rockettheme.com/joomla/extensions/rokweather
-demo: http://demo.rockettheme.com/joomla/rokweather/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokweather/
 download: http://www.rockettheme.com/joomla/extensions/rokweather/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokweather/
 

@@ -20,7 +20,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 
 * Billing & Payments
 
-	- [Renewals](payments.md#are-subscriptions-automatically-renewed?)
+	- [Renewals](upgrades_and_renewals.md)
 	- [Payment Options](payments.md#what-payment-options-are-available?)
 
 <!-- -->

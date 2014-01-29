@@ -4,7 +4,7 @@ description: RokBox is a *state-of-the-art* responsive modal solution for Joomla
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
 
 details: http://www.rockettheme.com/joomla/extensions/rokbox
-demo: http://demo.rockettheme.com/joomla/rokbox/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokbox/
 download: http://www.rockettheme.com/joomla/extensions/rokbox/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokbox/
 

@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
 details: http://www.rockettheme.com/joomla/extensions/rokfeaturetable
-demo: http://demo.rockettheme.com/joomla/rokfeaturetable/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokfeaturetable/
 download: http://www.rockettheme.com/joomla/extensions/rokfeaturetable/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokfeaturetable/
 

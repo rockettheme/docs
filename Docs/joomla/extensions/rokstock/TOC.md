@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
 
 details: http://www.rockettheme.com/joomla/extensions/rokstock
-demo: http://demo.rockettheme.com/joomla/rokstock/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokstock/
 download: http://www.rockettheme.com/joomla/extensions/rokstock/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokstock/
 

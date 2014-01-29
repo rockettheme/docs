@@ -55,4 +55,4 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 >> If you download a RocketTheme Magento template, the extension files will all be included in the theme package folder, not the base folder.
 
 [installation]: assets/installation.jpg
-[download]: http://www.rockettheme.com/extensions/productvideo/modal/downloads
+[download]: http://www.rockettheme.com/magento/extensions/productvideo/modal/downloads

@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcomments:RokComments
 
 details: http://www.rockettheme.com/joomla/extensions/rokcomments
-demo: http://demo.rockettheme.com/joomla/rokcomments/
+demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokcomments/
 download: http://www.rockettheme.com/joomla/extensions/rokcomments/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokcomments/
 
