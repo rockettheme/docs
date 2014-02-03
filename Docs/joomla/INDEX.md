@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 	
+	- [Anacron](templates/anacron)
 	- [Hadron](templates/hadron)
 	- [Paradigm](templates/paradigm)
 	- [Spectral](templates/spectral)
