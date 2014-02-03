@@ -24,8 +24,6 @@ Requirements
 * MySQL 5.0.4 or higher
 * Joomla 2.5 or 3.x
 
-For more information, visit our [Gantry documentation][gantry].
-
 >> NOTE: Gantry v3.2.20+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features

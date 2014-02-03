@@ -21,8 +21,6 @@ Requirements
 * MySQL 5.0.4 or higher
 * Joomla 2.5 or 3.2+
 
-For more information, visit our [Gantry documentation][gantry].
-
 >> NOTE: Gantry v4.1.19+ is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features

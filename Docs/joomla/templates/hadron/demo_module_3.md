@@ -10,7 +10,7 @@ A Contemporary and Flat Design
 
 ![][demo]
 
-This area of the front page is a **mod_custom** module. You will find the settings used in our demo below. Due to the `hidden-phone` Module Class Suffix setting, this module will not appear on mobiles.
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
@@ -34,8 +34,8 @@ Enter the following in the **Custom Output** text editor.
 <p>Flat visuals are the central design feature of Hadron, providing a modern, corporate approach to template construction.</p>
 
 <div class="rt-readon-group">
-	<a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=107" class="readon">Purchase Now</a>
-	<a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=107" class="readon2">Read Features</a>
+    <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=107" class="readon">Purchase Now</a>
+    <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=107" class="readon2">Read Features</a>
 </div>
 ~~~
 
