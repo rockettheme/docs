@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!Anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/!anacron:Anacron
 
-details: http://www.rockettheme.com/joomla/templates/Anacron/
-demo: http://demo.rockettheme.com/joomla-templates/Anacron/
-download: http://www.rockettheme.com/joomla/templates/Anacron/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-Anacron/
+details: http://www.rockettheme.com/joomla/templates/anacron/
+demo: http://demo.rockettheme.com/joomla-templates/anacron/
+download: http://www.rockettheme.com/joomla/templates/anacron/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-anacron/
 
 ---
 
