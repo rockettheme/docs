@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokajaxsearch:RokAjaxSearch
 
 details: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
-demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokajaxsearch/
+demo: http://demo.rockettheme.com/joomla-extensions/rokajaxsearch/
 download: http://www.rockettheme.com/joomla/extensions/rokajaxsearch/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokajaxsearch/
 
