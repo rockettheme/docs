@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 details: http://www.rockettheme.com/joomla/extensions/roksprocket
-demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/roksprocket/
+demo: http://demo.rockettheme.com/joomla-extensions/roksprocket/
 download: http://www.rockettheme.com/joomla/extensions/roksprocket/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-roksprocket/
 

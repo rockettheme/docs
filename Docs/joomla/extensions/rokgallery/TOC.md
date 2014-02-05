@@ -3,7 +3,7 @@
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokgallery:RokGallery
 
 details: http://www.rockettheme.com/joomla/extensions/rokgallery
-demo: http://sandbox.dev.rockettheme.com/joomla25/extensions/free-extensions/rokgallery/
+demo: http://demo.rockettheme.com/joomla-extensions/rokgallery/
 download: http://www.rockettheme.com/joomla/extensions/rokgallery/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokgallery/
 
