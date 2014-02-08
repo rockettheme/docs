@@ -134,7 +134,7 @@ Server - hosting - setup:
 * Ability to run scheduled jobs (crontab) with PHP 5
 * Ability to override options in .htaccess files
 
-If your server or hosting account does not meet the requirements above then you will be unable to install phpBB 3.0.x.
+If your server or hosting account does not meet the requirements above then you will be unable to install Magento.
 
 [magento]: http://magento.com/resources/system-requirements
 [list]: http://partners.magento.com/partner_locator/search.aspx?f0=Types+of+Partners&f0v0=Hosting+Partner
