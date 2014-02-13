@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/acacia:Acacia
 Introduction
 -----
 
-Acacia supports chart creation and management in two primary ways. Both of these methods give you the ability to display information in a way that matches your template and provides extremely high visual appeal without requiring you to upload any images. These displays are built on HTML5 and can be changed quickly on the back end of your site.
+Acacia supports chart creation and management in two primary ways. Both of these methods give you the ability to display information in a way that matches your theme and provides extremely high visual appeal without requiring you to upload any images. These displays are built on HTML5 and can be changed quickly on the back end of your site.
 
 First, [Chart.js][chartjs] support is built in that allows you to create rich and infinitely useful charts within a **Text** widget, or injected directly in a post to add a powerful visual element to your written information.
 

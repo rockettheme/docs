@@ -1,6 +1,6 @@
 ---
 title: Acacia: Coming Soon
-description: Your Guide to Creating Elements of the Acacia Template for WordPress
+description: Your Guide to Creating Elements of the Acacia Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/acacia:Acacia
 
 ---
@@ -17,12 +17,12 @@ You can also have users subscribe to a newsletter should you wish to email them 
 How to Enable/Disable the Page
 -----
 
-The **Coming Soon** page can be enabled or disabled from the **Gizmos** tab in **Theme Settings**. You can opt to create an override for this page, or enable it on your primary template, accordingly. You can reach this option by navigating to **Administration -> Acacia Theme -> Gizmos** and turning **Coming Soon Page** on or off.
+The **Coming Soon** page can be enabled or disabled from the **Gizmos** tab in **Theme Settings**. You can opt to create an override for this page, or enable it on your primary theme, accordingly. You can reach this option by navigating to **Administration -> Acacia Theme -> Gizmos** and turning **Coming Soon Page** on or off.
 
 How to Make Changes
 -----
 
-Making changes to the Coming Soon page will require you to access a file and make manual changes yourself. It is not as difficult as it sounds. All of the changes you might want to make to this page can be done by visiting `/templates/rt_acacia/comingsoon.php` and altering its code. Some of the more common changes are listed below.
+Making changes to the Coming Soon page will require you to access a file and make manual changes yourself. It is not as difficult as it sounds. All of the changes you might want to make to this page can be done by visiting `/themes/rt_acacia_wp/comingsoon.php` and altering its code. Some of the more common changes are listed below.
 
 ### Countdown Timer
 
