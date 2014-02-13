@@ -2,10 +2,10 @@
 
 breadcrumb: /wordpress:WordPress/!themes:Themes/!Acacia:Acacia
 
-details: http://www.rockettheme.com/wordpress/Themes/acacia
-demo: http://demo.rockettheme.com/wordpress-Themes/acacia/
-download: http://www.rockettheme.com/wordpress/Themes/acacia/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-theme-Acacia
+details: http://www.rockettheme.com/wordpress/themes/acacia
+demo: http://demo.rockettheme.com/wordpress-themes/acacia/
+download: http://www.rockettheme.com/wordpress/themes/acacia/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-acacia
 
 ---
 
