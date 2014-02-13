@@ -40,7 +40,7 @@ Just replace the text between the `<p>` tags with the information you wish to ha
 
 ### Newsletter Subscription 
 
-The subscription field and button are a standard form found between **lines 55 and 58**.
+The subscription field and button are a standard form found between **lines 81 and 88**.
 
 ~~~ .html
 					<form class="rt-comingsoon-form" action="#">
