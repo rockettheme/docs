@@ -639,7 +639,7 @@ To give an idea of how it will turn out, Here is some examples:
 
 ![][example3]
 
-[themeroller]: http://jquerymobile.com/themeroller/
+[themeroller]: http://themeroller.jquerymobile.com/?ver=1.1.2
 [style1]: assets/style_1.jpg
 [style2]: assets/style_2.jpg
 [setup1]: assets/setup_1.jpg

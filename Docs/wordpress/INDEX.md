@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Acacia](themes/acacia)
 	- [Corvus](themes/corvus)
 	- [Praxis](themes/praxis)
 	- [Stratos](themes/stratos)
