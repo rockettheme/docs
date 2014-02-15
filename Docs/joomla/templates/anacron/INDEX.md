@@ -42,9 +42,7 @@ Key Features
 
 ![][responsive]
 
-Anacron's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
-
-The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
+A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
 
 | Label                  | Description                                | Layout Width     | Column Width |  
 | :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
@@ -53,12 +51,6 @@ The table below shows the breakdown of screen resolutions and associated devices
 | Tablets                | Larger tablets                             | 768px and above  | 64px         |  
 | Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
-
-### HTML5 Canvas Charts
-
-![][chart]
-
-Anacron uses Chart.js and HTML5 canvas to display beautiful graphs and exquisite typography. This only works on modern browsers like IE9+.
 
 [gantry]: http://www.gantry-framework.org/
 [anacron]: assets/anacron.jpeg
