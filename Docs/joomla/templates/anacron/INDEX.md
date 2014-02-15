@@ -62,8 +62,8 @@ Anacron uses Chart.js and HTML5 canvas to display beautiful graphs and exquisite
 
 [gantry]: http://www.gantry-framework.org/
 [anacron]: assets/anacron.jpeg
-[responsive]: assets/responsive.jpg
-[chart]: assets/chart.jpg
+[responsive]: assets/responsive.jpg??
+[chart]: assets/chart.jpg??
 [filezilla]: https://filezilla-project.org
 [launcher]: ../../start/rocketlauncher.md
 [chooser]: assets/chooser.jpg
