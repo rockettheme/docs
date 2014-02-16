@@ -72,7 +72,7 @@ more:
 	- [Radiance](templates/radiance)
 	- [Camber](templates/camber)
 	- [Reflex](templates/reflex)
-	- [Modulus (Coming Soon)](templates/modulus)
+	- [Modulus](templates/modulus)
 	- [Nebulae (Coming Soon)](templates/nebulae)
 	- [Entropy (Coming Soon)](templates/entropy)
 	- [Mercado (Coming Soon)](templates/mercado)
