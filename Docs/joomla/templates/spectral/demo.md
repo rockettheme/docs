@@ -14,7 +14,9 @@ Recreating features of the demo site used to show off some of the more interesti
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Spectral Template.
 
-Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the Template's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
+
+>> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
 Module Settings
 -----
@@ -67,7 +69,7 @@ Here is a list of RocketTheme extensions used to create the demo version of Spec
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 
-All of these extensions are included with the Spectral RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these extensions are included with the Spectral RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----

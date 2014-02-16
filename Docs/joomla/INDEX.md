@@ -71,7 +71,7 @@ more:
 	- [Momentum](templates/momentum)
 	- [Radiance](templates/radiance)
 	- [Camber](templates/camber)
-	- [Reflex (Coming Soon)](templates/reflex)
+	- [Reflex](templates/reflex)
 	- [Modulus (Coming Soon)](templates/modulus)
 	- [Nebulae (Coming Soon)](templates/nebulae)
 	- [Entropy (Coming Soon)](templates/entropy)
