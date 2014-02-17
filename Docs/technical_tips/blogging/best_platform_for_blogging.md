@@ -32,7 +32,7 @@ WordPress scales quite well. You can throw it on a shared server alongside 100+ 
 
 [Joomla][joomla] is a well-rounded CMS powerhouse. It is a jack of all trades when it comes to content management, and this makes it a very appealing solution to many users. Like WordPress, it features an article style of content management. It also utilizes modules to create a more dynamic and custom user experience. Two sites built with the same template can look entirely different with no real experience in CSS or PHP necessary.
 
-Joomla has an incredibly active and informed user community. If you can not find the answers to a question in an extension's documentation, you are almost guaranteed to find the answer on one of the many active Joomla-friendly forums out there. We [host a phpBB forum here at RocketTheme][forum], and have been amazed at the incredible input and responsiveness of the community.
+Joomla has an incredibly active and informed user community. If you can not find the answers to a question in an extension's documentation, you are almost guaranteed to find the answer on one of the many active Joomla-friendly forums out there. We [host a Kunena forum here at RocketTheme][forum], and have been amazed at the incredible input and responsiveness of the community.
 
 Also like WordPress, Joomla scales very well. It can be easily cached, and when coupled with a performance optimization extension like [RokBooster][rokbooster], can serve content at breakneck speeds.
 

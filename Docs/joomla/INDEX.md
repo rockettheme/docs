@@ -19,10 +19,10 @@ more:
 	  Learn what the basic components of Joomla are and how they fit into your site.
 
 	- [How to install Joomla 2.5](platform/install_joomla_25.md)
-	  Step-by-step through the installation procedure for Joomla.
+	  Step-by-step through the installation procedure for Joomla 2.5.
 
 	- [How to Install Joomla 3.x](platform/install_joomla_3x.md)
-	  Find out about the benefits and capabilities of joining the RocketTheme Joomla Club
+	  Step-by-step through the installation procedure for Joomla 3.x.
 
 <!-- -->
 
@@ -71,8 +71,8 @@ more:
 	- [Momentum](templates/momentum)
 	- [Radiance](templates/radiance)
 	- [Camber](templates/camber)
-	- [Reflex (Coming Soon)](templates/reflex)
-	- [Modulus (Coming Soon)](templates/modulus)
+	- [Reflex](templates/reflex)
+	- [Modulus](templates/modulus)
 	- [Nebulae (Coming Soon)](templates/nebulae)
 	- [Entropy (Coming Soon)](templates/entropy)
 	- [Mercado (Coming Soon)](templates/mercado)
