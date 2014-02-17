@@ -9,7 +9,7 @@ Template Settings
 -----
 One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Modulus Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
-![][Modulus2]
+![][modulus2]
 
 :   1. **Logo** [6%, 19%, se]
     2. **Menu** [6%, 30%, se]
@@ -125,4 +125,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [demo25]: assets/modulus.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
-[Modulus2]: assets/Modulus2.jpeg
+[modulus2]: assets/modulus2.jpeg
