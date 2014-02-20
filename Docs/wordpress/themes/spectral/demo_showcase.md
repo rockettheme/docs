@@ -1,7 +1,7 @@
 ---
-title: Acacia: Recreating the Demo - Showcase
-description: Your Guide to Recreating Elements of the Acacia Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/acacia:Acacia
+title: Spectral: Recreating the Demo - Showcase
+description: Your Guide to Recreating Elements of the Spectral Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/spectral:Spectral
 
 ---
 
@@ -24,45 +24,18 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 **Simple Content Provider**
 
-In this instance, we used the **Simple** content provider in order to allow us to create custom items, without having to create posts to connect them to. The **Title** and **Description** fields of these items are custom, while the **Image** and **Link** fields are left blank. You will find the settings of one of these items below.
+In this instance, we used the **Simple** content provider in order to allow us to create custom items, without having to create posts to connect them to. The **Title** and **Description** fields of these items are custom, while the **Image** fields are left blank. You will find the settings of one of these items below.
 
 **Title**
 
 ~~~ .html
-Professional Design<span class="rt-title-tag">by RocketTheme</span>
+Transparent &amp;<br />Enriched
 ~~~
 
 **Description**
 
 ~~~ .html
-<div class="gantry-width-40">
-    <div class="gantry-width-spacer">
-        <h3 class="title">Style &amp;<br>
-        Configure</h3>
-
-        <p class="rt-normal-text">Choose from eight presets, with configurable
-        accent, overlay and background colors <span class="hidden-tablet">or
-        styles</span>.</p>
-    </div>
-</div>
-<div class="gantry-width-60">
-    <div class="gantry-width-spacer">
-        <div class="rt-center">
-            <div class="canvas-graph" data-canvas-graph=
-            '{"icon":"icon-cloud-download","iconSize":70,"radius":110,"size":30,"start":70,"text":true}'>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="rt-sprocket-readon">
-    <a class="readon" href=
-    "http://demo.rockettheme.com/live/wordpress/acacia/preset-styles/">Read
-    More</a> <a class="readon2" href=
-    "http://demo.rockettheme.com/live/wordpress/acacia/preset-styles/">View
-    Stats</a>
-</div>
-<div class="clear"></div>
+<span class="rt-title-tag">Modern Design</span><span>Spectral echoes contemporary approaches to create an elegant frame, focusing on content without compromising on visual excellence.</span>
 ~~~
 
 Here is a look at the **Features Layout Options** for this widget.
@@ -74,10 +47,10 @@ Here is a look at the **Features Layout Options** for this widget.
 | Article Titles   | Show           |  
 | Article Text     | Show           |  
 | Preview Length   | ∞              |  
-| Strip HTML Tags  | Yes            |  
-| Arrow Navigation | Show           |  
-| Pagination       | Hide           |  
-| Animation        | Bottonm to Top |  
+| Strip HTML Tags  | No             |  
+| Arrow Navigation | Show on Hover  |  
+| Pagination       | Show           |  
+| Animation        | Top to Bottom  |  
 | Autoplay         | Disable        |  
 | Autoplay Delay   | 5              |  
 | Image Resize     | Disable        |  

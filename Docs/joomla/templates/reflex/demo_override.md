@@ -126,7 +126,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  
 
-[demo25]: assets/Reflex.jpg
+[demo25]: assets/reflex.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [reflex2]: assets/reflex2.jpeg
