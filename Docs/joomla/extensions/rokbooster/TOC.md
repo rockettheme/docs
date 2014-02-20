@@ -21,3 +21,4 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokbooster/
     	* [Font Settings](rokbooster_use.md#font-settings)
     	* [Advanced Plugin Configuration](rokbooster_use.md#advanced-plugin-configuration)
     	* [Debug Settings](rokbooster_use.md#debug-settings)
+    * [FAQ](faq.md)
