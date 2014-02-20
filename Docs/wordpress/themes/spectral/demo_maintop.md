@@ -65,5 +65,5 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo]: assets/demo_4.jpeg
+[demo]: assets/demo_5.jpeg
 [roksprocket]: ../../plugins/roksprocket/
