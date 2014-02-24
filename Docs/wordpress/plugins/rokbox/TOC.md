@@ -14,6 +14,7 @@ support: http://www.rockettheme.com/forum/wordpress-plugin-rokbox/
     * [Introduction](INDEX.md)
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
+    * [FAQ](faq.md)
 * Plugins with RokBox Support
 	* [RokSprocket](../roksprocket/)
 	* [RokGallery](../rokgallery/)

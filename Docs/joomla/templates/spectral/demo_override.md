@@ -105,7 +105,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  
 
-[demo25]: assets/Spectral.jpg
+[demo25]: assets/spectral.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
-[Spectral2]: assets/Spectral.jpeg
+[Spectral2]: assets/spectral.jpeg

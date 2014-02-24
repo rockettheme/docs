@@ -36,7 +36,7 @@ Below is a summary of implemented data-sets for RokBox2.
 | `data-rokbox-album`              | Associates the link to an album. Many links with the same album will trigger navigation ([more info][data-rokbox-album])             |  
 | `data-rokbox-element`            | Specifies the element in the DOM, through CSS-style selectors ([more info][data-rokbox-element])                                     |  
 | `data-rokbox-generate-thumbnail` | Triggers RokBox2 to auto-generate a thumbnail, if the link is to a local image ([more info][data-rokbox-generate-thumbnail])         |  
-
+| `data-rokbox-size` | Sets a fixed size for the RokBox2 popup. |
 
 #### data-rokbox-caption
 
@@ -148,6 +148,14 @@ The above example generates a thumbnail `http://(your site URL).com/images/plane
 
 >> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible. 
 
+#### data-rokbox-size
+
+![][size]
+
+This setting allows you to define a fixed size for the RokBox2 popup. This affects templates that are either responsive or fixed, so beware that the popup will retain the set size no matter what the width of the browser window is.
+
+To set up a fixed-size RokBox2 popup, add `data-rokbox-size="210 213"` to the image modifiers where 210 is the width and 313 is the height of the popup image.
+
 [editor-button]: editor_button.md
 [data-rokbox-caption]: #data-rokbox-caption
 [data-rokbox-album]: #data-rokbox-album
@@ -161,3 +169,4 @@ The above example generates a thumbnail `http://(your site URL).com/images/plane
 [rokbox2-data-element]: assets/rokbox2-data-rokbox-element.png
 [settings]: assets/settings.jpg
 [rokbox2-generated-thumb]: assets/rokbox2-generated-thumb.png
+[size]: assets/size.jpg
