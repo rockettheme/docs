@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!Nebulae:Nebulae
+breadcrumb: /joomla:Joomla/!templates:Templates/!nebulae:Nebulae
 
-details: http://www.rockettheme.com/joomla/templates/Nebulae
-demo: http://demo.rockettheme.com/joomla-templates/Nebulae/
-download: http://www.rockettheme.com/joomla/templates/Nebulae/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-Nebulae
+details: http://www.rockettheme.com/joomla/templates/nebulae
+demo: http://demo.rockettheme.com/joomla-templates/nebulae/
+download: http://www.rockettheme.com/joomla/templates/nebulae/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-nebulae
 
 ---
 
