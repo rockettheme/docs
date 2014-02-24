@@ -36,7 +36,7 @@ Below is a summary of implemented data-sets for RokBox2.
 | `data-rokbox-album`              | Associates the link to an album. Many links with the same album will trigger navigation ([more info][data-rokbox-album])             |  
 | `data-rokbox-element`            | Specifies the element in the DOM, through CSS-style selectors ([more info][data-rokbox-element])                                     |  
 | `data-rokbox-generate-thumbnail` | Triggers RokBox2 to auto-generate a thumbnail, if the link is to a local image ([more info][data-rokbox-generate-thumbnail])         |  
-| `data-rokbox-size` | Sets a fixed size for the RokBox2 popup |
+| `data-rokbox-size` | Sets a fixed size for the RokBox2 popup. |
 
 
 #### data-rokbox-caption

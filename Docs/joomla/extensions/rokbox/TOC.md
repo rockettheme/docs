@@ -14,7 +14,9 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokbox/
     * [Introduction](INDEX.md)
     * [How to Use](how_to_use.md)
     * [Editor Button](editor_button.md)
+    * [FAQ](faq.md)
 * Extensions with RokBox Support
 	* [RokSprocket](../roksprocket/)
 	* [RokGallery](../rokgallery/)
 	* [RokNavMenu](../roknavmenu/)
+

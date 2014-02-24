@@ -73,7 +73,7 @@ more:
 	- [Camber](templates/camber)
 	- [Reflex](templates/reflex)
 	- [Modulus](templates/modulus)
-	- [Nebulae (Coming Soon)](templates/nebulae)
+	- [Nebulae](templates/nebulae)
 	- [Entropy (Coming Soon)](templates/entropy)
 	- [Mercado (Coming Soon)](templates/mercado)
 	- [Tachyon (Coming Soon)](templates/tachyon)
@@ -131,6 +131,7 @@ more:
 	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
 	- [How to Create Responsive Content](basic/creating_responsive_content.md)
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
+	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
 	- [Frequently Asked Questions](basic/faq.md)
 
 <!-- -->

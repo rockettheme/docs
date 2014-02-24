@@ -14,7 +14,7 @@ Templates offer you the ability to completely separate a site's content from its
 
 While some templates offer a great degree of control over layout to users, others can be significantly more rigid. Templates built on a framework that offers a great deal of user customization options, like Gantry, can extend on the built-in backend options Joomla offers in a way that empowers the user to rearrange and reconfigure a site's layout without having to modify the template's code directly.
 
-You can also modify an existing template to appear slightly different depending on which page you are accessing. For example, many sites are designed with a different layout for the home page than a single article page. You might not want some features to appear in specific areas of your site. By [duplicating the template style](../basic/create_duplicate_template_styles.md) and assigning the adjusted layout to specific pages, you can do this fairly easily.
+You can also modify an existing template to appear slightly different depending on which page you are accessing. For example, many sites are designed with a different layout for the home page than a single article page. You might not want some features to appear in specific areas of your site. By [duplicating the template style][override] and assigning the adjusted layout to specific pages, you can do this fairly easily.
 
 How to install a Joomla template
 -----
@@ -90,3 +90,4 @@ While these files are not directly intended to be installed on your Joomla site,
 [install2]: assets/template_install_2.png
 [install3]: assets/template_install_3.png
 [install4]: assets/template_install_4.png
+[override]: ../basic/how_to_create_a_template_override.md

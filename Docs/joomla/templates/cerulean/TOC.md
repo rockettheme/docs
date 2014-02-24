@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/joomla-template-cerulean
     * [Responsive Support Classes](../../basic/responsive_support_classes.md)
     * [Creating Responsive Content](../../basic/creating_responsive_content.md)
     * [K2 Styling Guide](../../basic/k2_styling_guide.md)
+    * [How to Create a Template Override](../../basic/how_to_create_a_template_override.md)
 * Useful Extension Guides
     * [RokAjaxSearch](../../extensions/rokajaxsearch/)
     * [RokBooster](../../extensions/rokbooster/)
