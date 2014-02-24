@@ -1,6 +1,6 @@
 ---
 title: RokBox Docs
-description: RokBox is a *state-of-the-art* responsive modal solution for Joomla with support for images, videos, widgets and much more.
+description: RokBox is a *state-of-the-art* responsive modal solution for Joomla with support for images, videos, modules and much more.
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokbox:RokBox
 
 details: http://www.rockettheme.com/joomla/extensions/rokbox

@@ -15,4 +15,11 @@ By enabling the HTML5 player, a Flash-free player is loaded in its place on any 
 
 This problem is typically temporary, as YouTube is quick to spot the issue and fix the player to keep up with any changes made to the latest version of Flash.
 
+#### Video Plays in Some Browsers, but Not All
+
+Not all browsers support the same audio/video formats. This is one of the biggest frustrations facing media sites today. A video that plays fine on Firefox or Safari might completely fail on IE or Chrome, and vice versa.
+
+[Mozilla provides a useful guide][mozilla] to finding the right media formats for the largest variety of current browsers.
+
 [html5]: assets/html5.jpg
+[mozilla]: https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats

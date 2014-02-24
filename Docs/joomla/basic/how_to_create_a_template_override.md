@@ -41,7 +41,7 @@ Once the duplicate set has been created, you can edit its name and manage settin
 
 Now, you can override specific settings to change them from the master. In the pictured example, we adjusted the module position settings for the Top module position. 
 
-By checking the checkbox next to the **Top Positions** row and adjusting the setting, we have told Joomla that for any page this ovveride is assigned, the Top module positions will be displayed at a ratio of 7 to 5, rather than the default setting used elsewhere.
+By checking the checkbox next to the **Top Positions** row and adjusting the setting, we have told Joomla that for any page this override is assigned, the Top module positions will be displayed at a ratio of 7 to 5, rather than the default setting used elsewhere.
 
 [override1]: assets/override_1.jpeg
 [override2]: assets/override_2.jpeg
