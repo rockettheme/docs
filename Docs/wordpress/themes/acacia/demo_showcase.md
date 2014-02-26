@@ -74,7 +74,7 @@ Here is a look at the **Features Layout Options** for this widget.
 | Article Titles   | Show           |  
 | Article Text     | Show           |  
 | Preview Length   | ∞              |  
-| Strip HTML Tags  | Yes            |  
+| Strip HTML Tags  | No             |  
 | Arrow Navigation | Show           |  
 | Pagination       | Hide           |  
 | Animation        | Bottonm to Top |  
