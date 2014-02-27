@@ -116,9 +116,9 @@ The result: A leaner, more aesthetically pleasing article tease without sacrific
 ![][responsive9] 
 
 
-[part1]: http://www.rockettheme.com/blog/team/1550-responsive-design-and-gantry4
-[part2]: http://www.rockettheme.com/blog/team/1551-responsive-design-rocketthemes-solution
-[part3]: http://www.rockettheme.com/blog/team/1555-responsive-design-rocketthemes-extensions
+[part1]: http://www.rockettheme.com/blog/team/58-responsive-design-rockettheme-part1
+[part2]: http://www.rockettheme.com/blog/team/57-responsive-design-rockettheme-part2
+[part3]: http://www.rockettheme.com/blog/team/56-responsive-design-rockettheme-part3
 [placehold]: http://placehold.it/
 [class]: responsive_support_classes.md
 [responsive1]: assets/responsive_1.jpg
