@@ -10,16 +10,6 @@ What are Paradigm template features?
 
 Please check our [Template Info page][features] for all Paradigm features in one complete list.
 
-What font is used on Paradigm template?
------
-
-Raleway. You can download it at [here][font].
-
-Is there any tutorial to get me started with Paradigm?
------
-
-Yes. Please check our [Paradigm Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Paradigm compatible for Joomla 1.5?
 -----
 

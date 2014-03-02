@@ -1,7 +1,7 @@
 ---
-title: Nebulae: Recreating the Demo - Connect With Us
-description: Your Guide to Recreating Elements of the Nebulae Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/nebulae:Nebulae
+title: Entropy: Recreating the Demo - Connect With Us
+description: Your Guide to Recreating Elements of the Entropy Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/entropy:Entropy
 
 ---
 

@@ -9,14 +9,6 @@ What are Cerulean template features?
 -----
 Please check our [Template Info page][features] for all Cerulean features in one complete list.
 
-What font is used on Cerulean template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Cerulean?
------
-Yes. Please check our [Cerulean Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Cerulean compatible for Joomla 1.5?
 -----
 No, Cerulean is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.

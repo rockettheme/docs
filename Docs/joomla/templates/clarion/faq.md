@@ -9,14 +9,6 @@ What are Clarion template features?
 -----
 Please check our [Template Info page][features] for all Clarion features in one complete list.
 
-What font is used on Clarion template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Clarion?
------
-Yes. Please check our [Clarion Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Clarion compatible for Joomla 1.5?
 -----
 No, Clarion is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.

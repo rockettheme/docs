@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 	
+	- [Epsilon](templates/epsilon)
 	- [Anacron](templates/anacron)
 	- [Hadron](templates/hadron)
 	- [Paradigm](templates/paradigm)
@@ -74,7 +75,7 @@ more:
 	- [Reflex](templates/reflex)
 	- [Modulus](templates/modulus)
 	- [Nebulae](templates/nebulae)
-	- [Entropy (Coming Soon)](templates/entropy)
+	- [Entropy](templates/entropy)
 	- [Mercado (Coming Soon)](templates/mercado)
 	- [Tachyon (Coming Soon)](templates/tachyon)
 	- [Maelstrom (Coming Soon)](templates/maelstrom)

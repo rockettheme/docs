@@ -9,14 +9,6 @@ What are Praxis template features?
 -----
 Please check our [Template Info page][features] for all Praxis features in one complete list.
 
-What font is used on Praxis template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Praxis?
------
-Yes. Please check our [Praxis Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Praxis compatible for Joomla 1.5?
 -----
 No, Praxis is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.

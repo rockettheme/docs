@@ -1,7 +1,7 @@
 ---
-title: Nebulae: Recreating the Demo - Featured Article
-description: Your Guide to Recreating Elements of the Nebulae Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/nebulae:Nebulae
+title: Entropy: Recreating the Demo - Featured Article
+description: Your Guide to Recreating Elements of the Entropy Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/entropy:Entropy
 
 ---
 
@@ -15,7 +15,7 @@ This area of the front page is an article. Articles appear within the **Mainbody
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Nebulae -> Advanced**.
+This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Entropy -> Advanced**.
 
 ![][advanced]
 
@@ -38,7 +38,7 @@ Here is the **Article Text** we used:
 ~~~ .html
 <img class="rt-image floatleft smallmarginbottom" src="images/stories/demo/frontpage/fp-article.jpg" width="125" height="100" alt="RocketTheme" />
 
-<p>The Nebulae template is built for both the Joomla <strong>1.5.x</strong> and <strong>1.7.x</strong> platforms, with full support for both. This includes the template, the RocketTheme Extensions demoed, the Gantry Framework, version specific PDF tutorials, in addition to <strong>RocketLaunchers</strong> for both versions. All products are available from a consolidated Joomla Download area for Nebulae.</p>
+<p>The Entropy template is built for both the Joomla <strong>1.5.x</strong> and <strong>1.7.x</strong> platforms, with full support for both. This includes the template, the RocketTheme Extensions demoed, the Gantry Framework, version specific PDF tutorials, in addition to <strong>RocketLaunchers</strong> for both versions. All products are available from a consolidated Joomla Download area for Entropy.</p>
 
 <p>The template is based on the <strong>Gantry Framework</strong>, therefore, standard features such as the 960 Grid System, <strong>iPhone/Android</strong> viewing support. Layered on top is an intricate array of design elements, textures, patterns and backgrounds providing an elegant but complex appearance.</p>
 
