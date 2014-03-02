@@ -10,16 +10,6 @@ What are Anacron template features?
 
 Please check our [Template Info page][features] for all Anacron features in one complete list.
 
-What font is used on Anacron template?
------
-
-Raleway. You can download it at [here][font].
-
-Is there any tutorial to get me started with Anacron?
------
-
-Yes. Please check our [Anacron Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Anacron compatible for Joomla 1.5?
 -----
 

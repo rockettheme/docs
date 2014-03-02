@@ -9,14 +9,6 @@ What are Voxel template features?
 -----
 Please check our [Template Info page][features] for all Voxel features in one complete list.
 
-What font is used on Voxel template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Voxel?
------
-Yes. Please check our [Voxel Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Voxel compatible for Joomla 1.5?
 -----
 No, Voxel is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.

@@ -33,7 +33,7 @@ Your customers benefit from receiving:
 
 * Immense value through top-notch designs at affordable prices. 
 * Attentive customer service provided by a team dedicated to customer support. 
-* An opportunity to join a community of 50,000+ members strong. 
+* An opportunity to join a community 100,000+ members strong. 
 
 Expectations
 -----
@@ -48,6 +48,8 @@ The expectations placed on members of RocketTheme's affiliate program are listed
 * Other miscellaneous factors.
 
 Affiliates are restricted from representing themselves as being associated with, or a representative of, RocketTheme and/or its products. RocketTheme also does not approve of the affiliate program's use as part of an incentive rewards program, or in any situation where a visitor is compelled to click the affiliate link in order to participate in a third-party program.
+
+The use of RocketTheme's affiliate link with coupon sites are prohibited. This includes direct link coupons and distribution of discount codes in conjunction with the affiliate program.
 
 Automatic redirects and other forced traffic is strictly forbidden, and will result in immediate removal from the program. RocketTheme reserves the right to reject and/or remove any party from the affiliate program for any reason.
 

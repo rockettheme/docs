@@ -9,14 +9,6 @@ What are Chapelco template features?
 -----
 Please check our [Template Info page][features] for all Chapelco features in one complete list.
 
-What font is used on Chapelco template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Chapelco?
------
-Yes. Please check our [Chapelco Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Chapelco compatible for Joomla 1.5?
 -----
 No, Chapelco is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.

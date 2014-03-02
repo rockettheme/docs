@@ -10,16 +10,6 @@ What are Hadron template features?
 
 Please check our [Template Info page][features] for all Hadron features in one complete list.
 
-What font is used on Hadron template?
------
-
-Raleway. You can download it at [here][font].
-
-Is there any tutorial to get me started with Hadron?
------
-
-Yes. Please check our [Hadron Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Hadron compatible for Joomla 1.5?
 -----
 

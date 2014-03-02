@@ -9,14 +9,6 @@ What are Alerion template features?
 -----
 Please check our [Template Info page][features] for all Alerion features in one complete list.
 
-What font is used on Alerion template?
------
-Ubuntu. You can download it at [here][font].
-
-Is there any tutorial to get me started with Alerion?
------
-Yes. Please check our [Alerion Tutorials & Guides forum][forum] in addition to this guide.
-
 Is Alerion compatible for Joomla 1.5?
 -----
 No, Alerion is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
