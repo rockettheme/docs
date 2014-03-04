@@ -12,7 +12,9 @@ Introduction
 
 RokQuickCart is a simple shopping cart for Joomla. It takes a simple, yet elegant, shopping cart script and integrates directly into Joomla. It allows you to showcase products, inclusive of images, descriptions and additional options, and purchase these items, with support for shipping and tax calculation.
 
-The extension uses **PayPal** and **Google Checkout** as its payment systems, and comes with a built-in theme.
+This extension enables you to rapidly set up and deploy a powerful e-commerce system for your Joomla site that accepts payments from **Amazon**, **PayPal**, **Google Checkout**, or a custom SendForm option.
+
+>> NOTE: Google Checkout has been retired by Google and may not be available. Support is maintained to be in-line with [SimpleCart][simplecart]'s current list of supported platforms.
 
 Requirements
 ------------
@@ -25,12 +27,13 @@ Requirements
 Key Features
 -----
 
-* **Payment Systems**: use PayPal or Google Checkout
+* **Payment Systems**: use PayPal, Amazon, Google Checkout, or a custom SendForm checkout
 * **Currencies**: use up to 16 different currencies for your store
 * **Tax Rate**: automatic cost calculation based on a tax rate
 * **Shipping**: configure shipping costs for auto-calculation
 * **RokBox**: product images use RokBox to display larger previews
 * **Style**: built-in styling for rapid deployment
+* **Based on SimpleCart**: based on the powerful SimpleCart platform to make it easy and simple to use
 
 How to install
 --------------
@@ -65,3 +68,4 @@ You can find more information about menu management in Joomla [in our guide][gui
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [extension]: assets/rokquickcart.jpg
 [guide]: ../../basic/menu_manager.md
+[simplecart]: http://simplecartjs.org/
