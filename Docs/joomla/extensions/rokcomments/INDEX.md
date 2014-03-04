@@ -17,7 +17,7 @@ The RokComments plugin allows for easy integration of third-party JavaScript-bas
 Requirements
 -----
 
-RokAjaxSearch has the following requirements in order to operate:
+RokComments has the following requirements in order to operate:
 
 * Joomla 2.5 or 3.x - ensure you are using the latest version.
 
@@ -55,9 +55,9 @@ Key Features
 How to Install
 --------------
 
-Installing RokAjaxSearch takes just a matter of few minutes.
+Installing RokComments takes just a matter of few minutes.
 
-The first thing you’ll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download contains everything to get RokAjaxSearch up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokComments. The package you will download contains everything to get RokComments up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
