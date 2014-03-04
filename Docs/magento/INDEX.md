@@ -15,7 +15,7 @@ more:
 	- [What is Magento Community Edition?](start/introduction.md)
 	  Find out why Magento is one of the most popular open source CMSs.
 
-	- [How to install Magento](start/install_Magento.md)
+	- [How to install Magento](start/install_magento.md)
 	  Step-by-step through the installation procedure for Magento.
 
 <!-- -->
