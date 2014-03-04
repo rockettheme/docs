@@ -19,4 +19,4 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokquickcart/
     	* [Checkout Modes](setup.md#checkout-modes)
     	* [Items Manager](setup.md#items-manager)
     	* [Item Editor](setup.md#item-editor)
-    	* [Configuration](setup.md#configuration)
+    	* [Setup and Configuration](setup.md#setup-and-configuration)
