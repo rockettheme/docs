@@ -1,7 +1,7 @@
 ---
 title: Attracting Customers to Your E-commerce Site
 description: A Quick guide to e-commerce audience building.
-breadcrumb: /technical_tips:Technical Tips/!ecommerce:E-commerce
+breadcrumb: /technical_tips:Technical Tips/!ecommerce:Ecommerce/!build_an_audience_for_ecommerce:How to Build an Audience/
 
 ---
 
@@ -14,6 +14,7 @@ There is plenty of room for independent and corporate merchants alike to get the
 In this article, we will go over a few tips to help you build a loyal customer base filled with active participants willing to aid in sharing the word about new deals and promotions.
 
 ### Social Media Strategy: Interact Directly with Your Community
+
 A solid social media strategy for an e-commerce site involves two different plans of attack.
 
 First, you will want to find a way to communicate with your community on a one-on-one basis. This does not mean personally firing off an email to each and every person to drop a dime on your products or services. It might mean paying a bit more attention to your social media feeds and taking the time to respond to any direct messages or comments that come across your feeds.
@@ -23,6 +24,7 @@ This is a relatively easy task to pull off if you use the right tools. [HootSuit
 Think about it this way: Would you rather give your business to a company that you have had a conversation with, or one that you have only heard about through advertising or passing word-of-mouth? Chances are, the average consumer will go with the company that has established a relationship beyond passive advertising.
 
 ### Social Media Strategy: Be Informative
+
 The second social media plan of attack you might want to consider involves making your posts more useful to your customers than simply pitching your products. In fact, some of the best strategic posts out there do not even mention the brand's products at all. They are useful, sharable, and they generate conversation.
 
 Conversation establishes relevance, and relevance is exactly what you need to keep your site on your customer's minds.
@@ -32,6 +34,7 @@ If you run a bakery, or sell kitchen supplies, you should consider sharing tips 
 A good rule of thumb involves an 80/20 content strategy. 80% of your posts should be useful beyond simply pushing your site and/or brand. The other 20% of your posts can be shameless plugs targeted at bringing your existing customers back to buy more product. By doing this, you reduce the amount of perceived spam you put out there while keeping your site on the forefront of your customer's minds.
 
 ### Site Strategy: Keep it Clean
+
 Clutter is a great way to confuse a potential customer. Studies have shown that when given too many options, a person is more likely to walk away from a deal than take advantage of it. 
 
 Meanwhile, by making choices easy to find and add to their shopping cart, you are making the whole experience a lot easier on them and as such increases your odds of making a sale.

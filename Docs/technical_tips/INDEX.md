@@ -17,7 +17,7 @@ breadcrumb: /!technical_tips:Technical Tips/
 
 * Ecommerce
 
-	- [How to Build an Audience for E-commerce](build_an_audience_for_ecommerce.md)
+	- [How to Build an Audience for E-commerce](ecommerce/build_an_audience_for_ecommerce.md)
 
 <!-- -->
 
