@@ -96,10 +96,6 @@ In your site's main menu, you will want to make a couple of key changes in order
 
 You will need to change the **Page Class** setting under the Home menu item to ` mar14-home`.
 
-The icons that appear at the top-level menu area are configured under the individual menu item's **Dropdown Menu Options**, and are set in the **Menu Icon** option.
-
-For example, the **Pages** menu icon is set to `icon-file-text`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
-
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
@@ -123,7 +119,6 @@ For example, the **Pages** menu icon is set to `icon-file-text`. For a full list
 [module12]: demo_module_12.md
 [module13]: demo_module_13.md
 [module14]: demo_module_14.md
-[mainmenu]: assets/menu_1.jpeg
-[icons]: http://fortawesome.github.io/Font-Awesome/icons/
+[mainmenu]: assets/menu_1.jpg
 [article]: assets/article.jpg
 [demo11]: assets/demo_10.jpeg
