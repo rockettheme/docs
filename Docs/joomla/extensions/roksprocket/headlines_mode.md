@@ -14,13 +14,12 @@ Headlines is a content ticker layout mode. It can displays lines of text in succ
 
 ![][headlines_1]
 
-:   1. **Title** This is the title of your module. [19%, 14%, se]
-    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [19%, 59%, se]
-    3. **Status** Sets the publishing status for the module. [26%, 63%, nw]
-    4. **Access** Sets the access level for the module. [19%, 85%, sw]
-    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [53%, 50%, sw]
-    6. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [51%, 83%, sw]
-    7. **Content Filter Rules** Sets the content filter rules for the module. [61%, 79%, sw]
+:   1. **Title** This is the title of your module. [22%, 13%, se]
+    2. **Show Title** Determines whether the title of the module will appear for visitors or remain hidden. [22%, 59%, se]
+    3. **Status** Sets the publishing status for the module. [31%, 65%, nw]
+    4. **Access** Sets the access level for the module. [22%, 85%, sw]
+    5. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [60%, 50%, sw]
+    6. **Content Filter Rules** Sets the content filter rules for the module. [53%, 79%, sw]
 
 1. The **Title** field gives you the ability to set a title for the module itself. Every module has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the module should appear in.
 
@@ -35,9 +34,7 @@ Headlines is a content ticker layout mode. It can displays lines of text in succ
     * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
     * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the article is used. 
 
-6. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
-
-7. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the headlines. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+6. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the headlines. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
 ![][headlines_2]
 
@@ -80,5 +77,5 @@ Headlines is a content ticker layout mode. It can displays lines of text in succ
 
 [headlines]: assets/headlines.jpeg
 [headlines_link]: headlines_mode.md
-[headlines_1]: assets/headlines_1.jpeg
+[headlines_1]: assets/headlines_1.jpg
 [headlines_2]: assets/headlines_2.jpeg

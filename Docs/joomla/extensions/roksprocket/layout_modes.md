@@ -18,7 +18,16 @@ To start, all of the layout modes are accessible using a single module type. By 
 
 Below, you will see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
 
-You can jump to a specific layout mode using the menu in the sidebar, or clicking the mode's name below:
+![][content]
+
+:   1. **Title** You need to assign a title to the module in order to continue past the first setup page. [18%, 13%, se]
+    2. **Content Provider** This option allows you select from any available content providers on your Joomla site. [47%, 41%, se]
+    3. **Layout** The layout determines how the module will appear on the frontend. [68%, 24%, se]
+    4. **Continue** Selecting this will create the module and take you to the next step in the setup process. Once this is clicked, the module's content provider and layout can not be changed. [85%, 47%, se]
+
+Once you have selected to create a new RokSprocket module, you will be taken to a page where you can pick a **Content Provider** and a **Layout**. Once you have done this, and given the module a **Title** you can click **Continue** to begin refining the module on the next page.
+
+Here is a list of layouts you can choose from on this page.
 
 * [Features][features_link]
 * [Tabs][tabs_link]
@@ -30,7 +39,7 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 Content Providers
 -----
 
-![][content]
+Content providers determine where the content is pulled from to create the body of your RokSprocket module. Images, links, descriptions, and titles can be pulled directly from these content providers.
 
 RokSprocket has the ability to pull content from a number of content providers that work within Joomla. Most site administrators will use Joomla as the content provider for RokSprocket as it pulls articles from your primary Joomla install and arranges them to meet your needs. 
 
@@ -45,25 +54,23 @@ Alternatively, RokSprocket supports the following content providers:
 * [FieldsAttach][fieldsattach] 
 
 ### Using the 'Simple' Content Provider
+
 With the introduction of RokSprocket 2, you can use another content provider named **Simple** which allows you to manually configure a RokSprocket module without having to reference any articles hosted on your site. In fact, the **Simple** content provider option gives you complete control over every aspect of your RokSprocket module's line items.
 
 ![][simple]
 
-:   1. **Rename Item** The pencil icon gives you the ability to rename an item in your module. [21%, 13%, sw]
-    2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [25%, 50%, sw]
-    3. **Content Provider** Selecting the **Simple** content provider allows you manual control over the module and its content. [20%, 80%, sw]
-    4. **Add New Item** This button adds a new blank item to the module. [35%, 81%, sw]
-    5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [21%, 33%, sw]
+:   1. **Rename Item** The pencil icon gives you the ability to rename an item in your module. [35%, 15%, sw]
+    2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [35%, 50%, sw]
+    3. **Add New Item** This button adds a new blank item to the module. [35%, 82%, sw]
+    4. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [35%, 33%, sw]
 
 1. **Rename Item**: The pencil icon gives you the ability to rename an item in your module.
 
 2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source.
 
-3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the module and its content.
+3. **Add New Item**: This button adds a new blank item to the module.
 
-4. **Add New Item**: This button adds a new blank item to the module.
-
-5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
+4. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
 
 When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the module appears the way you want it to every time a visitor loads the page.
 

@@ -15,6 +15,17 @@ To start, you can configure a new widget with your layout mode of choice by head
 
 Think of this page as a list of presets you can apply to one or more different widgets. Each preset can be set with a specific layout type.
 
+Below, you will see each layout mode listed along with the settings which are available for them. Not all of the modes have the same set of controls as each is intended for an entirely different look and/or purpose.
+
+![][content]
+
+:   1. **Title** You need to assign a title to the widget in order to continue past the first setup page. [18%, 15%, se]
+    2. **Content Provider** This option allows you select from any available content providers on your Joomla site. [41%, 39%, se]
+    3. **Layout** The layout determines how the widget will appear on the frontend. [64%, 20%, se]
+    4. **Continue** Selecting this will create the widget and take you to the next step in the setup process. Once this is clicked, the widget's content provider and layout can not be changed. [84%, 46%, se]
+
+Once you have selected to create a new RokSprocket widget, you will be taken to a page where you can pick a **Content Provider** and a **Layout**. Once you have done this, and given the widget a **Title** you can click **Continue** to begin refining the widget on the next page.
+
 You can jump to a specific layout mode using the menu in the sidebar, or clicking the mode's name below:
 
 * [Features][features_link]
@@ -27,7 +38,7 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 Content Providers
 -----
 
-![][content]
+Content providers determine where the content is pulled from to create the body of your RokSprocket widget. Images, links, descriptions, and titles can be pulled directly from these content providers.
 
 RokSprocket has the ability to pull content from a number of content providers that work within WordPress. Most site administrators will use WordPress as the content provider for RokSprocket as it pulls posts from your primary WordPress install and arranges them to meet your needs. 
 
@@ -79,7 +90,7 @@ When using ‘Simple’ as the content provider, you can set ordering to random 
 [widget1]: assets/wp_roksprocket_widget_1.png
 [widget2]: assets/wp_roksprocket_widget_2.png
 [simple]: assets/roksprocket_simple.jpeg
-[content]: assets/roksprocket_content.jpeg
+[content]: assets/roksprocket_content.jpg
 [cfs]: http://wordpress.org/plugins/custom-field-suite/
 [cpt]: http://wordpress.org/plugins/custom-post-type-ui/
 [types]: http://wordpress.org/plugins/types/

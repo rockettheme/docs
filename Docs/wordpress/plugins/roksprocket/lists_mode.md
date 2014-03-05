@@ -13,23 +13,18 @@ Lists is a vertical display content mode, with accordion support. Here is a look
 
 ![][lists1]
 
-:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [22%, 13%, se]
-    2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [53%, 46%, sw]
-    3. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket widget. [47%, 82%, sw]
-    4. **Content Filter Rules** Sets the content filter rules for the widget. [53%, 75%, ne]
+:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [27%, 15%, se]
+    2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [55%, 52%, nw]
+    3. **Content Filter Rules** Sets the content filter rules for the widget. [54%, 83%, sw]
 
-1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look.
+1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the widget should appear in.
 
 2. The **Filtered Article List** gives you access to item-specific settings including:
+    * **Image** - This allows you to circumvent the assigned image from the post and replace it with one specifically for the headline. 
+    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
+    * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the post is used. 
 
-    * **Title** - Allows you to override the post title in the widget. The post title will be used if this is left at *Default*.
-    * **Description** - Allows you to set a description for the feature. If this is left at *Default* the introductory text from the post is used. 
-    * **Image** - This allows you to circumvent the assigned image from the post and replace it with one specifically for the feature. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the feature, as well.
-
-3. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the widget. This is often the first setting you want to pay attention to when creating a new RokSprocket widget. The Content Provider can vary, but in most WordPress instances, this will default to WordPress.
-
-4. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the features. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the widget.
+3. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the headlines. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the widget.
 
 Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Lists Layout Options** and **Lists Article Defaults** sections below.
 
@@ -83,6 +78,5 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 [lists]: assets/lists.png
 [lists_link]: layout_modes.md#lists
-[lists_1]: assets/lists_1.png
 [lists_2]: assets/lists_2.png
-[lists1]: assets/wp_roksprocket_lists_1.png
+[lists1]: assets/lists_1.jpg

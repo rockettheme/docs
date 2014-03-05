@@ -13,9 +13,8 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
 
 ![][tabs_1]
 
-:   1. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [40%, 50%, sw]
-    2. **Layout Type** This is where you will select the Layout Mode you wish to use for your RokSprocket Module. [38%, 80%, sw]
-    3. **Content Filter Rules** Sets the content filter rules for the module. [50%, 78%, sw]
+:   1. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [50%, 50%, sw]
+    2. **Content Filter Rules** Sets the content filter rules for the module. [50%, 78%, sw]
 
 1. The **Filtered Article List** gives you access to item-specific settings including:
 
@@ -23,8 +22,6 @@ Tabs is a tabbed content display mode, presenting content in dynamically sizing 
     * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
     * **Icon** - This allows you to set an icon (generally a small, squared image) which will be placed next to the article title in the module.
     * **Link** - If set, the link will show a **Read More** button as well as link the title. This is the article introtext by default.
-
-2. The **Content Provider and Layout Type** section gives you the ability to set the Layout Mode you wish to use for the module. This is often the first setting you want to pay attention to when creating a new RokSprocket module. The Content Provider can vary, but in most Joomla instances, this will default to Joomla.
 
 3. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the items. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
 
@@ -74,5 +71,5 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 [tabs]: assets/tabs.jpeg
 [tabs_link]: tabs_mode.md
-[tabs_1]: assets/tabs_1.jpeg
+[tabs_1]: assets/tabs_1.jpg
 [tabs_2]: assets/tabs_2.jpeg
