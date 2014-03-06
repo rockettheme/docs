@@ -55,21 +55,18 @@ With the introduction of RokSprocket 2, you can use another content provider nam
 
 ![][simple]
 
-:   1. **Rename Item**: The pencil icon gives you the ability to rename an item in your widget. [32%, 17%, sw]
-    2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [35%, 55%, sw]
-    3. **Content Provider**: Selecting the **Simple** content provider allows you manual control over the widget and its content. [32%, 83%, sw]
-    4. **Add New Item**: This button adds a new blank item to the widget. [50%, 82%, sw]
-    5. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [34%, 34%, sw]
+:   1. **Rename Item** The pencil icon gives you the ability to rename an item in your module. [35%, 15%, sw]
+    2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source. [35%, 50%, sw]
+    3. **Add New Item** This button adds a new blank item to the module. [35%, 82%, sw]
+    4. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change. [35%, 33%, sw]
 
-1. **Rename Item** The pencil icon gives you the ability to rename an item in your widget.
+1. **Rename Item**: The pencil icon gives you the ability to rename an item in your module.
 
-2. **Item Settings** The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source.
+2. **Item Settings**: The tab label, icon, link, and description all need to be entered manually as this information is not automatically pulled from a source.
 
-3. **Content Provider** Selecting the **Simple** content provider allows you manual control over the widget and its content.
+3. **Add New Item**: This button adds a new blank item to the module.
 
-4. **Add New Item** This button adds a new blank item to the widget.
-
-5. **Delete** The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
+4. **Delete**: The circular X icon gives you the option to delete a line item. This can not be undone, and you will need to click the icon twice to lock in the change.
 
 When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the widget appears the way you want it to every time a visitor loads the page.
 
@@ -89,7 +86,7 @@ When using ‘Simple’ as the content provider, you can set ordering to random 
 [tabs1]: assets/wp_roksprocket_tabs_1.png
 [widget1]: assets/wp_roksprocket_widget_1.png
 [widget2]: assets/wp_roksprocket_widget_2.png
-[simple]: assets/roksprocket_simple.jpeg
+[simple]: assets/roksprocket_simple.jpg
 [content]: assets/roksprocket_content.jpg
 [cfs]: http://wordpress.org/plugins/custom-field-suite/
 [cpt]: http://wordpress.org/plugins/custom-post-type-ui/
