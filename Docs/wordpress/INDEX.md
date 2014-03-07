@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Paradigm](themes/paradigm)
 	- [Spectral](themes/spectral)
 	- [Acacia](themes/acacia)
 	- [Corvus](themes/corvus)
