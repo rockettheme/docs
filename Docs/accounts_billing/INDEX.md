@@ -36,3 +36,4 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 * RocketTheme Site Guides
 
 	- [Purchasing Guide](purchase.md)
+	- [Frequently Asked Questions](faq.md)
