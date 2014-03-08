@@ -28,5 +28,28 @@ An incident is a specific issue for which support is being requested. This restr
 
 For example: If you are needing assistance configuring a template for your site, a separate incident would need to be filed for setup and configuration of RokSprocket.
 
+### Where Can I Find the Expiration Date of My Subscription?
+
+You can take a look at previous purchases and keep track of your current subscriptions from the **Purchases** page, within your member profile. To reach this page, you can click on the drop-down next to your profile image at the top of any page within the RocketTheme site and select **Purchases**.
+
+![][purchases]
+
+Alternatively, you can reach the page by selecting the Purchases tab from your **Account Details** or **Forum Profile** pages.
+
+Here, you will find a list of purchases you have made. This list includes the status of the purchase (active or expired), type of purchase/subscription, start date, expiry date, and number of site licenses associated with the purchase.
+
+You can also renew your subscription from this page. More details can be found in our [Upgrades and Renewals][upgrades] guide.
+
+### How Do I Pull Up a Printable Invoice?
+
+Printable invoices are available to you any time you need. You can access this information through your **Order History** page. You can access this page by selecting **Order History** through the drop-down menu located next to your user photo at the top of each page on the RocketTheme site.
+
+![][orderhistory]
+
+Once you have reached this page, simply select the printer icon next to the order you wish to have an invoice for. A detailed printable invoice will appear in a new tab.
+
 [licenses]: site_licenses.md
 [comparison]: comparisons.md
+[upgrades]: upgrades_and_renewals.md
+[purchases]: assets/purchases.jpg
+[orderhistory]: assets/orderhistory.jpg
