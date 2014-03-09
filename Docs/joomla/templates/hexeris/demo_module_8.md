@@ -54,6 +54,20 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 | :------------------ | :---------------------- |  
 | Module Class Suffix | `fp-roksprocket-strips` |
 
+### Strip Item Content
+This is a sample of the HTML content code to use in your RokSprocket Strips Simple items or articles:
+
+```html
+<span class="box1 rt-strips-icon">
+    <span class="rokicon-joomla rt-big-icon"></span>
+</span>
+<span class="box3 rt-strips-description">
+    <span class="rt-strips-desc-title">Lorem Ipsum</span>
+    <span class="rt-strips-desc-content">Dolor Amet</span>
+    <span>Lorem ipsum dolor amet adipis odio nemo ex alias</span>
+</span>
+```
+
 [demo]: assets/demo_7.jpeg
 [demo2]: assets/strips_1.jpeg
 [demo3]: assets/strips_2.jpeg
