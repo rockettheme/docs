@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
             * [Welcome to Anacron](demo_module_2.md)
             * [FP RokSprocket Mosaic](demo_module_3.md)
             * [Dynamic, Scrolling Header](demo_module_4.md)
-            * [FP RokSprocket Strips](demo_module_5.md)
+            * [Pay as You Go Pricing](demo_module_5.md)
             * [FP RokSprocket Tabs](demo_module_6.md)
             * [Why Anacron](demo_module_7.md)
             * [What Our Clients Say](demo_module_8.md)
