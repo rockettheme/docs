@@ -84,8 +84,8 @@ There are several other files that you might find useful on the template's downl
 
 While these files are not directly intended to be installed on your Joomla site, they can serve as a useful resource for further customization and understanding of what went into creating the template.
 
-[joomla25]: install_joomla25.md
-[joomla3x]: install_joomla3x.md
+[joomla25]: install_joomla_25.md
+[joomla3x]: install_joomla_3x.md
 [install1]: assets/template_install_1.png
 [install2]: assets/template_install_2.png
 [install3]: assets/template_install_3.png
