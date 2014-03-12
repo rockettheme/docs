@@ -48,6 +48,8 @@ Printable invoices are available to you any time you need. You can access this i
 
 Once you have reached this page, simply select the printer icon next to the order you wish to have an invoice for. A detailed printable invoice will appear in a new tab.
 
+Any changes made to your account after the order is placed will not be reflected in the invoice, as it is a snapshot of related information taken at the time of purchase.
+
 [licenses]: site_licenses.md
 [comparison]: comparisons.md
 [upgrades]: upgrades_and_renewals.md

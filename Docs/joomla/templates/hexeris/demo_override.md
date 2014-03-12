@@ -92,4 +92,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [demo25]: assets/Hexeris.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
-[hexeris2]: assets/Hexeris.jpeg
+[hexeris2]: assets/hexeris.jpeg

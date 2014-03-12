@@ -8,4 +8,5 @@ breadcrumb: /phpbb:phpBB/!start:Getting Started/
 	* [What is phpBB?](introduction.md)
 * Installation
 	* [How to Install phpBB](install.md)
+    * [How to Install a phpBB RocketLauncher](rocketlauncher.md)
 	* [How to Install Styles](styles.md)
