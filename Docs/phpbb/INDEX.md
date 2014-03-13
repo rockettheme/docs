@@ -4,7 +4,7 @@ description: phpBB is a powerful and popular forum solution for small, medium, a
 landing: true
 breadcrumb: /!phpbb:phpBB/
 more:
-	Club Styles: 7
+	Club Styles: 9
 
 ---
 
@@ -14,7 +14,10 @@ more:
 	  Find out why phpBB is one of the most popular forum platforms on the Web.
 
 	- [How to install phpBB](start/install.md)
-	  Step-by-step through the installation procedure for phpBB.
+	  Step-by-step guide through the installation procedure for phpBB.
+
+	- [How to Install a phpBB RocketLauncher](start/rocketlauncher.md)
+	  A Step-by-step guide to installing a phpBB RocketLauncher from RocketTheme.
 
 	- [How to Install Styles](start/styles.md)
 	  Find out exactly what a phpBB template entails and what its relationship is with phpBB's extensions.
@@ -55,3 +58,9 @@ more:
 
 	- [How to Install RokBB](start/styles.md#installing-administrative-modules)
 	- [RokNavMenu Exporter](modules/roknavmenu.md)
+
+<!-- -->
+
+* Free Styles
+
+	- [Afterburner2](styles/afterburner2)
