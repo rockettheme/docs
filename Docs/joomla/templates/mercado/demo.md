@@ -103,8 +103,8 @@ You can find more information about the entire override breakdown for both the f
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery
-[Mercado]: assets/Mercado2.jpeg
-[Mercado2]: assets/Mercado.jpeg
+[Mercado]: assets/mercado2.jpeg
+[Mercado2]: assets/mercado.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
