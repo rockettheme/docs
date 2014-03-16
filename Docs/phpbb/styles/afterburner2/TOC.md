@@ -5,7 +5,7 @@ breadcrumb: /phpbb:phpBB/styles:Styles/!afterburner2:Afterburner2/
 details: http://www.rockettheme.com/phpbb/styles/afterburner2
 demo: http://demo.rockettheme.com/phpbb-styles/afterburner2/
 download: http://www.rockettheme.com/phpbb/styles/afterburner2/modal/downloads
-support: http://www.rockettheme.com/forum/phpbb-style-afterburner2/
+support: http://www.rockettheme.com/forum/free-phpbb-stuff
 
 ---
 
