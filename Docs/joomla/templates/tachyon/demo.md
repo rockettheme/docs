@@ -1,18 +1,18 @@
 ---
-title: Mercado: Recreating the Demo
-description: Your Guide to Recreating Elements of the Mercado Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/mercado:Mercado
+title: Tachyon: Recreating the Demo
+description: Your Guide to Recreating Elements of the Tachyon Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/tachyon:Tachyon
 
 ---
 
 Introduction
 -----
 
-![][Mercado2]
+![][Tachyon2]
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Mercado can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+Recreating features of the demo site used to show off some of the more interesting aspects of Tachyon can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Mercado Template.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Tachyon Template.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
 
@@ -21,50 +21,40 @@ Keep in mind that a lot of the detail that makes our demos look so good are the 
 Module Settings
 -----
 
-Like any Gantry template, Mercado allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry template, Tachyon allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 >> NOTE: Modules originally built on extensions and/or Joomla features which are no longer officially supported may not be listed in this guide. For example, modules built on RokTabs and RokContentRotator are no longer supported. Much of their functionality can be found in RokSprocket, which was not available at the time this demo was created.
 
-![][Mercado]
+![][Tachyon]
 
-:   1. **Top Menu**  [5%, 40%, se]
-    2. **Demo Cart** [5%, 67%, se]
-    3. **Welcome** [12%, 16%, se]
-    4. **Login Form** [45%, 16%, se]
-    5. **Featured Products**  [14%, 34%, se]
-    6. **Main Top A** [18%, 34%, se]
-    7. **Product Details** [26%, 84%, sw]
-    8. **Product Overview** [43%, 84%, sw]
-    9. **Gantry Framework** [55%, 34%, se]
-    10. **New Sidepanel Layout** [55%, 84%, sw]
-    11. **9 Preset Styles** [72%, 16%, se]
-    12. **Connect With Us** [83%, 16%, se]
-    13. **Product Quick List** [83%, 28%, se]
-    14. **Disclaimer** [83%, 52%, se]
+:   1. **Tachyon is Bringing Social Back**  [16%, 18%, se]
+    2. **Site Updates** [16%, 62%, se]
+    3. **Search** [40%, 18%, se]
+    4. **3rd Party Integration** [45%, 18%, se]
+    5. **New Features**  [45%, 40%, se]
+    6. **Upcoming Events** [58%, 18%, se]
+    7. **FP Bottom A** [76%, 18%, se]
+    8. **FP Bottom B** [76%, 40%, se]
+    9. **FP Bottom C** [76%, 62%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
-1. [Top Menu][module1]
-2. [Demo Cart][module2]
-3. [Welcome][module3]
-4. [Login Form][module4]
-5. [Featured Products][module5]
-6. [Main Top A][module6]
-7. [Product Details][module7]
-8. [Product Overview][module8]
-9. [Gantry Framework][module9]
-10. [New Sidepanel Layout][module10]
-11. [9 Preset Styles][module11]
-12. [Connect With Us][module12]
-13. [Product Quick List][module13]
-14. [Disclaimer][module14]
+1. [Tachyon is Bringing Social Back][module1]
+2. [Site Updates][module2]
+3. [Search][module3]
+4. [3rd Party Integration][module4]
+5. [New Features][module5]
+6. [Upcoming Events][module6]
+7. [FP Bottom A][module7]
+8. [FP Bottom B][module8]
+9. [FP Bottom C][module9]
 
 Recommended Extensions
 -----
 
-Here is a list of RocketTheme extensions we recommend using with Mercado:
+Here is a list of RocketTheme extensions we recommend using with Tachyon:
 
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
@@ -75,12 +65,12 @@ Here is a list of RocketTheme extensions we recommend using with Mercado:
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 
-Many of these extensions are included with the Mercado RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these extensions are included with the Tachyon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Mercado demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Mercado template.
+The front page of the Tachyon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Tachyon template.
 
 Template Settings
 -----
@@ -89,7 +79,7 @@ The first thing you will need to do in order to set your front page apart as it 
 
 Only options that are different from the Master copy will take hold on the menu items you have assigned to the override. In this case, you will be assigning the front page to the override as we have in the demo.
 
-It would be a good idea for organization to name this override something like **Mercado - Home** as it would be used only for the front page of your site.
+It would be a good idea for organization to name this override something like **Tachyon - Home** as it would be used only for the front page of your site.
 
 #### Assignments
 
@@ -103,8 +93,8 @@ You can find more information about the entire override breakdown for both the f
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery
-[Mercado]: assets/mercado2.jpeg
-[Mercado2]: assets/mercado.jpeg
+[Tachyon]: assets/tachyon2.jpg
+[Tachyon2]: assets/tachyon.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster

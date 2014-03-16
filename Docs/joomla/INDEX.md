@@ -77,7 +77,7 @@ more:
 	- [Nebulae](templates/nebulae)
 	- [Entropy](templates/entropy)
 	- [Mercado](templates/mercado)
-	- [Tachyon (Coming Soon)](templates/tachyon)
+	- [Tachyon](templates/tachyon)
 	- [Maelstrom (Coming Soon)](templates/maelstrom)
 	- [Paradox (Coming Soon)](templates/paradox)
 	- [Hybrid (Coming Soon)](templates/hybrid)
