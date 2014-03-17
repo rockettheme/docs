@@ -13,7 +13,7 @@ Afterburner2 is an experiment in how streamlined a RokBB Framework Style can be,
 
 ![][style]
 
-The style is built with the RokBB Framework. This provides many features such as an advanced administrator alongside other features, such as integrated Tabs and Headlines styling, in addition to different layout settings.
+The style is built with the RokBB Framework. RokBB is a powerful framework for phpBB, that provides the basis for advanced and extensive administrative control over the styles.
 
 Features
 -----
