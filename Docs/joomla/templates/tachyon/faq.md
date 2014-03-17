@@ -1,7 +1,7 @@
 ---
-title: Mercado: FAQ
-description: Your Guide to Using the Mercado Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!mercado:Mercado
+title: Tachyon: FAQ
+description: Your Guide to Using the Tachyon Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!Tachyon:Tachyon
 
 ---
 
@@ -17,14 +17,14 @@ What is Splitmenu?
 -----
 A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
 
-What extensions are integrated with the template?
+What is Splicemenu?
 -----
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokNewsPager, RokNavMenu, RokBox, RokCandy, and RokGZipper.
+A Mootools powered dropline menu system, 1st/2nd level items in the header and others in the sidebar.
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla-Templates/mercado/features
+[features]: http://demo.rockettheme.com/joomla-Templates/tachyon/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/joomla-template-mercado/
-[dropdown]: http://demo.rockettheme.com/joomla-Templates/mercado/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla-Templates/mercado/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla-Templates/mercado/features/extensions
+[forum]: http://www.rockettheme.com/forum/joomla-template-tachyon/
+[dropdown]: http://demo.rockettheme.com/joomla-Templates/tachyon/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-Templates/tachyon/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-Templates/tachyon/features/extensions

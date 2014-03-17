@@ -23,7 +23,7 @@ You will also need to have a compatible database set up and ready to go. Options
 
 ![][rocketlauncher1]
 
-The first thing you will need to do is download a RocketLauncher.
+The first thing you will need to do is download a RocketLauncher. 
 
 You can either keep the zip file compressed and upload it directly to your server via FTP. Once this is done, you can uncompress the file and move the resulting folder's contents to the directory you wish your phpBB site to run from. Doing it this way reduces the chance for file corruption during transfer as you are moving a single file from your local machine to the host.
 
