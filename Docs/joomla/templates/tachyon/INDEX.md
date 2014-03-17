@@ -9,7 +9,7 @@ tags: [Template, Tachyon, Features, Requirements]
 Introduction
 -----
 
-Tachyon is the epitome of elegant eCommerce integration, sporting three shopping solutions; in addition to its refined visuals, style and structure. It features a whole range of controls over its layout and design elements, allowing for easy use and swift modification.
+Tachyon is the perfect template for social networking, with its elegant design and structure, in conjunction with styled integrated for popular social extensions, such as JomSocial, and Community Builder. Additional icons for social networking sites are also demoed.
 
 ![][theme]
 
