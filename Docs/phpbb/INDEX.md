@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Epsilon](styles/epsilon)
 	- [Paradigm](styles/paradigm)
 	- [Spectral](styles/spectral)
 	- [Acacia](styles/acacia)
