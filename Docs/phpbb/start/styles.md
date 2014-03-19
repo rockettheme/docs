@@ -87,7 +87,7 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 * Make sure **Module** is enabled and **Module Type - Category** is selected. 
 * Press **Submit**.
 * Click on the newly created **RocketTheme Styles** category.
-* Now we can add the style and other templates for configuration. There is a dropdown list at the bottom right where you can browse and select the module. Find the style to add it for configuration. 
+* Now we can add the style modules for configuration. There is a dropdown list at the bottom right where you can browse and select the preferred ones. Find your style and add it for configuration.
 * Press **Add module**.
 * Do the same with **Global Configuration**.
 * After adding it. Press **Enable** to make the module active.
