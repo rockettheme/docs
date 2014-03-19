@@ -56,7 +56,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :------ | :-------------- | :---------------------------- |  
 | Default | Menu Control    | Show: On, Type: Dropdown-Menu |  
 | Default | Select a Menu   | Main Menu                     |  
-| Default | Position        | heaver-b                      |  
+| Default | Position        | header-b                      |  
 | Default | Responsive Menu | Panel                         |  
 | Default | Enable ID       | Off                           |  
 | Default | Module Cache    | On                            |  
