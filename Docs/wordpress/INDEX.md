@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Hadron](themes/hadron)
 	- [Paradigm](themes/paradigm)
 	- [Spectral](themes/spectral)
 	- [Acacia](themes/acacia)
