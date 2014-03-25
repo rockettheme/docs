@@ -20,6 +20,7 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	* [Affiliates](affiliates.md)
 		* [How to Become an Affiliate](affiliates.md#how-to-become-an-affiliate)
 		* [Affiliate Guidelines](affiliates.md)
-	* [Frequently Asked Questions](faq.md)
 * RocketTheme Site Guides
 	* [Purchasing Guide](purchase.md)
+	* [Forum Guide](forum_guide.md)
+	* [Frequently Asked Questions](faq.md)

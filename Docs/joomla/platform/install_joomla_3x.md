@@ -1,10 +1,11 @@
 ---
 title: How to Install Joomla 3.x
+description: Your Guide to Installing a Joomla 3.x
 breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_3x.md:How to install Joomla! 3.x
 
 ---
 
-How to install Joomla! 3.x
+How to Install
 -----
 
 Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
@@ -17,15 +18,15 @@ Currently, the Joomla requirements are as follows:
 
 #### Joomla 3.x
 
-| Software      | Minimum       |  Recommended  |
-| :------------ |--------------:| ------------: |
-| MySQL         | 5.1 +         |     5.1 +     |
-| MSSQL         | 10.50.1600.1 +| 10.50.1600.1 +|
-| PostgreSQL    | 8.3.18 +      |     8.3.18 +  |
-| PHP           | 5.3.1 +       |       5.3.1   |
-| Apache        | 2.x +         | 2.x +         |
-| Nginx         | 1.0           |     1.1       |
-| Microsoft IIS | 7             | 7             |
+| Software      | Minimum        | Recommended    |  
+| :------------ | :------------- | :------------- |  
+| MySQL         | 5.1 +          | 5.4 +          |  
+| MSSQL         | 10.50.1600.1 + | 10.50.1600.1 + |  
+| PostgreSQL    | 8.3.18 +       | 8.3.18 +       |  
+| PHP           | 5.3.1 +        | 5.3.1          |  
+| Apache        | 2.x +          | 2.x +          |  
+| Nginx         | 1.0            | 1.1            |  
+| Microsoft IIS | 7              | 7              |  
 
 While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it does not offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
 
@@ -100,8 +101,8 @@ On this page, you can elect to install sample data which will populate your site
 
 Once you have verified the settings on this page, just hit **Install** and your Joomla site will be set up for you. You will be prompted to remove the installation folder in the next page. By clicking this, you will have completed the installation process. 
 
-[installation_joomla3x_2]: assets/installation_joomla3x_2.png
-[installation_joomla3x_3]: assets/installation_joomla3x_3.png
-[installation_joomla3x_4]: assets/installation_joomla3x_4.png
-[installation_joomla3x_5]: assets/installation_joomla3x_5.png
-[installation_joomla3x_6]: assets/installation_joomla3x_6.png
+[installation_joomla3x_2]: assets/installation_joomla3x_2.jpeg
+[installation_joomla3x_3]: assets/installation_joomla3x_3.jpeg
+[installation_joomla3x_4]: assets/installation_joomla3x_4.jpeg
+[installation_joomla3x_5]: assets/installation_joomla3x_5.jpeg
+[installation_joomla3x_6]: assets/installation_joomla3x_6.jpeg

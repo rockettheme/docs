@@ -1,18 +1,21 @@
 ---
-title: How to Install Joomla! 2.5
-description: Your Guide to Installing a Joomla 2.5
-breadcrumb: /joomla:Joomla/!platform:Platform/!install_joomla_25.md:How to Install Joomla! 2.5
+title: How to Install a Joomla 2.5 RocketLauncher
+description: Your Guide to Installing a Joomla 2.5 RocketLauncher from RocketTheme
+breadcrumb: /joomla:Joomla/!platform:Platform/!rocketlauncher_25.md:How to Install a Joomla 2.5 RocketLauncher
+tags: [RocketLauncher, Joomla, Install, Guide, How-to, Tutorials, 2.5]
 
 ---
 
 How to Install
 -----
 
-Installing Joomla is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
+Installing a RocketLauncher for Joomla 2.5 is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
+
+One of the clear benefits to installing via a RocketLauncher is that you receive a copy of our demo site, complete with preset modules. Due to licensing restrictions, some of the images used in the demo may be replaced with a placeholder, but the settings, modules, and presets are all indicative of what you would find in the demo.
 
 ### Technical Requirements
 
-Before installing Joomla, you should make sure that your server meets the minimum requirements for the Joomla release you wish to use. These requirements are made available on [Joomla.org](http://www.joomla.org/technical-requirements.html) and can be verified against your existing server version, PHP, and MySQL (or supported alternatives). For most users with remotely hosted sites, Cpanel provides this information on the left-hand sidebar.
+Before installing, you should make sure that your server meets the minimum requirements for the Joomla version associated with the RocketLauncher you wish to use. These requirements are made available on [Joomla.org](http://www.joomla.org/technical-requirements.html) and can be verified against your existing server version, PHP, and MySQL (or supported alternatives). For most users with remotely hosted sites, Cpanel provides this information on the left-hand sidebar.
 
 Currently, the Joomla requirements are as follows:
 
@@ -32,26 +35,20 @@ For users on a non-Microsoft server architecture, MSSQL will not appear under th
 
 ### Downloading and Installing
 
-There are several ways to install Joomla! Finding the right method for you depends on a number of factors, but We have listed some of the more common installation types below.
+A RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
 
-#### One-Click Install
+Before you can initiate the Web-based installer, you will need to download the RocketLauncher ZIP file from the RocketTheme website. You can do this by navigating to the details page of your desired template, selecting **Download** and choosing the RocketLauncher file associated with the version of Joomla you wish to use. Be careful not to download a Joomla 3.x RocketLauncher if you really want 2.5.
 
-Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.x is newer and is being updated more regularly as bugs and other minor issues are ironed out.
+![][rocketlauncher_25_1]
 
-#### Conventional Install
+Once you have downloaded the ZIP file, you can either upload it directly to the root directory of the site you wish to have it appear to and unzip, or unzip it first and upload it manually (if your host does not allow unzipping via FTP).
 
-For most users, a conventional installation will work just fine. You will need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
+You should then be able to navigate to the root URL of your site to initiate the Web installer.
 
-Upon downloading Joomla 2.5 or 3.x, you will need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
-
-#### RocketLauncher
-
-RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
-
-Joomla Web Installer for 2.5
+Web Installer
 ----------------------------
 
-Installing Joomla! 2.5 using the Web Installer is a fairly simple process. There are seven general steps that need to be completed before your site is ready to go.
+Installing a RocketLauncher for Joomla 2.5 using the Web Installer is a simple process. There are seven general steps that need to be completed before your site is ready to go.
 
 ![][installation_j25_1]
 
@@ -72,7 +69,7 @@ In the **Recommended Settings** section (point 2) under the primary pre-installa
 
 :   1. **Next** This will lock in your language selection and take you to the next step in the installation process. [18%, 90%, nw]
 
-At this point, you will be asked to agree to the GNU General Public License that Joomla! is released under. All you need to do here is select **Next** (point 1) if you agree to the license terms.
+At this point, you will be asked to agree to the GNU General Public License that Joomla is released under. All you need to do here is select **Next** (point 1) if you agree to the license terms.
 
 ![][installation_j25_4]
 
@@ -112,15 +109,15 @@ The **Main Configuration** page is where you name your site (point 1) and set up
 
 You will need to enter an email address, username and password (point 3) before you can continue. This can (and should) be separate from your database and hosting username and password. This will be the login credentials you use to access the administrative side of your site. 
 
-At the bottom of the next page, you have the option to load sample data to your site. This is not a requirement for most users, though it can help with the initial configuration and application of templates and modules. Otherwise, you will need to create content to fill in these spaces in order to see how your build will turn out. Once you have finished building your site, you can easily remove this sample data in favor of your own.
-
 ![][installation_j25_7]
 
-:   1. **Site Name** What do you want the name of your site to be? [60%, 61%, se]
+:   1. **Remove Installation Folder** This is required to complete installation. By clicking this, the installation folder is deleted, making your site ready for use. [60%, 61%, se]
 
-The final step in the process is aptly named "Finish." This page is where you remove the installation folder so your settings during initial setup are locked in. You will not be able to access your site until this step has been completed. Just select the *Remove Installation Folder* (point 1) and select either Site or Administrator to start building your new Joomla site.
+The final step in the process is aptly named "Finish." This page is where you remove the installation folder so your settings during initial setup are locked in. You will not be able to access your site until this step has been completed. Just select the *Remove Installation Folder* (point 1) and select either Site or Administrator to start customizing your new Joomla site.
 
 ![][installation_j25_9]
+
+After installation is complete, you can begin customizing the site and replacing our demo content with your own.
 
 [installation_j25_1]: assets/installation_j25_1.jpeg
 [installation_j25_2]: assets/installation_j25_2.jpeg
@@ -130,3 +127,4 @@ The final step in the process is aptly named "Finish." This page is where you re
 [installation_j25_6]: assets/installation_j25_6.jpeg
 [installation_j25_7]: assets/installation_j25_7.jpeg
 [installation_j25_9]: assets/installation_j25_9.jpeg
+[rocketlauncher_25_1]: assets/rocketlauncher_25_1.jpg

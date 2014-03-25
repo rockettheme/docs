@@ -1,6 +1,6 @@
 ---
 title: Product Comparisons
-description: RocketTheme has several different purchasing options to meet the needs of a variety of customers. From individual websites corporate accounts with dozens of websites, we have an option to meet your needs.
+description: RocketTheme has several different purchasing options to meet the needs of a variety of customers. From individual websites to corporate accounts with dozens of websites, we have an option to meet your needs.
 tags: [Affiliates]
 breadcrumb: /accounts_billing:Accounts & Billing/!comparisons:Product Comparisons/
 
