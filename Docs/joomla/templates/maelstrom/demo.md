@@ -25,7 +25,7 @@ Like any Gantry template, Maelstrom allows you to assign modules to specific pos
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
->> NOTE: Modules originally built on extensions and/or Joomla features which are no longer officially supported may not be listed in this guide. For example, modules built on RokTabs and RokContentRotator are no longer supported. Much of their functionality can be found in RokSprocket, which was not available at the time this demo was created.
+>> NOTE: Modules originally built on extensions and/or Joomla features which are no longer officially supported may not be listed in this guide. For example, modules built on RokTabs and RokStories are no longer supported. Much of their functionality can be found in RokSprocket, which was not available at the time this demo was created.
 
 ![][Maelstrom]
 

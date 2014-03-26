@@ -17,10 +17,6 @@ What is Splitmenu?
 -----
 A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
 
-What extensions are integrated with the template?
------
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokNewsPager, RokNavMenu, RokBox, RokCandy, and RokGZipper.
-
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-Templates/maelstrom/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu

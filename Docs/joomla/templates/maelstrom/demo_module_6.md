@@ -26,7 +26,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 :   1. **Leading Articles** [42%, 72%, se]
     2. **Article Order** [68%, 72%, se]
 
-In order to show two featured articles on the front page, we placed a `1` in the **Leading Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**. We also turned **Linked Titles** off in the **Article Options** menu.
+In order to show a featured article on the front page, we placed a `1` in the **Leading Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**. We also turned **Linked Titles** off in the **Article Options** menu.
 
 Article Properties
 -----

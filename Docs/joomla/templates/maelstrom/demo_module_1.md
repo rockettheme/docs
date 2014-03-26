@@ -22,7 +22,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 This particular module is part of a scrolling module position enabled via the template settings. To enable scrolling modules (allowing you to place multiple modules in the same positions, scrollable using a controller present on the frontend), navigate to **Admin -> Template Manager -> Maelstrom -> Features** and toggle the **Scroller** options to enable them. 
 
-Since this particular module is in a **Showcase** position, the scroller can be toggled using the **Showcase Scroller** option.
+Since this particular module is in a **Showcase** position, the scroller can be toggled using the **Showcase Scroller** option. There has to be at least two modules in the same position for this feature to work.
 
 ### Details
 
