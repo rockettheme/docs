@@ -7,15 +7,18 @@ breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 
 FP RokSrocket Features
 -----
+
 ![][demo]
+
 The RokSprocket Showcase module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
+
 ![][demo2]
 
 | Option           | Setting                    |
 |:-----------------|:---------------------------|
-| Title            | FP RokSprocket - Headlines |
+| Title            | `FP RokSprocket Features`  |
 | Show Title       | Hide                       |
 | Access           | Public                     |
 | Position         | showcase-a                 |
@@ -24,31 +27,38 @@ The RokSprocket Showcase module used near the top of the front page is a great w
 | Type             | Features                   |
 
 ### Layout Options
+
 ![][demo3]
 
-| Option | Setting |
-|:------|:-------|
-| Display Limit     | ∞         |
-| Theme             | Showcase  |
-| Article Titles    | Show      |
-| Article Text      | Show      |
-| Preview Length    | ∞         |
-| Strip HTML Tags   | Yes       |
-| Arrow Navigation  | Show      |
-| Pagination        | Hide      |
-| Animation         | Crossfade |
-| Autoplay          | Enable    |
-| Autoplay Delay    | 5         |
-| Image Resize      | Disable   |
+| Option           | Setting   |  
+| :--------------- | :-------- |  
+| Display Limit    | ∞         |  
+| Theme            | Showcase  |  
+| Article Titles   | Show      |  
+| Article Text     | Show      |  
+| Preview Length   | ∞         |  
+| Strip HTML Tags  | No        |  
+| Arrow Navigation | Show      |  
+| Pagination       | Hide      |  
+| Animation        | Crossfade |  
+| Autoplay         | Enable    |  
+| Autoplay Delay   | 5         |  
+| Image Resize     | Disable   |  
 
 ### Article Defaults
+
 ![][demo4]
 
-|    Option    | Setting |
-|:-------------|:--------|
-| Default Link | None    |
+| Option                | Setting               |  
+| :-------------------- | :-------------------- |  
+| Default Title         | None                  |  
+| Default Article Text  | Default Article Text  |  
+| Default ARticle Image | Default Article Image |  
+| Default Link          | None                  |  
+
 
 ### Advanced
+
 ![][demo5]
 
 | Option              | Setting       |  
@@ -56,7 +66,7 @@ The RokSprocket Showcase module used near the top of the front page is a great w
 | Module Class Suffix | `fp-showcase` |  
 
 [demo]: assets/demo_2.jpeg
-[demo2]: assets/showcase_1.jpeg
-[demo3]: assets/showcase_2.jpeg
-[demo4]: assets/showcase_3.jpeg
-[demo5]: assets/showcase_4.jpeg
+[demo2]: assets/features_1.jpeg
+[demo3]: assets/features_2.jpeg
+[demo4]: assets/features_3.jpeg
+[demo5]: assets/features_4.jpeg

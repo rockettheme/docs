@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/chapelco:Chapelco
 FP Showcase - RokSprocket Features
 -----
 ![][demo]
-We used a **RokSprocket** module with the **Mosaic** layout to make up this area of the front page. You will find the settings used in our demo below.
+We used a **RokSprocket** module with the **Features** layout to make up this area of the front page. You will find the settings used in our demo below.
 
 ### Details
 ![][demo2]
@@ -50,7 +50,7 @@ We used a **RokSprocket** module with the **Mosaic** layout to make up this area
 | :------------------ | :---------------------- |  
 | Module Class Suffix | fp-roksprocket-features |  
 
-[demo]: assets/demo_4.jpeg
+[demo]: assets/demo_2.jpeg
 [demo2]: assets/showcase_1.jpeg
 [demo3]: assets/showcase_2.jpeg
 [demo4]: assets/showcase_3.jpeg
