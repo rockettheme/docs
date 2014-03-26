@@ -37,4 +37,4 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 
 	- [Purchasing Guide](purchase.md)
 	- [Frequently Asked Questions](faq.md)
-	- [Forum Guide](forum_guide.md)
+	- [Forum Guide](../technical_tips/site/forum_guide.md)

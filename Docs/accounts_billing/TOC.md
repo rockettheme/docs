@@ -22,5 +22,5 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 		* [Affiliate Guidelines](affiliates.md)
 * RocketTheme Site Guides
 	* [Purchasing Guide](purchase.md)
-	* [Forum Guide](forum_guide.md)
+	* [Forum Guide](../technical_tips/site/forum_guide.md)
 	* [Frequently Asked Questions](faq.md)
