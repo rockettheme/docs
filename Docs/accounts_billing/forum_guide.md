@@ -59,6 +59,8 @@ Here is an example of how the topic title can be worded in a way that makes it e
 
 This single sentence tells a moderator and/or community member everything they need to know to get a clear idea of what it is this topic is about. If someone else is searching for the same solution later on, it will be easy for them to find.
 
+Our moderators are actively searching for questions that need to be answered throughout the forums. By titling the topics in a way that makes it easy for them to identify an issue, they can quickly provide relevant information and/or forward them to someone that can provide insight.
+
 #### Give Detailed Information in the Body of Your Post
 
 Sometimes, issues can be a bit more complex than a single question can handle. You have the ability to be as specific as you need to be when you post a new topic. Any relevant information you can share here that does not put your site at any security risk will help someone to give you a quick and thorough answer.
@@ -75,6 +77,10 @@ Here are four questions that should be answered in the body of your topic's init
 * What Were the Results of these Attempts?
 
 If these four questions are answered, you will be far more likely to receive the answers you need in a timely manner. 
+
+It can also be very helpful to provide information about the server and platform. Which version of PHP is running, the version number of the RocketTheme product (if applicable), the browser(s) affected by a frontend display issue, any error codes that appear, and any other relevant information can be very useful in providing accurate support.
+
+Screenshots and URLs can be helpful as well.
 
 ### Remember to Mark Your Message as Solved
 
