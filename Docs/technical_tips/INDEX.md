@@ -30,3 +30,4 @@ breadcrumb: /!technical_tips:Technical Tips/
 * RocketTheme Site
 
     - [Frequently Asked Questions](site/faq.md)
+    - [Forum Guide](site/forum_guide.md)
