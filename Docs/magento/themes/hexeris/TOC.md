@@ -28,3 +28,6 @@ support: http://www.rockettheme.com/forum/magento-theme-hexeris/
     	* [FeaturedProducts](demo.md#featuredproducts)
     	* [FooterBlock](demo.md#footerblock)
     	* [TinyMCE](demo.md#tinymce)
+    * Content Blocks
+        * [Home Page Block](adding_widget_instances.md#home-page-block)
+        * [Social Links Block](adding_widget_instances.md#social-links-block)
