@@ -18,7 +18,7 @@ There are two CMS blocks used in Hexeris, both of which are added via **Widget I
 
 The first is the long bar with the text reading: `A multi-faceted content display module...` and a **Read More** button, as seen on the demo homepage. 
 
-The second is the floating social links box, visible on all pages on the demo. So, 
+The second is the floating social links box, visible on all pages on the demo. 
 
 ### Home Page Block
 
@@ -41,9 +41,11 @@ To replicate the block as it appears in our demo, enter the following as the Con
 ~~~ .html
 <div class="homepage-block hidden-phone">
     <p>A multi-faceted content display module...</p><button class="button"
-    onclick="setLocation('#')"><span>Read More</span></button>
+    onclick="setLocation('http://rockettheme.com')"><span>Read More</span></button>
 </div>
 ~~~
+
+>> NOTE: The `setLocation('http://rockettheme.com')` area of the code sets the link visitors will go to when they click the button. Replace the URL with a link of your choice.
 
 Once this is done, select **Save**.
 
