@@ -95,7 +95,7 @@ images/rocketlauncher/frontpage/feature/img3.jpg
 
 | Option              | Setting                 |  
 | :------------------ | :---------------------- |  
-| Module Class Suffix | `fp-mainbottom-b box6` |
+| Module Class Suffix | `fp-roksprocket-strips` |
 
 [demo]: assets/demo_3.jpeg
 [demo2]: assets/strips_1.jpeg

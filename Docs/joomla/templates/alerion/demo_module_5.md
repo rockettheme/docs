@@ -19,15 +19,15 @@ This area of the front page is a **mod_custom** module. You will find the settin
 ### Details
 ![][demo2]
 
-| Option     | Setting               |  
-| :--------- | :-------------------- |  
-| Title      | TechnoEvent           |  
-| Show Title | Hide                  |  
-| Position   | feature-a |  
-| Status     | Published             |  
-| Access     | Public                |  
-| Language   | All                   |  
-| Note       | Blank                 |  
+| Option     | Setting     |  
+| :--------- | :---------- |  
+| Title      | TechnoEvent |  
+| Show Title | Hide        |  
+| Position   | feature-a   |  
+| Status     | Published   |  
+| Access     | Public      |  
+| Language   | All         |  
+| Note       | Blank       |  
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
