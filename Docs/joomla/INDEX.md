@@ -81,7 +81,7 @@ more:
 	- [Mercado](templates/mercado)
 	- [Tachyon](templates/tachyon)
 	- [Maelstrom](templates/maelstrom)
-	- [Paradox (Coming Soon)](templates/paradox)
+	- [Paradox](templates/paradox)
 	- [Hybrid (Coming Soon)](templates/hybrid)
 	- [Syndicate (Coming Soon)](templates/syndicate)
 	- [Omnicron (Coming Soon)](templates/omnicron)
