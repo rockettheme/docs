@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 	
+	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
 	- [Anacron](templates/anacron)
 	- [Hadron](templates/hadron)

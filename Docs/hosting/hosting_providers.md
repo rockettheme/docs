@@ -33,5 +33,19 @@ Here are some of the extra benefits you'll receive by choosing Arvixe:
 
 Arvixe offers exceptional service at incredible value. Grab yourself a shared (PersonalClass) hosting plan pre-loaded with Joomla!, WordPress, Magento, and phpBB, and [use coupon **ROCKET20** for prices as low as $3.20/mo][arvixe].
 
+Rochen
+-----
+
+![Rochen][rochen]
+
+When signing up with [Rochen®](http://www.rochenhost.com/) use promotional code: **RT** to receive **50% off** your first invoice.  You can achieve big savings when paying for a plan annually or signing up for one of Rochen’s Managed Cloud Servers (MCS).
+
+Rochen’s platform is fully optimized for Joomla®, WordPress® and Drupal® and backed by their 24/7 support team. Rochen owns and manages all of its own infrastructure with servers located in both the US and UK.
+
+In addition to **premium shared hosting**, Rochen offers VMWare® powered **Managed Cloud Servers (MCS)** and bare-metal **Managed Dedicated Servers (MDS)**.
+
+[Rochen](http://www.rochenhost.com/) is the web host of both [Joomla.org](http://joomla.org) and [RocketTheme.com](http://www.rockettheme.com).
+
 [arvixe]: http://www.arvixe.com/rockettheme-hosting?utm_campaign=Documentation&utm_medium=showcase&utm_source=rockettheme.com
 [logo_arvixe]: assets/logo_arvixe2.jpeg
+[rochen]: assets/rochen.jpg
