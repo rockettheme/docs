@@ -2,15 +2,58 @@
 title: Paradox
 description: Your Guide to Using the Paradox Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!paradox:Paradox
-nosearch: true
+tags: [Template, Paradox, Features, Requirements]
 
 ---
 
-Coming Soon
+Introduction
 -----
 
-This documentation is in the process of being written and will be made available soon. 
+Paradox combines a dynamic, interactive arsenal with style and beauty; achieved with a diverse array of presets. The theme's styles have varying background and bodylevels: High, Medium or Low, combined with the 8 presets, which allow for a varied appearance.
 
-Tutorials, tips, and other additional resources for this template can be found in its official [forum][forum].
+![][theme]
 
-[forum]: http://www.rockettheme.com/forum/joomla-template-paradox/
+>> NOTICE: Paradox is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+
+Requirements
+-----
+
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3+
+* MySQL 5.0.4 or higher
+* Joomla 2.5
+
+For more information, visit our [Gantry documentation][gantry].
+
+>> NOTE: An updated version of the Gantry 4 Framework is required for Paradox to work properly.
+
+Key Features
+-----
+
+* 960 Fixed Layout  
+* 8 Preset Styles  
+* 70 Module Positions  
+* 25 Module Variations  
+* Fusion-Menu and Split-Menu  
+* Custom Typography  
+* Logo Options  
+* iPhone/Android Theme  
+* Mobile Menu
+
+### Scrolling Modules
+
+![][scrollingmodules]
+
+Scrolling Positions is a Gantry feature, which, when activated, modifies the behaviour of stacked modules. Instead of appearing vertically, the other modules become accessible via a button for the Top, Showcase, Feature or Bottom Module rows.
+
+### Triple SplitMenu
+
+![][splitmenu]
+
+There are two menu options, Triple Level SplitMenu and Fusion. Triple Level Splitmenu splits the first level, second level and all further menu items, allowing for for a navigation bar, a dropline and a sidemenu, as configurable.
+
+[gantry]: http://www.gantry-framework.org/
+[theme]: assets/paradox.jpeg
+[scrollingmodules]: assets/scrollingmodules.jpg
+[splitmenu]: assets/splitmenu.jpg
+[fusion]: assets/fusion.jpg

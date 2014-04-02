@@ -28,7 +28,7 @@ What is Gantry?
 What is DropDown Menu?
 -----
 
-[DropDown Menu][dropdown] is a menu theme of the RokNavMenu extension, the addon that drives all RocketTheme template menus. It is primarily a CSS enhanced dropdown menu, with subtext line, multi-columns, icons and more.
+[DropDown Menu][dropdown] is a menu theme of the RokNavMenu extension, the addon that drives many RocketTheme template menus. It is primarily a CSS enhanced dropdown menu, with subtext line, multi-columns, icons and more.
 
 What is Splitmenu?
 -----
