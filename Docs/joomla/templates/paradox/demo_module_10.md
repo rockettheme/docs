@@ -15,7 +15,7 @@ This area of the front page is an article. Articles appear within the **Mainbody
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Reflex -> Advanced**.
+This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Paradox -> Advanced**.
 
 ![][advanced]
 
@@ -26,7 +26,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 :   1. **Leading Articles** [42%, 73%, se]
     2. **Article Order** [68%, 73%, se]
 
-In order to show two featured articles on the front page, we placed a `1` in the **Leading Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**.
+In order to show one featured article on the front page, we placed a `1` in the **Leading Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**.
 
 Article Properties
 -----

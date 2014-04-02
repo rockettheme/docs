@@ -19,7 +19,7 @@ Gantry is, as a basic definition, A framework used for assembling, building and 
 
 #### What is DropDown Menu?
 
-DropDown Menu is a menu theme of the RokNavMenu extension, the addon that drives all RocketTheme template menus. It is primarily a CSS enhanced dropdown menu, with subtext line, multi-columns, icons and more.
+DropDown Menu is a menu theme of the RokNavMenu extension, the addon that drives many RocketTheme template menus. It is primarily a CSS enhanced dropdown menu, with subtext line, multi-columns, icons and more.
 
 [More Details...][dropdown]
 

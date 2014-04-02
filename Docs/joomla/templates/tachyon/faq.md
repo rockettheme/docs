@@ -11,7 +11,7 @@ What is Gantry?
 
 What is Fusion Menu?
 -----
-Fusion Menu is a menu theme of the RokNavMenu extension, the addon that drives all RocketTheme template menus. It is primarily a javascript enhanced CSS dropdown menu, that combines standard suckerfish type functionality with animations, transitions and other advanced effects provided by Mootools.
+Fusion Menu is a menu theme of the RokNavMenu extension, the addon that drives many RocketTheme template menus. It is primarily a javascript enhanced CSS dropdown menu, that combines standard suckerfish type functionality with animations, transitions and other advanced effects provided by Mootools.
 
 What is Splitmenu?
 -----
