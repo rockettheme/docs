@@ -58,7 +58,7 @@ Widget Settings
     2. **Navigation - Gantry Menu** [9%, 12%, se]
     3. **Navigation - Gantry Social Buttons** [9%, 72%, se]
     4. **Navigation - RokAjaxSearch** [9%, 89%, sw]
-    5. **Showcase - RokSpeocket** [12%, 12%, se]
+    5. **Showcase - RokSprocket** [12%, 12%, se]
     6. **Utility - Text** [27%, 12%, se]
     7. **Feature - Text** [36%, 12%, se]
     8. **Feature - RokSprocket** [41%, 12%, se]
