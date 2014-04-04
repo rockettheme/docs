@@ -10,7 +10,7 @@ Introduction
 
 ![][Anacron]
 
-Anacron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the theme, providing a modern, corporate approach to theme construction. Presets offer a full background of color diversity.
+Anacron is a vibrant, highly adaptable and engaging theme, ideal for a vast selection of possible sites, from community to business. Subtle visual elements in the sectioned design, add character and division to the page, without compromising on content focus.
 
 Requirements
 -----
@@ -30,8 +30,7 @@ Key Features
 * 8 Preset Styles  
 * 89 Widget Positions  
 * 1200 Fixed Option  
-* 8 Styled 
-* Widget Variations  
+* 8 Styled Widget Variations  
 * Structural Widget Variations  
 * 960 Fixed Option  
 * Dropdown-Menu and Split-Menu  
@@ -43,23 +42,17 @@ Key Features
 * Chart.js  
 * Coming Soon Page
 
-### Color Chooser
+### Responsive Layout
 
-![][colorchooser]
+A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
 
-Anacron has an extensive Color Chooser in the theme settings to provide intricate controls for each section of Anacron, inclusive of overlay type, text color and background color, as well as accent and button controls. Edit preexisting or create new presets.
-
-### Icon Buttons
-
-![][icondriven]
-
-Configure up to 6 icons with FontAwesome icons and links, for social integration. Each icon has colored hover and smooth animation effects. The search icon reveals via smooth transition RokAjaxSearch, above the social buttons.
-
-### Dropdown Menu
-
-![][dropdownmenu]
-
-The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, multiple columns, custom column widths as well as control over how menu items are distributed between columns.
+| Label                  | Description                                | Layout Width     | Column Width |  
+| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
+| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
+| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
+| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
+| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
+| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
 
 [gantry]: http://www.gantry-framework.org/
 [gantry_install]: ../../start/gantry.md
