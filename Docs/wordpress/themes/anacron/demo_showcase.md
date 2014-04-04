@@ -33,7 +33,7 @@ Maximize Site Utility,<br />with the Dynamic Header
 **Description**
 
 ~~~ .html
-<span class="rt-button-group"><a href="http://ryanmpierson.no-ip.biz/wordpress/anacron_demo/features/" class="readon">Read More</a><a href="http://ryanmpierson.no-ip.biz/wordpress/anacron_demo/features/" class="readon2">Download</a></span>
+<span class="rt-button-group"><a href="http://(Your Site URL)/features/" class="readon">Read More</a><a href="http://(Your Site URL)/features/" class="readon2">Download</a></span>
 ~~~
 
 Here is a look at the **Features Layout Options** for this widget.

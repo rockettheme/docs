@@ -44,7 +44,7 @@ About
     <div class="rt-about-img">
         <div class="rt-center">
             <img alt="image" src=
-            "http://ryanmpierson.no-ip.biz/wordpress/anacron_demo/wp-content/rockettheme/rt_anacron_wp/frontpage/mainbottom/img1.jpg">
+            "http://(Your Site URL)/wp-content/rockettheme/rt_anacron_wp/frontpage/mainbottom/img1.jpg">
             <span class="rt-about-info">Modern. Powerful.</span>
         </div>
     </div>
