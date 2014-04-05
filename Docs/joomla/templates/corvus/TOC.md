@@ -37,6 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-corvus/
             * [Contact Us](demo_module_13.md)
             * [FP Footer Social Button](demo_module_14.md)
             * [Scroll Triggered Expanded Module](demo_module_15.md)
+            * [Featured Articles](demo_module_16.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)

@@ -41,6 +41,7 @@ Below, you will find the module placement and settings for the various module po
     12. **Inside Corvus** [78%, 38%, se]
     13. **Contact Us** [78%, 88%, sw]
     14. **FP Footer Social Button** [87%, 65%, se]
+    15. **Featured Articles** [32%, 38%, se]
 
 We have detailed how to recreate the individual modules and features pictured above in the links below.
 
@@ -58,6 +59,7 @@ We have detailed how to recreate the individual modules and features pictured ab
 12. [Inside Corvus][module12]
 13. [Contact Us][module13]
 14. [FP Footer Social Button][module14]
+15. [Featured Articles][module16]
 
 ![][scroll]
 
@@ -136,7 +138,7 @@ Secondly, you will need to change the **Page Heading** to **Feature Focus**.
 [module12]: demo_module_12.md
 [module13]: demo_module_13.md
 [module14]: demo_module_14.md
-[module15]: demo_module_15.md
+[module16]: demo_module_16.md
 [mainmenu]: assets/menu_1.jpg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [scroll]: assets/demo_2.jpeg
