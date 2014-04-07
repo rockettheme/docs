@@ -51,6 +51,14 @@ We have detailed how to recreate the individual modules pictured above in the li
 10. [Support and Help][module10]
 11. [Stay in Touch][module11]
 
+### mobile-sidemenu Position
+
+![Mobile Sidemenu][mobile]
+
+Lexicon features a module position that enables you to place a module above the mobile menu. This position will only appear on mobile devices or other devices with a narrow browser width that utilizes the mobile menu.
+
+We have provided details on how to replicate this module as it appears in the demo [here][mobile2].
+
 Recommended Extensions
 -----
 
@@ -124,3 +132,5 @@ You will need to change the **Page Class** setting under the Home menu item to `
 [mainmenu]: assets/menu_1.jpeg
 [article]: assets/article.jpg
 [demo11]: assets/demo_10.jpeg
+[mobile]: assets/mobilemenu.jpeg
+[mobile2]: mobilemenu.md
