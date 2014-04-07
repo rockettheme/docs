@@ -55,6 +55,8 @@ We have detailed how to recreate the individual modules pictured above in the li
 
 ![Mobile Sidemenu][mobile]
 
+:   1. **mobile-sidemenu Module Postion** [12%, 8%, se]
+
 Lexicon features a module position that enables you to place a module above the mobile menu. This position will only appear on mobile devices or other devices with a narrow browser width that utilizes the mobile menu.
 
 We have provided details on how to replicate this module as it appears in the demo [here][mobile2].
