@@ -1,11 +1,11 @@
 ---
-title: Anacron: Recreating the Demo - Main Top
+title: Anacron: Recreating the Demo - Main Bottom
 description: Your Guide to Recreating Elements of the Anacron Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/anacron:Anacron
 
 ---
 
-Main Top Section
+Main Bottom Section
 -----
 
 ![][demo]
@@ -13,7 +13,7 @@ Main Top Section
 :   1. **RokSprocket** [14%, 5%, se]
     2. **RokSprocket** [14%, 94%, sw]
 
-Here is the widget breakdown for the Main Top section:
+Here is the widget breakdown for the Main Bottom section:
 
 * RokSprocket (Tabs)
 * Gantry Divider

@@ -92,10 +92,10 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][assignments]
 
-| Override   | Option | Setting    |  
-| :--------- | :----- | :--------- |  
-| Front Page | Page   | Front Page |  
-| Home Page  | Page   | Front Page |
+| Override   | Option             | Setting    |  
+| :--------- | :----------------- | :--------- |  
+| Front Page | Template Page Type | Front Page |  
+| Front Page | Template Page Type | Home Page  |  
 
 [demo]: assets/anacron2.jpeg
 [menu]: ../../start/menu.md
