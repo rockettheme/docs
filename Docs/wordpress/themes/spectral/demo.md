@@ -24,7 +24,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Spectra
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Installed with RokSprocket)
+* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokSprocket][roksprocket]
 
 All of these plugins are included with the Spectral RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.

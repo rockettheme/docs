@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Anacron](themes/anacron)
 	- [Hadron](themes/hadron)
 	- [Paradigm](themes/paradigm)
 	- [Spectral](themes/spectral)

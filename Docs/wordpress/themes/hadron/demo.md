@@ -24,7 +24,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Hadron:
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Installed with RokSprocket)
+* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokSprocket][roksprocket]
 
 All of these plugins are included with the Hadron RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
@@ -58,7 +58,7 @@ Widget Settings
     2. **Navigation - Gantry Menu** [9%, 12%, se]
     3. **Navigation - Gantry Social Buttons** [9%, 72%, se]
     4. **Navigation - RokAjaxSearch** [9%, 89%, sw]
-    5. **Showcase - RokSpeocket** [12%, 12%, se]
+    5. **Showcase - RokSprocket** [12%, 12%, se]
     6. **Utility - Text** [27%, 12%, se]
     7. **Feature - Text** [36%, 12%, se]
     8. **Feature - RokSprocket** [41%, 12%, se]
