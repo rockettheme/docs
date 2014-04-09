@@ -121,7 +121,6 @@ more:
 * Basic Tutorials
 
 	- [How to Create a New Article](basic/how_to_create_an_article.md)
-	- [How to Install a Template](platform/templates.md#installing-a-template-using-rocketlauncher)
 	- [How to Create a Menu](basic/menu_manager.md#how-to-create-a-menu)
 	- [How to Use Menu Manager](basic/menu_manager.md#managing-your-menus)
 	- [How to Create a Menu Module](basic/menu_manager.md#creating-menu-modules)

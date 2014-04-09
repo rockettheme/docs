@@ -14,6 +14,8 @@ RokMiniEvents is a simple and elegant solution for displaying events on your sit
 
 The module is very intuitive, automatically adjusting itself based on your events and event ranges. Simply set the number of events and the time range, and RokMiniEvents will do the rest.
 
+>> NOTE: RokMiniEvents3 (version 3.0+) introduced a number of important feature updates, including support for responsive layouts. This version can not be updated from previous RokMiniEvents releases as it is has been rewritten for a new generation of Web technologies.
+
 Key Features
 ------------
 
@@ -23,6 +25,7 @@ Key Features
 * **Event Controls**: Manage the number of events
 * **Layouts**: Various layout parameters
 * **Animation**: Transitions, durations, offsets
+* **Responsive**: Responsive layout and design
 
 Requirements
 ------------

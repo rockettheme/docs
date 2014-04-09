@@ -54,7 +54,7 @@ From Joomla 2.5 and 3.x:
 
 >> NOTE: For additional information on installing extensions, visit our detailed extensions installation guide located [here][install].
 
-If everything worked properly, you will get a notification indicating as much. You can configure the module from: `Extensions -> Module Manager -> RokSprocket`.
+If everything worked properly, you will get a notification indicating as much. You can create and configure the module by navigating to: `Extensions -> Module Manager ->  New -> RokSprocket`.
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extension.
 

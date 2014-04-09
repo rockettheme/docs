@@ -33,6 +33,7 @@ support: http://www.rockettheme.com/forum/joomla-template-lexicon/
             * [Demo Info](demo_module_9.md)
             * [Support and Help](demo_module_10.md)
             * [Stay in Touch](demo_module_11.md)
+            * [Mobile Sidemenu](mobilemenu.md)
         * [Main Menu](demo.md#menu-settings)
         * [Module Positions](positions.md)
         * [Charts](charts.md)

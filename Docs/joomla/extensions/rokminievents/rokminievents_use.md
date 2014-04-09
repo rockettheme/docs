@@ -18,108 +18,93 @@ Below, we have outlined the options available to you as you configure your RokMi
 
 ![][module1]
 
-:   1. **Built-in CSS** This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template. [21%, 61%, sw]
-    2. **Use Width Values** If enabled, the overall width and # of items listed in the following settings will be used. [27%, 61%, nw]
-    3. **Overall Width** A set width for the module. [33%, 49%, sw]
-    4. **# of Items** How many Items will appear in the the module at one time. [39%, 49%, nw]
-    5. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [51%, 49%, sw]
-    6. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [57%, 72%, sw]
-    7. **Show Past Events** Shows events that have already passed from the Google Calendar resource. [62%, 49%, sw]
-    8. **Max Results** A maximum number of results that will appear in the module. [69%, 47%, sw]
-    9. **Feed Cache** Sets a cache time between feed resets. [73%, 58%, sw]
-    10. **Link to Google** Allows you to add or remove a link to the Google calendar. [79%, 59%, sw]
+:   1. **Built-in CSS** This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template. [21%, 46%, se]
+    2. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [45%, 47%, se]
+    3. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [53%, 47%, se]
+    4. **Show Past Events** Shows events that have already passed from the Google Calendar resource. [60%, 47%, se]
+    5. **Max Results** A maximum number of results that will appear in the module. [67%, 47%, se]
+    6. **Feed Cache** Sets a cache time between feed resets. [74%, 47%, se]
+    7. **Link to Google** Allows you to add or remove a link to the Google calendar. [82%, 47%, se]
 
 1. **Built-in CSS**: This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template.
 
-2. **Use Width Values**: If enabled, the overall width and # of items listed in the following settings will be used.
+2. **Enable Google Calendar**: This enables and/or disables Google Calendar support for the module.
 
-3. **Overall Width**: A set width for the module.
+3. **Calendar ID**: Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module.
 
-4. **# of Items**: How many Items will appear in the the module at one time.
+4. **Show Past Events**: Shows events that have already passed from the Google Calendar resource.
 
-5. **Enable Google Calendar**: This enables and/or disables Google Calendar support for the module.
+5. **Max Results**: A maximum number of results that will appear in the module.
 
-6. **Calendar ID**: Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module.
+6. **Feed Cache**: Sets a cache time between feed resets.
 
-7. **Show Past Events**: Shows events that have already passed from the Google Calendar resource.
+7. **Link to Google** Allows you to add or remove a link to the Google calendar.
 
-8. **Max Results**: A maximum number of results that will appear in the module.
+![][module5]
 
-9. **Feed Cache**: Sets a cache time between feed resets.
+:   1. **Sort Order** This option determines the order by which events display. [23%, 43%, se]
+    2. **Time Range Type** Allows you to set whether to use a predefined time span or a time range of events to display. [33%, 43%, se]
+    3. **Starting From** Starting date for events to be listed. Only applicable when using the **Time Span** range type. [43%, 43%, se]
+    4. **Ending At** Ending date for events to be listed. Only applicable when using the **Time Span** range type. [54%, 43%, se]
+    5. **Ranges** Sets a predefined range of time events are listed. If you set current year, only events from the current year will display. [76%, 43%, se]
 
-10. **Link to Google** Allows you to add or remove a link to the Google calendar.
+1. **Sort Order**: This option determines the order by which events display.
+
+2. **Time Range Type**: Allows you to set whether to use a predefined time span or a time range of events to display.
+
+3. **Starting From**: Starting date for events to be listed. Only applicable when using the **Time Span** range type.
+
+4. **Ending At**: Ending date for events to be listed. Only applicable when using the **Time Span** range type.
+
+5. **Ranges**: Sets a predefined range of time events are listed. If you set current year, only events from the current year will display.
 
 ![][module2]
 
-:	1. **Sort Order** This option allows you to set a sort order for the events listed in the module. [13%, 55%, sw]
-	2. **Time Range Type** Sets either Time Span or Predefined Ranges as the time range. [16%, 61%, sw]
-	3. **Ranges** Sets the Predefined Range of your display. [25%, 58%, sw]
-	4. **Show Description** Shows or Hides the description of a particular item. [34%, 48%, sw]
-	5. **Allowed HTML Tags** Sets the allowed HTML tags for the module. (default `a,i,br`) [37%, 58%, sw]
-	6. **Trim Description** This setting allows you to trim the description. [41%, 48%, sw]
-	7. **Trim Character Count** This number is the character count descriptions will be trimmed to. [45%, 49%, nw]
-	8. **Show Local Times** You can use this option to choose whether times are displayed in the visitor's timezone or a forced timezone. [48%, 68%, sw]
-	9. **Forced Timezone** The timezone you would have items display in, if elected. [52%, 70%, nw]
-	10. **Day Format** Sets the format by which the day is displayed. [55%, 47%, sw]
-	11. **Month Format** Sets the format by which months are displayed. [58%, 54%, sw]
-	12. **Year Format** Sets the format by which the year is displayed. [62%, 49%, sw]
-	13. **Time Format** Sets the format by which the time is displayed. [65%, 54%, sw]
-	14. **Date Display** Sets the style of the date display. [69%, 59%, sw]
-	15. **Show Year** This option allows you to show or hide the year. [72%, 50%, sw]
-	16. **Maximum Displayed** Sets the maximum events displayed. '0' indicates all. [76%, 57%, sw]
-	17. **Events List** Sets how many events to display per pane. [79%, 46%, sw]
-	18. **Timeline Navigation** Sets the type of navigation used in the timeline (arrows, timeline, both). [83%, 62%, sw]
-	19. **Timeline Dates Display** Lets the way dates are displayed in the timeline (inline or column). [87%, 52%, sw]
+:	1. **Show Description** Shows or Hides the description of a particular item. [12%, 46%, se]
+	2. **Allowed HTML Tags** Sets the allowed HTML tags for the module. (default `a,i,br`) [17%, 46%, se]
+	3. **Trim Description** This setting allows you to trim the description. [23%, 46%, se]
+	4. **Trim Character Count** This number is the character count descriptions will be trimmed to. [28%, 46%, se]
+	5. **Show Local Times** You can use this option to choose whether times are displayed in the visitor's timezone or a forced timezone. [33%, 46%, se]
+	6. **Forced Timezone** The timezone you would have items display in, if elected. [39%, 46%, se]
+	7. **Day Format** Sets the format by which the day is displayed. [44%, 46%, se]
+	8. **Month Format** Sets the format by which months are displayed. [50%, 46%, se]
+	9. **Year Format** Sets the format by which the year is displayed. [55%, 46%, se]
+	10. **Time Format** Sets the format by which the time is displayed. [61%, 46%, se]
+	11. **Date Display** Sets the style of the date display. [66%, 46%, se]
+	12. **Show Year** This option allows you to show or hide the year. [71%, 46%, se]
+	13. **Maximum Displayed** Sets the maximum events displayed. '0' indicates all. [77%, 46%, se]
+	14. **Events List** Sets how many events to display per pane. [82%, 46%, se]
+	15. **Timeline Navigation** Sets the type of navigation used in the timeline (arrows, timeline, both). [87%, 46%, se]
 
-1. **Sort Order**: This option allows you to set a sort order for the events listed in the module.
+1. **Show Description**: Shows or Hides the description of a particular item.
 
-2. **Time Range Type**: Sets either Time Span or Predefined Ranges as the time range.
+2. **Allowed HTML Tags**: Sets the allowed HTML tags for the module (default `a,i,br`). 
 
-3. **Ranges**: Sets the Predefined Range of your display.
+3. **Trim Description**: This setting allows you to trim the description size using the following setting.
 
-4. **Show Description**: Shows or Hides the description of a particular item.
+4. **Trim Character Count**: This number is the character account descriptions will be trimmed to.
 
-5. **Allowed HTML Tags**: Sets the allowed HTML tags for the module (default `a,i,br`). 
+5. **Show Local Times**: You can use this option to choose whether times are displayed in the visitor's timezone or a forced timezone.
 
-6. **Trim Description**: This setting allows you to trim the description size using the following setting.
+6. **Forced Timezone**: The timezone you would have items display in, if elected.
 
-7. **Trim Character Count**: This number is the character account descriptions will be trimmed to.
+7. **Day Format**: Sets the format by which the day is displayed.
 
-8. **Show Local Times**: You can use this option to choose whether times are displayed in the visitor's timezone or a forced timezone.
+8. **Month Format**: Sets the format by which months are displayed.
 
-9. **Forced Timezone**: The timezone you would have items display in, if elected.
+9. **Year Format**: Sets the format by which the year is displayed.
 
-10. **Day Format**: Sets the format by which the day is displayed.
+10. **Time Format**: Sets the format by which the time is displayed.
 
-11. **Month Format**: Sets the format by which months are displayed.
+11. **Date Display**: Sets the style of the date display.
 
-12. **Year Format**: Sets the format by which the year is displayed.
+12. **Show Year**: This option allows you to show or hide the year.
 
-13. **Time Format**: Sets the format by which the time is displayed.
+13. **Maximum Displayed**: Sets the maximum events displayed. '0' indicates all.
 
-14. **Date Display**: Sets the style of the date display.
+14. **Events List**: Sets how many events to display per pane.
 
-15. **Show Year**: This option allows you to show or hide the year.
-
-16. **Maximum Displayed**: Sets the maximum events displayed. '0' indicates all.
-
-17. **Events List**: Sets how many events to display per pane.
-
-18. **Timeline Navigation**: Sets the type of navigation used in the timeline (arrows, timeline, both).
-
-19. **Timeline Dates Display**: Lets the way dates are displayed in the timeline (inline or column).
-
-![][module3]
-
-:	1. **Transition** Sets the type of transition that takes place while navigating. [36%, 61%, sw]
-	2. **Duration** Sets the duration of the transition. [45%, 58%, nw]
-	3. **X Offset** Sets the offset used to properly align events after transitions. [60%, 58%, nw]
-
-1. **Transition** Sets the type of transition that takes place while navigating.
-
-2. **Duration** Sets the duration of the transition.
-
-3. **X Offset** Sets the offset used to properly align events after transitions.
+15. **Timeline Navigation**: Sets the type of navigation used in the timeline (arrows, timeline, both).
 
 
 [intro]: assets/rokminievents.jpeg
@@ -127,3 +112,4 @@ Below, we have outlined the options available to you as you configure your RokMi
 [module1]: assets/module_1.jpeg
 [module2]: assets/module_2.jpeg
 [module3]: assets/module_3.jpeg
+[module5]: assets/module_5.jpeg
