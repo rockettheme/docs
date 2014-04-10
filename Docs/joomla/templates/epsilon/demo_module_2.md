@@ -50,7 +50,7 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
     <div class="gantry-width-25 gantry-width-block">
         <div class="gantry-width-spacer">
             <div class="rt-hexagon">
-                <a href="#"></a>
+                <a href="#"><span class="icon-th-large"></span></a>
             </div>
             <h5 class="rt-uppercase rt-regular-text">Features</h5>
             <div class="rt-divider"></div>
@@ -61,7 +61,7 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
     <div class="gantry-width-25 gantry-width-block">
         <div class="gantry-width-spacer">
             <div class="rt-hexagon">
-                <a href="#"></a>
+                <a href="#"><span class="icon-globe"></span></a>
             </div>
             <h5 class="rt-uppercase rt-regular-text">Strips</h5>
             <div class="rt-divider"></div>
@@ -72,7 +72,7 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
     <div class="gantry-width-25 gantry-width-block">
         <div class="gantry-width-spacer">
             <div class="rt-hexagon">
-                <a href="#"></a>
+                <a href="#"><span class="icon-briefcase"></span></a>
             </div>
             <h5 class="rt-uppercase rt-regular-text">Tabs</h5>
             <div class="rt-divider"></div>
@@ -84,7 +84,7 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
     <div class="gantry-width-25 gantry-width-block">
         <div class="gantry-width-spacer">
             <div class="rt-hexagon">
-                <a href="#"></a>
+                <a href="#"><span class="icon-crop"></span></a>
             </div>
             <h5 class="rt-uppercase rt-regular-text">Mosaic</h5>
             <div class="rt-divider"></div>
