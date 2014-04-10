@@ -83,7 +83,7 @@ more:
 	- [Tachyon](templates/tachyon)
 	- [Maelstrom](templates/maelstrom)
 	- [Paradox](templates/paradox)
-	- [Hybrid (Coming Soon)](templates/hybrid)
+	- [Hybrid](templates/hybrid)
 	- [Syndicate (Coming Soon)](templates/syndicate)
 	- [Omnicron (Coming Soon)](templates/omnicron)
 	- [Zephyr (Coming Soon)](templates/zephyr)
