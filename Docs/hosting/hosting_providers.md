@@ -10,7 +10,9 @@ Introduction
 
 Finding the right hosting provider for you can be difficult. There are thousands to choose from, and each one has its own set of pros and cons.
 
-Below, we have listed some of our favorite hosting providers. Each of them offer reliable service at a reasonable price, and are listed among the most popular solutions for our customers.
+Below, we have listed some of our recommended hosting providers. Each of them offer reliable service at a reasonable price, and are listed among the most popular options for our customers. Each provider on this page offers native support for all four of our primary supported platforms. 
+
+So, if you are searching for a recommended Joomla hosting provider, or a good WordPress hosting solution, these companies are among the best options out there.
 
 Arvixe
 -----
