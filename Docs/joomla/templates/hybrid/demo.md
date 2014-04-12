@@ -65,11 +65,6 @@ Here is a list of RocketTheme extensions we recommend using with Hybrid:
 
 Many of these extensions are included with the Hybrid RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
-Recreating the Front Page
------
-
-The front page of the Hybrid demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Hybrid template.
-
 Template Settings
 -----
 
