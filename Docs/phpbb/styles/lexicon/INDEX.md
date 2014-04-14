@@ -51,7 +51,7 @@ Lexicon is centered around a flat design approach, spruced by professional and e
 
 ![][webfonts]
 
-LLexicon supports WebFonts based scalable vector icons, removing the need for images, for better integration and site performance. Other benefits include not needing language imagesets, as the text have been replaced by pictographs, making your forum more accessible.
+Lexicon supports WebFonts based scalable vector icons, removing the need for images, for better integration and site performance. Other benefits include not needing language imagesets, as the text have been replaced by pictographs, making your forum more accessible.
 
 For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
 
