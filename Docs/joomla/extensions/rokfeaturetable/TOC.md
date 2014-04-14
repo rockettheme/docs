@@ -15,6 +15,6 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokfeaturetable/
     * [Requirements](INDEX.md#requirements)
     * [How to Install](INDEX.md#how-to-install)
     * [Setup](rokfeaturetable_use.md)
-    	* [Widget Settings](rokfeaturetable_use.md#widget-settings)
+    	* [Module Options](rokfeaturetable_use.md#widget-settings)
     	* [Table Layout](rokfeaturetable_use.md#table-layout)
     	* [Custom Templates](rokfeaturetable_use.md#custom-templates)
