@@ -23,7 +23,7 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 Here is a look at the **Mosaic Layout Options** for this widget.
 
 | Option          |                      Setting |  
-| :-------------- | ---------------------------: |  
+| :-------------- | :--------------------------- |  
 | Theme           |                      Default |  
 | Display Limit   |                            ∞ |  
 | Columns         |                            4 |  
