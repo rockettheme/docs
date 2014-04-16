@@ -29,7 +29,7 @@ This section of the page is a standard text widget. You will need to enter the f
                </clipPath>
             </g> 
             <a xlink:href="#">
-             <image clip-path="url(#rt-hexagon-mask-7)" height="100%" width="100%" xlink:href="http://ryanmpierson.no-ip.biz/wordpress/epsilon/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img1.jpg" />
+             <image clip-path="url(#rt-hexagon-mask-7)" height="100%" width="100%" xlink:href="http://(your site URL)/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img1.jpg" />
             </a>
         </svg> 
 
@@ -50,7 +50,7 @@ This section of the page is a standard text widget. You will need to enter the f
                </clipPath>
             </g> 
             <a xlink:href="#">
-             <image clip-path="url(#rt-hexagon-mask-8)" height="100%" width="100%" xlink:href="http://ryanmpierson.no-ip.biz/wordpress/epsilon/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img2.jpg" />
+             <image clip-path="url(#rt-hexagon-mask-8)" height="100%" width="100%" xlink:href="http://(your site URL)/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img2.jpg" />
             </a>
         </svg> 
 
@@ -71,7 +71,7 @@ This section of the page is a standard text widget. You will need to enter the f
                </clipPath>
             </g> 
             <a xlink:href="#">
-             <image clip-path="url(#rt-hexagon-mask-9)" height="100%" width="100%" xlink:href="http://ryanmpierson.no-ip.biz/wordpress/epsilon/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img3.jpg" />
+             <image clip-path="url(#rt-hexagon-mask-9)" height="100%" width="100%" xlink:href="http://(your site URL)/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img3.jpg" />
             </a>
         </svg> 
 
@@ -92,7 +92,7 @@ This section of the page is a standard text widget. You will need to enter the f
                </clipPath>
             </g> 
             <a xlink:href="#">
-             <image clip-path="url(#rt-hexagon-mask-10)" height="100%" width="100%" xlink:href="http://ryanmpierson.no-ip.biz/wordpress/epsilon/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img4.jpg" />
+             <image clip-path="url(#rt-hexagon-mask-10)" height="100%" width="100%" xlink:href="http://(your site URL)/wp-content/rockettheme/rt_epsilon_wp/frontpage/extension/img4.jpg" />
             </a>
         </svg> 
         

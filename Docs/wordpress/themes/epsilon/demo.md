@@ -66,7 +66,7 @@ Widget Settings
     10. **Extension - Text**  [74%, 22%, se]
     11. **Footer - Text**  [88%, 22%, se]
     12. **Footer - Text**  [88%, 42%, se]
-    13. **Footer - Text**  [88%, 62%, se]
+    13. **Footer - RokSprocket**  [88%, 62%, se]
 
 Like any Gantry theme, Epsilon utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 

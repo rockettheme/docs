@@ -22,7 +22,7 @@ The **Coming Soon** page can be enabled or disabled from the **Gizmos** tab in *
 How to Make Changes
 -----
 
-Making changes to the Coming Soon page will require you to access a file and make manual changes yourself. It is not as difficult as it sounds. All of the changes you might want to make to this page can be done by visiting `/themes/rt_Epsilon_wp/comingsoon.php` and altering its code. Some of the more common changes are listed below.
+Making changes to the Coming Soon page will require you to access a file and make manual changes yourself. It is not as difficult as it sounds. All of the changes you might want to make to this page can be done by visiting `/themes/rt_epsilon_wp/comingsoon.php` and altering its code. Some of the more common changes are listed below.
 
 ### Countdown Timer
 
@@ -30,7 +30,7 @@ You can set the countdown timer by navigating to **Admin -> Epsilon Theme -> Giz
 
 ### Text
 
-There is a block of text under the countdown timer in our default page. This block of text is located on **line 54**:
+There is a block of text under the countdown timer in our default page. This block of text is located on **line 111**:
 
 ~~~ .html
 <p class="rt-comingsoon-additional-message">Epsilon supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match the theme. This feature can be enabled in Admin Dashboard → Epsilon Theme → Gizmos → Coming Soon Page. You can customize this page by editing the comingsoon.php file inside the theme folder. Please visit <a href="http://www.rockettheme.com/">Epsilon tutorials</a> for more information.</p>
@@ -40,7 +40,7 @@ Just replace the text between the `<p>` tags with the information you wish to ha
 
 ### Newsletter Subscription 
 
-The subscription field and button are a standard form found between **lines 81 and 88**.
+The subscription field and button are a standard form found between **lines 126 and 131**.
 
 ~~~ .html
 					<form class="rt-comingsoon-form" action="#">

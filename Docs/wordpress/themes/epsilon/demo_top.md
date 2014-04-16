@@ -10,7 +10,7 @@ Top Section
 
 ![][demo]
 
-The **Text** widget that appears in the **Top** widget position does nothing more than add space in the RokSprocket Tabs module in order to make the background appear in the tabs area of the widget.
+The **Text** widget that appears in the **Top** widget position does nothing more than add space in the RokSprocket Tabs layout in order to make the background appear in the tabs area of the widget.
 
 Here is the widget breakdown for the Top section:
 
@@ -22,9 +22,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="fp-roksprocket-tabs-header"></div>
 ~~~
 
-Here is a breakdown of options changes you will want to make to match the demo.
-
-* Leaving everything else at its default setting, select **Save**.
+Leaving everything else at its default setting, select **Save**.
 
 [demo]: assets/demo_3.jpeg
 [roksprocket]: ../../plugins/roksprocket/

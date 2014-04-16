@@ -85,12 +85,12 @@ Info
 ~~~ .html
 <ul>
     <li><a href=
-    "http://ryanmpierson.no-ip.biz/wordpress/epsilon/about-us/">About
+    "http://(your site URL)/about-us/">About
     <span class="hidden-tablet">Us</span></a></li>
     <li><a href=
-    "http://ryanmpierson.no-ip.biz/wordpress/epsilon/team/">Team</a></li>
+    "http://(your site URL)/team/">Team</a></li>
     <li><a href=
-    "http://ryanmpierson.no-ip.biz/wordpress/epsilon/services/">Services</a></li>
+    "http://(your site URL)/services/">Services</a></li>
 </ul>
 ~~~
 
@@ -120,3 +120,4 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 The widget should now be created and ready for use on the front page of your WordPress site.
 
 [demo]: assets/demo_9.jpeg
+[roksprocket]: ../../plugins/roksprocket/

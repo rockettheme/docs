@@ -30,12 +30,6 @@ We used the **Simple** Content Provider to allow us to make custom tabs without 
 RokSprocket<span class="hidden-tablet"> Integration</span>
 ~~~
 
-*Link*
-
-~~~ .html
-http://demo.rockettheme.com/live/wordpress/hadron/features/
-~~~
-
 *Description*
 
 ~~~ .html

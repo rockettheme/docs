@@ -27,7 +27,7 @@ Key Features
 -----
 
 * Responsive Layout  
-* 8 Preset Styles  
+* 6 Preset Styles  
 * 89 Widget Positions  
 * 1200 Fixed Option  
 * 8 Styled Widget Variations  
