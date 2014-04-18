@@ -8,6 +8,7 @@ breadcrumb: /!hosting:Hosting Help/
 	* [How to Find a Good Provider](finding_hosting.md)
 	* [Recommended Providers](hosting_providers.md)
 		* [Arvixe](hosting_providers.md#arvixe)
+		* [InMotion](hosting_providers.md#inmotion-hosting)
 		* [Rochen](hosting_providers.md#rochen)
 	* [Joomla Guide](joomla.md)
 		* [Hosting Options](joomla.md#hosting-options)
