@@ -14,6 +14,8 @@ Below, we have listed some of our recommended hosting providers. Each of them of
 
 So, if you are searching for a recommended Joomla hosting provider, or a good WordPress hosting solution, these companies are among the best options out there.
 
+>> Disclosure: We receive compensation from the companies whose products and/or services appear on this page. We review each company thoroughly and only accept the very best. We are independently owned and any opinions expressed here are our own.
+
 Arvixe
 -----
 
