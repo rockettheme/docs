@@ -40,7 +40,7 @@ InMotion Hosting
 
 ![InMotion][inmotion]
 
-InMotion hosting offers premium CMS hosting services on very high-end hardware optimized specifically for Joomla!, WordPress, and Drupal. 
+[InMotion](https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=rocket&page=7) hosting offers premium CMS hosting services on very high-end hardware optimized specifically for Joomla!, WordPress, and Drupal. 
 
 InMotion uses only the highest quality Dell E5-2600 v2 series Dual Xeon servers with a minimum of 64 GBs RAM and 15K RPM SAS or SSD drives in a RAID 5 or RAID 10 configurations for maximum speed and fault tolerance. Its datacenters are fully redundant with multiple power grids, redundant UPS, HVAC, and Diesel backup generators.   
 
