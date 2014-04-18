@@ -74,6 +74,8 @@ In addition to **premium shared hosting**, Rochen offers VMWare® powered **Mana
 
 [Rochen](http://www.rochenhost.com/) is the web host of both [Joomla.org](http://joomla.org) and [RocketTheme.com](http://www.rockettheme.com).
 
+>> Disclosure: We receive compensation from the companies whose products and/or services appear on this page. We review each company thoroughly and only accept the very best. We are independently owned and any opinions expressed here are our own.
+
 [arvixe]: http://www.arvixe.com/rockettheme-hosting?utm_campaign=Documentation&utm_medium=showcase&utm_source=rockettheme.com
 [logo_arvixe]: assets/logo_arvixe2.jpeg
 [rochen]: assets/rochen.jpg
