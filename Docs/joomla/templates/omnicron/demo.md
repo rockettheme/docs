@@ -29,12 +29,12 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Omnicron]
 
-:   1. **Client Testimonial**  [20%, 16%, se]
-    2. **System Requirements** [31%, 85%, sw]
-    3. **Service Updates** [48%, 85%, sw]
-    4. **Our Partners** [70%, 16%, se]
-    5. **Product Blog**  [70%, 33%, se]
-    6. **Featured Articles** [70%, 52%, se]
+:   1. **Client Testimonial**  [48%, 84%, sw]
+    2. **System Requirements** [59%, 84%, sw]
+    3. **Service Updates** [77%, 16%, se]
+    4. **Our Partners** [77%, 40%, se]
+    5. **Product Blog**  [77%, 63%, se]
+    6. **Featured Articles** [48%, 16%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 

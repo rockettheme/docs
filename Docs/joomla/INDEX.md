@@ -85,7 +85,7 @@ more:
 	- [Paradox](templates/paradox)
 	- [Hybrid](templates/hybrid)
 	- [Syndicate](templates/syndicate)
-	- [Omnicron (Coming Soon)](templates/omnicron)
+	- [Omnicron](templates/omnicron)
 	- [Zephyr (Coming Soon)](templates/zephyr)
 	- [Juxta (Coming Soon)](templates/juxta)
 	- [Quantive (Coming Soon)](templates/quantive)
