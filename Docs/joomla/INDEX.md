@@ -86,7 +86,7 @@ more:
 	- [Hybrid](templates/hybrid)
 	- [Syndicate](templates/syndicate)
 	- [Omnicron](templates/omnicron)
-	- [Zephyr (Coming Soon)](templates/zephyr)
+	- [Zephyr](templates/zephyr)
 	- [Juxta (Coming Soon)](templates/juxta)
 	- [Quantive (Coming Soon)](templates/quantive)
 	- [Cystalline (Coming Soon)](templates/crystalline)

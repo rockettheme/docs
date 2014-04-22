@@ -2,15 +2,60 @@
 title: Zephyr
 description: Your Guide to Using the Zephyr Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!zephyr:Zephyr
-nosearch: true
+tags: [Template, Zephyr, Features, Requirements]
 
 ---
 
-Coming Soon
+Introduction
 -----
 
-This documentation is in the process of being written and will be available soon. 
+Zephyr features an impressive assortment of stylistic tools, ranging from its completely Transparent Base, to an extensive array of Color Chooser controls. It sports twelve preset style variations and 24 module class suffixes to diversify your modular and page content.
 
-Tutorials, tips, and other additional resources for this template can be found in its official [forum][forum].
+![][theme]
 
-[forum]: http://www.rockettheme.com/forum/joomla-template-zephyr/
+>> NOTICE: Zephyr is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+
+Requirements
+-----
+
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3+
+* MySQL 5.0.4 or higher
+* Joomla 2.5
+
+For more information, visit our [Gantry documentation][gantry].
+
+>> NOTE: An updated version of the Gantry 4 Framework is required for Zephyr to work properly.
+
+Key Features
+-----
+
+* 960 Fixed Layout
+* 12 Preset Styles
+* 68 Module Positions
+* 24 Module Variations
+* Fusion-Menu and Split-Menu
+* Custom Typography
+* Logo Options
+* iPhone Theme
+* Mobile Menu
+* Static CSS Option
+* Fixed Footer Option
+
+### Compact Login
+
+![][compactlogin]
+
+A uniquely styled feature is the horizontal login in the header area. The styling is automatically applied, without the need for a module suffix, which transforms the vertical login module into a compact, singular lined login, perfect for displaying in space-conscious zones.
+
+### Fusion Menu
+
+![][fusionmenu]
+
+Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as: inline subtext, icons, modules, module positions, custom column widths and number, as well as control over how menu items are distributed between columns.
+
+[gantry]: http://www.gantry-framework.org/
+[theme]: assets/zephyr.jpeg
+[compactlogin]: assets/compactlogin.jpg
+[fusionmenu]: assets/fusionmenu.jpg
+[fusion]: assets/fusion.jpg
