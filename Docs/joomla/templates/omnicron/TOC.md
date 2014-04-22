@@ -28,6 +28,7 @@ support: http://www.rockettheme.com/forum/joomla-template-omnicron
             * [Our Partners](demo_module_4.md)
             * [Product Blog](demo_module_5.md)
             * [Featured Articles](demo_module_6.md)
+            * [FeatureTable](demo_module_7.md)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
 * Template Tutorials

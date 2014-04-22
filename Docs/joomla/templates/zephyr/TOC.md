@@ -30,6 +30,7 @@ support: http://www.rockettheme.com/forum/joomla-template-zephyr
             * [Demo Inforamtion](demo_module_6.md)
             * [Help Center](demo_module_7.md)
             * [Featured Article](demo_module_8.md)
+            * [Member Login](demo_module_9.md)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
     * [Sliding Panel](demo_module_1.md#sliding-panel)

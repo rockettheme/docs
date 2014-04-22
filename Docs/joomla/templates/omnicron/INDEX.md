@@ -9,7 +9,7 @@ tags: [Template, Omnicron, Features, Requirements]
 Introduction
 -----
 
-Omnicron is the ideal choice for any product related site, as well as broader uses, based on its rounded, colorful appearance and the inclusion of the new RokFeatureTable module. The diverse module suffixes allow for stylistic focus of particular products.
+Omnicron is the ideal choice for any product related site, as well as broader uses, based on its rounded, colorful appearance and the inclusion of our RokFeatureTable module. The diverse module suffixes allow for stylistic focus of particular products.
 
 ![][theme]
 

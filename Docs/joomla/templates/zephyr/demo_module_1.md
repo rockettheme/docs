@@ -1,6 +1,6 @@
 ---
 title: Zephyr: Recreating the Demo - RokAjaxSearch
-description: Your Guide to Recreating Elements of the Zephyr Template for Joomla
+description: Your Guide to Recreating Elements of the Zephyr Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/zephyr:Zephyr
 
 ---

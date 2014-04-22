@@ -1,6 +1,6 @@
 ---
 title: Zephyr: Recreating the Demo - Popular Features
-description: Your Guide to Recreating Elements of the Zephyr Template for Joomla
+description: Your Guide to Recreating Elements of the Zephyr Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/zephyr:Zephyr
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zephyr: Recreating the Demo
-description: Your Guide to Recreating Elements of the Zephyr Template for Joomla
+description: Your Guide to Recreating Elements of the Zephyr Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/zephyr:Zephyr
 
 ---
@@ -37,6 +37,7 @@ Below, you will find the module placement and settings for the various module po
     6. **Demo Information** [83%, 35%, se]
     7. **Help Center** [83%, 69%, se]
     8. **Featured Article** [49%, 83%, sw]
+    9. **Member Login** [6%, 52%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
@@ -48,6 +49,7 @@ We have detailed how to recreate the individual modules pictured above in the li
 6. [Demo Information][module6]
 7. [Help Center][module7]
 8. [Featured Article][module8]
+9. [Member Login][module9]
 
 Recommended Extensions
 -----
@@ -64,23 +66,6 @@ Here is a list of RocketTheme extensions we recommend using with Zephyr:
 * [RokBooster][rokbooster]
 
 Many of these extensions are included with the Zephyr RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
-
-Template Settings
------
-
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a style override. This can be done by navigating to **Administrator -> Extensions -> Template Manager** and selecting the template you wish to change.  Once you have checked the box next to the template, you can click the **Duplicate** button to create a second copy of the template. This will become the Override while the primary copy of the template remains the designated Master.
-
-Only options that are different from the Master copy will take hold on the menu items you have assigned to the override. In this case, you will be assigning the front page to the override as we have in the demo.
-
-It would be a good idea for organization to name this override something like **Zephyr - Home** as it would be used only for the front page of your site.
-
-#### Assignments
-
-The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you will want to select **Home** in the Menu Assignments tab..
-
-Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
-
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch

@@ -1,6 +1,6 @@
 ---
 title: Syndicate: Recreating the Demo - FP RokStock
-description: Your Guide to Recreating Elements of the Syndicate Template for Joomla
+description: Your Guide to Recreating Elements of the Syndicate Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/syndicate:Syndicate
 
 ---
@@ -10,7 +10,7 @@ FP RokStock
 
 ![][demo]
 
-:   1. **RokStock** [43%, 18%, se]
+:   1. **RokStock** [50%, 18%, se]
 
 This stock stats that appear on the front page is a standard **RokStock** module. Here are the settings we used in our demo.
 

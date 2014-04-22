@@ -1,6 +1,6 @@
 ---
 title: Syndicate: Recreating the Demo - Most Popular Articles
-description: Your Guide to Recreating Elements of the Syndicate Template for Joomla
+description: Your Guide to Recreating Elements of the Syndicate Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/syndicate:Syndicate
 
 ---

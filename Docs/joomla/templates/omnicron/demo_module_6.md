@@ -1,6 +1,6 @@
 ---
 title: Omnicron: Recreating the Demo - Featured Articles
-description: Your Guide to Recreating Elements of the Omnicron Template for Joomla
+description: Your Guide to Recreating Elements of the Omnicron Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/omnicron:Omnicron
 
 ---
