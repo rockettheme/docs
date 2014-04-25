@@ -11,9 +11,13 @@ Introduction
 
 Responsive design makes it possible to create a single site design that gives users a consistent, native user experience across a wide range of devices. Instead of having two individual user interfaces for desktop and mobile users, you have one single design set that adapts automatically, depending on the width of the browser window used to access the page.
 
+![][responsive1]
+
 It also allows for automatic switching between elements that are optimized for a particular device type. In most responsive sites, smartphone users will see a mobile-friendly menu while desktop users will see the larger, more robust menu system that looks best on a bigger screen. This is made possible by CSS3 media queries, which enable site developers to create custom CSS classes that are triggered by characteristics of the browser, such as its width.
 
 In addition to switching elements on and off, a good responsive design is fluid, and will scale as the window size is adjusted. This ensures that the same great user experience is available for users running browers at virtually any pixel width. 
+
+![][responsive2]
 
 Everything in a responsive design is laid out to be relative, rather than fixed. The layout grid, images, and other media components are placed at a percentage of the browser width..
 
@@ -53,3 +57,5 @@ Another useful available feature, via Bootstrap, is the collection of responsive
 Because mobile devices such as smartphones and tablets can have issues loading the full-featured menu included on the desktop version of a site, a mobile-specific menu will appear.
 
 [bootstrap]: http://twitter.github.com/bootstrap/
+[responsive1]: assets/responsive_full.jpeg
+[responsive2]: assets/responsive_mobile.jpeg
