@@ -88,6 +88,39 @@ Once you have received an answer to your question, you can mark your topic as **
 
 This makes it easier for future users to find solutions to the same issue you faced. It makes the whole forum easier to navigate and use as it frees up more people to answer new and pressing issues rather than answer the same question numerous times.
 
+### Using the Secure Tab
+
+The **Secure Tab** that appears in the editor page is an important tool that enables you to post your information without having it appear visible to the general user base. Only moderators and the person you are replying to are able to see the content of posts made using the Secure Tab feature.
+
+You can create a new post using the Secure Tab, which will make its content visible only to the moderator team. The post topic and your name will appear as normal, but its content will be replaced with a notice indicating that the message's content is secure.
+
+This will allow your initial post to remain private from the community, but will also take away the advantage of receiving tips and advice from the user base. 
+
+If you aren't posting any propriatary information, we recommend posting publically whenever possible in order to allow our user base to assist with the matter. This has proven invaluable in many occasions as our community has an incredible wealth of knowledge.
+
+If you wish to perform a secure reply, there are two ways to go about it. You can reply to the topic, or an individual post within that thread. Here are the differences between these two, as they relate to secure posts.
+
+![][securetab1]
+
+:   1. **Reply to Topic** This option allows you to reply directly to the topic and/or the original poster. The content of any posts made using this reply via the Secure Tab will be visible to the original poster and the moderator team. [19%, 50%, se]
+    2. **Reply to Post** This button enables you to reply to a specific post in the thread. The content of any posts made using this reply button via the Secure Tab will be visible to the person you are replying directly to and the moderator team. [85%, 20%, se]
+
+1. **Reply to Topic**: This option allows you to reply directly to the topic and/or the original poster. The content of any posts made using this reply via the Secure Tab will be visible to the original poster and the moderator team.
+
+2. **Reply to Post**: This button enables you to reply to a specific post in the thread. The content of any posts made using this reply button via the Secure Tab will be visible to the person you are replying directly to and the moderator team.
+
+![][securetab2]
+
+:   1. **Secure Tab** Selecting this tab will restrict the post's visibility to moderators and/or any individual you are replying to. If you are creating a new post (as pictured above) the post's content will only be visible to moderators. [24%, 12%, se]
+    2. **Security Indicator** This text will let you know who can see the post content once it has been submitted. [24%, 62%, se]
+    3. **Drag and Drop Files** If you hold the **Shift** key while dragging a file, it will automatically make it secure. If you do not do this, even when you are posting content via the **Secure Tab**, it will be visibile to the members of the forum. [82%, 30%, se]
+
+1. **Secure Tab**: Selecting this tab will restrict the post's visibility to moderators and/or any individual you are replying to. If you are creating a new post (as pictured above) the post's content will only be visible to moderators.
+
+2. **Security Indicator**: This text will let you know who can see the post content once it has been submitted.
+
+3. **Drag and Drop Files**: If you hold the **Shift** key while dragging a file, it will automatically make it secure. If you do not do this, even when you are posting content via the **Secure Tab**, it will be visibile to the members of the forum.
+
 ### Check Documentation
 
 Most of the information regarding standard practices such as replicating a template's demo content, installing and updating products, and setting up a site using RocketTheme extensions or templates can be found directly in RocketTheme's documentation. 
@@ -96,3 +129,5 @@ These guides are complete with images, step-by-step instructions, and other usef
 
 [forumsearch]: assets/forumsearch.jpg
 [categoryselection]: assets/categoryselection.jpg
+[securetab1]: assets/securetab_1.jpeg
+[securetab2]: assets/securetab_2.jpeg
