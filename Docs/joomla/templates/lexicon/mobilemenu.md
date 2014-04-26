@@ -16,6 +16,18 @@ The module position **mobile-sidemenu** assigns the module to appear above the m
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
+### Options
+
+![][demo7]
+
+There are two layout options for the mobile menu available in Lexicon. You can choose either **Panel** or **Selectbox** as the **Responsive Menu** setting by navigating to **Administrator -> Extensions -> Template Manager -> Lexicon -> Menu**.
+
+The image used at the top of this page is a **Panel** responsive menu. You will find the **Selectbox** menu below.
+
+![][demo6]
+
+Neither of these options require any changes in the module settings to function.
+
 ### Details
 
 ![][demo2]
@@ -57,3 +69,5 @@ Enter the following in the **Custom Output** text editor.
 [demo2]: assets/mobilemenu_1.jpeg
 [demo3]: assets/mobilemenu_2.jpeg
 [demo4]: assets/mobilemenu_3.jpeg
+[demo6]: assets/mobilemenu_4.jpg
+[demo7]: assets/mobilemenu_5.jpg
