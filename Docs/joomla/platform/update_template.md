@@ -25,7 +25,7 @@ If you have added any additional files (custom CSS files, images, etc.) they wil
 
 Here are the step-by-step instructions for updating a Joomla template in this scenario.
 
-![][update1]
+![][update2]
 
 * Download the new Standalone template ZIP file from [RocketTheme.com](http://rocketthme.com) as seen in the image above.
 * Navigate to the **Extension Manager** in the Joomla Administrator as seen in the image below.
@@ -33,7 +33,7 @@ Here are the step-by-step instructions for updating a Joomla template in this sc
 * Select the ZIP file (without unzipping).
 * Click **Upload and Install**.
 
-![][update2]
+![][update1]
 
 Once this is done, a notice should appear indicating that the template has been successfully updated.
 
