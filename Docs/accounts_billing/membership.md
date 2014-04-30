@@ -11,7 +11,7 @@ Introduction
 
 RocketTheme goes to great lengths to make sure that our Club members receive the best products, support, and value in the industry. It is because of this commitment that we adopted the Club membership model to ensure that you have access to the templates, extensions, and resources you need to make your Joomla, WordPress, phpBB, and/or Magento site shine.
 
->> Note: This guide is intended as a general reference and does not supersede our current Terms and Conditions which are always available on our primary website.
+>> Note: This guide is intended as a general reference and does not supersede our current [Terms and Conditions][terms] which are always available on our primary website.
 
 We currently offer Club memberships for four web application platforms.
 
@@ -81,5 +81,5 @@ However, although your website maybe categorized as a non-profit site, you will 
 
 Therefore, memberships are not provided for free, or at an additional discount, to non-profits.
 
-[terms]: http://www.rockettheme.com/legal/terms.php
+[terms]: http://www.rockettheme.com/legal/94-terms-of-service
 [licenses]: site_licenses.md
