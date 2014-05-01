@@ -34,6 +34,7 @@ more:
 	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
 	- [How to Install a Joomla 2.5 RocketLauncher](platform/rocketlauncher_25.md)
     - [How to Install a Joomla 3.x RocketLauncher](platform/rocketlauncher_3x.md)
+    - [How to Update a RocketTheme Template](platform/update_template.md)
 	- [How Joomla Extensions Work](platform/extensions.md)
 	- [How Joomla Templates Work](platform/templates.md)
 	- [How Joomla's Administration Menu Works](platform/administrator.md)

@@ -12,6 +12,7 @@ breadcrumb: /!technical_tips:Technical Tips/
 	- [Best Platform for Blogging](blogging/best_platform_for_blogging.md)
 	- [How to Build an Audience](blogging/how_to_build_an_audience.md)
 	- [How to Find Sponsors](blogging/sponsors.md)
+    - [Responsive Design Explained](general/responsive.md)
 
 <!-- -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Up PHP Error Logging Levels
 description: PHP error logging is an important component of any comprehensive troubleshooting strategy. 
-breadcrumb: /technical_tips:Technical Tips/!browser_extensions:Browser Extensions
+breadcrumb: /technical_tips:Technical Tips/!phplogging:PHP Logging
 
 ---
 
