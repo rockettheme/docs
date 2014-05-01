@@ -43,6 +43,7 @@ more:
 
 * Club Templates
 	
+	- [Vermilion](templates/vermilion)
 	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
 	- [Anacron](templates/anacron)

@@ -113,13 +113,10 @@ If you wish to perform a secure reply, there are two ways to go about it. You ca
 
 :   1. **Secure Tab** Selecting this tab will restrict the post's visibility to moderators and/or any individual you are replying to. If you are creating a new post (as pictured above) the post's content will only be visible to moderators. [24%, 12%, se]
     2. **Security Indicator** This text will let you know who can see the post content once it has been submitted. [24%, 62%, se]
-    3. **Drag and Drop Files** If you hold the **Shift** key while dragging a file, it will automatically make it secure. If you do not do this, even when you are posting content via the **Secure Tab**, it will be visibile to the members of the forum. [82%, 30%, se]
 
 1. **Secure Tab**: Selecting this tab will restrict the post's visibility to moderators and/or any individual you are replying to. If you are creating a new post (as pictured above) the post's content will only be visible to moderators.
 
 2. **Security Indicator**: This text will let you know who can see the post content once it has been submitted.
-
-3. **Drag and Drop Files**: If you hold the **Shift** key while dragging a file, it will automatically make it secure. If you do not do this, even when you are posting content via the **Secure Tab**, it will be visibile to the members of the forum.
 
 ### Check Documentation
 
