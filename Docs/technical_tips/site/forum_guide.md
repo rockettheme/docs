@@ -96,7 +96,7 @@ You can create a new post using the Secure Tab, which will make its content visi
 
 This will allow your initial post to remain private from the community, but will also take away the advantage of receiving tips and advice from the user base. 
 
-If you aren't posting any propriatary information, we recommend posting publically whenever possible in order to allow our user base to assist with the matter. This has proven invaluable in many occasions as our community has an incredible wealth of knowledge.
+If you aren't posting any proprietary information, we recommend posting publicly whenever possible in order to allow our user base to assist with the matter. This has proven invaluable in many occasions as our community has an incredible wealth of knowledge.
 
 If you wish to perform a secure reply, there are two ways to go about it. You can reply to the topic, or an individual post within that thread. Here are the differences between these two, as they relate to secure posts.
 
