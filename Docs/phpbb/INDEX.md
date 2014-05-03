@@ -28,6 +28,8 @@ more:
 
 	- [Lexicon](styles/lexicon)
 	- [Epsilon](styles/epsilon)
+	- [Anacron](styles/anacron)
+	- [Hadron](styles/hadron)
 	- [Paradigm](styles/paradigm)
 	- [Spectral](styles/spectral)
 	- [Acacia](styles/acacia)
