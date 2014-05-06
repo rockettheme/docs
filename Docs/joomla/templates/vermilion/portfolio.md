@@ -8,27 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/vermilion:Vermilion
 Introduction
 -----
 
-The **Portfolio** example page demonstrates how you can create a clean, functional contact page with the Vermilion template. Here are the modules used in the demo.
-
-![][portfoliopage]
-
-:   1. **Custom HTML - Portfolio** [10%, 45%, se]
-    2. **Breadcrumbs** [15%, 18%, se]
-    3. **RokSprocket Mosaic** [18%, 18%, se]
-    4. **RokSprocket Strips - What Our Clients Say** [46%, 18%, se]
-    5. **Custom HTML - Our Satisfied Clients** [72%, 18%, se]
-    6. **Custom HTML - Vermilion Demo** [82%, 18%, se]
-    7. **Custom HTML - Sample Contact Info** [82%, 52%, se]
-    8. **Article Content** [56%, 18%, se]
-
-1. [Custom HTML - Portfolio](portfolio.md#custom-html---portfolio)
-2. [Breadcrumbs](portfolio.md#breadcrumbs)
-3. [RokSprocket Mosaic](portfolio.md#roksprocket-mosaic)
-4. [RokSprocket Strips - What Our Clients Say](portfolio.md#what-our-clients-say)
-5. [Custom HTML - Our Satisfied Clients](portfolio.md#custom-html---our-satisfied-clients)
-6. [Custom HTML - Vermilion Demo](portfolio.md#custom-html---vermilion-demo)
-7. [Custom HTML - Sample Contact Info](portfolio.md#custom-html---sample-contact-info)
-8. [Article Content](portfolio.md#mainbody)
+The **Portfolio** example page demonstrates how you can create a clean, functional portfolio with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
 Page Display Options
 -----
@@ -103,6 +83,26 @@ Modules
 -----
 
 Below is a brief rundown of the modules used to make up the demo page.
+
+![][portfoliopage]
+
+:   1. **Custom HTML - Portfolio** [10%, 45%, se]
+    2. **Breadcrumbs** [15%, 18%, se]
+    3. **RokSprocket Mosaic** [18%, 18%, se]
+    4. **RokSprocket Strips - What Our Clients Say** [46%, 18%, se]
+    5. **Custom HTML - Our Satisfied Clients** [72%, 18%, se]
+    6. **Custom HTML - Vermilion Demo** [82%, 18%, se]
+    7. **Custom HTML - Sample Contact Info** [82%, 52%, se]
+    8. **Article Content** [56%, 18%, se]
+
+1. [Custom HTML - Portfolio](portfolio.md#custom-html---portfolio)
+2. [Breadcrumbs](portfolio.md#breadcrumbs)
+3. [RokSprocket Mosaic](portfolio.md#roksprocket-mosaic)
+4. [RokSprocket Strips - What Our Clients Say](portfolio.md#what-our-clients-say)
+5. [Custom HTML - Our Satisfied Clients](portfolio.md#custom-html---our-satisfied-clients)
+6. [Custom HTML - Vermilion Demo](portfolio.md#custom-html---vermilion-demo)
+7. [Custom HTML - Sample Contact Info](portfolio.md#custom-html---sample-contact-info)
+8. [Article Content](portfolio.md#mainbody)
 
 ### Custom HTML - Portfolio
 

@@ -8,16 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/vermilion:Vermilion
 Introduction
 -----
 
-The **Contact Us** example page demonstrates how you can create a clean, functional contact page with the Vermilion template. Here are the modules used in the demo.
-
-![][contactuspage]
-
-:   1. **Custom HTML - Contact Us** [13%, 45%, se]
-    2. **Breadcrumbs** [20%, 15%, se]
-    3. **Custom HTML - Contact Info** [23%, 64%, se]
-    4. **Custom HTML - Got Billing and Payments Questions?** [65%, 35%, se]
-    5. **Custom HTML** [75%, 15%, se]
-    6. **Custom HTML** [75%, 52%, se]
+The **Contact Us** example page demonstrates how you can create a clean, functional contact page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
 Page Display Options
 -----
@@ -32,6 +23,22 @@ Modules
 -----
 
 Below is a brief rundown of the modules used to make up the demo page.
+
+![][contactuspage]
+
+:   1. **Custom HTML - Contact Us** [13%, 45%, se]
+    2. **Breadcrumbs** [20%, 15%, se]
+    3. **Custom HTML - Contact Info** [23%, 64%, se]
+    4. **Custom HTML - Got Billing and Payments Questions?** [65%, 35%, se]
+    5. **Custom HTML - Vermilion Demo** [75%, 15%, se]
+    6. **Custom HTML - Sample Contact Info** [75%, 52%, se]
+
+1. [Custom HTML - Contact Us](contactus.md#custom-html---contact-us)
+2. [Breadcrumbs](contactus.md#breadcrumbs)
+3. [Custom HTML - Contact Info](contactus.md#custom-html---contact-info)
+4. [Custom HTML - Got Billing and Payments Questions?](contactus.md#custom-html---got-billing-and-payments-questions?)
+5. [Custom HTML - Vermilion Demo](contactus.md#custom-html---vermilion-demo)
+6. [Custom HTML - Sample Contact Info](contactus.md#contactus.md#custom-html---sample-contact-info)
 
 ### Custom HTML - Contact Us
 
