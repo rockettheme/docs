@@ -41,6 +41,8 @@ support: http://www.rockettheme.com/forum/joomla-template-vermilion/
     * Sample Pages
         * [Coming Soon](comingsoon.md)
         * [404 Page](404.md)
+        * [Contact Us](contactus.md)
+        * [Portfolio](portfolio.md)
     * [FAQ](faq.md)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
