@@ -15,7 +15,7 @@ Page Display Options
 
 ![][portfoliopage2]
 
-The **Portfolio** page is a **Single Contact** menu item type. To recreate the layout the way it appears in our demo, enter `portfolio` in the **Alias** field in the menu item settings menu. This alias is tied to a class in the demo.less file.
+The **Portfolio** page is a **Single Article** menu item type. To recreate the layout the way it appears in our demo, enter `portfolio` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
 
 In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
 
