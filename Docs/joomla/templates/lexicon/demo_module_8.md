@@ -31,35 +31,32 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<p class="rt-text-medium"><em>Lexicon is centered around a flat design
-approach, spruced by professional and engaging color schemes to create presence
-for site content without distracting from it. <span class="hidden-tablet">Ideal
-for showcasing product details in a vibrant but elegant
-fashion.</span></em></p>
-<p>&nbsp;</p>
+<p class="rt-text-medium"><em>Lexicon is centered around a flat design approach, spruced by professional and engaging color schemes to create presence for site content without distracting from it. <span class="hidden-tablet">Ideal for showcasing product details in a vibrant but elegant fashion.</span></em></p>
+
+<br />
+
 <div class="gantry-row">
     <div class="gantry-width-10 hidden-tablet">
-        <div class="gantry-width-spacer"><img alt="image" class="rt-rounded"
-        src="images/rocketlauncher/home/fp-content-bottom-01/img-01.jpg"></div>
+        <div class="gantry-width-spacer">
+            <img class="rt-rounded" src="images/rocketlauncher/home/fp-content-bottom-01/img-01.jpg" alt="image" />
+        </div>
     </div>
+
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <h4 class="smallmarginbottom">Responsive Layout</h4>
-            <p><em>Automatic adaptation <span class="hidden-tablet">to varying
-            devices</span></em></p>
+            <p><em>Automatic adaptation<span class="hidden-tablet">  to varying devices</span></em></p>
         </div>
     </div>
+
     <div class="gantry-width-40">
         <div class="gantry-width-spacer gantry-right">
-            <p class="medmargintop"><a class="readon" href=
-            "http://www.rockettheme.com/joomla/templates/lexicon">Download
-            <span class="hidden-tablet">Lexicon</span></a></p>
+            <p class="medmargintop"><a class="readon" href="http://www.rockettheme.com/joomla/templates/lexicon">Download<span class="hidden-tablet"> Lexicon</span></a></p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+
+<div class="clear"></div>
 ~~~
 
 ### Basic

@@ -31,20 +31,33 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<p>Google Chrome <span class="rt-text-small"><em>Webkit-based</em></span></p>
-<hr>
+<span>Google Chrome</span>
+<span class="rt-text-small"><em>Webkit-based</em></span>
+<span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
 
-<p>Apple Safari <span class="rt-text-small"><em>Webkit-based</em></span></p>
-<hr>
+<hr />
 
-<p>Mozilla Firefox <span class="rt-text-small"><em>Gecko-based</em></span></p>
-<hr>
+<span>Apple Safari</span>
+<span class="rt-text-small"><em>Webkit-based</em></span>
+<span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star-half-empty"></span> <span class="icon-star-empty"></span>
 
-<p>Microsoft Internet Explorer <span class=
-"rt-text-small"><em>Trident-based</em></span></p>
-<hr>
+<hr />
 
-<p>Opera <span class="rt-text-small"><em>Presto-based</em></span></p>
+<span>Mozilla Firefox</span>
+<span class="rt-text-small"><em>Gecko-based</em></span>
+<span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star-empty"></span>
+
+<hr />
+
+<span>Microsoft Internet Explorer</span>
+<span class="rt-text-small"><em>Trident-based</em></span>
+<span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star-empty"></span> <span class="icon-star-empty"></span>
+
+<hr />
+
+<span>Opera</span>
+<span class="rt-text-small"><em>Presto-based</em></span>
+<span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star-empty"></span>
 ~~~
 
 ### Basic

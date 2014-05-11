@@ -32,23 +32,12 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <ul class="menu">
-    <li><a href=
-    "index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111">Gantry
-    <span class="hidden-tablet">Framework</span></a></li>
-    <li><a href=
-    "index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=115">Dropdown
-    <span class="hidden-tablet">Menu</span></a></li>
-    <li><a href=
-    "index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=113"><span class="hidden-tablet">
-    Module</span> Variations</a></li>
-    <li><a href=
-    "index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=112"><span class="hidden-tablet">
-    Module</span> Positions</a></li>
-    <li><a href=
-    "index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=114"><span class="hidden-tablet">
-    Custom</span> Typography</a></li>
-    <li><a href="#"><span class="hidden-tablet">Multiple</span>
-    Presets</a></li>
+    <li><a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111">Gantry<span class="hidden-tablet"> Framework</span></a></li>
+    <li><a href="index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=115">Dropdown<span class="hidden-tablet"> Menu</span></a></li>
+    <li><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=113"><span class="hidden-tablet">Module </span>Variations</a></li>
+    <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=112"><span class="hidden-tablet">Module </span>Positions</a></li>
+    <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=114"><span class="hidden-tablet">Custom </span>Typography</a></li>
+    <li><a href="#"><span class="hidden-tablet">Multiple </span>Presets</a></li>
 </ul>
 ~~~
 
