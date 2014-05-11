@@ -10,7 +10,7 @@ Introduction
 
 **The Team** example page demonstrates how you can create a rich team page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][theteampage2]
@@ -28,15 +28,9 @@ The page's content body is set in the **The Team** article. You will find the co
 
 ~~~ .html
 <h3>Our Passion for Design</h3>
-<p>Interactively procrastinate high-payoff content without backward-compatible
-data. Quickly cultivate optimal processes and tactical architectures.
-Completely iterate covalent strategic theme areas via accurate e-markets.</p>
-<p>Completely synergize resource sucking relationships via premier niche
-markets. Professionally cultivate one-to-one customer service with robust
-ideas. Dynamically innovate resource-leveling customer service for state of the
-art customer service.</p>
-<p><a class="readon" href=
-"http://www.rockettheme.com/joomla/templates/vermilion">Learn More</a></p>
+<p>Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures. Completely iterate covalent strategic theme areas via accurate e-markets.</p>
+<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Learn More</a></p>
 ~~~
 
 Modules
@@ -79,6 +73,12 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Position    | top-a                                                                        |
 | Status      | Published                                                                    |
 | Access      | Public                                                                       |
+
+#### Content
+
+~~~ .html
+&nbsp;
+~~~
 
 #### Options
 
@@ -137,80 +137,51 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-01.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/the-team/img-01.jpg" alt="image" /></span>
         </div>
     </div>
     <div class="gantry-width-66">
         <div class="gantry-width-spacer">
             <h3 class="nomarginbottom">Robert Smith</h3>
             <h6 class="nomargintop">CEO of Vermilion</h6>
-            <p>Globally incubate standards compliant channels before scalable
-            benefits. Quickly disseminate superior deliverables whereas
-            web-enabled applications. <span class="hidden-tablet">Quickly drive
-            clicks-and-mortar catalysts for change before vertical
-            architectures.</span></p>
-            <p class="success hidden-tablet">Image attribution: <a href=
-            "http://www.flickr.com/photos/astragony/8260117875/sizes/l/">AMaze
-            by Daniele Zedda.</a></p>
+            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. <span class="hidden-tablet">Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</span></p>
+            <p class="success hidden-tablet">Image attribution: <a href="http://www.flickr.com/photos/astragony/8260117875/sizes/l/">AMaze by Daniele Zedda.</a></p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
-<p>&nbsp;</p>
+<div class="clear"></div><br />
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-02.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/the-team/img-02.jpg" alt="image" /></span>
         </div>
     </div>
     <div class="gantry-width-66">
         <div class="gantry-width-spacer">
             <h3 class="nomarginbottom">Tayla Parker</h3>
             <h6 class="nomargintop">Accountant</h6>
-            <p>Globally incubate standards compliant channels before scalable
-            benefits. Quickly disseminate superior deliverables whereas
-            web-enabled applications. <span class="hidden-tablet">Quickly drive
-            clicks-and-mortar catalysts for change before vertical
-            architectures.</span></p>
-            <p class="success hidden-tablet">Image attribution: <a href=
-            "http://www.flickr.com/photos/johnonolan/5729506059/sizes/l/">Stare
-            by JohnONolan.</a></p>
+            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. <span class="hidden-tablet">Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</span></p>
+            <p class="success hidden-tablet">Image attribution: <a href="http://www.flickr.com/photos/johnonolan/5729506059/sizes/l/">Stare by JohnONolan.</a></p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
-<p>&nbsp;</p>
+<div class="clear"></div><br />
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-03.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/the-team/img-03.jpg" alt="image" /></span>
         </div>
     </div>
     <div class="gantry-width-66">
         <div class="gantry-width-spacer">
             <h3 class="nomarginbottom">Paul Valdez</h3>
             <h6 class="nomargintop">Administrator</h6>
-            <p>Globally incubate standards compliant channels before scalable
-            benefits. Quickly disseminate superior deliverables whereas
-            web-enabled applications. <span class="hidden-tablet">Quickly drive
-            clicks-and-mortar catalysts for change before vertical
-            architectures.</span></p>
-            <p class="success hidden-tablet">Image attribution: <a href=
-            "http://www.flickr.com/photos/astragony/4728211246/sizes/l/">Bamboo
-            by Daniele Zedda.</a></p>
+            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. <span class="hidden-tablet">Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</span></p>
+            <p class="success hidden-tablet">Image attribution: <a href="http://www.flickr.com/photos/astragony/4728211246/sizes/l/">Bamboo by Daniele Zedda.</a></p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -246,52 +217,46 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-row">
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-04.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/johnonolan/5378754404/sizes/l/">by
-            JohnONolan</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-04.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/johnonolan/5378754404/sizes/l/">by JohnONolan</a></span>
+            </span>
             <h3 class="nomarginbottom">Enrik Prifti</h3>
             <h6 class="nomargintop">Programmer</h6>
         </div>
     </div>
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-05.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/thomasleuthard/5807793226/sizes/l/">by
-            Thomas Leuthard</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-05.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/thomasleuthard/5807793226/sizes/l/">by Thomas Leuthard</a></span>
+            </span>
             <h3 class="nomarginbottom">Laura Richards</h3>
             <h6 class="nomargintop">Designer</h6>
         </div>
     </div>
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-06.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/astragony/5959165576/sizes/l/">by
-            Daniele Zedda</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-06.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/astragony/5959165576/sizes/l/">by Daniele Zedda</a></span>
+            </span>
             <h3 class="nomarginbottom">Alex Ward</h3>
             <h6 class="nomargintop">Technical Lead</h6>
         </div>
     </div>
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-07.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/mr-h/4217144639/sizes/l/">by
-            AllansBrain</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-07.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/mr-h/4217144639/sizes/l/">by AllansBrain</a></span>
+            </span>
             <h3 class="nomarginbottom">Nora Mirone</h3>
             <h6 class="nomargintop">QA Lead</h6>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -327,63 +292,56 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-row">
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-08.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/carianoff/5327733275/sizes/l/">by
-            carianoff</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-08.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5327733275/sizes/l/">by carianoff</a></span>
+            </span>
             <h3 class="nomarginbottom">John Jensen</h3>
             <h6 class="nomargintop">Email</h6>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-09.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/carianoff/4070347417/sizes/l/">by
-            carianoff</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-09.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/4070347417/sizes/l/">by carianoff</a></span>
+            </span>
             <h3 class="nomarginbottom">Tessa Page</h3>
             <h6 class="nomargintop">Ticket</h6>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-10.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/carianoff/5328421868/sizes/l/">by
-            carianoff</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-10.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5328421868/sizes/l/">by carianoff</a></span>
+            </span>
             <h3 class="nomarginbottom">Eric Timofti</h3>
             <h6 class="nomargintop">Chat</h6>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-11.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/carianoff/5328368478/sizes/l/">by
-            carianoff</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-11.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5328368478/sizes/l/">by carianoff</a></span>
+            </span>
             <h3 class="nomarginbottom">Lydia Back</h3>
             <h6 class="nomargintop">Facebook</h6>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <span class="rt-image with-attribution"><img alt="image" src=
-            "images/rocketlauncher/pages/the-team/img-12.jpg"> <span class=
-            "rt-image rt-attribution"><a href=
-            "http://www.flickr.com/photos/carianoff/5327739397/sizes/l/">by
-            carianoff</a></span></span>
+            <span class="rt-image with-attribution">
+                <img src="images/rocketlauncher/pages/the-team/img-12.jpg" alt="image" />
+                <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5327739397/sizes/l/">by carianoff</a></span>
+            </span>
             <h3 class="nomarginbottom">Luca Coyle</h3>
             <h6 class="nomargintop">Twitter</h6>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -417,7 +375,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Join Our Awesome Team with a Great Work Environment</p>
-<p><a class="readon largemargintop" href="http://www.rockettheme.com/joomla/templates/vermilion">Join Vermilion</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon largemargintop">Join Vermilion</a></p>
 ~~~
 
 #### Options
@@ -486,10 +444,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+	</div>	
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+	<div class="gantry-width-spacer">
+		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+		<span>Vermilion Theme, LLC</span><br />
+		<span>123 Joomla! Boulevard</span><br />
+		<span>Seattle, WA 00000, USA</span><br />
+		<span><a href="#">noreply@domain.com</a></span>
+	</div>
 </div>
 ~~~
 

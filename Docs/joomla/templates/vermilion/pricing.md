@@ -10,7 +10,7 @@ Introduction
 
 The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][pricingpage2]
@@ -31,15 +31,9 @@ The page's content body is set in the **Pricing Tables** article. You will find 
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <h3>Simple Plans and Pricing</h3>
-            <p>Globally incubate standards compliant channels before scalable
-            benefits. Quickly disseminate superior deliverables whereas
-            web-enabled applications.</p>
-            <p class="hidden-tablet">Dynamically procrastinate B2C users after
-            installed base benefits. Dramatically visualize customer directed
-            convergence without revolutionary ROI.</p>
-            <p><a class="readon" href=
-            "http://www.rockettheme.com/joomla/templates/vermilion">Sign
-            Up</a></p>
+            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
+            <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+            <p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Sign Up</a></p>
         </div>
     </div>
     <div class="gantry-width-50">
@@ -50,15 +44,11 @@ The page's content body is set in the **Pricing Tables** article. You will find 
                 <li>CSS Dropdown Menu and Split Menu</li>
                 <li>The Template is Optimized for RokBooster</li>
             </ul>
-            <p class="success">Want to use Vermilion for your clients? <a href=
-            "http://www.rockettheme.com/joomla/templates/vermilion">Purchase
-            Single Package Now</a>.</p>
+            <p class="success">Want to use Vermilion for your clients? <a href="http://www.rockettheme.com/joomla/templates/vermilion">Purchase Single Package Now</a>.</p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 Modules
@@ -76,7 +66,7 @@ Below is a brief rundown of the modules used to make up the demo page.
     6. **Custom HTML - Vermilion Demo** [80%, 16%, se]
     7. **Custom HTML - Sample Contact Info** [80%, 52%, se]
 
-1. [Custom HTML - Pricing](pricing.md#custom-html---about-us)
+1. [Custom HTML - Pricing](pricing.md#custom-html---pricing)
 2. [Breadcrumbs](pricing.md#breadcrumbs)
 3. [Article Content](pricing.md#custom-html---about-us:-introduction)
 4. [Custom HTML - Try it Out for 10 Days Free](pricing.md#mainbody)
@@ -97,6 +87,12 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Position    | top-a                                                                |
 | Status      | Published                                                            |
 | Access      | Public                                                               |
+
+#### Content
+
+~~~ .html
+&nbsp;
+~~~
 
 #### Options
 
@@ -153,73 +149,55 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-width-spacer">
-    <p class="nomarginbottom">All plans come with awesome support by email and
-    phone. There is no hidden fee!</p>
+    <p class="nomarginbottom">All plans come with awesome support by email and phone. There is no hidden fee!</p>
 </div>
 <div class="gantry-width-25">
     <ul class="rt-table">
         <li class="rt-table-title">Basic</li>
         <li class="rt-table-price">$28</li>
-        <li class="rt-table-description">Globally incubate standards compliant
-        channels</li>
+        <li class="rt-table-description">Globally incubate standards compliant channels</li>
         <li class="rt-table-item">5GB Storage</li>
         <li class="rt-table-item">10 Users</li>
         <li class="rt-table-item">20 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href=
-        "http://www.rockettheme.com/joomla/templates/vermilion">Sign
-        Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
     <ul class="rt-table">
         <li class="rt-table-title">Standard</li>
         <li class="rt-table-price">$58</li>
-        <li class="rt-table-description">Globally incubate standards compliant
-        channels</li>
+        <li class="rt-table-description">Globally incubate standards compliant channels</li>
         <li class="rt-table-item">25GB Storage</li>
         <li class="rt-table-item">20 Users</li>
         <li class="rt-table-item">30 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href=
-        "http://www.rockettheme.com/joomla/templates/vermilion">Sign
-        Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
     <ul class="rt-table">
         <li class="rt-table-title">Titanium</li>
         <li class="rt-table-price">$88</li>
-        <li class="rt-table-description">Globally incubate standards compliant
-        channels</li>
+        <li class="rt-table-description">Globally incubate standards compliant channels</li>
         <li class="rt-table-item">50GB Storage</li>
         <li class="rt-table-item">30 Users</li>
         <li class="rt-table-item">40 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href=
-        "http://www.rockettheme.com/joomla/templates/vermilion">Sign
-        Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
     <ul class="rt-table rt-table-last-col">
         <li class="rt-table-title">Platinum</li>
         <li class="rt-table-price">$288</li>
-        <li class="rt-table-description">Globally incubate standards compliant
-        channels</li>
+        <li class="rt-table-description">Globally incubate standards compliant channels</li>
         <li class="rt-table-item">500GB Storage</li>
         <li class="rt-table-item">100 Users</li>
         <li class="rt-table-item">200 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href=
-        "http://www.rockettheme.com/joomla/templates/vermilion">Sign
-        Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Sign Up</a></li>
     </ul>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 <div class="gantry-width-spacer">
-    <p>Free <strong>10 days trial</strong> on all plans. No credit card needed!
-    Need a bigger plan? <a href=
-    "http://www.rockettheme.com/joomla/templates/vermilion">View Professional
-    Plan</a>.</p>
+    <p>Free <strong>10 days trial</strong> on all plans. No credit card needed! Need a bigger plan? <a href="http://www.rockettheme.com/joomla/templates/vermilion">View Professional Plan</a>.</p>
 </div>
 ~~~
 
@@ -254,7 +232,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>No Credit Card Required and No Long-Term Contracts</p>
-<p><a class="readon largemargintop" href="http://www.rockettheme.com/joomla/templates/vermilion">Sign Up</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon largemargintop">Sign Up</a></p>
 ~~~
 
 #### Options
@@ -323,10 +301,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+	</div>	
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+	<div class="gantry-width-spacer">
+		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+		<span>Vermilion Theme, LLC</span><br />
+		<span>123 Joomla! Boulevard</span><br />
+		<span>Seattle, WA 00000, USA</span><br />
+		<span><a href="#">noreply@domain.com</a></span>
+	</div>
 </div>
 ~~~
 

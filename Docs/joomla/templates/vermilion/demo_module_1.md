@@ -36,15 +36,11 @@ Enter the following in the **Custom Output** text editor.
         <p class="promo1">About <strong>Vermilion</strong></p>
     </div>
     <div class="fp-showcase-info">
-        <p class="hidden-phone">Vermilion adopts a business or commercial
-        centric visual model, with corporate background shades interwoven with
-        configurable, vibrant or brand colors, allowing for an equilibrium
-        between professionalism and artistic allure.</p><span class=
-        "readon-row"><a class="readon" href=
-        "http://www.rockettheme.com/joomla/templates/vermilion">Purchase
-        Vermilion</a> <a class="readon2" href=
-        "http://www.rockettheme.com/docs/joomla/templates/vermilion">View
-        Documentation</a></span>
+        <p class="hidden-phone">Vermilion adopts a business or commercial centric visual model, with corporate background shades interwoven with configurable, vibrant or brand colors, allowing for an equilibrium between professionalism and artistic allure.</p>
+        <span class="readon-row">
+            <a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Purchase Vermilion</a>
+            <a href="http://www.rockettheme.com/docs/joomla/templates/vermilion" class="readon2">View Documentation</a>
+        </span>
     </div>
 </div>
 ~~~

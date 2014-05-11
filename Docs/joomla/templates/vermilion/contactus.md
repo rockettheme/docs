@@ -10,7 +10,7 @@ Introduction
 
 The **Contact Us** example page demonstrates how you can create a clean, functional contact page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][contactuspage2]
@@ -220,10 +220,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+	</div>	
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+	<div class="gantry-width-spacer">
+		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+		<span>Vermilion Theme, LLC</span><br />
+		<span>123 Joomla! Boulevard</span><br />
+		<span>Seattle, WA 00000, USA</span><br />
+		<span><a href="#">noreply@domain.com</a></span>
+	</div>
 </div>
 ~~~
 

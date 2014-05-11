@@ -10,7 +10,7 @@ Introduction
 
 The **FAQ** example page demonstrates how you can create a beautiful page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][faqpage2]
@@ -28,18 +28,13 @@ The page's content body is set in the **About Us** article. You will find the co
 
 ~~~ .html
 <h3>Common Queries and Questions</h3>
-<p>Completely synergize resource sucking relationships via premier niche
-markets. Professionally cultivate one-to-one customer service with robust
-ideas. Dynamically innovate resource-leveling customer service for state of the
-art customer service.</p>
+<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
 <ul>
     <li>Versatile, Flexible Features Powered by the Gantry Framework.</li>
     <li>Gantry is a free framework for both Joomla and WordPress.</li>
     <li>A selection of configurable preset style variations are available.</li>
 </ul>
-<p><a class="readon" href=
-"http://www.rockettheme.com/docs/joomla/templates/vermilion">Help &amp;
-Knowledge</a></p>
+<p><a href="http://www.rockettheme.com/docs/joomla/templates/vermilion" class="readon">Help &amp; Knowledge</a></p>
 ~~~
 
 Modules
@@ -136,41 +131,30 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-width-33">
-    <img alt="image" src="images/rocketlauncher/pages/faq/img-01.jpg">
+    <img src="images/rocketlauncher/pages/faq/img-01.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Forum Support</h4>
-        <p>Objectively innovate empowered manufactured products with parallel
-        platforms.</p>
-        <p><a href=
-        "http://www.rockettheme.com/forum/joomla-template-vermilion">Ask
-        Community</a></p>
+        <p>Objectively innovate empowered manufactured products with parallel platforms.</p>
+        <p><a href="http://www.rockettheme.com/forum/joomla-template-vermilion">Ask Community</a></p>
     </div>
 </div>
 <div class="gantry-width-33">
-    <img alt="image" src="images/rocketlauncher/pages/faq/img-02.jpg">
+        <img src="images/rocketlauncher/pages/faq/img-02.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Ticket &amp; Email</h4>
-        <p>Proactively envisioned multimedia based expertise and effective
-        cross-media strategies.</p>
-        <p><a href=
-        "http://www.rockettheme.com/forum/joomla-template-vermilion">Send
-        Email</a></p>
+        <p>Proactively envisioned multimedia based expertise and effective cross-media strategies.</p>
+        <p><a href="http://www.rockettheme.com/forum/joomla-template-vermilion">Send Email</a></p>
     </div>
 </div>
 <div class="gantry-width-33">
-    <img alt="image" src="images/rocketlauncher/pages/faq/img-03.jpg">
+    <img src="images/rocketlauncher/pages/faq/img-03.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Live Chat</h4>
-        <p>Interactively coordinate proactive e-commerce via process-centric
-        outside the box.</p>
-        <p><a href=
-        "http://www.rockettheme.com/forum/joomla-template-vermilion">Contact
-        Us</a></p>
+        <p>Interactively coordinate proactive e-commerce via process-centric outside the box.</p>
+        <p><a href="http://www.rockettheme.com/forum/joomla-template-vermilion">Contact Us</a></p>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -192,15 +176,15 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module 
 
-| Option      | Setting             |
-| :---------- | :-----------        |
-| Title       | `RokSprocket Lists` |
-| Show Title  | Hide                |
-| Position    | mainbottom-a        |
-| Status      | Published           |
-| Access      | Public              |
-| Provider    | Simple              |
-| Layout      | Lists Layout        |
+| Option      | Setting                  |
+| :---------- | :-----------             |
+| Title       | `FAQ: RokSprocket Lists` |
+| Show Title  | Hide                     |
+| Position    | mainbottom-a             |
+| Status      | Published                |
+| Access      | Public                   |
+| Provider    | Simple                   |
+| Layout      | Lists Layout             |
 
 #### Filtered Article List Item Sample
 
@@ -256,7 +240,7 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 
 ~~~ .html
 <p>Get Direct Access to the Team Via Phone, Email or Live Chat.</p>
-<p><a class="readon largemargintop" href="http://www.rockettheme.com/forum/joomla-template-vermilion">Contact Us</a></p>
+<p><a href="http://www.rockettheme.com/forum/joomla-template-vermilion" class="readon largemargintop">Contact Us</a></p>
 ~~~
 
 #### Options
@@ -325,10 +309,18 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+	</div>	
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+	<div class="gantry-width-spacer">
+		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+		<span>Vermilion Theme, LLC</span><br />
+		<span>123 Joomla! Boulevard</span><br />
+		<span>Seattle, WA 00000, USA</span><br />
+		<span><a href="#">noreply@domain.com</a></span>
+	</div>
 </div>
 ~~~
 

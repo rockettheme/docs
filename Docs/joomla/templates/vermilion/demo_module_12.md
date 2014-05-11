@@ -31,18 +31,11 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<div class="rt-icon-badge rt-badge-left">
-    &nbsp;
-</div>
+<div class="rt-icon-badge rt-badge-left"><a href="#"><span class="fa fa-edit"></span></a></div>
 <h2 class="title"><a href="#">Demo Info</a></h2>
-<p>All demo content is for sample purpose only. All content images are freely
-available from <a href="http://unsplash.com/">Unsplash</a>.</p>
-<p>Please use the <a href=
-"http://www.rockettheme.com/joomla/templates/vermilion">Vermilion
-RocketLauncher</a> to install an equivalent of the demo.</p>
-<div class="clear">
-    &nbsp;
-</div>
+<p>All demo content is for sample purpose only. All content images are freely available from <a href="http://unsplash.com/">Unsplash</a>.</p>
+<p>Please use the <a href="http://www.rockettheme.com/joomla/templates/vermilion">Vermilion RocketLauncher</a> to install an equivalent of the demo.</p>
+<div class="clear"></div>
 ~~~
 
 ### Basic

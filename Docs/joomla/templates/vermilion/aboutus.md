@@ -10,7 +10,7 @@ Introduction
 
 The **About Us** example page demonstrates how you can create a beautiful page with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][aboutuspage2]
@@ -30,7 +30,7 @@ The page's content body is set in the **About Us** article. You will find the co
 <h3>Vermilion, the Powerful Template</h3>
 <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-<p><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Learn More</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Learn More</a></p>
 ~~~
 
 Modules
@@ -71,6 +71,12 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Position    | top-a                                                            |
 | Status      | Published                                                        |
 | Access      | Public                                                           |
+
+#### Content
+
+~~~ .html
+&nbsp;
+~~~
 
 #### Options
 
@@ -129,31 +135,21 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-row">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/about-us/img-01.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-01.jpg" alt="image" /></span>
         </div>
     </div>
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <h3>Introduction</h3>
-            <p>Globally incubate standards compliant channels before scalable
-            benefits. Quickly disseminate superior deliverables whereas
-            web-enabled applications. Quickly drive clicks-and-mortar catalysts
-            for change before vertical architectures.</p>
+            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</p>
             <div class="hidden-tablet">
                 <h3>More About Us</h3>
-                <p>Proactively envisioned multimedia based expertise and
-                cross-media growth strategies. Seamlessly visualize quality
-                intellectual capital without superior collaboration and
-                idea-sharing. Holistically pontificate installed base portals
-                after maintainable products.</p>
+                <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.</p>
             </div>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -189,38 +185,27 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/about-us/img-02.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-02.jpg" alt="image" /></span>
             <h4>Our Mission</h4>
-            <p>Objectively innovate empowered manufactured products whereas
-            parallel platforms. Holisticly predominate extensible testing
-            procedures for reliable supply chains.</p>
+            <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains.</p>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/about-us/img-03.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-03.jpg" alt="image" /></span>
             <h4>Our Values</h4>
-            <p>Proactively envisioned multimedia based expertise and
-            cross-media growth strategies. Seamlessly visualize quality
-            intellectual capital without superior collaboration.</p>
+            <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration.</p>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/about-us/img-04.jpg"></span>
+            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-04.jpg" alt="image" /></span>
             <h4>Our Solution</h4>
-            <p>Engage worldwide methodologies with web-enabled technology.
-            Interactively coordinate proactive e-commerce via process-centric
-            outside the box thinking.</p>
+            <p>Engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric outside the box thinking.</p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
@@ -254,7 +239,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Utilized with Versatile and Flexible Features Powered by the Gantry Framework.</p>
-<p><a class="readon largemargintop" href="http://www.rockettheme.com/joomla/templates/vermilion">Download Vermilion</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon largemargintop">Download Vermilion</a></p>
 ~~~
 
 #### Options
@@ -323,10 +308,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+    <div class="gantry-width-spacer">
+        <img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+    </div>  
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+    <div class="gantry-width-spacer">
+        <span class="rt-intro-text">+1(123)456-5555-555</span><br />
+        <span>Vermilion Theme, LLC</span><br />
+        <span>123 Joomla! Boulevard</span><br />
+        <span>Seattle, WA 00000, USA</span><br />
+        <span><a href="#">noreply@domain.com</a></span>
+    </div>
 </div>
 ~~~
 

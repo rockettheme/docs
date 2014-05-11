@@ -31,7 +31,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<div class="rt-icon-badge"> </div>
+<div class="rt-icon-badge"><span class="fa fa-volume-up"></span></div>
 <p class="promo2 nomarginbottom">Use over 350 built-in icons for your site content and design</p>
 <p class="rt-text-small nomarginbottom">Powered by Font Awesome 4</p>
 ~~~

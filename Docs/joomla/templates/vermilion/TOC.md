@@ -47,6 +47,7 @@ support: http://www.rockettheme.com/forum/joomla-template-vermilion/
             * [About Us](aboutus.md)
             * [Pricing Tables](pricing.md)
             * [FAQ Page](faqpage.md)
+            * [Blog](blog.md)
     * Template Supported Features
         * [Charts](charts.md)
     * [FAQ](faq.md)

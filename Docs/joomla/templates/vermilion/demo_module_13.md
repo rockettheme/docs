@@ -31,28 +31,21 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<div class="rt-icon-badge rt-badge-left">
-    &nbsp;
-</div>
+<div class="rt-icon-badge rt-badge-left"><a href="#"><span class="fa fa-copy"></span></a></div>
 <h2 class="title"><a href="#">Sample Pages</a></h2>
-<p>See a range of example pages and layouts, that are possible with the
-Vermilion template.</p>
-<div class="clear">
-    &nbsp;
-</div>
+<p>See a range of example pages and layouts, that are possible with the Vermilion template.</p>
+<div class="clear"></div>
 <div class="gantry-row">
-    <div class="gantry-width-100">
-        <div class="gantry-width-spacer">
-            <form action="http://feedburner.google.com/fb/a/mailverify" method=
-            "post" target="popupwindow">
-                <input alt="Your Email" class="inputbox" name="email"
-                placeholder="Your Email" type="text"> <input name="uri" type=
-                "hidden" value="rocketthemeblog"> <input name="loc" type=
-                "hidden" value="en_US"> <input class="readon" name="Submit"
-                type="submit" value="Join">
-            </form>
-        </div>
-    </div>
+	<div class="gantry-width-100">
+		<div class="gantry-width-spacer">
+			<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+				<input type="text" placeholder="Your Email" alt="Your Email" class="inputbox" name="email">
+				<input type="hidden" value="rocketthemeblog" name="uri" />
+				<input type="hidden" name="loc" value="en_US" />
+				<input type="submit" name="Submit" class="readon" value="Join" />
+			</form>
+		</div>
+	</div>
 </div>
 ~~~
 

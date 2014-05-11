@@ -10,7 +10,7 @@ Introduction
 
 The **Portfolio** example page demonstrates how you can create a clean, functional portfolio with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Page Display Options
+Menu Item Options
 -----
 
 ![][portfoliopage2]
@@ -28,55 +28,42 @@ The page's content body is set in the **Portfolio** article. You will find the c
 
 ~~~ .html
 <h3>Our Awesome Project</h3>
-<p>Efficiently unleash cross-media information without cross-media value.
-Quickly maximize timely deliverables for real-time schemas. Dramatically
-maintain clicks-and-mortar solutions without functional solutions.</p>
+<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
 <div class="gantry-row">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img alt="image" src=
-            "images/rocketlauncher/pages/portfolio/img-17.jpg"></span>
+            <span class="rt-image">
+                <img src="images/rocketlauncher/pages/portfolio/img-17.jpg" alt="image" />
+            </span>
         </div>
     </div>
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <h3>Project Description</h3>
-            <p>Efficiently unleash cross-media information without cross-media
-            value. <span class="hidden-tablet">Quickly maximize timely
-            deliverables for real-time schemas. Dramatically maintain
-            clicks-and-mortar solutions without functional
-            solutions.</span></p>
+            <p>Efficiently unleash cross-media information without cross-media value.<span class="hidden-tablet"> Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</span></p>
             <h3>Project Details</h3>
             <div class="gantry-row">
                 <div class="gantry-width-30">
                     <div class="gantry-width-spacer">
                         <p class="smallmarginbottom">Customer:</p>
                         <p class="smallmarginbottom">Live Demo:</p>
-                        <p class="smallmarginbottom">Published <span class=
-                        "hidden-tablet">Date</span>:</p>
+                        <p class="smallmarginbottom">Published<span class="hidden-tablet"> Date</span>:</p>
                     </div>
                 </div>
                 <div class="gantry-width-70">
                     <div class="gantry-width-spacer">
                         <p class="smallmarginbottom">RocketTheme</p>
-                        <p class="smallmarginbottom">
-                        http://www.rockettheme.com</p>
+                        <p class="smallmarginbottom">http://www.rockettheme.com</p>
                         <p class="smallmarginbottom">08 March, 2014</p>
                     </div>
                 </div>
             </div>
-            <div class="clear">
-                &nbsp;
-            </div>
-            <p class="largemargintop"><a class="readon" href=
-            "http://www.rockettheme.com/joomla/templates/vermilion">Learn
-            More</a></p>
+            <div class="clear"></div>
+            <p class="largemargintop"><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Learn More</a></p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 Modules
@@ -117,6 +104,12 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Position    | top-a                                                                        |
 | Status      | Published                                                                    |
 | Access      | Public                                                                       |
+
+#### Content
+
+~~~ .html
+&nbsp;
+~~~
 
 #### Options
 
@@ -274,27 +267,36 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Will You be the Next to Join Our Happy Clients?</p>
-<p> </p>
+<br />
 <div class="gantry-row">
-<div class="gantry-width-20">
-<div class="gantry-width-spacer"><a href="http://www.rockettheme.com/joomla/templates/hadron"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-18.png" alt="image" /></a></div>
+    <div class="gantry-width-20">
+        <div class="gantry-width-spacer">
+            <a href="http://www.rockettheme.com/joomla/templates/hadron"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-18.png" alt="image" /></a>
+        </div>
+    </div>
+    <div class="gantry-width-20">
+        <div class="gantry-width-spacer">
+            <a href="http://www.rockettheme.com/joomla/templates/acacia"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-19.png" alt="image" /></a>
+        </div>
+    </div>
+    <div class="gantry-width-20">
+        <div class="gantry-width-spacer">
+            <a href="http://www.rockettheme.com/joomla/templates/corvus"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-20.png" alt="image" /></a>
+        </div>
+    </div>
+    <div class="gantry-width-20">
+        <div class="gantry-width-spacer">
+            <a href="http://www.rockettheme.com/joomla/templates/spectral"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-21.png" alt="image" /></a>
+        </div>
+    </div>
+    <div class="gantry-width-20">
+        <div class="gantry-width-spacer">
+            <a href="http://www.rockettheme.com/joomla/templates/stratos"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-22.png" alt="image" /></a>
+        </div>
+    </div>
 </div>
-<div class="gantry-width-20">
-<div class="gantry-width-spacer"><a href="http://www.rockettheme.com/joomla/templates/acacia"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-19.png" alt="image" /></a></div>
-</div>
-<div class="gantry-width-20">
-<div class="gantry-width-spacer"><a href="http://www.rockettheme.com/joomla/templates/corvus"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-20.png" alt="image" /></a></div>
-</div>
-<div class="gantry-width-20">
-<div class="gantry-width-spacer"><a href="http://www.rockettheme.com/joomla/templates/spectral"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-21.png" alt="image" /></a></div>
-</div>
-<div class="gantry-width-20">
-<div class="gantry-width-spacer"><a href="http://www.rockettheme.com/joomla/templates/stratos"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-22.png" alt="image" /></a></div>
-</div>
-</div>
-<div class="clear"> </div>
-<p><br /><br /></p>
-<p><a class="readon" href="http://www.rockettheme.com/joomla/templates/vermilion">Join Now</a></p>
+<div class="clear"></div><br /><br />
+<p><a href="http://www.rockettheme.com/joomla/templates/vermilion" class="readon">Join Now</a></p>
 ~~~
 
 #### Options
@@ -363,10 +365,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
 <div class="gantry-width-40">
-<div class="gantry-width-spacer"><img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" /></div>
+	<div class="gantry-width-spacer">
+		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+	</div>	
 </div>
 <div class="gantry-width-60">
-<div class="gantry-width-spacer"><span class="rt-intro-text">+1(123)456-5555-555</span><br /> Vermilion Theme, LLC<br /> 123 Joomla! Boulevard<br /> Seattle, WA 00000, USA<br /> <a href="#">noreply@domain.com</a></div>
+	<div class="gantry-width-spacer">
+		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+		<span>Vermilion Theme, LLC</span><br />
+		<span>123 Joomla! Boulevard</span><br />
+		<span>Seattle, WA 00000, USA</span><br />
+		<span><a href="#">noreply@domain.com</a></span>
+	</div>
 </div>
 ~~~
 
