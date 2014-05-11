@@ -38,13 +38,13 @@ You can find out more information on creating a [FeedBurner Email Subscription h
 
 ### Language 
 
-We have also added a number of language constants to display the text for the Coming Soon page. For example, in the same **rt_Lexicon/comingsoon.php** file you should see language constants such as: 
+We have also added a number of language constants to display the text for the Coming Soon page. For example, in the same **rt_lexicon/comingsoon.php** file you should see language constants such as: 
 
 ~~~ .html
 'RT_COMINGSOON_TITLE', 'RT_SUBSCRIBE'
 ~~~
 
-These constants are defined in **rt_Lexicon/language/en-GB/en-GB.tpl_rt_Lexicon.ini**. For example, you should see: 
+These constants are defined in **rt_lexicon/language/en-GB/en-GB.tpl_rt_lexicon.ini**. For example, you should see: 
 
 ~~~ .html
 RT_COMINGSOON_TITLE="Our Website is Coming Soon"

@@ -34,51 +34,46 @@ Enter the following in the **Custom Output** text editor.
 <div class="gantry-row">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <a href="https://www.facebook.com/RocketTheme">Facebook</a>
+            <a href="https://www.facebook.com/RocketTheme"><span class="icon-facebook-sign"></span> <span>Facebook</span></a>
         </div>
     </div>
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <a href="https://twitter.com/rockettheme">Twitter</a>
+            <a href="https://twitter.com/rockettheme"><span class="icon-twitter-sign"></span> <span>Twitter</span></a>
         </div>
     </div>
 </div>
-<div class="clear medmarginbottom">
-    &nbsp;
-</div>
+
+<div class="clear medmarginbottom"></div>
+
 <div class="gantry-row">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <a href="http://www.linkedin.com/in/rockettheme">LinkedIn</a>
+            <a href="http://www.linkedin.com/in/rockettheme"><span class="icon-linkedin-sign"></span> <span>LinkedIn</span></a>
         </div>
     </div>
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <a href="http://www.pinterest.com/rockettheme/">Pinterest</a>
+            <a href="http://www.pinterest.com/rockettheme/"><span class="icon-pinterest-sign"></span> <span>Pinterest</span></a>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
-<p>&nbsp;</p>
+
+<div class="clear"></div> <br />
+
 <div class="gantry-row">
     <div class="gantry-width-100">
         <div class="gantry-width-spacer">
-            <form action="http://feedburner.google.com/fb/a/mailverify" method=
-            "post" target="popupwindow">
-                <input alt="Your Email" class="inputbox" name="email"
-                placeholder="Your Email" type="text"> <input name="uri" type=
-                "hidden" value="rocketthemeblog"> <input name="loc" type=
-                "hidden" value="en_US"> <input class="readon" name="Submit"
-                type="submit" value="Join">
+            <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                <input type="text" placeholder="Your Email" alt="Your Email" class="inputbox" name="email">
+                <input type="hidden" value="rocketthemeblog" name="uri" />
+                <input type="hidden" name="loc" value="en_US" />
+                <input type="submit" name="Submit" class="readon" value="Join" />
             </form>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>       
 ~~~
 
 ### Basic

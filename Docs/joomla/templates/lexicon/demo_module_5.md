@@ -32,52 +32,30 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <div class="gantry-width-33">
-    <img alt="image" src=
-    "images/rocketlauncher/home/fp-content-top-02/img-01.jpg">
-
+    <img src="images/rocketlauncher/home/fp-content-top-02/img-01.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Preset Styles</h4>
-
-        <p>An assortment of six default but editable preset style
-        variations.</p>
-
+        <p>An assortment of six default but editable preset style variations.</p>
         <p><a href="#">Learn More</a></p>
     </div>
 </div>
-
 <div class="gantry-width-33">
-    <img alt="image" src=
-    "images/rocketlauncher/home/fp-content-top-02/img-02.jpg">
-
+        <img src="images/rocketlauncher/home/fp-content-top-02/img-02.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Module Classes</h4>
-
         <p>Individualize modular content from the eight stylistic suffixes.</p>
-
-        <p><a href=
-        "index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=113">
-        Learn More</a></p>
+        <p><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=113">Learn More</a></p>
     </div>
 </div>
-
 <div class="gantry-width-33">
-    <img alt="image" src=
-    "images/rocketlauncher/home/fp-content-top-02/img-03.jpg">
-
+    <img src="images/rocketlauncher/home/fp-content-top-02/img-03.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4 class="medpaddingtop">Typography</h4>
-
         <p>Extensive typographical options to diversify your content.</p>
-
-        <p><a href=
-        "index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=114">
-        Learn More</a></p>
+        <p><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=114">Learn More</a></p>
     </div>
 </div>
-
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 ### Basic

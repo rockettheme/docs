@@ -34,47 +34,30 @@ Enter the following in the **Custom Output** text editor.
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <div class="rt-icon-badge rt-text-accent2">
-                &nbsp;
-            </div>
+            <div class="rt-icon-badge rt-text-accent2"><span class="fa fa-desktop"></span></div>
             <h5 class="medpaddingtop rt-text-accent2">Responsive Layout</h5>
-            <p>A responsive layout automatically adapts to the viewing device,
-            allowing for an optimized appearance on multiple devices, such as
-            tablets.</p><a class="readon4" href=
-            "index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111">Read
-            More</a>
+            <p>A responsive layout automatically adapts to the viewing device, allowing for an optimized appearance on multiple devices, such as tablets.</p>
+            <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" class="readon4">Read More</a>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <div class="rt-icon-badge rt-text-accent3">
-                &nbsp;
-            </div>
+            <div class="rt-icon-badge rt-text-accent3"><span class="fa fa-th"></span></div>
             <h5 class="medpaddingtop rt-text-accent3">Editable Structure</h5>
-            <p>The template manager offers configuration options to
-            individually control each module position row, per page, allowing
-            for custom widths.</p><a class="readon3" href=
-            "index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111">Read
-            More</a>
+            <p>The template manager offers configuration options to individually control each module position row, per page, allowing for custom widths.</p>
+            <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" class="readon3">Read More</a>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <div class="rt-icon-badge rt-text-accent2">
-                &nbsp;
-            </div>
+            <div class="rt-icon-badge rt-text-accent2"><span class="fa fa-mobile-phone"></span></div>
             <h5 class="medpaddingtop rt-text-accent2">Mobile Support</h5>
-            <p>Vermilion has responsive styling for smartphones, but also
-            benefits from a mobile specific menu to better match the touch
-            based user interface.</p><a class="readon4" href=
-            "index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111">Read
-            More</a>
+            <p>Vermilion has responsive styling for smartphones, but also benefits from a mobile specific menu to better match the touch based user interface.</p>
+            <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" class="readon4">Read More</a>
         </div>
-    </div>
+    </div>  
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 ### Basic

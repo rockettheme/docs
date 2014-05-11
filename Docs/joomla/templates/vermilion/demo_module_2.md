@@ -32,7 +32,7 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <h2 class="title"><a href="#">Animate &amp; Innovate</a></h2>
-<p>Vermilion is bursting with animation extras to add <span class="hidden-tablet">character and </span>depth<span class="visible-large"> to your site</span>.</p>
+<p><span>Vermilion is bursting with animation extras to add <span class="hidden-tablet">character and </span>depth<span class="visible-large"> to your site</span></span>.</p>
 ~~~
 
 ### Basic

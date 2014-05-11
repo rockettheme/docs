@@ -34,33 +34,30 @@ Enter the following in the **Custom Output** text editor.
 <div class="gantry-row">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <p class="nomarginbottom">&nbsp;</p><span class=
-            "rt-circle-number">1</span>
+            <p class="nomarginbottom"><span class="icon-calendar rt-icon-large"></span></p>
+            <span class="rt-circle-number">1</span>
             <h4>Dropdown Menu</h4>
             <p>An advanced CSS based multi-level dropdown system.</p>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <p class="nomarginbottom">&nbsp;</p><span class=
-            "rt-circle-number">2</span>
+            <p class="nomarginbottom"><span class="icon-briefcase rt-icon-large"></span></p>
+            <span class="rt-circle-number">2</span>
             <h4>SplitMenu</h4>
             <p>A static menu with child menu items placed in the sidebar.</p>
         </div>
     </div>
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
-            <p class="nomarginbottom">&nbsp;</p><span class=
-            "rt-circle-number">3</span>
+            <p class="nomarginbottom"><span class="icon-plane rt-icon-large"></span></p>
+            <span class="rt-circle-number">3</span>
             <h4>Mobile Menus</h4>
-            <p>Options for a selectbox or side tree panel menu <span class=
-            "hidden-tablet">for mobile</span>.</p>
+            <p>Options for a selectbox or side tree panel menu<span class="hidden-tablet"> for mobile</span>.</p>
         </div>
     </div>
 </div>
-<div class="clear">
-    &nbsp;
-</div>
+<div class="clear"></div>
 ~~~
 
 ### Basic
