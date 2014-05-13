@@ -1,8 +1,8 @@
 ---
-title: Hexeris
-description: Your Guide to Using the Hexeris Theme for Magento
+title: Paradigm
+description: Your Guide to Using the Paradigm Theme for Magento
 tags: [Theme, RokMage, Requirements, Setup]
-breadcrumb: /magento:Magento/!themes:Themes/!hexeris:Hexeris
+breadcrumb: /magento:Magento/!themes:Themes/!paradigm:Paradigm
 
 ---
 
@@ -11,13 +11,12 @@ Introduction
 
 ![][theme]
 
-Hexeris is a beautifully versatile theme with rich stylistic elements to invigorate your site content. The design is separated into distinct and diverse visual sections, with subtle, blurred or patterned background to complement content, without sacrificing graphical appeal.
-
-The theme boasts 8 style variations, with our 12 RokMage extensions seamlessly integrated with the design.
+Paradigm is a rich infusion of elegant, transparent visuals with a contemporary design frame, to create a subtle but invigorating site experience. The dynamically changing, transparent to opaque, fixed header, adds visual depth without compromising on functionality.
 
 Features
 -----
 
+* 8 Preset Color Variations
 * MageMenus extension
 * ModalHeader extension
 * HomepageGrid extension
@@ -30,14 +29,15 @@ Features
 * FooterBlock extension
 * ProductVideo extension
 * FeaturedProducts extension
+* Recently Viewed Footer Thumblist
 * Smooth jQuery menu and other animations
-* FF4+, Opera 9.6, Safari 3, IE8, 9 Compatible
-* W3C XHTML 1.0 Strict. W3C CSS Valid
 
 Responsive Theme
 -----
 
-Hexeris is a responsive Magento theme. That means that there's no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
+![][responsive]
+
+Paradigm is a responsive Magento theme. That means that there's no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
 
 This is achieved through @media queries - which can detect the width of the browser window, and allow for different CSS accordingly. It also detects if you are viewing from a mobile device, and if so, will display a mobile optimized version of our ProductView extension, complete with a product image gallery that can be browsed with touch slide gestures.
 
@@ -46,12 +46,12 @@ There are 5 "breakpoints" for the template, each one optimized to display your p
 RokMage Extensions
 -----
 
-Hexeris utilizes 12 of our custom RokMage Magento extensions, which come fully integrated with the template. Completely configurable from the admin panel, via System -> Configuration -> RT RokMage Modules, these extensions allow you to easily arrange your store exactly how you wish - adding a vast amount of extra options not otherwise available - and giving you unprecedented control over the design of your store.
+Paradigm utilizes 12 of our custom RokMage Magento extensions, which come fully integrated with the template. Completely configurable from the admin panel, via System -> Configuration -> RT RokMage Modules, these extensions allow you to easily arrange your store exactly how you wish - adding a vast amount of extra options not otherwise available - and giving you unprecedented control over the design of your store.
 
 How to Install the Theme
 -----
 
-Installing the Hexeris theme is quick and easy to do. There are numerous ways to do it, but we will outline the most common method(s) in this tutorial. We will start with the process you will likely want to go through if you are installing Hexeris on an existing Magento install.
+Installing the Paradigm theme is quick and easy to do. There are numerous ways to do it, but we will outline the most common method(s) in this tutorial. We will start with the process you will likely want to go through if you are installing Paradigm on an existing Magento install.
 
 If you are setting up a new site/store and wish to have sample data (such as that present in our demo) you should consider downloading the RocketLauncher, instead. Details for that process can be found below.
 
@@ -63,13 +63,13 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Hexeris Theme** (**rt_hexeris_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Paradigm Theme** (**rt_paradigm_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Hexeris Source PNG(s)** (**rt_hexeris_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Paradigm Source PNG(s)** (**rt_paradigm_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
-All of these files can be found on the [Downloads page][download] associated with the Hexeris theme.
+All of these files can be found on the [Downloads page][download] associated with the Paradigm theme.
 
 ### Step 2: Set up RokMage Extension Settings
 
@@ -85,13 +85,13 @@ You can download the extension settings installer file from the template [downlo
 
 ### Step 3: Upload the Theme
 
-* Extract **rt_hexeris_m.zip**
+* Extract **rt_paradigm_m.zip**
 * Open your FTP client ([FileZilla][filezilla] is a popular choice)
 * Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
 * Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
 * Go to **System -> Configuration**
 * Click the **Design** tab on the left
-* Under the **Package** heading, add `Hexeris` as the **Current Package Name**
+* Under the **Package** heading, add `Paradigm` as the **Current Package Name**
 * Under the **Themes** heading, add the word `default` as the **Layout**
 * Add `style1` (or which ever preset you prefer) as the **Skin** (Images / CSS), and save
 
@@ -104,19 +104,19 @@ If you are creating a fresh install and would like sample data included, you can
 
 ### Step 1: Unpack and Upload the RocketLauncher
 
-* Download the Hexeris RocketLauncher Package (**rt_hexeris_m-rocketlauncher.zip**) from the [Hexeris template downloads section][download].
-* Unzip the package on your computer to reveal the **rt_hexeris_m-rocketlauncher** folder.
+* Download the Paradigm RocketLauncher Package (**rt_paradigm_m-rocketlauncher.zip**) from the [Paradigm template downloads section][download].
+* Unzip the package on your computer to reveal the **rt_paradigm_m-rocketlauncher** folder.
 * Upload this to your server using a FTP client.
 
 >> NOTE: on some servers, you can upload the zip and extract the package directly onto your server using cPanel or SSH access. For more details on this, please contact your hosting provider.
 
 ### Step 2: Complete the Installation Process
 
-* Direct your browser to the installation (**for example, www.(your site).com/rt_hexeris_m-rocketlauncher**) URL.
+* Direct your browser to the installation (**for example, www.(your site).com/rt_paradigm_m-rocketlauncher**) URL.
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
-[theme]: assets/hexeris.jpg
-[responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento/themes/hexeris/modal/downloads
+[theme]: assets/paradigm.jpg
+[responsive]: assets/responsive.jpg
+[download]: http://www.rockettheme.com/magento/themes/paradigm/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php

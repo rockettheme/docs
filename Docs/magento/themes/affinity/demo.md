@@ -212,17 +212,17 @@ Replace the default zoom with a jQuery version, add improved thumbnails, and sho
  
 #### PRODUCT INFO SETTINGS
 
-| Option                     | Setting                |  
-| :------------------------- | :--------------------- |  
-| Enable Tabbed Product Info | Yes                    |  
-| Quick Info Attribute       | Short Description      |  
-| Quick Info Content         | `{{value}}`            |  
-| Tab #1 Attribute           | Description            |  
-| Tab #1 Content             | `{{value}}`            |  
-| Tab #2 Attribute           | Additional Information |  
-| Tab #2 Content             | `{{value}}`            |  
-| Show Product Reviews       | Yes                    |  
-| Upsell Columns             | 2                      |  
+| Option                     | Setting                |
+| :------------------------- | :--------------------- |
+| Enable Tabbed Product Info | Yes                    |
+| Quick Info Attribute       | Short Description      |
+| Quick Info Content         | `{{value}}`            |
+| Tab #1 Attribute           | Description            |
+| Tab #1 Content             | `{{value}}`            |
+| Tab #2 Attribute           | Additional Information |
+| Tab #2 Content             | `{{value}}`            |
+| Show Product Reviews       | Yes                    |
+| Upsell Columns             | 2                      |
  
 #### PRODUCT IMAGE SETTINGS
 
