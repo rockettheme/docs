@@ -6,6 +6,8 @@ breadcrumb: /magento:Magento/!themes:Themes/paradigm:Paradigm
 
 ---
 
+%%NOTWIG%%
+
 Introduction
 -----
 

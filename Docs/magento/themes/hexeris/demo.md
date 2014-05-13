@@ -6,8 +6,6 @@ breadcrumb: /magento:Magento/!themes:Themes/hexeris:Hexeris
 
 ---
 
-%%NOTWIG%%
-
 Introduction
 -----
 
