@@ -3,7 +3,6 @@ title: Paradigm: Recreate the Demo - Custom Home Page Content
 description: Your Guide to Using the Paradigm Theme for Magento
 tags: [Theme, RokMage, Requirements, Setup, Demo, Tutorial]
 breadcrumb: /magento:Magento/!themes:Themes/paradigm:Paradigm
-%%NOTWIG%%
 
 ---
 
