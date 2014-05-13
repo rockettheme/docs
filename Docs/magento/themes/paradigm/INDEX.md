@@ -117,6 +117,6 @@ If you are creating a fresh install and would like sample data included, you can
 * Complete your installation.
 
 [theme]: assets/paradigm.jpg
-[responsive]: assets/MainResponsive.jpg
+[responsive]: assets/responsive.jpg
 [download]: http://www.rockettheme.com/magento/themes/paradigm/modal/downloads
 [filezilla]: https://filezilla-project.org/download.php
