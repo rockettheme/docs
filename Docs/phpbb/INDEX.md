@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Vermilion](styles/vermilion)
 	- [Lexicon](styles/lexicon)
 	- [Epsilon](styles/epsilon)
 	- [Anacron](styles/anacron)

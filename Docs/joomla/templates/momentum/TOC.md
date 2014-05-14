@@ -41,6 +41,10 @@ support: http://www.rockettheme.com/forum/joomla-template-momentum/
     * [Responsive Support Classes](../../basic/responsive_support_classes.md)
     * [K2 Styling Guide](../../basic/k2_styling_guide.md)
     * [How to Create a Template Override](../../basic/how_to_create_a_template_override.md)
+    * [How to Install a Template](../../platform/templates.md#how-to-install-a-joomla-template)
+    * [How to Update a Template](../../platform/update_template.md)
+    * [How to Install an Extension](../../platform/extensions.md#how-to-install-an-extension)
+    * [How to Update an Extension](../../platform/extensions.md#how-to-update-an-extension)
 * Useful Extension Guides
     * [RokAjaxSearch](../../extensions/rokajaxsearch/)
     * [RokBooster](../../extensions/rokbooster/)
