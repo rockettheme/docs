@@ -34,7 +34,6 @@ more:
 	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
 	- [How to Install a Joomla 2.5 RocketLauncher](platform/rocketlauncher_25.md)
     - [How to Install a Joomla 3.x RocketLauncher](platform/rocketlauncher_3x.md)
-    - [How to Update a RocketTheme Template](platform/update_template.md)
 	- [How Joomla Extensions Work](platform/extensions.md)
 	- [How Joomla Templates Work](platform/templates.md)
 	- [How Joomla's Administration Menu Works](platform/administrator.md)
@@ -122,11 +121,14 @@ more:
 
 * Basic Tutorials
 
+	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
+	- [How to Update a RocketTheme Template](platform/update_template.md)
+	- [How to Install an Extension](platform/extensions.md#how-to-install-an-extension)
+	- [How to Update an Extension](platform/extensions.md#how-to-update-an-extension)
 	- [How to Create a New Article](basic/how_to_create_an_article.md)
 	- [How to Create a Menu](basic/menu_manager.md#how-to-create-a-menu)
 	- [How to Use Menu Manager](basic/menu_manager.md#managing-your-menus)
 	- [How to Create a Menu Module](basic/menu_manager.md#creating-menu-modules)
-	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
 	- [How to Add Images](basic/adding_images.md)	
 	- [How to Add Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
 	- [How to Change the Default Logo](basic/how_to_edit_the_logo.md)

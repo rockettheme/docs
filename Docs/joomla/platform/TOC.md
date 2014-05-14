@@ -18,3 +18,4 @@ breadcrumb: /joomla:Joomla/!joomla:Joomla/
     * [How to Install an Extension](extensions.md#how-to-install-an-extension)
     * [How to Update an Extension](extensions.md#how-to-update-an-extension)
     * [How to Install a Template](templates.md#how-to-install-a-joomla-template)
+    * [How to Update a RocketTheme Template](update_template.md)
