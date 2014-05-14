@@ -45,10 +45,6 @@ support: http://www.rockettheme.com/forum/joomla-template-zephyr
     * [How to Update a Template](../../platform/update_template.md)
     * [How to Install an Extension](../../platform/extensions.md#how-to-install-an-extension)
     * [How to Update an Extension](../../platform/extensions.md#how-to-update-an-extension)
-    * [How to Install a Template](../../platform/templates.md#how-to-install-a-joomla-template)
-    * [How to Update a RocketTheme Template](../../platform/update_template.md)
-    * [How to Install an Extension](../../platform/extensions.md#how-to-install-an-extension)
-    * [How to Update an Extension](../../platform/extensions.md#how-to-update-an-extension)
 * Useful Extension Guides
     * [RokAjaxSearch](../../extensions/rokajaxsearch/)
     * [RokBooster](../../extensions/rokbooster/)
