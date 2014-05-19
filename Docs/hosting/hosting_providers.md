@@ -98,13 +98,13 @@ Rochen
 
 ![Rochen][rochen]
 
-When signing up with [Rochen®](http://www.rochenhost.com/) use promotional code: **RT** to receive **50% off** your first invoice.  You can achieve big savings when paying for a plan annually or signing up for one of Rochen’s Managed Cloud Servers (MCS).
+When signing up with [Rochen®](http://www.rochen.com/?utm_source=Documentation&utm_medium=Showcase&utm_campaign=RocketTheme) use promotional code: **RT** to receive **50% off** your first invoice.  You can achieve big savings when paying for a plan annually or signing up for one of Rochen’s Managed Cloud Servers (MCS).
 
 Rochen’s platform is fully optimized for Joomla®, WordPress® and Drupal® and backed by their 24/7 support team. Rochen owns and manages all of its own infrastructure with servers located in both the US and UK.
 
 In addition to **premium shared hosting**, Rochen offers VMWare® powered **Managed Cloud Servers (MCS)** and bare-metal **Managed Dedicated Servers (MDS)**.
 
-[Rochen](http://www.rochenhost.com/) is the web host of both [Joomla.org](http://joomla.org) and [RocketTheme.com](http://www.rockettheme.com).
+[Rochen](http://www.rochen.com/?utm_source=Documentation&utm_medium=Showcase&utm_campaign=RocketTheme) is the web host of both [Joomla.org](http://joomla.org) and [RocketTheme.com](http://www.rockettheme.com).
 
 >> Disclosure: We receive compensation from the companies whose products and/or services appear on this page. We review each company thoroughly and only accept the very best. We are independently owned and any opinions expressed here are our own.
 
