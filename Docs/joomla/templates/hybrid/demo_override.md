@@ -71,72 +71,72 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][menu]
 
-| Style   | Option                | Setting                                          |  
-| :------ | :-------------------- | :----------------------------------------------- |  
-| Default | Menu Control          | Show: On, Type: Fusion-Menu                      |  
-| Default | Select a Menu         | Main Menu                                        |  
-| Default | Position              | header-b                                         |
-| Default | Enable JavaScript     | On                                               |  
-| Default | Menu Opacity          | 1                                                |  
-| Default | Menu Effect           | Slide + Fade                                     |  
-| Default | Menu Delay            | 500                                              |  
-| Default | Menu Animation        | Circ.easeInOut                                   |  
-| Default | Menu Duration         | 300                                              |  
-| Default | Enable ID             | Off                                              |  
-| Default | Module Cache          | On                                               |  
+| Style       | Option            | Setting                     |
+| :---------- | :----------       | :----------                 |
+| Default     | Menu Control      | Show: On, Type: Fusion-Menu |
+| Default     | Select a Menu     | Main Menu                   |
+| Default     | Position          | header-b                    |
+| Default     | Enable JavaScript | On                          |
+| Default     | Menu Opacity      | 1                           |
+| Default     | Menu Effect       | Slide + Fade                |
+| Default     | Menu Delay        | 500                         |
+| Default     | Menu Animation    | Circ.easeOut                |
+| Default     | Menu Duration     | 300                         |
+| Default     | Enable ID         | Off                         |
+| Default     | Module Cache      | On                          |
 
 ### Layouts
 
 ![][layouts]
 
-| Style   | Option                     | Setting               |  
-| :------ | :------------------------- | :-------------------- |  
-| Default | Top Positions              | Positions: 2, 5:7     |  
-| Default | Header Positions           | Positions: 2, 3:9     |  
-| Default | Showcase Positions         | Positions: 1, 12      |  
-| Default | Feature Positions          | Positions: 4, 3:3:3:3 |  
-| Default | Utility Positions          | Positions: 4, 3:3:3:3 |  
-| Default | MainTop Positions          | Positions: 4, 3:3:3:3 |  
-| Default | MainBody Positions         | Positions: 2, 9:3     |  
-| Default | MainBottom Positions       | Positions: 4, 3:3:3:3 |  
-| Default | Bottom Positions           | Positions: 3, 3:3:6   |  
-| Default | LowerPanel Positions       | Positions: 1, 12      |  
-| Default | Footer Positions           | Positions: 2, 6:6     |  
+| Style       | Option               | Setting               |
+| :---------- | :----------          | :----------           |
+| Default     | Top Positions        | Positions: 2, 5:7     |
+| Default     | Header Positions     | Positions: 2, 3:9     |
+| Default     | Showcase Positions   | Positions: 1, 12      |
+| Default     | Feature Positions    | Positions: 4, 3:3:3:3 |
+| Default     | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default     | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default     | MainBody Positions   | Positions: 2, 9:3     |
+| Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default     | Bottom Positions     | Positions: 3, 3:3:6   |
+| Default     | LowerPanel Positions | Positions: 1, 12      |
+| Default     | Footer Positions     | Positions: 2, 6:6     |
 
 ### Mobile
 
 ![][mobile]
 
-| Style   | Option               | Position          | Setting                                      |  
-| :------ | :------------------- | :---------------- | :------------------------------------------- |  
-| Default | iPhone Custom Theme  |                   | On                                           |  
-| Default | Android Custom Theme |                   | On                                           |  
-| Default | Scalable Content     |                   | Off                                          |  
-| Default | Standard View Switch | mobile-copyright  | Enable: On                                   |  
-| Default | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide       |  
-| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |  
-| Default | Positions Aliases    | mobile-drawer     | drawer                                       |  
-| Default | Positions Aliases    | mobile-top        | top-a                                        |  
-| Default | Positions Aliases    | mobile-header     | header-b                                     |  
-| Default | Positions Aliases    | mobile-navigation | mobile-navigation                            |  
-| Default | Positions Aliases    | mobile-showcase   | header-a                                     |  
-| Default | Positions Aliases    | mobile-footer     | footer-a                                     |  
-| Default | Positions Aliases    | mobile-copyright  | copyright                                    |  
+| Style       | Option               | Position          | Setting                                      |
+| :---------- | :----------          | :----------       | :----------                                  |
+| Default     | iPhone Custom Theme  |                   | On                                           |
+| Default     | Android Custom Theme |                   | On                                           |
+| Default     | Scalable Content     |                   | Off                                          |
+| Default     | Standard View Switch | mobile-copyright  | Enable: On                                   |
+| Default     | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide       |
+| Default     | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |
+| Default     | Positions Aliases    | mobile-drawer     | drawer                                       |
+| Default     | Positions Aliases    | mobile-top        | top-a                                        |
+| Default     | Positions Aliases    | mobile-header     | header-b                                     |
+| Default     | Positions Aliases    | mobile-navigation | mobile-navigation                            |
+| Default     | Positions Aliases    | mobile-showcase   | header-a                                     |
+| Default     | Positions Aliases    | mobile-footer     | footer-a                                     |
+| Default     | Positions Aliases    | mobile-copyright  | copyright                                    |
 
 ### Advanced
 
 ![][advanced]
 
-| Style   | Option              | Setting                                                              |  
-| :------ | :------------------ | :------------------------------------------------------------------- |  
-| Default | Gantry Cache        | Enabled: On, Cache Timeout: 900                                      |  
-| Default | Input Styling       | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#vmMainPage'` |  
-| Default | Display Component   | On                                                                   |  
-| Default | Display Mainbody    | On                                                                   |  
-| Default | RTL Support         | On                                                                   |  
-| Default | Build Titles Spans  | Off                                                                  |  
-| Default | Page Suffix         | On                                                                   |  
-| Default | Third Party         | Off                                                                  |   
+| Style       | Option             | Setting                                                              |
+| :---------- | :----------        | :----------                                                          |
+| Default     | Gantry Cache       | Enabled: On, Cache Timeout: 900                                      |
+| Default     | Input Styling      | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#vmMainPage'` |
+| Default     | Display Component  | On                                                                   |
+| Default     | Display Mainbody   | On                                                                   |
+| Default     | RTL Support        | On                                                                   |
+| Default     | Build Titles Spans | Off                                                                  |
+| Default     | Page Suffix        | On                                                                   |
+| Default     | Third Party        | Off                                                                  |
 
 [demo25]: assets/hybrid.jpg
 [menu]: ../../start/menu.md

@@ -25,93 +25,93 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][styles]
 
-| Style   | Option               | Position | Setting                                  |
-| :------ | :---------------     | :------- | :--------------------------------------  |
-| Default | Background Level     |          | High                                     |
-| Default | Background Style     |          | Style 2                                  |
-| Default | Body Level           |          | High                                     |
-| Default | CSS Style            |          | Style 2                                  |
-| Default | Link Color           |          | `#701110`                                |
-| Default | Article Style        |          | Default                                  |
-| Default | Header Graphic Image |          | On                                       |
-| Default | Font Settings        |          | Font Family: Georgia, Font Size: Default |
+| Style   | Option               | Setting                                  |
+| :------ | :---------------     | :--------------------------------------  |
+| Default | Background Level     | High                                     |
+| Default | Background Style     | Style 2                                  |
+| Default | Body Level           | High                                     |
+| Default | CSS Style            | Style 2                                  |
+| Default | Link Color           | `#701110`                                |
+| Default | Article Style        | Default                                  |
+| Default | Header Graphic Image | On                                       |
+| Default | Font Settings        | Font Family: Georgia, Font Size: Default |
 
 ### Features
 
 ![][features]
 
-| Style   | Option           | Position  | Setting                                                                    |  
-| :------ | :--------------- | :-------- | :------------------------------------------------------------------------- |  
-| Default | Logo             | header-a  | Show: On, Auto Size: On                                                    |  
-| Default | Date             | utility-b | Show: On, Client-Side Date: Off                                            |  
-| Default | Font-Sizer       | feature-b | Show: Off                                                                  |  
-| Default | Login Panel      | top-c     | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout` |  
-| Default | Branding         | copyright | Show: On                                                                   |  
-| Default | Copyright        | copyright | Show: Off, Text: `Designed by RocketTheme`                                 |  
-| Default | SmartLoad        |           | Show: Off                                                                  |  
-| Default | To-Top Scroller  | copyright | Show: Off, Text: `Scroll to Top`                                           |  
-| Default | System Messages  | drawer    | Show: On                                                                   |  
-| Default | Reset Settings   | copyright | Show: Off, Text: `Reset Settings`                                          |  
-| Default | IE6 Warning      |           | Show: On, Delay: 2000                                                      |  
-| Default | Google Analytics |           | Enable: Off                                                                |  
+| Style       | Option           | Position    | Setting                                                                             |
+| :---------- | :----------      | :---------- | :----------                                                                         |
+| Default     | Logo             | header-a    | Show: On, Auto Size: On                                                             |
+| Default     | Date             | utility-b   | Show: On, Client-Side Date: Off                                                     |
+| Default     | Font-Sizer       | top-d       | Show: Off                                                                           |
+| Default     | Login Panel      | top-c       | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`          |
+| Default     | Branding         | copyright   | Show: On                                                                            |
+| Default     | Copyright        | copyright   | Show: Off, Text: `Designed by RocketTheme`                                          |
+| Default     | SmartLoad        |             | Show: Off, Component Ignores: `com_contact`, XPath Ignores: `ul.menutop span.image` |
+| Default     | To-Top Scroller  | copyright   | Show: Off, Text: `Scroll to Top`                                                    |
+| Default     | System Messages  | drawer      | Show: On                                                                            |
+| Default     | Reset Settings   | copyright   | Show: Off, Text: `Reset Settings`                                                   |
+| Default     | IE6 Warning      |             | Show: On, Delay: 2000                                                               |
+| Default     | Google Analytics |             | Enable: Off                                                                         |
 
 
 ### Menu
 
 ![][menu]
 
-| Style   | Option                | Setting                                          |
-| :------ | :-------------------- | :----------------------------------------------- |
-| Default | Menu Control          | Show: On, Type: Fusion-Menu                      |
-| Default | Select a Menu         | Main Menu                                        |
-| Default | Position              | navigation                                       |
-| Default | Enable JavaScript     | On                                               |
-| Default | Menu Opacity          | 1                                                |
-| Default | Menu Effect           | Slide + Fade                                     |
-| Default | Menu Delay            | 500                                              |
-| Default | Menu Animation        | Circ.easeInOut                                   |
-| Default | Menu Duration         | 300                                              |
-| Default | Pill                  | Enable: Off                                      |
-| Default | Enable ID             | Off                                              |
-| Default | Module Cache          | On                                               |
+| Style       | Option            | Setting                     |
+| :---------- | :----------       | :----------                 |
+| Default     | Menu Control      | Show: On, Type: Fusion-Menu |
+| Default     | Select a Menu     | Main Menu                   |
+| Default     | Position          | navigation                  |
+| Default     | Enable JavaScript | On                          |
+| Default     | Menu Opacity      | 1                           |
+| Default     | Menu Effect       | Slide + Fade                |
+| Default     | Menu Delay        | 500                         |
+| Default     | Menu Animation    | Circ.easeOut                |
+| Default     | Menu Duration     | 300                         |
+| Default     | Pill              | Enable: Off                 |
+| Default     | Enable ID         | Off                         |
+| Default     | Module Cache      | On                          |
 
 ### Layouts
 
 ![][layouts]
 
-| Style   | Option                     | Setting               |
-| :------ | :------------------------- | :-------------------- |
-| Default | Top Positions              | Positions: 2, 5:7     |
-| Default | Header Positions           | Positions: 1, 12      |
-| Default | Showcase Positions         | Positions: 3, 4:4:4   |
-| Default | Feature Positions          | Positions: 4, 3:3:3:3 |
-| Default | Utility Positions          | Positions: 4, 3:3:3:3 |
-| Default | MainTop Positions          | Positions: 3, 4:4:4   |
-| Default | MainBody Positions         | Positions: 2, 8:4     |
-| Default | MainBottom Positions       | Positions: 2, 4:8     |
-| Default | Bottom Positions           | Positions: 2, 6:6     |
-| Default | Footer Positions           | Positions: 3, 4:4:4   |
+| Style       | Option               | Setting               |
+| :---------- | :----------          | :----------           |
+| Default     | Top Positions        | Positions: 2, 5:7     |
+| Default     | Header Positions     | Positions: 1, 12      |
+| Default     | Showcase Positions   | Positions: 3, 4:4:4   |
+| Default     | Feature Positions    | Positions: 4, 3:3:3:3 |
+| Default     | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default     | MainTop Positions    | Positions: 3, 4:4:4   |
+| Default     | MainBody Positions   | Positions: 2, 8:4     |
+| Default     | MainBottom Positions | Positions: 2, 4:8     |
+| Default     | Bottom Positions     | Positions: 2, 6:6     |
+| Default     | Footer Positions     | Positions: 3, 4:4:4   |
 
 ### Mobile
 
 ![][mobile]
 
-| Style   | Option               | Position          | Setting                                                    |  
-| :------ | :------------------- | :---------------- | :--------------------------------------------------------- |  
-| Default | iPhone Custom Theme  |                   | On                                                         |  
-| Default | Android Custom Theme |                   | On                                                         |  
-| Default | Scalable Content     |                   | Off                                                        |  
-| Default | Standard View Switch | mobile-copyright  | Enable: On, Position: mobile-copyright                     |  
-| Default | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide                     |  
-| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25%               |  
-| Default | Showcase Background  |                   | From: #ededed, To: #fff, Start: left top, End: left bottom |  
-| Default | Positions Aliases    | mobile-drawer     | drawer                                                     |  
-| Default | Positions Aliases    | mobile-top        | top-a                                                      |  
-| Default | Positions Aliases    | mobile-header     | header-b                                                   |  
-| Default | Positions Aliases    | mobile-navigation | mobile-navigation                                          |  
-| Default | Positions Aliases    | mobile-showcase   | header-a                                                   |  
-| Default | Positions Aliases    | mobile-footer     | footer-a                                                   |  
-| Default | Positions Aliases    | mobile-copyright  | copyright                                                  |  
+| Style       | Option               | Position          | Setting                                                    |
+| :---------- | :----------          | :----------       | :----------                                                |
+| Default     | iPhone Custom Theme  |                   | On                                                         |
+| Default     | Android Custom Theme |                   | On                                                         |
+| Default     | Scalable Content     |                   | Off                                                        |
+| Default     | Standard View Switch | mobile-copyright  | Enable: On, Position: mobile-copyright                     |
+| Default     | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide                     |
+| Default     | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25%               |
+| Default     | Showcase Background  |                   | From: #ededed, To: #fff, Start: left top, End: left bottom |
+| Default     | Positions Aliases    | mobile-drawer     | drawer                                                     |
+| Default     | Positions Aliases    | mobile-top        | top-a                                                      |
+| Default     | Positions Aliases    | mobile-header     | header-b                                                   |
+| Default     | Positions Aliases    | mobile-navigation | mobile-navigation                                          |
+| Default     | Positions Aliases    | mobile-showcase   | header-a                                                   |
+| Default     | Positions Aliases    | mobile-footer     | footer-a                                                   |
+| Default     | Positions Aliases    | mobile-copyright  | copyright                                                  |
 
 ### Advanced
 

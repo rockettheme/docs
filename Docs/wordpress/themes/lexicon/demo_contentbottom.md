@@ -46,6 +46,7 @@ You can set the RokSprocket filters to include any category, specific posts, or 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
 * Select your RokSprocket Headlines widget in the **Choose Widget** field.
+* Set the **Widget Variations** to **Box 4**.
 * Enter `fp-roksprocket-headlines` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 

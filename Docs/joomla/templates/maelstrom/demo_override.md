@@ -60,19 +60,19 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Menu
 
-| Style   | Option                | Setting                                          |  
-| :------ | :-------------------- | :----------------------------------------------- |  
-| Default | Menu Control          | Show: On, Centering: Off, Type: Fusion-Menu      |  
-| Default | Select a Menu         | Main Menu                                        |  
+| Style   | Option                | Setting                                          |
+| :------ | :-------------------- | :----------------------------------------------- |
+| Default | Menu Control          | Show: On, Centering: Off, Type: Fusion-Menu      |
+| Default | Select a Menu         | Main Menu                                        |
 | Default | Position              | navigation                                       |
-| Default | Enable JavaScript     | On                                               |  
-| Default | Menu Opacity          | 1                                                |  
-| Default | Menu Effect           | Slide + Fade                                     |  
-| Default | Menu Delay            | 500                                              |  
-| Default | Menu Animation        | Circ.easeInOut                                   |  
-| Default | Menu Duration         | 300                                              |  
-| Default | Enable ID             | Off                                              |  
-| Default | Module Cache          | On                                               |  
+| Default | Enable JavaScript     | On                                               |
+| Default | Menu Opacity          | 1                                                |
+| Default | Menu Effect           | Slide + Fade                                     |
+| Default | Menu Delay            | 500                                              |
+| Default | Menu Animation        | Circ.easeOut                                     |
+| Default | Menu Duration         | 300                                              |
+| Default | Enable ID             | Off                                              |
+| Default | Module Cache          | On                                               |
 
 ### Layouts
 

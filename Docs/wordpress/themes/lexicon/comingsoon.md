@@ -30,23 +30,27 @@ You can set the countdown timer by navigating to **Admin -> Lexicon Theme -> Giz
 
 ### Text
 
-There is a block of text under the countdown timer in our default page. This block of text is located on **line 111**:
+There is a block of text under the countdown timer in our default page. This block of text is located on **line 116**:
 
 ~~~ .html
-<p class="rt-comingsoon-additional-message">Lexicon supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match the theme. This feature can be enabled in Admin Dashboard → Lexicon Theme → Gizmos → Coming Soon Page. You can customize this page by editing the comingsoon.php file inside the theme folder. Please visit <a href="http://www.rockettheme.com/">Lexicon tutorials</a> for more information.</p>
+<p class="rt-comingsoon-message">
+                            <?php _re( 'Lexicon supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match the theme. This feature can be enabled in Admin Dashboard &rarr; Lexicon Theme &rarr; Gizmos &rarr; Coming Soon Page. Please visit <a href="http://www.rockettheme.com/">Lexicon tutorials</a> for more information.' ); ?>
+                        </p>
 ~~~
 
 Just replace the text between the `<p>` tags with the information you wish to have displayed here. You can remove this line to have no text appear in this area at all.
 
 ### Newsletter Subscription 
 
-The subscription field and button are a standard form found between **lines 126 and 131**.
+The subscription field and button are a standard form found between **lines 132 and 137**.
 
 ~~~ .html
-					<form class="rt-comingsoon-form" action="#">
-						<input type="text" onblur="if(this.value=='') { this.value='Email Address'; return false; }" onfocus="if (this.value=='Email Address') this.value=''" value="Email Address" size="18" alt="Email Address" class="inputbox" name="email">
-						<a href="#" class="readon">Subscribe <span class="icon-signin"></span></a>
-					</form>
+                        <form class="rt-comingsoon-form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=<?php echo $gantry->get('feedburner-uri'); ?>', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                            <input type="text" placeholder="<?php _re( 'Email Address' ); ?>" class="inputbox" name="email">
+                            <input type="hidden" value="<?php echo $gantry->get('feedburner-uri'); ?>" name="uri"/>
+                            <input type="hidden" name="loc" value="en_US"/>
+                            <input type="submit" name="Submit" class="button" value="<?php _re( 'Subscribe' ); ?>" />
+                        </form>
 ~~~
 
 [comingsoon]: assets/comingsoon.jpeg

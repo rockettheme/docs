@@ -75,7 +75,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Menu Opacity          | 1                                                |
 | Default | Menu Effect           | Slide + Fade                                     |
 | Default | Menu Delay            | 500                                              |
-| Default | Menu Animation        | Circ.easeInOut                                   |
+| Default | Menu Animation        | Circ.easeOut                                     |
 | Default | Menu Duration         | 300                                              |
 | Default | Pill                  | Enable: Off                                      |
 | Default | Enable ID             | Off                                              |

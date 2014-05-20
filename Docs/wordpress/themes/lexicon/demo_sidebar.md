@@ -36,6 +36,7 @@ This section of the page is a standard text widget. You will need to enter the f
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Inside Lexicon`.
+* Set the **Widget Variations** to **Box 1, Title 1**.
 * Enter `fp-sidebar-01` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
@@ -76,6 +77,7 @@ This section of the page is a standard text widget. You will need to enter the f
 Here is a breakdown of options changes you will want to make to match the demo.
 
 * Set the **Title** to `Browser Survey`.
+* Set the **Widget Variations** to **Box 2, Title 2**.
 * Enter `fp-sidebar-02` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 

@@ -30,7 +30,6 @@ support: http://www.rockettheme.com/forum/joomla-template-juxta
             * [Demonstrative Site](demo_module_6.md)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
-    * [Sliding Panel](demo_module_1.md#sliding-panel)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
     * [Editing Template Text](../../basic/how_to_edit_template_text.md)
