@@ -84,6 +84,8 @@ Here is the code block that creates the graph that appears in the above image.
 
 You can find extensive documentation listing the different elements found here on the [official website][chartjs].
 
+You can find an easy chart configuration tool here http://bitconfig.com/chart/bitconfig_polar_area_chart.html
+
 [chartjs]: http://chartjs.org
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
 [chart_1]: assets/chart_1.jpeg
