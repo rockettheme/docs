@@ -17,8 +17,6 @@ Here is the widget breakdown for the Utility section:
 
 ![][demo]
 
-The Text widget in the section requires RokCandy to display the title properly. The `[span]` tags are used to add the `hidden-phone` CSS override to the title so the word `Popular` is hidden on smaller screens.
-
 The following should be entered in the main text field.
 
 ~~~
@@ -42,7 +40,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 The lower widget is a Mosaic widget used to display the various features featured in the Chapelco theme.
 
-First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget. 
+First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Mosaic** widget.
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket/).
 

@@ -88,7 +88,7 @@ more:
 	- [Syndicate](templates/syndicate)
 	- [Omnicron](templates/omnicron)
 	- [Zephyr](templates/zephyr)
-	- [Juxta (Coming Soon)](templates/juxta)
+	- [Juxta](templates/juxta)
 	- [Quantive (Coming Soon)](templates/quantive)
 	- [Cystalline (Coming Soon)](templates/crystalline)
 	- [Kinetic (Coming Soon)](templates/kinetic)

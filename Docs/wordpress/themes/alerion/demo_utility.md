@@ -45,8 +45,6 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 ### Text
 
-The Text widget in the section requires RokCandy to display the title properly. The `[span]` tags are used to add the `hidden-tablet` CSS override to the title so the word `Detail` is hidden on smaller screens.
-
 The following should be entered in the main text field.
 
 ~~~
