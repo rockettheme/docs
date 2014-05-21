@@ -10,7 +10,7 @@ Introduction
 
 ![][Lexicon]
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Lexicon can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+Recreating features of the demo site used to show off some of the more interesting aspects of Lexicon can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Lexicon theme.
 
@@ -37,7 +37,7 @@ The front page of the Lexicon demo sits apart from the rest of the page layouts 
 Theme Settings
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Lexicon Theme** and selecting the **+** icon located just above the **Style** settings tab. 
+The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Lexicon Theme** and selecting the **+** icon located just above the **Style** settings tab.
 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
@@ -54,19 +54,19 @@ Widget Settings
 
 ![][theme]
 
-:   1. **Header - Gantry Logo** [6%, 17%, se]
-    2. **Header - Gantry Menu** [6%, 33%, se]
-    3. **Showcase - RokSprocket (Tabs)**  [9%, 17%, se]
-    4. **Sidebar - Text** [20%, 15%, se]
-    5. **Sidebar - Text**  [22%, 76%, sw]
-    6. **Content Top - Text**  [37%, 22%, se]
-    7. **Content Top - Text**  [52%, 22%, se]
-    8. **Content Top - RokSprocket**  [57%, 40%, se]
-    9. **Content Bottom - RokSprocket (Headlines)**  [60%, 22%, se]
-    10. **Content Bottom - Text**  [74%, 22%, se]
-    11. **Footer - Text**  [88%, 22%, se]
-    12. **Footer - Text**  [88%, 42%, se]
-    13. **Footer - Text**  [88%, 62%, se]
+:   1. **Header - Gantry Logo** [7%, 17%, se]
+    2. **Header - Gantry Menu** [7%, 34%, se]
+    3. **Showcase - RokSprocket (Tabs)**  [10%, 17%, se]
+    4. **Sidebar - Text** [27%, 17%, se]
+    5. **Sidebar - Text**  [40%, 17%, se]
+    6. **Content Top - Text**  [27%, 34%, se]
+    7. **Content Top - Text**  [41%, 34%, se]
+    8. **Content Top - RokSprocket**  [53%, 34%, se]
+    9. **Content Bottom - RokSprocket (Headlines)**  [69%, 34%, se]
+    10. **Content Bottom - Text**  [72%, 34%, se]
+    11. **Footer - Text**  [84%, 17%, se]
+    12. **Footer - Text**  [84%, 40%, se]
+    13. **Footer - Text**  [84%, 63%, se]
 
 Like any Gantry theme, Lexicon utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
