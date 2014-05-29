@@ -98,11 +98,11 @@ The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers adva
 
 11. **Child Item Type** Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself.
 
-12. **Dropdown on Large** Enables you to determine the direction a dropdown menu section drops on a large screen.
+12. **Dropdown on Large** Enables you to determine the direction a dropdown child menu section drops to on a large screen.
 
-13. **Dropdown on Desktop** Enables you to determine the direction a dropdown menu section drops on a desktop screen.
+13. **Dropdown on Desktop** Enables you to determine the direction a dropdown child menu section drops to on a desktop screen.
 
-14. **Dropdown on Tablet** Enables you to determine the direction a dropdown menu section drops on a tablet-sized browser window.
+14. **Dropdown on Tablet** Enables you to determine the direction a dropdown child menu section drops to on a tablet-sized browser window.
 
 ### Splitmenu Options
 
