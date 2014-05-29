@@ -41,7 +41,7 @@ more:
 <!-- -->
 
 * Club Templates
-	
+
 	- [Vermilion](templates/vermilion)
 	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
@@ -89,7 +89,7 @@ more:
 	- [Omnicron](templates/omnicron)
 	- [Zephyr](templates/zephyr)
 	- [Juxta](templates/juxta)
-	- [Quantive (Coming Soon)](templates/quantive)
+	- [Quantive](templates/quantive)
 	- [Cystalline (Coming Soon)](templates/crystalline)
 	- [Kinetic (Coming Soon)](templates/kinetic)
 	- [Dominion (Coming Soon)](templates/dominion)
@@ -129,7 +129,7 @@ more:
 	- [How to Create a Menu](basic/menu_manager.md#how-to-create-a-menu)
 	- [How to Use Menu Manager](basic/menu_manager.md#managing-your-menus)
 	- [How to Create a Menu Module](basic/menu_manager.md#creating-menu-modules)
-	- [How to Add Images](basic/adding_images.md)	
+	- [How to Add Images](basic/adding_images.md)
 	- [How to Add Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
 	- [How to Change the Default Logo](basic/how_to_edit_the_logo.md)
 	- [How to Edit Template Text](basic/how_to_edit_template_text.md)

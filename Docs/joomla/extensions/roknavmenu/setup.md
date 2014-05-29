@@ -61,36 +61,48 @@ The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers adva
 
 ![][menu1]
 
-:	1. **Subtext Line** You can post a second line here. [13%, 47%, se]
-	2. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin`. [19%, 47%, se]
-	3. **Custom CSS Class** This field allows you to add a custom CSS class to the menu item. [25%, 47%, se]
-	4. **Columns of Child Items** This setting gives you the ability to choose to have one or more columns for child items. [31%, 47%, se]
-	5. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,2,2. If these were done **In Order**, it would be 3,3,1. [38%, 47%, se]
-	6. **Manual Item Distribution** This is the comma-separated count of rows in each column. Example: 3,2,2. [49%, 47%, se]
-	7. **Drop-Down Width** This is the width of any dropdown column (in pixels). [55%, 47%, se]
-	8. **Column Widths** For multiple columns, this is the width (in pixels) of each column. Example: 100,150,300. [61%, 47%, se]
-	9. **Group Child Items** You can select whether or not to group children under the menu item rather than as a submenu. [68%, 47%, se]
-	10. **Child Item Type** Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself. [80%, 47%, se]
+:	1. **Subtext Line** You can post a second line here. [7%, 47%, se]
+	2. **Menu Image** The image that appears in association with the menu. [12%, 47%, se]
+	3. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin`. [17%, 47%, se]
+	4. **Custom CSS Class** This field allows you to add a custom CSS class to the menu item. [21%, 47%, se]
+	5. **Columns of Child Items** This setting gives you the ability to choose to have one or more columns for child items. [26%, 47%, se]
+	6. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,2,2. If these were done **In Order**, it would be 3,3,1. [31%, 47%, se]
+	7. **Manual Item Distribution** This is the comma-separated count of rows in each column. Example: 3,2,2. [40%, 47%, se]
+	8. **Drop-Down Width** This is the width of any dropdown column (in pixels). [45%, 47%, se]
+	9. **Column Widths** For multiple columns, this is the width (in pixels) of each column. Example: 100,150,300. [49%, 47%, se]
+	10. **Group Child Items** You can select whether or not to group children under the menu item rather than as a submenu. [54%, 47%, se]
+	11. **Child Item Type** Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself. [63%, 47%, se]
+	12. **Dropdown on Large** Enables you to determine the direction a dropdown menu section drops on a large screen. [73%, 47%, se]
+	13. **Dropdown on Desktop** Enables you to determine the direction a dropdown menu section drops on a desktop screen. [80%, 47%, se]
+	14. **Dropdown on Tablet** Enables you to determine the direction a dropdown menu section drops on a tablet-sized browser window. [87%, 47%, se]
 
-1. **Subtext Line**: You can post a second line here.
+1. **Subtext Line** You can post a second line here
 
-2. **Menu Icon**: You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin` will add a [Bitcoin icon][bitcoin].
+2. **Menu Image** The image that appears in association with the menu.
 
-3. **Custom CSS Class**: This field allows you to add a custom CSS class to the menu item.
+3. **Menu Icon** You can opt to use an icon from Font Awesome to add a visual element to the menu item using this field. For example: `icon-bitcoin`.
 
-4. **Columns of Child Items**: This setting gives you the ability to choose to have one or more columns for child items.
+4. **Custom CSS Class** This field allows you to add a custom CSS class to the menu item.
 
-5. **Item Distribution**: You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,3,2. If these were done **In Order**, it would be 3,3,1.
+5. **Columns of Child Items** This setting gives you the ability to choose to have one or more columns for child items.
 
-6. **Manual Item Distribution**: This is the comma-separated count of rows in each column. Example: 3,3,2.
+6. **Item Distribution** You can choose to distribute child items **Evenly**, **In Order**, or **Manually**. As an example, seven items in three columns distributed **Evenly** is: 3,2,2. If these were done **In Order**, it would be 3,3,1.
 
-7. **Drop-Down Width**: This is the width of any dropdown column (in pixels).
+7. **Manual Item Distribution** This is the comma-separated count of rows in each column. Example: 3,2,2.
 
-8. **Column Widths**: For multiple columns, this is the width (in pixels) of each column. Example: 100,150,300.
+8. **Drop-Down Width** This is the width of any dropdown column (in pixels).
 
-9. **Group Child Items**: You can select whether or not to group children under the menu item rather than as a submenu.
+9. **Column Widths** For multiple columns, this is the width (in pixels) of each column. Example: 100,150,300.
 
-10. **Child Item Type**: Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself. This is especially useful if you would like to have a custom HTML module, or perhaps a login module embedded in the menu itself. There are a lot of different things you can do with this particular option.
+10. **Group Child Items** You can select whether or not to group children under the menu item rather than as a submenu.
+
+11. **Child Item Type** Allows you to select the type of child item. This can be **Menu Items**, **Modules**, or **Module Positions**. Modules and module positions allow you to embed modules within the menu itself.
+
+12. **Dropdown on Large** Enables you to determine the direction a dropdown menu section drops on a large screen.
+
+13. **Dropdown on Desktop** Enables you to determine the direction a dropdown menu section drops on a desktop screen.
+
+14. **Dropdown on Tablet** Enables you to determine the direction a dropdown menu section drops on a tablet-sized browser window.
 
 ### Splitmenu Options
 
@@ -117,7 +129,7 @@ We designed RokNavMenu to work with most templates, even ones that do not includ
 
 To create a new RokNavMenu module, you need to navigate to **Administrator -> Extensions -> Module Manager -> New** and select **RokNavMenu** as the module type. Here, you can configure the menu module to meet your needs.
 
-### Details 
+### Details
 
 ![][module1]
 
@@ -216,7 +228,7 @@ To create a new RokNavMenu module, you need to navigate to **Administrator -> Ex
 11. **Module Style**: Use this option to override the template's style for its position.
 
 
-[menu1]: assets/menu_1.jpeg
+[menu1]: assets/menu_1.jpg
 [menu2]: assets/menu_2.jpeg
 [menu3]: assets/menu_3.jpeg
 [module1]: assets/module_1.jpeg
