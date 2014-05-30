@@ -55,6 +55,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Social Icons Used in Home Override
 
+![][setsocial]
+
 | Social Netowkr / Link Type | Icon                | Text     |  
 | :------------------------- | :------------------ | :------- |  
 | Facebook                   | `fa-fa-facebook`    | Facebook |  
@@ -133,3 +135,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [layouts]: assets/layouts_settings.jpeg
 [menu2]: assets/menu_settings.jpeg
 [features]: assets/features_settings.jpeg
+[setsocial]: assets/setsocial.jpg
