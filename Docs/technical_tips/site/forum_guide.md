@@ -25,6 +25,36 @@ RocketTheme has a powerful site-wide search tool in place to help you find what 
 
 By selecting **Search Forum** from the forum menu, you can search for the forum thread of your choice by keyword or user name. These results can be further filtered and sorted by category, posting date range, score, title, view count, and more.
 
+### Use the Forum Menu
+
+The Forum Menu appears just below the main site menu as you are browsing the forum, and can make it easier to jump to the information you need. You can quickly navigate to recently created topics, see topics that have been posted and have not yet received a reply, and browse your posted topics.
+
+The menu also gives you direct access to forum-specific search so you can find the information you are looking for directly in the forum with ease.
+
+![Forum Menu][forummenu]
+
+:  1. **Index** This button takes you directly to the front page of the forum. [35%, 7%, se]
+  2. **Recent Topics** You can quickly find the most recently posted topics on the forum. [35%, 13%, se]
+  3. **No Replies** This tool allows you to find topics that have not yet received a reply. This is an excellent resource for anyone wanting to lend a hand to fellow community members. [35%, 25%, se]
+  4. **My Topics** This button takes you directly to topics you have created. It is a great way to follow up on your threads. [35%, 34%, se]
+  5. **Profile** You can quickly access your forum Profile to make changes here. [35%, 43%, se]
+  6. **Rules** Clicking this takes you directly to the forum rules. It's a useful quick reference guide for new users. [35%, 49%, se]
+  7. **Search Forum** This button takes you to a powerful search page that scours the forums for the information you need at lightning speed. [35%, 55%, se]
+
+1. **Index**: This button takes you directly to the front page of the forum.
+
+2. **Recent Topics**: You can quickly find the most recently posted topics on the forum.
+
+3. **No Replies**: This tool allows you to find topics that have not yet received a reply. This is an excellent resource for anyone wanting to lend a hand to fellow community members.
+
+4. **My Topics**: This button takes you directly to topics you have created. It is a great way to follow up on your threads.
+
+5. **Profile**: You can quickly access your forum Profile to make changes here.
+
+6. **Rules**: Clicking this takes you directly to the forum rules. It's a useful quick reference guide for new users.
+
+7. **Search Forum**: This button takes you to a powerful search page that scours the forums for the information you need at lightning speed.
+
 ### Ask the Right Questions
 
 It can be very difficult to determine the best answer for someone if their question is broad, and without necessary information. Your topic title should be clear and concise, and your supporting text should outline the situation you are facing in as much detail as you can provide.
@@ -39,7 +69,7 @@ RocketTheme's moderators regularly check for new questions and follow-up inquiri
 
 If you have a question or issue that is not already answered in the **Solved Threads** sub-category, you can ask a new one from the primary category by selecting the blue **New Topic** button within the category's index page.
 
-For example, if you have a question about the Joomla Anacron template, you would need to navigate to the primary **Anacron** category under **Joomla** and select **New Topic**. 
+For example, if you have a question about the Joomla Anacron template, you would need to navigate to the primary **Anacron** category under **Joomla** and select **New Topic**.
 
 #### Give Your Topic an Appropriate Title
 
@@ -65,7 +95,7 @@ Our moderators are actively searching for questions that need to be answered thr
 
 Sometimes, issues can be a bit more complex than a single question can handle. You have the ability to be as specific as you need to be when you post a new topic. Any relevant information you can share here that does not put your site at any security risk will help someone to give you a quick and thorough answer.
 
-When it comes to a process as complicated as site development, leaving a lot of room for interpretation in your question can lead to confusion. Explain exactly what you want to accomplish, as well as any steps you have taken so far. 
+When it comes to a process as complicated as site development, leaving a lot of room for interpretation in your question can lead to confusion. Explain exactly what you want to accomplish, as well as any steps you have taken so far.
 
 This will improve your chances of receiving the answer you need without having to engage in a lot of back-and-forth discussion as troubleshooters run down the list of possible solutions.
 
@@ -76,7 +106,7 @@ Here are four questions that should be answered in the body of your topic's init
 * What Solutions Have You Tried So Far?
 * What Were the Results of these Attempts?
 
-If these four questions are answered, you will be far more likely to receive the answers you need in a timely manner. 
+If these four questions are answered, you will be far more likely to receive the answers you need in a timely manner.
 
 It can also be very helpful to provide information about the server and platform. Which version of PHP is running, the version number of the RocketTheme product (if applicable), the browser(s) affected by a frontend display issue, any error codes that appear, and any other relevant information can be very useful in providing accurate support.
 
@@ -94,7 +124,7 @@ The **Secure Tab** that appears in the editor page is an important tool that ena
 
 You can create a new post using the Secure Tab, which will make its content visible only to the moderator team. The post topic and your name will appear as normal, but its content will be replaced with a notice indicating that the message's content is secure.
 
-This will allow your initial post to remain private from the community, but will also take away the advantage of receiving tips and advice from the user base. 
+This will allow your initial post to remain private from the community, but will also take away the advantage of receiving tips and advice from the user base.
 
 If you aren't posting any proprietary information, we recommend posting publicly whenever possible in order to allow our user base to assist with the matter. This has proven invaluable in many occasions as our community has an incredible wealth of knowledge.
 
@@ -120,7 +150,7 @@ If you wish to perform a secure reply, there are two ways to go about it. You ca
 
 ### Check Documentation
 
-Most of the information regarding standard practices such as replicating a template's demo content, installing and updating products, and setting up a site using RocketTheme extensions or templates can be found directly in RocketTheme's documentation. 
+Most of the information regarding standard practices such as replicating a template's demo content, installing and updating products, and setting up a site using RocketTheme extensions or templates can be found directly in RocketTheme's documentation.
 
 These guides are complete with images, step-by-step instructions, and other useful information written for users at any level of experience. Even if you are installing and running WordPress, Joomla, Magento, or phpBB for the first time, our documentation should have plenty of useful information to help you get started.
 
@@ -128,3 +158,4 @@ These guides are complete with images, step-by-step instructions, and other usef
 [categoryselection]: assets/categoryselection.jpg
 [securetab1]: assets/securetab_1.jpeg
 [securetab2]: assets/securetab_2.jpeg
+[forummenu]: assets/forummenu.jpg
