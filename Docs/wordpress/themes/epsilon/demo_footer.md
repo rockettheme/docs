@@ -62,6 +62,10 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Enter `Contact Us` in the **Title** field.
 * Leaving everything else at its default setting, select **Save**.
 
+#### Gantry Divider
+
+This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
+
 #### RokSprocket
 
 You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
