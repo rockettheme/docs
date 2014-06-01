@@ -15,7 +15,7 @@ This area of the front page is an article. Articles appear within the **Mainbody
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Reflex -> Advanced**.
+This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Corvus -> Advanced**.
 
 ![][advanced]
 
@@ -25,7 +25,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 
 :   1. **Leading Articles** [46%, 72%, se]
 
-In order to show three featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** menu. 
+In order to show three featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** menu.
 
 Article Properties
 -----
