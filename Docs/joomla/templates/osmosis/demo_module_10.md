@@ -42,13 +42,13 @@ This is a **mod_custom** module. You will find the settings used in our demo bel
 
 ### Details
 
-| Option     | Setting    |  
-| :--------- | :--------- |  
-| Title      | `FP SidePanel Info` |  
-| Show Title | Hide       |  
-| Position   | sidepanel      |  
-| Status     | Published  |  
-| Access     | Public     |  
+| Option     | Setting             |
+| :--------- | :---------          |
+| Title      | `FP SidePanel Info` |
+| Show Title | Hide                |
+| Position   | sidepanel           |
+| Status     | Published           |
+| Access     | Public              |
 
 ### Custom Output
 
@@ -67,9 +67,9 @@ Enter the following in the **Custom Output** text editor.
 
 ### Advanced
 
-| Option              | Setting              |
-| :----------         | :----------          |
-| Module Class Suffix | `box2` |
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | `box2`      |
 
 #### FP Sidepanel Social Icons
 
@@ -79,13 +79,13 @@ This is a **mod_custom** module. You will find the settings used in our demo bel
 
 ### Details
 
-| Option     | Setting    |  
-| :--------- | :--------- |  
-| Title      | `FP Sidepanel Social Icons` |  
-| Show Title | Hide       |  
-| Position   | sidepanel      |  
-| Status     | Published  |  
-| Access     | Public     |  
+| Option     | Setting                     |
+| :--------- | :---------                  |
+| Title      | `FP Sidepanel Social Icons` |
+| Show Title | Hide                        |
+| Position   | sidepanel                   |
+| Status     | Published                   |
+| Access     | Public                      |
 
 ### Custom Output
 
@@ -115,8 +115,8 @@ Enter the following in the **Custom Output** text editor.
 
 ### Advanced
 
-| Option              | Setting              |
-| :----------         | :----------          |
+| Option              | Setting                               |
+| :----------         | :----------                           |
 | Module Class Suffix | `rt-sidepanel-bottom fp-sidepanel-03` |
 
 [demo]: assets/demo_10.jpeg

@@ -185,7 +185,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
-<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/Osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
+<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
 #### Options

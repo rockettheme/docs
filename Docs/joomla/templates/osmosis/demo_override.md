@@ -22,39 +22,39 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![Style Settings][style]
 
-| Style       | Option              | Position    | Setting                                    |
-| :---------- | :----------         | :---------- | :----------                                |
-| Default     | Logo                | header-a    | Show: On, Type: Osmosis Template         |
-| Default     | Main Menu Animation |             | Enable: On                                 |
-| Default     | Font Settings       |             | Font Family: Osmosis, Font Size: Default |
-| Default | SidePanel Style | | Off |
-| Default | SidePanel Logo | | Off |
-| Default | SidePanel Menu | | Off |
-| Home | SidePanel Style | | On, Text Color: `#807878`, Background Color: `#121212` |
-| Home | SidePanel Logo | | On |
-| Home | SidePanel Menu | | On |
+| Style       | Option              | Position    | Setting                                                |
+| :---------- | :----------         | :---------- | :----------                                            |
+| Default     | Logo                | header-a    | Show: On, Type: Osmosis Template                       |
+| Default     | Main Menu Animation |             | Enable: On                                             |
+| Default     | Font Settings       |             | Font Family: Osmosis, Font Size: Default               |
+| Default     | SidePanel Style     |             | Off                                                    |
+| Default     | SidePanel Logo      |             | Off                                                    |
+| Default     | SidePanel Menu      |             | Off                                                    |
+| Home        | SidePanel Style     |             | On, Text Color: `#807878`, Background Color: `#121212` |
+| Home        | SidePanel Logo      |             | On                                                     |
+| Home        | SidePanel Menu      |             | On                                                     |
 
 ### Features
 
 ![Features Settings][features]
 
-| Style       | Option             | Position    | Setting                                                                                                                      |
-| :---------- | :----------        | :---------- | :----------                                                                                                                  |
-| Default     | Social Buttons     | copyright-a | Show: Off                                                                                                                    |
-| Default     | Chart              |             | Show: On                                                                                                                     |
-| Default     | Coming Soon Page   |             | Show: Off                                                                                                                    |
-| Default     | Email Subscription |             | Show: On                                                                                                                     |
-| Default     | Feedburner URI     |             | Blank                                                                                                                        |
-| Default     | System Messages    | drawer      | On                                                                                                                           |
-| Default     | Date               | utility-a   | Show: Off, Client-Side Date: Off                                                                                             |
-| Default     | Font-Sizer         | utility-b   | Show: Off                                                                                                                    |
-| Default     | Login Panel        | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`                                                   |
-| Default     | Popup Panel        | utility-d   | Show: Off, Popup Button Text: `Popup Module`                                                                                 |
-| Default     | Branding           | extension-b | Show: Off                                                                                                                    |
-| Default     | Copyright          | copyright-a | Show: On, Text: `Designed by RocketTheme` |
-| Default     | To-Top Scroller    | copyright-c | Show: Off                                                                                                                     |
-| Default     | Reset Settings     | copyright-d | Show: Off, Text: `Reset Settings`                                                                                            |
-| Default     | Google Analytics   |             | Enable: Off                                                                                                                  |
+| Style       | Option             | Position    | Setting                                                                    |
+| :---------- | :----------        | :---------- | :----------                                                                |
+| Default     | Social Buttons     | copyright-a | Show: Off                                                                  |
+| Default     | Chart              |             | Show: On                                                                   |
+| Default     | Coming Soon Page   |             | Show: Off                                                                  |
+| Default     | Email Subscription |             | Show: On                                                                   |
+| Default     | Feedburner URI     |             | Blank                                                                      |
+| Default     | System Messages    | drawer      | On                                                                         |
+| Default     | Date               | utility-a   | Show: Off, Client-Side Date: Off                                           |
+| Default     | Font-Sizer         | utility-b   | Show: Off                                                                  |
+| Default     | Login Panel        | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout` |
+| Default     | Popup Panel        | utility-d   | Show: Off, Popup Button Text: `Popup Module`                               |
+| Default     | Branding           | extension-b | Show: Off                                                                  |
+| Default     | Copyright          | copyright-a | Show: On, Text: `Designed by RocketTheme`                                  |
+| Default     | To-Top Scroller    | copyright-c | Show: Off                                                                  |
+| Default     | Reset Settings     | copyright-d | Show: Off, Text: `Reset Settings`                                          |
+| Default     | Google Analytics   |             | Enable: Off                                                                |
 
 ### Menu
 
@@ -75,21 +75,21 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style       | Option                   | Setting               |
 | :---------- | :----------              | :----------           |
-| Default     | Header Positions         | Positions: 2, 3:9    |
-| Default     | Top Positions            | Positions: 1, 12 |
-| Default     | Utility Positions        | Positions: 4, 3:3:3:3      |
+| Default     | Header Positions         | Positions: 2, 3:9     |
+| Default     | Top Positions            | Positions: 1, 12      |
+| Default     | Utility Positions        | Positions: 4, 3:3:3:3 |
 | Default     | Showcase Positions       | Positions: 1, 12      |
-| Default     | Feature Positions        | Positions: 4, 3:3:3:3      |
+| Default     | Feature Positions        | Positions: 4, 3:3:3:3 |
 | Default     | MainTop Positions        | Positions: 4, 3:3:3:3 |
-| Default     | ExpandedTop Positions    | Positions: 4, 3:3:3:3      |
-| Default     | MainBody Positions       | Positions: 1, 9      |
-| Default     | MainBottom Positions     | Positions: 4, 2:2:2:3      |
-| Default     | ExpandedBottom Positions | Positions: 4, 2:2:2:3      |
-| Default     | Extension Positions      | Positions: 4, 2:2:2:3    |
+| Default     | ExpandedTop Positions    | Positions: 4, 3:3:3:3 |
+| Default     | MainBody Positions       | Positions: 1, 9       |
+| Default     | MainBottom Positions     | Positions: 4, 2:2:2:3 |
+| Default     | ExpandedBottom Positions | Positions: 4, 2:2:2:3 |
+| Default     | Extension Positions      | Positions: 4, 2:2:2:3 |
 | Default     | Bottom Positions         | Positions: 4, 2:2:2:3 |
-| Default     | Footer Positions         | Positions: 3, 3:3:3     |
-| Default     | Copyright Positions      | Positions: 4, 2:2:2:3     |
-| Home        | MainBody Positions        | Positions: 1, 9    |
+| Default     | Footer Positions         | Positions: 3, 3:3:3   |
+| Default     | Copyright Positions      | Positions: 4, 2:2:2:3 |
+| Home        | MainBody Positions       | Positions: 1, 9       |
 
 ### Advanced
 
@@ -97,7 +97,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style       | Option            | Setting                                                 |
 | :---------- | :----------       | :----------                                             |
-| Default     | Layout Mode       | Fluid Responsive                                              |
+| Default     | Layout Mode       | Fluid Responsive                                        |
 | Default     | Display Component | On                                                      |
 | Default     | Mainbody Enabled  | On                                                      |
 | Default     | RTL Support       | Off                                                     |
@@ -106,7 +106,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | Less Compiler     | CSS Compression: On, Compile Wait: 2, Debug Header: Off |
 | Default     | IE7 Redirect      | On                                                      |
 | Default     | Demo Styling      | On                                                      |
-| Default     | K2 Styling        | Off                                                      |
+| Default     | K2 Styling        | Off                                                     |
 
 ### Assignments
 
@@ -114,9 +114,9 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---------- | :---------- | :---------- |
 | Home        | Main Menu   | Home        |
 
-[demo25]: assets/Osmosis.jpg
+[demo25]: assets/osmosis.jpg
 [menu]: ../../start/menu.md
-[Osmosis2]: assets/Osmosis2.jpeg
+[Osmosis2]: assets/osmosis2.jpeg
 [assignments]: assets/assignments_settings.jpeg
 [style]: assets/style_settings.jpeg
 [advanced]: assets/advanced_settings.jpeg

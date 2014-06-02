@@ -18,13 +18,13 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option      | Setting                                                                                          |
-| :---------- | :----------                                                                                      |
+| Option      | Setting       |
+| :---------- | :----------   |
 | Title       | `FP Footer C` |
-| Show Title  | Hide                                                                                             |
-| Position    | footer-c                                                                                         |
-| Status      | Published                                                                                        |
-| Access      | Public                                                                                           |
+| Show Title  | Hide          |
+| Position    | footer-c      |
+| Status      | Published     |
+| Access      | Public        |
 
 ### Custom Output
 
@@ -69,8 +69,8 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo4]
 
-| Option              | Setting                                                 |
-| :----------         | :----------                                             |
+| Option              | Setting            |
+| :----------         | :----------        |
 | Module Class Suffix | `fp-footer-c box3` |
 
 [demo]: assets/demo_9.jpeg

@@ -16,23 +16,23 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 
 ![][demo2]
 
-| Option           | Setting                                  |
-| :----------      | :----------                              |
+| Option           | Setting                            |
+| :----------      | :----------                        |
 | Title            | `FP RokSprocket Strips - Showcase` |
-| Show Title       | Hide                                     |
-| Access           | Public                                   |
+| Show Title       | Hide                               |
+| Access           | Public                             |
 | Position         | showcase-a                         |
-| Status           | Published                                |
-| Content Provider | Simple                                   |
-| Type             | Strips                                   |
+| Status           | Published                          |
+| Content Provider | Simple                             |
+| Type             | Strips                             |
 
 ### Simple Item Example
 
 | Option      | Setting     |
 | :---------- | :---------- |
-| Title       | None   |
-| Image       | None      |
-| Link        | None          |
+| Title       | None        |
+| Image       | None        |
+| Link        | None        |
 
 #### Description
 
@@ -44,27 +44,27 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 
 ![][demo3]
 
-| Option            | Setting      |
-| :----------       | :----------  |
-| Theme             | Default      |
-| Display Limit     | ∞            |
-| Preview Length    | ∞            |
-| Strip HTML Tags   | No           |
-| Previews Per Page | 3            |
-| Items Per Row     | 3            |
-| Arrow Navigation  | Hide         |
-| Pagination        | Show         |
-| Animation         | Randomize |
-| Autoplay          | Disable      |
-| Autoplay Delay    | 5            |
-| Image Resize      | Disable      |
+| Option            | Setting     |
+| :----------       | :---------- |
+| Theme             | Default     |
+| Display Limit     | ∞           |
+| Preview Length    | ∞           |
+| Strip HTML Tags   | No          |
+| Previews Per Page | 3           |
+| Items Per Row     | 3           |
+| Arrow Navigation  | Hide        |
+| Pagination        | Show        |
+| Animation         | Randomize   |
+| Autoplay          | Disable     |
+| Autoplay Delay    | 5           |
+| Image Resize      | Disable     |
 
 ### Advanced
 
 ![][demo4]
 
-| Option              | Setting                          |
-| :----------         | :----------                      |
+| Option              | Setting                                       |
+| :----------         | :----------                                   |
 | Module Class Suffix | `fp-showcase-a rt-center fp-showcase-animate` |
 
 [demo]: assets/demo_2.jpeg

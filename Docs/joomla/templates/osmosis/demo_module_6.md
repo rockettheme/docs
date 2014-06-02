@@ -18,13 +18,13 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option      | Setting          |
-| :---------- | :----------      |
+| Option      | Setting             |
+| :---------- | :----------         |
 | Title       | `FP Content Bottom` |
-| Show Title  | Hide             |
+| Show Title  | Hide                |
 | Position    | content-bottom-a    |
-| Status      | Published        |
-| Access      | Public           |
+| Status      | Published           |
+| Access      | Public              |
 
 ### Custom Output
 
@@ -114,8 +114,8 @@ Enter the following in the **Custom Output** text editor.
 
 ![][demo4]
 
-| Option              | Setting                    |
-| :----------         | :----------                |
+| Option              | Setting             |
+| :----------         | :----------         |
 | Module Class Suffix | `fp-content-bottom` |
 
 [demo]: assets/demo_6.jpeg

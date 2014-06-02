@@ -18,13 +18,13 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option      | Setting                                                                                          |
-| :---------- | :----------                                                                                      |
+| Option      | Setting      |
+| :---------- | :----------  |
 | Title       | `Contact Us` |
-| Show Title  | Show                                                                                             |
-| Position    | footer-b                                                                                         |
-| Status      | Published                                                                                        |
-| Access      | Public                                                                                           |
+| Show Title  | Show         |
+| Position    | footer-b     |
+| Status      | Published    |
+| Access      | Public       |
 
 ### Custom Output
 
@@ -51,8 +51,8 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo4]
 
-| Option              | Setting                                                 |
-| :----------         | :----------                                             |
+| Option              | Setting                          |
+| :----------         | :----------                      |
 | Module Class Suffix | `fp-footer-b box2 rt-text-small` |
 
 [demo]: assets/demo_8.jpeg

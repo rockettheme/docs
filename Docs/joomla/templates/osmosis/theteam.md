@@ -30,7 +30,7 @@ The page's content body is set in the **The Team** article. You will find the co
 <h3>Our Passion for Design</h3>
 <p>Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures. Completely iterate covalent strategic theme areas via accurate e-markets.</p>
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-<p><a href="http://www.rockettheme.com/joomla/templates/Osmosis" class="readon">Learn More</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Learn More</a></p>
 ~~~
 
 Modules
@@ -375,7 +375,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Join Our Awesome Team with a Great Work Environment</p>
-<p><a href="http://www.rockettheme.com/joomla/templates/Osmosis" class="readon largemargintop">Join Osmosis</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon largemargintop">Join Osmosis</a></p>
 ~~~
 
 #### Options
@@ -409,7 +409,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
-<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/Osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
+<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
 #### Options

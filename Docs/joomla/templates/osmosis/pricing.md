@@ -33,7 +33,7 @@ The page's content body is set in the **Pricing Tables** article. You will find 
             <h3>Simple Plans and Pricing</h3>
             <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
             <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            <p><a href="http://www.rockettheme.com/joomla/templates/Osmosis" class="readon">Sign Up</a></p>
+            <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Sign Up</a></p>
         </div>
     </div>
     <div class="gantry-width-50">
@@ -44,7 +44,7 @@ The page's content body is set in the **Pricing Tables** article. You will find 
                 <li>CSS Dropdown Menu and Split Menu</li>
                 <li>The Template is Optimized for RokBooster</li>
             </ul>
-            <p class="success">Want to use Osmosis for your clients? <a href="http://www.rockettheme.com/joomla/templates/Osmosis">Purchase Single Package Now</a>.</p>
+            <p class="success">Want to use Osmosis for your clients? <a href="http://www.rockettheme.com/joomla/templates/osmosis">Purchase Single Package Now</a>.</p>
         </div>
     </div>
 </div>
@@ -159,7 +159,7 @@ Below is a brief rundown of the modules used to make up the demo page.
         <li class="rt-table-item">5GB Storage</li>
         <li class="rt-table-item">10 Users</li>
         <li class="rt-table-item">20 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/Osmosis">Sign Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
@@ -170,7 +170,7 @@ Below is a brief rundown of the modules used to make up the demo page.
         <li class="rt-table-item">25GB Storage</li>
         <li class="rt-table-item">20 Users</li>
         <li class="rt-table-item">30 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/Osmosis">Sign Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
@@ -181,7 +181,7 @@ Below is a brief rundown of the modules used to make up the demo page.
         <li class="rt-table-item">50GB Storage</li>
         <li class="rt-table-item">30 Users</li>
         <li class="rt-table-item">40 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/Osmosis">Sign Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
     </ul>
 </div>
 <div class="gantry-width-25">
@@ -192,12 +192,12 @@ Below is a brief rundown of the modules used to make up the demo page.
         <li class="rt-table-item">500GB Storage</li>
         <li class="rt-table-item">100 Users</li>
         <li class="rt-table-item">200 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/Osmosis">Sign Up</a></li>
+        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
     </ul>
 </div>
 <div class="clear"></div>
 <div class="gantry-width-spacer">
-    <p>Free <strong>10 days trial</strong> on all plans. No credit card needed! Need a bigger plan? <a href="http://www.rockettheme.com/joomla/templates/Osmosis">View Professional Plan</a>.</p>
+    <p>Free <strong>10 days trial</strong> on all plans. No credit card needed! Need a bigger plan? <a href="http://www.rockettheme.com/joomla/templates/osmosis">View Professional Plan</a>.</p>
 </div>
 ~~~
 
@@ -232,7 +232,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>No Credit Card Required and No Long-Term Contracts</p>
-<p><a href="http://www.rockettheme.com/joomla/templates/Osmosis" class="readon largemargintop">Sign Up</a></p>
+<p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon largemargintop">Sign Up</a></p>
 ~~~
 
 #### Options
@@ -266,7 +266,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
-<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/Osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
+<p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
 #### Options

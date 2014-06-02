@@ -18,13 +18,13 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option      | Setting      |
-| :---------- | :----------  |
+| Option      | Setting               |
+| :---------- | :----------           |
 | Title       | `FP Content Top A 01` |
-| Show Title  | Hide         |
-| Position    | content-top-a    |
-| Status      | Published    |
-| Access      | Public       |
+| Show Title  | Hide                  |
+| Position    | content-top-a         |
+| Status      | Published             |
+| Access      | Public                |
 
 ### Custom Output
 
@@ -72,8 +72,8 @@ Enter the following in the **Custom Output** text editor.
 
 ![][demo4]
 
-| Option              | Setting                   |
-| :----------         | :----------               |
+| Option              | Setting             |
+| :----------         | :----------         |
 | Module Class Suffix | `fp-content-top-a1` |
 
 [demo]: assets/demo_3.jpg
