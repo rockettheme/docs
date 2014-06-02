@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Osmosis](templates/osmosis)
 	- [Vermilion](templates/vermilion)
 	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
