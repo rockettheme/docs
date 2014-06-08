@@ -10,23 +10,61 @@ Module Options
 
 You can access RokFeatureTable's main module settings by navigating to **Administrator -> Extensions Manager -> Modules -> RokFeatureTable**. Any changes you make here will be reflected in a single occurrence of the RokFeatureTable module on the frontend of your site.
 
+## Details
+
+![][details]
+
+:   1. **Title** Sets the title for the RokFeatureTable module. This is not a required field. [17%, 42%, se]
+    2. **Show Title** Determines whether or not the title listed above appears on the frontend of the site, or just on the administrative side. [25%, 42%, se]
+    3. **Position** Enter the name of the position you wish to place the module in here. [32%, 42%, se]
+    4. **Status** Determines whether your module is visible to the public, unpublished, or trashed. [42%, 42%, se]
+    5. **Access** Sets which user types have access to the module. [48%, 42%, se]
+    6. **Ordering** Determines the ordering rule applied to the module. [55%, 42%, se]
+    7. **Start Publishing** Select the date and time you wish to start publishing the module. [62%, 42%, se]
+    8. **Finish Publishing** Select the date and time you wish to end publishing the module. [68%, 42%, se]
+    9. **Language** Sets the language for the module. [75%, 42%, se]
+    10. **Note** Add any notes you wish to have displayed on the administrative side of your site relating to the module here. [82%, 42%, se]
+
+1. **Title**: Sets the title for the RokFeatureTable module. This is not a required field.
+
+2. **Show Title**: Determines whether or not the title listed above appears on the frontend of the site, or just on the administrative side.
+
+3. **Position**: Enter the name of the position you wish to place the module in here.
+
+4. **Status**: Determines whether your module is visible to the public, unpublished, or trashed.
+
+5. **Access**: Sets which user types have access to the module.
+
+6. **Ordering**: Determines the ordering rule applied to the module.
+
+7. **Start Publishing**: Select the date and time you wish to start publishing the module.
+
+8. **Finish Publishing**: Select the date and time you wish to end publishing the module.
+
+9. **Language**: Sets the language for the module.
+
+10. **Note**: Add any notes you wish to have displayed on the administrative side of your site relating to the module here.
+
+
+## Options
+
 ![][module1]
 
-:   1. **Title** Sets the title for the RokFeatureTable module. This is not a required field. [28%, 69%, sw]
-    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [39%, 65%, sw]
-    3. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many Joomla templates. If you want to use your own, or if the template you are using supports a custom style, you might want to set this param to No. [50%, 57%, sw]
-    4. **Template Selection** RokFeatureTables has the ability to import predefined templates to the **/modules/mod_rokfeaturetable/templates** directory. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [58%, 66%, sw]
-    5. **Current Table Layout** This area of the page sets the size and content of the feature table. It is the most important part of the module setup process. More details about this page are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [73%, 69%, sw]
+:   1. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many Joomla templates. If you want to use your own, or if the template you are using supports a custom style, you might want to set this param to No. [24%, 42%, se]
+    2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to. [39%, 42%, se]
+    3. **Prefix Cell Classnames** This option allows you to turn off or on the inclusion of prefixes for any class names used in the table cells. [50%, 42%, se]
+    4. **Preset Templates** RokFeatureTables has the ability to import predefined templates to the **/modules/mod_rokfeaturetable/templates** directory. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table. [64%, 42%, se]
+    5. **Layout Setup** This area of the page sets the size and content of the feature table. It is the most important part of the module setup process. More details about this page are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below. [75%, 42%, se]
 
-1. **Title**: Sets the title for the RokFeatureTable module.
+1. **Built-in CSS** RokFeatureTable comes with a default style that integrates well with many Joomla templates. If you want to use your own, or if the template you are using supports a custom style, you might want to set this param to No.
 
-2. **Highlight Column**: This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to.
+2. **Highlight Column** This option sets the column number you wish to have highlighted by default. This is typically a column or product you wish to bring attention to.
 
-3. **Built-in CSS**: RokFeatureTable comes with a default style that integrates well with many WordPress themes. If you want to use your own, or if the theme you are using supports a custom style, you might want to set this param to No.
+3. **Prefix Cell Classnames** This option allows you to turn off or on the inclusion of prefixes for any class names used in the table cells.
 
-4. **Template Selection**: RokFeatureTables has the ability to import predefined templates to the **/modules/mod_rokfeaturetable/templates** directory. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table.
+4. **Preset Templates** RokFeatureTables has the ability to import predefined templates to the **/modules/mod_rokfeaturetable/templates** directory. RokFeatureTable comes with two predefined templates as examples: Browsers and Price Table.
 
-5. **Current Table Layout**: This area of the page sets the size and content of the feature table. It is the most important part of the module setup process. More details about this page are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below.
+5. **Layout Setup** This area of the page sets the size and content of the feature table. It is the most important part of the module setup process. More details about this page are located in the [Table Layout](rokfeaturetable_use.md#table-layout) section below.
 
 Table Layout
 -----
@@ -116,5 +154,6 @@ NOTE: All the referenced cells allow HTML syntax, if instead of just plain "Fire
 
 [featured]: assets/rokintroscroller.jpeg
 [settings]: assets/wp_rokintroscroller_module.jpeg
-[module1]: assets/wp_rokfeaturetable_widget_1.jpeg
+[module1]: assets/wp_rokfeaturetable_widget_1.jpg
+[details]: assets/details.jpg
 [module2]: assets/wp_rokfeaturetable_widget_2.jpeg

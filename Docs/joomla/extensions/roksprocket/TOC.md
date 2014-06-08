@@ -22,4 +22,5 @@ support: http://www.rockettheme.com/forum/joomla-extension-roksprocket/
     	* [Mosaic](mosaic_mode.md)
     	* [Strips](strips_mode.md)
     	* [Headlines](headlines_mode.md)
+    * [Creating Template Overrides](layout_modes.md#creating-template-overrides)
     * [Content Providers](layout_modes.md#content-providers)
