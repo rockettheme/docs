@@ -14,7 +14,7 @@ Grunge, the June 2010 Free GPL release, is the second free template to take adva
 
 The template is a perfect example of an artistic club release, with a range of key / core features that accompany all our RocketTheme templates, mainly that of Gantry, which provides a useful sample for you to experience club level themes.
 
->> NOTICE: Grunge is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Grunge is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----
@@ -22,7 +22,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5 or 3.x
+* Joomla 2.5 or 3.2+
 
 For more information, visit our [Gantry documentation][gantry].
 

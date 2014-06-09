@@ -13,7 +13,7 @@ Syndicate is ideal for any news, media or business type site that requires a cle
 
 ![][theme]
 
->> NOTICE: Syndicate is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Syndicate is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----
@@ -21,7 +21,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5
+* Joomla 2.5, 3.2+
 
 For more information, visit our [Gantry documentation][gantry].
 

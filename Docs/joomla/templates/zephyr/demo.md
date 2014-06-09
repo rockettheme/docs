@@ -51,6 +51,10 @@ We have detailed how to recreate the individual modules pictured above in the li
 8. [Featured Article][module8]
 9. [Member Login][module9]
 
+![][rokintroscroller]
+
+>> NOTE: The RokIntroScroller module used in the Joomla 2.5 RocketLauncher has been substituted with a RokSprocket module in the 3.x RocketLauncher.
+
 Recommended Extensions
 -----
 
@@ -95,3 +99,4 @@ Many of these extensions are included with the Zephyr RocketLauncher, and can be
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [article]: assets/article.jpg
 [mainmenu]: assets/menu_1.jpeg
+[rokintroscroller]: assets/rokintro.jpg
