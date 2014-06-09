@@ -165,24 +165,24 @@ Add a fully configurable, jQuery based, animated horizontal product scroller to 
 
 #### General
 
-| Option                              | Setting     |  
-| :---------------------------------- | :---------- |  
-| Enable Homepage Scroller            | Yes         |  
-| Enable Category Scroller            | Yes         |  
-| Prev/Next Function                  | Page        |  
-| Enable Scroll Button Fade Animation | No          |  
-| Truncate Product Titles             | Truncate On |  
-| Max Titles Length                   | 36          |  
-| Image Size                          | 90          |  
-| Speed                               | 1           |  
-| Circular                            | Loop Off    |  
-| Enable Autoscroll                   | No          |  
-| Autoscroll Level                    | 3           |  
-| Products Per Page                   | 4           |  
-| Use Tooltip for Details             | Yes         |  
-| Use Tooltip Animations              | No          |  
-| Set Tooltip Offset                  | 10,2        |  
-| Disable Ribbons                     | No          |  
+| Option                              | Setting     |
+| :---------------------------------- | :---------- |
+| Enable Homepage Scroller            | Yes         |
+| Enable Category Scroller            | Yes         |
+| Prev/Next Function                  | Page        |
+| Enable Scroll Button Fade Animation | No          |
+| Truncate Product Titles             | Truncate On |
+| Max Titles Length                   | 32          |
+| Image Size                          | 148         |
+| Speed                               | 1           |
+| Circular                            | Loop On     |
+| Enable Autoscroll                   | No          |
+| Autoscroll Level                    | 3           |
+| Products Per Page                   | 6           |
+| Use Tooltip for Details             | Yes         |
+| Use Tooltip Animations              | No          |
+| Set Tooltip Offset                  | 10,2        |
+| Disable Ribbons                     | No          |
  
 #### Homepage Scroller Products
 
