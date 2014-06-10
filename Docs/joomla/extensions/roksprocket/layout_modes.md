@@ -74,6 +74,25 @@ With the introduction of RokSprocket 2, you can use another content provider nam
 
 When using ‘Simple’ as the content provider, you can set ordering to random and/or manual. Since items are not pulled from an existing source, you can arrange them to meet your individual preferences with the option to allow visitors to activate random sorting. This is done to give you maximum control over how content is presented so the module appears the way you want it to every time a visitor loads the page.
 
+Creating Template Overrides
+-----
+
+RokSprocket comes with its own preset layout that allows it to look great out of the box. You can create overrides specific to your template that enable you to customize the way RokSprocket appears on your site, without actually touching any of RokSprocket's files. 
+
+This ensures that your modules will look great with your template while maintaining RokSprocket's ability to be updated and reinstalled without issue. Your customizations are stored in the template files apart from the extension.
+
+These overrides will work with any RokSprocket file, and are not limited to CSS. In our example below, we will make a change to the **index.php** file for the **Strips** layout in RokSprocket using an override. Here are the steps:
+
+* Copy the directory structure leading to the file you wish to change in the **/templates** directory rather than **/components**. For example: `/templates/(template directory)/roksprocket/layouts/strips/themes/default/` would be created to override files in the `/components/com_roksprocket/layouts/strips/themes/default/` directory.
+* Copy the file you wish to override and paste it in the new directory. For example: `index.php`
+* Make adjustments to the new file.
+* Save your changes.
+* Test.
+
+When the module is loaded, the new **index.php** file will be loaded in place of the one that appears in the main RokSprocket directory. No other files will be affected.
+
+If you want to undo this change at a later time, simply delete the new file and the original file included with the RokSprocket install will be loaded.
+
 [features_link]: features_mode.md
 [lists_link]: lists_mode.md
 [tabs_link]: tabs_mode.md

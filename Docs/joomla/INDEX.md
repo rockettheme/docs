@@ -91,7 +91,7 @@ more:
 	- [Zephyr](templates/zephyr)
 	- [Juxta](templates/juxta)
 	- [Quantive](templates/quantive)
-	- [Cystalline (Coming Soon)](templates/crystalline)
+	- [Cystalline](templates/crystalline)
 	- [Kinetic (Coming Soon)](templates/kinetic)
 	- [Dominion (Coming Soon)](templates/dominion)
 	- [Reaction (Coming Soon)](templates/reaction)

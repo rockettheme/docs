@@ -59,10 +59,10 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Social Netowkr / Link Type | Icon                | Text     |  
 | :------------------------- | :------------------ | :------- |  
-| Facebook                   | `fa-fa-facebook`    | Facebook |  
+| Facebook                   | `fa fa-facebook`    | Facebook |  
 | Google+                    | `fa fa-google-plus` | Google + |  
-| Twitter                    | `fa-fa-twitter`     | Twitter  |  
-| RSS                        | `fa-fa-rss`         | RSS      |  
+| Twitter                    | `fa fa-twitter`     | Twitter  |  
+| RSS                        | `fa fa-rss`         | RSS      |  
 
 ### Menu
 
