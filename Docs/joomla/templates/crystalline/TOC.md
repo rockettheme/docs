@@ -1,15 +1,15 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!juxta:Juxta
+breadcrumb: /joomla:Joomla/!templates:Templates/!crystalline:Crystalline
 
-details: http://www.rockettheme.com/joomla/templates/juxta
-demo: http://demo.rockettheme.com/joomla-templates/juxta/
-download: http://www.rockettheme.com/joomla/templates/juxta/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-juxta
+details: http://www.rockettheme.com/joomla/templates/crystalline
+demo: http://demo.rockettheme.com/joomla-templates/crystalline/
+download: http://www.rockettheme.com/joomla/templates/crystalline/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-crystalline
 
 ---
 
-* Juxta
+* Crystalline
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/joomla-template-juxta
             * [Built with the Gantry Framework](demo_module_2.md)
             * [Latest Upload](demo_module_3.md)
             * [Advanced Menu Options](demo_module_4.md)
-            * [Main Menu](demo_module_5.md)
+            * [Site Navigation](demo_module_5.md)
             * [About Us](demo_module_6.md)
             * [Cross Browser Compatible](demo_module_7)
             * [Who's Online](demo_module_8)

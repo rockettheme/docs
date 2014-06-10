@@ -44,9 +44,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo3]
 
-| Option                    | Setting |  
-| :------------------------ | :------ |  
-| Prepare Content           | No      |  
+| Option                    | Setting |
+| :------------------------ | :------ |
+| Prepare Content           | Yes     |
 | Select a Background Image | Blank   |
 
 ### Advanced

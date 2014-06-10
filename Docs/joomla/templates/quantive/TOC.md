@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!juxta:Juxta
+breadcrumb: /joomla:Joomla/!templates:Templates/!quantive:Quantive
 
-details: http://www.rockettheme.com/joomla/templates/juxta
-demo: http://demo.rockettheme.com/joomla-templates/juxta/
-download: http://www.rockettheme.com/joomla/templates/juxta/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-juxta
+details: http://www.rockettheme.com/joomla/templates/quantive
+demo: http://demo.rockettheme.com/joomla-templates/quantive/
+download: http://www.rockettheme.com/joomla/templates/quantive/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-quantive
 
 ---
 

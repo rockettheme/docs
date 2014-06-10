@@ -1,28 +1,28 @@
 ---
-title: Juxta: Recreating the Demo - Main Menu
+title: Juxta: Recreating the Demo - Site Navigation
 description: Your Guide to Recreating Elements of the Juxta Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/juxta:Juxta
 
 ---
 
-Main Menu
+Site Navigation
 -----
 
 ![][demo]
 
-The **Main Menu** module is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
+The **Site Navigation** module is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
 
 ![][demo2]
 
-| Option      | Setting     |
-| :---------- | :---------- |
-| Title       | `Main Menu` |
-| Show Title  | Show        |
-| Position    | sidebar-a   |
-| Status      | Published   |
-| Access      | Public      |
+| Option      | Setting           |
+| :---------- | :----------       |
+| Title       | `Site Navigation` |
+| Show Title  | Show              |
+| Position    | sidebar-a         |
+| Status      | Published         |
+| Access      | Public            |
 
 ### Basic Options
 
@@ -41,7 +41,7 @@ The **Main Menu** module is a standard **Menu** module. Here is a breakdown of t
 
 | Option              | Setting     |
 | :----------         | :---------- |
-| Module Class Suffix | `title1`    |
+| Module Class Suffix | `bg1`       |
 
 [demo]: assets/demo_5.jpeg
 [demo2]: assets/demo_5a.jpeg

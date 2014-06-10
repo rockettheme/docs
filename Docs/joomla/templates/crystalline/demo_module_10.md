@@ -43,7 +43,54 @@ Here is the **Article Text** we used:
 </div>
 ~~~
 
-Once this article is created and set to **Featured**, it should appear on the front page.
+Here is the **Article Text** used on the second article, **Other Featured Stuff Continued**.
+
+~~~ .html
+<div class="demo-mb">
+    <img src="images/stories/demo/frontpage/mb2.jpg" alt="Mar10 Demo Image" class="demo-fp-img img-left"/>
+    <p><em class="bold2">Built with the Gantry Framework v2 with the 960 grid system and an intuitive, extensive administrative interface.</em></p>
+    <p>Gantry is the framework that rests at the foundation of our latest RocketTheme templates, providing an extensive and powerful core to extend the feature set and functions of our themes exponentially, making them even more flexible.</p>
+    [readon2 url="index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=154"]Learn More[/readon2]
+</div>
+~~~
+
+Here is the **Article Text** used on the second article, **Other Featured Stuff Continued...**.
+
+~~~ .html
+<div class="demo-mb">
+    <img src="images/stories/demo/frontpage/mb3.jpg" alt="Mar10 Demo Image" class="demo-fp-img img-left"/>
+    <p><em class="bold2">Fourteen Module Variations, ranging from color styles to structural variants, allowing for individual module control.</em></p>
+    <p>14 module hilites to provide variations, color and/or structural, in your site for your modular content, these are: <strong>bg1-5</strong>, <strong>title1-5</strong>, <strong>flush</strong>, <strong>flushtop</strong>, <strong>flushbottom</strong> &amp; <strong>basic</strong>. All can be previewed by following the internal link below.</p>
+    [readon2 url="index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=156"]More Details[/readon2]
+</div>
+~~~
+
+Here is the **Article Text** for the last article on this front page, **Template Extras**.
+
+~~~ .html 
+<h4 class="demo-mb-btm-title"><a href="#">Template Extras</a></h4>
+<div class="demo-mb-btm demo-mb-btm-first">
+    <p><img src="images/stories/demo/frontpage/cb1.jpg" alt="Mar10 Demo Image" class="demo-fp-img"/></p>
+    <p><em class="bold">Over 65 Module Positions.</em></p>
+    <p>The template has 68 collapsible positions, allowing for a multitude of many different layout options.</p>
+    [readon2 url="index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=157"]Read More[/readon2]
+</div>
+<div class="demo-mb-btm">
+    <p><img src="images/stories/demo/frontpage/cb2.jpg" alt="Mar10 Demo Image" class="demo-fp-img"/></p>
+    <p><em class="bold">Styled Joomla Extensions.</em></p>
+    <p>A series of RocketTheme modules have been styled, perfect for using them with the Crystalline theme.</p>
+    [readon2 url="index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=161"]Read More[/readon2]
+</div>
+<div class="demo-mb-btm">
+    <p><img src="images/stories/demo/frontpage/cb3.jpg" alt="Mar10 Demo Image" class="demo-fp-img"/></p>
+    <p><em class="bold">Adobe Fireworks Sources.</em></p>
+    <p>We provide Adobe Fireworks PNG image sources with every template, allowing for quick customization.</p>
+    [readon2 url="index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=167"]Read More[/readon2]
+</div>
+<div class="clear"></div>
+~~~
+
+Once this articles are created and set to **Featured**, they should appear on the front page.
 
 [demo]: assets/demo_10.jpeg
 [advanced]: assets/setadvanced.jpeg

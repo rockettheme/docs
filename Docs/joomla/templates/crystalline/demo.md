@@ -61,8 +61,6 @@ Here is a list of RocketTheme extensions we recommend using with Crystalline:
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Installed with RokGallery)
-* [RokGallery][rokgallery]
 * [RokCandy][rokcandy]
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]

@@ -48,7 +48,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | Overlay Check    |             | Enabled: On                                                                                       |
 | Default     | Date             | top-d       | Show: Off, Client-side Date: Off                                                                  |
 | Default     | Font-Sizer       | utility-c   | Show: Off                                                                                         |
-| Default     | Login Panel      | utility-b   | Show: On, Login Button Text: `Memeber Login`, Logout Button Text: `Logout`                        |
+| Default     | Login Panel      | utility-b   | Show: On, Login Button Text: `Member Login`, Logout Button Text: `Logout`                        |
 | Default     | Branding         | copyright   | Show: On                                                                                          |
 | Default     | Copyright        | copyright   | Designed by RocketTheme                                                                           |
 | Default     | SmartLoad        |             | Show: Off, Offset Y: 10, Component Ignores: `com_contact`, XPath Ignores: `ul.menutop span.image` |
@@ -85,7 +85,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | Top Positions        | Positions: 2, 5:7     |
 | Default     | Header Positions     | Positions: 2, 9:3     |
 | Default     | Showcase Positions   | Positions: 1, 12      |
-| Default     | Feature Positions    | Positions: 2, 3:3:6   |
+| Default     | Feature Positions    | Positions: 3, 3:3:6   |
 | Default     | Utility Positions    | Positions: 2, 9:3     |
 | Default     | MainTop Positions    | Positions: 3, 4:4:4   |
 | Default     | MainBody Positions   | Positions: 2, 9:3     |
