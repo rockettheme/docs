@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Vermilion](themes/vermilion)
 	- [Lexicon](themes/lexicon)
 	- [Epsilon](themes/epsilon)
 	- [Anacron](themes/anacron)
