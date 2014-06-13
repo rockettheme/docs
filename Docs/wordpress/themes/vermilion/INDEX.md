@@ -28,19 +28,22 @@ Key Features
 
 * Responsive Layout
 * 6 Preset Styles
+* Parallax Background
+* Content Animations
 * 89 Widget Positions
 * 1200 Fixed Option
-* 8 Styled Widget Variations
-* Structural Widget Variations
+* 8 Styled Variations
+* Structural Variations
 * 960 Fixed Option
 * Dropdown-Menu and Split-Menu
 * Custom Typography
 * Custom Logo Option
 * Mobile Menu
-* Fixed Header
 * Social Buttons Option
 * Chart.js
 * Coming Soon Page
+* Font Awesome 4
+* Dropdown Direction Options
 
 ### Responsive Layout
 
