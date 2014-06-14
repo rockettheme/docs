@@ -92,7 +92,7 @@ more:
 	- [Juxta](templates/juxta)
 	- [Quantive](templates/quantive)
 	- [Cystalline](templates/crystalline)
-	- [Kinetic (Coming Soon)](templates/kinetic)
+	- [Kinetic](templates/kinetic)
 	- [Dominion (Coming Soon)](templates/dominion)
 	- [Reaction (Coming Soon)](templates/reaction)
 

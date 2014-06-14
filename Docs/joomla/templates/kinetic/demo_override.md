@@ -1,22 +1,20 @@
 ---
-title: Crystalline: Recreating the Demo - Template Settings
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - Template Settings
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/Kinetic:Kinetic
 
 ---
 
 Template Settings
 -----
-One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Crystalline Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs.
+One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Kinetic Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs.
 
 ![][template2]
 
 :   1. **Logo** [6%, 18%, se]
-    2. **Menu** [10%, 18%, se]
-    3. **Branding** [90%, 18%, se]
-    4. **Copyright** [92%, 45%, se]
-    5. **Login Panel** [22%, 78%, sw]
-    6. **Color Chooser** [6%, 78%, sw]
+    2. **Menu** [6%, 35%, se]
+    3. **Copyright** [91%, 45%, se]
+    4. **To-Top Scroller** [91%, 16%, se]
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
 
@@ -28,14 +26,15 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][styles]
 
-| Style       | Option        | Setting                                                                 |
-| :---------- | :----------   | :----------                                                             |
-| Default     | Header        | Background: `#004e63`, Text: `#ffffff`, Link: `#ebe5c3`, Shadows: Dark  |
-| Default     | Main          | Background: `#f1e8d6`, Text: `#55473e`, Link: `#000000`, Shadows: Light |
-| Default     | Feature       | Background: `#dedede`, Text: `#444444`, Link: `#004e63`, Shadows: Light |
-| Default     | Body          | Background: `#ffffff`, Text: `#666666`, Link: `#004e63`, Shadows: Light |
-| Default     | Bottom        | Background: `#a61027`, Text: `#ffffff`, Link: `#ebe5c3`, Shadows: Dark  |
-| Default     | Font Settings | Font Family: Helvetica, Font Size: Default                              |
+| Style       | Option              | Setting                                    |
+| :---------- | :----------         | :----------                                |
+| Default     | Background Level    | High                                       |
+| Default     | Body Level          | High                                       |
+| Default     | CSS Style           | Style 8                                    |
+| Default     | Link Color          | `#5e8080`                                  |
+| Default     | Showcase Color      | Color 1                                    |
+| Default     | Article Title Style | Color 1                                    |
+| Default     | Font Settings       | Font Family: Helvetica, Font Size: Default |
 
 ### Features
 
@@ -43,16 +42,13 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style       | Option           | Position    | Setting                                                                                           |
 | :---------- | :----------      | :---------- | :----------                                                                                       |
-| Default     | Logo             | header-a    | Show: On, Auto Size: Off                                                                          |
-| Default     | Color Chooser    | header-b    | `Color Chooser`                                                                                   |
-| Default     | Overlay Check    |             | Enabled: On                                                                                       |
+| Default     | Logo             | header-a    | Show: On, Auto Size: On, Centered: On                                                             |
 | Default     | Date             | top-d       | Show: Off, Client-side Date: Off                                                                  |
-| Default     | Font-Sizer       | utility-c   | Show: Off                                                                                         |
-| Default     | Login Panel      | utility-b   | Show: On, Login Button Text: `Member Login`, Logout Button Text: `Logout`                        |
-| Default     | Branding         | copyright   | Show: On                                                                                          |
-| Default     | Copyright        | copyright   | Designed by RocketTheme                                                                           |
+| Default     | Font-Sizer       | feature-b   | Show: Off                                                                                         |
+| Default     | Login Panel      | top-c       | Show: On, Login Button Text: `Member Login`, Logout Button Text: `Logout`                         |
+| Default     | Copyright        | copyright   | Show: On, `Designed by RocketTheme`                                                               |
 | Default     | SmartLoad        |             | Show: Off, Offset Y: 10, Component Ignores: `com_contact`, XPath Ignores: `ul.menutop span.image` |
-| Default     | To-Top Scroller  | debug       | Show: Off, `Scroll to Top`                                                                        |
+| Default     | To-Top Scroller  | copyright   | Show: On, `Scroll to Top`                                                                         |
 | Default     | System Messages  | drawer      | Show: On                                                                                          |
 | Default     | Reset Settings   | copyright   | Show: Off, `Reset Settings`                                                                       |
 | Default     | IE6 Warning      |             | Show: On, Delay: `2000`                                                                           |
@@ -62,19 +58,18 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][menu]
 
-| Style       | Option            | Setting                                                 |
-| :---------- | :----------       | :----------                                             |
-| Default     | Menu Control      | Show: On, Type: Fusion-Menu                             |
-| Default     | Select a Menu     | Main Menu                                               |
-| Default     | Position          | navigation                                              |
-| Default     | Enable JavaScript | On                                                      |
-| Default     | Menu Opacity      | 1                                                       |
-| Default     | Menu Effect       | Slide + Fade                                            |
-| Default     | Menu Delay        | 500                                                     |
-| Default     | Menu Animation    | Quad.easeOut                                            |
-| Default     | Pill              | Enable: Off, Duration: `400`, Animation: `Back.easeOut` |
-| Default     | Enable ID         | Off                                                     |
-| Default     | Module Cache      | On                                                      |
+| Style       | Option                    | Setting                                            |
+| :---------- | :----------               | :----------                                        |
+| Default     | Menu Control              | Show: On, Type: Split-Menu                         |
+| Default     | Enable ID                 | Off                                                |
+| Default     | Select a Menu             | Main Menu                                          |
+| Default     | Module Cache              | On                                                 |
+| Default     | Main Menu Position        | header-d                                           |
+| Default     | Sub Menu Position         | navigation                                         |
+| Default     | Sidebar Menu Position     | sidebar-a                                          |
+| Default     | Top Bar Pill              | Show: On, Duration: `250`, Animation: Sine.easeOut |
+| Default     | Navigation Bar Pill       | Show: On, Duration: `250`, Sine.easeOut            |
+| Default     | Sidebar Menu Class Suffix | `box5`                                             |
 
 ### Layouts
 
@@ -82,53 +77,56 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style       | Option               | Setting               |
 | :---------- | :----------          | :----------           |
-| Default     | Top Positions        | Positions: 2, 5:7     |
-| Default     | Header Positions     | Positions: 2, 9:3     |
+| Default     | Top Positions        | Positions: 2, 3:9     |
+| Default     | Header Positions     | Positions: 2, 3:9     |
 | Default     | Showcase Positions   | Positions: 1, 12      |
-| Default     | Feature Positions    | Positions: 3, 3:3:6   |
-| Default     | Utility Positions    | Positions: 2, 9:3     |
+| Default     | Feature Positions    | Positions: 2, 6:6     |
 | Default     | MainTop Positions    | Positions: 3, 4:4:4   |
-| Default     | MainBody Positions   | Positions: 2, 9:3     |
-| Default     | MainBottom Positions | Positions: 3, 4:4:4   |
+| Default     | MainBody Positions   | Positions: 3, 6:3:3   |
+| Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
 | Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions     | Positions: 4, 3:3:3:3 |
+| Default     | Footer Positions     | Positions: 3, 3:3:6   |
 
 ### Mobile
 
 ![][mobile]
 
-| Style       | Option               | Position          | Setting                                      |
-| :---------- | :----------          | :----------       | :----------                                  |
-| Default     | iPhone Custom Theme  |                   | On                                           |
-| Default     | Scalable Content     |                   | Off                                          |
-| Default     | Standard View Switch | mobile-copyright  | Enable: On, Position: mobile-copyright       |
-| Default     | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide       |
-| Default     | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |
-| Default     | Positions Aliases    | mobile-drawer     | drawer                                       |
-| Default     | Positions Aliases    | mobile-top        | top-a                                        |
-| Default     | Positions Aliases    | mobile-header     | header-b                                     |
-| Default     | Positions Aliases    | mobile-navigation | mobile-navigation                            |
-| Default     | Positions Aliases    | mobile-showcase   | header-a                                     |
-| Default     | Positions Aliases    | mobile-footer     | footer-a                                     |
-| Default     | Positions Aliases    | mobile-copyright  | copyright                                    |
+| Style       | Option               | Position          | Setting                                                       |
+| :---------- | :----------          | :----------       | :----------                                                   |
+| Default     | iPhone Custom Theme  |                   | On                                                            |
+| Default     | Scalable Content     |                   | Off                                                           |
+| Default     | Standard View Switch | mobile-copyright  | Enable: Off, Position: mobile-copyright                       |
+| Default     | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Cube                         |
+| Default     | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 33%                  |
+| Default     | Header Background    |                   | From: #e8e8e8, To: #ffffff, Start: left top, End: left bottom |
+| Default     | Copyright Background |                   | From: #ffffff, To: #f0f0f0, Start: left top, End: left bottom |
+| Default     | Positions Aliases    | mobile-drawer     | drawer                                                        |
+| Default     | Positions Aliases    | mobile-top        | top-a                                                         |
+| Default     | Positions Aliases    | mobile-header     | header-b                                                      |
+| Default     | Positions Aliases    | mobile-navigation | mobile-navigation                                             |
+| Default     | Positions Aliases    | mobile-showcase   | header-a                                                      |
+| Default     | Positions Aliases    | mobile-feature    | header-a                                                      |
+| Default     | Positions Aliases    | mobile-bottom     | header-a                                                      |
+| Default     | Positions Aliases    | mobile-footer     | footer-a                                                      |
+| Default     | Positions Aliases    | mobile-copyright  | copyright                                                     |
 
 ### Advanced
 
 ![][advanced]
 
-| Style       | Option             | Setting                                    |
-| :---------- | :----------        | :----------                                |
-| Default     | Gantry Cache       | Enabled: On, Cache Timeout: 900            |
-| Default     | Input Styling      | Enabled: On, Exclusions: `'.content_vote'` |
-| Default     | Display Component  | On                                         |
-| Default     | Display Mainbody   | On                                         |
-| Default     | RTL Support        | On                                         |
-| Default     | Build Titles Spans | On                                         |
-| Default     | Page Suffix        | On                                         |
+| Style       | Option             | Setting                                                                 |
+| :---------- | :----------        | :----------                                                             |
+| Default     | Gantry Cache       | Enabled: Off, Cache Timeout: 900                                        |
+| Default     | Input Styling      | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin'` |
+| Default     | Display Component  | On                                                                      |
+| Default     | Display Mainbody   | On                                                                      |
+| Default     | RTL Support        | On                                                                      |
+| Default     | Build Titles Spans | On                                                                      |
+| Default     | Page Suffix        | Off                                                                     |
 
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
-[template2]: assets/crystalline2.jpeg
+[template2]: assets/kinetic2.jpeg
 [styles]: assets/setstyle.jpeg
 [features]: assets/setfeatures.jpeg
 [menu]: assets/setmenu.jpeg

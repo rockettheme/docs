@@ -1,19 +1,19 @@
 ---
-title: Crystalline
-description: Your Guide to Using the Crystalline Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!crystalline:Crystalline
-tags: [Template, Crystalline, Features, Requirements]
+title: Kinetic
+description: Your Guide to Using the Kinetic Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!kinetic:Kinetic
+tags: [Template, Kinetic, Features, Requirements]
 
 ---
 
 Introduction
 -----
 
-Crystalline is an elegant design, featuring an intuitive color chooser that enables the user to quickly create a stunning site with rich color and a clean look.
+Kinetic has a versatile and flexible design, styled with scrupulous precision. The styles's impressive collection of presets, and complementary module variations are key to the design's appeal, offering an array of stylistic tools to refine your forum.
 
 ![][theme]
 
->> NOTICE: Crystalline is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Kinetic is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----
@@ -25,41 +25,35 @@ Requirements
 
 For more information, visit our [Gantry documentation][gantry].
 
->> NOTE: An updated version of the Gantry 4 Framework is required for Crystalline to work properly.
+>> NOTE: An updated version of the Gantry 4 Framework is required for Kinetic to work properly.
 
 Key Features
 -----
 
 * 960 Fixed Layout
-* 12 Preset Styles
-* 68 Module Positions
-* 14 Module Variations
+* 8 Preset Styles
+* 60 Module Positions
+* 20 Module Variations
 * Fusion-Menu and Split-Menu
 * Custom Typography
 * Logo Options
 * iPhone Theme
-* Mobile Menu
+* Mobile Menu  Background Level Configuration
 
-### Color Chooser
+### Triple SplitMenu
 
-![][color]
+![][splitmenu]
 
-The Color Chooser is an interactive popup that allows you to edit the various style elements of Crystalline, such as background, text, link colour and overlay graphics, live. The transparent nature of the style perfectly complements this feature.
+There are two menu options, Triple Level SplitMenu and Fusion. The latter is a CSS based dropdown menu. Triple Level Splitmenu splits the first level, second level and all further menu items, allowing for for a navigation bar, a dropline and a sidemenu, as configurable.
 
-### Module Style
+### RTL Support
 
-![][style]
+![][rtl]
 
-There are 14 suffixes: bg1-5, title1-5, flush, flushtop, flushbottom & basic, a mix of stylistic suffixes, to adjust title/bg style and color, as well as structural suffixes. Module Variations allow for the individual styling of each module within a position, without it being global.
-
-### Fusion Menu
-
-![][fusion]
-
-Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as text that appears underneath the parent item, called subtext; inline menu images, such as the prebuilt menu icon images, as well as column number.
+Template side RTL support from the Fusion menu to the Typography; alongside Gantry's RTL support for the automatic flipping of the grid system. If Joomla is set to RTL mode, in its language settings, the template will automatically adjust to its RTL layout.
 
 [gantry]: http://www.gantry-framework.org/
-[theme]: assets/crystalline.jpeg
-[color]: assets/color.jpg
-[style]: assets/style.jpg
+[theme]: assets/kinetic.jpeg
+[splitmenu]: assets/splitmenu.jpg
+[rtl]: assets/rtl.jpg
 [fusion]: assets/fusion.jpg

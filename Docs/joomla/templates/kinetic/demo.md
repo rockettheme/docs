@@ -1,18 +1,18 @@
 ---
-title: Crystalline: Recreating the Demo
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/Kinetic:Kinetic
 
 ---
 
 Introduction
 -----
 
-![][Crystalline2]
+![][Kinetic2]
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Crystalline can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Kinetic can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Crystalline Template.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Kinetic Template.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
 
@@ -21,42 +21,38 @@ Keep in mind that a lot of the detail that makes our demos look so good are the 
 Module Settings
 -----
 
-Like any Gantry template, Crystalline allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry template, Kinetic allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 >> NOTE: Modules originally built on extensions and/or Joomla features which are no longer officially supported may not be listed in this guide. For example, modules built on RokTabs and RokStories are no longer supported. Much of their functionality can be found in RokSprocket, which was not available at the time this demo was created.
 
-![][Crystalline]
+![][Kinetic]
 
-:   1. **Custom HTML - Color Chooser**  [24%, 17%, se]
-    2. **Custom HTML - Built with the Gantry Framework** [24%, 52%, se]
-    3. **Custom HTML - Latest Upload** [35%, 17%, se]
-    4. **Custom HTML - Advanced Menu Options** [35%, 46%, se]
-    5. **RokNavMenu - Main Menu**  [35%, 69%, se]
-    6. **Custom HTML - About Us** [47%, 69%, se]
-    7. **Custom HTML - Cross Browser Compatible** [59%, 69%, se]
-    8. **Who's Online** [65%, 69%, se]
-    9. **Custom HTML -  Site Information** [81%, 17%, se]
-    10. **MainBody** [47%, 17%, se]
+:   1. **Custom HTML - Core Template Features**  [21%, 16%, se]
+    2. **Custom HTML - FP MainTop A** [25%, 16%, se]
+    3. **Mainbody** [37%, 16%, se]
+    4. **Custom HTML - Styled Addons** [59%, 50%, se]
+    5. **RokNavMenu - Main Menu**  [37%, 69%, se]
+    6. **Custom HTML - PNG Sources** [73%, 16%, se]
+    7. **Custom HTML - Help and Support** [83%, 16%, se]
+    8. **Custom HTML - Demo Information** [83%, 51%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
-1. [Custom HTML - Color Chooser][module1]
-2. [Custom HTML - Built with the Gantry Framework][module2]
-3. [Custom HTML - Latest Upload][module3]
-4. [Custom HTML - Advanced Menu Options][module4]
+1. [Custom HTML - Core Template Features][module1]
+2. [Custom HTML - FP MainTop A][module2]
+3. [Mainbody][module3]
+4. [Custom HTML - Styled Addons][module4]
 5. [RokNavMenu - Main Menu][module5]
-6. [Custom HTML - About Us][module6]
-7. [Custom HTML - Cross Browser Compatible][module7]
-8. [Who's Online][module8]
-9. [Custom HTML - Site Information][module9]
-10. [MainBody][module10]
+6. [Custom HTML - PNG Sources][module6]
+7. [Custom HTML - Help and Support][module7]
+8. [Custom HTML - Demo Information][module8]
 
 Recommended Extensions
 -----
 
-Here is a list of RocketTheme extensions we recommend using with Crystalline:
+Here is a list of RocketTheme extensions we recommend using with Kinetic:
 
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
@@ -65,7 +61,7 @@ Here is a list of RocketTheme extensions we recommend using with Crystalline:
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 
-Many of these extensions are included with the Crystalline RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these extensions are included with the Kinetic RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Menu Settings
 -----
@@ -74,14 +70,14 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `mar10-home`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `feb10-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery
-[Crystalline]: assets/crystalline2.jpeg
-[Crystalline2]: assets/crystalline.jpeg
+[Kinetic]: assets/kinetic2.jpeg
+[Kinetic2]: assets/kinetic.jpeg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster

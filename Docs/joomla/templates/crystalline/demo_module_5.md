@@ -1,7 +1,7 @@
 ---
-title: Juxta: Recreating the Demo - Site Navigation
-description: Your Guide to Recreating Elements of the Juxta Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/juxta:Juxta
+title: Crystalline: Recreating the Demo - Site Navigation
+description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
 
 ---
 

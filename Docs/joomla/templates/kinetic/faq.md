@@ -1,7 +1,7 @@
 ---
-title: Crystalline: FAQ
-description: Your Guide to Using the Crystalline Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!crystalline:Crystalline
+title: Kinetic: FAQ
+description: Your Guide to Using the Kinetic Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!kinetic:Kinetic
 
 ---
 
@@ -18,9 +18,9 @@ What is Splitmenu?
 A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
 
 [gantry]: http://gantry-framework.org/
-[features]: http://demo.rockettheme.com/joomla-Templates/crystalline/features
+[features]: http://demo.rockettheme.com/joomla-Templates/kinetic/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
-[forum]: http://www.rockettheme.com/forum/joomla-template-crystalline/
-[dropdown]: http://demo.rockettheme.com/joomla-Templates/crystalline/features/menu-options
-[splitmenu]: http://demo.rockettheme.com/joomla-Templates/crystalline/features/menu-options
-[extensions]: http://demo.rockettheme.com/joomla-Templates/crystalline/features/extensions
+[forum]: http://www.rockettheme.com/forum/joomla-template-kinetic/
+[dropdown]: http://demo.rockettheme.com/joomla-Templates/kinetic/features/menu-options
+[splitmenu]: http://demo.rockettheme.com/joomla-Templates/kinetic/features/menu-options
+[extensions]: http://demo.rockettheme.com/joomla-Templates/kinetic/features/extensions

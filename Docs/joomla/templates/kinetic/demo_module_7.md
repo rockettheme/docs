@@ -1,11 +1,11 @@
 ---
-title: Crystalline: Recreating the Demo - Cross Browser Compatible
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - Help and Support
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-Cross Browser Compatible
+Help and Support
 -----
 
 ![][demo]
@@ -18,22 +18,25 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option     | Setting                    |
-| :--------- | :-----------------         |
-| Title      | `Cross Browser Compatible` |
-| Show Title | Hide                       |
-| Position   | sidebar-a                  |
-| Status     | Published                  |
-| Access     | Public                     |
+| Option     | Setting            |
+| :--------- | :----------------- |
+| Title      | `Help and Support` |
+| Show Title | Hide               |
+| Position   | footer-a           |
+| Status     | Published          |
+| Access     | Public             |
 
 ### Custom Output
 
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p><em class="bold">Cross Browser Compatible</em></p>
-<p>This theme is compatible with the major and modern browsers, plus limited support for IE6.</p>
-[readon url="index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=153"]Learn More[/readon]
+<ul class="bullet-9">
+    <li>Frequently Asked Questions</li>
+    <li>Written Documentation</li>
+    <li>Video Guides &amp; Aides</li>
+    <li>Member Support Forum</li>
+</ul>
 ~~~
 
 ### Basic
@@ -42,7 +45,7 @@ Enter the following in the **Custom Output** text editor.
 
 | Option                    | Setting     |
 | :----------               | :---------- |
-| Prepare Content           | Yes         |
+| Prepare Content           | No          |
 | Select a Background Image | Blank       |
 
 ### Advanced
@@ -51,7 +54,7 @@ Enter the following in the **Custom Output** text editor.
 
 | Option              | Setting     |
 | :----------         | :---------- |
-| Module Class Suffix |             |
+| Module Class Suffix | `footer`    |
 
 [demo]: assets/demo_7.jpeg
 [demo2]: assets/demo_7a.jpeg

@@ -1,36 +1,47 @@
 ---
-title: Crystalline: Recreating the Demo - Who's Online
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - Demo Information
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-Who's Online
+Demo Information
 -----
 
 ![][demo]
 
-This area of the front page is a **Who's Online** module. You will find the settings used in our demo below.
+This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details
 
 ![][demo2]
 
-| Option      | Setting        |
-| :---------- | :----------    |
-| Title       | `Who's Online` |
-| Show Title  | Show           |
-| Position    | sidebar-a      |
-| Status      | Published      |
-| Access      | Public         |
+| Option     | Setting            |
+| :--------- | :----------------- |
+| Title      | `Demo Information` |
+| Show Title | Show               |
+| Position   | footer-c           |
+| Status     | Published          |
+| Access     | Public             |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
+~~~
+<p>This demo content and its references are purely for demonstration purposes only. It is intended to show off the Kinetic template so that you can see a representative example of a live site. All images are the copyright of their respective owners. This demo is available for download in the RocketLauncher format.</p>
+~~~
 
 ### Basic
 
 ![][demo3]
 
-| Option      | Setting             |
-| :---------- | :----------         |
-| Display     | # of Guests / Users |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
 
 ### Advanced
 
@@ -38,7 +49,7 @@ This area of the front page is a **Who's Online** module. You will find the sett
 
 | Option              | Setting     |
 | :----------         | :---------- |
-| Module Class Suffix | `bg5`       |
+| Module Class Suffix | `footer`    |
 
 [demo]: assets/demo_8.jpeg
 [demo2]: assets/demo_8a.jpeg
