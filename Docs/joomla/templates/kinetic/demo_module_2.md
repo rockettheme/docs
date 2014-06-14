@@ -1,11 +1,11 @@
 ---
-title: Crystalline: Recreating the Demo - Built with the Gantry Framework
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - FP MainTop A
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-Built with the Gantry Framework
+FP MainTop A
 -----
 
 ![][demo]
@@ -18,26 +18,21 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option     | Setting                              |
-| :--------- | :--------------------                |
-| Title      | `Built with the Gantry Framework v2` |
-| Show Title | Show                                 |
-| Position   | feature-c                            |
-| Status     | Published                            |
-| Access     | Public                               |
+| Option     | Setting               |
+| :--------- | :-------------------- |
+| Title      | `FP MainTop A`        |
+| Show Title | Hide                  |
+| Position   | maintop-a             |
+| Status     | Published             |
+| Access     | Public                |
 
 ### Custom Output
 
 ~~~ .html
-<img src="images/stories/demo/frontpage/ft-c-1.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/><span class="demo-sep">&nbsp;</span>
-<img src="images/stories/demo/frontpage/ft-c-2.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/><span class="demo-sep">&nbsp;</span>
-<img src="images/stories/demo/frontpage/ft-c-3.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/>
-<div class="demo-horiz-sep"></div>
-<img src="images/stories/demo/frontpage/ft-c-4.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/><span class="demo-sep">&nbsp;</span>
-<img src="images/stories/demo/frontpage/ft-c-5.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/><span class="demo-sep">&nbsp;</span>
-<img src="images/stories/demo/frontpage/ft-c-6.jpg" alt="Mar10 Demo Image" class="demo-fp-img demo-left"/>
-<div class="demo-horiz-sep"></div>
-[readon2 url="index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=154"]Read More[/readon2]
+<p class="demo-img"><img src="images/stories/demo/frontpage/ft1.jpg" alt="Feature 1" class="demo-lb-img" /></p>
+<span class="demo-title">Gantry Framework v2.0</span>
+<p>Versatile, dynamic template framework, with features such as the 960 grid system, inbuilt GZip compression and an extensive, intuitive administrative interface.</p>
+[readon url="index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=154"]Learn More[/readon]
 ~~~
 
 ### Basic
@@ -46,16 +41,16 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option                    | Setting |
 | :------------------------ | :------ |
-| Prepare Content           | Yes     |
+| Prepare Content           | No      |
 | Select a Background Image | Blank   |
 
 ### Advanced
 
 ![][demo4]
 
-| Option              | Setting       |
-| :------------------ | :------       |
-| Module Class Suffix | `flushbottom` |
+| Option              | Setting    |
+| :------------------ | :------    |
+| Module Class Suffix | `flushtop` |
 
 [demo]: assets/demo_2.jpeg
 [demo2]: assets/demo_2a.jpeg

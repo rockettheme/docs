@@ -1,11 +1,11 @@
 ---
-title: Crystalline: Recreating the Demo - About Us
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - PNG Sources
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-About Us
+PNG Sources
 -----
 
 ![][demo]
@@ -20,9 +20,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option     | Setting          |
 | :--------- | :--------------- |
-| Title      | `About Us`       |
+| Title      | `PNG Sources`    |
 | Show Title | Show             |
-| Position   | sidebar-a        |
+| Position   | bottom-a         |
 | Status     | Published        |
 | Access     | Public           |
 
@@ -31,10 +31,9 @@ This area of the front page is a **mod_custom** module. You will find the settin
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p><img src="images/stories/demo/frontpage/rt1.jpg" alt="Mar10 Demo Image" class="demo-fp-img"/></p>
-<p><em class="bold">Delivering versatile Joomla themes since Jan 2005.</em></p>
-<p>Crystalline is a creation built on the foundations of over 5 years worth of Joomla templating experience.</p>
-[readon url="index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=153"]Read More[/readon]
+<p><em class="bold2">Image sources files accompany this release</em></p>
+<p>All sources are compatible with Adobe Fireworks CS3+ only, no other formats are available.</p>
+[readon url="index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=167"]Read More[/readon]
 ~~~
 
 ### Basic
@@ -43,7 +42,7 @@ Enter the following in the **Custom Output** text editor.
 
 | Option                    | Setting     |
 | :----------               | :---------- |
-| Prepare Content           | Yes         |
+| Prepare Content           | No          |
 | Select a Background Image | Blank       |
 
 ### Advanced
@@ -52,7 +51,7 @@ Enter the following in the **Custom Output** text editor.
 
 | Option              | Setting     |
 | :----------         | :---------- |
-| Module Class Suffix | `bg3`       |
+| Module Class Suffix | `box5`      |
 
 [demo]: assets/demo_6.jpeg
 [demo2]: assets/demo_6a.jpeg

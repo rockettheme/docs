@@ -1,11 +1,11 @@
 ---
-title: Crystalline: Recreating the Demo - Advanced Menu Options
-description: Your Guide to Recreating Elements of the Crystalline Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/crystalline:Crystalline
+title: Kinetic: Recreating the Demo - Styled Addons
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-Advanced Menu Options
+Styled Addons
 -----
 
 ![][demo]
@@ -18,24 +18,21 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 ![][demo2]
 
-| Option     | Setting                 |
-| :--------- | :--------------------   |
-| Title      | `Advanced Menu Options` |
-| Show Title | Show                    |
-| Position   | content-top-c           |
-| Status     | Published               |
-| Access     | Public                  |
+| Option     | Setting               |
+| :--------- | :-------------------- |
+| Title      | `Styled Addons`       |
+| Show Title | Show                  |
+| Position   | sidebar-a             |
+| Status     | Published             |
+| Access     | Public                |
 
 ### Custom Output
 
 ~~~ .html
-<img src="images/stories/demo/frontpage/ct-a-1.jpg" alt="Mar10 Demo Image" class="demo-fp-img img-left"/>
-<span>
-    <em class="bold">Fusion Menu, Mootools powered CSS menu.</em>
-    <br />
-    SEO friendly JS enhanced CSS dropdown system.
-</span>
-<div class="ct-read">[readon url="index.php?option=com_content&view=article&id=59&Itemid=166"]More[/readon]</div>
+<p><a href="index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=161"><strong>Extensions</strong></a>  are an important aspect of any Joomla site, and Kinetic has styled integrated for many of our RocketTheme extensions such as <em>RokStories, RokAjaxSearch, RokTabs, &amp; RokNewsPager</em></p>
+<p><a href="index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=161">Download</a> our addons <a href="index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=161">Today</a></p>
+<p><strong>Preview our extensions below</strong></p>
+<a href="index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=161"><img src="images/stories/demo/frontpage/extensions.png" alt="Extensions" /></a>
 ~~~
 
 ### Basic
@@ -44,16 +41,16 @@ This area of the front page is a **mod_custom** module. You will find the settin
 
 | Option                    | Setting |
 | :------------------------ | :------ |
-| Prepare Content           | Yes     |
+| Prepare Content           | No      |
 | Select a Background Image | Blank   |
 
 ### Advanced
 
 ![][demo4]
 
-| Option              | Setting       |
-| :------------------ | :---------    |
-| Module Class Suffix | `flushbottom` |
+| Option              | Setting    |
+| :------------------ | :--------- |
+| Module Class Suffix | `ribbon2`  |
 
 [demo]: assets/demo_4.jpeg
 [demo2]: assets/demo_4a.jpeg

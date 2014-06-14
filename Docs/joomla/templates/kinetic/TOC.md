@@ -1,15 +1,15 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!crystalline:Crystalline
+breadcrumb: /joomla:Joomla/!templates:Templates/!kinetic:Kinetic
 
-details: http://www.rockettheme.com/joomla/templates/crystalline
-demo: http://demo.rockettheme.com/joomla-templates/crystalline/
-download: http://www.rockettheme.com/joomla/templates/crystalline/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-crystalline
+details: http://www.rockettheme.com/joomla/templates/kinetic
+demo: http://demo.rockettheme.com/joomla-templates/kinetic/
+download: http://www.rockettheme.com/joomla/templates/kinetic/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-kinetic
 
 ---
 
-* Crystalline
+* Kinetic
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
@@ -22,16 +22,14 @@ support: http://www.rockettheme.com/forum/joomla-template-crystalline
         * [Extensions](demo.md#recommended-extensions)
         * [Template Settings](demo_override.md)
         * [Module Settings](demo.md#module-settings)
-            * [Color Chooser](demo_module_1.md)
-            * [Built with the Gantry Framework](demo_module_2.md)
-            * [Latest Upload](demo_module_3.md)
-            * [Advanced Menu Options](demo_module_4.md)
-            * [Site Navigation](demo_module_5.md)
-            * [About Us](demo_module_6.md)
-            * [Cross Browser Compatible](demo_module_7)
-            * [Who's Online](demo_module_8)
-            * [Site Information](demo_module_9)
-            * [MainBody](demo_module_10)
+            * [Core Template Features](demo_module_1.md)
+            * [FP MainTop A](demo_module_2.md)
+            * [Mainbody](demo_module_3.md)
+            * [Styled Addons](demo_module_4.md)
+            * [Main Menu](demo_module_5.md)
+            * [PNG Sources](demo_module_6.md)
+            * [Help and Support](demo_module_7)
+            * [Demo Information](demo_module_8)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)
 * Template Tutorials

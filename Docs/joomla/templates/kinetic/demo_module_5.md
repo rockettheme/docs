@@ -1,28 +1,28 @@
 ---
-title: Juxta: Recreating the Demo - Site Navigation
-description: Your Guide to Recreating Elements of the Juxta Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/juxta:Juxta
+title: Kinetic: Recreating the Demo - Main Menu
+description: Your Guide to Recreating Elements of the Kinetic Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/kinetic:Kinetic
 
 ---
 
-Site Navigation
+Main Menu
 -----
 
 ![][demo]
 
-The **Site Navigation** module is a standard **Menu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
+The **Main Menu** module is a **RokNavMenu** module. Here is a breakdown of the options selected to make it appear as it does on the front page of our demo.
 
 ### Details
 
 ![][demo2]
 
-| Option      | Setting           |
-| :---------- | :----------       |
-| Title       | `Site Navigation` |
-| Show Title  | Show              |
-| Position    | sidebar-a         |
-| Status      | Published         |
-| Access      | Public            |
+| Option      | Setting     |
+| :---------- | :---------- |
+| Title       | `Main Menu` |
+| Show Title  | Show        |
+| Position    | sidebar-b   |
+| Status      | Published   |
+| Access      | Public      |
 
 ### Basic Options
 
@@ -31,9 +31,11 @@ The **Site Navigation** module is a standard **Menu** module. Here is a breakdow
 | Option              | Setting     |
 | :----------         | :---------- |
 | Select Menu         | Main Menu   |
-| Start Level         | 1           |
-| End Level           | All         |
+| Limit Levels        | No          |
+| Start Level         | 0           |
+| End Level           | 0           |
 | Show Sub-menu Items | No          |
+| Themes              | Default     |
 
 ### Advanced Options
 
@@ -41,7 +43,7 @@ The **Site Navigation** module is a standard **Menu** module. Here is a breakdow
 
 | Option              | Setting     |
 | :----------         | :---------- |
-| Module Class Suffix | `bg1`       |
+| Module Class Suffix | `box5`      |
 
 [demo]: assets/demo_5.jpeg
 [demo2]: assets/demo_5a.jpeg
