@@ -94,7 +94,7 @@ more:
 	- [Cystalline](templates/crystalline)
 	- [Kinetic](templates/kinetic)
 	- [Dominion](templates/dominion)
-	- [Reaction (Coming Soon)](templates/reaction)
+	- [Reaction](templates/reaction)
 
 
 <!-- -->

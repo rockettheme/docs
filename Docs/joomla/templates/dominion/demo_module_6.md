@@ -10,7 +10,7 @@ Mainbody
 
 ![][demo]
 
-This area of the front page is an article. Articles appear within the **Mainbody** area of the front page.
+This area of the front page three articles. Articles appear within the **Mainbody** area of the front page.
 
 Turning on Mainbody Content
 -----
@@ -75,7 +75,7 @@ Here is the **Article Text** used on the second article, **Stunning Style Variat
 <p>Nullam eget neque. Nullam imperdiet venenatis ligula. Integer a leo. Nunc consectetur. Maecenas sem. Proin vulputate, massa vel volutpat laoreet, purus erat pretium ligula, eget varius arcu nibh sed libero. Fusce ante. Nullam interdum aliquet metus. Ut ultrices vestibulum tellus. Praesent quis erat. Nam id turpis sit amet neque cursus luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque id tortor. In vitae sapien. Nunc quis tellus.</p>
 ~~~
 
-Here is the **Article Text** used on the second article, **Advanced Menu System**.
+Here is the **Article Text** used on the third article, **Advanced Menu System**.
 
 ~~~ .html
 <p class="demo-img"><img src="images/stories/demo/frontpage/mb-3.jpg" alt="demo image" class="rt-image" /></p>

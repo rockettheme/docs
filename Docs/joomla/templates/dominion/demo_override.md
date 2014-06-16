@@ -12,11 +12,10 @@ One of the most important aspects of any Gantry template is its ability to be ea
 ![][template2]
 
 :   1. **Logo** [6%, 18%, se]
-    2. **Menu** [10%, 18%, se]
-    3. **Branding** [90%, 18%, se]
-    4. **Copyright** [92%, 45%, se]
-    5. **Login Panel** [22%, 78%, sw]
-    6. **Color Chooser** [6%, 78%, sw]
+    2. **Menu** [9%, 18%, ne]
+    3. **Copyright** [90%, 18%, se]
+    4. **To-Top Scroller** [93%, 83%, sw]
+
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
 

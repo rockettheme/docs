@@ -45,7 +45,7 @@ Key Features
 
 ![][fusion]
 
-Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as text that appears underneath the parent item, called subtext; inline menu images, such as the prebuilt menu icon images, as well as column number.
+Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as text that appears underneath the parent item, called subtext; inline menu images, such as the prebuilt menu icon images, as well as number of columns of child items.
 
 ### RTL Support
 
