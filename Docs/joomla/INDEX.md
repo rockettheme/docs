@@ -93,7 +93,7 @@ more:
 	- [Quantive](templates/quantive)
 	- [Cystalline](templates/crystalline)
 	- [Kinetic](templates/kinetic)
-	- [Dominion (Coming Soon)](templates/dominion)
+	- [Dominion](templates/dominion)
 	- [Reaction (Coming Soon)](templates/reaction)
 
 
