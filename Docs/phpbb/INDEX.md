@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Osmosis](styles/osmosis)
 	- [Vermilion](styles/vermilion)
 	- [Lexicon](styles/lexicon)
 	- [Epsilon](styles/epsilon)
