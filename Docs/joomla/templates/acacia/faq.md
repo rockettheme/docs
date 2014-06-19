@@ -19,7 +19,7 @@ What is RokSprocket?
 
 What is Gantry?
 -----
-[Gantry][gantry] is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 What is DropDown Menu?
 -----
@@ -27,7 +27,7 @@ What is DropDown Menu?
 
 What is Splitmenu?
 -----
-A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
+A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar.
 
 What extensions are integrated with the template?
 -----

@@ -32,11 +32,11 @@ The search area of the front page is a **mod_rokajaxsearch** module that allows 
 | :----------                       | :----------                                              |
 | Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
 | Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
-| Include RokAjaxSearch default CSS | Yes                                                      |
-| Theme Style                       | Blue                                                     |
+| Include RokAjaxSearch default CSS | No                                                       |
+| Theme Style                       | Light                                                    |
 | Searchphrase                      | Any words                                                |
 | Ordering                          | Newest First                                             |
-| Limit                             | 30                                                       |
+| Limit                             | 10                                                       |
 | Results Per Page                  | 3                                                        |
 | Google Web Search                 | Yes                                                      |
 | Google Blog Search                | Yes                                                      |

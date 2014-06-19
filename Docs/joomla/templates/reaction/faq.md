@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!reaction:Reaction
 
 What is Gantry?
 -----
-[Gantry][gantry] is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 What is Fusion Menu?
 -----
@@ -15,7 +15,7 @@ Fusion Menu is a menu theme of the RokNavMenu extension, the addon that drives m
 
 What is Splitmenu?
 -----
-A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
+A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar.
 
 [gantry]: http://gantry-framework.org/
 [features]: http://demo.rockettheme.com/joomla-Templates/reaction/features

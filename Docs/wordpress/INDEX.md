@@ -80,7 +80,7 @@ more:
 	- [Voxel](themes/voxel)
 	- [Diametric](themes/diametric)
 	- [Ionosphere](themes/ionosphere)
-	- [Clarion (Coming Soon)](themes/clarion)
+	- [Clarion](themes/clarion)
 	- [Halcyon (Coming Soon)](themes/halcyon)
 	- [Visage (Coming Soon)](themes/visage)
 	- [Enigma (Coming Soon)](themes/enigma)

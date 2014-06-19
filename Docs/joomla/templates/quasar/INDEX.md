@@ -44,7 +44,7 @@ Key Features
 
 ### Gantry Framework
 
-The most noticeable feature of Quasar is most certainly its incorporation of the new Gantry Framework. Gantry is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla. 
+The most noticeable feature of Quasar is most certainly its incorporation of the new Gantry Framework. Gantry is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla. 
 
 ### CSS Dropdown Menu
 

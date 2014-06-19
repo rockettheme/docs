@@ -1,11 +1,11 @@
 ---
-title: Reaction: Recreating the Demo - Advanced Menu Options
+title: Reaction: Recreating the Demo - Featured Articles
 description: Your Guide to Recreating Elements of the Reaction Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/reaction:Reaction
 
 ---
 
-Advanced Menu Options
+Featured Articles
 -----
 
 ![][demo]
@@ -116,7 +116,7 @@ Here is the **Article Text** for the last article on this front page, **Menu Str
 <p>Nullam eget neque. Nullam imperdiet venenatis ligula. Integer a leo. Nunc consectetur. Maecenas sem. Proin vulputate, massa vel volutpat laoreet, purus erat pretium ligula, eget varius arcu nibh sed libero. Fusce ante. Nullam interdum aliquet metus. Ut ultrices vestibulum tellus. Praesent quis erat. Nam id turpis sit amet neque cursus luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque id tortor. In vitae sapien. Nunc quis tellus.</p>
 ~~~
 
-Once this articles are created and set to **Featured**, they should appear on the front page.
+Once these articles are created and set to **Featured**, they should appear on the front page.
 
 [demo]: assets/demo_4.jpg
 [advanced]: assets/setadvanced.jpeg

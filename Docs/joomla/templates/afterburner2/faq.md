@@ -13,7 +13,7 @@ No, Afterburner2 is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 s
 
 #### What is Gantry?
 
-Gantry is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+Gantry is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 [More Details...][gantry]
 
