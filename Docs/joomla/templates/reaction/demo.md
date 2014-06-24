@@ -63,15 +63,6 @@ Here is a list of RocketTheme extensions we recommend using with Reaction:
 
 Many of these extensions are included with the Reaction RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
-Menu Settings
------
-
-![][mainmenu]
-
-In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
-
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `mar10-home`.
-
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox

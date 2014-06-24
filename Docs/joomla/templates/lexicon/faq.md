@@ -33,7 +33,7 @@ What is DropDown Menu?
 What is Splitmenu?
 -----
 
-A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar. You can find more information [here][splitmenu].
+A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar.
 
 What extensions are integrated with the template?
 -----

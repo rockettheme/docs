@@ -47,7 +47,7 @@ Key Features
 
 Grunge is the built with the [Gantry Framework][gantry], which includes powerful features such as menu item control, RTL support, custom presets and many more. This is all on top of the first generation features, making Gantry the most noticeable, and far reaching feature of the template.
 
-Gantry is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla. 
+Gantry is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla. 
 
 ### CSS Dropdown Menu
 

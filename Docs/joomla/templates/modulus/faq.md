@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!modulus:Modulus
 
 What is Gantry?
 -----
-[Gantry][gantry] is, as a basic definition, A framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 What is Fusion Menu?
 -----
