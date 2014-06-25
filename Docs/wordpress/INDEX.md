@@ -81,7 +81,7 @@ more:
 	- [Diametric](themes/diametric)
 	- [Ionosphere](themes/ionosphere)
 	- [Clarion](themes/clarion)
-	- [Halcyon (Coming Soon)](themes/halcyon)
+	- [Halcyon](themes/halcyon)
 	- [Visage (Coming Soon)](themes/visage)
 	- [Enigma (Coming Soon)](themes/enigma)
 	- [Momentum (Coming Soon)](themes/momentum)
