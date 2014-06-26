@@ -24,7 +24,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Fractur
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
+* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokGallery][rokgallery]
 * [RokSprocket][roksprocket]
 
@@ -46,7 +46,7 @@ It would be a good idea for organization to name this layout override something 
 We do not display any pages or posts on the front page of our demo, except through RokSprocket widgets. Because of this, we will need to cancel out the main content area while preserving our sidebar positions. To do this, you will want to select the **Display Content** field and turn this off.
 
 #### Assignments
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **theme Page Types** list, you will want to select both **Home Page** and **Front Page**.
+The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
@@ -93,8 +93,8 @@ One important thing to note here is that many of the widget sections included in
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [fracture]: assets/wp_fracture.jpg
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[rokgallery]: http://www.rockettheme.com/extensions-joomla/rokgallery
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
+[rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
 [menu]: ../../start/menu.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/

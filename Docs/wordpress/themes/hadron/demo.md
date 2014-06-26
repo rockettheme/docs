@@ -24,7 +24,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Hadron:
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
+* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokSprocket][roksprocket]
 
 All of these plugins are included with the Hadron RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.

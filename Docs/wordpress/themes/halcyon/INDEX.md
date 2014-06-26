@@ -38,7 +38,7 @@ Key Features
 
 ![][splicemenu]
 
-SpliceMenu is a new menu option that combines the dynamic, animation-based features of Fusion, with the dropline and sidemenu approach of SplitMenu. The dropline appears on hover, and all further children appear in the sidebar, or another configurable location.
+SpliceMenu is a menu option that combines the dynamic, animation-based features of Fusion, with the dropline and sidemenu approach of SplitMenu. The dropline appears on hover, and all further children appear in the sidebar, or another configurable location.
 
 ### Mobile Theme
 

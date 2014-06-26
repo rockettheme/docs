@@ -24,7 +24,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Chapelc
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
+* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokSprocket][roksprocket]
 * [RokGallery][gallery]
 
@@ -43,7 +43,7 @@ The first thing you will need to do in order to set your front page apart as it 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
 #### Assignments
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**.
+The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**. These settings can be found by navigating to **Assignments > Template Page Types** in the theme settings.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
