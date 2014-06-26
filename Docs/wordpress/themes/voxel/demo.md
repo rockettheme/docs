@@ -24,9 +24,8 @@ Here is a list of RocketTheme plugins used to create the demo version of Voxel:
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
+* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokGallery][rokgallery]
-* RokSocialButtons (Included in Voxel Theme Plugins)
 * [RokSprocket][roksprocket]
 
 All of these plugins are included with the Voxel RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
@@ -45,7 +44,7 @@ It would be a good idea for organization to name this layout override something 
 
 #### Assignments
 
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**.
+The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**. These settings can be found by navigating to **Assignments > Template Page Types** in the theme settings.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
@@ -108,8 +107,8 @@ One important thing to note here is that many of the widget sections included in
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [Voxel]: assets/Voxel.jpeg
 [voxel2]: assets/Voxel2.jpeg
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[rokgallery]: http://www.rockettheme.com/extensions-joomla/rokgallery
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
+[rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
 [navigation]: demo_navigation.md

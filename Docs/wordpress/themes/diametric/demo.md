@@ -24,9 +24,9 @@ Here is a list of RocketTheme plugins used to create the demo version of Diametr
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Should be Installed and Activated Before RokGallery and/or RokSprocket)
+* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 * [RokGallery][rokgallery]
-* [RokSocialButtons][social] (Included in Diametric Theme Plugins)
+* [RokSocialButtons][social]
 * [RokSprocket][roksprocket]
 
 All of these plugins are included with the Diametric RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
@@ -43,7 +43,7 @@ The first thing you will need to do in order to set your front page apart as it 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
 #### Assignments
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**.
+The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**. These settings can be found by navigating to **Assignments > Template Page Types** in the theme settings.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
@@ -94,8 +94,8 @@ One important thing to note here is that many of the widget sections included in
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [diametric]: assets/diametric.jpeg
 [diametric2]: assets/diametric2.jpeg
-[roksprocket]: http://www.rockettheme.com/extensions-joomla/roksprocket
-[rokgallery]: http://www.rockettheme.com/extensions-joomla/rokgallery
+[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
+[rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
 [menu]: ../../start/menu.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
@@ -113,4 +113,4 @@ One important thing to note here is that many of the widget sections included in
 [footer]: demo_footer.md
 [copyright]: demo_copyright.md
 [demooverride]: demo_override.md
-[social]: http://www.rockettheme.com/wordpress-downloads/club/3402-Diametric
+[social]: http://www.rockettheme.com/wordpress/plugins/rokutilities
