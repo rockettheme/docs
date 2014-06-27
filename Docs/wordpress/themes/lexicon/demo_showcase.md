@@ -65,4 +65,4 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo]: assets/demo_1.jpeg
+[demo]: assets/demo_2.jpeg
