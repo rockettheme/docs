@@ -12,8 +12,6 @@ How to Configure RokCandy
 
 RokCandy is distributed with default snippets for a variety of logical purposes such as for content title. However, Joomla offers its templates the capacity to override the platform's core. In this manner, we can add files to the template that will override the snippets in RokCandy. Therefore, you can quickly add and edit your own macros without modifying core files. 
 
-The file is called **default.ini** and, if you are using a RocketTheme template which uses RokCandy, it will be located in the `/templates/rt_TEMPLATE_NAME/html/com_rokcandy/` directory. However, if the folder does not exist, you will have to create the necessary folders as shown in the path above and create a new file named default.ini. 
-
 ![][rokcandy2]
 
 Also, you can add and control your own in the Administrator: **Components -> RokCandy**. They will appear in the following format:
@@ -33,6 +31,29 @@ As is apparent, each line is separated into distinctive sections. There are two 
 ~~~
 [box title={title} link={link}]{text}[/box]=<div class="box"><h3><a href="/{link}">{title}</a></h3><p>{text}</p></div>
 ~~~
+
+RokCandy Use in RocketTheme Template Demos
+-----
+
+Many of our demos feature content that takes advantage of RokCandy. By using `[span]` tags in module titles and other areas where HTML code may not be easily injected, we can quickly reference custom CSS classes that change the way this content appears on the frontend.
+
+There is one additional macro that you will need to add to RokCandy in order to properly replicate demo content that uses custom CSS class spans in module titles.
+
+To create this macro in RokCandy, simply click the green **New** button in the upper-left area of the RokCandy Manager page. From here, you will need to enter the following information.
+
+In the Macro field, enter:
+
+~~~ .html
+[span class="{class}"]{text}[/span]
+~~~ 
+
+In the HTML field, enter:
+
+~~~ .html
+<span class="{class}">{text}</span>
+~~~
+
+Once this macro has been saved and published, you should be able to replicate any demo content that features the `[span]` macro tag in its content.
 
 [rokcandy1]: assets/rokcandy_1.jpeg
 [rokcandy2]: assets/rokcandy_2.jpeg

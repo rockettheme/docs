@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
 	- [Vermilion](templates/vermilion)
 	- [Lexicon](templates/lexicon)
