@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!plethora:Plethora
 Introduction
 -----
 
-Plethora follows a vibrant, but elegant design direction, allowing for full width beautiful backgrounds in the header, fixing them as the site's focal point. An excellent method of making the template unique with a few simple steps.
+Plethora is the perfect platform for displaying vast amount of content in a coherent and integrated manner. The template is ideal for news, magazine or similar content driven sites, whilst still being visually and functionally flexible for other types.
 
 ![][template]
 
@@ -24,16 +24,14 @@ Requirements
 Key Features
 -----
 
-* Fluid Responsive Layout
-* Normal Responsive Layout
+* Responsive Layout
 * 6 Preset Styles
-* Parallax Background
 * Content Animations
-* 75 Module Positions
+* 89 Module Positions
 * 1200 Fixed Option
-* 960 Fixed Option
 * 8 Styled Module Suffixes
 * Structural Module Suffixes
+* 960 Fixed Option
 * Dropdown-Menu and Split-Menu
 * Custom Typography
 * Custom Logo Option
