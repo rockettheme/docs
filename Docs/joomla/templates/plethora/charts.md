@@ -17,7 +17,7 @@ Plethora supports chart creation and management.
 Chart.js Support
 -----
 
-Plethora introduces built-in support for [Chart.js][chartjs]. This element allows you to quickly and easily create dynamic graphs that display information in a variety of ways. 
+Plethora includes built-in support for [Chart.js][chartjs]. This element allows you to quickly and easily create dynamic graphs that display information in a variety of ways. 
 
 ![][chart_1]
 

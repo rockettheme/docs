@@ -22,7 +22,7 @@ In order for this to work, you should have the **Page Suffix** option set to **O
 Mainbody
 -----
 
-![][portfoliopage7]
+![][portfoliopage6]
 
 The page's content body is set in the **Portfolio** article. You will find the content used in the article below.
 
@@ -73,23 +73,21 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][portfoliopage]
 
-:   1. **Custom HTML - Portfolio** [8%, 45%, se]
-    2. **Breadcrumbs** [13%, 13%, se]
-    3. **RokSprocket Mosaic** [16%, 13%, se]
-    4. **RokSprocket Strips - What Our Clients Say** [48%, 13%, se]
-    5. **Custom HTML - Our Satisfied Clients** [75%, 13%, se]
-    6. **Custom HTML - Plethora Demo** [85%, 13%, se]
-    7. **Custom HTML - Sample Contact Info** [85%, 52%, se]
-    8. **Article Content** [57%, 13%, se]
+:   1. **Custom HTML - Portfolio** [10%, 45%, se]
+    2. **RokSprocket Mosaic** [16%, 13%, se]
+    3. **RokSprocket Strips - What Our Clients Say** [48%, 13%, se]
+    4. **Custom HTML - Our Satisfied Clients** [70%, 13%, se]
+    5. **Custom HTML - Plethora Demo** [81%, 13%, se]
+    6. **Custom HTML - Sample Contact Info** [81%, 52%, se]
+    7. **Article Content** [52%, 13%, se]
 
 1. [Custom HTML - Portfolio](portfolio.md#custom-html---portfolio)
-2. [Breadcrumbs](portfolio.md#breadcrumbs)
-3. [RokSprocket Mosaic](portfolio.md#roksprocket-mosaic)
-4. [RokSprocket Strips - What Our Clients Say](portfolio.md#what-our-clients-say)
-5. [Custom HTML - Our Satisfied Clients](portfolio.md#custom-html---our-satisfied-clients)
-6. [Custom HTML - Plethora Demo](portfolio.md#custom-html---plethora-demo)
-7. [Custom HTML - Sample Contact Info](portfolio.md#custom-html---sample-contact-info)
-8. [Article Content](portfolio.md#mainbody)
+2. [RokSprocket Mosaic](portfolio.md#roksprocket-mosaic)
+3. [RokSprocket Strips - What Our Clients Say](portfolio.md#what-our-clients-say)
+4. [Custom HTML - Our Satisfied Clients](portfolio.md#custom-html---our-satisfied-clients)
+5. [Custom HTML - Plethora Demo](portfolio.md#custom-html---plethora-demo)
+6. [Custom HTML - Sample Contact Info](portfolio.md#custom-html---sample-contact-info)
+7. [Article Content](portfolio.md#mainbody)
 
 ### Custom HTML - Portfolio
 
@@ -124,33 +122,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :----------               | :----------                                   |
 | Module Class Suffix       | `rt-center rt-title-large rt-nomodulecontent` |
 
-### Breadcrumbs
-
-![][portfoliopage4]
-
-#### Module
-
-| Option              | Setting       |
-| :----------         | :-----------  |
-| Title               | `Breadcrumbs` |
-| Show You Are Here   | No            |
-| Show Home           | Yes           |
-| Text for Home Entry |               |
-| Show Last           | Yes           |
-| Text Separator      |               |
-| Show Title          | Hide          |
-| Status              | Published     |
-| Access              | Public        |
-
-##### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix |             |
-
 ### RokSprocket Mosaic
 
-![][portfoliopage5]
+![][portfoliopage4]
 
 #### Module
 
@@ -198,7 +172,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### What Our Clients Say
 
-![][portfoliopage6]
+![][portfoliopage5]
 
 #### Module
 
@@ -251,7 +225,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Our Satisfied Clients
 
-![][portfoliopage8]
+![][portfoliopage7]
 
 #### Module
 
@@ -314,7 +288,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Plethora Demo
 
-![][portfoliopage9]
+![][portfoliopage8]
 
 #### Module
 
@@ -348,7 +322,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Sample Contact Info
 
-![][portfoliopage10]
+![][portfoliopage9]
 
 #### Module
 
