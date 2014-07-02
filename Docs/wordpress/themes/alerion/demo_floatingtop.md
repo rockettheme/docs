@@ -1,11 +1,11 @@
 ---
-title: Alerion: Recreating the Demo - Floating Widget Top
+title: Alerion: Recreating the Demo - Floating Module Top
 description: Your Guide to Recreating Elements of the Alerion Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/alerion:Alerion
 
 ---
 
-Floating Widget Top Section
+Floating Module Top Section
 -----
 
 ![][demo]
