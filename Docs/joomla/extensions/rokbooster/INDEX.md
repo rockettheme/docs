@@ -54,9 +54,10 @@ The same goes for JavaScript files. Sites that feature a lot of functionality ar
 Images are another area that RokBooster comes in handy. It is capable of converting inline and background images below a certain file size into data so they are loaded faster and smoother. This data is placed directly into the HTML, replacing the call to an external file.
 
 ### A Note About RokBooster as a Solution
+
 RokBooster was created to help solve an issue facing site administrators responsible for sites in a variety of different situations. Whether your site is hosted on multiple servers and/or CDNs internationally, or sitting on a shared server hosted by a busy hosting provider, its intention is to assist in streamlining your site by reducing the number of requests made by visitors, compressing CSS and JavaScript, and the optimization of image files.
 
-it is important to note that RokBooster is just one piece of the optimization puzzle. Site speed ranking tools like YSlow and Google PageSpeed do not tell the full story of your site's real-world experience with users. While these rankings are often considered important for SEO (some search engines consider site speed in page rank) there is much more you can do to improve your site that a single extension can not do.
+It is important to note that RokBooster is just one piece of the optimization puzzle. Site speed ranking tools like YSlow and Google PageSpeed do not tell the full story of your site's real-world experience with users. While these rankings are often considered important for SEO (some search engines consider site speed in page rank) there is much more you can do to improve your site that a single extension can not do.
 
 Optimizing your MySQL database, finding a good hosting provider and spending the extra money for a dedicated server, keeping your sites free of extension crawl, reducing the amount of information you pull from external sources for each page view, and implementing site caching are just some of the ways you can incrementally improve site performance for your visitors. 
 

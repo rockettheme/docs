@@ -17,7 +17,7 @@ Joomla is a completely free open source solution available to anyone and everyon
 
 Joomla is backed by a large and active developer community. With thousands of unique and useful extensions and templates available, it is presently one of the largest single site building platforms available. It is this incredible community effort that makes Joomla a great choice for developers searching for a single platform with which they can receive active support from their peers.
 
-it is important to think of Joomla not as a limited platform on which a specific type of site is built, but a robust set of tools that makes it possible to connect visitors to data in a variety of ways. Joomla's extensive set of integrated technologies empowers site managers and developers to innovate well beyond the bounds of a simple website.
+It is important to think of Joomla not as a limited platform on which a specific type of site is built, but a robust set of tools that makes it possible to connect visitors to data in a variety of ways. Joomla's extensive set of integrated technologies empowers site managers and developers to innovate well beyond the bounds of a simple website.
 
 You can find out more about Joomla by visiting [Joomla.org](http://www.joomla.org/).
 

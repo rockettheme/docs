@@ -109,6 +109,8 @@ You can access the RokBooster plugin settings by navigating to **Extensions -> P
 
 6. **Cache File Permissions**: Permissions that the RokBooster cache files are created with. Do not change unless you need to.
 
+>> NOTE: Using wildcards (ex: /folder/*.*, /folder/ab?.js) is possible in the **Ignored Files** setting. This should be used carefully and tested thoroughly before taking these changes live.
+
 ### Debug Settings
 ![][rokbooster_setup_7]
 
