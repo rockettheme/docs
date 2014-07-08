@@ -82,14 +82,13 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | Feature Positions        | Positions: 4, 3:3:3:3 |
 | Default     | MainTop Positions        | Positions: 4, 3:3:3:3 |
 | Default     | ExpandedTop Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainBody Positions       | Positions: 1, 9       |
-| Default     | MainBottom Positions     | Positions: 4, 2:2:2:3 |
-| Default     | ExpandedBottom Positions | Positions: 4, 2:2:2:3 |
-| Default     | Extension Positions      | Positions: 4, 2:2:2:3 |
-| Default     | Bottom Positions         | Positions: 4, 2:2:2:3 |
-| Default     | Footer Positions         | Positions: 3, 3:3:3   |
-| Default     | Copyright Positions      | Positions: 4, 2:2:2:3 |
-| Home        | MainBody Positions       | Positions: 1, 9       |
+| Default     | MainBody Positions       | Positions: 1, 12      |
+| Default     | MainBottom Positions     | Positions: 4, 3:3:3:3 |
+| Default     | ExpandedBottom Positions | Positions: 4, 3:3:3:3 |
+| Default     | Extension Positions      | Positions: 4, 3:3:3:3 |
+| Default     | Bottom Positions         | Positions: 4, 3:3:3:3 |
+| Default     | Footer Positions         | Positions: 3, 4:4:4   |
+| Default     | Copyright Positions      | Positions: 4, 3:3:3:3 |
 
 ### Advanced
 
@@ -120,7 +119,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [assignments]: assets/assignments_settings.jpeg
 [style]: assets/style_settings.jpeg
 [advanced]: assets/advanced_settings.jpeg
-[layouts]: assets/layouts_settings.jpeg
+[layouts]: assets/setlayouts.jpg
 [menu2]: assets/menu_settings.jpeg
 [features]: assets/features_settings.jpeg
 [setsocial]: assets/setsocial.jpg

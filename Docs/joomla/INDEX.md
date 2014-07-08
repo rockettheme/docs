@@ -142,6 +142,7 @@ more:
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
 	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
 	- [Frequently Asked Questions](basic/faq.md)
+	- [How to Identify an Existing Module](module_identitification.md)
 
 <!-- -->
 

@@ -57,7 +57,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][setsocial]
 
-| Social Netowkr / Link Type | Icon                | Text     |  
+| Social Network / Link Type | Icon                | Text     |  
 | :------------------------- | :------------------ | :------- |  
 | Facebook                   | `fa fa-facebook`    | Facebook |  
 | Google+                    | `fa fa-google-plus` | Google + |  
