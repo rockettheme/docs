@@ -82,7 +82,7 @@ more:
 	- [Ionosphere](themes/ionosphere)
 	- [Clarion](themes/clarion)
 	- [Halcyon](themes/halcyon)
-	- [Visage (Coming Soon)](themes/visage)
+	- [Visage](themes/visage)
 	- [Enigma (Coming Soon)](themes/enigma)
 	- [Momentum (Coming Soon)](themes/momentum)
 	- [Radiance (Coming Soon)](themes/radiance)

@@ -89,7 +89,6 @@ One important thing to note here is that many of the widget sections included in
 * [Copyright][copyright]
 * [Social][social]
 
-The featured posts on the front page of the demo are outlined in the [Featured posts][posts] area of this documentation.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
