@@ -26,78 +26,92 @@ Setup
 
 ## Step 1: Install Additional Languages
 
-![][joomla_25_1]
+![][multilanguage_1]
 
-:   1. **Languages** [80%, 7%, se]
-    2. **Install** [10%, 70%, se]
+:   1. **Install Language** [40%, 15%, se]
 
 First thing that you should do is to install additional languages that will be used on the web site. You can do this by navigating to **Extensions Manager -> Install Languages**, selecting the language(s) you wish to install, and clicking the yellow **Install** button in the upper-right area of the page.
+
+![][multilanguage_2]
+
+:   1. **Languages** [43%, 30%, se]
+    2. **Install** [22%, 10%, se]
 
 When you installed all the required languages go to **Language Manager** which can be reached by going to **Administrator -> Extensions -> Language Manager**. On the **Installed - Site** tab, you will see the list of all installed languages on the web site. Now, we just need to add content languages.
 
 ## Step 2: Create New Content Languages
 
-![][joomla_25_2]
+![][multilanguage_3]
 
-:   1. **Content Tab** [35%, 27%, se]
-    2. **New** [15%, 58%, se]
+:   1. **Content Tab** [50%, 10%, se]
+    2. **New** [28%, 10%, se]
 
 You can do this by selecting the **Content** tab and then selecting **New**. This will take you to a page that enables you to set up a new content language for your site.
  
-![][joomla_25_3]
+![][multilanguage_4]
 
 Fill out the required information in this page. This information includes:
 
 * **Title**: The Name of the language as it will appear on the site.
 * **Title Native**: Title in its native language.
 * **URL Language Code**: The language code is appended to the site URL. (Example: http://mysite.com/sp/)
-* **Image Prefix**: Prefix of the image file for this language when using the *Use image flags* Language Switcher basic option. (Example: enus for enus.gif)
+* **Image Prefix**: Prefix of the image file for this language when using the *Use image flags* Language Switcher basic option. (Example: fr for fr.gif)
 * **Language Tag**: Enter the exact prefix used for the language installed (or to be installed). (Example: en-GB)
+
+>> NOTE: A lot of this information can be found on the **Installed Languages** page in the **Language Manager**. The **Language Tag** should be an exact match to what appears on this page.
 
 Once you have filled in this information, click **Save and Close**. This will take you back to the **Content Languages** page where you will see your new language(s) listed along with any pre-existing content languages.
 
+![][multilanguage_5]
+
 ## Step 3: Configure and Enable the Language Filter Plugin
  
-![][joomla_25_5]
+![][multilanguage_6]
 
-:   1. **Basic Options** [32%, 59%, se]
-    2. **Status** [40%, 19%, se]
-
-The next step requires you to navigate to **Extensions -> Plug-in Manager** in order to configure Joomla multilingual plugins. The plugin you need to find here is **System - Language Filter**. 
+The next step requires you to navigate to **Extensions -> Plug-in Manager** in order to configure Joomla multilingual plugin. The plugin you need to find here is **System - Language Filter**. This plugin enables the CMS to recognize various installed languages and filter content so what's displayed matches the language selected.
 
 Click the plugin to access the configuration page. Here, you can set the **Basic Options** as you see fit. Here are some example settings which should work in most cases.
+
+![][multilanguage_7]
 
 | Option                              | Setting     |
 | :----------                         | :---------- |
 | Language Selection for New Visitors | Browser     |
 | Automatic Language Change           | Yes         |
-| Menu Associations                   | Yes         |
+| Item Associations                   | Yes         |
 | Remove URL Language Code            | Yes         |
+| Cookie Length                       | Session     |
 | Add Alternate Meta Tags             | No          |
 
 Once this is configured, activate the plugin by switching the **Status** to **Enabled**.
 
 ## Step 4: Create New Content Categories for Each Language
 
-![][joomla_25_6]
-
-:   1. **Language** [35%, 28%, se]
+![][multilanguage_8]
 
 The next step is to create a new category for each language you wish to use. You can do this by navigating to **Administrator -> Content -> Category Manager -> Create New Category**.
 
+![][multilanguage_9]
+
 Each category should have a language assigned. You can title this category after the name of the language you intend to use. Once you have done this, you can click **Save and Close**.
 
-![][joomla_25_7]
+![][multilanguage_10]
 
-:   1. **Parent** [20%, 28%, se]
+You can then create content categories and assign their **Parent** category to the base category you have created for the language. For example, you can create a category called *Blog* and assign it the **English** category as a parent.
 
-You can then create content categories and assign their **Parent** category to the base category you have created for the language. For example, you can create a category called *Blog* and assign it the **English (USA)** category as a parent.
+![][multilanguage_11]
+
+At this point, you will want to create content for each category, if only so that you can test this configuration while creating menus and other upcoming steps. Give each subcategory for each language at least one article.
+
+>> NOTE: Each of these articles should have the appropriate **Language** assigned to it, even if you are placing it in a language-specific content category.
+
+![][multilanguage_12]
+
+Let's say you have a copy of an article for each language. You can assign these using the **Associations** area of the article editor. For example, if you have a single article that would act as your language-specific home page, these should all be associated with each other here.
 
 ## Step 5: Enable Unicode URL Aliases
 
-![][joomla_25_8]
-
-:   1. **Unicode Aliases** [54%, 15%, se]
+![][multilanguage_13]
 
 The next thing you may want to do is to navigate to the **Global Configuration** page and access **SEO Settings**. This area of the administrator can be accessed by navigating to **Administrator -> Site -> Global Configuration**. 
 
@@ -107,32 +121,31 @@ You will likely want to turn on Unicode URL aliases, especially if you have spec
 
 In order for everything to work and look correctly, you will want to add menus that belongs to each language in **Menu Manager**. This step will enable each user to not only access a menu that is available in their preferred language, but also to filter the site experience itself by content language.
 
-![][joomla_25_9]
-
 You can add a new menu by navigating to **Administrator -> Menus -> Menu Manager -> Add New Menu**. 
 
-![][joomla_25_10]
+![][multilanguage_14]
 
 Once you have created the menu, you can then go into that menu's **Menu Manager** page, filter menu items by one of the language-related menus, and select **New**.
 
-![][joomla_25_11]
-
-:   1. **Menu Location** [48%, 28%, se]
-    2. **Language** [70%, 28%, se]
+![][multilanguage_15]
 
 When you create the new menu item, you can do so as you would normally. The only additional steps required is that you set the **Menu Location** and **Language** to your desired language-specific menu and language. You may also want to create a home page menu item for that individual language, as this will make each visitor's landing page appear in their native language.
 
-One thing that you need to set (if you want specific article for example to change depending on selected language) is Menu Item Associations section's parameters.
+One thing that you need to set (if you want specific article for example to change depending on selected language) is Menu Item Associations section's parameters. This needs to be done the same way you did the earlier article associations. This will enable you to switch seamlessly between languages on the frontend. After building all of the default pages, simply go back and associate them with their equivalent article on opposing pages using the **Associations** tab. When this is done, the menu item should appear like this:
+
+![][multilanguage_16]
 
 When you add all menus and you define **Default Page** parameter for each language you should have situation similar to the following:
 
-![][joomla_25_12]
+![][multilanguage_17]
 
 ## Step 7: Create a Template Override for Each Language
+
+![][multilanguage_20]
  
 At the end, you have to assign template copy for each language installed. That is necessary so you can load different menus, depending on the selected language. You can do this by going to **Administrator -> Extensions -> Template Manager**, selecting the template you have as default, and selecting **Duplicate**. 
 
-![][joomla_25_13]
+![][multilanguage_21]
 
 :   1. **Default Language** [33%, 59%, se]
 
@@ -140,9 +153,7 @@ This will create a duplicate of your template, which you can modify to include t
  
 To do this, you will want to set the **Default** language to the language you wish to have this style assigned. You can do this in the **Overview** area of the **Template Settings**.
 
-![][joomla_25_14]
-
-:   1. **Select a Menu** [50%, 9%, se]
+![][multilanguage_22]
 
 Next, you will want to change the main menu to the one you created for the language. For example, if this template style is assigned to English (USA), then you will want to select the English (USA) menu.
 
@@ -150,27 +161,36 @@ Next, you will want to change the main menu to the one you created for the langu
 
 This step is useful if you want to give your visitors the option to switch between languages as they please. You can do this by creating a **Language Selector** module and publishing it on the page.
 
+![][multilanguage_18]
+
 You can do this as you would create any other module. By navigating to **Administrator -> Extensions -> Module Manager** and selecting **New**. Choose **Language Switcher** as the **Module Type** and configure it as you prefer.
  
-![][joomla_25_15]
+![][multilanguage_19]
 
-:   1. **Language Selector** [13%, 8%, se]
-    2. **Language-specific Menu** [23%, 83%, se]
+:   1. **Language Selector** [23%, 5%, se]
+    2. **Language-specific Menu** [35%, 5%, se]
 
 Once this is done, you should see both the language selector module and the language-specific menu appear as expected. Your visitors can switch between languages by clicking its associated flag.
 
-[joomla_25_1]: assets/multi_1.jpeg
-[joomla_25_2]: assets/multi_2.jpeg
-[joomla_25_3]: assets/multi_3.jpeg
-[joomla_25_4]: assets/multi_4.jpg
-[joomla_25_5]: assets/multi_5.jpeg
-[joomla_25_6]: assets/multi_6.jpeg
-[joomla_25_7]: assets/multi_7.jpeg
-[joomla_25_8]: assets/multi_8.jpeg
-[joomla_25_9]: assets/multi_9.jpeg
-[joomla_25_10]: assets/multi_10.jpeg
-[joomla_25_11]: assets/multi_11.jpeg
-[joomla_25_12]: assets/multi_12.jpg
-[joomla_25_13]: assets/multi_13.jpeg
-[joomla_25_14]: assets/multi_14.jpeg
-[joomla_25_15]: assets/multi_15.jpeg
+[multilanguage_1]: assets/multilanguage_1.jpeg
+[multilanguage_2]: assets/multilanguage_2.jpeg
+[multilanguage_3]: assets/multilanguage_3.jpeg
+[multilanguage_4]: assets/multilanguage_4.jpeg
+[multilanguage_5]: assets/multilanguage_5.jpeg
+[multilanguage_6]: assets/multilanguage_6.jpeg
+[multilanguage_7]: assets/multilanguage_7.jpeg
+[multilanguage_8]: assets/multilanguage_8.jpeg
+[multilanguage_9]: assets/multilanguage_9.jpeg
+[multilanguage_10]: assets/multilanguage_10.jpeg
+[multilanguage_11]: assets/multilanguage_11.jpeg
+[multilanguage_12]: assets/multilanguage_12.jpeg
+[multilanguage_13]: assets/multilanguage_13.jpeg
+[multilanguage_14]: assets/multilanguage_14.jpeg
+[multilanguage_15]: assets/multilanguage_15.jpeg
+[multilanguage_16]: assets/multilanguage_16.jpeg
+[multilanguage_17]: assets/multilanguage_17.jpeg
+[multilanguage_18]: assets/multilanguage_18.jpeg
+[multilanguage_19]: assets/multilanguage_19.jpeg
+[multilanguage_20]: assets/multilanguage_20.jpeg
+[multilanguage_21]: assets/multilanguage_21.jpeg
+[multilanguage_22]: assets/multilanguage_22.jpeg
