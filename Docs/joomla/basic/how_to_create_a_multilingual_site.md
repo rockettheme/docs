@@ -52,7 +52,7 @@ Once you have filled in this information, click **Save and Close**. This will ta
 
 ## Step 3: Configure and Enable the Language Filter Plugin
  
-![][joomla_25_4]
+![][joomla_25_5]
 
 The next step requires you to navigate to **Extensions -> Plug-in Manager** in order to configure Joomla multilingual plugins. The plugin you need to find here is **System - Language Filter**. 
 
@@ -70,19 +70,19 @@ Once this is configured, activate the plugin by switching the **Status** to **En
 
 ## Step 4: Create New Content Categories for Each Language
 
-![][joomla_25_5]
+![][joomla_25_6]
 
 The next step is to create a new category for each language you wish to use. You can do this by navigating to **Administrator -> Content -> Category Manager -> Create New Category**.
 
 Each category should have a language assigned. You can title this category after the name of the language you intend to use. Once you have done this, you can click **Save and Close**.
 
-![][joomla_25_5]
+![][joomla_25_7]
 
 You can then create content categories and assign their **Parent** category to the base category you have created for the language. For example, you can create a category called *Blog* and assign it the **English (USA)** category as a parent.
 
 ## Step 5: Enable Unicode URL Aliases
 
-![][joomla_25_6]
+![][joomla_25_8]
 
 The next thing you may want to do is to navigate to the **Global Configuration** page and access **SEO Settings**. This area of the administrator can be accessed by navigating to **Administrator -> Site -> Global Configuration**. 
 
@@ -92,15 +92,15 @@ You will likely want to turn on Unicode URL aliases, especially if you have spec
 
 In order for everything to work and look correctly, you will want to add menus that belongs to each language in **Menu Manager**. This step will enable each user to not only access a menu that is available in their preferred language, but also to filter the site experience itself by content language.
 
-![][joomla_25_7]
+![][joomla_25_9]
 
 You can add a new menu by navigating to **Administrator -> Menus -> Menu Manager -> Add New Menu**. 
 
-![][joomla_25_8]
+![][joomla_25_10]
 
 Once you have created the menu, you can then go into that menu's **Menu Manager** page, filter menu items by one of the language-related menus, and select **New**.
 
-![][joomla_25_9]
+![][joomla_25_11]
 
 When you create the new menu item, you can do so as you would normally. The only additional steps required is that you set the **Menu Location** and **Language** to your desired language-specific menu and language. You may also want to create a home page menu item for that individual language, as this will make each visitor's landing page appear in their native language.
 
@@ -147,3 +147,5 @@ Once this is done, you should see both the language selector module and the lang
 [joomla_25_11]: assets/multi_11.jpeg
 [joomla_25_12]: assets/multi_12.jpg
 [joomla_25_13]: assets/multi_13.jpeg
+[joomla_25_14]: assets/multi_14.jpeg
+[joomla_25_15]: assets/multi_15.jpeg
