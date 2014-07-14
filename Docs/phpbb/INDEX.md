@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Plethora](styles/plethora)
 	- [Osmosis](styles/osmosis)
 	- [Vermilion](styles/vermilion)
 	- [Lexicon](styles/lexicon)
