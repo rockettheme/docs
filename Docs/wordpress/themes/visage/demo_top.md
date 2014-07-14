@@ -1,0 +1,52 @@
+---
+title: Visage: Recreating the Demo - Top
+description: Your Guide to Recreating Elements of the Visage Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/visage:Visage
+
+---
+
+Top Section
+-----
+
+![][demo1]
+
+Here is the widget breakdown for the Top section:
+
+#### Gantry Menu
+
+The Gantry Menu widget should be set to match your site's main menu as it serves as the primary menu widget for the entire site. You can customize this menu by navigating to **Administration -> Appearance -> Menus** and creating or modifying your selected menu there. 
+
+Here is a breakdown of the widget options for this menu widget. Any options not present in this breakdown are left at default and should not be adjusted.
+
+| Option             | Setting         |
+| :----------------- | :-------------  |
+| Menu               | Main Menu       |
+| Menu Theme         | Split-Menu      |
+| Limit Levels       | Yes             |
+| Start Level        | 0               |
+| End Level          | 0               |
+| Show All Children  | Yes             |
+| Show Empty Menu    | No              |
+| Maximum Depth      | 10              |
+| Menu Classes       | Main Navigation |
+| Load CSS           | No              |
+| Enable JavaScript  | Yes             |
+| Menu Opacity       | 1               |
+| Menu Effect        | Slide and Fade  |
+| Hide Delay         | 500             |
+| Menu Animation     | Circ.easeOut    |
+| Menu Duration      | 300             |
+| Enable Pill        | No              |
+| Pill Animation     | Back.easeOut    |
+| Pill Duration      | 400             |
+| Centered Dropdowns | No              |
+| Level 2 X Offset   | -10             |
+| Level 2 Y Offset   | -10             |
+| Submenus X         | 0               |
+| Submenus Y         | 0               |
+| Enable Active ID   | No              |
+| Menu Suffix        | Top             |
+
+[demo1]: assets/demo_1.jpeg
+[faq]: faq.md
+[menu]: ../../start/menu.md

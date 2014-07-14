@@ -33,33 +33,6 @@ The **ModalHeader** module adds in some extra functionality to the header sectio
 | Disable Text Resizer        | Yes         |
 | Disable Date                | Yes         |
 
-#### Additional Scripts and Styles
-
-**Additional jQuery Scripts**
-
-~~~ .html
- $j(document).ready(function(){
-
-    $j("input, textarea").attr("disabled", "disabled").val("Disabled for demo");
-
-    $j("input#search").attr('disabled', false).val("Search...");
-
-    $j("#checkout-step-login .form-list li.control input.radio").attr('disabled', false);
-
-    $j(".form-language").remove();
-
-});
-~~~
-
-**Additional CSS**
-
-~~~ .html
- input[type="text"]:disabled
-{
-color:#AAA;
-}
-~~~
-
 #### Modal Window Animation Settings
 
 **Additional Settings**
