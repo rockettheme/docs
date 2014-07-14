@@ -39,6 +39,7 @@ more:
 
 * Club Themes
 
+	- [Hadron](themes/hadron)
 	- [Paradigm](themes/paradigm)
 	- [Hexeris](themes/hexeris)
 	- [Chapelco](themes/chapelco)
