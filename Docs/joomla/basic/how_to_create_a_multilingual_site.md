@@ -19,7 +19,7 @@ Prerequisites
 * RocketTheme Template
 * RokNavMenu Extension
 
->> NOTE: This process is much easier when it's being done on a new website. You can accomplish this on an existing site using the same steps, but you may need to work a lot harder during menu configuration to achieve the desired result.
+>> NOTE: This process is much easier when it is being done on a new website. You can accomplish this on an existing site using the same steps, but you may need to work a lot harder during menu configuration to achieve the desired result.
 
 Setup
 -----
@@ -68,7 +68,7 @@ Once you have filled in this information, click **Save and Close**. This will ta
  
 ![][multilanguage_6]
 
-The next step requires you to navigate to **Extensions -> Plug-in Manager** in order to configure Joomla multilingual plugin. The plugin you need to find here is **System - Language Filter**. This plugin enables the CMS to recognize various installed languages and filter content so what's displayed matches the language selected.
+The next step requires you to navigate to **Extensions -> Plug-in Manager** in order to configure Joomla multilingual plugin. The plugin you need to find here is **System - Language Filter**. This plugin enables the CMS to recognize various installed languages and filter content so what is displayed matches the language selected.
 
 Click the plugin to access the configuration page. Here, you can set the **Basic Options** as you see fit. Here are some example settings which should work in most cases.
 
@@ -107,7 +107,7 @@ At this point, you will want to create content for each category, if only so tha
 
 ![][multilanguage_12]
 
-Let's say you have a copy of an article for each language. You can assign these using the **Associations** area of the article editor. For example, if you have a single article that would act as your language-specific home page, these should all be associated with each other here.
+Let us say you have a copy of an article for each language. You can assign these using the **Associations** area of the article editor. For example, if you have a single article that would act as your language-specific home page, these should all be associated with each other here.
 
 ## Step 5: Enable Unicode URL Aliases
 
@@ -133,7 +133,60 @@ When you create the new menu item, you can do so as you would normally. The only
 
 ![][multilanguage_16]
 
-One thing that you need to set (if you want specific article for example to change depending on selected language) is Menu Item Associations section's parameters. This needs to be done the same way you did the earlier article associations. This will enable you to switch seamlessly between languages on the frontend. After building all of the default pages, simply go back and associate them with their equivalent article on opposing pages using the **Associations** tab. When this is done, the menu item should appear like this:
+### Setting Menu Item Associations
+
+![][multilanguage_23]
+
+One thing that you need to set (if you want specific article for example to change depending on selected language) is Menu Item Associations section's parameters. This needs to be done the same way you did the earlier article associations. 
+
+Later on we will be using the **Language Switcher** module to provide language buttons on our front end. To have our site seamlessly transition from one language to another we have to set "Associations".
+
+For a given language menu page and given language article content we have to "associate" what menu items and articles should appear for any of the other languages when selected by the user.
+
+Let us say your site will use English and Italian. The frontend will have the three language buttons and we want to make sure the right menu page and article appears when the user selects a language.
+
+Here is the menu structure:
+
+* English Menu
+    * Home
+* French Menu
+    * Maison
+* German Menu
+    * Zuhause
+* Italian Menu 
+    * Casa
+
+Here are the language articles:
+
+* English Category (Articles)
+    * Article one
+    * Article two
+    * Article three
+* French Category (Articles)
+    * Article premier
+    * Article deux
+    * Article trois
+* German Category (Atrikel)
+    * Artikel eins
+    * Artikel zwei
+    * Artikel drei
+* Italian Category  (Articoli)
+    * L'articolo uno
+    * Articolo due
+    * Articolo tre
+
+So we will setup our **English** Menu first. In the Home page item click on the Associations tab and you will see one or more language options with a corresponding dropdown boxes. In the case of our example, you will see three since there are three other languages in addition to the one the category/article is presently assigned.
+
+We will focus on Italian settings in this example, but the same principal applies to any and all additional languages.
+
+For Italian you would select the "Casa" menu item. When the user clicks the Italian language button this would be the menu page the user would land on.
+
+Now lets set what article content should appear when the user selects a different language.
+So we will setup our English "Article one" first. In the Article Editor item click on the Associations tab and you will see two language options with a corresponding dropdown boxes.
+
+For Italian you have three choices: **L'articolo uno**, **Articolo due** and **Articolo tre**. Here you would probably select **L'articolo uno** as the article to replace the English **Article one** when the user clicks the Italian language.
+
+This will enable you to switch seamlessly between languages on the frontend. After building all of the default pages, simply go back and associate them with their equivalent article on opposing pages using the **Associations** tab. When this is done, the menu item should appear like this:
 
 ![][multilanguage_17]
 
@@ -192,3 +245,4 @@ Once this is done, you should see both the language selector module and the lang
 [multilanguage_20]: assets/multilanguage_20.jpeg
 [multilanguage_21]: assets/multilanguage_21.jpeg
 [multilanguage_22]: assets/multilanguage_22.jpeg
+[multilanguage_23]: assets/multilanguage_23.jpg
