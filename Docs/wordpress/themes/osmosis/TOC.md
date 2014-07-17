@@ -28,8 +28,10 @@ support: http://www.rockettheme.com/forum/wordpress-theme-osmosis
             * [Footer](demo_footer.md)
             * [SidePanel](demo_sidepanel.md)
             * [Featured Post](demo_posts.md)
+        * Sample Pages
+            * [About Us](aboutus.md)
+            * [Coming Soon Page](comingsoon.md)
         * [Override Settings](demo_override.md)
         * [Widget Positions](positions.md)
-        * [Coming Soon Page](comingsoon.md)
         * [Charts](charts.md)
     * [FAQ](faq.md)
