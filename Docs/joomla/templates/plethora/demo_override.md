@@ -152,10 +152,10 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [menu]: ../../start/menu.md
 [Plethora2]: assets/plethora2.jpeg
 [assignments]: assets/assignments_settings.jpeg
-[style]: assets/style_settings.jpeg
-[advanced]: assets/advanced_settings.jpeg
-[layouts]: assets/layouts_settings.jpeg
-[menu2]: assets/menu_settings.jpeg
-[features]: assets/features_settings.jpeg
+[style]: assets/setstyle.jpeg
+[advanced]: assets/setadvanced.jpeg
+[layouts]: assets/setlayouts.jpeg
+[menu2]: assets/setmenu.jpeg
+[features]: assets/setfeatures.jpeg
 [setsocial]: assets/setsocial.jpg
 [gantrydocs]: http://www.gantry-framework.org/documentation/joomla/configure
