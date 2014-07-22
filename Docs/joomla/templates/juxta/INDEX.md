@@ -13,7 +13,7 @@ Juxta is a design-centric theme, focusing on unique, professional and fresh visu
 
 ![][theme]
 
->> NOTICE: Juxta is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Juxta is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----
