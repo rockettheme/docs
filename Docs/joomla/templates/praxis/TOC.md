@@ -32,6 +32,7 @@ support: http://www.rockettheme.com/forum/joomla-template-praxis/
             * [FP Bottom](demo_module_8.md)
             * [FP Footer A](demo_module_9.md)
             * [FP Footer Login](demo_module_10.md)
+            * [Footer Social Buttons](demo_module_11.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
     * [Module Positions](positions.md)

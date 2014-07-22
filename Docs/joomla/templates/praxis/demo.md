@@ -37,6 +37,7 @@ Below, you will find the module placement and settings for the various module po
     8. **FP Bottom**  [72%, 30%, se]
     9. **FP Footer A**  [78%, 30%, se]
     10. **FP Footer Login**  [78%, 82%, sw]
+    11. **Footer Social Buttons**  [91%, 28%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
@@ -50,6 +51,7 @@ We have detailed how to recreate the individual modules pictured above in the li
 8. [FP Bottom][module8]
 9. [FP Footer A][module9]
 10. [FP Footer Login][module10]
+11. [Footer Social Buttons][module11]
 
 Recommended Extensions
 -----
@@ -118,6 +120,7 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [module8]: demo_module_8.md
 [module9]: demo_module_9.md
 [module10]: demo_module_10.md
+[module11]: demo_module_11.md
 [mainmenu]: assets/menu_1.jpg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/
 [article]: assets/article.jpg
