@@ -32,6 +32,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-osmosis
             * [About Us](aboutus.md)
             * [Blog](blog.md)
             * [The Team](theteam.md)
+            * [Services](services.md)
             * [Coming Soon Page](comingsoon.md)
         * [Override Settings](demo_override.md)
         * [Widget Positions](positions.md)
