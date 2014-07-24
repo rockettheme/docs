@@ -14,7 +14,7 @@ Quasar is the first Free / GPL template released by RocketTheme to be built with
 
 In conjunction with Gantry, the other features such as a CSS dropdown menu and 6 style variations, amongst many others, make Quasar a useful, diverse and functional free template, great for any purpose.
 
->> NOTICE: Quasar is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Quasar is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----

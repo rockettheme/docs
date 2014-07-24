@@ -30,6 +30,11 @@ support: http://www.rockettheme.com/forum/wordpress-theme-osmosis
             * [Featured Post](demo_posts.md)
         * Sample Pages
             * [About Us](aboutus.md)
+            * [Blog](blog.md)
+            * [The Team](theteam.md)
+            * [Services](services.md)
+            * [Pricing Tables](pricing.md)
+            * [Portfolio](portfolio.md)
             * [Coming Soon Page](comingsoon.md)
         * [Override Settings](demo_override.md)
         * [Widget Positions](positions.md)
