@@ -160,7 +160,7 @@ Expanded Bottom Section
 
 ![][pricingpage7]
 
-Here is a breakdown for the **Main Top** section:
+Here is a breakdown for the **Expanded Bottom** section:
 
 #### Text
 

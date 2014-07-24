@@ -9,7 +9,6 @@ breadcrumb: /!hosting:Hosting Help/
 	* [Recommended Providers](hosting_providers.md)
 		* [Arvixe](hosting_providers.md#arvixe)
 		* [InMotion](hosting_providers.md#inmotion-hosting)
-		* [Siteground](hosting_providers.md#siteground)
 		* [Rochen](hosting_providers.md#rochen)
 	* [Joomla Guide](joomla.md)
 		* [Hosting Options](joomla.md#hosting-options)

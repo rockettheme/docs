@@ -61,38 +61,6 @@ InMotion offers a variety of hosting solutions ranging from: shared hosting, VPS
 
 To get started, you can get up to [56% OFF shared hosting plans](https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=rocket&page=7). Hosting plans start at $3.49/month on a 12 month billing cycle. Risk free for 90 days. If you want to talk to sales about a custom solution, call: 888.321.HOST(4678) and be sure to mention you are from RocketTheme. 
 
-SiteGround
------
-
-![SiteGround][siteground]
-
-[SiteGround](http://www.siteground.com/web-hosting.htm?afcode=80f7e2672d8a7dadbc877c6ec9b42378) provides managed hosting services for some of the most popular applications – WordPress, Joomla, and more. It develops powerful server solutions to guarantee fast websites, tightest security on account and server level, and smart solutions to facilitate your application management. 
-
-SiteGround offers fast and knowledgeable support on phone, chat, and 24/7 helpdesk support. You can now sign up for their hosting [services with up to a 60% discount](http://www.siteground.com/web-hosting.htm?afcode=80f7e2672d8a7dadbc877c6ec9b42378).
-
-Multiple Free Convenience Services:
-
-* Easy 1-click installs of Joomla, WordPress, Magento, PhpBB and more
-* Free website migration
-* Managed Auto-updates of Joomla and WordPress
-* Special Toolkits for easier management of Joomla and WordPress
-* Staging and GIT integrated for Joomla and WordPress
-* WordPress and Joomla dynamic caching and Memcached provided
-
-Customer Service and Support:
-
-* 24/7 Customer service provided on Phone/Chat/Helpdesk
-* Expert support for your application
-* 15-minute replies via Helpdesk, no hold on chat and phone
-
-Platform Basics:
-
-* Top-notch servers on 3 continents: USA, Europe, Asia
-* Free CDN and static caching available for faster websites
-* Unmatched security achieved via unique account isolation
-* Daily backups made to guarantee your comfort
-* Multi-currencies accepted - USD, EUR, AUD, GBP
-
 Rochen
 -----
 
