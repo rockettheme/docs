@@ -109,15 +109,33 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p><span class="rt-image"><img src="images/rocketlauncher/pages/contact-us/img-01.jpg" alt="image" /></span></p>
-<p>Osmosis is only available as part of the Club Subscription.<span class="hidden-tablet"> Please use the RocketLauncher to install an equivalent of the demo onto your site.</span></p>
+
+<p>Osmosis is available as part of the club subscription or single template purchase.<span class="hidden-tablet"> Please use the RocketLauncher to install an equivalent of the demo onto your site.</span></p>
+
 <h4>Address</h4>
-<p>Osmosis Theme, LLC<br /> 123 Joomla! Boulevard<br />Seattle, WA 00000, USA</p>
+<p>
+    <span>Osmosis Theme, LLC</span><br />
+    <span>123 Joomla! Boulevard</span><br />
+    <span>Seattle, WA 00000, USA</span>
+</p>
+
 <h4>Email</h4>
-<p>noreply@Osmosis-theme.com<br />noperson@Osmosis-theme.com</p>
+<p>
+    <span>noreply@osmosis-theme.com</span><br />
+    <span>noperson@osmosis-theme.com</span>
+</p>
+
 <h4>Phone</h4>
-<p>+1(123)456-5555-555<br />+1(123)456-6666-666</p>
+<p>
+    <span>+1(123)456-5555-555</span><br />
+    <span>+1(123)456-6666-666</span>
+</p>
+
 <h4>Online Support</h4>
-<p>Skype ID: Osmosis.theme<br />BBM PIN: 12ABC345</p>
+<p>
+    <span>Skype ID: osmosis.theme</span><br />
+    <span>BBM PIN: 12ABC345</span>
+</p>
 ~~~
 
 #### Options
@@ -151,6 +169,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Email Us for Questions Involving Payments, Billing, and Membership.</p>
+
 <p><a class="readon largemargintop" href="http://www.rockettheme.com/forum/joomla-template-Osmosis">Send Email</a></p>
 ~~~
 
@@ -185,6 +204,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
@@ -219,20 +239,25 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-<div class="gantry-width-40">
-	<div class="gantry-width-spacer">
-		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+
+<div class="gantry-width-container">
+	<div class="gantry-width-40">
+		<div class="gantry-width-spacer">
+			<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+		</div>	
+	</div>
+
+	<div class="gantry-width-60">
+		<div class="gantry-width-spacer">
+			<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+			<span>Osmosis Theme, LLC</span><br />
+			<span>123 Joomla! Boulevard</span><br />
+			<span>Seattle, WA 00000, USA</span><br />
+			<span><a href="#">noreply@domain.com</a></span>
+		</div>
 	</div>
 </div>
-<div class="gantry-width-60">
-	<div class="gantry-width-spacer">
-		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
-		<span>Osmosis Theme, LLC</span><br />
-		<span>123 Joomla! Boulevard</span><br />
-		<span>Seattle, WA 00000, USA</span><br />
-		<span><a href="#">noreply@domain.com</a></span>
-	</div>
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options

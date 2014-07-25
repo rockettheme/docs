@@ -298,15 +298,17 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-row">
-    <div class="gantry-width-60 gantry-block-center">
-        <div class="gantry-width-spacer">
-            <p><span>Get Updates, Upcoming Themes Info, and Our Great Deals!</span></p>
-            <form class="rt-blog-form largemargintop largepaddingtop" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-                <input type="text" placeholder="Your Email" alt="Your Email" class="inputbox" name="email">
-                <input type="hidden" value="rocketthemeblog" name="uri" />
-                <input type="hidden" name="loc" value="en_US" />
-                <input type="submit" name="Submit" class="readon" value="Join" />
-            </form>
+    <div class="gantry-width-container">
+        <div class="gantry-width-60 gantry-block-center">
+            <div class="gantry-width-spacer">
+                <p><span>Get Updates, Upcoming Themes Info, and Our Great Deals!</span></p>
+                <form class="rt-blog-form largemargintop largepaddingtop" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                    <input type="text" placeholder="Your Email" alt="Your Email" class="inputbox" name="email">
+                    <input type="hidden" value="rocketthemeblog" name="uri" />
+                    <input type="hidden" name="loc" value="en_US" />
+                    <input type="submit" name="Submit" class="readon" value="Join" />
+                </form>
+            </div>
         </div>
     </div>
 </div>
@@ -344,6 +346,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
@@ -378,20 +381,25 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-<div class="gantry-width-40">
-	<div class="gantry-width-spacer">
-		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
-	</div>
+
+<div class="gantry-width-container">
+    <div class="gantry-width-40">
+        <div class="gantry-width-spacer">
+            <img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+        </div>  
+    </div>
+
+    <div class="gantry-width-60">
+        <div class="gantry-width-spacer">
+            <span class="rt-intro-text">+1(123)456-5555-555</span><br />
+            <span>Osmosis Theme, LLC</span><br />
+            <span>123 Joomla! Boulevard</span><br />
+            <span>Seattle, WA 00000, USA</span><br />
+            <span><a href="#">noreply@domain.com</a></span>
+        </div>
+    </div>
 </div>
-<div class="gantry-width-60">
-	<div class="gantry-width-spacer">
-		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
-		<span>Osmosis Theme, LLC</span><br />
-		<span>123 Joomla! Boulevard</span><br />
-		<span>Seattle, WA 00000, USA</span><br />
-		<span><a href="#">noreply@domain.com</a></span>
-	</div>
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options

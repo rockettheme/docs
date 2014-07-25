@@ -32,11 +32,11 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <div class="rt-vertical-center">
-	<p class="rt-text-extra-large">Osmosis</p>
-	<p class="promo2 noitalic">Vibrant, Interactive &amp; Elegant</p>
-	<span class="rt-readon-no-animate">
-		<a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" class="readon4" data-hover="Features">Features</a>
-	</span>
+    <p class="rt-text-extra-large">Osmosis</p>
+    <p class="promo2 noitalic">Vibrant, Interactive &amp; Elegant</p>
+    <span class="rt-readon-no-animate">
+        <a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" class="readon4" data-hover="Features">Features</a>
+    </span>
 </div>
 ~~~
 
