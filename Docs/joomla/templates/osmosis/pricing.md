@@ -68,9 +68,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 1. [Custom HTML - Pricing](pricing.md#custom-html---pricing)
 2. [Breadcrumbs](pricing.md#breadcrumbs)
-3. [Article Content](pricing.md#custom-html---about-us:-introduction)
-4. [Custom HTML - Try it Out for 10 Days Free](pricing.md#mainbody)
-5. [Custom HTML - No Hidden Fee](pricing.md#custom-html---about-us:-our-mission---our-values---our-solution)
+3. [Article Content](pricing.md#mainbody)
+4. [Custom HTML - Try it Out for 10 Days Free](pricing.md#custom-html---try-it-out-for-10-days-free)
+5. [Custom HTML - No Hidden Fee](pricing.md#custom-html---no-hidden-fee)
 6. [Custom HTML - Osmosis Demo](pricing.md#custom-html---osmosis-demo)
 7. [Custom HTML - Sample Contact Info](pricing.md#custom-html---sample-contact-info)
 
@@ -151,51 +151,59 @@ Below is a brief rundown of the modules used to make up the demo page.
 <div class="gantry-width-spacer">
     <p class="nomarginbottom">All plans come with awesome support by email and phone. There is no hidden fee!</p>
 </div>
-<div class="gantry-width-25">
-    <ul class="rt-table">
-        <li class="rt-table-title">Basic</li>
-        <li class="rt-table-price">$28</li>
-        <li class="rt-table-description">Globally incubate standards compliant channels</li>
-        <li class="rt-table-item">5GB Storage</li>
-        <li class="rt-table-item">10 Users</li>
-        <li class="rt-table-item">20 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
-    </ul>
+
+<div class="gantry-width-container">
+    <div class="gantry-width-25">
+        <ul class="rt-table">
+            <li class="rt-table-title">Basic</li>
+            <li class="rt-table-price">$28</li>
+            <li class="rt-table-description">Globally incubate standards compliant channels</li>
+            <li class="rt-table-item">5GB Storage</li>
+            <li class="rt-table-item">10 Users</li>
+            <li class="rt-table-item">20 Emails</li>
+            <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
+        </ul>
+    </div>
+
+    <div class="gantry-width-25">
+        <ul class="rt-table">
+            <li class="rt-table-title">Standard</li>
+            <li class="rt-table-price">$58</li>
+            <li class="rt-table-description">Globally incubate standards compliant channels</li>
+            <li class="rt-table-item">25GB Storage</li>
+            <li class="rt-table-item">20 Users</li>
+            <li class="rt-table-item">30 Emails</li>
+            <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
+        </ul>
+    </div>
+
+    <div class="gantry-width-25">
+        <ul class="rt-table">
+            <li class="rt-table-title">Titanium</li>
+            <li class="rt-table-price">$88</li>
+            <li class="rt-table-description">Globally incubate standards compliant channels</li>
+            <li class="rt-table-item">50GB Storage</li>
+            <li class="rt-table-item">30 Users</li>
+            <li class="rt-table-item">40 Emails</li>
+            <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
+        </ul>
+    </div>
+
+    <div class="gantry-width-25">
+        <ul class="rt-table rt-table-last-col">
+            <li class="rt-table-title">Platinum</li>
+            <li class="rt-table-price">$288</li>
+            <li class="rt-table-description">Globally incubate standards compliant channels</li>
+            <li class="rt-table-item">500GB Storage</li>
+            <li class="rt-table-item">100 Users</li>
+            <li class="rt-table-item">200 Emails</li>
+            <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
+        </ul>
+    </div>
 </div>
-<div class="gantry-width-25">
-    <ul class="rt-table">
-        <li class="rt-table-title">Standard</li>
-        <li class="rt-table-price">$58</li>
-        <li class="rt-table-description">Globally incubate standards compliant channels</li>
-        <li class="rt-table-item">25GB Storage</li>
-        <li class="rt-table-item">20 Users</li>
-        <li class="rt-table-item">30 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
-    </ul>
-</div>
-<div class="gantry-width-25">
-    <ul class="rt-table">
-        <li class="rt-table-title">Titanium</li>
-        <li class="rt-table-price">$88</li>
-        <li class="rt-table-description">Globally incubate standards compliant channels</li>
-        <li class="rt-table-item">50GB Storage</li>
-        <li class="rt-table-item">30 Users</li>
-        <li class="rt-table-item">40 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
-    </ul>
-</div>
-<div class="gantry-width-25">
-    <ul class="rt-table rt-table-last-col">
-        <li class="rt-table-title">Platinum</li>
-        <li class="rt-table-price">$288</li>
-        <li class="rt-table-description">Globally incubate standards compliant channels</li>
-        <li class="rt-table-item">500GB Storage</li>
-        <li class="rt-table-item">100 Users</li>
-        <li class="rt-table-item">200 Emails</li>
-        <li class="rt-table-cta-button"><a class="readon" href="http://www.rockettheme.com/joomla/templates/osmosis">Sign Up</a></li>
-    </ul>
-</div>
+
 <div class="clear"></div>
+
 <div class="gantry-width-spacer">
     <p>Free <strong>10 days trial</strong> on all plans. No credit card needed! Need a bigger plan? <a href="http://www.rockettheme.com/joomla/templates/osmosis">View Professional Plan</a>.</p>
 </div>
