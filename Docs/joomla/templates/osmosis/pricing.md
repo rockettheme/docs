@@ -28,26 +28,29 @@ The page's content body is set in the **Pricing Tables** article. You will find 
 
 ~~~ .html
 <div class="gantry-row">
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <h3>Simple Plans and Pricing</h3>
-            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
-            <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Sign Up</a></p>
+    <div class="gantry-width-container">
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Simple Plans and Pricing</h3>
+                <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
+                <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Sign Up</a></p>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <h3>Top Osmosis Features</h3>
-            <ul>
-                <li>Powered by Gantry Framework</li>
-                <li>CSS Dropdown Menu and Split Menu</li>
-                <li>The Template is Optimized for RokBooster</li>
-            </ul>
-            <p class="success">Want to use Osmosis for your clients? <a href="http://www.rockettheme.com/joomla/templates/osmosis">Purchase Single Package Now</a>.</p>
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Top Osmosis Features</h3>
+                <ul>
+                    <li>Powered by Gantry Framework</li>
+                    <li>CSS Dropdown Menu and Split Menu</li>
+                    <li>The Template is Optimized for RokBooster</li>
+                </ul>
+                <p class="success">Want to use Osmosis for your clients? <a href="http://www.rockettheme.com/joomla/templates/osmosis">Purchase Single Package Now</a>.</p>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="clear"></div>
 ~~~
 
@@ -240,6 +243,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>No Credit Card Required and No Long-Term Contracts</p>
+
 <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon largemargintop">Sign Up</a></p>
 ~~~
 
@@ -274,6 +278,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
@@ -308,20 +313,25 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-<div class="gantry-width-40">
-	<div class="gantry-width-spacer">
-		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+
+<div class="gantry-width-container">
+	<div class="gantry-width-40">
+		<div class="gantry-width-spacer">
+			<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+		</div>	
+	</div>
+
+	<div class="gantry-width-60">
+		<div class="gantry-width-spacer">
+			<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+			<span>Osmosis Theme, LLC</span><br />
+			<span>123 Joomla! Boulevard</span><br />
+			<span>Seattle, WA 00000, USA</span><br />
+			<span><a href="#">noreply@domain.com</a></span>
+		</div>
 	</div>
 </div>
-<div class="gantry-width-60">
-	<div class="gantry-width-spacer">
-		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
-		<span>Osmosis Theme, LLC</span><br />
-		<span>123 Joomla! Boulevard</span><br />
-		<span>Seattle, WA 00000, USA</span><br />
-		<span><a href="#">noreply@domain.com</a></span>
-	</div>
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options

@@ -27,14 +27,13 @@ Mainbody
 The page's content body is set in the **About Us** article. You will find the content used in the article below.
 
 ~~~ .html
-<h3>Common Queries and Questions</h3>
+<h3>Osmosis, the Powerful Template</h3>
+
+<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-<ul>
-    <li>Versatile, Flexible Features Powered by the Gantry Framework.</li>
-    <li>Gantry is a free framework for both Joomla and WordPress.</li>
-    <li>A selection of configurable preset style variations are available.</li>
-</ul>
-<p><a href="http://www.rockettheme.com/docs/joomla/templates/osmosis" class="readon">Help &amp; Knowledge</a></p>
+
+<p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Learn More</a></p>
 ~~~
 
 Modules
@@ -130,30 +129,35 @@ Below is a brief rundown of the modules used to make up the demo page.
 #### Content
 
 ~~~ .html
-<div class="gantry-width-33">
-    <img src="images/rocketlauncher/pages/faq/img-01.jpg" alt="image" />
-    <div class="gantry-width-spacer">
-        <h4 class="medpaddingtop">Forum Support</h4>
-        <p>Objectively innovate empowered manufactured products with parallel platforms.</p>
-        <p><a href="http://www.rockettheme.com/forum/joomla-template-Osmosis">Ask Community</a></p>
+<div class="gantry-width-container">
+    <div class="gantry-width-33">
+        <div class="gantry-width-spacer largemargintop largemarginbottom">
+            <img src="images/rocketlauncher/pages/faq/img-01.jpg" alt="image" />
+            <h4 class="medpaddingtop">Forum Support</h4>
+            <p>Objectively innovate empowered manufactured products with parallel platforms.</p>
+            <p><a href="http://www.rockettheme.com/forum/joomla-template-osmosis">Ask Community</a></p>
+        </div>
+    </div>
+
+    <div class="gantry-width-33">
+        <div class="gantry-width-spacer largemargintop largemarginbottom">
+            <img src="images/rocketlauncher/pages/faq/img-02.jpg" alt="image" />
+            <h4 class="medpaddingtop">Ticket &amp; Email</h4>
+            <p>Proactively envisioned multimedia based expertise and effective cross-media strategies.</p>
+            <p><a href="http://www.rockettheme.com/forum/joomla-template-osmosis">Send Email</a></p>
+        </div>
+    </div>
+
+    <div class="gantry-width-33">
+        <div class="gantry-width-spacer largemargintop largemarginbottom">
+            <img src="images/rocketlauncher/pages/faq/img-03.jpg" alt="image" />
+            <h4 class="medpaddingtop">Live Chat</h4>
+            <p>Interactively coordinate proactive e-commerce via process-centric outside the box.</p>
+            <p><a href="http://www.rockettheme.com/forum/joomla-template-osmosis">Contact Us</a></p>
+        </div>
     </div>
 </div>
-<div class="gantry-width-33">
-        <img src="images/rocketlauncher/pages/faq/img-02.jpg" alt="image" />
-    <div class="gantry-width-spacer">
-        <h4 class="medpaddingtop">Ticket &amp; Email</h4>
-        <p>Proactively envisioned multimedia based expertise and effective cross-media strategies.</p>
-        <p><a href="http://www.rockettheme.com/forum/joomla-template-Osmosis">Send Email</a></p>
-    </div>
-</div>
-<div class="gantry-width-33">
-    <img src="images/rocketlauncher/pages/faq/img-03.jpg" alt="image" />
-    <div class="gantry-width-spacer">
-        <h4 class="medpaddingtop">Live Chat</h4>
-        <p>Interactively coordinate proactive e-commerce via process-centric outside the box.</p>
-        <p><a href="http://www.rockettheme.com/forum/joomla-template-Osmosis">Contact Us</a></p>
-    </div>
-</div>
+
 <div class="clear"></div>
 ~~~
 
@@ -240,7 +244,8 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 
 ~~~ .html
 <p>Get Direct Access to the Team Via Phone, Email or Live Chat.</p>
-<p><a href="http://www.rockettheme.com/forum/joomla-template-Osmosis" class="readon largemargintop">Contact Us</a></p>
+
+<p><a href="http://www.rockettheme.com/forum/joomla-template-osmosis" class="readon largemargintop">Contact Us</a></p>
 ~~~
 
 #### Options
@@ -274,6 +279,7 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
@@ -308,20 +314,25 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-<div class="gantry-width-40">
-	<div class="gantry-width-spacer">
-		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+
+<div class="gantry-width-container">
+	<div class="gantry-width-40">
+		<div class="gantry-width-spacer">
+			<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+		</div>	
+	</div>
+
+	<div class="gantry-width-60">
+		<div class="gantry-width-spacer">
+			<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+			<span>Osmosis Theme, LLC</span><br />
+			<span>123 Joomla! Boulevard</span><br />
+			<span>Seattle, WA 00000, USA</span><br />
+			<span><a href="#">noreply@domain.com</a></span>
+		</div>
 	</div>
 </div>
-<div class="gantry-width-60">
-	<div class="gantry-width-spacer">
-		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
-		<span>Osmosis Theme, LLC</span><br />
-		<span>123 Joomla! Boulevard</span><br />
-		<span>Seattle, WA 00000, USA</span><br />
-		<span><a href="#">noreply@domain.com</a></span>
-	</div>
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options

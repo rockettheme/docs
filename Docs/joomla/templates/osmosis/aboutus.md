@@ -28,8 +28,11 @@ The page's content body is set in the **About Us** article. You will find the co
 
 ~~~ .html
 <h3>Osmosis, the Powerful Template</h3>
+
 <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
+
 <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Learn More</a></p>
 ~~~
 
@@ -133,22 +136,26 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-row">
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-01.jpg" alt="image" /></span>
+    <div class="gantry-width-container">
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-01.jpg" alt="image" /></span>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <h3>Introduction</h3>
-            <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</p>
-            <div class="hidden-tablet">
-                <h3>More About Us</h3>
-                <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.</p>
+
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Introduction</h3>
+                <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.</p>
+                <div class="hidden-tablet">
+                    <h3>More About Us</h3>
+                    <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.</p>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
 <div class="clear"></div>
 ~~~
 
@@ -183,28 +190,33 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-row">
-    <div class="gantry-width-33">
-        <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-02.jpg" alt="image" /></span>
-            <h4>Our Mission</h4>
-            <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains.</p>
+    <div class="gantry-width-container">
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-02.jpg" alt="image" /></span>
+                <h4>Our Mission</h4>
+                <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holistically predominate extensible testing procedures for reliable supply chains.</p>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-33">
-        <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-03.jpg" alt="image" /></span>
-            <h4>Our Values</h4>
-            <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration.</p>
+
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-03.jpg" alt="image" /></span>
+                <h4>Our Values</h4>
+                <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration.</p>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-33">
-        <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-04.jpg" alt="image" /></span>
-            <h4>Our Solution</h4>
-            <p>Engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric outside the box thinking.</p>
+
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-04.jpg" alt="image" /></span>
+                <h4>Our Solution</h4>
+                <p>Engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric outside the box thinking.</p>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="clear"></div>
 ~~~
 
@@ -239,6 +251,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Utilized with Versatile and Flexible Features Powered by the Gantry Framework.</p>
+
 <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon largemargintop">Download Osmosis</a></p>
 ~~~
 
@@ -273,6 +286,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 

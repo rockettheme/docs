@@ -28,41 +28,47 @@ The page's content body is set in the **Portfolio** article. You will find the c
 
 ~~~ .html
 <h3>Our Awesome Project</h3>
+
 <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
 <div class="gantry-row">
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <span class="rt-image">
-                <img src="images/rocketlauncher/pages/portfolio/img-17.jpg" alt="image" />
-            </span>
-        </div>
-    </div>
-    <div class="gantry-width-50">
-        <div class="gantry-width-spacer">
-            <h3>Project Description</h3>
-            <p>Efficiently unleash cross-media information without cross-media value.<span class="hidden-tablet"> Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</span></p>
-            <h3>Project Details</h3>
-            <div class="gantry-row">
-                <div class="gantry-width-30">
-                    <div class="gantry-width-spacer">
-                        <p class="smallmarginbottom">Customer:</p>
-                        <p class="smallmarginbottom">Live Demo:</p>
-                        <p class="smallmarginbottom">Published<span class="hidden-tablet"> Date</span>:</p>
-                    </div>
-                </div>
-                <div class="gantry-width-70">
-                    <div class="gantry-width-spacer">
-                        <p class="smallmarginbottom">RocketTheme</p>
-                        <p class="smallmarginbottom">http://www.rockettheme.com</p>
-                        <p class="smallmarginbottom">08 March, 2014</p>
-                    </div>
-                </div>
+    <div class="gantry-width-container">
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <span class="rt-image">
+                    <img src="images/rocketlauncher/pages/portfolio/img-17.jpg" alt="image" />
+                </span>
             </div>
-            <div class="clear"></div>
-            <p class="largemargintop"><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Learn More</a></p>
+        </div>
+
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Project Description</h3>
+                <p>Efficiently unleash cross-media information without cross-media value.<span class="hidden-tablet"> Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</span></p>
+                <h3>Project Details</h3>
+                <div class="gantry-row">
+                    <div class="gantry-width-30">
+                        <div class="gantry-width-spacer">
+                            <p class="smallmarginbottom">Customer:</p>
+                            <p class="smallmarginbottom">Live Demo:</p>
+                            <p class="smallmarginbottom">Published<span class="hidden-tablet"> Date</span>:</p>
+                        </div>
+                    </div>
+                    <div class="gantry-width-70">
+                        <div class="gantry-width-spacer">
+                            <p class="smallmarginbottom">RocketTheme</p>
+                            <p class="smallmarginbottom">http://www.rockettheme.com</p>
+                            <p class="smallmarginbottom">08 March, 2014</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <p class="largemargintop"><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Learn More</a></p>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="clear"></div>
 ~~~
 
@@ -267,35 +273,41 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Will You be the Next to Join Our Happy Clients?</p>
+
 <br />
+
 <div class="gantry-row">
-    <div class="gantry-width-20">
-        <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/joomla/templates/hadron"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-18.png" alt="image" /></a>
+    <div class="gantry-width-container">
+        <div class="gantry-width-20">
+            <div class="gantry-width-spacer">
+                <a href="http://www.rockettheme.com/joomla/templates/hadron"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-18.png" alt="image" /></a>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-20">
-        <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/joomla/templates/acacia"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-19.png" alt="image" /></a>
+        <div class="gantry-width-20">
+            <div class="gantry-width-spacer">
+                <a href="http://www.rockettheme.com/joomla/templates/acacia"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-19.png" alt="image" /></a>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-20">
-        <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/joomla/templates/corvus"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-20.png" alt="image" /></a>
+        <div class="gantry-width-20">
+            <div class="gantry-width-spacer">
+                <a href="http://www.rockettheme.com/joomla/templates/corvus"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-20.png" alt="image" /></a>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-20">
-        <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/joomla/templates/spectral"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-21.png" alt="image" /></a>
+        <div class="gantry-width-20">
+            <div class="gantry-width-spacer">
+                <a href="http://www.rockettheme.com/joomla/templates/spectral"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-21.png" alt="image" /></a>
+            </div>
         </div>
-    </div>
-    <div class="gantry-width-20">
-        <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/joomla/templates/stratos"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-22.png" alt="image" /></a>
+        <div class="gantry-width-20">
+            <div class="gantry-width-spacer">
+                <a href="http://www.rockettheme.com/joomla/templates/stratos"><img class="rt-transparent-image" src="images/rocketlauncher/pages/portfolio/img-22.png" alt="image" /></a>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="clear"></div><br /><br />
+
 <p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon">Join Now</a></p>
 ~~~
 
@@ -330,6 +342,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p class="hidden-phone">These examples are intended to show how Osmosis can be constructed on your site, above and beyond the frontpage demonstration. These include Joomla content and component pages, with varying modular content, mainbody widths and page lengths.</p>
+
 <p class="nomarginbottom">All demo content is for sample purpose only, intended to show a live site. Use the <a href="http://www.rockettheme.com/joomla/templates/osmosis">Osmosis RocketLauncher</a> to install an equivalent of the demo onto your site.</p>
 ~~~
 
@@ -364,20 +377,25 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-<div class="gantry-width-40">
-	<div class="gantry-width-spacer">
-		<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+
+<div class="gantry-width-container">
+	<div class="gantry-width-40">
+		<div class="gantry-width-spacer">
+			<img src="images/rocketlauncher/pages/pages-overview/logo.png" alt="image" />
+		</div>	
+	</div>
+
+	<div class="gantry-width-60">
+		<div class="gantry-width-spacer">
+			<span class="rt-intro-text">+1(123)456-5555-555</span><br />
+			<span>Osmosis Theme, LLC</span><br />
+			<span>123 Joomla! Boulevard</span><br />
+			<span>Seattle, WA 00000, USA</span><br />
+			<span><a href="#">noreply@domain.com</a></span>
+		</div>
 	</div>
 </div>
-<div class="gantry-width-60">
-	<div class="gantry-width-spacer">
-		<span class="rt-intro-text">+1(123)456-5555-555</span><br />
-		<span>Osmosis Theme, LLC</span><br />
-		<span>123 Joomla! Boulevard</span><br />
-		<span>Seattle, WA 00000, USA</span><br />
-		<span><a href="#">noreply@domain.com</a></span>
-	</div>
-</div>
+<div class="clear"></div>
 ~~~
 
 #### Options
