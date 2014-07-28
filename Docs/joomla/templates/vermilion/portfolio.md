@@ -10,15 +10,6 @@ Introduction
 
 The **Portfolio** example page demonstrates how you can create a clean, functional portfolio with the Vermilion template. Here is some information to help you replicate this page as it appears in the demo.
 
-Menu Item Options
------
-
-![][portfoliopage2]
-
-The **Portfolio** page is a **Single Article** menu item type. To recreate the layout the way it appears in our demo, enter `portfolio` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
-
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
-
 Mainbody
 -----
 
@@ -65,6 +56,15 @@ The page's content body is set in the **Portfolio** article. You will find the c
 </div>
 <div class="clear"></div>
 ~~~
+
+Menu Item Options
+-----
+
+![][portfoliopage2]
+
+The **Portfolio** page is a **Single Article** menu item type. To recreate the layout the way it appears in our demo, enter `portfolio` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
+
+In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
 
 Modules
 -----
@@ -196,7 +196,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :----------         | :---------- |
 | Module Class Suffix |             |
 
-### What Our Clients Say
+### RokSprocket - What Our Clients Say 
 
 ![][portfoliopage6]
 
