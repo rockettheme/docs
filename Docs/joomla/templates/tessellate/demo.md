@@ -121,7 +121,7 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
-You will need to change the **Page Class** setting under the Home menu item to ` jul14-home`.
+You will need to change the **Page Class** setting under the Home menu item to ` aug14-home`.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
