@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Tessellate](templates/tessellate)
 	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
 	- [Vermilion](templates/vermilion)
@@ -142,7 +143,7 @@ more:
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
 	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
 	- [Frequently Asked Questions](basic/faq.md)
-	- [How to Identify an Existing Module](basic/module_identitification.md)
+	- [How to Identify an Existing Module](basic/module_identification.md)
 	- [How to Create a Multilingual Site](basic/how_to_create_a_multilingual_site.md)
 
 <!-- -->
