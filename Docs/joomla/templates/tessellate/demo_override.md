@@ -153,7 +153,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/tessellate.jpg
 [menu]: ../../start/menu.md
-[Tessellate2]: assets/tessellate2.jpeg
+[Tessellate2]: assets/tessellate2.jpg
 [assignments]: assets/assignments_settings.jpeg
 [style]: assets/setstyle.jpeg
 [advanced]: assets/setadvanced.jpeg

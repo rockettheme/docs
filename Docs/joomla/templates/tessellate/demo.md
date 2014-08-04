@@ -127,7 +127,7 @@ You will need to change the **Page Class** setting under the Home menu item to `
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[template2]: assets/tessellate2.jpeg
+[template2]: assets/tessellate2.jpg
 [demooverride]: demo_override.md
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
