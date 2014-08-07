@@ -60,6 +60,7 @@ support: http://www.rockettheme.com/forum/joomla-template-tessellate/
             * [Blog](blog.md)
     * Template Supported Features
         * [Charts](charts.md)
+        * [Animated Header](header.md)
     * [FAQ](faq.md)
 * Template Tutorials
     * [Change the Default Logo](../../basic/how_to_edit_the_logo.md)
