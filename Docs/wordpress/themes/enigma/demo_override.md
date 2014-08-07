@@ -115,3 +115,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [menu]: ../../start/menu.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
+[setadvanced]: assets/setadvanced.jpeg
+[setmobile]: assets/setmobile.jpeg
+[setlayouts]: assets/setlayouts.jpeg
+[setstyle]: assets/setstyle.jpeg
+[setgizmos]: assets/setgizmos.jpeg
