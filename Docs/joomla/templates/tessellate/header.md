@@ -1,7 +1,7 @@
 ---
 title: Tessellate: Header
 description: Your Guide to Using the Animated Header in Tessellate
-breadcrumb: /joomla:Joomla/!templates:Templates/tessellate:Tessellate
+breadcrumb: /joomla:Joomla/!templates:Templates/tessellate:Tessellate/header:Header/
 
 ---
 

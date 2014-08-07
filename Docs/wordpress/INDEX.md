@@ -84,7 +84,7 @@ more:
 	- [Clarion](themes/clarion)
 	- [Halcyon](themes/halcyon)
 	- [Visage](themes/visage)
-	- [Enigma (Coming Soon)](themes/enigma)
+	- [Enigma](themes/enigma)
 	- [Momentum (Coming Soon)](themes/momentum)
 	- [Radiance (Coming Soon)](themes/radiance)
 	- [Camber (Coming Soon)](themes/camber)
