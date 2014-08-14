@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Tessellate](styles/tessellate)
 	- [Plethora](styles/plethora)
 	- [Osmosis](styles/osmosis)
 	- [Vermilion](styles/vermilion)
