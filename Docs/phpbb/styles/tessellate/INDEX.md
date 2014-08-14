@@ -9,11 +9,11 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Tessellate echoes contemporary approaches to create an elegant frame, focusing on content without compromising on visual excellence.. 
+Tessellate is a sharp, elegant and refined style. It is designed to not only enrich your content, but also to provide an overall artistic base, with animated extras, to impress your visitors, and best reflect the primary focus of your forum.
 
 ![][style]
 
-A style design inspired by recent visual trends, blending subtle backgrounds and overlays, with text set by custom fonts, to create an alluring experience for your visitors, whilst maintaining a professional and functional look.
+No videos, no flash, no animated GIFs... no nonsense. Using the power of HTML5 Canvas and WebGL (browser dependent), the animated and interactive header can be created dynamically through a script with configurable colors and styles.
 
 Features
 -----
