@@ -41,22 +41,23 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Layouts
 
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 2, 8:4     |  
-| Default    | Header Positions     | Positions: 2, 3:9     |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 9:3     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 3, 4:4:4   |  
-| Default    | Copyright Positions  | Positions: 1, 12      |  
-| Front Page | Header Positions     | Positions: 4, 4:2:2:2 |  
-| Front Page | MainBottom Positions | Positions: 2, 4:8     |  
+| Override   | Option               | Setting               |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 2, 8:4     |
+| Default    | Header Positions     | Positions: 2, 3:9     |
+| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |
+| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |
+| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainBody Positions   | Positions: 2, 9:3     |
+| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions     | Positions: 3, 4:4:4   |
+| Default    | Copyright Positions  | Positions: 1, 12      |
+| Front Page | Header Positions     | Positions: 4, 4:2:2:2 |
+| Front Page | MainBottom Positions | Positions: 2, 4:8     |
+| Front Page | MainBody Positions   | Positions: 3, 4:5:3   |
 
 ### Advanced
 

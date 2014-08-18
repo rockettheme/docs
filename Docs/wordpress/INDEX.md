@@ -54,6 +54,7 @@ more:
 
 * Club Themes
 	
+	- [Plethora](themes/plethora)
 	- [Osmosis](themes/osmosis)
 	- [Vermilion](themes/vermilion)
 	- [Lexicon](themes/lexicon)
