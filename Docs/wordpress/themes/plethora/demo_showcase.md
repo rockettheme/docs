@@ -55,7 +55,7 @@ There are some custom adjustments to the line items. We have listed the changes 
 <span class="sprocket-pagination-title">Content delivery via a flexible<span class="hidden-tablet sprocket-pagination-title">, dynamic and configurable</span> framework</span>
 ~~~
 
-The **Image** fields also include custom images used for the RokSprocket module that are not present on the article. 
+The **Image** fields also include custom images used for the RokSprocket widget that are not present on the article. 
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 

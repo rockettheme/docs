@@ -40,7 +40,7 @@ The Gantry Copyright widget places a tiny Copyright notification at the bottom o
 
 #### Gantry To Top
 
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We titled the widget `Top`.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We entered `Top` in the **To Top Text** field.
 
 [demo]: assets/demo_8.jpeg
 [roksprocket]: ../../plugins/roksprocket/

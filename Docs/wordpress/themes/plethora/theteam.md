@@ -86,7 +86,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 Main Bottom Section
 -----
 
-![][theteampage13]
+![][theteampage5]
 
 :   1. **Text 1** [7%, 7%, se]
     2. **Text 2** [50%, 7%, se]
@@ -290,7 +290,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 Extension Section
 -----
 
-![][theteampage9]
+![][theteampage6]
 
 Here is a breakdown for the **Extension** section:
 
@@ -313,7 +313,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 Footer Section
 -----
 
-![][theteampage10]
+![][theteampage7]
 
 :   1. **Text 1** [20%, 5%, se]
     2. **Text 2** [20%, 52%, se]
