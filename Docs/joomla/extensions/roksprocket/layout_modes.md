@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 Introduction
 ------------
 
-RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the administrator interface.
+RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Grids][grids_link], [Quotes][quotes_link], [Sliders][sliders_link], [Tables][tables_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the administrator interface.
 
 ![][roksprocket_module_1]
 
@@ -20,10 +20,10 @@ Below, you will see each layout mode listed along with the settings which are av
 
 ![][content]
 
-:   1. **Title** You need to assign a title to the module in order to continue past the first setup page. [18%, 13%, se]
-    2. **Content Provider** This option allows you select from any available content providers on your Joomla site. [47%, 41%, se]
-    3. **Layout** The layout determines how the module will appear on the frontend. [68%, 24%, se]
-    4. **Continue** Selecting this will create the module and take you to the next step in the setup process. Once this is clicked, the module's content provider and layout can not be changed. [85%, 47%, se]
+:   1. **Title** You need to assign a title to the module in order to continue past the first setup page. [12%, 12%, se]
+    2. **Layout** The layout determines how the module will appear on the frontend. [35%, 41%, se]
+    3. **Content Provider** This option allows you select from any available content providers on your Joomla site. [63%, 35%, se]
+    4. **Continue** Selecting this will create the module and take you to the next step in the setup process. Once this is clicked, the module's content provider and layout can not be changed. [83%, 40%, se]
 
 Once you have selected to create a new RokSprocket module, you will be taken to a page where you can pick a **Content Provider** and a **Layout**. Once you have done this, and given the module a **Title** you can click **Continue** to begin refining the module on the next page.
 
@@ -35,6 +35,10 @@ Here is a list of layouts you can choose from on this page.
 * [Mosaic][mosaic_link]
 * [Strips][strips_link]
 * [Headlines][headlines_link]
+* [Grids][grids_link]
+* [Quotes][quotes_link]
+* [Sliders][sliders_link]
+* [Tables][tables_link]
 
 Content Providers
 -----
@@ -99,6 +103,10 @@ If you want to undo this change at a later time, simply delete the new file and 
 [mosaic_link]: mosaic_mode.md
 [headlines_link]: headlines_mode.md
 [strips_link]: strips_mode.md
+[grids_link]: grids_mode.md
+[sliders_link]: sliders_mode.md
+[tables_link]: tables_mode.md
+[quotes_link]: quotes_mode.md
 [roksprocket_module_1]: assets/roksprocket_module_1.jpeg
 [strips_demo]: assets/strips_demo.jpeg
 [fieldsattach]: http://fieldsattach.com/
