@@ -30,7 +30,7 @@ You can set the countdown timer by navigating to **Admin -> Plethora Theme -> Gi
 
 ### Text
 
-There is a block of text under the countdown timer in our default page. This block of text is located on **line 127**:
+There is a block of text under the countdown timer in our default page. This block of text is located on **line 119**:
 
 ~~~ .html
                         <p class="rt-comingsoon-message">
@@ -42,7 +42,7 @@ Just replace the text between the `<p>` tags with the information you wish to ha
 
 ### Newsletter Subscription 
 
-The subscription field and button are a standard form found between **lines 143 and 168**.
+The subscription field and button are a standard form found between **lines 145 and 150**.
 
 ~~~ .html
                         <form class="rt-comingsoon-form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=<?php echo $gantry->get('feedburner-uri'); ?>', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">

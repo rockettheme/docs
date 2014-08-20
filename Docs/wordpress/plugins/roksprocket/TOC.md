@@ -22,4 +22,8 @@ support: http://www.rockettheme.com/forum/wordpress-plugin-roksprocket/
     	* [Mosaic](mosaic_mode.md)
     	* [Strips](strips_mode.md)
     	* [Headlines](headlines_mode.md)
+        * [Grids](grids_mode.md)
+        * [Quotes](quotes_mode.md)
+        * [Tables](tables_mode.md)
+        * [Sliders](sliders_mode.md)
     * [Content Providers](layout_modes.md#content-providers)
