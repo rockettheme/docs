@@ -40,7 +40,7 @@ The **Quotes** layout mode makes it easy to display sleek, elegant quotes on you
     * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the item, as well.
     * **Direction** - Do you want the quote bubble to originate from a specific direction? You can set this here.
 
-6. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the quotes. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+6. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the quotes. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module. In the case of a **Simple** provider, this area allows you to add new items to the **Filtered Article List**.
 
 Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Quotes Layout Options** and **Grids Article Defaults** sections below.
 

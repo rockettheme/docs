@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 Introduction
 ------------
-RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the RokSprocket Admin interface.
+RokSprocket has multiple layout modes to display your content including: [Features][features_link], [Tabs][tabs_link], [Lists][lists_link], [Mosaic][mosaic_link], [Grids][grids_link], [Quotes][quotes_link], [Sliders][sliders_link], [Tables][tables_link], [Strips][strips_link], and [Headlines][headlines_link]. This guide will give you an overview of what these modes are, and how to configure them using the RokSprocket Admin interface.
 
 ![][admin1]
 
@@ -19,9 +19,9 @@ Below, you will see each layout mode listed along with the settings which are av
 
 ![][content]
 
-:   1. **Title** You need to assign a title to the widget in order to continue past the first setup page. [18%, 15%, se]
-    2. **Content Provider** This option allows you select from any available content providers on your Joomla site. [41%, 39%, se]
-    3. **Layout** The layout determines how the widget will appear on the frontend. [64%, 20%, se]
+:   1. **Title** You need to assign a title to the widget in order to continue past the first setup page. [15%, 13%, se]
+    2. **Layout** The layout determines how the widget will appear on the frontend. [30%, 39%, se]
+    3. **Content Provider** This option allows you select from any available content providers on your Joomla site. [58%, 35%, se]
     4. **Continue** Selecting this will create the widget and take you to the next step in the setup process. Once this is clicked, the widget's content provider and layout can not be changed. [84%, 46%, se]
 
 Once you have selected to create a new RokSprocket widget, you will be taken to a page where you can pick a **Content Provider** and a **Layout**. Once you have done this, and given the widget a **Title** you can click **Continue** to begin refining the widget on the next page.
@@ -32,8 +32,12 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Tabs][tabs_link]
 * [Lists][lists_link]
 * [Mosaic][mosaic_link]
-* [Headlines][headlines_link]
 * [Strips][strips_link]
+* [Headlines][headlines_link]
+* [Grids][grids_link]
+* [Quotes][quotes_link]
+* [Sliders][sliders_link]
+* [Tables][tables_link]
 
 Content Providers
 -----
@@ -76,6 +80,10 @@ When using ‘Simple’ as the content provider, you can set ordering to random 
 [mosaic_link]: mosaic_mode.md
 [headlines_link]: headlines_mode.md
 [strips_link]: strips_mode.md
+[grids_link]: grids_mode.md
+[sliders_link]: sliders_mode.md
+[tables_link]: tables_mode.md
+[quotes_link]: quotes_mode.md
 [roksprocket_widget_1]: assets/roksprocket_widget_1.png
 [strips_demo]: assets/strips_demo.png
 [admin1]: assets/wp_roksprocket_admin_1.png

@@ -13,18 +13,20 @@ Lists is a vertical display content mode, with accordion support. Here is a look
 
 ![][lists1]
 
-:   1. **Title** This is the title you wish to give the RokSprocket instance. This is only used as a label on the backend, as the widget title will be what appears on the frontend of the site. [27%, 15%, se]
-    2. **Filtered Article List Options** Gives you access to item-specific settings for the posts title, description, image, and link. [55%, 52%, nw]
+:   1. **Title** This is the title of your widget. [28%, 15%, se]
+    2. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [55%, 52%, sw]
     3. **Content Filter Rules** Sets the content filter rules for the widget. [54%, 83%, sw]
 
-1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the widget should appear in.
+1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the widget should appear in.
 
 2. The **Filtered Article List** gives you access to item-specific settings including:
-    * **Image** - This allows you to circumvent the assigned image from the post and replace it with one specifically for the headline. 
-    * **Link** - If set, the link will show a *Read More** button as well as link the title. On specific themes, it will link the image in the headline, as well.
-    * **Description** - Allows you to set a description for the headline. If this is left at *Default* the introtext from the post is used. 
 
-3. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the headlines. For example, you can have the widget pull posts that are within a specific category, contain a particular name or keyword in the title, or choose specific posts. You can also modify how this content is sorted in the widget.
+    * **Title** - Allows you to override the article title in the widget. The article title will be used if this is left at *Default*. In the **Simple** content provider, the fallback for the default article title is the item name in the **Filtered Article List**.
+    * **Description** - Allows you to set a description for the item. If this is left at *Default* the introtext from the article is used. 
+    * **Image** - This allows you to circumvent the assigned image from the article and replace it with one specifically for the item. 
+    * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the item, as well.
+
+3. The **Content Filter Rules** section gives you the ability to determine how the widget will pull content to make up the grid items. For example, you can have the widget pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the widget. In the case of a **Simple** provider, this area allows you to add new items to the **Filtered Article List**.
 
 Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Lists Layout Options** and **Lists Article Defaults** sections below.
 

@@ -36,7 +36,7 @@ A vertical list layout, set within an accordion setup with images being used as 
     * **Image** - This field enables you to add an image which appears as a background for the item.
     * **Link** - If set, the link will show a **Read More** button as well as link the title. On specific themes, it will link the image in the item, as well.
 
-6. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the quotes. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module.
+6. The **Content Filter Rules** section gives you the ability to determine how the module will pull content to make up the quotes. For example, you can have the module pull articles that are within a specific category, contain a particular name or keyword in the title, or choose specific articles. You can also modify how this content is sorted in the module. In the case of a **Simple** provider, this area allows you to add new items to the **Filtered Article List**.
 
 Below the **Content Filter Rules** section are two options areas specific to the layout mode you have chosen. We have broken down the **Sliders Layout Options** and **Grids Article Defaults** sections below.
 
