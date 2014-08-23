@@ -87,6 +87,7 @@ more:
 	- [Tachyon](templates/tachyon)
 	- [Maelstrom](templates/maelstrom)
 	- [Paradox](templates/paradox)
+	- [Panacea](templates/panacea)
 	- [Hybrid](templates/hybrid)
 	- [Syndicate](templates/syndicate)
 	- [Omnicron](templates/omnicron)

@@ -13,7 +13,7 @@ Dominion has 6 unique presets, 3 light and 3 dark. Each variant has 3 modes, Hig
 
 ![][theme]
 
->> NOTICE: Dominion is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Dominion is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----
@@ -21,7 +21,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3+
 * MySQL 5.0.4 or higher
-* Joomla 2.5
+* Joomla 2.5 or 3.x
 
 For more information, visit our [Gantry documentation][gantry].
 
