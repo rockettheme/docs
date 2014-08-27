@@ -83,6 +83,7 @@ Example: HTML for two blocks at a 60/40 split with a margin between them:
 <div class="gantry-width-block gantry-width-40 gantry-width-spacer">
 ...
 </div>
+<div class="clear">&nbsp;</div>
 ~~~
 
 Here are the classes we have created for this. You can, of course, add your own for a custom layout.
@@ -190,9 +191,12 @@ Templates produced after Vermilion use Flexbox, which uses containers rather tha
         repellat unde? Repellendus.</span>
     </div>
 </div>
+<div class="clear">&nbsp;</div>
 ~~~
 
 You can find a [useful guide to Flexbox here][flexbox].
+
+>> NOTE: At the end of each row, for either the original method or the new Flexbox method, you must *clear* the float by inserting `<div class="clear"></div>`. 
 
 ### Responsive Utility Classes
 
