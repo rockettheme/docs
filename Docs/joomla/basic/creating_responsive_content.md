@@ -196,8 +196,6 @@ Templates produced after Vermilion use Flexbox, which uses containers rather tha
 
 You can find a [useful guide to Flexbox here][flexbox].
 
->> NOTE: At the end of each row, for either the original method or the new Flexbox method, you must *clear* the float by inserting `<div class="clear"></div>`. 
-
 ### Responsive Utility Classes
 
 We have a [quick guide set up to assist][class] in the understanding of responsive support classes which you can use to make content on your site appear or disappear depending on the size of the browser window being used to display it. This allows you to trim around the edges where a little too much (or too little) content can make your site appear either too cluttered or bare.
