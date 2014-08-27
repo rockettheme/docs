@@ -77,11 +77,15 @@ If you want some spacing or a margin between your blocks, use the Spacer class.
 Example: HTML for two blocks at a 60/40 split with a margin between them:
 
 ~~~ .html
-<div class="gantry-width-block gantry-width-60 gantry-width-spacer">
-...
+<div class="gantry-width-block gantry-width-60">
+    <div class="gantry-width-spacer">
+        ...
+    </div>
 </div>
-<div class="gantry-width-block gantry-width-40 gantry-width-spacer">
-...
+<div class="gantry-width-block gantry-width-40">
+    <div class="gantry-width-spacer">
+        ...
+    </div>
 </div>
 <div class="clear">&nbsp;</div>
 ~~~
@@ -169,26 +173,26 @@ Below is the same content area as before in mobile view, demonstrating how the m
 Templates produced after Vermilion use Flexbox, which uses containers rather than blocks. Here is an example of the method used in these newer templates:
 
 ~~~ .html
-<div class="gantry-row gantry-width-container">
-    <div class="gantry-width-33 gantry-width-spacer">
-        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum
-        ipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiis
-        et quisquam quos error totam cupiditate hic itaque, expedita possimus,
-        repellat unde? Repellendus.</span>
-    </div>
-
-    <div class="gantry-width-33 gantry-width-spacer">
-        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum
-        ipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiis
-        et quisquam quos error totam cupiditate hic itaque, expedita possimus,
-        repellat unde? Repellendus.</span>
-    </div>
-
-    <div class="gantry-width-33 gantry-width-spacer">
-        <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum
-        ipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiis
-        et quisquam quos error totam cupiditate hic itaque, expedita possimus,
-        repellat unde? Repellendus.</span>
+<div class="gantry-row">
+    <div class="gantry-width-container">
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eumipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiis et quisquam quos error totam cupiditate hic itaque, expedita possimus, repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eumipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiiset quisquam quos error totam cupiditate hic itaque, expedita possimus,repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum ipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiiset quisquam quos error totam cupiditate hic itaque, expedita possimus,repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
     </div>
 </div>
 <div class="clear">&nbsp;</div>
