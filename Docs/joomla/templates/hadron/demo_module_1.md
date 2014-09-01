@@ -10,9 +10,11 @@ FP RokAjaxSearch
 
 ![][demo]
 
-:   1. **RokAjaxSearch** [24%, 94%, sw]
-
 The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool. By moving your mouse over the magnifying glass, a full search field will appear.
+
+>> This particular look is only possible because the `search` suffix was put in the **Feature Suffix** field in the Social Buttons feature. You can access this setting by navigating to **Admin > Templates Manager > Hadron > Features > Social Buttons**. The **Social Buttons** position is also set to **navigation-b**.
+
+![][socialbuttons]
 
 ### Details
 
@@ -64,7 +66,8 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 | :------------------ | :------------------------------ |  
 | Module Class Suffix | `fp-rokajaxsearch hidden-phone` |  
 
-[demo]: assets/hadron.jpeg
-[demo2]: assets/rokajaxsearch_1.jpeg
-[demo3]: assets/rokajaxsearch_2.jpeg
-[demo4]: assets/rokajaxsearch_3.jpeg
+[demo]: assets/demo_1d.jpeg
+[demo2]: assets/demo_1a.jpeg
+[demo3]: assets/demo_1b.jpeg
+[socialbuttons]: assets/socialbuttons.jpg
+[demo4]: assets/demo_1c.jpeg

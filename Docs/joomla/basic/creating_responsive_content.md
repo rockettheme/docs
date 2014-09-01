@@ -65,30 +65,98 @@ Scaling down your browser's width to 767px or below initiates the smartphone sta
 From the result above, we will take the largest width, 659px. So, we can now resize and crop the actual image to the 659px width. For the height, you may adjust it to fit the article description. In our demo, the height of the image is 350px. This does not mean all of your images should be cropped or resized to a width of 659px, though doing so will certainly improve the optimization of your site as it'll only require users to download the image file at a size it will actually be presented at.
 
 ### Custom Responsive Grids
+
 We have some responsive grid classes that you can use to create custom width for your content.
 
-~~~
-/* Demo Responsive Grid */
-.gantry-width-block {display: block; float: left;}
-.gantry-width-spacer {margin: 15px;}
-.gantry-width-20 {width: 20%;}
-.gantry-width-25 {width: 25%;}
-.gantry-width-30 {width: 30%;}
-.gantry-width-33 {width: 33.33%;}
-.gantry-width-40 {width: 40%;}
-.gantry-width-50 {width: 50%;}
-.gantry-width-60 {width: 60%;}
-.gantry-width-66 {width: 66.66%;}
-.gantry-width-70 {width: 70%;}
-.gantry-width-75 {width: 75%;}
-.gantry-width-80 {width: 80%;}
+When using these classes, you should first define in the code that you want to create a percent-based block, then you define the percentage of that block. 
+
+You repeat this process until your blocks equal 100% for any given row. In **Mobile** view, these blocks will stack on top of each other while in **Tablet** or **Desktop** view, these blocks will scale responsively.
+
+If you want some spacing or a margin between your blocks, use the Spacer class.
+
+Example: HTML for two blocks at a 60/40 split with a margin between them:
+
+~~~ .html
+<div class="gantry-width-block gantry-width-60">
+    <div class="gantry-width-spacer">
+        ...
+    </div>
+</div>
+<div class="gantry-width-block gantry-width-40">
+    <div class="gantry-width-spacer">
+        ...
+    </div>
+</div>
+<div class="clear">&nbsp;</div>
 ~~~
 
-The sample implementation can be seen on the demo frontpage.
+Here are the classes we have created for this. You can, of course, add your own for a custom layout.
+
+~~~ .css
+/* Demo Responsive Grid */ 
+
+.gantry-width-block {
+    display:block;
+    float:left
+}
+
+.gantry-width-spacer {
+    margin:15px
+}
+
+.gantry-width-20 {
+    width:20%
+}
+
+.gantry-width-25 {
+    width:25%
+}
+
+.gantry-width-30 {
+    width:30%
+}
+
+.gantry-width-33 {
+    width:33.33%
+}
+
+.gantry-width-40 {
+    width:40%
+}
+
+.gantry-width-50 {
+    width:50%
+}
+
+.gantry-width-60 {
+    width:60%
+}
+
+.gantry-width-66 {
+    width:66.66%
+}
+
+.gantry-width-70 {
+    width:70%
+}
+
+.gantry-width-75 {
+    width:75%
+}
+
+.gantry-width-80 {
+    width:80%
+}
+~~~
+
+Here is an example of this method in action. Mouse-over the numbered callouts to see the class used for each area of the example.
 
 ![][responsive5]
 
-You may add your own custom class. With these custom classes, you can create multiple-column content. Just make sure the total width in a row is 100%.
+:   1. **gantry-width-block gantry-width-60** [13%, 6%, se]
+    2. **gantry-width-block gantry-width-40** [13%, 60%, se]
+    3. **gantry-width-block gantry-width-50** [67%, 6%, se]
+    4. **gantry-width-block gantry-width-50** [67%, 50%, se]
 
 In small tablets, larger and standard smartphones view, those blocks will be stacked by the following.
 
@@ -96,9 +164,44 @@ In small tablets, larger and standard smartphones view, those blocks will be sta
 .gantry-width-20, .gantry-width-25, .gantry-width-30, .gantry-width-33, .gantry-width-40, .gantry-width-50, .gantry-width-60, .gantry-width-66, .gantry-width-70, .gantry-width-75, .gantry-width-80 {width: 100%;}
 ~~~
 
-![][responsive6]
+Below is the same content area as before in mobile view, demonstrating how the modules maintain a full, responsive layout when in mobile mode without the class restrictions.
+
+![][responsive10]
+
+>> NOTE: The specific scripting noted above applies to the following RocketTheme templates: Fracture, Graffito, Metropolis, Cerulean, Leviathan, Lumiere, Chapelco, Afterburner2, Alerion, Hexeris, Oculus, Stratos, Praxis, Corvus, Acacia, Spectral, Paradigm, Hadron, Anacron, Epsilon, Lexicon, and Vermilion. All templates produced after Vermilion follow the class name scheme below.
+
+Templates produced after Vermilion use Flexbox, which uses containers rather than blocks. Here is an example of the method used in these newer templates:
+
+~~~ .html
+<div class="gantry-row">
+    <div class="gantry-width-container">
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eumipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiis et quisquam quos error totam cupiditate hic itaque, expedita possimus, repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eumipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiiset quisquam quos error totam cupiditate hic itaque, expedita possimus,repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="gantry-width-spacer">
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum ipsam tenetur adipisci ipsa, necessitatibus accusantium iusto officiiset quisquam quos error totam cupiditate hic itaque, expedita possimus,repellat unde? Repellendus.
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clear">&nbsp;</div>
+~~~
+
+You can find a [useful guide to Flexbox here][flexbox].
 
 ### Responsive Utility Classes
+
 We have a [quick guide set up to assist][class] in the understanding of responsive support classes which you can use to make content on your site appear or disappear depending on the size of the browser window being used to display it. This allows you to trim around the edges where a little too much (or too little) content can make your site appear either too cluttered or bare.
 
 These classes are not just for whole modules. They can be used to cut out content as it appears in a single block of text, or even some images. By adding `<span class="hidden-phone"></span>` to an area of text you wish to have hidden on smartphones and other small-screen devices but present elsewhere, you can trim this content out without losing the whole module. Otherwise, the content might be a bit crushed in the smaller screen and appear stretched (pictured below).
@@ -130,3 +233,5 @@ The result: A leaner, more aesthetically pleasing article tease without sacrific
 [responsive7]: assets/responsive_7.jpg
 [responsive8]: assets/responsive_8.jpg
 [responsive9]: assets/responsive_9.jpg
+[flexbox]: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[responsive10]: assets/responsive_10.jpg

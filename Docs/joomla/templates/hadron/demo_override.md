@@ -50,6 +50,10 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Home    | Branding           | copyright-a  | Show: On                                                                                                                                  |
 | Home    | To-Top Scroller    | bottom-b     | Show: On, Text: `<span class="icon-angle-up"></span>`                                                                                     |
 
+![][socialbuttons]
+
+>> NOTE: The look of the **Social Buttons** and **RokAjaxSearch** module presented in our demo is only possible because the search suffix was put in the Feature Suffix field in the Social Buttons feature. The RokAjaxSearch module position is also set to navigation-c.
+
 ### Menu
 
 | Style   | Option          | Setting                       |  
@@ -108,3 +112,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [Hadron2]: assets/hadron2.jpeg
+[socialbuttons]: assets/socialbuttons.jpg

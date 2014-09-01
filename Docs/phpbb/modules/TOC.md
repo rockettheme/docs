@@ -2,6 +2,10 @@
 
 breadcrumb: /phpbb:phpBB/!modules:Modules/
 
+details: http://www.rockettheme.com/joomla/extensions/roknavmenu
+download: http://www.rockettheme.com/joomla/extensions/roknavmenu/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-extension-roknavmenu/
+
 ---
 
 * Administration Modules
