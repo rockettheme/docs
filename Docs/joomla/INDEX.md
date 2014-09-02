@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Nuance](templates/nuance)
 	- [Tessellate](templates/tessellate)
 	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
