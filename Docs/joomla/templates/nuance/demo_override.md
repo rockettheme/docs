@@ -40,6 +40,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | Footer Style              |             | Text Color: `#a8a8a8`, Background Color: `#f5f5f5`                                                      |
 | Default     | Font Settings             |             | Font Family: Nuance, Font Size: Default                                                                 |
 
+>> NOTE: The font used in the default logo is called [**Nunito**](http://www.fontsquirrel.com/fonts/nunito).
+
 ### Features
 
 ![Features Settings][features]

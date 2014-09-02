@@ -12,6 +12,8 @@ FP Extension B
 
 This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
 
+To replicate the "pop up" effect as you click on the images in this module, you will need to have the **RokBox** extension installed and activated.
+
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Details

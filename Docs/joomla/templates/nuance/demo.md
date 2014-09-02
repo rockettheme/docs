@@ -111,12 +111,24 @@ In your site's main menu, you will want to make a couple of key changes in order
 
 You will need to change the **Page Class** setting under the Home menu item to ` aug14-home`.
 
+Search
+-----
+
+![][template]
+
+:   1. **Text Separator** [18%, 70%, se]
+
+The search icon that appears in the menu with a drop-down search field is a **Text Separator** menu item. The **Custom CSS Class** listed under **Dropdown Menu Options** is `hidden-phone menu-item-search`. The **menu-item-search** class hides the text and adds the magnifying glass icon.
+
+You will also need to assign a **mod_search** module as the **Child Module** in the **Dropdown Menu Options** page. This gives it its search functionality.
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
 [template2]: assets/nuance2.jpeg
 [demooverride]: demo_override.md
+[template]: assets/nuance.jpeg
 [roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
 [rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
 [rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy

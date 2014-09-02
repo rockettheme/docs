@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!nuance:Nuance
 Introduction
 -----
 
-Nuance is a sharp, elegant and refined template. It is designed to not only enrich your content, but also to provide an overall artistic base, with animated extras, to impress your visitors, and best reflect the primary focus of your site.
+Nuance is a truly multi-purposed design, suitable for corporate, creative or other web environments. The transparent nature of the template allows the background colors to bleed through to the forefront, to complement and embellish your content.
 
 ![][template]
 
