@@ -86,7 +86,7 @@ more:
 	- [Halcyon](themes/halcyon)
 	- [Visage](themes/visage)
 	- [Enigma](themes/enigma)
-	- [Momentum (Coming Soon)](themes/momentum)
+	- [Momentum](themes/momentum)
 	- [Radiance (Coming Soon)](themes/radiance)
 	- [Camber (Coming Soon)](themes/camber)
 	- [Reflex (Coming Soon)](themes/reflex)
