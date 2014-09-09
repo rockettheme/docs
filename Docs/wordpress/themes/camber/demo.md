@@ -1,7 +1,7 @@
 ---
-title: Momentum: Recreating the Demo
-description: Your Guide to Recreating Elements of the Momentum Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
+title: Camber: Recreating the Demo
+description: Your Guide to Recreating Elements of the Camber Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/camber:Camber
 
 ---
 
@@ -10,16 +10,16 @@ Introduction
 
 ![][theme]
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Momentum can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Camber can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Momentum theme.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Camber theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
 Recommended Plugins
 -----
 
-Here is a list of RocketTheme plugins used to create the demo version of Momentum:
+Here is a list of RocketTheme plugins used to create the demo version of Camber:
 
 * [Gantry Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
@@ -28,17 +28,17 @@ Here is a list of RocketTheme plugins used to create the demo version of Momentu
 * [RokGallery][rokgallery]
 * [RokSocialButtons][social]
 
-Many of these plugins are included with the Momentum RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Camber RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Momentum demo sits apart from the rest of the page layouts in that it features the latest and greatest features used in the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Momentum theme.
+The front page of the Camber demo sits apart from the rest of the page layouts in that it features the latest and greatest features used in the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Camber theme.
 
 Theme Settings
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Momentum Theme** and selecting the **+** icon located just above the **Style** settings tab.
+The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Camber Theme** and selecting the **+** icon located just above the **Style** settings tab.
 
 It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
 
@@ -56,28 +56,27 @@ Widget Settings
 
 ![][theme2]
 
-:   1. **Logo - Gantry Logo** [6%, 15%, se]
-    2. **Navigation - Gantry Menu** [6%, 28%, se]
-    3. **Sidebar - RokNewsPager** [24%, 82%, sw]
-    4. **Sidebar - Gantry Login Form** [40%, 82%, sw]
-    5. **Sidebar - Text** [53%, 82%, sw]
-    6. **Sidebar - Text** [62%, 82%, sw]
-    7. **Content Top - Text** [24%, 16%, se]
-    8. **Content Top - Calendar** [24%, 45%, se]
-    9. **Content Bottom - Text** [69%, 16%, se]
-    10. **Content Bottom - Text** [69%, 40%, se]
-    11. **Slideshow - RokGallery** [12%, 17%, se]
-    12. **Featured Post** [45%, 17%, se]
-    13. **Footer - Text** [83%, 17%, se]
-    14. **Footer - Text** [83%, 40%, se]
-    15. **Footer - Text** [83%, 63%, se]
-    16. **Copyright - Gantry Copyright** [92%, 18%, se]
-    17. **Copyright - Gantry To Top** [92%, 45%, se]
-    18. **Copyright - Gantry Branding** [92%, 72%, se]
+:   1. **Navigation - Gantry Menu** [5%, 15%, se]
+    2. **Subnavigation - Gantry Menu** [7%, 50%, sw]
+    3. **Header - Gantry Logo** [10%, 15%, se]
+    4. **Header - Gantry Login Form** [12%, 52%, se]
+    5. **Main Top - RokGallery** [34%, 17%, se]
+    6. **Main Top - RokNewsPager** [34%, 64%, se]
+    7. **Main Bottom - RokTabs** [53%, 17%, se]
+    8. **Main Bottom - Text** [53%, 64%, se]
+    9. **Main Bottom - Text** [66%, 64%, se]
+    10. **Footer - RokGallery** [76%, 17%, se]
+    11. **Footer - Text** [76%, 40%, se]
+    12. **Footer - Text** [82%, 40%, se]
+    13. **Footer - Text** [76%, 69%, se]
+    14. **Footer - Text** [85%, 69%, se]
+    15. **Copyright - Gantry Copyright** [92%, 18%, se]
+    16. **Copyright - Gantry To Top** [92%, 45%, se]
+    17. **Copyright - Gantry Branding** [92%, 72%, se]
 
 >> Any widgets not specifically pointed out above are likely left out due to the fact that they were created using legacy plugins and/or features of WordPress that are no longer supported.
 
-Like any Gantry theme, Momentum utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Like any Gantry theme, Camber utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
 
@@ -85,23 +84,19 @@ One important thing to note here is that many of the widget sections included in
 
 ### Widget Sections
 
-* [Logo][logo]
+* [Subnavigation][subnavigation]
 * [Navigation][navigation]
-* [Sidebar][sidebar]
-* [Content Top][contenttop]
-* [Content Bottom][contentbottom]
-* [Slideshow][slideshow]
+* [Main Top][maintop]
+* [Main Bottom][mainbottom]
 * [Footer][footer]
 * [Copyright][copyright]
-
-The featured posts on the front page of the demo are outlined in the [Featured posts][posts] area of this documentation.
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
-[theme2]: assets/momentum2.jpeg
-[theme]: assets/momentum.jpeg
+[theme2]: assets/camber2.jpeg
+[theme]: assets/camber.jpeg
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
@@ -111,16 +106,18 @@ The featured posts on the front page of the demo are outlined in the [Featured p
 [ribbon]: demo_ribbon.md
 [showcase]: demo_showcase.md
 [feature]: demo_feature.md
+[maintop]: demo_maintop.md
 [extension]: demo_extension.md
 [header]: demo_header.md
 [logo]: demo_logo.md
 [slideshow]: demo_slideshow.md
 [footer]: demo_footer.md
 [navigation]: demo_navigation.md
-[contenttop]: demo_contenttop.md
+[mainbottom]: demo_mainbottom.md
 [posts]: demo_posts.md
 [contentbottom]: demo_contentbottom.md
 [bottom]: demo_bottom.md
+[subnavigation]: demo_subnavigation.md
 [copyright]: demo_copyright.md
 [sidebar]: demo_sidebar.md
 [featured]: demo_featured.md

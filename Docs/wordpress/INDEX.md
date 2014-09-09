@@ -90,7 +90,7 @@ more:
 	- [Enigma](themes/enigma)
 	- [Momentum](themes/momentum)
 	- [Radiance](themes/radiance)
-	- [Camber (Coming Soon)](themes/camber)
+	- [Camber](themes/camber)
 	- [Reflex (Coming Soon)](themes/reflex)
 	- [Modulus (Coming Soon)](themes/modulus)
 	- [Nebulae (Coming Soon)](themes/nebulae)

@@ -71,6 +71,8 @@ Widget Settings
     13. **Copyright - Gantry To Top** [92%, 45%, se]
     14. **Copyright - Gantry Branding** [92%, 72%, se]
 
+>> Any widgets not specifically pointed out above are likely left out due to the fact that they were created using legacy plugins and/or features of WordPress that are no longer supported.
+
 Like any Gantry theme, Radiance utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
