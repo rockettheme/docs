@@ -17,6 +17,7 @@ RokGallery uses design and concepts that have been traditionally reserved for pl
 
 Requirements
 ------------
+
 RokGallery has the following requirements in order to operate:
 
 * Joomla 2.5 or 3.x - ensure you are using the latest version.
@@ -34,6 +35,7 @@ RokGallery has the following requirements in order to operate:
 
 Key Features
 ------------
+
 #### Administration Features
 * HTML5/Flash multi-file uploader with upload status indicators
 * Multiple image ‘slices’ per image with individual zoom/crop sizes
@@ -46,6 +48,7 @@ Key Features
 * Sophisticated slice editor for creating custom views of a particular image file
 
 #### Frontend Features
+
 * Gallery view component with various view options: 3x3, 4x4, Details etc.
 * Override-able architecture to allow for custom layouts including custom HTML, CSS, JS, etc.
 * Front-end selectable sort options
@@ -56,6 +59,7 @@ Key Features
 
 How to install
 --------------
+
 Installing RokGallery takes just a matter of few minutes.
 
 The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
@@ -79,6 +83,7 @@ Once installation is complete, a message highlighted in green should indicate it
 
 RokBox
 -----
+
 We recommend downloading and installing [RokBox][rokbox] in addition to RokGallery. RokBox is a useful companion extension to RokGallery which enables you to make media files available to visitors in an elegant frame without having to leave the page to do so. By linking a RokGallery module to RokBox, you will be able to present images in a way that goes beyond what RokGallery alone can offer.
 
 In addition, RokBox gives you more media options for other areas of your site apart from RokGallery.
