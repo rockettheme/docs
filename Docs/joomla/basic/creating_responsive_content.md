@@ -200,6 +200,14 @@ Templates produced after Vermilion use Flexbox, which uses containers rather tha
 
 You can find a [useful guide to Flexbox here][flexbox].
 
+#### gantry-width Classes and Numbering System
+
+Each responsive Gantry template made by RocketTheme comes with a set of `gantry-width` classes defined in the **gantry-core.less** file. The number following `gantry-width-` in the class name (as used by RocketTheme) generally refers to the percentage of the total width of the container that particular div takes up. 
+
+As an example, if you have `gantry-width-30` and `gantry-width-70` sitting in the same content row, the first div will take up 30% of the total width while the second takes the remaining 70%. This could be different, depending on how the class is defined. 
+
+In the case of `gantry-width-33`, the `width:33.33%` setting was used in order to make it more accurate to a true third of the total page width.
+
 ### Responsive Utility Classes
 
 We have a [quick guide set up to assist][class] in the understanding of responsive support classes which you can use to make content on your site appear or disappear depending on the size of the browser window being used to display it. This allows you to trim around the edges where a little too much (or too little) content can make your site appear either too cluttered or bare.

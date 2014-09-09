@@ -38,3 +38,4 @@ breadcrumb: /!accounts_billing:Accounts & Billing/
 	- [Purchasing Guide](purchase.md)
 	- [Frequently Asked Questions](faq.md)
 	- [Forum Guide](../technical_tips/site/forum_guide.md)
+	- [Perks of Membership](http://www.rockettheme.com/blog/team/133-five-perks-to-being-a-rockettheme-user)

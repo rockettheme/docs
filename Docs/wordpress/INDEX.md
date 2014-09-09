@@ -33,6 +33,8 @@ more:
 
 	- [How to Create a New Post](start/post.md)
 	- [How to Manage Menus](start/menus.md)
+	- [How to Use Markdown in WordPress](http://www.rockettheme.com/blog/wordpress/136-how-to-use-markdown-in-wordpress)
+	- [IFTTT Recipes for WordPress](http://www.rockettheme.com/blog/reviews/121-ifttt-recipes-for-wordpress-users)
 
 <!-- -->
 

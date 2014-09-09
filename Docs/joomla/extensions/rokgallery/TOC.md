@@ -23,3 +23,5 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokgallery/
     * [Managing Images](rokgallery_images.md)
     * [Create a RokGallery Module](rokgallery_module.md)
         * [Module Configuration](rokgallery_module.md#module-configuration)
+* Tips and Tutorials
+    * [Free Photo Editing Solutions](http://www.rockettheme.com/blog/reviews/124-five-free-photo-editing-solutions)
