@@ -1,6 +1,7 @@
 ---
 breadcrumb: /wordpress:WordPress/!themes:Themes/radiance:Radiance
-details: http://www.rockettheme.com/wordpress/themes/radiance 
+
+details: http://www.rockettheme.com/wordpress/themes/radiance
 demo: http://demo.rockettheme.com/wordpress-themes/radiance/ 
 download: http://www.rockettheme.com/wordpress/themes/radiance/modal/downloads 
 support: http://www.rockettheme.com/forum/wordpress-theme-radiance
