@@ -89,7 +89,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 
 #### Gantry Login Form
 
-The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
+The login form located in this area of the page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
 
 | Option            | Setting                         |
 | :----------       | :----------                     |

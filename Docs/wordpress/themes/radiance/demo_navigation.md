@@ -1,22 +1,16 @@
 ---
-title: Clarion: Recreating the Demo - Sidebar
-description: Your Guide to Recreating Elements of the Clarion Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/clarion:Clarion
+title: Radiance: Recreating the Demo - Navigation
+description: Your Guide to Recreating Elements of the Radiance Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/radiance:Radiance
 
 ---
 
-Sidebar Section
+Navigation Section
 -----
 
-![][demo1]
+![][demo]
 
-:   1. **Gantry Menu** [10%, 14%, se]
-    2. **Gantry Login Form** [55%, 14%, se]
-
-Here is the widget breakdown for the Sidebar section:
-
-* Gantry Menu
-* Gantry Login Form
+Here is the widget breakdown for the Navigation section:
 
 #### Gantry Menu
 
@@ -26,16 +20,14 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 
 | Option             | Setting        |
 | :----------------  | :--------      |
-| Title              | `Main Menu`    |
 | Menu               | Main Menu      |
-| Menu Theme         | Split-Menu     |
+| Menu Theme         | Fusion         |
 | Limit Levels       | No             |
 | Start Level        | 0              |
 | End Level          | 0              |
-| Show All Children  | No             |
+| Show All Children  | Yes            |
 | Show Empty Menu    | No             |
 | Maximum Depth      | 10             |
-| Menu Classes       |                |
 | Load CSS           | No             |
 | Enable JavaScript  | Yes            |
 | Menu Opacity       | 1              |
@@ -48,18 +40,11 @@ Here is a breakdown of the widget options for this menu widget. Any options not 
 | Pill Duration      | 400            |
 | Centered Dropdowns | No             |
 | Level 2 X Offset   | -10            |
-| Level 2 Y Offset   | -11            |
-| Submenus X Offset  | -8             |
-| Submenus Y Offset  | -18            |
+| Level 2 Y Offset   | -4             |
+| Submenus X Offset  | 13             |
+| Submenus Y Offset  | 0              |
 | Enable Active ID   | No             |
 
-#### Gantry Login Form
-
-The login form located in this area of the page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
-
-| Option            | Setting                         |
-| :---------------- | :------------------------------ |
-| Title             | `Login Form`                    |
-| User Greeting     | `Hi,`                           |
-
-[demo1]: assets/demo_11.jpg
+[demo]: assets/demo_2.jpeg
+[menu]: ../../start/menus.md
+[faq]: faq.md

@@ -89,7 +89,7 @@ more:
 	- [Visage](themes/visage)
 	- [Enigma](themes/enigma)
 	- [Momentum](themes/momentum)
-	- [Radiance (Coming Soon)](themes/radiance)
+	- [Radiance](themes/radiance)
 	- [Camber (Coming Soon)](themes/camber)
 	- [Reflex (Coming Soon)](themes/reflex)
 	- [Modulus (Coming Soon)](themes/modulus)

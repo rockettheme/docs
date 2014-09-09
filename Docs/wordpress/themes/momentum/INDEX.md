@@ -1,6 +1,7 @@
 ---
-
-title: Momentum description: Your Guide to Using the Momentum Theme for WordPress breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
+title: Momentum 
+description: Your Guide to Using the Momentum Theme for WordPress 
+breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
 
 ---
 

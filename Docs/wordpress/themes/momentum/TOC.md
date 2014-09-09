@@ -1,8 +1,9 @@
 ---
-
 breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
-
-details: http://www.rockettheme.com/wordpress/themes/momentum demo: http://demo.rockettheme.com/wordpress-themes/momentum/ download: http://www.rockettheme.com/wordpress/themes/momentum/modal/downloads support: http://www.rockettheme.com/forum/wordpress-theme-momentum
+details: http://www.rockettheme.com/wordpress/themes/momentum 
+demo: http://demo.rockettheme.com/wordpress-themes/momentum/ 
+download: http://www.rockettheme.com/wordpress/themes/momentum/modal/downloads 
+support: http://www.rockettheme.com/forum/wordpress-theme-momentum
 
 ---
 
@@ -17,8 +18,8 @@ details: http://www.rockettheme.com/wordpress/themes/momentum demo: http://demo.
 		- [Recommended Plugins](demo.md#recommended-plugins)
 		- [Theme Settings](demo.md#theme-settings)
 		- [Widget Settings](demo.md#widget-settings)
-			- [Logo](demo_top.md)
-			- [Navigation](demo_ribbon.md)
+			- [Logo](demo_logo.md)
+			- [Navigation](demo_navigation.md)
 			- [Sidebar](demo_sidebar.md)
 			- [Content Top](demo_contenttop.md)
 			- [Content Bottom](demo_contentbottom.md)
