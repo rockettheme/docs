@@ -84,8 +84,8 @@ One important thing to note here is that many of the widget sections included in
 
 ### Widget Sections
 
-* [Subnavigation][subnavigation]
 * [Navigation][navigation]
+* [Subnavigation][subnavigation]
 * [Main Top][maintop]
 * [Main Bottom][mainbottom]
 * [Footer][footer]
