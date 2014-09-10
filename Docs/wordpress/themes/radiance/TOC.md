@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-radiance
 		- [Theme Settings](demo.md#theme-settings)
 		- [Widget Settings](demo.md#widget-settings)
 			- [Header](demo_header.md)
-			- [Navigation](demo_ribbon.md)
+			- [Navigation](demo_navigation.md)
 			- [Sidebar](demo_sidebar.md)
 			- [Content Top](demo_contenttop.md)
 			- [Bottom](demo_bottom.md)

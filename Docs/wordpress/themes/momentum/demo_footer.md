@@ -11,14 +11,11 @@ Footer Section
 ![][demo1]
 
 :   1. **Text 1** [20%, 6%, se]
-    2. **Text 2** [20%, 21%, se]
-    3. **Text 3** [20%, 43%, se]
-    4. **Text 4** [20%, 75%, se]
+    2. **Text 2** [20%, 35%, se]
+    3. **Text 3** [20%, 66%, se]
 
 Here is the widget breakdown for the Footer section:
 
-* Text
-* Gantry Divider
 * Text
 * Gantry Divider
 * Text
@@ -30,20 +27,13 @@ Here is the widget breakdown for the Footer section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<ul class="menu">
-    <li class="item41 active"><a href="http://demo.rockettheme.com/live/wordpress/momentum/"><span>Home</span></a></li>
-    <li class="item42"><a href="http://demo.rockettheme.com/live/wordpress/momentum/features/"><span>Features</span></a></li>
-    <li class="item43"><a href="http://demo.rockettheme.com/live/wordpress/momentum/plugins/"><span>Plugins</span></a></li>
-    <li class="item44"><a href="http://demo.rockettheme.com/live/wordpress/momentum/tutorials/"><span>Tutorials</span></a></li>
-    <li class="item45"><a href="http://demo.rockettheme.com/live/wordpress/momentum/preset-styles/"><span>Styles</span></a></li>
-    <li class="item45"><a href="http://rockettheme.com" target="_blank"><span>RocketTheme</span></a></li>
-</ul>
+<p>This demo includes a series of RocketTheme plugins, with theme specific styling.</p>
+<a href="http://demo.rockettheme.com/live/wordpress/momentum/plugins/" class="readon"><span>Included Plugins</span></a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Enter `Site Map` in the **Title** field.
-* Enter `footermenu` in the **Custom Variations** field.
+* Enter `RocketTheme Plugins` in the **Title** field.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Gantry Divider
@@ -55,24 +45,13 @@ This widget tells WordPress to start a new widget column beginning with the widg
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<em class="bold nobold">
-<span>1234 South Street</span>
-<br>
-<span>San Francisco CA 00000</span>
-<br>
-<span>United States</span>
-<br><br>
-<span>T  1 (555) 555-555</span>
-<br>
-<span>F  1 (555) 555-555</span>
-<br>
-<a href="#">help@rockettheme.com</a>
-</em>
+<p>This site has a range of guides to introduce you to the basics of the theme.</p>
+<a href="http://demo.rockettheme.com/live/wordpress/momentum/tutorials/" class="readon"><span>Available Guides</span></a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Enter `Contact Us` in the **Title** field.
+* Enter `Tutorial Information` in the **Title** field.
 * Leaving everything else at its default setting, select **Save**.
 
 #### Text 3
@@ -80,30 +59,13 @@ Here is a breakdown of options changes you will want to make to match the demo.
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p>All demo content is for <strong>sample</strong> purposes only, intended to represent a live site. All images are the copyright of their respective owners. Please download the <strong>RocketLauncher</strong> pack to install a copy of the demo.</p>
-<a href="http://demo.rockettheme.com/live/wordpress/momentum/tutorials/installation/" class="readon"><span>Read More</span></a>
+<p>Momentum has valid code, based on the XHTML 1.0 Transitional standards.</p>
+<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fdemo.rockettheme.com%2Fwordpress%2Fwp_momentum&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0" class="readon" target="_blank"><span>Validate Now</span></a>
 ~~~
 
-Leaving everything else at its default setting, select **Save**.
+Here is a breakdown of options changes you will want to make to match the demo.
 
-#### Text 4
+* Enter `Valid Code` in the **Title** field.
+* Leaving everything else at its default setting, select **Save**.
 
-This section of the page is a standard text widget. You will need to enter the following in the main text field.
-
-~~~ .html
-<p>Connect with us via a selection of popular social media, networks and other platforms.</p>
-<div class="fp-icon floatleft"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon1.png" alt="icon"></a></div>
-<div class="fp-icon floatleft"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon2.png" alt="icon"></a></div>
-<div class="fp-icon floatleft"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon3.png" alt="icon"></a></div>
-<div class="fp-icon floatleft nomarginright"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon4.png" alt="icon"></a></div>
-<div class="clear"></div>
-<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon5.png" alt="icon"></a></div>
-<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon6.png" alt="icon"></a></div>
-<div class="fp-icon floatleft nomarginbottom"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon7.png" alt="icon"></a></div>
-<div class="fp-icon floatleft nomarginright nomarginbottom"><a href="#"><img src="http://demo.rockettheme.com/live/wordpress/momentum/wp-content/rockettheme/rt_momentum_wp/frontpage/icon8.png" alt="icon"></a></div>
-<div class="clear"></div>
-~~~
-
-Leaving everything else at its default setting, select **Save**.
-
-[demo1]: assets/demo_11.jpeg
+[demo1]: assets/demo_5.jpeg

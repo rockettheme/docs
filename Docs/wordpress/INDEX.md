@@ -91,7 +91,7 @@ more:
 	- [Momentum](themes/momentum)
 	- [Radiance](themes/radiance)
 	- [Camber](themes/camber)
-	- [Reflex (Coming Soon)](themes/reflex)
+	- [Reflex](themes/reflex)
 	- [Modulus (Coming Soon)](themes/modulus)
 	- [Nebulae (Coming Soon)](themes/nebulae)
 	- [Entropy (Coming Soon)](themes/entropy)

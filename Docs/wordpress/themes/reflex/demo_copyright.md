@@ -1,7 +1,7 @@
 ---
-title: Momentum: Recreating the Demo - Copyright
-description: Your Guide to Recreating Elements of the Momentum Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
+title: Reflex: Recreating the Demo - Copyright
+description: Your Guide to Recreating Elements of the Reflex Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/reflex:Reflex
 
 ---
 
@@ -40,4 +40,4 @@ The Gantry To Top widget is a simple indicator which allows users to jump to the
 
 The Gantry Branding widget does little more than display our logo at the bottom of the page. Simply click and drag the **Gantry Branding** widget into the widget section for this to appear.
 
-[demo2]: assets/demo_6.jpeg
+[demo2]: assets/demo_9.jpeg
