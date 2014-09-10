@@ -113,8 +113,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Front Page  | Template Page Types | Home Page, Front Page |
 
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
-[advanced]: assets/setadvanced.md
-[layouts]: assets/setlayouts.md
-[gizmos]: assets/setgizmos.md
-[style]: assets/setstyle.md
-[mobile]: assets/setmobile.md
+[advanced]: assets/setadvanced.jpeg
+[layouts]: assets/setlayouts.jpeg
+[gizmos]: assets/setgizmos.jpeg
+[style]: assets/setstyle.jpeg
+[mobile]: assets/setmobile.jpeg
