@@ -23,7 +23,7 @@ This area of the front page is a **mod_custom** module. You will find the settin
 | Option     | Setting          |  
 | :--------- | :--------------- |  
 | Title      | `FP Footer Menu` |  
-| Show Title | Show             |  
+| Show Title | Hide             |  
 | Position   | footer-c         |  
 | Status     | Published        |  
 | Access     | Public           |  
