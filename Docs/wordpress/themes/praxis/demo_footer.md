@@ -47,7 +47,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 #### Gantry Login Form
 
-The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
+The login form located in this area of the page is actually a **Gantry Login Form** widget. Here are the widget options you will need to change in order to match the demo.
 
 | Option            | Setting        |  
 | :---------------- | :------------- |  

@@ -147,6 +147,7 @@ more:
 	- [Frequently Asked Questions](basic/faq.md)
 	- [How to Identify an Existing Module](basic/module_identification.md)
 	- [How to Create a Multilingual Site](basic/how_to_create_a_multilingual_site.md)
+	- [Five Tips to Help You Get Started with Joomla](http://www.rockettheme.com/blog/joomla/138-five-tips-to-help-you-get-started-with-joomla)
 
 <!-- -->
 

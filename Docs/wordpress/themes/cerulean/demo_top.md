@@ -25,7 +25,7 @@ The first thing you will need to do is click and drag the **Gantry Logo** widget
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
 #### Gantry Login Form
-The login form located on the top-right of the front page is actually a **Gantry Login Form** widget. 
+The login form located in this area of the page is actually a **Gantry Login Form** widget. 
 
 | Option            |            Setting |  
 | :---------------- | -----------------: |  

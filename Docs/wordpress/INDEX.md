@@ -33,6 +33,8 @@ more:
 
 	- [How to Create a New Post](start/post.md)
 	- [How to Manage Menus](start/menus.md)
+	- [How to Use Markdown in WordPress](http://www.rockettheme.com/blog/wordpress/136-how-to-use-markdown-in-wordpress)
+	- [IFTTT Recipes for WordPress](http://www.rockettheme.com/blog/reviews/121-ifttt-recipes-for-wordpress-users)
 
 <!-- -->
 
@@ -86,10 +88,10 @@ more:
 	- [Halcyon](themes/halcyon)
 	- [Visage](themes/visage)
 	- [Enigma](themes/enigma)
-	- [Momentum (Coming Soon)](themes/momentum)
-	- [Radiance (Coming Soon)](themes/radiance)
-	- [Camber (Coming Soon)](themes/camber)
-	- [Reflex (Coming Soon)](themes/reflex)
+	- [Momentum](themes/momentum)
+	- [Radiance](themes/radiance)
+	- [Camber](themes/camber)
+	- [Reflex](themes/reflex)
 	- [Modulus (Coming Soon)](themes/modulus)
 	- [Nebulae (Coming Soon)](themes/nebulae)
 	- [Entropy (Coming Soon)](themes/entropy)
