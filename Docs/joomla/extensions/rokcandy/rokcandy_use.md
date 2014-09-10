@@ -55,7 +55,7 @@ In the HTML field, enter:
 
 Once this macro has been saved and published, you should be able to replicate any demo content that features the `[span]` macro tag in its content.
 
-Notice that you can't use two macro at the same time. 
+>> NOTE: You are only able to use a single macro in a given string of text. If you need multiple classes in a single macro, place them in a new macro and use them accordingly.
 
 [rokcandy1]: assets/rokcandy_1.jpeg
 [rokcandy2]: assets/rokcandy_2.jpeg
