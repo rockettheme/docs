@@ -35,32 +35,6 @@ Here are some of the extra benefits you'll receive by choosing Arvixe:
 
 Arvixe offers exceptional service at incredible value. Grab yourself a shared (PersonalClass) hosting plan pre-loaded with Joomla!, WordPress, Magento, and phpBB, and [use coupon **ROCKET20** for prices as low as $3.20/mo][arvixe].
 
-InMotion Hosting
------
-
-![InMotion][inmotion]
-
-[InMotion](https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=rocket&page=7) hosting offers premium CMS hosting services on very high-end hardware optimized specifically for Joomla!, WordPress, and Drupal. 
-
-InMotion uses only the highest quality Dell E5-2600 v2 series Dual Xeon servers with a minimum of 64 GBs RAM and 15K RPM SAS or SSD drives in a RAID 5 or RAID 10 configurations for maximum speed and fault tolerance. Its datacenters are fully redundant with multiple power grids, redundant UPS, HVAC, and Diesel backup generators.   
-
-All datacenters are staffed 24x7x365 with 100% North America based certified engineers, ready to help you with any issues you encounter. 
-
-Summary of benefits:
-
-* State-of-the-art Dell servers with SSD drives 
-* Smart routing technology 
-* 90-Day Guarantee
-* FREE Site Transfer 
-* $300 Google, Yahoo, Bing credits 
-* 24/7/365 North American based phone support 
-* 90-day money back guarantee
-* Free Data backups
-
-InMotion offers a variety of hosting solutions ranging from: shared hosting, VPS, and dedicated servers to advanced managed hosting for mission-critical applications.   
-
-To get started, you can get up to [56% OFF shared hosting plans](https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=rocket&page=7). Hosting plans start at $3.49/month on a 12 month billing cycle. Risk free for 90 days. If you want to talk to sales about a custom solution, call: 888.321.HOST(4678) and be sure to mention you are from RocketTheme. 
-
 Rochen
 -----
 
