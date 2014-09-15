@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Nuance](styles/nuance)
 	- [Tessellate](styles/tessellate)
 	- [Plethora](styles/plethora)
 	- [Osmosis](styles/osmosis)
