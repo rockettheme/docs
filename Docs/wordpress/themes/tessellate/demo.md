@@ -120,7 +120,7 @@ One important thing to note here is that many of the widget sections included in
 [bottom]: demo_bottom.md
 [expandedtop]: demo_expandedtop.md
 [mainbottom]: demo_mainbottom.md
-[extension]: demo_extension.dm
+[extension]: demo_extension.md
 [utility]: demo_utility.md
 [copyright]: demo_copyright.md
 [bottom]: demo_bottom.md
