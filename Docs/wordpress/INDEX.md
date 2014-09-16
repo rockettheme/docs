@@ -55,7 +55,8 @@ more:
 <!-- -->
 
 * Club Themes
-	
+
+	- [Tessellate](themes/tessellate)
 	- [Plethora](themes/plethora)
 	- [Osmosis](themes/osmosis)
 	- [Vermilion](themes/vermilion)
