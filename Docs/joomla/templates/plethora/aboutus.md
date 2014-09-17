@@ -253,7 +253,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option              | Setting        |
 | :----------         | :----------    |
-| Module Class Suffix | `nopaddingall` |
+| Module Class Suffix | `rt-center`    |
 
 ### Custom HTML - Plethora Demo
 
@@ -263,7 +263,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option      | Setting          |
 | :---------- | :-----------     |
-| Title       | `Plethora Demo` |
+| Title       | `Plethora Demo`  |
 | Show Title  | Yes              |
 | Position    | footer-a         |
 | Status      | Published        |

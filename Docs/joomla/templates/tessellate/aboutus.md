@@ -310,7 +310,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option              | Setting        |
 | :----------         | :----------    |
-| Module Class Suffix | `nopaddingall` |
+| Module Class Suffix | `rt-center`    |
 
 ### Custom HTML - Tessellate Demo
 
