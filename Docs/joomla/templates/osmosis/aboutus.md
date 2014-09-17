@@ -109,6 +109,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Show Last           | Yes           |
 | Text Separator      |               |
 | Show Title          | Hide          |
+| Position            | breadcrumb    |
 | Status              | Published     |
 | Access              | Public        |
 
@@ -128,7 +129,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :---------- | :-----------                                 |
 | Title       | `About Us: Introduction - Mission Statement` |
 | Show Title  | Hide                                         |
-| Position    | feature-a                                    |
+| Position    | maintop-a                                    |
 | Status      | Published                                    |
 | Access      | Public                                       |
 
@@ -266,7 +267,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option              | Setting        |
 | :----------         | :----------    |
-| Module Class Suffix | `nopaddingall` |
+| Module Class Suffix | rt-center      |
 
 ### Custom HTML - Osmosis Demo
 

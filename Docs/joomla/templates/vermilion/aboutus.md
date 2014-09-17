@@ -62,7 +62,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage3]
 
-#### Module 
+#### Module
 
 | Option      | Setting                                                          |
 | :---------- | :-----------                                                     |
@@ -95,7 +95,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage4]
 
-#### Module 
+#### Module
 
 | Option              | Setting       |
 | :----------         | :-----------  |
@@ -119,7 +119,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage5]
 
-#### Module 
+#### Module
 
 | Option      | Setting                                      |
 | :---------- | :-----------                                 |
@@ -169,7 +169,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage6]
 
-#### Module 
+#### Module
 
 | Option      | Setting                                             |
 | :---------- | :-----------                                        |
@@ -225,7 +225,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage7]
 
-#### Module 
+#### Module
 
 | Option      | Setting                                |
 | :---------- | :-----------                           |
@@ -253,13 +253,13 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option              | Setting        |
 | :----------         | :----------    |
-| Module Class Suffix | `nopaddingall` |
+| Module Class Suffix | `rt-center`    |
 
 ### Custom HTML - Vermilion Demo
 
 ![][aboutuspage8]
 
-#### Module 
+#### Module
 
 | Option      | Setting          |
 | :---------- | :-----------     |
@@ -293,7 +293,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][aboutuspage9]
 
-#### Module 
+#### Module
 
 | Option      | Setting               |
 | :---------- | :-----------          |

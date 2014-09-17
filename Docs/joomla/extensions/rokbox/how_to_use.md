@@ -112,10 +112,10 @@ It is important to note that an element deep in the DOM might have specific styl
 ~~~ .css
 .rokbox-wrapper #my-element {
     margin: 0;
-} 
+}
 ~~~
 
-Below is a screenshot of a real-world example of `data-rokbox-element` usage. We are creating a link that opens the search form right into RokBox2. 
+Below is a screenshot of a real-world example of `data-rokbox-element` usage. We are creating a link that opens the search form right into RokBox2.
 
 ![][rokbox2-data-element]
 
@@ -125,8 +125,17 @@ And this is the syntax used to achieve it:
 <a data-rokbox data-rokbox-element=".header .search" href="#" style="color: red"><h3>Search in RokBox 2!</h3></a>
 ~~~
 
->> NOTE: It is important to always have an `href` when using _data-rokbox-element_. Because it is not a true link pointing anywhere, you can use the hash `href="#"` 
+>> NOTE: It is important to always have an `href` when using _data-rokbox-element_. Because it is not a true link pointing anywhere, you can use the hash `href="#"`
 
+#### Using Popup Panel or Login Panel
+
+If you want to use either the **Popup** or **Login Panel** directly from an article or within the content body of a text block (such as a Custom HTML module), you will need to use specific div IDs in order to identify these panels and load the special stylings for them.
+
+For the Popup Panel it's `data-rokbox-element="#rt-popupmodule"` and the Login Panel uses `data-rokbox-element="#rt-popuplogin"`. These IDs should be used in conjunction with the reference link like so:
+
+~~~ .html
+<a data-rokbox data-rokbox-element="#rt-popuplogin" href="#">My Element</a>
+~~~
 
 #### data-rokbox-generate-thumbnail
 
@@ -148,7 +157,7 @@ The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 1
 
 ![][rokbox2-generated-thumb]
 
->> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible. 
+>> NOTE: Auto generation of thumbnails works **ONLY** with local images. Generating thumbnails from remote images, videos, music and such, is not possible.
 
 #### data-rokbox-size
 
