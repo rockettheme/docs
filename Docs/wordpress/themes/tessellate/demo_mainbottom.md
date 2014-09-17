@@ -39,7 +39,7 @@ Options
             <div class="gantry-width-spacer">
                 <h3>Present your media with RokBox</h3>
 
-                <p>RokBox is a fully responsive modal "pop-up" plug-in for WordPress. This very popular plugin can showcase many different media formats ie. images and videos.</p><a class="readon4" href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/">Read More</a>
+                <p>RokBox is a fully responsive modal "pop-up" plug-in for WordPress. This very popular plugin can showcase many different media formats ie. images and videos.</p><a class="readon4" href="http://(your url)/wordpress/tessellate2/features-overview/">Read More</a>
             </div>
         </div>
 
@@ -47,7 +47,7 @@ Options
             <div class="gantry-width-spacer">
                 <h3>Disable the Mainbody or Component areas</h3>
 
-                <p>A common feature provided by Gantry is the ability to disable the mainbody and/or content area on a per-override basis. Ideal for certain frontpage layouts.</p><a class="readon4" href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/">Read More</a>
+                <p>A common feature provided by Gantry is the ability to disable the mainbody and/or content area on a per-override basis. Ideal for certain frontpage layouts.</p><a class="readon4" href="http://(your url)/wordpress/tessellate2/features-overview/">Read More</a>
             </div>
         </div>
 
@@ -55,7 +55,7 @@ Options
             <div class="gantry-width-spacer">
                 <h3>A separate LESS file for demo specific CSS</h3>
 
-                <p>Tessellate has a separate file for all demo specific CSS, which is for content elements unique to the demo. If you do not wish to use these, then disable accordingly.</p><a class="readon4" href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/">Read More</a>
+                <p>Tessellate has a separate file for all demo specific CSS, which is for content elements unique to the demo. If you do not wish to use these, then disable accordingly.</p><a class="readon4" href="http://(your url)/wordpress/tessellate2/features-overview/">Read More</a>
             </div>
         </div>
     </div>

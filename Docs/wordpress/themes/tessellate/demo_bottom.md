@@ -54,11 +54,11 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <ul>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/">About</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/widget-positions/">Widgets</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/widget-variations/">Variations</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/">Menu</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/typography/">Typography</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/features-overview/">About</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/widget-positions/">Widgets</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/widget-variations/">Variations</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/menu-options/">Menu</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/typography/">Typography</a></li>
 </ul>
 ~~~
 
@@ -75,11 +75,11 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <ul>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/the-team/">Team</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/pricing-tables/">Pricing</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/portfolio/">Portfolio</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/category/blog/">Blog</a></li>
-	<li><a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/offline-page/">Maintenance</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/the-team/">Team</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/pricing-tables/">Pricing</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/portfolio/">Portfolio</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/category/blog/">Blog</a></li>
+	<li><a href="http://(your url)/wordpress/tessellate2/offline-page/">Maintenance</a></li>
 </ul>
 ~~~
 
