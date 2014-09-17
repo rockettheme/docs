@@ -109,6 +109,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Show Last           | Yes           |
 | Text Separator      |               |
 | Show Title          | Hide          |
+| Position            | breadcrumb    |
 | Status              | Published     |
 | Access              | Public        |
 
