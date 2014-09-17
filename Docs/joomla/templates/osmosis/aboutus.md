@@ -129,7 +129,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :---------- | :-----------                                 |
 | Title       | `About Us: Introduction - Mission Statement` |
 | Show Title  | Hide                                         |
-| Position    | feature-a                                    |
+| Position    | maintop-a                                    |
 | Status      | Published                                    |
 | Access      | Public                                       |
 
