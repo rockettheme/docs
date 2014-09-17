@@ -29,7 +29,7 @@ Here is the widget breakdown for the Showcase section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<img src="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-showcase-a/img-01.jpg" alt="image" />
+<img src="http://(your url)/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-showcase-a/img-01.jpg" alt="image" />
 
 <h3>Configurable HTML5 Animated Header</h3>
 
@@ -37,7 +37,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 <p class="visible-tablet">HTML5 Canvas powered animated header.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -59,25 +59,25 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="hidden-tablet">
 	<h6><span>CSS-based <span class="visible-large">multi-column </span>dropdown menu system</span></h6>
 	<p class="smallmarginbottom hidden-tablet">Features include multiple columns, item icons and subtext, and more.</p>
-	<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
+	<a href="http://(your url)/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
 
 	<h6 class="largemargintop largepaddingtop"><span>A static horizontal menu <span class="hidden-large">option</span><span class="visible-large"> with separated child items</span></span></h6>
 	<p class="smallmarginbottom hidden-tablet">Parent and subsequent child items are placed in different, configurable positions.</p>
-	<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
+	<a href="http://(your url)/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
 </div>
 
 <div class="visible-large">
 	<h6 class="largemargintop largepaddingtop">Sidepanel or selectbox format for mobile menu</h6>
 	<p class="smallmarginbottom">Smartphones viewing Tessellate benefit from a mobile specific menu, for easier browsing.</p>
-	<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
+	<a href="http://(your url)/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
 </div>
 
 <div class="visible-tablet">
 	<h6>CSS-based multi-column dropdown menu system</h6>
-	<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
+	<a href="http://(your url)/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
 
 	<h6 class="largemargintop largepaddingtop">A static horizontal menu with separated child items</h6>
-	<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
+	<a href="http://(your url)/wordpress/tessellate2/menu-options/" class="readon4">Read More</a>
 </div>
 ~~~
 
@@ -91,7 +91,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<img src="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-showcase-c/img-01.jpg" alt="image" />
+<img src="http://(your url)/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-showcase-c/img-01.jpg" alt="image" />
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -115,7 +115,7 @@ We used the **Simple** Content Provider to allow us to make custom tabs without 
 *Tab Label*
 
 ~~~ .html
-<img src="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-roksprocket-tabs-showcase/img-01.jpg" alt="image" />
+<img src="http://(your url)/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-roksprocket-tabs-showcase/img-01.jpg" alt="image" />
 ~~~
 
 *Description*

@@ -48,7 +48,7 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~ .html
 <div class="gantry-width-container">
 	<div class="gantry-width-50 fp-maintop-col1">
-		<img src="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-maintop/img-02.jpg" alt="image" />
+		<img src="http://(your url)/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-maintop/img-02.jpg" alt="image" />
 		<div class="fp-maintop-img-desc">
 			<h6 class="nomargintop smallmarginbottom">Information</h6>
 			<p><span>RokSprocket is a content widget <span class="hidden-tablet">for Joomla and Wordpress, </span>by RocketTheme<span class="hidden-tablet">, that offers multiple layouts and themes</span>.</span></p>
@@ -63,7 +63,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 			<p class="visible-large"> Others include Tabs, Headlines, Mosaic, Strips and Lists. RokSprocket also benefits from multiple content providers, such as WordPress, Types and its own, Simple.</p>
 
-			<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
+			<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
 		</div>
 	</div>
 </div>

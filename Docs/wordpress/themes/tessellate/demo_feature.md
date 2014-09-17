@@ -30,19 +30,19 @@ This section of the page is a standard text widget. You will need to enter the f
 
 <p class="smallmarginbottom">A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
 
 <h3 class="largemargintop largepaddingtop">Configure the style options of Tessellate, quickly and easily, in theme settings page</h3>
 
 <p class="smallmarginbottom">Tessellate has an extensive Color Chooser in theme settings page to provide intricate controls for each section, inclusive of overlay type, text color, background color, as well as accent colors. Edit preexisting or create new presets.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
 
 <h3 class="largemargintop largepaddingtop">A web font based solution for adding icons, allowing them to be extensively styled via CSS</h3>
 
 <p class="smallmarginbottom">The theme features an updated library for Font Awesome with version 4+. This offers over 350 icons, which are fully scalable and easy to integrate into the design of the template and/or content, from widget titles to inside content items themselves.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/typography/" class="readon4">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/typography/" class="readon4">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -63,7 +63,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 <p>LESS brings programmable coding to CSS, such as in PHP. This allows for variables and more complex operations in the stylesheets, making easier to create, update and customize.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon4">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
@@ -82,7 +82,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 <p>RokAjaxSearch uses AJAX to display WordPress site search results via a popup modal as you type, without the need for refreshing the page or being directed to a separate search page.</p>
 
-<a href="http://ryanmpierson.no-ip.biz/wordpress/tessellate2/features-overview/" class="readon5">Read More</a>
+<a href="http://(your url)/wordpress/tessellate2/features-overview/" class="readon5">Read More</a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
