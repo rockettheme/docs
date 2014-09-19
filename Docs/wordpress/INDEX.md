@@ -93,7 +93,7 @@ more:
 	- [Radiance](themes/radiance)
 	- [Camber](themes/camber)
 	- [Reflex](themes/reflex)
-	- [Modulus (Coming Soon)](themes/modulus)
+	- [Modulus](themes/modulus)
 	- [Nebulae (Coming Soon)](themes/nebulae)
 	- [Entropy (Coming Soon)](themes/entropy)
 	- [Tachyon (Coming Soon)](themes/tachyon)
