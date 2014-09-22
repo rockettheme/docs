@@ -2,15 +2,54 @@
 title: Nebulae
 description: Your Guide to Using the Nebulae Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!nebulae:Nebulae
-nosearch: true
 
 ---
 
-Coming Soon
+Introduction
 -----
 
-This documentation is in the process of being written and will be made available soon. 
+![][nebulae]
 
-Tutorials, tips, and other additional resources for this template can be found in its official [forum][forum].
+Nebulae, combines visual sophistication with functionality and power. The theme offers a range of stunning presets, with distinct color schemes complementing their detailed background counterparts, as amplified by the mainbody's high transparency.
 
-[forum]: http://www.rockettheme.com/forum/wordpress-theme-nebulae/
+Requirements
+-----
+
+* Apache 2.x or Microsoft IIS 7
+* PHP 5.3.x
+* MySQL 5.0.4 or higher
+* WordPress 3.2+, 4.0+
+* Gantry Framework
+
+>> NOTE: Gantry v1.30+ is required for Nebulae to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+
+Key Features
+-----
+
+* 960 Fixed Layout
+* 12 Preset Styles
+* 68 Widget Positions
+* 28 Widget Variations
+* Fusion-Menu and Split-Menu
+* Custom Typography
+* iPhone/Android Theme
+* iPhone Menu
+
+### Scrolling Widget
+
+![][scrolling]
+
+Scrolling Positions is a Gantry feature, which, when activated, modifies the behaviour of stacked widgets. I Instead of appearing vertically, the other widgets become accessible via a button, e.g. More. The Content Top and Bottom position have this feature.
+
+### Fusion Menu
+
+![][fusion]
+
+The Fusion Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, and custom column widths, as well as control over how menu items are distributed between columns.
+
+[gantry]: http://www.gantry-framework.org/
+[gantry_install]: ../../start/gantry.md
+[nebulae]: assets/nebulae.jpeg
+[scrolling]: assets/scrolling.jpg
+[fusion]: assets/fusion.jpg
+[bootstrap]: http://twitter.github.com/bootstrap/

@@ -94,7 +94,7 @@ more:
 	- [Camber](themes/camber)
 	- [Reflex](themes/reflex)
 	- [Modulus](themes/modulus)
-	- [Nebulae (Coming Soon)](themes/nebulae)
+	- [Nebulae](themes/nebulae)
 	- [Entropy (Coming Soon)](themes/entropy)
 	- [Tachyon (Coming Soon)](themes/tachyon)
 	- [Mercado (Coming Soon)](themes/mercado)
