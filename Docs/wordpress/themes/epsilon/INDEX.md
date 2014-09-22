@@ -18,7 +18,7 @@ Requirements
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.3.x
 * MySQL 5.0.4 or higher
-* WordPress 3.2+
+* WordPress 3.2+, 4.0+
 * Gantry Framework
 
 >> NOTE: Gantry v4.1.1+ is required for Epsilon to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
