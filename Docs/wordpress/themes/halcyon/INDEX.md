@@ -16,7 +16,7 @@ Requirements
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.2.17+ (5.3+ recommended)
 * MySQL 5.0.4 or higher
-* WordPress 3.x
+* WordPress 3.2+, 4.0+
 * Gantry 4 Framework
 * FF, Safari, Chrome, Opera, IE8+
 
