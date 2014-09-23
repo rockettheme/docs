@@ -57,24 +57,25 @@ Widget Settings
 
 ![][Maelstrom]
 
-:   1. **Header - Gantry Logo** [8%, 16%, se]
-    2. **Navigation - Gantry Menu** [8%, 40%, se]
-    3. **Showcase - Text** [49%, 16%, se]
-    4. **Showcase - Text** [83%, 16%, se]
-    5. **Showcase - Text** [83%, 33%, se]
-    6. **Showcase - Text** [83%, 63%, se]
-    7. **Utility - Text** [90%, 43%, se]
-    8. **Sidebar - Text** [50%, 50%, se]
-    9. **Sidebar - RokAjaxSearch** [50%, 50%, se]
-    10. **Sidebar - Text** [50%, 50%, se]
-    11. **Sidebar - Text** [50%, 50%, se]
-    12. **Bottom - Text** [50%, 50%, se]
-    13. **Bottom - Text** [50%, 50%, se]
-    14. **Bottom - Text** [50%, 50%, se]
-    15. **Footer - Text** [50%, 50%, se]
-    16. **Footer - Text** [50%, 50%, se]
-    17. **Footer - Text** [50%, 50%, se]
-    18. **Copyright - Gantry Branding** [50%, 50%, se]
+:   1. **Header - Gantry Logo** [5%, 16%, se]
+    2. **Navigation - Gantry Menu** [10%, 16%, se]
+    3. **Showcase - Text** [30%, 16%, se]
+    4. **Showcase - Text** [30%, 33%, se]
+    5. **Showcase - Text** [30%, 51%, se]
+    6. **Showcase - Text** [30%, 69%, se]
+    7. **Utility - Text** [27%, 17%, se]
+    8. **Sidebar - Text** [41%, 63%, se]
+    9. **Sidebar - RokAjaxSearch** [52%, 63%, se]
+    10. **Sidebar - Text** [55%, 63%, se]
+    11. **Sidebar - Text** [63%, 63%, se]
+    12. **Bottom - Text** [77%, 16%, se]
+    13. **Bottom - Text** [77%, 40%, se]
+    14. **Bottom - Text** [77%, 63%, se]
+    15. **Footer - Text** [85%, 16%, se]
+    16. **Footer - Text** [85%, 40%, se]
+    17. **Footer - Text** [85%, 63%, se]
+    18. **Copyright - Gantry Branding** [92%, 45%, se]
+    19. **MainBody - Featured Post** [41%, 16%, se]
 
 >> Any widgets not specifically pointed out above are likely left out due to the fact that they were created using legacy plugins and/or features of WordPress that are no longer supported.
 
@@ -94,6 +95,7 @@ One important thing to note here is that many of the widget sections included in
 * [Bottom][bottom]
 * [Footer][footer]
 * [Copyright][copyright]
+* [MainBody][post]
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
@@ -106,17 +108,17 @@ One important thing to note here is that many of the widget sections included in
 [faq]: faq.md
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
 [navigation]: demo_navigation.md
-[header]: assets/demo_header.md
-[feature]: assets/demo_feature.md
-[showcase]: assets/demo_showcase.md
-[utility]: assets/demo_utility.md
-[bottom]: assets/demo_bottom.md
-[navigation]: assets/demo_navigation.md
-[maintop]: assets/demo_maintop.md
-[contenttop]: assets/demo_contenttop.md
-[post]: assets/demo_post.md
-[sidebar]: assets/demo_sidebar.md
-[mainbottom]: assets/demo_mainbottom.md
-[footer]: assets/demo_footer.md
-[copyright]: assets/demo_copyright.md
+[header]: demo_header.md
+[feature]: demo_feature.md
+[showcase]: demo_showcase.md
+[utility]: demo_utility.md
+[bottom]: demo_bottom.md
+[navigation]: demo_navigation.md
+[maintop]: demo_maintop.md
+[contenttop]: demo_contenttop.md
+[post]: demo_post.md
+[sidebar]: demo_sidebar.md
+[mainbottom]: demo_mainbottom.md
+[footer]: demo_footer.md
+[copyright]: demo_copyright.md
 [demooverride]: demo_override.md

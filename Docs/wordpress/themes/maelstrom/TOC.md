@@ -28,6 +28,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-maelstrom
             * [Bottom](demo_bottom.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
+            * [MainBody](demo_post.md)
         * [Override Settings](demo_override.md)
     * [FAQ](faq.md)
     * [Widget Positions](positions.md)
