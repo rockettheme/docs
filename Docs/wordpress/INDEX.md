@@ -95,7 +95,7 @@ more:
 	- [Reflex](themes/reflex)
 	- [Modulus](themes/modulus)
 	- [Nebulae](themes/nebulae)
-	- [Entropy (Coming Soon)](themes/entropy)
+	- [Entropy](themes/entropy)
 	- [Tachyon (Coming Soon)](themes/tachyon)
 	- [Mercado (Coming Soon)](themes/mercado)
 	- [Maelstrom (Coming Soon)](themes/maelstrom)
