@@ -81,6 +81,7 @@ Widget Settings
     22. **Footer - Text** [82%, 25%, se]
     23. **Footer - Text** [82%, 51%, se]
     24. **Copyright - Gantry Branding** [91%, 45%, se]
+    25. **MainBody - Featured Post** [27%, 31%, se]
 
 >> Any widgets not specifically pointed out above are likely left out due to the fact that they were created using legacy plugins and/or features of WordPress that are no longer supported.
 
@@ -102,6 +103,7 @@ One important thing to note here is that many of the widget sections included in
 * [Bottom][bottom]
 * [Footer][footer]
 * [Copyright][copyright]
+* [MainBody][mainbody]
 
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
@@ -123,7 +125,7 @@ One important thing to note here is that many of the widget sections included in
 [navigation]: assets/demo_navigation.md
 [maintop]: assets/demo_maintop.md
 [contenttop]: assets/demo_contenttop.md
-[post]: assets/demo_post.md
+[mainbody]: assets/demo_posts.md
 [sidebar]: assets/demo_sidebar.md
 [mainbottom]: assets/demo_mainbottom.md
 [footer]: assets/demo_footer.md
