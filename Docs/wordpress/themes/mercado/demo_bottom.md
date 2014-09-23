@@ -36,7 +36,7 @@ Here is the widget breakdown for the Bottom section:
 * Text
 * Text
 
-The eight text widgets are separated by the scrolling widgets function of the theme, split into groups of 4. This means that only four of the text widgets appears at a time, and as the user clicks the **More** button, they rotate. Pictured above is the first **Text** widget, while the second **Text** widget is pictured in its section below.
+The eight text widgets are separated by the scrolling widgets function of the theme, split into groups of 4. This means that only four of the text widgets appears at a time, and as the user clicks the **More** button, they rotate. Pictured above is the first batch of **Text** widgets, followed by the second **Text** widget batch.
 
 The **Scrolling Widgets** function can be turned on and off via the **Theme Settings** area of the backend. You can get to this option by navigating to **Admin > Mercado Theme > Scrolling Widgets** and turning the **Bottom Position** to **Enabled**. You can do the same for the **Main Top** and **Main Bottom** widget positions there, if you wish to take advantage of this function there, as well.
 

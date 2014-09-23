@@ -98,7 +98,7 @@ more:
 	- [Entropy](themes/entropy)
 	- [Tachyon](themes/tachyon)
 	- [Mercado](themes/mercado)
-	- [Maelstrom (Coming Soon)](themes/maelstrom)
+	- [Maelstrom](themes/maelstrom)
 	- [Syndicate (Coming Soon)](themes/syndicate)
 	- [Hybrid (Coming Soon)](themes/hybrid)
 	- [Omnicron (Coming Soon)](themes/omnicron)

@@ -64,14 +64,14 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
 | Default    | Footer Positions     | Positions: 3, 3:5:4   |  
 | Default    | Copyright Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 2, 8:4     |  
-| Default    | Footer Positions     | Positions: 2, 8:4     |  
+| Front Page | MainTop Positions    | Positions: 2, 8:4     |  
+| Front Page | Footer Positions     | Positions: 2, 8:4     |  
 | Front Page | MainBottom Positions | Positions: 2, 8:4     |  
 
 
 ### Mobile
 
-![][layouts]
+![][mobile]
 
 | Override | Option                                     | Setting                                     |  
 | :------- | :----------------------------------------- | :------------------------------------------ |  
