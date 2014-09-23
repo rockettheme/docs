@@ -66,9 +66,9 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
 | Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
 | Default     | Footer Positions     | Positions: 3, 4:4:4   |
-| Default     | Copyright Positions  | Positions: 4, 3:3:3:3 |
-| Default     | MainTop Positions    | Positions: 2, 8:4     |
-| Default     | Footer Positions     | Positions: 2, 8:4     |
+| Front Page  | Copyright Positions  | Positions: 4, 3:3:3:3 |
+| Front Page  | MainTop Positions    | Positions: 2, 8:4     |
+| Front Page  | Footer Positions     | Positions: 2, 8:4     |
 
 ### Mobile
 

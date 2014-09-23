@@ -16,9 +16,9 @@ This area of the front page is the mainbody. It allows you to display featured a
 
 First, you will need to have the **Display Mainbody** and **Display Content** options set to **On** in your template settings. You can find these options by navigating to **Admin -> Clarion Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Clarion Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
+By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Clarion Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
 
-Below, we have listed the settings of the post titled **RokSprocket Strips**.
+Below, we have listed the settings of the post titled **Professional Theme**.
 
 | Option         | Settings             |
 | :----------    | :----------          |
@@ -36,7 +36,7 @@ Most of the magic takes place in the article content:
 <p>Built on the <strong>Gantry Framework</strong>, Clarion has a range of powerful, flexible and intuitive features and functions.</p>
 <p>The administrative interface offers a user friendly control panel for intricately customizing the <strong>themes layouts</strong>.</p>
 <a href="http://demo.rockettheme.com/live/wordpress/clarion/theme-features/" class="nobold"><span>View All Features +</span></a>
-~~~ 
+~~~
 
 [demo]: assets/demo_10.jpeg
 [mainbody]: assets/setadvanced.jpeg
