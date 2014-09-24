@@ -29,3 +29,4 @@ support: http://www.rockettheme.com/forum/magento-theme-affinity/
     	* [FooterBlock](demo.md#footerblock)
     	* [TinyMCE](demo.md#tinymce)
         * [IE 6/7 Redirect Page](demo.md#ie-6/7-support)
+    * [Style Font Index](../../../technical_tips/general/font_index.md)
