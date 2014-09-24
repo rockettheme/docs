@@ -34,7 +34,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 
 #### Gantry To Top
 
-The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We set the title to `Back to Top`.
+The Gantry To Top widget is a simple indicator which allows users to jump to the top of a page with a single click. Just click and drag this widget into the section to activate it. We set the **To Top Text** to `Back to Top`.
 
 #### Gantry Branding
 

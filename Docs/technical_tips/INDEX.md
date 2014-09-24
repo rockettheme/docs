@@ -19,6 +19,7 @@ breadcrumb: /!technical_tips:Technical Tips/
     - [Using Your Website for Crowdfunding](http://www.rockettheme.com/blog/team/128-how-can-your-website-help-with-crowdfunding)
     - [How to Monetize Your Content](http://www.rockettheme.com/blog/team/126-five-ways-to-monetize-your-content)
     - [Personal Portfolio](personal/personal_portfolio.md)
+	- [Font Index](general/font_index.md)
 
 <!-- -->
 
