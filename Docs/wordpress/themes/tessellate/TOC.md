@@ -45,3 +45,4 @@ support: http://www.rockettheme.com/forum/wordpress-theme-tessellate
         * [Widget Positions](positions.md)
         * [Charts](charts.md)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)

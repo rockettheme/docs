@@ -44,6 +44,7 @@ support: http://www.rockettheme.com/forum/joomla-template-clarion
     * [How to Update a Template](../../platform/update_template.md)
     * [How to Install an Extension](../../platform/extensions.md#how-to-install-an-extension)
     * [How to Update an Extension](../../platform/extensions.md#how-to-update-an-extension)
+    * [Template Font Index](../../../technical_tips/general/font_index.md)
 * Useful Extension Guides
     * [RokAjaxSearch](../../extensions/rokajaxsearch/)
     * [RokBooster](../../extensions/rokbooster/)

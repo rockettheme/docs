@@ -31,4 +31,5 @@ support: http://www.rockettheme.com/forum/wordpress-theme-clarion
             * [Featured Post](demo_posts.md)
         * [Override Settings](demo_override.md)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)
 

@@ -34,3 +34,4 @@ support: http://www.rockettheme.com/forum/wordpress-theme-epsilon
         * [Coming Soon Page](comingsoon.md)
         * [Charts](charts.md)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)

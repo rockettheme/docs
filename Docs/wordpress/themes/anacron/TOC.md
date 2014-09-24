@@ -37,3 +37,4 @@ support: http://www.rockettheme.com/forum/wordpress-theme-anacron
         * [Coming Soon Page](comingsoon.md)
         * [Charts](charts.md)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)

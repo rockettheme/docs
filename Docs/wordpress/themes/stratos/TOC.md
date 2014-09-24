@@ -30,4 +30,5 @@ support: http://www.rockettheme.com/forum/wordpress-theme-stratos
             * [Login](demo_login.md)
         * [Override Settings](demo_override.md)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)
 

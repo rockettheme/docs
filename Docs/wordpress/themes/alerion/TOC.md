@@ -37,4 +37,5 @@ support: http://www.rockettheme.com/forum/wordpress-theme-alerion
             * [QuickNav](special.md#quicknav-menu)
             * [Background Image and Parallax](special.md#background-image-and-parallax)
     * [FAQ](faq.md)
+    * [Theme Font Index](../../../technical_tips/general/font_index.md)
 

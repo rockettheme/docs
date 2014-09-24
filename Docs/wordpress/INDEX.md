@@ -99,7 +99,7 @@ more:
 	- [Tachyon](themes/tachyon)
 	- [Mercado](themes/mercado)
 	- [Maelstrom](themes/maelstrom)
-	- [Syndicate (Coming Soon)](themes/syndicate)
+	- [Syndicate](themes/syndicate)
 	- [Hybrid (Coming Soon)](themes/hybrid)
 	- [Omnicron (Coming Soon)](themes/omnicron)
 	- [Zephyr (Coming Soon)](themes/zephyr)
