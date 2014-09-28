@@ -39,6 +39,7 @@ more:
 
 * Club Themes
 
+	- [Anacron](themes/anacron)
 	- [Hadron](themes/hadron)
 	- [Paradigm](themes/paradigm)
 	- [Hexeris](themes/hexeris)
