@@ -69,6 +69,6 @@ There are other files that you may wish to download that accompany the release, 
 More detailed instructions on setting up RocketLauncher can be found in our [RocketLauncher documentation][launcher].
 
 [gantry]: http://www.gantry-framework.org/
-[gantry_install]: gantry.md
+[gantry_install]: http://gantry-framework.org/documentation/wordpress/basics/installation.md
 [filezilla]: https://filezilla-project.org
 [launcher]: rocketlauncher.md
