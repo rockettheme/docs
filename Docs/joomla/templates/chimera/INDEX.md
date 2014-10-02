@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!chimera:Chimera
 Introduction
 -----
 
-Chimera is a truly multi-purposed design, suitable for corporate, creative or other web environments. The transparent nature of the template allows the background colors to bleed through to the forefront, to complement and embellish your content.
+Chimera is a clean, modern and minimalistic theme showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
 
 ![][template]
 
