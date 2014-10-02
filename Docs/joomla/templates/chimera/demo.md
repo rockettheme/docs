@@ -99,15 +99,6 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
-Menu Settings
------
-
-![][mainmenu]
-
-In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
-
-You will need to change the **Page Class** setting under the Home menu item to `-aug14-home`.
-
 Animation
 -----
 

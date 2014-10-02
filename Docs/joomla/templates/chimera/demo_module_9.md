@@ -10,7 +10,7 @@ Slideshow 2
 
 ![][demo]
 
-The **RokSprocket Showcase** module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
+The **RokSprocket Features** module used here is a great way to feature some of your site's more notable articles or areas of interest.
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. The **Title**, **Description**, and **Image** fields in each article have been altered. A few examples of these article changes can be found below, excluding the **Image** fields which will likely not work on your local copy as the links will be different.
 

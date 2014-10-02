@@ -19,13 +19,13 @@ We used a **RokSprocket** module with the **Tables** layout to make up this area
 
 | Option           | Setting                                   |
 | :----------      | :----------                               |
-| Title            | `FP RokSprocket Tables` |
+| Title            | `FP RokSprocket Tables`                   |
 | Show Title       | Hide                                      |
 | Access           | Public                                    |
 | Position         | extension-a                               |
 | Status           | Published                                 |
 | Content Provider | Simple                                    |
-| Type             | Strips                                    |
+| Type             | Tables                                    |
 
 ### Simple Item Example
 

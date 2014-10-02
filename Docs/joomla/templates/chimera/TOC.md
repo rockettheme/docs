@@ -38,7 +38,6 @@ support: http://www.rockettheme.com/forum/joomla-template-chimera/
             * [Footer B - Custom HTML](demo_module_14.md)
             * [Footer C - Custom HTML](demo_module_15.md)
             * [Footer D - Custom HTML](demo_module_16.md)
-        * [Main Menu](demo.md#menu-settings)
         * [Module Positions](positions.md)
         * Sample Pages
             * [Coming Soon](comingsoon.md)

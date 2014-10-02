@@ -22,7 +22,7 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 | :---------- | :---------- |
 | Title       | `Demo Info` |
 | Show Title  | Show        |
-| Position    | bottom-c    |
+| Position    | footer-a    |
 | Status      | Published   |
 | Access      | Public      |
 
