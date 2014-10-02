@@ -14,6 +14,8 @@ Any font without a listed source (such as Helvetica) is a standard font generall
 
 | Template / Theme | Font              | Source                                                               |  
 | :--------------- | :---------------- | :------------------------------------------------------------------- |  
+| Chimera          | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |  
+|                  | Walkway           | [Dafont](http://www.dafont.com/walkway.font)                         |  
 | Nuance           | Nunito            | [Font Squirrel](http://www.fontsquirrel.com/fonts/nunito)            |  
 | Tessellate       | Glegoo            | [Google Fonts](https://www.google.com/fonts/specimen/Glegoo)         |  
 |                  | Montserrat        | [Font Squirrel](http://www.fontsquirrel.com/fonts/montserrat)        |  
