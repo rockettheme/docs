@@ -12,7 +12,7 @@ Latest Featured Works
 
 :   1. **mod_custom** [12%, 5%, se]
 
-This area of the front page is a **mod_custom** module. In this instance, the module makes up the title and text description of the RokSprocket module below it.
+This area of the front page is a **Custom HTML** module. In this instance, the module makes up the title and text description of the RokSprocket module below it.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 

@@ -10,7 +10,7 @@ Mobile Sidemenu
 
 ![][demo]
 
-This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+This area of the front page is a **Custom HTML** module. You will find the settings used in our demo below.
 
 The module position **mobile-sidemenu** assigns the module to appear above the main menu on smartphones and other devices with thinner browser windows.
 

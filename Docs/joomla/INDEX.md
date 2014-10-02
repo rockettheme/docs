@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Chimera](templates/chimera)
 	- [Nuance](templates/nuance)
 	- [Tessellate](templates/tessellate)
 	- [Plethora](templates/plethora)

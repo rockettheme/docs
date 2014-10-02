@@ -36,7 +36,7 @@ There are two static modules assigned to the **SidePanel** position. Both are **
 
 #### FP SidePanel Info
 
-This is a **mod_custom** module. You will find the settings used in our demo below.
+This is a **Custom HTML** module. You will find the settings used in our demo below.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
@@ -73,7 +73,7 @@ Enter the following in the **Custom Output** text editor.
 
 #### FP Sidepanel Social Icons
 
-This is a **mod_custom** module. You will find the settings used in our demo below.
+This is a **Custom HTML** module. You will find the settings used in our demo below.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 

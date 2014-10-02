@@ -10,7 +10,7 @@ FP Extension B
 
 ![][demo]
 
-This area of the front page is a **mod_custom** module. You will find the settings used in our demo below.
+This area of the front page is a **Custom HTML** module. You will find the settings used in our demo below.
 
 To replicate the "pop up" effect as you click on the images in this module, you will need to have the **RokBox** extension installed and activated.
 
