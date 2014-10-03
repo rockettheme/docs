@@ -26,9 +26,9 @@ Accessing the main RokGallery Administrator within Joomla is fairly easy. You si
     2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [24%, 53%, se]
     3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [34%, 6%, ne]
 
-RokGallery's Component Administrator is broken into two main areas. 
+RokGallery's Component Administrator is broken into two main areas.
 
-1. The four large icons on the left represent image-level options. 
+1. The four large icons on the left represent image-level options.
 	* **Publish**: This button publishes images highlighted in the image area below. You can highlight images by clicking and dragging your mouse over them. A blue box will appear as you drag, indicating which images your selection area affects. You can tell an image is published by the presence of a green triangle in the upper-right corner of the image box.
 	* **Unpublish**: This option unpublishes currently-published images selected in the image area below. These images will not appear on the frontend, or any gallery modules they are presently linked to.
 	* **Tag**: The Tag button opens a popup that will give you the option to assign tags to a particular image, as well as assign it to a gallery. This gallery can then be used to present the image on the site either as a direct injection into an article or via a RokGallery module.
@@ -99,15 +99,15 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 3. **Name**: Enter or change the name for the current or new gallery.
 
-4. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images. 
+4. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images.
 
 5. The **Ordering** button allows you to manage the ordering of the gallery, manually.
 
 6. The **Publish** button publishes images associated with the selected gallery.
 
-7. The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well. 
+7. The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well.
 
-The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery module can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
+The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery module can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery).
 
 For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any module with that gallery assigned. You can add multiple tags to a single gallery (as seen in the image above) with commas between tags.
 
@@ -115,7 +115,7 @@ Using the **New Based On** button in the upper-right area of the Galleries Manag
 
 Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
 
-Thumbnails are used in some gallery display settings to give users a quick overview of all of the images in a specific gallery. By clicking on a thumbnail, the image selected is sent to the primary viewing area in the module, linked to a different page or area of the site, or made larger via a RokBox popup.
+Thumbnails are used in some gallery display settings to give users a quick overview of all of the images in a specific gallery. By clicking on a thumbnail, the image selected is sent to the primary viewing area in the module, linked to a different page or area of the site, or made larger via a [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox) popup.
 
 You can also opt to adjust the ordering of images within a gallery, publish all images assigned to a gallery, or delete the gallery itself. In addition, the Galleries manager gives you the ability to automatically delete slices created for the gallery when an image is removed, freeing up some space on your server.
 
