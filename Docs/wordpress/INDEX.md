@@ -100,7 +100,7 @@ more:
 	- [Mercado](themes/mercado)
 	- [Maelstrom](themes/maelstrom)
 	- [Syndicate](themes/syndicate)
-	- [Hybrid (Coming Soon)](themes/hybrid)
+	- [Hybrid](themes/hybrid)
 	- [Omnicron (Coming Soon)](themes/omnicron)
 	- [Zephyr (Coming Soon)](themes/zephyr)
 	- [Panacea (Coming Soon)](themes/panacea)
