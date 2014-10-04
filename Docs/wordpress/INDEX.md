@@ -101,7 +101,7 @@ more:
 	- [Maelstrom](themes/maelstrom)
 	- [Syndicate](themes/syndicate)
 	- [Hybrid](themes/hybrid)
-	- [Omnicron (Coming Soon)](themes/omnicron)
+	- [Omnicron](themes/omnicron)
 	- [Zephyr (Coming Soon)](themes/zephyr)
 	- [Panacea (Coming Soon)](themes/panacea)
 	- [Somaxiom (Coming Soon)](themes/somaxiom)

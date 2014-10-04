@@ -18,7 +18,7 @@ First, you will need to have the **Display Mainbody** option set to **On** in yo
 
 By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Hybrid Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
 
-Below, we have listed the settings of the post titled **Digital SLRs**.
+Below, we have listed the settings of the post titled **Style: the Central Focus for the Hybrid Template.**.
 
 | Option         | Settings                                            |  
 | :------------- | :-------------------------------------------------- |  
