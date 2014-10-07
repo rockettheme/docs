@@ -1,6 +1,6 @@
 RocketTheme Documentation
 =========================
-This repository contains the source of the RocketTheme documentation, currently accessible at [http://www.rockettheme.com/docs]().
+This repository contains the source of the RocketTheme documentation, currently accessible at [http://www.rockettheme.com/docs](http://www.rockettheme.com/docs).
 
 The documentation is contained in [Docs/](Docs) and is structured in folders, exactly as you see them on the main website.
 
