@@ -39,13 +39,13 @@ Once there, you will be asked which type of module you wish to create. RokGaller
 
 5. The **Access** option gives you the ability to determine which user group will be able to see the module on the frontend. Someone logged in as a registered user may be able to see a module set at that level while random visitors do not see it.
 
-6. **Ordering** gives you the ability to set the ordering for the module. 
+6. **Ordering** gives you the ability to set the ordering for the module.
 
-7. **Start Publishing** determines the start date/time when the module should be published on your site. 
+7. **Start Publishing** determines the start date/time when the module should be published on your site.
 
 8. You can use **Finish Publishing** to set an end date/time for your module to appear on the frontend.
 
-9. **Language** allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site. 
+9. **Language** allows you to pick a language for your module. This list is determined by the supported languages installed on your Joomla site.
 
 10. You can use the **Note** field to jot down a note which appears in the module list on the backend.
 
@@ -53,7 +53,7 @@ Once there, you will be asked which type of module you wish to create. RokGaller
 ![][rokgallery_module_basic_1]
 
 :   1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences. [30%, 72%, sw]
-    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with RokBox or RokBox2, a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
+    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox or RokBox2](http://www.rockettheme.com/joomla/extensions/rokbox), a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
     3. **Default Linked Item** If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to. [39%, 60%, sw]
     4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [44%, 32%, se]
     5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [49%, 60%, sw]
@@ -87,7 +87,7 @@ Each layout option comes with one or more specific settings. These settings appe
 
 ![][grid]
 
-For example, the **Grid** layout allows you the option to choose how many columns appear in your grid, and to select a background image (if your template allows). 
+For example, the **Grid** layout allows you the option to choose how many columns appear in your grid, and to select a background image (if your template allows).
 
 ![][slideshow]
 

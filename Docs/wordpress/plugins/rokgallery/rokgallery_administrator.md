@@ -28,9 +28,9 @@ Accessing the main RokGallery Administrator within WordPress is fairly easy. You
     2. **Gallery Controls** Gives you the ability to see jobs status, manage galleries, configure RokGallery settings, and upload new images. [15%, 80%, sw]
     3. **Filter Controls** Filters have a range of variables such as gallery, file type, published, etc. to allow you to sort your images for simple and efficient management. Statistics for the filters appear on the right-side of the row. [27%, 17%, se]
 
-RokGallery's Component Administrator is broken into two main areas. 
+RokGallery's Component Administrator is broken into two main areas.
 
-1. The four large icons on the left represent image-level options. 
+1. The four large icons on the left represent image-level options.
 	* **Publish**: This button publishes images highlighted in the image area below. You can highlight images by clicking and dragging your mouse over them. A blue box will appear as you drag, indicating which images your selection area affects. You can tell an image is published by the presence of a green triangle in the upper-right corner of the image box.
 	* **Unpublish**: This option unpublishes currently-published images selected in the image area below. These images will not appear on the frontend, or any gallery widgets they are presently linked to.
 	* **Tag**: The Tag button opens a popup that will give you the option to assign tags to a particular image, as well as assign it to a gallery. This gallery can then be used to present the image on the site either as a direct injection into a post or via a RokGallery module.
@@ -91,17 +91,17 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 2. **Name**: Enter or change the name for the current or new gallery.
 
-3. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images. 
+3. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images.
 
 4. **Images** Set the image preferences for images appearing within the tag gallery.
 
 5. **Thumbnails Size** Sets the image preferences for thumbnails associated with images presented in as part of the gallery.
 
-The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery widget can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery). 
+The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery widget can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery).
 
 For example, setting up a gallery with the tag `Gallery1` would allow for any image with the same tag to appear in any widget with that gallery assigned. You can add multiple tags to a single gallery with commas between tags.
 
-Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via RokBox or in a separate browser tab.
+Galleries enable you to also set a specific image size for any images displayed via the gallery tags. For example, if you want to have 640x480 images appear in a slideshow on the front page, this is configurable through the Galleries Manager. You can also opt to have the original image's aspect ratio retained or to have the changes forced, depending on your individual needs. Keep in mind that a gallery displaying with multiple aspect ratios may adjust in shape and form with each image displayed. Any changes made here will create a new image file, leaving your original image completely intact and available for full image viewing via [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox) or in a separate browser tab.
 
 Thumbnails are used in some gallery display settings to give users a quick overview of all of the images in a specific gallery. By clicking on a thumbnail, the image selected is sent to the primary viewing area in the module, linked to a different page or area of the site, or made larger via a RokBox popup.
 

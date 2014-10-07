@@ -108,6 +108,56 @@ You can find a visual example as well as the class names of classes that are sup
 
 The element that triggers this animation during scrolling is explained in greater detail in the [WOW.js Documentation][animation2].
 
+RokSprocket and the Slideshow Position
+------
+
+Some aspects of the RokSprocket demo content in the Slideshow position are hard-coded in the **demo.less** file. If you notice that the first three images in your slideshow do not appear correctly, you can resolve this by switching the **Demo Style** setting in the **Template Settings** to **Custom**. You can find this setting by navigating to **Administration -> Template Manager -> Chimera Template** and selecting the **Style** tab. By default, this setting will be set to the preset selected.
+
+By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
+
+For reference, and in the event that you wish to modify this code to meet your individual needs, here is the section of the demo.less file that sets this behavior.
+
+~~~ .css
+/* Demo Image */
+.demostyleImage(@index) when (@index > 0) {
+    (~".demostyle-type-preset@{index}") {
+        .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image {
+            background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
+        }
+        .sprocket-features-index-2 .sprocket-features-img-container.sprocket-fullslideshow-image {
+            background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-02-preset-@{index}.jpg) !important;
+        }
+        .sprocket-features-index-3 .sprocket-features-img-container.sprocket-fullslideshow-image {
+            background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-03-preset-@{index}.jpg) !important;
+        }
+
+        .fp-roksprocket-strips .sprocket-strips-container li .sprocket-strips-image-container {
+            img[src$="img-01.jpg"] {
+                background-image: url(../../../images/rocketlauncher/home/fp-mainbottom/img-01-preset-@{index}.jpg);
+            }
+            img[src$="img-02.jpg"] {
+                background-image: url(../../../images/rocketlauncher/home/fp-mainbottom/img-02-preset-@{index}.jpg);
+            }
+            img[src$="img-03.jpg"] {
+                background-image: url(../../../images/rocketlauncher/home/fp-mainbottom/img-03-preset-@{index}.jpg);
+            }
+        }
+
+        .fp-roksprocket-slideshow .sprocket-features-index-1 .sprocket-features-img-container img {
+            background-image: url(../../../images/rocketlauncher/home/fp-fullwidth/img-01-preset-@{index}.jpg);
+        }
+        .fp-roksprocket-slideshow .sprocket-features-index-2 .sprocket-features-img-container img {
+            background-image: url(../../../images/rocketlauncher/home/fp-fullwidth/img-02-preset-@{index}.jpg);
+        }
+        .fp-roksprocket-slideshow .sprocket-features-index-3 .sprocket-features-img-container img {
+            background-image: url(../../../images/rocketlauncher/home/fp-fullwidth/img-03-preset-@{index}.jpg);
+        }
+    }
+    .demostyleImage(@index - 1);
+}
+.demostyleImage(6);
+~~~
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
