@@ -14,6 +14,8 @@ The **RokSprocket Features** module used near the top of the front page is a gre
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. The **Title**, **Description**, and **Image** fields in each article have been altered. A few examples of these article changes can be found below, excluding the **Image** fields which will likely not work on your local copy as the links will be different.
 
+>> NOTE: The arrow at the bottom of the mobile, (rt-bottom-arrow) is not functional unless the **System Messages** option is turned **On**. You can find this option by navigating to **Admin > Extend or Extensions > Template Manager > Chimera > Features**.
+
 ### Details
 
 ![][demo2]
@@ -99,9 +101,9 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ![][demo4]
 
-| Option              | Setting                           |  
-| :------------------ | :-------------------------------- |  
-| Module Class Suffix | `fp-roksprocket-header-slideshow` |  
+| Option              | Setting                                            |
+| :----------         | :----------                                        |
+| Module Class Suffix | `fp-roksprocket-header-slideshow fp-preset-images` |
 
 [demo]: assets/demo_1.jpeg
 [demo2]: assets/demo_1a.jpeg
