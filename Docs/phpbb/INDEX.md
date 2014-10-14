@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Chimera](styles/chimera)
 	- [Nuance](styles/nuance)
 	- [Tessellate](styles/tessellate)
 	- [Plethora](styles/plethora)
