@@ -104,7 +104,7 @@ more:
 	- [Omnicron](themes/omnicron)
 	- [Zephyr](themes/zephyr)
 	- [Panacea](themes/panacea)
-	- [Somaxiom (Coming Soon)](themes/somaxiom)
+	- [Somaxiom](themes/somaxiom)
 	- [Juxta (Coming Soon)](themes/juxta)
 	- [Kinetic (Coming Soon)](themes/kinetic)
 	- [Crystalline (Coming Soon)](themes/crystalline)
