@@ -105,7 +105,7 @@ more:
 	- [Zephyr](themes/zephyr)
 	- [Panacea](themes/panacea)
 	- [Somaxiom](themes/somaxiom)
-	- [Juxta (Coming Soon)](themes/juxta)
+	- [Juxta](themes/juxta)
 	- [Kinetic (Coming Soon)](themes/kinetic)
 	- [Crystalline (Coming Soon)](themes/crystalline)
 	- [Dominion (Coming Soon)](themes/dominion)
