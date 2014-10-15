@@ -106,7 +106,7 @@ more:
 	- [Panacea](themes/panacea)
 	- [Somaxiom](themes/somaxiom)
 	- [Juxta](themes/juxta)
-	- [Kinetic (Coming Soon)](themes/kinetic)
+	- [Kinetic](themes/kinetic)
 	- [Crystalline (Coming Soon)](themes/crystalline)
 	- [Dominion (Coming Soon)](themes/dominion)
 	- [Reaction (Coming Soon)](themes/reaction)
