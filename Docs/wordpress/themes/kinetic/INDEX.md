@@ -10,7 +10,7 @@ Introduction
 
 ![](assets/kinetic.jpeg)
 
-Kinetic encapsulates stylistic freedom using its Color Chooser with 12 preset styles, allowing for easy style customization with just a few clicks. Offering an unconventional approach to such designs, combining ease of alteration with a mainstream appearance.
+Kinetic has a versatile and flexible design, styled with scrupulous precision. The theme's impressive collection of preset styles, and complementary widget variations are key to the design's appeal, offering an array of stylistic tools to refine your content.
 
 Requirements
 ------------
@@ -35,14 +35,8 @@ Key Features
 * iPhone Menu
 * Background Level Configuration
 
-### Background Rotator
-
-![](assets/rotator.jpg)
-
-The Background Rotator is a Gantry Feature which offers basic background rotator functionality with content calling controls. Load posts from a set category and select images from the background manager to fully control the effect, it is very simple to use and edit.
-
-### Fusion Menu
+### Fusion/SplitMenu
 
 ![](assets/fusion.jpg)
 
-The Fusion Menu is effectively an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext and icons as well as control over how menu items are distributed between columns.
+There are two menu options, SplitMenu and Fusion Menu. The Splitmenu is a static menu system that displays select menu items in a main horizontal menu. The Fusion Menu is an advanced, CSS based menu system, which offers a wide range of per menu options.
