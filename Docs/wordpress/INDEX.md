@@ -56,6 +56,7 @@ more:
 
 * Club Themes
 
+	- [Nuance](themes/nuance)
 	- [Tessellate](themes/tessellate)
 	- [Plethora](themes/plethora)
 	- [Osmosis](themes/osmosis)
@@ -105,8 +106,8 @@ more:
 	- [Zephyr](themes/zephyr)
 	- [Panacea](themes/panacea)
 	- [Somaxiom](themes/somaxiom)
-	- [Juxta (Coming Soon)](themes/juxta)
-	- [Kinetic (Coming Soon)](themes/kinetic)
+	- [Juxta](themes/juxta)
+	- [Kinetic](themes/kinetic)
 	- [Crystalline (Coming Soon)](themes/crystalline)
 	- [Dominion (Coming Soon)](themes/dominion)
 	- [Reaction (Coming Soon)](themes/reaction)
