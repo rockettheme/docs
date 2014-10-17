@@ -13,7 +13,7 @@ RokGallery is a revolutionary ground-up gallery extension developed to be highly
 
 RokGallery uses design and concepts that have been traditionally reserved for platform-native applications and are for the first time making their way into a web environment.
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/zUTwqSrFEoM" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=zUTwqSrFEoM
 
 Requirements
 ------------
