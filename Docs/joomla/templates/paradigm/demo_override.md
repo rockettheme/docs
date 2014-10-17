@@ -45,6 +45,26 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Reset Settings     | copyright-d | Show: Off, Text: `Reset Settings`                                                                |  
 | Default | Google Analytics   |             | Enable: Off                                                                                      |  
 
+**Social Buttons Content**
+
+| Field       | Content                                                    |
+| :---------- | :----------                                                |
+| Icon 1      | `icon-facebook`                                            |
+| Text 1      | `Facebook`                                                 |
+| Link 1      | `http://www.facebook.com/RocketTheme`                      |
+| Icon 2      | `icon-twitter`                                             |
+| Text 2      | `Twitter`                                                  |
+| Link 2      | `https://twitter.com/rockettheme`                          |
+| Icon 3      | `icon-google-plus`                                         |
+| Text 3      | `Google +`                                                 |
+| Link 3      | `https://plus.google.com/114430407008695950828/posts`      |
+| Icon 4      | `icon-rss`                                                 |
+| Text 4      | `RSS`                                                      |
+| Link 4      | `http://www.rockettheme.com/blog?format=feed&amp;type=rss` |
+| Icon 5      | `icon-linkedin`                                            |
+| Text 5      | `LinkedIn`                                                 |
+| Link 5      | `http://www.linkedin.com/in/rockettheme`                   |
+
 ### Menu
 | Style   | Option          | Setting                       |  
 | :------ | :-------------- | :---------------------------- |  
