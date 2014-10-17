@@ -36,7 +36,6 @@ Below, you will find the module placement and settings for the various module po
     9. **Join Our Newsletter**  [88%, 17%, se]
     10. **Get in Touch**  [88%, 40%, se]
     11. **FP Footer Menu**  [88%, 65%, se]
-    12. **Social Buttons**  [92%, 61%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
@@ -51,7 +50,6 @@ We have detailed how to recreate the individual modules pictured above in the li
 9. [Join Our Newsletter][module10]
 10. [Get in Touch][module11]
 11. [FP Footer Menu][module12]
-12. [Social Buttons][module13]
 
 ![][demo11]
 
