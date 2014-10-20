@@ -39,7 +39,6 @@ support: http://www.rockettheme.com/forum/joomla-template-nuance/
             * [Footer B - Custom HTML](demo_module_15.md)
             * [Footer C - Custom HTML](demo_module_16.md)
             * [ExpandedFooter A - Menu](demo_module_17.md)
-        * [Main Menu](demo.md#menu-settings)
         * [Module Positions](positions.md)
         * Sample Pages
             * [Coming Soon](comingsoon.md)
