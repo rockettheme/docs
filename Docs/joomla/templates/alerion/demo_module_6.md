@@ -8,6 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/alerion:Alerion
 FP Utility Map
 -----
 ![][demo]
+
 This area of the front page is a **Custom HTML** module. You will find the settings used in our demo below.
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
@@ -41,6 +42,8 @@ Enter the following in the **Custom Output** text editor.
 	[pin top="50px" left="-335px"]3[/pin]
 [/span]
 ~~~
+
+>> The content text of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 ### Basic
 ![][demo3]

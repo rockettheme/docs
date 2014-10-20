@@ -69,13 +69,15 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module
 
-| Option      | Setting                                                                      |
-| :---------- | :-----------                                                                 |
-| Title       | `The Team[span class="rt-title-tag"]Meet the People Behind Osmosis[/span]` |
-| Show Title  | Yes                                                                          |
-| Position    | top-a                                                                        |
-| Status      | Published                                                                    |
-| Access      | Public                                                                       |
+|   Option   |                                  Setting                                   |
+| :--------- | :------------------------------------------------------------------------- |
+| Title      | `The Team[span class="rt-title-tag"]Meet the People Behind Osmosis[/span]` |
+| Show Title | Yes                                                                        |
+| Position   | top-a                                                                      |
+| Status     | Published                                                                  |
+| Access     | Public                                                                     |
+
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 #### Content
 

@@ -15,18 +15,20 @@ The **About Stratos** area of the front page is a **Custom HTML** module. You wi
 ### Details
 ![][about2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | `[span class="hidden-tablet"]About [/span]Stratos` |
-| Show Title | Show |
-| Position | sidebar-a |
-| Status | Published |
-| Access | Public |
-| Ordering | 4. Collapsible |
-| Start Publishing | 0000-00-00 00:00:0 |
-| Finish Publishing | 0000-00-00 00:00:0 |
-| Language | All |
-| Note | Blank |
+|       Option      |                      Setting                       |
+| :---------------- | :------------------------------------------------- |
+| Title             | `[span class="hidden-tablet"]About [/span]Stratos` |
+| Show Title        | Show                                               |
+| Position          | sidebar-a                                          |
+| Status            | Published                                          |
+| Access            | Public                                             |
+| Ordering          | 4. Collapsible                                     |
+| Start Publishing  | 0000-00-00 00:00:0                                 |
+| Finish Publishing | 0000-00-00 00:00:0                                 |
+| Language          | All                                                |
+| Note              | Blank                                              |
+
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
@@ -41,20 +43,20 @@ Enter the following in the **Custom Output** text editor.
 ### Basic
 ![][about3]
 
-| Option | Setting |
-|:------|:-------|
-| Prepare Content | No |
-| Select a Background Image | Blank |
+|           Option          | Setting |
+| :------------------------ | :------ |
+| Prepare Content           | No      |
+| Select a Background Image | Blank   |
 
 ### Advanced
 ![][about4]
 
-| Option | Setting |
-|:------|:-------|
-| Alternative Layout | Default |
+|        Option       |     Setting      |
+| :------------------ | :--------------- |
+| Alternative Layout  | Default          |
 | Module Class Suffix | box6 nomargintop |
-| Caching | Use Global |
-| Cache Time | 900 |
+| Caching             | Use Global       |
+| Cache Time          | 900              |
 
 [about1]: assets/about_1.jpeg
 [about2]: assets/about_2.jpeg

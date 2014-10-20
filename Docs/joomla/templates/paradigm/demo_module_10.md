@@ -20,15 +20,17 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 
 ![][demo2]
 
-| Option     | Setting                                                               |  
-| :--------- | :-------------------------------------------------------------------- |  
-| Title      | `[span class="hidden-tablet hidden-phone"]Join Our [/span]Newsletter` |  
-| Show Title | Show                                                                  |  
-| Position   | footer-a                                                              |  
-| Status     | Published                                                             |  
-| Access     | Public                                                                |  
-| Language   | All                                                                   |  
-| Note       | Blank                                                                 |  
+|   Option   |                                Setting                                |
+| :--------- | :-------------------------------------------------------------------- |
+| Title      | `[span class="hidden-tablet hidden-phone"]Join Our [/span]Newsletter` |
+| Show Title | Show                                                                  |
+| Position   | footer-a                                                              |
+| Status     | Published                                                             |
+| Access     | Public                                                                |
+| Language   | All                                                                   |
+| Note       | Blank                                                                 |
+
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 ### Custom Output
 

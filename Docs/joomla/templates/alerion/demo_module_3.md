@@ -15,8 +15,6 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
->> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present in the title field. See the main [Recreate the Demo][recreate] page for additional instructions.
-
 ### Details
 ![][demo2]
 
@@ -29,6 +27,8 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 | Access            | Public                                                                               |  
 | Language          | All                                                                                  |  
 | Note              | Blank                                                                                |  
+
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present in the **Title** field. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.

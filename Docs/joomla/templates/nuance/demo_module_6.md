@@ -28,6 +28,8 @@ The settings used in our demo are listed below.
 | Content Provider | Simple                                                                   |
 | Layout Mode      | Grids                                                                    |
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+
 ### Simple Content Provider
 
 The **Title** and **Description** fields in each item have been altered. A few examples of these article changes can be found below, excluding the **Image** and **Link** fields which will likely not work on your local copy as the links will be different.

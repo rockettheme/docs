@@ -10,13 +10,14 @@ Headline, Subheading, and Headline Icon
 ![][headline3]
 Setting the text you wish to appear as the headline and subheading for each section in a module is a fairly simple process. You only need to do the following steps.
 
-![][headline1]
+![][headline2]
+
 1. Navigate to **Extensions** → **Template Manager** in **Administrator**.
 2. Click on the **Alerion** template.
 3. Go to the **Style** tab and set the text for Showcase, Feature, Utility, and so on (pictured above).
 4. You can also set an icon style for the headline using FontAwewsome icon format, such as: `icon-list-alt` (pictured below). This icon will also appear on the QuickNav.
 
-![][headline2]
+![][headline3]
 
 QuickNav Menu
 -----

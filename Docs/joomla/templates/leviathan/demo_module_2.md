@@ -15,16 +15,18 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 ### Details
 ![][demo2]
 
-| Option     | Setting                                                                                        |  
-| :--------- | :--------------------------------------------------------------------------------------------- |  
-| Title      | `[span class="hidden-large"]Top Feature[/span][span class="visible-large"]Top Features[/span]` |  
-| Show Title | Show                                                                                           |  
-| Position   | showcase-a                                                                                     |  
-| Status     | Published                                                                                      |  
-| Access     | Public                                                                                         |  
-| Language   | All                                                                                            |  
-| Note       | Blank                                                                                          |  
+|   Option   |                                            Setting                                             |
+| :--------- | :--------------------------------------------------------------------------------------------- |
+| Title      | `[span class="hidden-large"]Top Feature[/span][span class="visible-large"]Top Features[/span]` |
+| Show Title | Show                                                                                           |
+| Position   | showcase-a                                                                                     |
+| Status     | Published                                                                                      |
+| Access     | Public                                                                                         |
+| Language   | All                                                                                            |
+| Note       | Blank                                                                                          |
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+>> 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 
