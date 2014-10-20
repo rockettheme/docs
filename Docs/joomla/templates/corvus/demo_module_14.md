@@ -18,14 +18,16 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 ### Details
 ![][demo2]
 
-| Option     | Setting                                                |  
-| :--------- | :----------------------------------------------------- |  
-| Title      | `Popular [span class="hidden-tablet"]Templates[/span]` |  
-| Show Title | Hide                                                   |  
-| Position   | footer-c                                            |  
-| Status     | Published                                              |  
-| Language   | All                                                    |  
-| Note       | Blank                                                  |  
+|   Option   |                        Setting                         |
+| :--------- | :----------------------------------------------------- |
+| Title      | `Popular [span class="hidden-tablet"]Templates[/span]` |
+| Show Title | Hide                                                   |
+| Position   | footer-c                                               |
+| Status     | Published                                              |
+| Language   | All                                                    |
+| Note       | Blank                                                  |
+
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
@@ -58,7 +60,7 @@ Enter the following in the **Custom Output** text editor.
 ### Basic
 ![][demo3]
 
-| Option                    | Setting |
+|           Option          | Setting |
 | :------------------------ | :------ |
 | Prepare Content           | No      |
 | Select a Background Image | Blank   |
@@ -66,9 +68,9 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 ![][demo4]
 
-| Option              | Setting                    |  
-| :------------------ | :------------------------- |  
-| Module Class Suffix | `fp-footer-social-buttons` |  
+|        Option       |          Setting           |
+| :------------------ | :------------------------- |
+| Module Class Suffix | `fp-footer-social-buttons` |
 
 [demo]: assets/demo_13.jpeg
 [demo2]: assets/social_1.jpeg

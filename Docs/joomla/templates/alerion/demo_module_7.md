@@ -25,6 +25,8 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 | Language   | All                                                |  
 | Note       | Blank                                              |  
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+
 ### Custom Output
 Enter the following in the **Custom Output** text editor.
 

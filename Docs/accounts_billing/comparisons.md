@@ -40,13 +40,13 @@ For more information about site licenses, see our [Site Licenses Guide][licenses
 Comparison
 -----
 
-| **Feature**          | Club Membership                          | Single Template                         |  
-| :------------------- | :--------------------------------------- | :-------------------------------------- |  
-| **Template Catalog** | Entire Platform Catalog (3-12 months)    | Template Only (lifetime*)                |  
-| **Support/Forums**   | Full Access to Club Forums (3-12 months) | Template and Extensions Only (lifetime*) |  
-| **Extensions Club**  | Complementary (3-12 months)              | Complementary (lifetime*)                |  
-| **Site Licenses**    | 1-3 (expandable)                         | 1 (non-expandable)                      |  
-| **Price**            | $59 - 99                                 | $29 - 49                                |  
+| **Feature**          | Club Membership                          | Single Template                          |
+| :----------          | :----------                              | :----------                              |
+| **Template Catalog** | Entire Platform Catalog (3-12 months)    | Template Only (lifetime*)                |
+| **Support/Forums**   | Full Access to Club Forums (3-12 months) | Template and Extensions Only (lifetime*) |
+| **Extensions Club**  | Complementary (3-12 months)              | Complementary (lifetime*)                |
+| **Site Licenses**    | 1-3 (expandable)                         | 1 (non-expandable)                       |
+| **Price**            | $59 - 99                                 | $29 - 49                                 |
 
 >> Note: Individuals and organizations that purchase products with **Lifetime** terms of support and availability will retain access to downloads, updates, and related support forums until such time as the product purchased is considered **Legacy**, and is no longer sold or supported by RocketTheme. Once a product is no longer sold or supported, the purchaser may lose access to downloads and related support forums.
 

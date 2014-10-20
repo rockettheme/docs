@@ -73,6 +73,8 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Status      | Published                                                                 |
 | Access      | Public                                                                    |
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+
 #### Content
 
 ~~~ .html

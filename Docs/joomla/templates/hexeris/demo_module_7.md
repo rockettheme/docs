@@ -23,6 +23,8 @@ We used a **RokSprocket** module with the **Lists** layout to make up this area 
 | Content Provider | Joomla                                                        |  
 | Type             | Lists                                                         |
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+
 ### Layout Options
 ![][demo3]
 

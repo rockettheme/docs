@@ -26,6 +26,8 @@ We used a **RokSprocket** module with the **Tabs** layout to make up this area o
 | Content Provider | Simple                                                             |  
 | Type             | Tabs                                                               |  
 
+>> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
+
 ### Filtered Article List
 
 #### Item 1
