@@ -108,6 +108,6 @@ more:
 	- [Somaxiom](themes/somaxiom)
 	- [Juxta](themes/juxta)
 	- [Kinetic](themes/kinetic)
-	- [Crystalline (Coming Soon)](themes/crystalline)
+	- [Crystalline](themes/crystalline)
 	- [Dominion (Coming Soon)](themes/dominion)
 	- [Reaction (Coming Soon)](themes/reaction)
