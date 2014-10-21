@@ -70,8 +70,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Override    | Option                                     | Setting                                     |
 | :---------- | :----------                                | :----------                                 |
 | Default     | iPhone Custom Theme                        | On                                          |
-| Default     | Scalable Content                           | Off                                         |
-| Default     | Images Resize                              | Enabled: On, Min-Width: 80, Percentage: 25% |
+| Default     | iPhone Scalable                            | Off                                         |
+| Default     | iPhone Images                              | Enabled: On, Min-Width: 80, Percentage: 33% |
 | Default     | Positions Aliases - Mobile Drawer          | drawer                                      |
 | Default     | Positions Aliases - Mobile Top             | top-a                                       |
 | Default     | Positions Aliases - Mobile Header          | header-a                                    |

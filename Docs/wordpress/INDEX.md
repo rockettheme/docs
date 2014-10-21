@@ -110,4 +110,4 @@ more:
 	- [Kinetic](themes/kinetic)
 	- [Crystalline](themes/crystalline)
 	- [Dominion](themes/dominion)
-	- [Reaction (Coming Soon)](themes/reaction)
+	- [Reaction](themes/reaction)
