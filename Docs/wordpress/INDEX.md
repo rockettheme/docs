@@ -109,5 +109,5 @@ more:
 	- [Juxta](themes/juxta)
 	- [Kinetic](themes/kinetic)
 	- [Crystalline](themes/crystalline)
-	- [Dominion (Coming Soon)](themes/dominion)
+	- [Dominion](themes/dominion)
 	- [Reaction (Coming Soon)](themes/reaction)

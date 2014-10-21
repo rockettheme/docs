@@ -1,13 +1,13 @@
 ---
-title: Crystalline: Recreating the Demo - Overrides
-description: Your Guide to Recreating Elements of the Crystalline Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/crystalline:Crystalline
+title: Dominion: Recreating the Demo - Overrides
+description: Your Guide to Recreating Elements of the Dominion Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/dominion:Dominion
 
 ---
 
 Theme Override Settings
 -----
-One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Crystalline Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
+One of the most important central features of any Gantry theme is the ability to be set up within the Theme Settings menu. These settings can be adjusted by navigating to **Administration -> Dominion Theme**. To replicate the demo, the main changes being made will happen within the Style, Gizmos, Layouts, and Advanced tabs. 
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a theme preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Theme Settings page.
 
@@ -17,34 +17,30 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][style]
 
-| Override    | Option                 | Setting                                                                                                            |
-| :---------- | :----------            | :----------                                                                                                        |
-| Default     | Header                 | Background: `#004e63`, Overlay: Lines 4, Header Graphic: Header 1, Text: `#ffffff`, Link: `#ebe5c3`, Shadows: Dark |
-| Default     | Main                   | Background: `#f1e8d6`, Overlay: Circles, Text: `#55473e`, Link: `#000000`, Shadows: Light                          |
-| Default     | Feature                | Background: `#dedede`, Overlay: Off, Text: `#444444`, Link: `#004e63`, Shadows: Light                              |
-| Default     | Body                   | Background: `#ffffff`, Overlay: Off, Text: `#666666`, Link: `#004e63`, Shadows: Light                              |
-| Default     | Bottom                 | Background: `#a61027`, Overlay: Lines 4, Text: `#ffffff`, Link: `#ebe5c3`, Shadows: Dark                           |
-| Default     | Thumbnail Size         | Width: 177, Height: 114, Position: Left                                                                            |
-| Default     | WebFonts               | Show: Off, WebFonts Source: Google Font Directory                                                                  |
-| Default     | Font Settings          | Font Family: Helvetica, Font Size: Default                                                                         |
-| Default     | Use WordPress Comments | On                                                                                                                 |
-| Default     | Custom CSS             | Blank                                                                                                              |
+| Override    | Option                 | Setting                                    |
+| :---------- | :----------            | :----------                                |
+| Default     | Background Level       | High                                       |
+| Default     | Body Level             | High                                       |
+| Default     | CSS Style              | Style 1                                    |
+| Default     | Link Color             | `cc0000`                                   |
+| Default     | Font Settings          | Font Family: Helvetica, Font Size: Default |
+| Default     | Use WordPress Comments | On                                         |
+| Default     | Custom CSS             | Blank                                      |
 
 ### Gizmos
 
 ![][gizmos]
 
-| Override    | Option                | Setting                                       |
-| :---------- | :----------           | :----------                                   |
-| Default     | Overlay Check         | Enable: On                                    |
-| Default     | Page Class Suffix     | Enable: Off                                   |
-| Default     | Feed Links            | On                                            |
-| Default     | Load Images           | Show: On, Offset Y: 200, XPath Ignores: Blank |
-| Default     | Custom Title Tag      | Blank                                         |
-| Default     | Typography Shortcodes | On                                            |
-| Default     | Shortcodes in Widgets | On                                            |
-| Default     | RokStyle              | On                                            |
-| Default     | Google Analytics      | Enabled: Off, UA Code: Blank                  |
+| Override    | Option                | Setting                                      |
+| :---------- | :----------           | :----------                                  |
+| Default     | Feed Links            | On                                           |
+| Default     | IE6 Warning           | Show: On, Delay: `2000`                      |
+| Default     | Load Images           | Show: On, Offset Y: 50, XPath Ignores: Blank |
+| Default     | Custom Title Tag      | Blank                                        |
+| Default     | Typography Shortcodes | On                                           |
+| Default     | Shortcodes in Widgets | On                                           |
+| Default     | RokStyle              | On                                           |
+| Default     | Analytics             | Enabled: Off, UA Code: Blank                 |
 
 ### Layouts
 
@@ -53,14 +49,13 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Style       | Option               | Setting               |
 | :---------- | :----------          | :----------           |
 | Default     | Top Positions        | Positions: 2, 5:7     |
-| Default     | Header Positions     | Positions: 2, 9:3     |
-| Default     | Showcase Positions   | Positions: 1, 12      |
-| Default     | Feature Positions    | Positions: 3, 3:3:6   |
-| Default     | Utility Positions    | Positions: 2, 9:3     |
-| Default     | MainTop Positions    | Positions: 3, 4:4:4   |
-| Default     | MainBody Positions   | Positions: 2, 9:3     |
+| Default     | Header Positions     | Positions: 1, 12      |
+| Default     | Showcase Positions   | Positions: 2, 8:4     |
+| Default     | Feature Positions    | Positions: 1, 12      |
+| Default     | MainTop Positions    | Positions: 2, 4:8     |
+| Default     | MainBody Positions   | Positions: 2, 4:8     |
 | Default     | MainBottom Positions | Positions: 3, 4:4:4   |
-| Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default     | Bottom Positions     | Positions: 3, 4:4:4   |
 | Default     | Footer Positions     | Positions: 4, 3:3:3:3 |
 
 ### Mobile
@@ -71,7 +66,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---------- | :----------                                | :----------                                 |
 | Default     | iPhone Custom Theme                        | On                                          |
 | Default     | Scalable Content                           | Off                                         |
-| Default     | Images Resize                              | Enabled: On, Min-Width: 80, Percentage: 25% |
+| Default     | Images Resize                              | Enabled: On, Min-Width: 80, Percentage: 33% |
 | Default     | Positions Aliases - Mobile Drawer          | drawer                                      |
 | Default     | Positions Aliases - Mobile Top             | top-a                                       |
 | Default     | Positions Aliases - Mobile Header          | header-a                                    |
