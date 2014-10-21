@@ -69,11 +69,11 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Metropolis Theme** (**rt_Metropolis_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Metropolis Theme** (**rt_metropolis_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Metropolis Source PNG(s)** (**rt_Metropolis_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Metropolis Source PNG(s)** (**rt_metropolis_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
 All of these files can be found on the [Downloads page][download] associated with the Metropolis theme.
 
@@ -91,7 +91,7 @@ You can download the extension settings installer file from the template [downlo
 
 ### Step 3: Upload the Theme
 
-* Extract **rt_Metropolis_m.zip**
+* Extract **rt_metropolis_m.zip**
 * Open your FTP client ([FileZilla][filezilla] is a popular choice)
 * Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
 * Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)

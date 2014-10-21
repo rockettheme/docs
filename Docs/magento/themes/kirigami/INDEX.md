@@ -69,11 +69,11 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Kirigami Theme** (**rt_Kirigami_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Kirigami Theme** (**rt_kirigami_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Kirigami Source PNG(s)** (**rt_Kirigami_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Kirigami Source PNG(s)** (**rt_kirigami_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
 All of these files can be found on the [Downloads page][download] associated with the Kirigami theme.
 
@@ -118,7 +118,7 @@ If you are creating a fresh install and would like sample data included, you can
 
 ### Step 2: Complete the Installation Process
 
-* Direct your browser to the installation (**for example, www.(your site).com/rt_Kirigami_m-rocketlauncher**) URL.
+* Direct your browser to the installation (**for example, www.(your site).com/rt_kirigami_m-rocketlauncher**) URL.
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
