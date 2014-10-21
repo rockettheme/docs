@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/infuse.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento/themes/infuse/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/infuse
 [filezilla]: https://filezilla-project.org/download.php

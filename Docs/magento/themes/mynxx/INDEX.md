@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/mynxx.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento/themes/mynxx/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/mynxx
 [filezilla]: https://filezilla-project.org/download.php

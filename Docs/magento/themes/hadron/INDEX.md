@@ -121,5 +121,5 @@ If you are creating a fresh install and would like sample data included, you can
 [theme]: assets/hadron.jpg
 [responsive]: assets/responsive.jpg
 [admincontrol]: assets/admincontrol.jpg
-[download]: http://www.rockettheme.com/magento/themes/hadron/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/hadron
 [filezilla]: https://filezilla-project.org/download.php

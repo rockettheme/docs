@@ -125,5 +125,5 @@ If you are creating a fresh install and would like sample data included, you can
 [theme]: assets/metropolis.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
 [responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento/themes/metropolis/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/metropolis
 [filezilla]: https://filezilla-project.org/download.php

@@ -4,7 +4,7 @@ breadcrumb: /magento:Magento/!themes:Themes/!anacron:Anacron/
 
 details: http://www.rockettheme.com/magento/themes/anacron
 demo: http://demo.rockettheme.com/magento-themes/anacron/
-download: http://www.rockettheme.com/magento/themes/anacron/modal/downloads
+download: http://www.rockettheme.com/magento/themes/anacron
 support: http://www.rockettheme.com/forum/magento-theme-anacron/
 
 ---
