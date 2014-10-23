@@ -11,6 +11,26 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 Lists is a vertical display content mode, with accordion support. Here is a look at the options screen for the Lists layout mode.
 
+Themes
+-----
+
+There are three themes that come built in to the **Lists** layout mode in **RokSprocket**. 
+
+![][default]
+
+The first of these themes is the **Default** theme. This theme creates a standard RokSprocket Lists widget, popularly used in many sites to display a lot of content in a relatively small space. It can be set to either **Collapsible** or **Static** to create a compact or standard look.
+
+![][portrait]
+
+The **Portrait** theme makes images the focus of your content. In addition to your item title and/or text, your images appear at all times in either the **Collapsible** or **Static** format.
+
+![][modern]
+
+The **Modern** theme gives you the best of both worlds. It is a modern, flat design approach that mimics the content approach of the default theme, giving you full control over hot much or how little content is featured in the widget.
+
+Setup
+-----
+
 ![][lists1]
 
 :   1. **Title** This is the title of your widget. [28%, 15%, se]
@@ -32,21 +52,21 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][lists_2]
 
-:   1. **Theme** This sets the theme for displaying lists in the widget. [12%, 49%, sw]
-    2. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the widget. [15%, 54%, sw]
-    3. **Display Limit** The amount of posts to show when rendering. [20%, 74%, sw]
-    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [25%, 73%, sw]
-    5.  **Strip HTML Tags** This option removes HTML tags from the description of a post. [30%, 51%, sw]
-    6. **Preview Per Page** This option allows you to set the number of post previews that appear per page in the widget. [35%, 70%, sw]
-    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the widget. [39%, 52%, sw]
-    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [44%, 52%, sw]
+:   1. **Theme** This sets the theme for displaying lists in the widget. [13%, 54%, sw]
+    2. **Display Limit** The amount of posts to show when rendering. [17%, 75%, sw]
+    3. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the widget. [22%, 54%, sw]
+    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [26%, 73%, sw]
+    5.  **Strip HTML Tags** This option removes HTML tags from the description of a post. [31%, 51%, sw]
+    6. **Preview Per Page** This option allows you to set the number of post previews that appear per page in the widget. [36%, 70%, sw]
+    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the widget. [40%, 52%, sw]
+    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [45%, 52%, sw]
     9. **Autoplay** Sets whether you want the widget to start rolling through lists automatically when the page loads, or to await a command from the visitor. [48%, 54%, sw]
     10. **Autoplay Delay** Sets the amount of time between cycled lists in the widget. The longer this delay (in seconds), the longer a single post will be featured in the widget. [53%, 69%, sw]
     11. **Image Resize** This option is best utilized on a non-responsive theme. It renders a copy of the selected image with a maximum width or height determined in these fields. [58%, 86%, sw]
-    49. **Default Title** You can set a default title for all posts from this field. If this selection is set at `Default post Title`, then the post's given titles are used. [72%, 67%, sw]
-    13. **Default Article Text** This field allows you to set default post text for all lists in the widget. If this is not changed from its default, then the post's introductory text is used. [76%, 67%, sw]
+    12. **Default Title** You can set a default title for all posts from this field. If this selection is set at `Default post Title`, then the post's given titles are used. [72%, 67%, sw]
+    13. **Default Article Text** This field allows you to set default post text for all lists in the widget. If this is not changed from its default, then the post's introductory text is used. [77%, 67%, sw]
     14. **Default Article Image** Determines which image field the widget will default to when locating an image for the feature. [81%, 70%, sw]
-    15. **Default Link** Determines which link field the widget will default to when locating a link for the feature. [85%, 67%, sw]
+    15. **Default Link** Determines which link field the widget will default to when locating a link for the feature. [86%, 67%, sw]
 
 1.  The **Theme** option sets the theme for displaying lists in the widget. These themes determine how the lists look within the widget. You can choose the one that best fits your theme and/or personal taste.
 
@@ -80,5 +100,8 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 [lists]: assets/lists.png
 [lists_link]: layout_modes.md#lists
-[lists_2]: assets/lists_2.png
+[lists_2]: assets/lists_2.jpeg
+[modern]: assets/lists_modern.jpeg
+[portrait]: assets/lists_portrait.jpeg
+[default]: assets/lists_default.jpeg
 [lists1]: assets/lists_1.jpg

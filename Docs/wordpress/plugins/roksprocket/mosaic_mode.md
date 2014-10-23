@@ -5,11 +5,26 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/roksprocket:RokSprocket
 
 ---
 
-### Mosaic
+Mosaic
+-----
 
 ![][mosaic]
 
 Mosaic displays content dynamically in blocks, that can be rearranged via tags or ordering commands.
+
+Themes
+-----
+
+![Default][default]
+
+Mosaic has two built-in themes available. The **Default** theme gives users a content-rich mosaic view of content that can be easily rearranged and sorted. This theme is the standard for the Mosaic layout mode, and one of the most popular ways RokSprocket is used today.
+
+![Gallery][gallery]
+
+The second theme is **Gallery** which is just as easily rearranged, filtered, and sorted by users on the frontend, but has a modern gapless look that makes it exceptionally easy to create great looking image galleries and content presentations with minimal required effort.
+
+Setup
+-----
 
 ![][mosaic1]
 
@@ -30,15 +45,15 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][mosaic_2]
 
-:   1. **Theme** This sets the theme for displaying features in the widget. [12%, 50%, sw]
-    2. **Display Limit** The amount of posts to show when rendering. [15%, 75%, sw]
-    3. **Columns** Sets the number of columns posts are displayed in. [19%, 47%, sw]
-    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [23%, 74%, sw]
-    5. **Only Show Tags** This field allows you to insert tags that you wish to have appear in the filter and in items. If the field is blank, all tags will be shown. [28%, 76%, sw]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of a post. [32%, 50%, sw]
+:   1. **Theme** This sets the theme for displaying features in the widget. [12%, 53%, sw]
+    2. **Display Limit** The amount of posts to show when rendering. [16%, 74%, sw]
+    3. **Columns** Sets the number of columns posts are displayed in. [21%, 47%, sw]
+    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the widget's post display. [24%, 74%, sw]
+    5. **Only Show Tags** This field allows you to insert tags that you wish to have appear in the filter and in items. If the field is blank, all tags will be shown. [29%, 76%, sw]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of a post. [34%, 50%, sw]
     7. **Blocks Per View** This sets the amount of blocks that show on a page load. If the amount is lesser than the **Display Limit**, a **Load More** function will appear. [37%, 69%, sw]
-    8. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the widget. [41%, 71%, sw]
-    9. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [45%, 80%, sw]
+    8. **Article Details** This option gives you control over whether details like the author's name or publishing date appear in the widget. [42%, 71%, sw]
+    9. **Block Animation** Sets the combination of block animations used when rendering blocks in the mosaic. [46%, 80%, sw]
     10. **Ordering** Ordering options available to users on the frontend. [53%, 80%, sw]
     11. **Image Resize** Renders images in the mosaic to a maximum pixel width or height as set. This may not change the size of the actual mosaic blocks in some themes. [60%, 86%, sw]
     12. **Default Title** You can set a default title for all posts from this field. If this selection is set at **Default Article Title**, then the post's given titles are used. [74%, 67%, sw]
@@ -80,3 +95,5 @@ Below the **Content Filter Rules** section are two options areas specific to the
 [mosaic_link]: mosaic_mode.md
 [mosaic1]: assets/mosaic_1.jpeg
 [mosaic_2]: assets/mosaic_2.jpeg
+[gallery]: assets/mosaic_gallery.jpeg
+[default]: assets/mosaic_default.jpeg
