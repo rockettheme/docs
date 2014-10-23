@@ -7,8 +7,30 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 Features
 -----
+
 ![][features]
+
 Features is a content slideshow/showcase layout mode. It can display both images and text, or images only, with varying options on their display. Here is a look at the options screen for the Features layout mode.
+
+Themes
+-----
+
+The **Features** layout mode has three built-in themes. These include: **Slideshow**, **Slideshow2**, and **Showcase**.
+
+![][slideshow]
+
+The **Slideshow** theme is all about your images. This theme makes your image the background of the module, overlaying the item's title and description in an elegant, modern way.
+
+![][slideshow2]
+
+The **Slideshow2** theme also gives your images center stage. It presents content in a way that doesn't distract from the image. 
+
+![][showcase]
+
+The **Showcase** theme is a modern, easy to read and follow approach that gives you the ability to have a great looking module, with or without an accompanying image.
+
+Setup
+-----
 
 ![][features_1]
 
@@ -40,22 +62,22 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][features_2]
 
-:   1. **Display Limit** The amount of articles to show when rendering. [12%, 74%, sw]
-    2. **Theme** This sets the theme for displaying features in the module. [17%, 57%, sw]
-    3. **Article Titles** This toggle enables you to show or hide article titles. [21%, 42%, se]
-    4. **Article Text** This toggle allows you to show or hide article text in a features. [25%, 53%, sw]
-    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [30%, 42%, se]
-    6. **Strip HTML Tags** This option removes HTML tags from the description of an article. [35%, 50%, sw]
-    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [39%, 42%, se]
-    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [43%, 52%, sw]
-    9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [47%, 42%, se]
-    10. **Autoplay** Sets whether you want the module to start rolling through features automatically when the page loads, or to await a command from the visitor. [52%, 52%, sw]
-    11. **Autoplay Delay** Sets the amount of time between cycled features in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [56%, 42%, se]
-    12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [64%, 43%, se]
-    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [74%, 43%, se]
-    14. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [79%, 65%, sw]
-    15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [83%, 43%, se]
-    16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 65%, sw]
+:   1. **Display Limit** The amount of articles to show when rendering. [12%, 68%, sw]
+    2. **Theme** This sets the theme for displaying features in the module. [17%, 52%, sw]
+    3. **Article Titles** This toggle enables you to show or hide article titles. [21%, 37%, se]
+    4. **Article Text** This toggle allows you to show or hide article text in a features. [25%, 48%, sw]
+    5. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [30%, 37%, se]
+    6. **Strip HTML Tags** This option removes HTML tags from the description of an article. [35%, 46%, sw]
+    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [39%, 37%, se]
+    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [43%, 48%, sw]
+    9. **Animation**  This dropdown gives you the ability to set the type of animation that happens during transitions from one feature to the next. [47%, 37%, se]
+    10. **Autoplay** Sets whether you want the module to start rolling through features automatically when the page loads, or to await a command from the visitor. [52%, 48%, sw]
+    11. **Autoplay Delay** Sets the amount of time between cycled features in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [56%, 37%, se]
+    12. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [63%, 37%, se]
+    13. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [74%, 37%, se]
+    14. **Default Article Text** This field allows you to set default article text for all features in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 61%, sw]
+    15. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 37%, se]
+    16. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 61%, sw]
 
 1. The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
 
@@ -93,3 +115,6 @@ Below the **Content Filter Rules** section are two options areas specific to the
 [features_link]: features_mode.md
 [features_1]: assets/features_1.jpg
 [features_2]: assets/features_2.jpeg
+[slideshow]: assets/features_slideshow.jpeg
+[slideshow2]: assets/features_slideshow2.jpeg
+[showcase]: assets/features_showcase.jpeg

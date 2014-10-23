@@ -118,5 +118,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/hexeris.jpg
 [responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento/themes/hexeris/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/hexeris
 [filezilla]: https://filezilla-project.org/download.php

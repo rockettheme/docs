@@ -11,6 +11,26 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksprocket:RokSprocket
 
 Lists is a vertical display content mode, with accordion support. Here is a look at the options screen for the Lists layout mode.
 
+Themes
+-----
+
+There are three themes that come built in to the **Lists** layout mode in **RokSprocket**. 
+
+![][default]
+
+The first of these themes is the **Default** theme. This theme creates a standard RokSprocket Lists module, popularly used in many sites to display a lot of content in a relatively small space. It can be set to either **Collapsible** or **Static** to create a compact or standard look.
+
+![][portrait]
+
+The **Portrait** theme makes images the focus of your content. In addition to your item title and/or text, your images appear at all times in either the **Collapsible** or **Static** format.
+
+![][modern]
+
+The **Modern** theme gives you the best of both worlds. It is a modern, flat design approach that mimics the content approach of the default theme, giving you full control over hot much or how little content is featured in the module.
+
+Setup
+-----
+
 ![][lists_1]
 
 :   1. **Title** This is the title of your module. [19%, 13%, se]
@@ -41,21 +61,21 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 ![][lists_2]
 
-:   1. **Theme** This sets the theme for displaying lists in the module. [13%, 41%, se]
-    2. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the module. [15%, 52%, sw]
-    3. **Display Limit** The amount of articles to show when rendering. [21%, 41%, se]
-    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [26%, 70%, sw]
-    5.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [31%, 41%, se]
-    6. **Preview Per Page** This option allows you to set the number of article previews that appear per page in the module. [35%, 68%, sw]
-    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [40%, 41%, se]
-    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [44%, 52%, sw]
-    9. **Autoplay** Sets whether you want the module to start rolling through lists automatically when the page loads, or to await a command from the visitor. [49%, 41%, se]
-    10. **Autoplay Delay** Sets the amount of time between cycled lists in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [54%, 64%, sw]
-    11. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [62%, 41%, se]
-    12. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [73%, 65%, sw]
-    13. **Default Article Text** This field allows you to set default article text for all lists in the module. If this is not changed from its default, then the article's introductory text is used. [78%, 41%, se]
-    14. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [82%, 68%, sw]
-    15. **Default Link** Determines which link field the module will default to when locating a link for the feature. [87%, 41%, se]
+:   1. **Theme** This sets the theme for displaying lists in the module. [13%, 37%, se]
+    2. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the module. [15%, 50%, sw]
+    3. **Display Limit** The amount of articles to show when rendering. [21%, 37%, se]
+    4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [26%, 67%, sw]
+    5.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [31%, 37%, se]
+    6. **Preview Per Page** This option allows you to set the number of article previews that appear per page in the module. [35%, 64%, sw]
+    7. **Arrow Navigation** This option determines whether you wish to show or hide the arrow navigation controls on the module. [40%, 37%, se]
+    8. **Pagination** This toggle gives you control over whether or not you wish to show pagination. [44%, 48%, sw]
+    9. **Autoplay** Sets whether you want the module to start rolling through lists automatically when the page loads, or to await a command from the visitor. [49%, 37%, se]
+    10. **Autoplay Delay** Sets the amount of time between cycled lists in the module. The longer this delay (in seconds), the longer a single article will be featured in the module. [54%, 62%, sw]
+    11. **Image Resize** This option is best utilized on a non-responsive template. It renders a copy of the selected image with a maximum width or height determined in these fields. [62%, 37%, se]
+    12. **Default Title** You can set a default title for all articles from this field. If this selection is set at `Default Article Title`, then the articles' given titles are used. [72%, 61%, sw]
+    13. **Default Article Text** This field allows you to set default article text for all lists in the module. If this is not changed from its default, then the article's introductory text is used. [77%, 37%, se]
+    14. **Default Article Image** Determines which image field the module will default to when locating an image for the feature. [81%, 64%, sw]
+    15. **Default Link** Determines which link field the module will default to when locating a link for the feature. [86%, 37%, se]
 
 1.  The **Theme** option sets the theme for displaying lists in the module. These themes determine how the lists look within the module. You can choose the one that best fits your template and/or personal taste.
 
@@ -91,3 +111,6 @@ Below the **Content Filter Rules** section are two options areas specific to the
 [lists_link]: layout_modes.md#lists
 [lists_1]: assets/lists_1.jpg
 [lists_2]: assets/lists_2.jpeg
+[modern]: assets/lists_modern.jpeg
+[portrait]: assets/lists_portrait.jpeg
+[default]: assets/lists_default.jpeg

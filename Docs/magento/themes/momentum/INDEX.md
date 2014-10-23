@@ -58,11 +58,11 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Momentum Theme** (**rt_Momentum_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Momentum Theme** (**rt_momentum_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Momentum Source PNG(s)** (**rt_Momentum_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Momentum Source PNG(s)** (**rt_momentum_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
 All of these files can be found on the [Downloads page][download] associated with the Momentum theme.
 
@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/momentum.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento/themes/momentum/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/momentum
 [filezilla]: https://filezilla-project.org/download.php

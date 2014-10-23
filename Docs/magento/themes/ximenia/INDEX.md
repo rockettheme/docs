@@ -58,11 +58,11 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Ximenia Theme** (**rt_Ximenia_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Ximenia Theme** (**rt_ximenia_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Ximenia Source PNG(s)** (**rt_Ximenia_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Ximenia Source PNG(s)** (**rt_ximenia_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
 All of these files can be found on the [Downloads page][download] associated with the Ximenia theme.
 
@@ -113,5 +113,5 @@ If you are creating a fresh install and would like sample data included, you can
 
 [theme]: assets/ximenia.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
-[download]: http://www.rockettheme.com/magento/themes/ximenia/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/ximenia
 [filezilla]: https://filezilla-project.org/download.php

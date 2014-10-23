@@ -36,6 +36,6 @@ Using the [Theme Roller][themeroller] could not be easier - simply drag the colo
 [theme]: assets/rokmage_mobile.jpeg
 [rokmagelayout]: assets/RokMageLayout.jpg
 [roller]: assets/roller.jpg
-[download]: http://www.rockettheme.com/magento/themes/rokmagemobile/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/rokmagemobile
 [filezilla]: https://filezilla-project.org/download.php
 [themeroller]: http://themeroller.jquerymobile.com/?ver=1.1.2

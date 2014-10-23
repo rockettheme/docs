@@ -67,11 +67,11 @@ These instructions include the possible application of an extension settings SQL
 
 To install the theme, you only need one file:
 
-* **Chapelco Theme** (**rt_Chapelco_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
+* **Chapelco Theme** (**rt_chapelco_m.zip**) This file is the theme package you will use to install your theme in Magento. All files are laid out in the correct directory structure, and are ready to be dropped into an existing Magento installation.
 
 There are other files that you may wish to download that accompany the release, but are not required for the theme to work.
 
-* **Chapelco Source PNG(s)** (**rt_Chapelco_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
+* **Chapelco Source PNG(s)** (**rt_chapelco_m-sources.zip**) This contains all the Adobe Fireworks PNG source files for the template, and if applicable, the logo font.
 
 All of these files can be found on the [Downloads page][download] associated with the Chapelco theme.
 
@@ -89,7 +89,7 @@ You can download the extension settings installer file from the template [downlo
 
 ### Step 3: Upload the Theme
 
-* Extract **rt_Chapelco_m.zip**
+* Extract **rt_chapelco_m.zip**
 * Open your FTP client ([FileZilla][filezilla] is a popular choice)
 * Upload the contents of the unzipped folder to your Magento root directory, being sure to Merge and not Overwrite the files!
 * Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
@@ -108,19 +108,19 @@ If you are creating a fresh install and would like sample data included, you can
 
 ### Step 1: Unpack and Upload the RocketLauncher
 
-* Download the Chapelco RocketLauncher Package (**rt_Chapelco_m-rocketlauncher.zip**) from the [Chapelco template downloads section][download].
-* Unzip the package on your computer to reveal the **rt_Chapelco_m-rocketlauncher** folder.
+* Download the Chapelco RocketLauncher Package (**rt_chapelco_m-rocketlauncher.zip**) from the [Chapelco template downloads section][download].
+* Unzip the package on your computer to reveal the **rt_chapelco_m-rocketlauncher** folder.
 * Upload this to your server using a FTP client.
 
 >> NOTE: on some servers, you can upload the zip and extract the package directly onto your server using cPanel or SSH access. For more details on this, please contact your hosting provider.
 
 ### Step 2: Complete the Installation Process
 
-* Direct your browser to the installation (**for example, www.(your site).com/rt_Chapelco_m-rocketlauncher**) URL.
+* Direct your browser to the installation (**for example, www.(your site).com/rt_chapelco_m-rocketlauncher**) URL.
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
 [theme]: assets/chapelco.jpg
 [responsive]: assets/MainResponsive.jpg
-[download]: http://www.rockettheme.com/magento/themes/chapelco/modal/downloads
+[download]: http://www.rockettheme.com/magento/themes/chapelco
 [filezilla]: https://filezilla-project.org/download.php
