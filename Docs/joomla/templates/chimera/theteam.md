@@ -211,9 +211,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Advanced
 
-| Option              | Setting                           |
-| :----------         | :----------                       |
-| Module Class Suffix | `rt-title-center rt-phone-center` |
+| Option              | Setting                                |
+| :----------         | :----------                            |
+| Module Class Suffix | `box4 rt-title-center rt-phone-center` |
 
 ### Custom HTML - Core Developers
 
