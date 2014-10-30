@@ -36,25 +36,26 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Front Page | Page Suffix           | Enabled: On, Class: `aug13-home` |  
 
 ### Layouts
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 4, 3:3:3:3 |  
-| Default    | Header Positions     | Positions: 2, 4:8     |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 3:9     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 3, 4:4:4   |  
-| Default    | Copyright Positions  | Positions: 4, 3:3:3:3 |  
-| Front Page | Feature Positions    | Positions: 2, 3:9     |  
-| Front Page | MainTop Positions    | Positions: 3, 5:3:4   |  
-| Front Page | Mainbody Positions   | Positions: 2, 3:9     |  
-| Front Page | Footer Positions     | Positions: 3, 3:5:4   |  
-| Front Page | Copyright Positions  | Positions: 3, 3:4:5   |  
+
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 4, 3:3:3:3 |
+| Default    | Header Positions     | Positions: 2, 4:8     |
+| Default    | Showcase Positions   | Positions: 1, 12      |
+| Default    | Feature Positions    | Positions: 2, 6:6     |
+| Default    | Utility Positions    | Positions: 1, 12      |
+| Default    | MainTop Positions    | Positions: 2, 6:6     |
+| Default    | MainBody Positions   | Positions: 3, 3:6:3   |
+| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |
+| Default    | Bottom Positions     | Positions: 1, 12      |
+| Default    | Footer Positions     | Positions: 1, 12      |
+| Default    | Copyright Positions  | Positions: 2, 6:6     |
+| Front Page | Feature Positions    | Positions: 2, 3:9     |
+| Front Page | MainTop Positions    | Positions: 2, 6:6     |
+| Front Page | MainBody Positions   | Positions: 3, 3:5:4   |
+| Front Page | Footer Positions     | Positions: 1, 12      |
+| Front Page | Copyright Positions  | Positions: 2, 6:6     |
 
 ### Advanced
 | Override | Option                  | Setting                                     |  

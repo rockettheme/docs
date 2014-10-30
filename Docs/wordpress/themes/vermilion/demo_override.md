@@ -18,84 +18,84 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][style]
 
-| Override    | Option                 | Setting                                    |
-| :---------- | :----------            | :----------                                |
-| Default     | Logo                   | Type: Vermilion Template                   |
-| Default     | Main Menu Animation    | Enable: On                                 |
-| Default     | Featured Image Size    | Width: 750, Height: 297, Position: None    |
-| Default     | Font Settings          | Font Family: Vermilion, Font Size: Default |
-| Default     | Pagination             | Enabled: On, Show Count: On, Side Pages: 8 |
-| Default     | Use WordPress Comments | On                                         |
-| Default     | Custom CSS             | Blank                                      |
+| Override |         Option         |                  Setting                   |
+| :------- | :--------------------- | :----------------------------------------- |
+| Default  | Logo                   | Type: Vermilion Template                   |
+| Default  | Main Menu Animation    | Enable: On                                 |
+| Default  | Featured Image Size    | Width: 750, Height: 297, Position: None    |
+| Default  | Font Settings          | Font Family: Vermilion, Font Size: Default |
+| Default  | Pagination             | Enabled: On, Show Count: On, Side Pages: 8 |
+| Default  | Use WordPress Comments | On                                         |
+| Default  | Custom CSS             | Blank                                      |
 
 ### Gizmos
 
 ![][gizmos]
 
-| Override    | Option                | Setting                                        |
-| :---------- | :----------           | :----------                                    |
-| Default     | Chart                 | On                                             |
-| Default     | Coming Soon Page      | Show: Off, Date: 1, Month: January, Year: 2020 |
-| Default     | Email Subscription    | Show: On                                       |
-| Defualt     | Feedburner URI        | Blank                                          |
-| Default     | Page Suffix           | Enabled: Off, Class: Blank                     |
-| Default     | Feed Links            | On                                             |
-| Default     | Custom Title Tag      | Blank                                          |
-| Default     | Shortcodes in Widgets | On                                             |
-| Default     | RokStyle              | On                                             |
-| Default     | Google Analytics      | Enabled: Off, UA Code: Blank                   |
-| Front Page  | Page Suffix           | `menu-home`                                    |
+|  Override  |         Option        |                    Setting                     |
+| :--------- | :-------------------- | :--------------------------------------------- |
+| Default    | Chart                 | On                                             |
+| Default    | Coming Soon Page      | Show: Off, Date: 1, Month: January, Year: 2020 |
+| Default    | Email Subscription    | Show: On                                       |
+| Defualt    | Feedburner URI        | Blank                                          |
+| Default    | Page Suffix           | Enabled: Off, Class: Blank                     |
+| Default    | Feed Links            | On                                             |
+| Default    | Custom Title Tag      | Blank                                          |
+| Default    | Shortcodes in Widgets | On                                             |
+| Default    | RokStyle              | On                                             |
+| Default    | Google Analytics      | Enabled: Off, UA Code: Blank                   |
+| Front Page | Page Suffix           | `menu-home`                                    |
 
 ### Layouts
 
 ![][layouts]
 
-| Override    | Option                   | Setting               |
-| :---------- | :----------              | :----------           |
-| Default     | Header Positions         | Positions: 2, 2:10    |
-| Default     | Showcase Positions       | Positions: 4, 3:3:3:3 |
-| Default     | Top Positions            | Positions: 4, 3:3:3:3 |
-| Default     | Utility Positions        | Positions: 4, 3:3:3:3 |
-| Default     | Feature Positions        | Positions: 4, 3:3:3:3 |
-| Default     | MainTop Positions        | Positions: 4, 3:3:3:3 |
-| Default     | ExpandedTop Positions    | Positions: 4, 3:3:3:3 |
-| Default     | Mainbody Positions       | Positions: 2, 8:4     |
-| Default     | MainBottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | ExpandedBottom Positions | Positions: 4, 3:3:3:3 |
-| Default     | Extension Positions      | Positions: 4, 3:3:3:3 |
-| Default     | Bottom Positions         | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions         | Positions: 2, 6:6     |
-| Default     | Copyright Positions      | Positions: 2, 6:6     |
-| Front Page  | Utility Positions        | Positions: 2, 7:5     |
+|   Style    |          Option          |        Setting        |
+| :--------- | :----------------------- | :-------------------- |
+| Default    | Header Positions         | Positions: 2, 2:10    |
+| Default    | Top Positions            | Positions: 4, 3:3:3:3 |
+| Default    | Utility Positions        | Positions: 1, 12      |
+| Default    | Showcase Positions       | Positions: 1, 12      |
+| Default    | Feature Positions        | Positions: 1, 12      |
+| Default    | MainTop Positions        | Positions: 1, 12      |
+| Default    | ExpandedTop Positions    | Positions: 1, 12      |
+| Default    | MainBody Positions       | Positions: 1, 12      |
+| Default    | MainBottom Positions     | Positions: 1, 12      |
+| Default    | ExpandedBottom Positions | Positions: 1, 12      |
+| Default    | Extension Positions      | Positions: 2, 6:6     |
+| Default    | Bottom Positions         | Positions: 1, 12      |
+| Default    | Footer Positions         | Positions: 2, 6:6     |
+| Default    | Copyright Positions      | Positions: 2, 6:6     |
+| Front Page | Utility Positions        | Positions: 2, 7:5     |
 
 ### Advanced
 
 ![][advanced]
 
-| Override    | Option                  | Setting                                     |
-| :---------- | :----------             | :----------                                 |
-| Default     | Layout Mode             | Responsive                                  |
-| Default     | Maintenance Mode        | Off                                         |
-| Default     | Load Transition         | Off                                         |
-| Default     | Display Content         | On                                          |
-| Default     | Display Mainbody        | On                                          |
-| Default     | RTL Support             | Off                                         |
-| Default     | Disable Auto Paragraphs | Enabled: On, Content Type: Both             |
-| Default     | Disable Texturize       | Off                                         |
-| Default     | Selectivizr             | On                                          |
-| Default     | Less Compiler           | CSS Compression: On, Compile: 2, Debug: Off |
-| Default     | IE7 Redirect            | On                                          |
-| Default     | Demo Styling            | On                                          |
-| Front Page  | Display MainBody        | Off                                         |
+|  Override  |          Option         |                   Setting                   |
+| :--------- | :---------------------- | :------------------------------------------ |
+| Default    | Layout Mode             | Responsive                                  |
+| Default    | Maintenance Mode        | Off                                         |
+| Default    | Load Transition         | Off                                         |
+| Default    | Display Content         | On                                          |
+| Default    | Display Mainbody        | On                                          |
+| Default    | RTL Support             | Off                                         |
+| Default    | Disable Auto Paragraphs | Enabled: On, Content Type: Both             |
+| Default    | Disable Texturize       | Off                                         |
+| Default    | Selectivizr             | On                                          |
+| Default    | Less Compiler           | CSS Compression: On, Compile: 2, Debug: Off |
+| Default    | IE7 Redirect            | On                                          |
+| Default    | Demo Styling            | On                                          |
+| Front Page | Display MainBody        | Off                                         |
 
 ### Assignments
 
 ![][assignments]
 
-| Override    | Option             | Setting     |
-| :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+|  Override  |       Option       |  Setting   |
+| :--------- | :----------------- | :--------- |
+| Front Page | Template Page Type | Front Page |
+| Front Page | Template Page Type | Home Page  |
 
 [demo]: assets/vermilion2.jpeg
 [menu]: ../../start/menu.md

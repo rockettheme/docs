@@ -50,23 +50,19 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][layouts]
 
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 2, 5:7     |  
-| Default    | Header Positions     | Positions: 2, 4:8     |  
-| Default    | Navigation Positions | Positions: 2, 9:3     |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 8:4     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 3, 3:5:4   |  
-| Default    | Copyright Positions  | Positions: 4, 3:3:3:3 |  
-| Front Page | MainTop Positions    | Positions: 2, 8:4     |  
-| Front Page | Footer Positions     | Positions: 2, 8:4     |  
-| Front Page | MainBottom Positions | Positions: 2, 8:4     |  
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 2, 5:7     |
+| Default    | Header Positions     | Positions: 2, 4:8     |
+| Default    | Showcase Positions   | Positions: 1, 12      |
+| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |
+| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainTop Positions    | Positions: 1, 12      |
+| Default    | MainBody Positions   | Positions: 2, 8:4     |
+| Default    | MainBottom Positions | Positions: 2, 6:6     |
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions     | Positions: 3, 3:5:4   |
+| Front Page | MainBottom Positions | Positions: 2, 8:4     |
 
 
 ### Mobile
