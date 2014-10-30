@@ -10,6 +10,8 @@ How to Install
 
 Installing a RocketLauncher for Joomla 3.x is a fairly straightforward process. There are several ways to do it, and all of them offer their own benefits depending on the individual needs of the user. The preferred method depends on a number of factors, including whether you are installing to a localhost or remote hosting environment.
 
+https://www.youtube.com/watch?v=V2b5HOkljzE
+
 One of the clear benefits to installing via a RocketLauncher is that you receive a copy of our demo site, complete with preset modules. Due to licensing restrictions, some of the images used in the demo may be replaced with a placeholder, but the settings, modules, and presets are all indicative of what you would find in the demo.
 
 ### Technical Requirements
