@@ -42,11 +42,15 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ~~~ .html
 <div class="rt-slideshow2-content wow zoomIn">
-    <p>I struggled for a long time to find the right design and functionality for my portfolio site. Chimera was exactly what I was looking for to get my site up and running quickly and easily. I love it!</p>
+    <p>I struggled for a long time to find the right design and functionality
+    for my portfolio site. Chimera was exactly what I was looking for to get my
+    site up and running quickly and easily. I love it!</p>
 </div>
 
 <div class="rt-slideshow2-author wow bounceInUp" data-wow-delay="1s">
-    <img alt="image" src="images/rocketlauncher/home/fp-fullwidth/img-author-01.jpg"> <span>Martin McDouglas</span>
+    <img alt="image" src=
+    "images/rocketlauncher/home/fp-fullwidth/img-author-01.jpg"> <span>Martin
+    McDouglas</span>
 </div>
 ~~~
 
@@ -62,11 +66,15 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ~~~ .html
 <div class="rt-slideshow2-content">
-    <p>I regularly change my site's design to ensure that it remains fresh, new and modern. Chimera offers a theme with all the standard features I've come to expect with a new design approach.</p>
+    <p>I regularly change my site's design to ensure that it remains fresh, new
+    and modern. Chimera offers a theme with all the standard features I've come
+    to expect with a new design approach.</p>
 </div>
 
 <div class="rt-slideshow2-author">
-    <img alt="image" src="images/rocketlauncher/home/fp-fullwidth/img-author-02.jpg"> <span>Jerry Andrews</span>
+    <img alt="image" src=
+    "images/rocketlauncher/home/fp-fullwidth/img-author-02.jpg"> <span>Jerry
+    Andrews</span>
 </div>
 ~~~
 
@@ -82,11 +90,15 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ~~~ .html
 <div class="rt-slideshow2-content">
-    <p>Chimera has a series of introductory animations on elements when you scroll through the page. They add character and life, whilst not detracting from the visitor's experience.</p>
+    <p>Chimera has a series of introductory animations on elements when you
+    scroll through the page. They add character and life, whilst not detracting
+    from the visitor's experience.</p>
 </div>
 
 <div class="rt-slideshow2-author">
-    <img alt="image" src="images/rocketlauncher/home/fp-fullwidth/img-author-03.jpg"> <span>Sam Santiago</span>
+    <img alt="image" src=
+    "images/rocketlauncher/home/fp-fullwidth/img-author-03.jpg"> <span>Sam
+    Santiago</span>
 </div>
 ~~~
 
