@@ -55,14 +55,14 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---------- | :----------          | :----------           |
 | Default     | Top Positions        | Positions: 2, 5:7     |
 | Default     | Header Positions     | Positions: 1, 12      |
-| Default     | Showcase Positions   | Positions: 4, 3:3:3:3 |
+| Default     | Showcase Positions   | Positions: 3, 4:4:4   |
 | Default     | Feature Positions    | Positions: 4, 3:3:3:3 |
-| Default     | Utility Positions    | Positions: 1, 12      |
-| Default     | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default     | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default     | MainTop Positions    | Positions: 3, 4:4:4   |
 | Default     | MainBody Positions   | Positions: 2, 8:4     |
-| Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
-| Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions     | Positions: 4, 3:3:3:3 |
+| Default     | MainBottom Positions | Positions: 2, 4:8     |
+| Default     | Bottom Positions     | Positions: 2, 6:6     |
+| Default     | Footer Positions     | Positions: 3, 4:4:4   |
 
 ### iPhone
 

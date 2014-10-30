@@ -42,22 +42,22 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Layouts
 
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 4, 3:3:3:3 |  
-| Default    | Header Positions     | Positions: 3, 2:7:3   |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 8:4     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 3, 4:4:4   |  
-| Default    | Copyright Positions  | Positions: 1, 12      |  
-| Front Page | Showcase Positions   | Positions: 2, 8:4     |
-| Front Page | Feature Positions    | Positions: 2, 8:4     |
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 4, 3:3:3:3 |
+| Default    | Header Positions     | Positions: 3, 2:7:3   |
+| Default    | Showcase Positions   | Positions: 1, 12      |
+| Default    | Feature Positions    | Positions: 1, 12      |
+| Default    | Utility Positions    | Positions: 2, 6:6     |
+| Default    | MainTop Positions    | Positions: 1, 12      |
+| Default    | MainBody Positions   | Positions:  2, 8:4    |
+| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default    | Extension Positions  | Positions: 3, 4:4:4   |
+| Default    | Bottom Positions     | Positions: 1, 12      |
+| Default    | Footer Positions     | Positions: 1, 12      |
+| Default    | Copyright Positions  | Positions: 1, 12      |
+| Front Page | Showcase Positions   | Positions: 1, 12      |
+| Front Page | Feature Positions    | Positions: 1, 12      |
 | Front Page | Utility Positions    | Positions: 2, 8:4     |
 
 ### Advanced

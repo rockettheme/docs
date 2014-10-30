@@ -21,12 +21,14 @@ This table will break down the various settings you may need to adjust in order 
 Once you have selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the Style indicated here relates to the template Style in this menu. More information about how Styles work can be found in our [Gantry documentation][Style].
 
 ### Style
+
 | Style   | Option        | Position | Setting                                  |  
 | :------ | :------------ | :------- | :--------------------------------------- |  
 | Default | Logo          | header-a | Show: On                                 |  
 | Default | Font Settings |          | Font Family: Alerion, Font Size: Default |  
 
 ### Features
+
 | Style   | Option           | Position    | Setting                                                                    |  
 | :------ | :--------------- | :---------- | :------------------------------------------------------------------------- |  
 | Default | QuickNav         |             | Off                                                                        |  
@@ -46,6 +48,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Home    | Floating Module  | showcase-b  | Show: Off, Ending Position: Feature, Stopping Offset: -25                  |  
 
 ### Menu
+
 | Style   | Option          | Setting                       |  
 | :------ | :-------------- | :---------------------------- |  
 | Default | Menu Control    | Show: On, Type: Dropdown-Menu |  
@@ -56,6 +59,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Module Cache    | On                            |  
 
 ### Layouts
+
 | Style   | Option               | Setting               |  
 | :------ | :------------------- | :-------------------- |  
 | Default | Top Positions        | Positions: 4, 3:3:3:3 |  
@@ -75,6 +79,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Home | Utility Positions       | Positions: 2, 8:4     |   
 
 ### Advanced
+
 | Style   | Option           | Setting                                                 |  
 | :------ | :--------------- | :------------------------------------------------------ |  
 | Default | Layout Mode      | Responsive                                              |  
@@ -90,6 +95,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Home    | Mainbody Enabled | Off                                                     |   
 
 ### Assignments
+
 | Style | Option    | Setting |  
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  

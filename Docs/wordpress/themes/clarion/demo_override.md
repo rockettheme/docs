@@ -49,22 +49,21 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![layouts][layouts]
 
-| Override    | Option               | Setting               |
-| :---------- | :----------          | :----------           |
-| Default     | Top Positions        | Positions: 2, 6:6     |
-| Default     | Navigation Positions | Positions: 2, 4:8     |
-| Default     | Header Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Showcase Positions   | Positions: 4, 3:3:3:3 |
-| Default     | Feature Positions    | Positions: 4, 3:3:3:3 |
-| Default     | Utility Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainTop Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainBody Positions   | Positions: 2, 8:4     |
-| Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
-| Default     | Extension Positions  | Positions: 4, 3:3:3:3 |
-| Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Copyright Positions  | Positions: 3, 4:4:4   |
-| Home        | Feature Positions    | Positions: 2, 3:9     |
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 2, 6:6     |
+| Default    | Navigation Positions | Positions: 2, 4:8     |
+| Default    | Header Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Showcase Positions   | Positions: 1, 12      |
+| Default    | Feature Positions    | Positions: 2, 6:6     |
+| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainBody Positions   | Positions: 2, 8:4     |
+| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Copyright Positions  | Positions: 3, 4:4:4   |
+| Front Page | Feature Positions    | Positions: 2, 3:9     |
 
 
 ### Mobile

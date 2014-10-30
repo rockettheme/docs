@@ -35,20 +35,21 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default    | Google Analytics      | Enabled: Off, UA Code: Blank     |   
 
 ### Layouts
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 4, 3:3:3:3 |  
-| Default    | Header Positions     | Positions: 3, 3:6:3   |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 8:4     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Extension Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 3, 4:4:4   |  
-| Default    | Copyright Positions  | Positions: 3, 3:7:2   |  
+
+| Style   | Option               | Setting               |  
+| :------ | :------------------- | :-------------------- |  
+| Default | Top Positions        | Positions: 4, 3:3:3:3 |  
+| Default | Header Positions     | Positions: 3, 3:6:3   |  
+| Default | Showcase Positions   | Positions: 1, 12      |  
+| Default | Feature Positions    | Positions: 4, 3:3:3:3 |  
+| Default | Utility Positions    | Positions: 1, 12      |  
+| Default | MainTop Positions    | Positions: 1, 12      |  
+| Default | MainBody Positions   | Positions: 2, 8:4     |  
+| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default | Extension Positions  | Positions: 4, 3:3:3:3 |  
+| Default | Bottom Positions     | Positions: 1, 12      |  
+| Default | Footer Positions     | Positions: 3, 4:4:4   |  
+| Default | Copyright Positions  | Positions: 2, 3:7:2   |  
 
 ### Advanced
 | Override | Option                  | Setting                                     |  
