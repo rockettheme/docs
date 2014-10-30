@@ -16,8 +16,8 @@ Based on the Gantry framework, Oculus includes an extensive list of features. Cu
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3+
-* MySQL 5.0.4 or higher
+* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* MySQL 5.1+
 * Joomla 2.5 or 3.x
 
 >> NOTE: Gantry v4.1.9+ is required for Oculus to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].

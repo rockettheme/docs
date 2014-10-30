@@ -18,8 +18,8 @@ The styling extends to RokSprocket in all its layout modes, such as Mosaic. Base
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3+
-* MySQL 5.0.4 or higher
+* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* MySQL 5.1+
 * Joomla 2.5 or 3.x
 
 >> NOTE: Gantry v4.1.10+ is required for Cerulean to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
