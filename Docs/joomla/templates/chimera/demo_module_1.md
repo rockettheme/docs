@@ -101,9 +101,9 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ![][demo4]
 
-| Option              | Setting                                            |
-| :----------         | :----------                                        |
-| Module Class Suffix | `fp-roksprocket-header-slideshow fp-preset-images` |
+| Option              | Setting                           |
+| :----------         | :----------                       |
+| Module Class Suffix | `fp-roksprocket-header-slideshow` |
 
 [demo]: assets/demo_1.jpeg
 [demo2]: assets/demo_1a.jpeg
