@@ -59,19 +59,19 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][layouts]
 
-| Override   | Option               | Setting               |  
-| :--------- | :------------------- | :-------------------- |  
-| Default    | Top Positions        | Positions: 2, 3:9     |  
-| Default    | Header Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | MainBody Positions   | Positions: 2, 9:3     |  
-| Default    | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions     | Positions: 4, 3:3:3:3 |  
-| Front Page | MainBody Positions   | Positions: 2, 7:5     |  
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 2, 3:9     |
+| Default    | Header Positions     | Positions: 2, 6:6     |
+| Default    | Showcase Positions   | Positions: 1, 12      |
+| Default    | Feature Positions    | Positions: 1, 12      |
+| Default    | Utility Positions    | Positions: 1, 12      |
+| Default    | MainTop Positions    | Positions: 2, 6:6     |
+| Default    | MainBody Positions   | Positions: 2, 7:5     |
+| Default    | MainBottom Positions | Positions: 1, 12      |
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions     | Positions: 4, 3:3:3:3 |
+| Front Page | MainBody Positions   | Positions: 2, 7:5     |
 
 ### Mobile
 

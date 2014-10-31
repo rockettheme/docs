@@ -38,36 +38,36 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![Features Settings][features]
 
-| Style       | Option             | Position    | Setting                                                                    |
-| :---------- | :----------        | :---------- | :----------                                                                |
-| Default     | Social Buttons     | copyright-a | Show: Off                                                                  |
-| Default     | Chart              |             | Show: On                                                                   |
-| Default     | Coming Soon Page   |             | Show: Off                                                                  |
-| Default     | Email Subscription |             | Show: On                                                                   |
-| Default     | Feedburner URI     |             | Blank                                                                      |
-| Default     | System Messages    | drawer      | On                                                                         |
-| Default     | Date               | utility-a   | Show: Off, Client-Side Date: Off                                           |
-| Default     | Font-Sizer         | utility-b   | Show: Off                                                                  |
-| Default     | Login Panel        | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout` |
-| Default     | Popup Panel        | utility-d   | Show: Off, Popup Button Text: `Popup Module`                               |
-| Default     | Branding           | extension-b | Show: Off                                                                  |
-| Default     | Copyright          | copyright-a | Show: On, Text: `Designed by RocketTheme`                                  |
-| Default     | To-Top Scroller    | copyright-c | Show: Off                                                                  |
-| Default     | Reset Settings     | copyright-d | Show: Off, Text: `Reset Settings`                                          |
-| Default     | Google Analytics   |             | Enable: Off                                                                |
+|  Style  |       Option       |   Position  |                                  Setting                                   |
+| :------ | :----------------- | :---------- | :------------------------------------------------------------------------- |
+| Default | Social Buttons     | copyright-a | Show: Off                                                                  |
+| Default | Chart              |             | Show: On                                                                   |
+| Default | Coming Soon Page   |             | Show: Off                                                                  |
+| Default | Email Subscription |             | Show: On                                                                   |
+| Default | Feedburner URI     |             | Blank                                                                      |
+| Default | System Messages    | drawer      | On                                                                         |
+| Default | Date               | utility-a   | Show: Off, Client-Side Date: Off                                           |
+| Default | Font-Sizer         | utility-b   | Show: Off                                                                  |
+| Default | Login Panel        | utility-c   | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout` |
+| Default | Popup Panel        | utility-d   | Show: Off, Popup Button Text: `Popup Module`                               |
+| Default | Branding           | extension-b | Show: Off                                                                  |
+| Default | Copyright          | copyright-a | Show: On, Text: `Designed by RocketTheme`                                  |
+| Default | To-Top Scroller    | copyright-c | Show: Off                                                                  |
+| Default | Reset Settings     | copyright-d | Show: Off, Text: `Reset Settings`                                          |
+| Default | Google Analytics   |             | Enable: Off                                                                |
 
 ### Menu
 
 ![Menu Settings][menu2]
 
-| Style       | Option          | Setting                       |
-| :---------- | :----------     | :----------                   |
-| Default     | Menu Control    | Show: On, Type: Dropdown-Menu |
-| Default     | Select a Menu   | Main Menu                     |
-| Default     | Position        | header-b                      |
-| Default     | Responsive Menu | Panel                         |
-| Default     | Enable ID       | Off                           |
-| Default     | Module Cache    | Off                           |
+|  Style  |      Option     |            Setting            |
+| :------ | :-------------- | :---------------------------- |
+| Default | Menu Control    | Show: On, Type: Dropdown-Menu |
+| Default | Select a Menu   | Main Menu                     |
+| Default | Position        | header-b                      |
+| Default | Responsive Menu | Panel                         |
+| Default | Enable ID       | Off                           |
+| Default | Module Cache    | Off                           |
 
 ### Layouts
 
@@ -94,24 +94,24 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![Advanced Settings][advanced]
 
-| Style       | Option            | Setting                                                 |
-| :---------- | :----------       | :----------                                             |
-| Default     | Layout Mode       | Fluid Responsive                                        |
-| Default     | Display Component | On                                                      |
-| Default     | Mainbody Enabled  | On                                                      |
-| Default     | RTL Support       | Off                                                     |
-| Default     | Page Suffix       | On                                                      |
-| Default     | Selectivizr       | On                                                      |
-| Default     | Less Compiler     | CSS Compression: On, Compile Wait: 2, Debug Header: Off |
-| Default     | IE7 Redirect      | On                                                      |
-| Default     | Demo Styling      | On                                                      |
-| Default     | K2 Styling        | Off                                                     |
+|  Style  |       Option      |                         Setting                         |
+| :------ | :---------------- | :------------------------------------------------------ |
+| Default | Layout Mode       | Fluid Responsive                                        |
+| Default | Display Component | On                                                      |
+| Default | Mainbody Enabled  | On                                                      |
+| Default | RTL Support       | Off                                                     |
+| Default | Page Suffix       | On                                                      |
+| Default | Selectivizr       | On                                                      |
+| Default | Less Compiler     | CSS Compression: On, Compile Wait: 2, Debug Header: Off |
+| Default | IE7 Redirect      | On                                                      |
+| Default | Demo Styling      | On                                                      |
+| Default | K2 Styling        | Off                                                     |
 
 ### Assignments
 
-| Style       | Option      | Setting     |
-| :---------- | :---------- | :---------- |
-| Home        | Main Menu   | Home        |
+| Style |   Option  | Setting |
+| :---- | :-------- | :------ |
+| Home  | Main Menu | Home    |
 
 [demo25]: assets/osmosis.jpg
 [menu]: ../../start/menu.md

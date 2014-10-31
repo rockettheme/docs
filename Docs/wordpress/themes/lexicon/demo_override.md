@@ -51,24 +51,24 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][layouts]
 
-| Override   | Option                   | Setting               |
-| :-------   | :----------------------- | :-------------------- |
+|   Style    |          Option          |        Setting        |
+| :--------- | :----------------------- | :-------------------- |
 | Default    | Header Positions         | Positions: 2, 4:8     |
-| Default    | Showcase Positions       | Positions: 4, 3:3:3:3 |
 | Default    | Top Positions            | Positions: 4, 3:3:3:3 |
+| Default    | Showcase Positions       | Positions: 1, 12      |
 | Default    | Utility Positions        | Positions: 4, 3:3:3:3 |
 | Default    | Feature Positions        | Positions: 4, 3:3:3:3 |
 | Default    | MainTop Positions        | Positions: 4, 3:3:3:3 |
 | Default    | ExpandedTop Positions    | Positions: 4, 3:3:3:3 |
-| Default    | Mainbody Positions       | Positions: 2, 4:8     |
+| Default    | MainBody Positions       | Positions: 2, 4:8     |
 | Default    | ExpandedBottom Positions | Positions: 4, 3:3:3:3 |
 | Default    | MainBottom Positions     | Positions: 4, 3:3:3:3 |
-| Default    | Extension Positions      | Positions: 1, 12      |
+| Default    | Extension Positions      | Positions: 4, 3:3:3:3 |
 | Default    | Bottom Positions         | Positions: 4, 3:3:3:3 |
-| Default    | Footer Positions         | Positions: 2, 6:6     |
+| Default    | Footer Positions         | Positions: 3, 4:4:4   |
 | Default    | Copyright Positions      | Positions: 4, 3:3:3:3 |
 | Front Page | Header Positions         | Positions: 2, 3:9     |
-| Front Page | Mainbody Positions       | Positions: 2, 3:9     |
+| Front Page | MainBody Positions       | Positions: 2, 3:9     |
 
 ### Advanced
 

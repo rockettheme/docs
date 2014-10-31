@@ -14,6 +14,7 @@ This table will break down the various settings you may need to adjust in order 
 Once you have selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the override indicated here relates to the theme override in this menu. More information about how overrides work can be found in our [Gantry documentation][override].
 
 ### Style
+
 | Override |                 Option |                                           Setting |  
 | :------- | ---------------------: | ------------------------------------------------: |  
 | Default  |                   Logo |                                             Voxel |  
@@ -26,6 +27,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default  |             Custom CSS |                                             Blank |  
 
 ### Gizmos
+
 | Override   |                Option |                                       Setting |  
 | :--------- | --------------------: | --------------------------------------------: |  
 | Default    |           Page Suffix |                    Enabled: Off, Class: Blank |  
@@ -39,23 +41,25 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Front Page |           Page Suffix |               Enabled: On, Class: `menu-home` |  
 
 ### Layouts
-| Override |               Option |               Setting |  
-| :------- | -------------------: | --------------------: |  
-| Default  |        Top Positions | Positions: 4, 3:3:3:3 |  
-| Default  | Navigation Positions |     Positions: 2, 9:3 |  
-| Default  |     Header Positions |     Positions: 2, 6:6 |  
-| Default  |   Showcase Positions | Positions: 4, 3:3:3:3 |  
-| Default  |    Feature Positions | Positions: 4, 3:3:3:3 |  
-| Default  |    Utility Positions |      Positions: 1, 12 |  
-| Default  |    MainTop Positions | Positions: 4, 3:3:3:3 |  
-| Default  |   MainBody Positions |     Positions: 2, 8:4 |  
-| Default  | MainBottom Positions | Positions: 4, 3:3:3:3 |  
-| Default  |  Extension Positions | Positions: 4, 3:3:3:3 |  
-| Default  |     Bottom Positions | Positions: 4, 3:3:3:3 |  
-| Default  |     Footer Positions | Positions: 4, 3:3:3:3 |  
-| Default  |  Copyright Positions |   Positions: 3, 3:6:3 |  
+
+| Style   | Option               | Setting               |  
+| :------ | :------------------- | :-------------------- |  
+| Default | Top Positions        | Positions: 4, 3:3:3:3 |  
+| Default | Navigation Positions | Positions: 2, 9:3     |  
+| Default | Header Positions     | Positions: 2, 6:6     |  
+| Default | Showcase Positions   | Positions: 1, 12      |  
+| Default | Feature Positions    | Positions: 1, 12      |  
+| Default | Utility Positions    | Positions: 1, 12      |  
+| Default | MainTop Positions    | Positions: 4, 3:3:3:3 |  
+| Default | MainBody Positions   | Positions: 2, 8:4     |  
+| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |  
+| Default | Extension Positions  | Positions: 4, 3:3:3:3 |  
+| Default | Bottom Positions     | Positions: 1, 12      |  
+| Default | Footer Positions     | Positions: 4, 3:3:3:3 |  
+| Default | Copyright Positions  | Positions: 3, 3:6:3   |  
 
 ### Advanced
+
 | Override |                  Option |                                                           Setting |  
 | :------- | ----------------------: | ----------------------------------------------------------------: |  
 | Default  |             Layout Mode |                                                        Responsive |  
@@ -70,6 +74,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default  |       Disable Texturize |                                                               Off |  
 
 ### Assignments
+
 | Override   |              Option |               Setting |  
 | :--------- | ------------------: | --------------------: |  
 | Front Page | Template Page Types | Home Page, Front Page |  

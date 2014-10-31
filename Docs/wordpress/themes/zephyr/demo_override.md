@@ -63,19 +63,18 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![layouts][layouts]
 
-| Override   | Option               | Setting               |
-| :-------   | :------------------- | :-------------------- |
-| Default    | Top Position         | Positions: 2, 5:7     |
-| Default    | Header Position      | Positions: 2, 6:6     |
-| Default    | Showcase Position    | Positions: 4, 3:3:3:3 |
-| Default    | Feature Position     | Positions: 4, 3:3:3:3 |
-| Default    | Utility Position     | Positions: 3, 3:3:6   |
-| Default    | MainTop Position     | Positions: 4, 3:3:3:3 |
-| Default    | MainBody Position    | Positions: 2, 3:9     |
-| Default    | MainBottom Position  | Positions: 4, 3:3:3:3 |
-| Default    | Bottom Position      | Positions: 3, 3:6:3   |
-| Default    | Footer Position      | Positions: 3, 2:8:2   |
-| Front Page | MainBody Position    | Positions: 3, 3:3:6   |
+| Style   | Option                     | Setting               |  
+| :------ | :------------------------- | :-------------------- |  
+| Default | Top Positions              | Positions: 2, 5:7     |  
+| Default | Header Positions           | Positions: 2, 6:6     |  
+| Default | Showcase Positions         | Positions: 1, 12      |  
+| Default | Feature Positions          | Positions: 1, 12      |  
+| Default | Utility Positions          | Positions: 3, 4:4:4   |  
+| Default | MainTop Positions          | Positions: 3, 4:4:4   |  
+| Default | MainBody Positions         | Positions: 3, 3:3:6   |  
+| Default | MainBottom Positions       | Positions: 2, 6:6     |  
+| Default | Bottom Positions           | Positions: 3, 3:6:3   |  
+| Default | Footer Positions           | Positions: 3, 2:8:2   |  
 
 ### iPhone
 

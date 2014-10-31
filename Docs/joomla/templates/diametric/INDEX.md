@@ -18,8 +18,8 @@ Built on the Gantry Framework, Diametric has a powerful core supporting versatil
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3+
-* MySQL 5.0.4 or higher
+* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* MySQL 5.1+
 * Joomla 2.5 or 3.x
 * Gantry Framework
 

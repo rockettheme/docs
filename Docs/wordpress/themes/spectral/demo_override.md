@@ -48,22 +48,26 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Layouts
 
-| Override   | Option                | Setting               |  
-| :--------- | :-------------------- | :-------------------- |  
-| Default    | Header Positions      | Positions: 2, 3:9     |  
-| Default    | Top Positions         | Positions: 4, 3:3:3:3 |  
-| Default    | Showcase Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Feature Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions     | Positions: 4, 3:3:3:3 |  
-| Default    | ExpandedTop Positions | Positions: 4, 3:3:3:3 |  
-| Default    | Mainbody Positions    | Positions: 2, 8:4     |  
-| Default    | MainBottom Positions  | Positions: 4, 3:3:3:3 |  
-| Default    | Extension Positions   | Positions: 4, 3:3:3:3 |  
-| Default    | Bottom Positions      | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions      | Positions: 2, 6:6     |  
-| Default    | Copyright Positions   | Positions: 3, 4:6:2   |  
-| Front Page | Footer Positions      | Positions: 2, 7:5     |
+|   Style    |          Option          |        Setting        |
+| :--------- | :----------------------- | :-------------------- |
+| Default    | Top Positions            | Positions: 2, 3:9     |
+| Default    | Header Positions         | Positions: 4, 3:3:3:3 |
+| Default    | Showcase Positions       | Positions: 1, 12      |
+| Default    | Feature Positions        | Positions: 2, 6:6     |
+| Default    | Utility Positions        | Positions: 2, 6:6     |
+| Default    | MainTop Positions        | Positions: 1, 12      |
+| Default    | ExpandedTop Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainBody Positions       | Positions: 3, 8:4     |
+| Default    | MainBottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | ExpandedBottom Positions | Positions: 4, 3:3:3:3 |
+| Default    | Extension Positions      | Positions: 4, 3:3:3:3 |
+| Default    | Bottom Positions         | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions         | Positions: 2, 6:6     |
+| Default    | Copyright Positions      | Positions: 3, 4:6:2   |
+| Front Page | Showcase Positions       | Positions: 1, 12      |
+| Front Page | Utility Positions        | Positions: 2, 6:6     |
+| Front Page | Feature Positions        | Positions: 2, 6:6     |
+| Front Page | Footer Positions         | Positions: 2, 7:5     |
 
 ### Advanced
 

@@ -15,8 +15,8 @@ Plethora is the perfect platform for displaying vast amount of content in a cohe
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3+
-* MySQL 5.0.4 or higher
+* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* MySQL 5.1+
 * Joomla 2.5, 3.2, or 3.3+
 
 >> NOTE: Gantry v4.1.24+ is required for Plethora to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].

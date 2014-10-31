@@ -49,15 +49,15 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style       | Option               | Setting               |
 | :---------- | :----------          | :----------           |
-| Default     | Top Positions        | Positions: 2, 5:7     |
+| Default     | Top Positions        | Positions: 2, 3:9     |
 | Default     | Header Positions     | Positions: 2, 3:9     |
-| Default     | Showcase Positions   | Positions: 4, 3:3:3:3 |
-| Default     | Feature Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainTop Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainBody Positions   | Positions: 2, 9:3     |
+| Default     | Showcase Positions   | Positions: 1, 12      |
+| Default     | Feature Positions    | Positions: 2, 6:6     |
+| Default     | MainTop Positions    | Positions: 3, 4:4:4   |
+| Default     | MainBody Positions   | Positions: 3, 6:3:3   |
 | Default     | MainBottom Positions | Positions: 4, 3:3:3:3 |
 | Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions     | Positions: 4, 3:3:3:3 |
+| Default     | Footer Positions     | Positions: 3, 3:3:6   |
 
 ### iPhone
 

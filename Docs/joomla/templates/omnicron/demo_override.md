@@ -41,94 +41,94 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][features]
 
-| Style   | Option           | Position  | Setting                                                                                 |  
-| :------ | :--------------- | :-------- | :-------------------------------------------------------------------------------------- |  
-| Default | Logo             | header-a  | Show: On, Auto Size: On, Centered: Off                                                  |  
-| Default | Date             | top-a     | Show: Off                                                                               |  
-| Default | Font-Sizer       | footer-a  | Show: On                                                                                |  
-| Default | Login Panel      | utility-a | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`              |  
-| Default | Popup Panel      | utility-a | Show: Off, Popup Button Text: `Popup Module`                                            |  
-| Default | Branding         | footer-b  | Show: On                                                                                |  
-| Default | Copyright        | footer-b  | Show: Off, Text: `Designed by RocketTheme`                                              |  
-| Default | SmartLoad        |           | Show: On, Component Ignores: `com_community,com_contact,com_k2,com_tienda,com_weblinks` |  
-| Default | More Articles    |           | Enable: On, Text: Load More Articles, Hide Pagination: On                               |  
-| Default | To-Top Scroller  | footer-c  | Show: On, Text: `Scroll To Top`                                                         |  
-| Default | System Messages  | drawer    | Show: On                                                                                |  
-| Default | Reset Settings   | footer-b  | Show: Off, Text: `Reset Settings`                                                       |  
-| Default | IE6 Warning      |           | Show: On, Delay: 2000                                                                   |  
-| Default | Google Analytics |           | Enable: Off                                                                             |  
+|  Style  |      Option      |  Position |                                         Setting                                         |
+| :------ | :--------------- | :-------- | :-------------------------------------------------------------------------------------- |
+| Default | Logo             | header-a  | Show: On, Auto Size: On, Centered: Off                                                  |
+| Default | Date             | top-a     | Show: Off                                                                               |
+| Default | Font-Sizer       | footer-a  | Show: On                                                                                |
+| Default | Login Panel      | utility-a | Show: Off, Login Button Text: `Member Login`, Logout Button Text: `Logout`              |
+| Default | Popup Panel      | utility-a | Show: Off, Popup Button Text: `Popup Module`                                            |
+| Default | Branding         | footer-b  | Show: On                                                                                |
+| Default | Copyright        | footer-b  | Show: Off, Text: `Designed by RocketTheme`                                              |
+| Default | SmartLoad        |           | Show: On, Component Ignores: `com_community,com_contact,com_k2,com_tienda,com_weblinks` |
+| Default | More Articles    |           | Enable: On, Text: Load More Articles, Hide Pagination: On                               |
+| Default | To-Top Scroller  | footer-c  | Show: On, Text: `Scroll To Top`                                                         |
+| Default | System Messages  | drawer    | Show: On                                                                                |
+| Default | Reset Settings   | footer-b  | Show: Off, Text: `Reset Settings`                                                       |
+| Default | IE6 Warning      |           | Show: On, Delay: 2000                                                                   |
+| Default | Google Analytics |           | Enable: Off                                                                             |
 
 
 ### Menu
 
 ![][menu]
 
-| Style   | Option                | Setting                                             |
-| :------ | :-------------------- | :-----------------------------------------------    |
-| Default | Menu Control          | Show: On, Type: Fusion-Menu                         |
-| Default | Select a Menu         | Main Menu                                           |
-| Default | Position              | header-b                                            |
-| Default | Enable JavaScript     | On                                                  |
-| Default | Menu Opacity          | 1                                                   |
-| Default | Menu Effect           | Slide + Fade                                        |
-| Default | Menu Delay            | 500                                                 |
-| Default | Menu Animation        | Circ.easeOut                                        |
-| Default | Menu Duration         | 300                                                 |
-| Default | Pill                  | Enable: Off, Duration: 400, Animation: Back.easeOut |
-| Default | Centered Drop-downs   | Off                                                 |
-| Default | Enable ID             | Off                                                 |
-| Default | Module Cache          | On                                                  |
+|  Style  |        Option       |                       Setting                       |
+| :------ | :------------------ | :-------------------------------------------------- |
+| Default | Menu Control        | Show: On, Type: Fusion-Menu                         |
+| Default | Select a Menu       | Main Menu                                           |
+| Default | Position            | header-b                                            |
+| Default | Enable JavaScript   | On                                                  |
+| Default | Menu Opacity        | 1                                                   |
+| Default | Menu Effect         | Slide + Fade                                        |
+| Default | Menu Delay          | 500                                                 |
+| Default | Menu Animation      | Circ.easeOut                                        |
+| Default | Menu Duration       | 300                                                 |
+| Default | Pill                | Enable: Off, Duration: 400, Animation: Back.easeOut |
+| Default | Centered Drop-downs | Off                                                 |
+| Default | Enable ID           | Off                                                 |
+| Default | Module Cache        | On                                                  |
 
 ### Layouts
 
 ![][layouts]
 
-| Style   | Option                     | Setting               |  
-| :------ | :------------------------- | :-------------------- |  
-| Default | Top Positions              | Positions: 2, 5:7     |  
-| Default | Header Positions           | Positions: 2, 3:9     |  
-| Default | Showcase Positions         | Positions: 1, 12      |  
-| Default | Feature Positions          | Positions: 1, 12      |  
-| Default | Utility Positions          | Positions: 4, 3:3:3:3 |  
-| Default | MainTop Positions          | Positions: 4, 3:3:3:3 |  
-| Default | MainBody Positions         | Positions: 2, 8:4     |  
-| Default | MainBottom Positions       | Positions: 4, 3:3:3:3 |  
-| Default | Bottom Positions           | Positions: 3, 4:4:4   |  
-| Default | Footer Positions           | Positions: 3, 4:4:4   |  
+|  Style  |        Option        |        Setting        |
+| :------ | :------------------- | :-------------------- |
+| Default | Top Positions        | Positions: 2, 5:7     |
+| Default | Header Positions     | Positions: 2, 3:9     |
+| Default | Showcase Positions   | Positions: 1, 12      |
+| Default | Feature Positions    | Positions: 1, 12      |
+| Default | Utility Positions    | Positions: 4, 3:3:3:3 |
+| Default | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default | MainBody Positions   | Positions: 2, 8:4     |
+| Default | MainBottom Positions | Positions: 4, 3:3:3:3 |
+| Default | Bottom Positions     | Positions: 3, 4:4:4   |
+| Default | Footer Positions     | Positions: 3, 4:4:4   |
 
 ### Mobile
 
 ![][mobile]
 
-| Style   | Option               | Position          | Setting                                      |  
-| :------ | :------------------- | :---------------- | :------------------------------------------- |  
-| Default | iPhone Custom Theme  |                   | On                                           |  
-| Default | Scalable Content     |                   | Off                                          |  
-| Default | Standard View Switch | mobile-copyright  | Enable: On                                   |  
-| Default | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide       |  
-| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |  
-| Default | Positions Aliases    | mobile-drawer     | drawer                                       |  
-| Default | Positions Aliases    | mobile-top        | top-a                                        |  
-| Default | Positions Aliases    | mobile-header     | header-b                                     |  
-| Default | Positions Aliases    | mobile-navigation | mobile-navigation                            |  
-| Default | Positions Aliases    | mobile-showcase   | header-a                                     |  
-| Default | Positions Aliases    | mobile-footer     | footer-a                                     |  
-| Default | Positions Aliases    | mobile-copyright  | copyright                                    |  
+|  Style  |        Option        |      Position     |                   Setting                    |
+| :------ | :------------------- | :---------------- | :------------------------------------------- |
+| Default | iPhone Custom Theme  |                   | On                                           |
+| Default | Scalable Content     |                   | Off                                          |
+| Default | Standard View Switch | mobile-copyright  | Enable: On                                   |
+| Default | Mobile Menu          |                   | Menu: Main Menu, Menu Animation: Slide       |
+| Default | Image Resize         |                   | Enabled: On, Min-Width: 80, % of Resize: 25% |
+| Default | Positions Aliases    | mobile-drawer     | drawer                                       |
+| Default | Positions Aliases    | mobile-top        | top-a                                        |
+| Default | Positions Aliases    | mobile-header     | header-b                                     |
+| Default | Positions Aliases    | mobile-navigation | mobile-navigation                            |
+| Default | Positions Aliases    | mobile-showcase   | header-a                                     |
+| Default | Positions Aliases    | mobile-footer     | footer-a                                     |
+| Default | Positions Aliases    | mobile-copyright  | copyright                                    |
 
 ### Advanced
 
 ![][advanced]
 
-| Style   | Option              | Setting                                                                               |  
-| :------ | :------------------ | :------------------------------------------------------------------------------------ |  
-| Default | Gantry Cache        | Enabled: On, Cache Timeout: 900                                                       |  
-| Default | Input Styling       | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin','#vmMainPage'` |  
-| Default | Display Component   | On                                                                                    |  
-| Default | Display Mainbody    | On                                                                                    |  
-| Default | Third Party Support | On                                                                                    |  
-| Default | RTL Support         | On                                                                                    |  
-| Default | Build Titles Spans  | On                                                                                    |  
-| Default | Page Suffix         | On                                                                                    |  
+|  Style  |        Option       |                                        Setting                                        |
+| :------ | :------------------ | :------------------------------------------------------------------------------------ |
+| Default | Gantry Cache        | Enabled: On, Cache Timeout: 900                                                       |
+| Default | Input Styling       | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin','#vmMainPage'` |
+| Default | Display Component   | On                                                                                    |
+| Default | Display Mainbody    | On                                                                                    |
+| Default | Third Party Support | On                                                                                    |
+| Default | RTL Support         | On                                                                                    |
+| Default | Build Titles Spans  | On                                                                                    |
+| Default | Page Suffix         | On                                                                                    |
 
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure

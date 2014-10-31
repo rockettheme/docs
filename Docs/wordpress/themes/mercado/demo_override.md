@@ -60,22 +60,22 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][layouts]
 
-| Override   | Option                   | Setting               |  
-| :--------- | :----------------------- | :-------------------- |  
-| Default    | Top Positions            | Positions: 3, 3:5:4   |  
-| Default    | Header Positions         | Positions: 4, 3:3:3:3 |  
-| Default    | Showcase Positions       | Positions: 3, 3:3:3   |  
-| Default    | Feature Positions        | Positions: 4, 3:3:3:3 |  
-| Default    | Utility Positions        | Positions: 4, 3:3:3:3 |  
-| Default    | MainTop Positions        | Positions: 3, 3:3:3   |  
-| Default    | MainBody Positions       | Positions: 2, 8:4     |  
-| Default    | MainBottom Positions     | Positions: 3, 3:3:3   |  
-| Default    | Bottom Positions         | Positions: 4, 3:3:3:3 |  
-| Default    | Footer Positions         | Positions: 3, 4:4:4   |  
-| Default    | Content Top Positions    | Positions: 4, 3:3:3:3 |  
-| Default    | Content Bottom Positions | Positions: 4, 3:3:3:3 |  
-| Front Page | MainBottom Positions     | Positions: 2, 6:3     |  
-| Front Page | Footer Positions         | Positions: 3, 2:4:6   |  
+|   Style    |           Option           |        Setting        |
+| :--------- | :------------------------- | :-------------------- |
+| Default    | Top Positions              | Positions: 3, 4:4:4   |
+| Default    | Header Positions           | Positions: 4, 3:3:3:3 |
+| Default    | Showcase Positions         | Positions: 1, 12      |
+| Default    | Feature Positions          | Positions: 4, 3:3:3:3 |
+| Default    | Utility Positions          | Positions: 4, 3:3:3:3 |
+| Default    | MainTop Positions          | Positions: 3, 3:3:3   |
+| Default    | MainBody Positions         | Positions: 2, 6:3     |
+| Default    | MainBottom Positions       | Positions: 2, 5:4     |
+| Default    | Bottom Positions           | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions           | Positions: 3, 4:4:4   |
+| Default    | Component Top Positions    | Positions: 4, 3:3:3:3 |
+| Default    | Component Bottom Positions | Positions: 4, 3:3:3:3 |
+| Front Page | MainBottom Positions       | Positions: 2, 6:3     |
+| Front Page | Footer Positions           | Positions: 3, 2:4:6   |
 
 
 ### iPhone

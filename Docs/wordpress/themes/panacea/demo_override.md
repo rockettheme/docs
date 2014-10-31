@@ -18,8 +18,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![Style][style]
 
-| Override   | Option                 | Setting                                                                   |
-| :-------   | :--------------------- | :------------------------------------------------                         |
+|  Override  |         Option         |                                  Setting                                  |
+| :--------- | :--------------------- | :------------------------------------------------------------------------ |
 | Default    | Static CSS             | Use Static: Off, Check Changes: On                                        |
 | Default    | Main Background        | Background: `#EEEEEE`                                                     |
 | Default    | Header                 | Background: `#FFFFFF`, Overlay: Light, Text: `#666666`, Link: `#A70000`   |
@@ -46,8 +46,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][rotator]
 
-| Background         |
-| :----------        |
+|     Background     |
+| :----------------- |
 | Red Oils           |
 | Japanese Gate Bw   |
 | Japanese Garden Bw |
@@ -70,60 +70,60 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Layouts
 
-| Style       | Option               | Setting               |
-| :---------- | :----------          | :----------           |
-| Default     | Top Positions        | Positions: 2, 5:7     |
-| Default     | Header Positions     | Positions: 2, 4:8     |
-| Default     | Showcase Positions   | Positions: 4, 3:3:3:3 |
-| Default     | Feature Positions    | Positions: 3, 4:4:4   |
-| Default     | Utility Positions    | Positions: 1, 12      |
-| Default     | MainTop Positions    | Positions: 4, 3:3:3:3 |
-| Default     | MainBody Positions   | Positions: 2, 8:4     |
-| Default     | MainBottom Positions | Positions: 2, 7:5     |
-| Default     | Bottom Positions     | Positions: 4, 3:3:3:3 |
-| Default     | Footer Positions     | Positions: 3, 3:3:6   |
-| Front Page  | MainBody Positions   | Positions: 2, 7:5     |
+|   Style    |        Option        |        Setting        |
+| :--------- | :------------------- | :-------------------- |
+| Default    | Top Positions        | Positions: 2, 5:7     |
+| Default    | Header Positions     | Positions: 2, 4:8     |
+| Default    | Showcase Positions   | Positions: 4, 3:3:3:3 |
+| Default    | Feature Positions    | Positions: 3, 4:4:4   |
+| Default    | Utility Positions    | Positions: 1, 12      |
+| Default    | MainTop Positions    | Positions: 4, 3:3:3:3 |
+| Default    | MainBody Positions   | Positions: 2, 8:4     |
+| Default    | MainBottom Positions | Positions: 2, 7:5     |
+| Default    | Bottom Positions     | Positions: 4, 3:3:3:3 |
+| Default    | Footer Positions     | Positions: 3, 3:3:6   |
+| Front Page | MainBody Positions   | Positions: 2, 7:5     |
 
 ### iPhone
 
 ![mobile][mobile]
 
-| Override    | Option                                     | Setting                                     |
-| :---------- | :----------                                | :----------                                 |
-| Default     | iPhone Custom Theme                        | On                                          |
-| Default     | iPhone Scalable                            | Off                                         |
-| Default     | iPhone Images                              | Enabled: On, Min-Width: 80, Percentage: 25% |
-| Default     | Positions Aliases - Mobile Drawer          | drawer                                      |
-| Default     | Positions Aliases - Mobile Top             | top-a                                       |
-| Default     | Positions Aliases - Mobile Header          | header-a                                    |
-| Default     | Positions Aliases - Mobile Navigation      | mobile-navigation                           |
-| Default     | Positions Aliases - Mobile Showcase        | mobile-showcase                             |
-| Default     | Positions Aliases - Mobile Footer Position | footer-a                                    |
-| Default     | Positions Aliases - Mobile Copyright       | copyright                                   |
+| Override |                   Option                   |                   Setting                   |
+| :------- | :----------------------------------------- | :------------------------------------------ |
+| Default  | iPhone Custom Theme                        | On                                          |
+| Default  | iPhone Scalable                            | Off                                         |
+| Default  | iPhone Images                              | Enabled: On, Min-Width: 80, Percentage: 25% |
+| Default  | Positions Aliases - Mobile Drawer          | drawer                                      |
+| Default  | Positions Aliases - Mobile Top             | top-a                                       |
+| Default  | Positions Aliases - Mobile Header          | header-a                                    |
+| Default  | Positions Aliases - Mobile Navigation      | mobile-navigation                           |
+| Default  | Positions Aliases - Mobile Showcase        | mobile-showcase                             |
+| Default  | Positions Aliases - Mobile Footer Position | footer-a                                    |
+| Default  | Positions Aliases - Mobile Copyright       | copyright                                   |
 
 ### Advanced
 
 ![advanced][advanced]
 
-| Override   | Option                  | Setting                                                           |  
-| :--------- | :---------------------- | :---------------------------------------------------------------- |  
-| Default    | Gantry Cache            | Enabled: On, Cache Time: 900                                      |  
-| Default    | Gantry GZipper          | Enabled: On, Cache Time: 600, Expires: 1440, Strip Whitespace: On |  
-| Default    | Input Styiling          | Enabled: On, Exclusions: `'.content_vote','\#rt-popup'`           |  
-| Default    | Display Content         | On                                                                |  
-| Default    | Display Mainbody        | On                                                                |  
-| Default    | RTL Support             | On                                                                |  
-| Default    | Build Title Spans       | On                                                                |  
-| Default    | RT Typography           | Enabled: On, Typography Style: Light                              |  
-| Default    | RT Plugins Styling      | On                                                                |  
-| Default    | Disable Auto Paragraphs | Enabled: On, Content Type: Both                                   |  
-| Default    | Disable Texturize       | Off                                                               |  
+| Override |          Option         |                              Setting                              |
+| :------- | :---------------------- | :---------------------------------------------------------------- |
+| Default  | Gantry Cache            | Enabled: On, Cache Time: 900                                      |
+| Default  | Gantry GZipper          | Enabled: On, Cache Time: 600, Expires: 1440, Strip Whitespace: On |
+| Default  | Input Styiling          | Enabled: On, Exclusions: `'.content_vote','\#rt-popup'`           |
+| Default  | Display Content         | On                                                                |
+| Default  | Display Mainbody        | On                                                                |
+| Default  | RTL Support             | On                                                                |
+| Default  | Build Title Spans       | On                                                                |
+| Default  | RT Typography           | Enabled: On, Typography Style: Light                              |
+| Default  | RT Plugins Styling      | On                                                                |
+| Default  | Disable Auto Paragraphs | Enabled: On, Content Type: Both                                   |
+| Default  | Disable Texturize       | Off                                                               |
 
 ### Assignments
 
-| Override    | Option              | Setting               |
-| :---------- | :----------         | :----------           |
-| Front Page  | Template Page Types | Home Page, Front Page |
+|  Override  |        Option       |        Setting        |
+| :--------- | :------------------ | :-------------------- |
+| Front Page | Template Page Types | Home Page, Front Page |
 
 [override]: http://gantry-framework.org/documentation/wordpress/configure/
 [style]: assets/setstyle.jpeg
