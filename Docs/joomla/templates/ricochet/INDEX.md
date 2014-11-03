@@ -40,12 +40,6 @@ Key Features
 * Chart.js
 * Coming Soon Page
 
-### Side Slider
-
-![](assets/sidesiderindex.jpeg)
-
-The SideSlider adds additional space for content outside of the main template area. There are several options available for configuring the SideSlider feature, such as the toggle or whether it is fixed or slides into view. The position is perfect for extra content or advertisements.
-
 ### Responsive Layout
 
 A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
