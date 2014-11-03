@@ -59,7 +59,7 @@ We have detailed how to recreate the individual modules pictured above in the li
 14. [Copyright - Menu](demo_module_14.md)
 15. [MainBody](demo_mainbody.md)
 
-**SideSlider**
+### SideSlider
 
 ![](assets/sideslider.jpeg)
 
@@ -105,7 +105,7 @@ Animation
 
 Support for animations is built in to this template, and can be added to modules and content to add an extra effect. These classes are either included in the **Module Class Suffix** or in-line in the content.
 
-You can find a visual example as well as the class names of classes that are supported by Chimera [on the Animate.css project site](http://daneden.github.io/animate.css/).
+You can find a visual example as well as the class names of classes that are supported by Ricochet [on the Animate.css project site](http://daneden.github.io/animate.css/).
 
 The element that triggers this animation during scrolling is explained in greater detail in the [WOW.js Documentation](http://mynameismatthieu.com/WOW/docs.html).
 
@@ -118,7 +118,9 @@ Menu Settings
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
-You will need to change the **Page Class** setting under the Home menu item to ` jul14-home`.
+You will need to change the **Page Class** setting under the Home menu item to ` rt-menu-home`.
+
+>> NOTE: Make sure you leave a space before the class.
 
 #### Assignments
 

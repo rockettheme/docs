@@ -1,11 +1,11 @@
 ---
-title: Ricochet: Recreating the Demo - Header Slideshow
+title: Ricochet: Recreating the Demo - Showcase
 description: Your Guide to Recreating Elements of the Ricochet Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
 
 ---
 
-FP RokSprocket Features - Header Slideshow
+FP RokSprocket Features - Showcase
 -----
 
 ![](assets/demo_1.jpeg)
@@ -16,15 +16,15 @@ The **RokSprocket Features** module used near the top of the front page is a gre
 
 ![](assets/demo_1a.jpeg)
 
-|      Option      |                   Setting                    |
-| :--------------- | :------------------------------------------- |
-| Title            | `FP RokSprocket Features - Header Slideshow` |
-| Show Title       | Hide                                         |
-| Access           | Public                                       |
-| Position         | showcase-a                                   |
-| Status           | Published                                    |
-| Content Provider | Simple                                       |
-| Type             | Features                                     |
+|      Option      |               Setting                |
+| :--------------- | :----------------------------------- |
+| Title            | `FP RokSprocket Features - Showcase` |
+| Show Title       | Hide                                 |
+| Access           | Public                               |
+| Position         | showcase-a                           |
+| Status           | Published                            |
+| Content Provider | Simple                               |
+| Type             | Features                             |
 
 ### Filtered Article List
 

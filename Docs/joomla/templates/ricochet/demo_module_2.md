@@ -101,8 +101,3 @@ Enter the following in the **Custom Output** text editor.
 |        Option       |   Setting    |
 | :------------------ | :----------- |
 | Module Class Suffix | `fp-feature` |
-
-[demo]: assets/demo_2.jpg
-[demo2]: assets/demo_2a.jpeg
-[demo3]: assets/demo_2b.jpeg
-[demo4]: assets/
