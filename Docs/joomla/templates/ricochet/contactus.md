@@ -37,13 +37,13 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module
 
-|   Option   |                                   Setting                                    |
-| :--------- | :--------------------------------------------------------------------------- |
-| Title      | `Contact Us[span class="rt-title-tag"]We Would Love to Hear From You[/span]` |
-| Show Title | Yes                                                                          |
-| Position   | feature-a                                                                    |
-| Status     | Published                                                                    |
-| Access     | Public                                                                       |
+|   Option   |                               Setting                               |
+| :--------- | :------------------------------------------------------------------ |
+| Title      | `Contact Us[span class="rt-title-tag"]Keep in Touch with Us[/span]` |
+| Show Title | Yes                                                                 |
+| Position   | feature-a                                                           |
+| Status     | Published                                                           |
+| Access     | Public                                                              |
 
 >> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 

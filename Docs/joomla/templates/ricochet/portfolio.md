@@ -10,59 +10,6 @@ Introduction
 
 The **Portfolio** example page demonstrates how you can create a clean, functional portfolio with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Mainbody
------
-
-![](assets/page_portfolio_7.jpeg)
-
-The page's content body is set in the **Portfolio** article. You will find the content used in the article below.
-
-~~~ .html
-<h3>Our Awesome Project</h3>
-
-<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
-
-<div class="gantry-row">
-    <div class="gantry-width-container">
-        <div class="gantry-width-50">
-            <div class="gantry-width-spacer">
-                <span class="rt-image">
-                    <img src="images/rocketlauncher/pages/portfolio/img-17.jpg" alt="image" />
-                </span>
-            </div>
-        </div>
-
-        <div class="gantry-width-50">
-            <div class="gantry-width-spacer">
-                <h3>Project Description</h3>
-                <p>Efficiently unleash cross-media information without cross-media value.<span class="hidden-tablet"> Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</span></p>
-                <h3>Project Details</h3>
-                <div class="gantry-row">
-                    <div class="gantry-width-30">
-                        <div class="gantry-width-spacer">
-                            <p class="smallmarginbottom">Customer:</p>
-                            <p class="smallmarginbottom">Live Demo:</p>
-                            <p class="smallmarginbottom">Published<span class="hidden-tablet"> Date</span>:</p>
-                        </div>
-                    </div>
-                    <div class="gantry-width-70">
-                        <div class="gantry-width-spacer">
-                            <p class="smallmarginbottom">RocketTheme</p>
-                            <p class="smallmarginbottom">http://www.rockettheme.com</p>
-                            <p class="smallmarginbottom">08 March, 2014</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="clear"></div>
-                <p class="largemargintop"><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="clear"></div>
-~~~
-
 Modules
 -----
 
@@ -203,7 +150,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### RokSprocket Mosaic
 
-![](assets/page_portfolio_5.jpeg)
+![](assets/page_portfolio_5.png)
 
 #### Module
 
@@ -320,7 +267,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Ricochet Demo
 
-![](assets/page_portfolio_7.jpeg)
+![](assets/page_portfolio_8.jpeg)
 
 #### Module
 
@@ -354,7 +301,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Sample Contact Info
 
-![](assets/page_portfolio_8.jpeg)
+![](assets/page_portfolio_9.jpeg)
 
 #### Module
 
@@ -403,3 +350,56 @@ Below is a brief rundown of the modules used to make up the demo page.
 |        Option       |      Setting      |
 | :------------------ | :---------------- |
 | Module Class Suffix | `rt-phone-center` |
+
+Mainbody
+-----
+
+![](assets/page_portfolio_7.jpeg)
+
+The page's content body is set in the **Portfolio** article. You will find the content used in the article below.
+
+~~~ .html
+<h3>Our Awesome Project</h3>
+
+<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
+<div class="gantry-row">
+    <div class="gantry-width-container">
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <span class="rt-image">
+                    <img src="images/rocketlauncher/pages/portfolio/img-17.jpg" alt="image" />
+                </span>
+            </div>
+        </div>
+
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Project Description</h3>
+                <p>Efficiently unleash cross-media information without cross-media value.<span class="hidden-tablet"> Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</span></p>
+                <h3>Project Details</h3>
+                <div class="gantry-row">
+                    <div class="gantry-width-30">
+                        <div class="gantry-width-spacer">
+                            <p class="smallmarginbottom">Customer:</p>
+                            <p class="smallmarginbottom">Live Demo:</p>
+                            <p class="smallmarginbottom">Published<span class="hidden-tablet"> Date</span>:</p>
+                        </div>
+                    </div>
+                    <div class="gantry-width-70">
+                        <div class="gantry-width-spacer">
+                            <p class="smallmarginbottom">RocketTheme</p>
+                            <p class="smallmarginbottom">http://www.rockettheme.com</p>
+                            <p class="smallmarginbottom">08 March, 2014</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <p class="largemargintop"><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="clear"></div>
+~~~

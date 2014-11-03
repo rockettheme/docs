@@ -10,23 +10,6 @@ Introduction
 
 The **Services** example page demonstrates how you can create a content rich page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Mainbody
------
-
-![](assets/page_services_8.jpeg)
-
-The page's content body is set in the **Services** article. You will find the content used in the article below.
-
-~~~ .html
-<h3>Why Should You Choose Us?</h3>
-
-<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
-
-<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-
-<p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
-~~~
-
 Modules
 -----
 
@@ -527,3 +510,21 @@ Below is a brief rundown of the modules used to make up the demo page.
 |        Option       |      Setting      |
 | :------------------ | :---------------- |
 | Module Class Suffix | `rt-phone-center` |
+
+Mainbody
+-----
+
+![](assets/page_services_8.jpeg)
+
+The page's content body is set in the **Services** article. You will find the content used in the article below.
+
+~~~ .html
+<h3>Why Should You Choose Us?</h3>
+
+<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
+<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
+
+<p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
+~~~
+

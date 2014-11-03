@@ -10,20 +10,6 @@ Introduction
 
 **The Team** example page demonstrates how you can create a rich team page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Mainbody
------
-
-![](assets/page_theteam_8.jpeg)
-
-The page's content body is set in the **The Team** article. You will find the content used in the article below.
-
-~~~ .html
-<h3>Our Passion for Design</h3>
-<p>Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures. Completely iterate covalent strategic theme areas via accurate e-markets.</p>
-<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-<p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
-~~~
-
 Modules
 -----
 
@@ -499,3 +485,18 @@ Below is a brief rundown of the modules used to make up the demo page.
 |        Option       |      Setting      |
 | :------------------ | :---------------- |
 | Module Class Suffix | `rt-phone-center` |
+
+Mainbody
+-----
+
+![](assets/page_theteam_8.jpeg)
+
+The page's content body is set in the **The Team** article. You will find the content used in the article below.
+
+~~~ .html
+<h3>Our Passion for Design</h3>
+<p>Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures. Completely iterate covalent strategic theme areas via accurate e-markets.</p>
+<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
+<p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Learn More</a></p>
+~~~
+

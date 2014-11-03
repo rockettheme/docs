@@ -10,41 +10,6 @@ Introduction
 
 The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Mainbody
------
-
-![](assets/page_pricing_6.jpeg)
-
-The page's content body is set in the **Pricing Tables** article. You will find the content used in the article below.
-
-~~~ .html
-<div class="gantry-row">
-    <div class="gantry-width-container">
-        <div class="gantry-width-50">
-            <div class="gantry-width-spacer">
-                <h3>Simple Plans and Pricing</h3>
-                <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
-                <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-                <p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Sign Up</a></p>
-            </div>
-        </div>
-        <div class="gantry-width-50">
-            <div class="gantry-width-spacer">
-                <h3>Top Ricochet Features</h3>
-                <ul>
-                    <li>Powered by Gantry Framework</li>
-                    <li>CSS Dropdown Menu and Split Menu</li>
-                    <li>The Template is Optimized for RokBooster</li>
-                </ul>
-                <p class="success">Want to use Ricochet for your clients? <a href="http://www.rockettheme.com/joomla/templates/ricochet">Purchase Single Package Now</a>.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="clear"></div>
-~~~
-
 Modules
 -----
 
@@ -339,3 +304,38 @@ Below is a brief rundown of the modules used to make up the demo page.
 |        Option       |      Setting      |
 | :------------------ | :---------------- |
 | Module Class Suffix | `rt-phone-center` |
+
+Mainbody
+-----
+
+![](assets/page_pricing_6.jpeg)
+
+The page's content body is set in the **Pricing Tables** article. You will find the content used in the article below.
+
+~~~ .html
+<div class="gantry-row">
+    <div class="gantry-width-container">
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Simple Plans and Pricing</h3>
+                <p>Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</p>
+                <p class="hidden-tablet">Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                <p><a href="http://www.rockettheme.com/joomla/templates/ricochet" class="readon">Sign Up</a></p>
+            </div>
+        </div>
+        <div class="gantry-width-50">
+            <div class="gantry-width-spacer">
+                <h3>Top Ricochet Features</h3>
+                <ul>
+                    <li>Powered by Gantry Framework</li>
+                    <li>CSS Dropdown Menu and Split Menu</li>
+                    <li>The Template is Optimized for RokBooster</li>
+                </ul>
+                <p class="success">Want to use Ricochet for your clients? <a href="http://www.rockettheme.com/joomla/templates/ricochet">Purchase Single Package Now</a>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="clear"></div>
+~~~
