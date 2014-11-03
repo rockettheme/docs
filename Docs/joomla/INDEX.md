@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Ricochet](templates/ricochet)
 	- [Chimera](templates/chimera)
 	- [Nuance](templates/nuance)
 	- [Tessellate](templates/tessellate)

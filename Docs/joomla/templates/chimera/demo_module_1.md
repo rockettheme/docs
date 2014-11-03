@@ -12,7 +12,7 @@ FP RokSprocket Features - Header Slideshow
 
 The **RokSprocket Features** module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
-We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. The **Title**, **Description**, and **Image** fields in each article have been altered. A few examples of these article changes can be found below, excluding the **Image** fields which will likely not work on your local copy as the links will be different.
+We utilized the **Simple** Content Provider, allowing us to create custom content independent of full articles. The **Title**, **Description**, and **Image** fields in each article have been altered. A few examples of these article changes can be found below, excluding the **Image** fields which will likely not work on your local copy as the links will be different.
 
 >> NOTE: The arrow at the bottom of the mobile, (rt-bottom-arrow) is not functional unless the **System Messages** option is turned **On**. You can find this option by navigating to **Admin > Extend or Extensions > Template Manager > Chimera > Features**.
 
