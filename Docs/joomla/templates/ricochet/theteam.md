@@ -15,7 +15,7 @@ Modules
 
 Below is a brief rundown of the modules used to make up the demo page.
 
-![][theteampage]
+![](assets/page_theteam.jpeg)
 
 :   1. **Custom HTML - The Team** [9%, 43%, se]
     2. **Breadcrumbs** [14%, 16%, se]
