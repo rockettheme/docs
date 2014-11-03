@@ -37,7 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-ricochet/
             * [Footer A - Custom HTML](demo_module_12.md)
             * [Footer B - Custom HTML](demo_module_13.md)
             * [Copyright - Menu](demo_module_14.md)
-            * [MainBody](demo_mainbody.jpeg)
+            * [MainBody](demo_mainbody.md)
         * [Module Positions](positions.md)
         * Sample Pages
             * [Coming Soon](comingsoon.md)

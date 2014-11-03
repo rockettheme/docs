@@ -27,7 +27,7 @@ One important note here is that if you want to use this module in a different mo
 |    Option   |      Setting      |
 | :---------- | :---------------- |
 | Title       | `Characteristics` |
-| Show Title  | Hide              |
+| Show Title  | Show              |
 | Position    | additiontop-a     |
 | Layout Type | Mosaic Layout     |
 | Provider    | Simple Provider   |

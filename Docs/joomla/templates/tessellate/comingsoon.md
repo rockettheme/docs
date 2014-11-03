@@ -21,6 +21,8 @@ How to Enable/Disable the Page
 
 The **Coming Soon** page can be enabled or disabled from the **Features** tab in **Template Manager**. You can opt to create an override for this page, or enable it on your primary template, accordingly. You can reach this option by navigating to **Administration -> Extensions -> Template Manager -> Tessellate -> Features** and turning **Coming Soon Page** on or off.
 
+>> NOTE: Your site will not automatically go live once the counter has reached 0. You will still need to disable the **Coming Soon** page in the **Features** tab as well as set the site to **Online** in **Global Configuration**.
+
 How to Make Changes
 -----
 

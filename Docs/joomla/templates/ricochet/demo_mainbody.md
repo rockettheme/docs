@@ -7,12 +7,12 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
 
 ![](assets/demo_mainbody.jpeg)
 
-This area of the front page is an article. Articles appear within the **Mainbody** area of the front page.
+This area of the front page the MainBody. Articles appear within the **MainBody** area of the front page.
 
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Corvus -> Advanced**.
+This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Ricochet -> Advanced**.
 
 ![][advanced]
 
@@ -22,7 +22,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 
 :   1. **Intro Articles** [38%, 8%, se]
 
-In order to show three featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** menu.
+In order to show three featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** tab.
 
 Article Properties
 -----
