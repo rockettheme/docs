@@ -10,14 +10,6 @@ Introduction
 
 The **Services** example page demonstrates how you can create a content rich page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Menu Item Options
------
-
-![](assets/page_services_menu.jpeg)
-The **Services** page is a **Single Article** menu item type. To recreate the layout the way it appears in our demo, enter `services` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
-
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
-
 Mainbody
 -----
 

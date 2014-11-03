@@ -10,15 +10,6 @@ Introduction
 
 The **Blog** example page demonstrates how you can create a beautiful page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Menu Item Options
------
-
-![](page_blog_menu.jpeg)
-
-The **Blog** page is a **Category Blog** menu item type. To recreate the layout the way it appears in our demo, enter `blog` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
-
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
-
 Mainbody
 -----
 

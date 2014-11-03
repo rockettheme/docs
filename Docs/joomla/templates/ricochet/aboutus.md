@@ -10,15 +10,6 @@ Introduction
 
 The **About Us** example page demonstrates how you can create a beautiful page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
 
-Menu Item Options
------
-
-![](assets/page_aboutus_menu.jpeg)
-
-The **About Us** page is a **Single Article** menu item type. To recreate the layout the way it appears in our demo, enter `about-us` in the **Alias** field in the menu item settings. This alias is tied to a class in the demo.less file.
-
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Administrator > Template Manager > Template > Advanced**.
-
 Mainbody
 -----
 
