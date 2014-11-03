@@ -25,27 +25,27 @@ Below, you will find the module placement and settings for the various module po
 
 ![](assets/ricochet2.jpeg)
 
-:   1. **Showcase A - RokSprocket (Features)** [5%, 16%, se]
-    2. **Feature A - Custom HTML** [24%, 40%, se]
-    3. **Utility A - RokSprocket (Grids)** [27%, 20%, se]
-    4. **Expanded Top A - Custom HTML** [27%, 60%, se]
-    5. **Main Bottom A - Custom HTML** [38%, 20%, se]
-    6. **Addition Top A - RokSprocket (Mosaic)** [38%, 60%, se]
-    7. **Extension A - RokSprocket (Strips)** [46%, 40%, se]
-    8. **Addition Bottom A - Custom HTML** [50%, 20%, se]
-    9. **Sidebar A - RokSprocket (Strips)** [62%, 20%, se]
-    10. **Sidebar A - Custom HTML** [70%, 20%, se]
-    11. **Bottom A - Custom HTML** [70%, 55%, se]
-    12. **Footer A - Custom HTML** [82%, 20%, se]
-    13. **Footer B - Custom HTML** [86%, 20%, se]
-    14. **Copyright - Menu** [86%, 35%, se]
-    15. **MainBody** [50%, 50%, se]
+:   1. **Showcase A - RokSprocket (Features)** [7%, 25%, se]
+    2. **Feature A - Custom HTML** [12%, 25%, se]
+    3. **Utility A - RokSprocket (Grids)** [22%, 25%, se]
+    4. **Expanded Top A - Custom HTML** [33%, 25%, se]
+    5. **Main Bottom A - Custom HTML** [40%, 25%, se]
+    6. **Addition Top A - RokSprocket (Mosaic)** [44%, 25%, se]
+    7. **Extension A - RokSprocket (Strips)** [55%, 25%, se]
+    8. **Addition Bottom A - Custom HTML** [63%, 25%, se]
+    9. **Sidebar A - RokSprocket (Strips)** [66%, 75%, sw]
+    10. **Sidebar A - Custom HTML** [71%, 75%, sw]
+    11. **Bottom A - Custom HTML** [80%, 25%, se]
+    12. **Footer A - Custom HTML** [86%, 25%, se]
+    13. **Footer B - Custom HTML** [86%, 42%, se]
+    14. **Copyright - Menu** [91%, 45%, se]
+    15. **MainBody** [66%, 25%, se]
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
 1. [Showcase A - RokSprocket (Features)](demo_module_1.md)
 2. [Feature A - Custom HTML](demo_module_2.md)
-3. [[Utility A - RokSprocket (Grids)](demo_module_3.md)
+3. [Utility A - RokSprocket (Grids)](demo_module_3.md)
 4. [Expanded Top A - Custom HTML](demo_module_4.md)
 5. [Main Bottom A - Custom HTML](demo_module_5.md)
 6. [Addition Top A - RokSprocket (Mosaic)](demo_module_6.md)
@@ -110,6 +110,15 @@ You can find a visual example as well as the class names of classes that are sup
 The element that triggers this animation during scrolling is explained in greater detail in the [WOW.js Documentation](http://mynameismatthieu.com/WOW/docs.html).
 
 Animation must be enabled on the backend for them to load. You can find the setting by navigating to **Administrator -> Extensions -> Template Manager -> Advanced**.
+
+Menu Settings
+-----
+
+![](assets/menu_1.png)
+
+In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
+
+You will need to change the **Page Class** setting under the Home menu item to ` jul14-home`.
 
 #### Assignments
 
