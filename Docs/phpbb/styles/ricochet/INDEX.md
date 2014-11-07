@@ -42,6 +42,8 @@ Features
 
 NOTE: **RokBB 5.0.4+** is required for Ricochet to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
 
+>> NOTE: Ricochet is a phpBB 3.0.x style, and not currently compatible with phpBB 3.1.
+
 ### Imageset Editor
 
 Ricochet supports Imageset Editor for previously implemented FontAwesome based scalable vector topic icons. All icons are based on Font Awesome 4. Font Awesome is a pictographic language of web-related actions which delivers over 350 icons.
