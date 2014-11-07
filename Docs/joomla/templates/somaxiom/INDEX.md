@@ -2,15 +2,55 @@
 title: Somaxiom
 description: Your Guide to Using the Somaxiom Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!somaxiom:Somaxiom
-nosearch: true
 
 ---
 
-Coming Soon
+Introduction
 -----
 
-This documentation is in the process of being written and will be made available soon. 
+Somaxiom concentrates on design elegance. The visuals are refined, making the appearance suitable for many different sites, as well as being a base for individualization. The template supports custom image overlays to add detail to otherwise minimalistic elements.
 
-Tutorials, tips, and other additional resources for this template can be found in its official [forum][forum].
+![][Somaxiom]
 
-[forum]: http://www.rockettheme.com/forum/joomla-template-somaxiom/
+>> NOTICE: Somaxiom is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+
+Requirements
+-----
+
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* MySQL 5.1+
+* Joomla 2.5 or 3.x
+
+For more information, visit our [Gantry documentation][gantry].
+
+Key Features
+-----
+
+* 960 Fixed Layout
+* 8 Preset Styles
+* 68 Module Positions
+* 11 Module Variations
+* Fusion-Menu and Split-Menu
+* Custom Typography
+* Logo Options
+* iPhone Theme
+* Mobile Menu
+
+
+### Gantry Framework
+
+Somaxiom has compatibility styling for 3 major third party extensions: K2, JComments and JomSocial. The extensions will not be included in the RocketLauncher, but can be download / purchased (JomSocial is a commercial extension) from the respective developers.
+
+### RTL Support
+
+Template side RTL support from the Fusion menu to the Typography; alongside Gantry's RTL support for the automatic flipping of the grid system. If Joomla is set to RTL mode, in its language settings, the template will automatically adjust to its RTL layout.
+
+[gantry]: http://www.gantry-framework.org/
+[Somaxiom]: assets/somaxiom.jpeg
+[responsive]: assets/responsive.jpg
+[roksprocket]: assets/roksprocket.jpg
+[filezilla]: https://filezilla-project.org
+[launcher]: ../../start/rocketlauncher.md
+[strips]: assets/strips.jpg
+[k2]: assets/k2.jpg
