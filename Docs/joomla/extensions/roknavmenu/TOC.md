@@ -4,7 +4,7 @@ breadcrumb: /joomla:Joomla/!extensions:Extensions/!roknavmenu:RokNavMenu
 
 details: http://www.rockettheme.com/joomla/extensions/roknavmenu
 download: http://www.rockettheme.com/joomla/extensions/roknavmenu/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-roknavmenu/
+support: http://www.rockettheme.com/forum/phpbb-administration-modules
 
 ---
 
