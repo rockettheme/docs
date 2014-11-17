@@ -60,7 +60,7 @@ more:
 
 * Club Themes
 
-	- [Chimera](themes/nuance)
+	- [Chimera](themes/chimera)
 	- [Nuance](themes/nuance)
 	- [Tessellate](themes/tessellate)
 	- [Plethora](themes/plethora)
