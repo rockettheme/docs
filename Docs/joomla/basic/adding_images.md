@@ -15,9 +15,9 @@ Adding Images to Articles
 ---------
 ![][add_image_1]
 
-:   1. **Editor** This button allows you to insert an image and modify the details of an existing one. [35%, 31%]
-    2. **Image Button** This is the primary built-in image tool for Joomla. It gives you direct access to your media directory, as well as the ability to upload a new image without having to navigate away from the article editing page. [55%, 19%]
-    3. **Images and Links** Fields under **Images and Links** are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. [69%, 20%]
+:   1. **Editor** This button allows you to insert an image and modify the details of an existing one. [35%, 33%, nw]
+    2. **Image Button** This is the primary built-in image tool for Joomla. It gives you direct access to your media directory, as well as the ability to upload a new image without having to navigate away from the article editing page. [59%, 17%, se]
+    3. **Images and Links** Fields under **Images and Links** are used to set images in a place pre-determined by the template. This could be in conjunction with an extension or within the template's built-in parameters itself. [65%, 7%, se]
 
 The little **image icon** (point 1) in the text editor is included and supported by the editor itself. Some editors (like TinyMCE pictured above) have very basic image insertion tools. Generally, this tool is used to modify an image that has already been inserted into an article by way of the Image button located below the main text field. 
 
@@ -29,10 +29,10 @@ Fields under **Images and links** (point 3) are used to set images in a place pr
 
 ![][add_image_2]
 
-:   1. **Select** This field is where you select the image within your media directory you wish to use in this instance. [19%, 20%]
-    2. **Image Float** This option allows you to set where (in relation to text) the image will appear. Not all modules or templates support this option. [25%, 20%]
-    3. **Alt Text** This gives you the ability to insert text which appears in place of the image when image rendering is unavailable. [32%, 20%]
-    4. **Caption** This field allows you to set the text which appears as a caption to the image in supported instances. [39%, 20%]
+:   1. **Select** This field is where you select the image within your media directory you wish to use in this instance. [19%, 25%, se]
+    2. **Image Float** This option allows you to set where (in relation to text) the image will appear. Not all modules or templates support this option. [26%, 25%, se]
+    3. **Alt Text** This gives you the ability to insert text which appears in place of the image when image rendering is unavailable. [33%, 25%, se]
+    4. **Caption** This field allows you to set the text which appears as a caption to the image in supported instances. [40%, 25%, se]
 
 The **Images and Links** area of the article editing screen gives you the ability to add images in a way that is supported natively by various templates and modules. 
 
@@ -44,9 +44,9 @@ The **Caption** (point 4) is whatever you would like to appear as a caption on t
 
 ![][add_image_3]
 
-:   1. **Link Property** The link you wish to link to. It can be a YouTube link, a local image, a remote image, etc. [15%, 40%]
-    2. **Title** Many links sharing the same album will can be navigated. [43%, 22%]
-    3. **Insert** This adds the selected file(s) to your article. [12%, 71%]
+:   1. **Link Property** The link you wish to link to. It can be a YouTube link, a local image, a remote image, etc. [15%, 39%, sw]
+    2. **Albums** Images can be easily navigated by folder (album). [30%, 12%, se]
+    3. **Insert** This adds the selected file(s) to your article. [12%, 76%, se]
 
 The Joomla media management tool gives you the ability to access files in your media directories, as well as upload new ones. You can access this popup by hitting the **Image** button under the text editor of your new article page.
 
@@ -56,13 +56,13 @@ If you wish to use an image hosted separately from your site, or define the imag
 
 ![][add_image_4]
 
-:   1. **Image URL** This indicates where the selected (or external) file is located. [17%, 35%]
-    2. **Image Description** A description for the image which will appear on mouseover. [37%, 35%]
-    3. **Caption** This sets the caption (if you want one) that will appear around the image on the article. [48%, 35%]
-    4. **Align** The image's location in relation to surrounding text. None allows for the template default. [17%, 75%]
-    5. **Image Title**  The title of the image. [37%, 75%]
-    6. **Choose Files** Allows you to select the file in your local drive for upload. [72%, 23%]
-    7. **Start Upload** Uploads the new file and adds it to your media directory. [72%, 67%]
+:   1. **Image URL** This indicates where the selected (or external) file is located. [17%, 35%, sw]
+    2. **Image Description** A description for the image which will appear on mouseover. [37%, 35%, sw]
+    3. **Caption** This sets the caption (if you want one) that will appear around the image on the article. [48%, 35%, sw]
+    4. **Align** The image's location in relation to surrounding text. None allows for the template default. [17%, 75%, sw]
+    5. **Image Title**  The title of the image. [37%, 75%, sw]
+    6. **Choose Files** Allows you to select the file in your local drive for upload. [72%, 23%, se]
+    7. **Start Upload** Uploads the new file and adds it to your media directory. [72%, 67%, sw]
 
 The lower portion of the utility gives you control over how the selected image appears in your article. It also allows you to set an external URL for instances where an image you need to insert is purposely hosted elsewhere (point 1). 
 
@@ -72,10 +72,10 @@ If you have not yet added your new image to the media library, you can do so usi
 
 ![][add_image_5]
 
-:   1. **Dimensions** This sets the dimensions of the image as it appears on the article. [37%, 40%]
-    2. **Border** This option allows you to set a border thickness in the event that you wish to have a border around your image. Some templates may offer mixed support for this option. [43%, 32%]
-    3. **Vertical and Horizontal Space** This option allows you to specificy the amount of space between your text and the image. [50%, 32%]
-    4. **Update** This locks in the changes you have made using this tool. [70%, 24%]
+:   1. **Dimensions** This sets the dimensions of the image as it appears on the article. [37%, 44%, sw]
+    2. **Border** This option allows you to set a border thickness in the event that you wish to have a border around your image. Some templates may offer mixed support for this option. [43%, 30%, se]
+    3. **Vertical and Horizontal Space** This option allows you to specificy the amount of space between your text and the image. [50%, 30%, se]
+    4. **Update** This locks in the changes you have made using this tool. [70%, 12%, se]
 
 The integrated image tool built in to TinyMCE is very simple, though it does offer several useful features for refining how your image looks when placed in the inline editor.
 

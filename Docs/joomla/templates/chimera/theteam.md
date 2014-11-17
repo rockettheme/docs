@@ -285,16 +285,16 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Options
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background-Image | Blank       |
+|           Option          | Setting |
+| :------------------------ | :------ |
+| Prepare Content           | No      |
+| Select a Background-Image | Blank   |
 
 #### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | `rt-center` |
+|        Option       |     Setting      |
+| :------------------ | :--------------- |
+| Module Class Suffix | `rt-center box2` |
 
 ### Custom HTML - Support Assistants
 
