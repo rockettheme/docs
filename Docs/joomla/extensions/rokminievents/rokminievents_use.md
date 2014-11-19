@@ -18,17 +18,16 @@ Below, we have outlined the options available to you as you configure your RokMi
 
 ### Basic Options
 
-![Basic Options](assets/module_1.jpeg)
+![Basic Options](assets/module_1.png)
 
 :   1. **Built-in CSS** This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template. [13%, 46%, se]
-    2. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [35%, 47%, se]
-    3. **OAuth Email Address** This is the email address assigned by the Google Calendar API to your project's service account. [41%, 47%, se]
-    4. **P12 Key Location** This is the local location of the P12 key file you received when setting up the Service Account in Google Developer's Console. [48%, 47%, se]
-    5. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [55%, 47%, se]
-    6. **Show Past Events** Shows events that have already passed from the Google Calendar resource. [62%, 47%, se]
-    7. **Max Results** A maximum number of results that will appear in the module. [69%, 47%, se]
-    8. **Feed Cache** Sets a cache time between feed resets. [76%, 47%, se]
-    9. **Link to Google** Allows you to add or remove a link to the Google calendar. [83%, 47%, se]
+    2. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [36%, 47%, se]
+    3. **OAuth Email Address** This is the email address assigned by the Google Calendar API to your project's service account. [44%, 47%, se]
+    4. **P12 Key Location** This is the local location of the P12 key file you received when setting up the Service Account in Google Developer's Console. [51%, 47%, se]
+    5. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [59%, 47%, se]
+    7. **Max Results** A maximum number of results that will appear in the module. [67%, 47%, se]
+    8. **Feed Cache** Sets a cache time between feed resets. [74%, 47%, se]
+    9. **Link to Google** Allows you to add or remove a link to the Google calendar. [82%, 47%, se]
 
 1. **Built-in CSS**: This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template.
 
@@ -44,13 +43,11 @@ Below, we have outlined the options available to you as you configure your RokMi
 
     You can obtain the calendar ID for a calendar you have appropriate permissions to by visiting the calendar in your browser and navigating to **Settings > Calendars**, selecting the calendar you wish you use, and copying the **Calendar ID** located in the **Calendar Address** section of the page.
 
-6. **Show Past Events**: Shows events that have already passed from the Google Calendar resource.
+6. **Max Results**: A maximum number of results that will appear in the module.
 
-7. **Max Results**: A maximum number of results that will appear in the module.
+7. **Feed Cache**: Sets a cache time between feed resets.
 
-8. **Feed Cache**: Sets a cache time between feed resets.
-
-9. **Link to Google**: Allows you to add or remove a link to the Google calendar.
+8. **Link to Google**: Allows you to add or remove a link to the Google calendar.
 
 
 ![Basic Options](assets/module_2.jpeg)

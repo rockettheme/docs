@@ -12,6 +12,25 @@ In previous versions of RokMiniEvents, we were able to utilize Google's v1 and v
 
 Below is our step-by-step process for achieving this using the new API.
 
+Google Calendar Settings
+-----
+
+With the release of Google's Calendar API v3, some calendars which existed and worked off previously may no longer be immediately accessible to third-party applications. This can be frustrating, but there is a way around it.
+
+![](assets/google_8.png)
+
+First, you should make sure that the calendar you are linking to RokMiniEvents is set to **Public**. This ensures that RokMiniEvents is able to access it. You can do this by navigating to the calendar's settings and selecting the **Share this Calendar** tab. After that, simply select **Make this Calendar to Public** and click **Save**.
+
+Your calendar is now set to public, and should be accessible by RokMiniEvents. 
+
+![](assets/google_7.png)
+
+:   1. **Visiblity** Set the event's visibility settings here. [80%, 10%, se]
+
+Older calendars may have event-specific defaults set in a way that makes them invisible to the v3 API. This can be corrected by going to the event's settings and checking off **Calendar Default** under **Visibility**. If this does not work, you can set the individual event(s) to **Public**. 
+
+Newer calendars should work just fine with a **Public** calendar and events set to **Calendar Default**.
+
 Google Developers Console
 -----
 
