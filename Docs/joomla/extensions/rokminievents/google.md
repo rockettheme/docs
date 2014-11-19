@@ -30,6 +30,7 @@ Here are the steps to create a new project and generate the necessary informatio
 5. If you have not already, search for the **Calendar API** and set the **Status** to **On**.
 6. Navigate to **APIs and Auth > Credentials** from the **sidebar**.
 7. Select **Create new Client ID**.
+    ![](assets/google_4.png)
 8. In the popup, select **Service Account** and click **Create Client ID**.
 9. After a few seconds, you should receive a popup indicating that a **New Public/Private key pair** has been generated. Click **Okay, got it** to continue.
 
