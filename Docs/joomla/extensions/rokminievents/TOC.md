@@ -16,3 +16,4 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokminievents/
     * [Requirements](INDEX.md#requirements)
     * [How to Install](INDEX.md#how-to-install)
     * [Setup](rokminievents_use.md)
+    * [Google Calendar API](google.md)
