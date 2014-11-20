@@ -1,7 +1,7 @@
 ---
-title: RokMiniEvents
+title: RokMiniEvents: Setup
 description: Your Guide to Using RokMiniEvents for Joomla
-breadcrumb: /joomla:Joomla/!extensions:Extensions/RokMiniEvents:RokMiniEvents
+breadcrumb: /joomla:Joomla/!extensions:Extensions/RokMiniEvents:RokMiniEvents/Setup:rokminievents_use
 
 ---
 
@@ -14,51 +14,55 @@ Creating a new module is a simple process, as well. You just navigate to the **M
 
 Below, we have outlined the options available to you as you configure your RokMiniEvents module.
 
+>> NOTE: In order to properly link RokMiniEvents to a Google Calendar, you will need to create a project in the [Google Developers Console](https://console.developers.google.com/), activate the **Google Calendar** api, create a new **Service Account Client ID**, and add the P12 key file to your site's file system. We have provided a [step-by-step guide](google.md) to assist you.
+
 ### Basic Options
 
-![][module1]
+![Basic Options](assets/module_1.png)
 
-:   1. **Built-in CSS** This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template. [21%, 46%, se]
-    2. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [45%, 47%, se]
-    3. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [53%, 47%, se]
-    4. **Show Past Events** Shows events that have already passed from the Google Calendar resource. [60%, 47%, se]
-    5. **Max Results** A maximum number of results that will appear in the module. [67%, 47%, se]
-    6. **Feed Cache** Sets a cache time between feed resets. [74%, 47%, se]
-    7. **Link to Google** Allows you to add or remove a link to the Google calendar. [82%, 47%, se]
+:   1. **Built-in CSS** This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template. [13%, 46%, se]
+    2. **Enable Google Calendar** This enables and/or disables Google Calendar support for the module. [36%, 47%, se]
+    3. **OAuth Email Address** This is the email address assigned by the Google Calendar API to your project's service account. [44%, 47%, se]
+    4. **P12 Key Location** This is the local location of the P12 key file you received when setting up the Service Account in Google Developer's Console. [51%, 47%, se]
+    5. **Calendar ID** Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. [59%, 47%, se]
+    7. **Max Results** A maximum number of results that will appear in the module. [67%, 47%, se]
+    8. **Feed Cache** Sets a cache time between feed resets. [74%, 47%, se]
+    9. **Link to Google** Allows you to add or remove a link to the Google calendar. [82%, 47%, se]
 
 1. **Built-in CSS**: This setting allows you to opt to use RokMiniEvent's built-in CSS properties, or that of your template.
 
 2. **Enable Google Calendar**: This enables and/or disables Google Calendar support for the module.
 
-3. **Calendar ID**: Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module.
+3. **OAuth Email Address**: This is the email address assigned by the Google Calendar API to your project's service account. You can find more information about obtaining this address in our [quick guide](google.md).
 
-4. **Show Past Events**: Shows events that have already passed from the Google Calendar resource.
+4. **P12 Key Location**: This is the local location of the P12 key file you received when setting up the Service Account in Google Developer's Console. This file should download automatically upon selecting **Service Account** during the initial project setup. 
 
-5. **Max Results**: A maximum number of results that will appear in the module.
+    We recommend placing this file in `/media/mod_rokminievents/` as this is the default location pre-filled in the field. You can, of course, place it anywhere you would like. You will also need to change the name of the file in this field to match the name of the file given to you by Google. **Do not change the name of the file itself!**
 
-6. **Feed Cache**: Sets a cache time between feed resets.
+5. **Calendar ID**: Enter the Google Calendar ID (in email address form) to add a Google calendar as a resource for the module. 
 
-7. **Link to Google** Allows you to add or remove a link to the Google calendar.
+    You can obtain the calendar ID for a calendar you have appropriate permissions to by visiting the calendar in your browser and navigating to **Settings > Calendars**, selecting the calendar you wish you use, and copying the **Calendar ID** located in the **Calendar Address** section of the page.
 
-![][module5]
+6. **Max Results**: A maximum number of results that will appear in the module.
 
-:   1. **Sort Order** This option determines the order by which events display. [23%, 43%, se]
-    2. **Time Range Type** Allows you to set whether to use a predefined time span or a time range of events to display. [33%, 43%, se]
-    3. **Starting From** Starting date for events to be listed. Only applicable when using the **Time Span** range type. [43%, 43%, se]
-    4. **Ending At** Ending date for events to be listed. Only applicable when using the **Time Span** range type. [54%, 43%, se]
-    5. **Ranges** Sets a predefined range of time events are listed. If you set current year, only events from the current year will display. [76%, 43%, se]
+7. **Feed Cache**: Sets a cache time between feed resets.
+
+8. **Link to Google**: Allows you to add or remove a link to the Google calendar.
+
+
+![Basic Options](assets/module_2.jpeg)
+
+:   1. **Sort Order** This option determines the order by which events display. [30%, 47%, se]
+    2. **Time Range Type** Allows you to set whether to use a predefined time span or a time range of events to display. [40%, 47%, se]
+    5. **Ranges** Sets a predefined range of time events are listed. If you set current year, only events from the current year will display. [68%, 47%, se]
 
 1. **Sort Order**: This option determines the order by which events display.
 
 2. **Time Range Type**: Allows you to set whether to use a predefined time span or a time range of events to display.
 
-3. **Starting From**: Starting date for events to be listed. Only applicable when using the **Time Span** range type.
-
-4. **Ending At**: Ending date for events to be listed. Only applicable when using the **Time Span** range type.
-
 5. **Ranges**: Sets a predefined range of time events are listed. If you set current year, only events from the current year will display.
 
-![][module2]
+![Basic Options](assets/module_3.jpeg)
 
 :	1. **Show Description** Shows or Hides the description of a particular item. [12%, 46%, se]
 	2. **Allowed HTML Tags** Sets the allowed HTML tags for the module. (default `a,i,br`) [17%, 46%, se]
