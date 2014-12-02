@@ -40,7 +40,7 @@ Below is a brief rundown of the modules used to make up the demo page.
     4. **Custom HTML - Our Core Service** [48%, 13%, se]
     5. **Article Content** [60%, 13%, se]
     6. **Custom HTML - Grid System** [35%, 13%, se]
-    7. **Custom HTML - Save Your Time and Effort** [71%, 33%, se]
+    7. **Custom HTML - Save Yourself Time and Effort** [71%, 33%, se]
     8. **Custom HTML - Myriad Demo** [78%, 13%, se]
     9. **Custom HTML - Sample Contact Info** [78%, 52%, se]
 
@@ -50,7 +50,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 4. [Custom HTML - Our Core Service](services.md#custom-html---our-core-service)
 5. [Article Content](services.md#mainbody)
 6. [Custom HTML - Grid System](services.md#custom-html---grid-system)
-7. [Custom HTML - Save Your Time and Effort](services.md#custom-html---save-your-time-and-effort)
+7. [Custom HTML - Save Yourself Time and Effort](services.md#custom-html---save-your-time-and-effort)
 8. [Custom HTML - Myriad Demo](services.md#custom-html---myriad-demo)
 9. [Custom HTML - Sample Contact Info](services.md#custom-html---sample-contact-info)
 
@@ -405,7 +405,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :------------------ | :------------------ |
 | Module Class Suffix | `box3 nopaddingall` |
 
-### Custom HTML - Save Your Time and Effort
+### Custom HTML - Save Yourself Time and Effort
 
 ![][servicespage8]
 
@@ -413,7 +413,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option      | Setting                     |
 | :---------- | :-----------                |
-| Title       | `Save Your Time and Effort` |
+| Title       | `Save Yourself Time and Effort` |
 | Show Title  | Show                        |
 | Position    | extension-a                 |
 | Status      | Published                   |

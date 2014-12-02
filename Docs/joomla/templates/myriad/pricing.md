@@ -63,9 +63,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 1. [Custom HTML - Pricing](pricing.md#custom-html---pricing)
 2. [Breadcrumbs](pricing.md#breadcrumbs)
-3. [Article Content](pricing.md#custom-html---about-us:-introduction)
-4. [Custom HTML - Try it Out for 10 Days Free](pricing.md#mainbody)
-5. [Custom HTML - No Hidden Fee](pricing.md#custom-html---about-us:-our-mission---our-values---our-solution)
+3. [Article Content](pricing.md#mainbody)
+4. [Custom HTML - Try it Out for 10 Days Free](pricing.md#custom-html---try-it-out-for-10-days-free)
+5. [Custom HTML - No Hidden Fee](pricing.md#custom-html---no-hidden-fee)
 6. [Custom HTML - Myriad Demo](pricing.md#custom-html---myriad-demo)
 7. [Custom HTML - Sample Contact Info](pricing.md#custom-html---sample-contact-info)
 

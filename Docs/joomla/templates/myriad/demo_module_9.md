@@ -1,11 +1,11 @@
 ---
-title: Myriad: Recreating the Demo - Slideshow 2
+title: Myriad: Recreating the Demo - MainBody
 description: Your Guide to Recreating Elements of the Myriad Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
 
-Slideshow 2
+MainBody
 -----
 
 ![][demo]
@@ -25,7 +25,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 
 :   1. **Intro Articles** [32%, 25%, se]
 
-In order to show two featured articles on the front page, we placed a `1` in the **Intro Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**. We also turned **Linked Titles** off in the **Article Options** menu.
+In order to show one featured article on the front page, we placed a `1` in the **Intro Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**. We also turned **Linked Titles** off in the **Article Options** menu.
 
 Article Properties
 -----

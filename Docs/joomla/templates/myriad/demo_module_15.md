@@ -1,11 +1,11 @@
 ---
-title: Myriad: Recreating the Demo - About Us
+title: Myriad: Recreating the Demo - Footer Menu
 description: Your Guide to Recreating Elements of the Myriad Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
 
-About Us
+Footer Menu
 -----
 
 ![][demo]

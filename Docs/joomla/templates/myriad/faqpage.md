@@ -15,7 +15,7 @@ Mainbody
 
 ![][faqpage6]
 
-The page's content body is set in the **About Us** article. You will find the content used in the article below.
+The page's content body is set in the **FAQ** article. You will find the content used in the article below.
 
 ~~~ .html
 <h3>Common Queries and Questions</h3>
@@ -47,7 +47,7 @@ Below is a brief rundown of the modules used to make up the demo page.
     7. **Custom HTML - Sample Contact Info** [75%, 52%, se]
 
 1. [Custom HTML - FAQ](faqpage.md#custom-html---faq)
-2. [Breadcrumbs](faqpage#breadcrumbs)
+2. [Breadcrumbs](faqpage.md#breadcrumbs)
 2. [Custom HTML - Forum Support](faqpage.md#custom-html---forum-support)
 3. [Article Content](faqpage.md#mainbody)
 4. [RokSprocket Lists](faqpage.md#roksprocket-lists)

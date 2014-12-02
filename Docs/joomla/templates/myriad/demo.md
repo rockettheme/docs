@@ -89,14 +89,6 @@ Only options that are different from the Master copy will take hold on the menu 
 
 It would be a good idea for organization to name this override something like **Myriad - Home** as it would be used only for the front page of your site.
 
-#### Assignments
-
-The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you will want to select **Home** in the Menu Assignments tab..
-
-Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
-
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
-
 Animation
 -----
 

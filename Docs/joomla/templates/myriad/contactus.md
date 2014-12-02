@@ -29,7 +29,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 2. [Custom HTML - Contact Info](contactus.md#custom-html---contact-info)
 3. [Custom HTML - Got Billing and Payments Questions?](contactus.md#custom-html---got-billing-and-payments-questions?)
 4. [Custom HTML - Myriad Demo](contactus.md#custom-html---myriad-demo)
-5. [Custom HTML - Sample Contact Info](contactus.md#contactus.md#custom-html---sample-contact-info)
+5. [Custom HTML - Sample Contact Info](contactus.md#custom-html---sample-contact-info)
 
 ### Custom HTML - Contact Us
 
@@ -37,13 +37,13 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module
 
-| Option      | Setting                                                                      |
-| :---------- | :-----------                                                                 |
-| Title       | `Contact Us[span class="rt-title-tag"]We Would Love to Hear From You[/span]` |
-| Show Title  | Yes                                                                          |
-| Position    | showcase-a                                                                   |
-| Status      | Published                                                                    |
-| Access      | Public                                                                       |
+|   Option   |                               Setting                               |
+| :--------- | :------------------------------------------------------------------ |
+| Title      | `Contact Us[span class="rt-title-tag"]Keep in Touch with Us[/span]` |
+| Show Title | Yes                                                                 |
+| Position   | showcase-a                                                          |
+| Status     | Published                                                           |
+| Access     | Public                                                              |
 
 >> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 

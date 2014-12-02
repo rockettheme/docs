@@ -13,7 +13,7 @@ Introduction
 Mainbody
 -----
 
-![][theteampage5]
+![][theteampage6]
 
 The page's content body is set in the **The Team** article. You will find the content used in the article below.
 
