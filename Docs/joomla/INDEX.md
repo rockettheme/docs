@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Myriad](templates/myriad)
 	- [Ricochet](templates/ricochet)
 	- [Chimera](templates/chimera)
 	- [Nuance](templates/nuance)

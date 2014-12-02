@@ -15,7 +15,7 @@ This area of the front page is an article. Articles appear within the **MainBody
 Turning on MainBody Content
 -----
 
-This content appears on the front page because the **Display MainBody** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Camber -> Advanced**.
+This content appears on the front page because the **Display MainBody** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Somaxiom -> Advanced**.
 
 ![][advanced]
 
