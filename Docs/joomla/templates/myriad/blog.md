@@ -13,7 +13,7 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 Mainbody
 -----
 
-![][blogpage3]
+![][blogpage4]
 
 The page's content body is set to display articles in the **Sample Blog** category. The first article is the **Powered by Gantry Framework** article. You will find the content used in the article below.
 
