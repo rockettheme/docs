@@ -124,6 +124,71 @@ In order for the sample content to appear properly in conjunction with RokBooste
 /templates/rt_myriad/roksprocket/layouts/strips/themes/apollo/apollo.css
 ~~~
 
+RokSprocket and RocketLauncher Settings
+------
+
+Some aspects of the RokSprocket demo content in the Slideshow position are hard-coded in the **demo.less** file. This includes images for the following modules:
+
+* [Slideshow - RokSprocket (Features)](demo_module_1.md)
+* [FullStrip - RokSprocket (Strips)](demo_module_2.md)
+* [FirstFullWidth - RokSprocket (Features)](demo_module_3.md)
+
+If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-presets-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
+
+To switch the **Demo Style** setting, you will need to navigate to **Administration -> Template Manager -> Chimera Template** and selecting the **Style** tab. By default, this setting will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
+
+For reference, and in the event that you wish to modify this code to meet your individual needs, here is the section of the demo.less file that sets this behavior.
+
+~~~ .css
+// Demo Preset Images
+.demostyleImage(@index) when (@index > 0) {
+    (~".demostyle-type-preset@{index}") {
+        .fp-preset-images {
+            &.fp-slideshow .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image {
+                background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
+                background-position: center;
+            }
+
+            &.fp-roksprocket-strips-fullstrip {
+                .sprocket-strips-apollo-item {
+                    img {
+                        background-size: 100%;
+                    }
+                    img[src$="img-01.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-01-preset-@{index}.jpg);
+                    }
+                    img[src$="img-02.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-02-preset-@{index}.jpg);
+                    }
+                    img[src$="img-03.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-03-preset-@{index}.jpg);
+                    }
+                    img[src$="img-04.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-04-preset-@{index}.jpg);
+                    }
+                    img[src$="img-05.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-05-preset-@{index}.jpg);
+                    }
+                    img[src$="img-06.jpg"] {
+                        background-image: url(../../../images/rocketlauncher/home/fp-fullstrip/img-06-preset-@{index}.jpg);
+                    }
+                }
+            }
+
+            &.fp-roksprocket-slideshow-firstfullwidth .sprocket-features-index-1 .sprocket-features-img-container img {
+                background-image: url(../../../images/rocketlauncher/home/fp-firstfullwidth/img-01-preset-@{index}.jpg) !important;
+                background-position: center;
+            }
+        }
+    }
+    .demostyleImage(@index - 1);
+}
+.demostyleImage(6);
+.demostyle-type-preset4 .fp-preset-images.fp-roksprocket-slideshow-firstfullwidth .sprocket-features-index-1 .sprocket-features-img-container img {
+    background-position: top left;
+}
+~~~
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox

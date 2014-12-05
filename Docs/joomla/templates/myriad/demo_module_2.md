@@ -13,6 +13,8 @@ FP RokSprocket Strips - FullStrip
 
 We used a **RokSprocket** module with the **Strips** layout to make up this area of the front page. You will find the settings used in our demo below.
 
+>> NOTE: If you are using the the RocketLauncher, there are some special instructions concerning the handling of the preset images for this module. If you notice your images aren't changing as expected, or if you would like more information on how this was set up, you can find it [here](demo.md#roksprocket-and-rocketlauncher-settings).
+
 ### Details
 
 ![][demo2]
