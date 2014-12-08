@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Myriad](styles/myriad)
 	- [Ricochet](styles/ricochet)
 	- [Chimera](styles/chimera)
 	- [Nuance](styles/nuance)
