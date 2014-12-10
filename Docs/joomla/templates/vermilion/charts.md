@@ -28,7 +28,7 @@ You can toggle this feature on and off by navigating to **Administrator -> Exten
 Here is the code block that creates the graph that appears in the above image.
 
 ~~~ .html
-<canvas id="myChart" height="320" width="977"></canvas>
+<canvas id="myChart-a" height="320" width="977"></canvas>
 <script type="text/javascript">
                 var lineChartData = {
                     labels : ["Joomla","Wordpress","Magento","phpBB","Kunena","Email","Forum"],
