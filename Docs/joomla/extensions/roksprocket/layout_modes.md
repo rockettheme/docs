@@ -40,6 +40,27 @@ Here is a list of layouts you can choose from on this page.
 * [Sliders][sliders_link]
 * [Tables][tables_link]
 
+Layout Themes
+-----
+
+Layout themes allow for RokSprocket to have some variance of styling for each layout mode. For example, the **Features** layout mode has three built-in themes (Slideshow, Slideshow2, and Showcase) each giving it a totally different look while maintaining the same general features and functionality.
+
+Layout themes included with RokSprocket act as a styling guide, so even if your template is not built with RokSprocket in mind, it can still work and look great.
+
+#### Custom Layout Theme Overrides
+
+RokSprocket **Layout Modes** each come with one or more integrated layout **Themes**. It is possible for a template to tweak existing or add additional themes in order to provide custom styling that gives a layout mode a look that is unique to the template. 
+
+##### How RokSprocket Uses Custom Themes
+
+RocketTheme uses this method on occasion. If you are using a RocketTheme template with custom styling for RokSprocket themes or even custom themes, you can find these override themes by navigating to **/site/templates/(template folder)/roksprocket/**. 
+
+In this directory, you will find folders with the names of overridden **Layout Modes**. Inside those directories, folders with the names of the theme or themes with custom styling. You may even find a folder with a name that doesn't coincide with one of RocketTheme's built-in themes. These folders add new themes. For example, in the **Myriad** template, we added **Apollo** and **xScroll** themes using this method.
+
+##### How to Create New Overrides
+
+If you want to create overrides of your own, simply copy the theme's folder found by going to **/site/components/com_roksprocket/layouts/(mode name)/(theme name)** and paste it to **/site/templates/(template folder)/roksprocket/(mode name)/**. From here, you can edit its contents to meet your new template's unique needs. 
+
 Content Providers
 -----
 

@@ -99,6 +99,8 @@ Animated Content Effects
 | Default Article Image | Default Article Image |  
 | Default Link          | Default Article Link  |  
 
+>> The **Full Slideshow** theme is unique to Myriad and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../extensions/roksprocket/layout_modes.md#custom-layout-theme-overrides).
+
 ### Advanced
 
 ![][demo4]

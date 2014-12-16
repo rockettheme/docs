@@ -96,6 +96,9 @@ We utilized the **Simple** Content Provider, allowing us to create custom conten
 | Default Article Image | Default Article Image |
 | Default Link          | Default Article Link  |
 
+>> The **Scroller** theme is unique to Nuance and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../extensions/roksprocket/layout_modes.md#custom-layout-theme-overrides).
+
+
 ### Advanced
 
 ![][demo4]

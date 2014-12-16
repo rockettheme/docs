@@ -28,11 +28,11 @@ We used a **RokSprocket** module with the **Strips** layout to make up this area
 
 ### Simple Item Example
 
-| Option |                Setting                |
-| :----- | :------------------------------------ |
+| Option |      Setting      |
+| :----- | :---------------- |
 | Title  | `Rich Typography` |
-| Image  | Custom                                |
-| Link   | Custom                                |
+| Image  | Custom            |
+| Link   | Custom            |
 
 #### Description
 
@@ -58,6 +58,8 @@ Clean and custom font choices individualize your content, alongside FontAwesome'
 | Autoplay          | Disable      |
 | Autoplay Delay    | 5            |
 | Image Resize      | Disable      |
+
+>> The **xScroll** theme is unique to Myriad and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../extensions/roksprocket/layout_modes.md#custom-layout-theme-overrides).
 
 ### Advanced
 
