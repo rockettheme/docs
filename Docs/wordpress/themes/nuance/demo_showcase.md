@@ -58,6 +58,9 @@ Here is a look at the **Features Layout Options** for this widget.
 | Autoplay Delay   | 5             |
 | Image Resize     | Disable       |
 
+>> The **Scroller** theme is unique to Nuance and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../plugins/roksprocket/layout_modes.md#custom-layout-theme-overrides).
+
+
 You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.

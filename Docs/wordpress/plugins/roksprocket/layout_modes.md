@@ -39,6 +39,20 @@ You can jump to a specific layout mode using the menu in the sidebar, or clickin
 * [Sliders][sliders_link]
 * [Tables][tables_link]
 
+#### Custom Layout Theme Overrides
+
+RokSprocket **Layout Modes** each come with one or more integrated layout **Themes**. It is possible for a theme to tweak existing or add additional themes in order to provide custom styling that gives a layout mode a look that is unique to the theme. 
+
+##### How RokSprocket Uses Custom Themes
+
+RocketTheme uses this method on occasion. If you are using a RocketTheme theme with custom styling for RokSprocket themes or even custom themes, you can find these override themes by navigating to **/site/wp-content/themes/(theme folder)/roksprocket/**. 
+
+In this directory, you will find folders with the names of overridden **Layout Modes**. Inside those directories, folders with the names of the theme or themes with custom styling. You may even find a folder with a name that doesn't coincide with one of RocketTheme's built-in themes. These folders add new themes. For example, in the **Myriad** theme, we added **Apollo** and **xScroll** themes using this method.
+
+##### How to Create New Overrides
+
+If you want to create overrides of your own, simply copy the theme's folder found by going to **/site/wp-content/wp_roksprocket/layouts/(mode name)/(theme name)** and paste it to **/site/wp-content/themes/(theme folder)/roksprocket/(mode name)/**. From here, you can edit its contents to meet your new theme's unique needs. 
+
 Content Providers
 -----
 
