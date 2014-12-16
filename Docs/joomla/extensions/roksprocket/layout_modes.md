@@ -51,6 +51,8 @@ Layout themes included with RokSprocket act as a styling guide, so even if your 
 
 RokSprocket **Layout Modes** each come with one or more integrated layout **Themes**. It is possible for a template to tweak existing or add additional themes in order to provide custom styling that gives a layout mode a look that is unique to the template. 
 
+>> NOTE: In order to take advantage of any custom layout theme overrides in a template, that template must be set as the default template in **Template Manager**. If you are using overrides of a single template, the **Master** should be set as default. You can use other templates in your site, as well as overrides of the master, but this is the only way Joomla will know to pull those overrides.
+
 ##### How RokSprocket Uses Custom Themes
 
 RocketTheme uses this method on occasion. If you are using a RocketTheme template with custom styling for RokSprocket themes or even custom themes, you can find these override themes by navigating to **/site/templates/(template folder)/roksprocket/**. 
