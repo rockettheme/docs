@@ -110,6 +110,8 @@ Animation provides an extended layout of visual flair as well as smooth interact
 | Autoplay Delay   | 5             |  
 | Image Resize     | Disable       |  
 
+>> The **Animation** theme is unique to Epsilon and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../extensions/roksprocket/layout_modes.md#custom-layout-theme-overrides).
+
 ### Advanced
 
 ![][demo4]

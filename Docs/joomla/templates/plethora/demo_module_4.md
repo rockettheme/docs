@@ -96,6 +96,9 @@ images/rocketlauncher/home/fp-roksprocket-features-showcase/img-03.jpg
 | Default Link          | Custom                |
 | Custom Article Link   | #                     |
 
+>> The **Scroller** theme is unique to Plethora and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../extensions/roksprocket/layout_modes.md#custom-layout-theme-overrides).
+
+
 ### Advanced
 ![][demo4]
 
