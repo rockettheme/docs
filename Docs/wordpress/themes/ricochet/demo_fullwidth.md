@@ -41,7 +41,7 @@ We used the **Simple Provider** to enable us to create custom RokSprocket conten
 
 <div class="rt-slideshow2-author wow bounceInUp" data-wow-delay="1s">
     <img alt="image" src=
-    "http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-fullwidth/img-author-01.jpg">
+    "http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/home/fp-fullwidth/img-author-01.jpg">
     <span>Martin McDouglas</span>
 </div>
 ~~~

@@ -22,7 +22,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-50">
       <div class="rt-image-promo">
         <div class="rt-image-overlay">
-          <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-bottom/img-01.jpg" alt="image" />
+          <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/home/fp-bottom/img-01.jpg" alt="image" />
         </div>
         <div class="rt-image-content-wrapper">
           <div class="rt-image-content">
@@ -39,7 +39,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-50">
       <div class="rt-image-promo">
         <div class="rt-image-overlay">
-          <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-bottom/img-02.jpg" alt="image" />
+          <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/home/fp-bottom/img-02.jpg" alt="image" />
         </div>
         <div class="rt-image-content-wrapper">
           <div class="rt-image-content">

@@ -95,7 +95,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <div class="rt-image">
-    <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-sidebar/img-04.jpg" alt="image" />
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/home/fp-sidebar/img-04.jpg" alt="image" />
     <div class="rt-corner-triangle"><span class="fa fa-mobile"></span></div>
 </div>
 <div class="rt-box-content">

@@ -36,7 +36,7 @@ The page's content body is set in the **Portfolio** page. You will find the cont
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <span class="rt-image">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-17.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-17.jpg" alt="image" />
             </span>
         </div>
     </div>
@@ -257,27 +257,27 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-container">
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/wordpress-themes/hadron"><img class="rt-transparent-image" src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-18.png" alt="image" /></a>
+            <a href="http://www.rockettheme.com/wordpress-themes/hadron"><img class="rt-transparent-image" src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-18.png" alt="image" /></a>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/wordpress-themes/acacia"><img class="rt-transparent-image" src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-19.png" alt="image" /></a>
+            <a href="http://www.rockettheme.com/wordpress-themes/acacia"><img class="rt-transparent-image" src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-19.png" alt="image" /></a>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/wordpress-themes/corvus"><img class="rt-transparent-image" src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-20.png" alt="image" /></a>
+            <a href="http://www.rockettheme.com/wordpress-themes/corvus"><img class="rt-transparent-image" src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-20.png" alt="image" /></a>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/wordpress-themes/spectral"><img class="rt-transparent-image" src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-21.png" alt="image" /></a>
+            <a href="http://www.rockettheme.com/wordpress-themes/spectral"><img class="rt-transparent-image" src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-21.png" alt="image" /></a>
         </div>
     </div>
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
-            <a href="http://www.rockettheme.com/wordpress-themes/stratos"><img class="rt-transparent-image" src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-22.png" alt="image" /></a>
+            <a href="http://www.rockettheme.com/wordpress-themes/stratos"><img class="rt-transparent-image" src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/portfolio/img-22.png" alt="image" /></a>
         </div>
     </div>
 </div>
@@ -328,7 +328,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 

@@ -27,7 +27,7 @@ Mainbody
 The page's content body is set to display posts in the **Blog** category. The first post is the **Powered by Gantry Framework** article. You will find the content used in the post below.
 
 ~~~ .html
-<p><span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/blog/img-01.jpg" alt="image" /></span></p>
+<p><span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/blog/img-01.jpg" alt="image" /></span></p>
 
 <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
 
@@ -215,7 +215,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 

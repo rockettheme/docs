@@ -110,7 +110,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-container">
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-01.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-01.jpg" alt="image" /></span>
             </div>
         </div>
         <div class="gantry-width-66">
@@ -128,7 +128,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-container">
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-03.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-03.jpg" alt="image" /></span>
             </div>
         </div>
         <div class="gantry-width-66">
@@ -146,7 +146,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-container">
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-02.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-02.jpg" alt="image" /></span>
             </div>
         </div>
         <div class="gantry-width-66">
@@ -186,7 +186,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-04.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-04.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/johnonolan/5378754404/sizes/l/">by JohnONolan</a></span>
             </span>
             <h3 class="nomarginbottom">Enrik Prifti</h3>
@@ -196,7 +196,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-05.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-05.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/thomasleuthard/5807793226/sizes/l/">by Thomas Leuthard</a></span>
             </span>
             <h3 class="nomarginbottom">Laura Richards</h3>
@@ -206,7 +206,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-06.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-06.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/astragony/5959165576/sizes/l/">by Daniele Zedda</a></span>
             </span>
             <h3 class="nomarginbottom">Alex Ward</h3>
@@ -216,7 +216,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-25">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-07.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-07.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/mr-h/4217144639/sizes/l/">by AllansBrain</a></span>
             </span>
             <h3 class="nomarginbottom">Nora Mirone</h3>
@@ -251,7 +251,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-08.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-08.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5327733275/sizes/l/">by carianoff</a></span>
             </span>
             <h3 class="nomarginbottom">John Jensen</h3>
@@ -261,7 +261,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-09.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-09.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/4070347417/sizes/l/">by carianoff</a></span>
             </span>
             <h3 class="nomarginbottom">Tessa Page</h3>
@@ -271,7 +271,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-10.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-10.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5328421868/sizes/l/">by carianoff</a></span>
             </span>
             <h3 class="nomarginbottom">Eric Timofti</h3>
@@ -281,7 +281,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-11.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-11.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5328368478/sizes/l/">by carianoff</a></span>
             </span>
             <h3 class="nomarginbottom">Lydia Back</h3>
@@ -291,7 +291,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-20">
         <div class="gantry-width-spacer">
             <span class="rt-image with-attribution">
-                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-12.jpg" alt="image" />
+                <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/the-team/img-12.jpg" alt="image" />
                 <span class="rt-image rt-attribution"><a href="http://www.flickr.com/photos/carianoff/5327739397/sizes/l/">by carianoff</a></span>
             </span>
             <h3 class="nomarginbottom">Luca Coyle</h3>
@@ -366,7 +366,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 

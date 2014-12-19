@@ -276,7 +276,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-01.jpg" alt="image" /></span>
+            <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-01.jpg" alt="image" /></span>
         </div>
     </div>  
 </div>
@@ -304,7 +304,7 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~ .html
 <div class="gantry-width-container">
     <div class="gantry-width-25">
-    <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-02.jpg" alt="image" />
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-02.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4>Grid System</h4>
         <p>Objectively innovate empowered manufactured products with parallel platforms.</p>
@@ -312,7 +312,7 @@ This section of the page is a standard text widget. You will need to enter the f
 </div>
 
 <div class="gantry-width-25">
-        <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-03.jpg" alt="image" />
+        <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-03.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4>Custom Interface</h4>
         <p>Proactively envisioned multimedia based expertise and effective cross-media strategies.</p>
@@ -320,7 +320,7 @@ This section of the page is a standard text widget. You will need to enter the f
 </div>
 
 <div class="gantry-width-25">
-    <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-04.jpg" alt="image" />
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-04.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4>Flexible Layouts</h4>
         <p>Interactively coordinate proactive e-commerce via process-centric outside the box.</p>
@@ -328,7 +328,7 @@ This section of the page is a standard text widget. You will need to enter the f
 </div>
 
 <div class="gantry-width-25">
-    <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-05.jpg" alt="image" />
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/services/img-05.jpg" alt="image" />
     <div class="gantry-width-spacer">
         <h4>Ultimate Control</h4>
         <p>Holistically pontificate installed base portals after maintainable affordable products.</p>
@@ -401,7 +401,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_ricochet_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 
