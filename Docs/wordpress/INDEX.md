@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Ricochet](themes/ricochet)
 	- [Chimera](themes/chimera)
 	- [Nuance](themes/nuance)
 	- [Tessellate](themes/tessellate)
