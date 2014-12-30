@@ -45,6 +45,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Copyright Style       |          | Text Color: `#686868`, Background Color: `#090d0f`                                |
 | Default | Font Settings         |          | Font Family: Myriad, Font Size: Default                                           |
 
+Myriad's logo, as it appears in our RocketLauncher, is partially text based. You can find more information about changing this logo to meet your needs [here](faq.md#how-to-change-the-logo-as-it-appears-in-the-main-menu).
+
 ### Features
 
 ![Features Settings][features]
