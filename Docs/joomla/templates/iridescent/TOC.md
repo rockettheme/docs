@@ -24,7 +24,7 @@ support: http://www.rockettheme.com/forum/joomla-template-iridescent/
         * [Module Settings](demo.md#module-settings)
             * [Slideshow - RokSprocket (Features)](demo_module_1.md)
             * [Top A - Custom HTML](demo_module_2.md)
-            * [Tob B - Custom HTML](demo_module_3.md)
+            * [Top B - Custom HTML](demo_module_3.md)
             * [Top C - Custom HTML](demo_module_4.md)
             * [Showcase A - RokSprocket (Features)](demo_module_5.md)
             * [Feature A - RokSprocket (Strips)](demo_module_6.md)

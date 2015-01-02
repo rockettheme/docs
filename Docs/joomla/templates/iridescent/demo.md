@@ -27,7 +27,7 @@ Below, you will find the module placement and settings for the various module po
 
 :   1. **Slideshow - RokSprocket (Features)**  [8%, 16%, se]
     2. **Top A - Custom HTML**  [29%, 16%, se]
-    3. **Tob B - Custom HTML**  [29%, 40%, se]
+    3. **Top B - Custom HTML**  [29%, 40%, se]
     4. **Top C - Custom HTML**  [29%, 63%, se]
     5. **Showcase A - RokSprocket (Features)**  [40%, 16%, se]
     6. **Feature A - RokSprocket (Strips)**  [61%, 16%, se]
@@ -42,7 +42,7 @@ We have detailed how to recreate the individual modules pictured above in the li
 
 1. [Slideshow - RokSprocket (Features)](demo_module_1.md)
 2. [Top A - Custom HTML](demo_module_2.md)
-3. [Tob B - Custom HTML](demo_module_3.md)
+3. [Top B - Custom HTML](demo_module_3.md)
 4. [Top C - Custom HTML](demo_module_4.md)
 5. [Showcase A - RokSprocket (Features)](demo_module_5.md)
 6. [Feature A - RokSprocket (Strips)](demo_module_6.md)
@@ -110,7 +110,7 @@ Some aspects of the RokSprocket demo content in the Slideshow position are hard-
 
 * [Slideshow - RokSprocket (Features)](demo_module_1.md)
 
-If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-presets-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
+If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-preset-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
 
 To switch the **Demo Style** setting, you will need to navigate to **Administration -> Template Manager -> Iridescent Template** and selecting the **Style** tab. By default, this setting will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
 

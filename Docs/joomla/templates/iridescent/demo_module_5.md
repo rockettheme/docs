@@ -59,7 +59,7 @@ within RokSprocket.</span></span>
 
 **Title**
 
-~~~
+~~~ .txt
 RokBooster
 ~~~
 
@@ -82,7 +82,7 @@ configuration.</span>
 
 **Title**
 
-~~~ .html
+~~~ .txt
 RokBox
 ~~~
 
