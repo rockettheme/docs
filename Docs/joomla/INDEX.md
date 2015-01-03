@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Iridescent](templates/iridescent)
 	- [Myriad](templates/myriad)
 	- [Ricochet](templates/ricochet)
 	- [Chimera](templates/chimera)
