@@ -17,3 +17,4 @@ breadcrumb: /wordpress:WordPress/!start:Start
     	* [How to Create a Menu](menus.md#how-to-create-a-menu)
     	* [Item Customization](menus.md#item-customization)
     * [How to Create a Post](post.md)
+    * [Responsive Support Classes](responsive_support_classes.md)
