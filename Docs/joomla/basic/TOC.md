@@ -14,7 +14,7 @@ breadcrumb: /joomla:Joomla/!basic:Basic
 	* [How to Create a Menu Module](menu_manager.md#creating-menu-modules)
 	* [How to Add Images to Articles](adding_images.md#adding-images-to-articles)
 	* [How to Add Modules to Articles](how_to_add_a_module_to_an_article.md)
-	* [How to Identify an Existing Module](module_identitification.md)
+	* [How to Identify an Existing Module](module_identification.md)
 * Template Tutorials
 	* [How to Change the Default Logo](how_to_edit_the_logo.md)
 	* [How to Edit Template Text](how_to_edit_template_text.md)
