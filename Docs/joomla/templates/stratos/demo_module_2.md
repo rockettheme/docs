@@ -13,35 +13,35 @@ The RokSprocket Strips module used near the top of the front page is a great way
 ### Details
 ![][ss2]
 
-| Option | Setting |
-|:------|:-------|
-| Title | FP RokSprocket Strips Showcase |
-| Show Title | Hide |
-| Access | Public |
-| Position | showcase-a |
-| Status | Published |
+|   Option   |            Setting             |
+| :--------- | :----------------------------- |
+| Title      | FP RokSprocket Strips Showcase |
+| Show Title | Hide                           |
+| Access     | Public                         |
+| Position   | showcase-a                     |
+| Status     | Published                      |
 
 ### Layout Options
 ![][ss3]
 
-| Option | Setting |
-|:------|:-------|
-| Theme | Default |
-| Display Limit | ∞ |
-| Preview Length | 25 |
-| Strip HTML Tags | No |
-| Previews Per Page | 8 |
-| Items Per Row | 4 |
-| Arrow Navigation | Show |
-| Pagination | Show |
-| Animation | Fade Delayed |
-| Autoplay | Disable |
-| Autoplay Delay | 5 |
-| Image Resize | Disable |
-| Default Title | None |
-| Default Image | Default Article Image |
-| Default Article Text | Default Article Text |
-| Default Link | None |
+|        Option        |        Setting        |
+| :------------------- | :-------------------- |
+| Theme                | Default               |
+| Display Limit        | ∞                     |
+| Preview Length       | 25                    |
+| Strip HTML Tags      | No                    |
+| Previews Per Page    | 8                     |
+| Items Per Row        | 4                     |
+| Arrow Navigation     | Show                  |
+| Pagination           | Show                  |
+| Animation            | Fade Delayed          |
+| Autoplay             | Disable               |
+| Autoplay Delay       | 5                     |
+| Image Resize         | Disable               |
+| Default Title        | None                  |
+| Default Image        | Default Article Image |
+| Default Article Text | Default Article Text  |
+| Default Link         | None                  |
 
 ### Advanced
 ![][ss4]
