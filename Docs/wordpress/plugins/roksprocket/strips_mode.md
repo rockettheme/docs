@@ -13,7 +13,7 @@ Strips displays content in long rectangular blocks, which appear vertically on l
 Themes
 -----
 
-The **Strips** layout mode has four built-in themes. These include: **Default**, **Slideshow2**, and **Showcase**.
+The **Strips** layout mode has four built-in themes. These include: **Default**, **Separated**, **Cards**, and **Parallel**.
 
 ![][default]
 
