@@ -110,15 +110,15 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ![][advanced]
 
-| Style       | Option             | Setting                                                                 |
-| :---------- | :----------        | :----------                                                             |
-| Default     | Gantry Cache       | Enabled: On, Cache Timeout: 900                                         |
-| Default     | Input Styling      | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin'` |
-| Default     | Display Component  | On                                                                      |
-| Default     | Display Mainbody   | On                                                                      |
-| Default     | RTL Support        | On                                                                      |
-| Default     | Build Titles Spans | On                                                                      |
-| Default     | Page Suffix        | On                                                                      |
+|  Style  |       Option      |                                 Setting                                 |
+| :------ | :---------------- | :---------------------------------------------------------------------- |
+| Default | Gantry Cache      | Enabled: On, Cache Timeout: 900                                         |
+| Default | Input Styling     | Enabled: On, Exclusions: `'.content_vote','#rt-popup','#rt-popuplogin'` |
+| Default | Display Component | On                                                                      |
+| Default | RTL Support       | On                                                                      |
+| Default | IE7 Redirect      | On                                                                      |
+| Default | Less Compiler     | CSS Compression: On, Compile Wait: `2`, Debug Header: Off               |
+| Default | Page Suffix       | On                                                                      |
 
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
@@ -128,4 +128,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [menu]: assets/setmenu.jpeg
 [layouts]: assets/setlayouts.jpeg
 [mobile]: assets/setmobile.jpeg
-[advanced]: assets/setadvanced.jpeg
+[advanced]: assets/setadvanced.jpg
