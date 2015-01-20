@@ -153,6 +153,8 @@ When you have a RokBox2 link pointing to a local image, setting the `data-rokbox
 
 As shown in the example above, we left the content of the `<a>` tag empty. Even if there was text written there, it would have been removed and replaced by RokBox2 with the auto-generated thumbnail.
 
+>> NOTE: The data-rokbox-generate-thumbnail works in articles without issue. However, when this option is used in a **Custom HTML** module, you must set the **Prepare Content** option to **Yes** in the **Basic Options** tab of the module - otherwise no thumbnail will be shown, at all.
+
 The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 100` and will automatically get rendered on the page as seen in the screenshot below.
 
 ![][rokbox2-generated-thumb]
