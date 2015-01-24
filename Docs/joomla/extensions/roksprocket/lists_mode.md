@@ -62,8 +62,8 @@ Below the **Content Filter Rules** section are two options areas specific to the
 ![][lists_2]
 
 :   1. **Theme** This sets the theme for displaying lists in the module. [13%, 37%, se]
-    2. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the module. [15%, 50%, sw]
-    3. **Display Limit** The amount of articles to show when rendering. [21%, 37%, se]
+    2. **Display Limit** The amount of articles to show when rendering. [17%, 37%, se]
+    3. **Collapsible Preview** This toggle allows you to enable or disable the collapsible preview capability of the module. [21%, 45%, sw]
     4. **Preview Length** This option sets the amount of words you wish to limit the preview to within the module's article display. [26%, 67%, sw]
     5.  **Strip HTML Tags** This option removes HTML tags from the description of an article. [31%, 37%, se]
     6. **Preview Per Page** This option allows you to set the number of article previews that appear per page in the module. [35%, 64%, sw]
@@ -79,9 +79,9 @@ Below the **Content Filter Rules** section are two options areas specific to the
 
 1.  The **Theme** option sets the theme for displaying lists in the module. These themes determine how the lists look within the module. You can choose the one that best fits your template and/or personal taste.
 
-2. The **Collapsible Preview** toggle gives you the ability to choose whether or not the lists should include a collapsible preview feature. When enabled, only one article preview at a time will show expanded.
-
-3.  The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
+2.  The **Display Limit** field sets the amount of articles shown when the page is rendered.  Setting this limit to zero or infinity will allow it to cycle through all applicable items.
+ 
+3. The **Collapsible Preview** toggle gives you the ability to choose whether or not the lists should include a collapsible preview feature. When enabled, only one article preview at a time will show expanded.
 
 4. The **Preview Length** option sets the amount of words you wish to limit the preview to within the module's article display. This can help reduce occurrences of controls overlaying the description and make your lists more uniform.
 
