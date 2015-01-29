@@ -107,6 +107,8 @@ Choose between a flexible and extensive CSS dropdown menu system, or a static sp
 | :------------------ | :------------------------------ |
 | Module Class Suffix | `fp-slideshow fp-preset-images` |
 
+>> NOTE: If you are using the a fixed slideshow position, your module class suffix will be `fp-fixedslideshow`.
+
 [demo]: assets/demo_1.jpeg
 [demo2]: assets/demo_1a.jpeg
 [demo3]: assets/demo_1b.jpeg
