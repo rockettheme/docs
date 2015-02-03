@@ -14,11 +14,11 @@ Turning on Mainbody Content
 
 This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Ricochet -> Advanced**.
 
-![][advanced]
+![](assets/setadvanced.jpeg)
 
 Once this is done, you can navigate to the **Menu Manager** by going to **Administrator -> Menus -> Menu Manager**. From here, you'll want to find the menu item for your home page and select it so you can access its settings. For our demo, it is located in **Main Menu -> Home**.
 
-![][menu]
+![](assets/menu.jpeg)
 
 :   1. **Intro Articles** [38%, 8%, se]
 
@@ -38,7 +38,3 @@ Here is the **Article Text** we used:
 ~~~
 
 Once this article is created and set to **Featured**, it should appear on the front page.
-
-[demo]: assets/demo_14.jpeg
-[advanced]: assets/setadvanced.jpeg
-[menu]: assets/menu.jpeg

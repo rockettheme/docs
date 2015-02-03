@@ -10,7 +10,7 @@ Introduction
 
 Ricochet is a professionally designed template, constituted by a corporate appearance which combines an overall conservative and soft visual frame, with subtle but effective colors and typography, to provide character and definition.
 
-![][template]
+![](assets/ricochet.jpeg)
 
 Requirements
 -----
@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, 3.3+
 
->> NOTE: Gantry v4.1.26+ is required for Ricochet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v4.1.26+ is required for Ricochet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
 
 Key Features
 -----
@@ -51,11 +51,3 @@ A responsive layout adapts automatically to the viewing device's width, such as 
 | Tablets                | Larger tablets                             | 768px and above  | 64px         |  
 | Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
-
-[gantry]: http://www.gantry-framework.org/
-[template]: assets/ricochet.jpeg
-[responsive]: assets/responsive.jpg
-[chart]: assets/chart.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[chooser]: assets/chooser.jpg
