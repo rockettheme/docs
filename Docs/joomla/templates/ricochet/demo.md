@@ -54,8 +54,8 @@ We have detailed how to recreate the individual modules pictured above in the li
 9. [Sidebar A - RokSprocket (Strips)](demo_module_9.md)
 10. [Sidebar A - Custom HTML](demo_module_10.md)
 11. [Bottom A - Custom HTML](demo_module_11.md)
-12. [Footer B - Custom HTML](demo_module_12.md)
-13. [Footer A - Custom HTML](demo_module_13.md)
+12. [Footer A - Custom HTML](demo_module_12.md)
+13. [Footer B - Custom HTML](demo_module_13.md)
 14. [Copyright - Menu](demo_module_14.md)
 15. [MainBody](demo_mainbody.md)
 

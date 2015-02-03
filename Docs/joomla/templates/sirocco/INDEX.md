@@ -1,16 +1,16 @@
 ---
-title: Ricochet
-description: Your Guide to Using the Ricochet Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!ricochet:Ricochet
+title: Sirocco
+description: Your Guide to Using the Sirocco Template for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/!sirocco:Sirocco
 
 ---
 
 Introduction
 -----
 
-Ricochet is a professionally designed template, constituted by a corporate appearance which combines an overall conservative and soft visual frame, with subtle but effective colors and typography, to provide character and definition.
+Sirocco features a variety of sharp and elegant visual options for site content via RokSprocket, with its many layouts and themes. The design paradigm behind Sirocco is a flat and contemporary approach, to keep a fresh but engaging site experience.
 
-![](assets/ricochet.jpeg)
+![](assets/sirocco.jpeg)
 
 Requirements
 -----
@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, 3.3+
 
->> NOTE: Gantry v4.1.26+ is required for Ricochet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.26+ is required for Sirocco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
 
 Key Features
 -----
@@ -27,7 +27,7 @@ Key Features
 * Responsive Layout
 * 8 Preset Styles
 * Content Animations
-* 100+Module Positions
+* 90 Module Positions
 * 1200 Fixed Option
 * 8 Styled Module Suffixes
 * Structural Module Suffixes

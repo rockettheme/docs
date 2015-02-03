@@ -1,7 +1,7 @@
 ---
-title: Ricochet: Recreating the Demo - MainBody
-description: Your Guide to Recreating Elements of the Ricochet Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
+title: Sirocco: Recreating the Demo - MainBody
+description: Your Guide to Recreating Elements of the Sirocco Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/sirocco:Sirocco
 
 ---
 
@@ -12,7 +12,7 @@ This area of the front page the MainBody. Articles appear within the **MainBody*
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Ricochet -> Advanced**.
+This content appears on the front page because the **Mainbody Enabled** option has been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Sirocco -> Advanced**.
 
 ![](assets/setadvanced.jpeg)
 
