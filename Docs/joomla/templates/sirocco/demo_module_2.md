@@ -48,7 +48,7 @@ Extensive color chooser options to make swift &amp; comprehensive stylistic chan
 | Theme            | Default        |
 | Display Limit    | `∞`            |
 | Label Text       | `Now...`       |
-| Preview Length   | `22`           |
+| Preview Length   | `∞`            |
 | Strip HTML Tags  | No             |
 | Arrow Navigation | Show           |
 | Animation        | Slide and Fade |

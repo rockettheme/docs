@@ -17,9 +17,9 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.4+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5, 3.2, 3.3+
+* Joomla 2.5, 3.3+
 
->> NOTE: Gantry v4.1.26+ is required for Sirocco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.27+ is required for Sirocco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
 
 Key Features
 -----

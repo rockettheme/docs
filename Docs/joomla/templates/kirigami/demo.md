@@ -14,14 +14,13 @@ Recreating features of the demo site used to show off some of the more interesti
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Kirigami Template.
 
-Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
 Module Settings
 -----
 
-Like any Gantry template, Kirigami allows you to assign modules to specific positions within selected overrides. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
@@ -84,7 +83,9 @@ It would be a good idea for organization to name this override something like **
 
 #### Assignments
 
-The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. Under the **Main Menu** list, you will want to select **Home** in the Menu Assignments tab..
+The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. 
+
+You will need to start by navigating to **Admin > Extensions > Template Manager > (Your Home Override)** and select the **Assignments** tab. Under the **Main Menu** list, you will want to select **Home**.
 
 Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
 
@@ -96,6 +97,8 @@ Menu Settings
 ![][mainmenu]
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
+
+You can find these settings by navigating to **Admin > Menus > Main Menu > Home**. Once there, you will want to select the **Page Display** tab.
 
 You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `-aug12-home`.
 
