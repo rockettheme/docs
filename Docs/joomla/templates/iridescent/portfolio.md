@@ -324,13 +324,13 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module
 
-|   Option   |    Setting    |
-| :--------- | :------------ |
+|   Option   |      Setting      |
+| :--------- | :---------------- |
 | Title      | `Iridescent Demo` |
-| Show Title | Yes           |
-| Position   | bottom-a      |
-| Status     | Published     |
-| Access     | Public        |
+| Show Title | Yes               |
+| Position   | bottom-a          |
+| Status     | Published         |
+| Access     | Public            |
 
 #### Content
 

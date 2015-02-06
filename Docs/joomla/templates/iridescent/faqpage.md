@@ -267,7 +267,7 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 | :--------- | :---------------- |
 | Title      | `Iridescent Demo` |
 | Show Title | Yes               |
-| Position   | footer-a          |
+| Position   | bottom-a          |
 | Status     | Published         |
 | Access     | Public            |
 
@@ -301,7 +301,7 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 | :---------- | :-----------          |
 | Title       | `Sample Contact Info` |
 | Show Title  | Yes                   |
-| Position    | footer-b              |
+| Position    | bottom-b              |
 | Status      | Published             |
 | Access      | Public                |
 
