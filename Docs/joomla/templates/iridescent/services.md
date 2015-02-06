@@ -450,7 +450,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :--------- | :---------------- |
 | Title      | `Iridescent Demo` |
 | Show Title | Yes               |
-| Position   | footer-a          |
+| Position   | bottom-a          |
 | Status     | Published         |
 | Access     | Public            |
 
@@ -484,7 +484,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :---------- | :-----------          |
 | Title       | `Sample Contact Info` |
 | Show Title  | Yes                   |
-| Position    | footer-b              |
+| Position    | bottom-b              |
 | Status      | Published             |
 | Access      | Public                |
 
