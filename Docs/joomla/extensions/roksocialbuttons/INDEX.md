@@ -29,13 +29,14 @@ Key Features
 
 * **Encourages Content Sharing**: Makes sharing content from your website easy.
 * **Support for Multiple Networks**: Connect Twitter, Facebook, and Google+.
+* **Support for [AddThis](http://www.addthis.com/) Analytics**: Connect your AddThis ID for enhanced tracking and analytics.
 
 How to install
 --------------
 
 Installing RokSocialButtons takes just a matter of few minutes.
 
-The first thing you will need to do is [download](http://www.rockettheme.com/joomla/extensions/rokutilities/modal/downloads) the latest version of RokSocialButtons. The package you will download contains all the files you need to get RokSocialButtons up and running. It is compatible with both Joomla 2.5.x and Joomla 3.x, and does not need to be uncompressed. 
+The first thing you will need to do is [download](http://www.rockettheme.com/joomla/extensions/rokutilities/) the latest version of RokSocialButtons. The package you will download contains all the files you need to get RokSocialButtons up and running. It is compatible with both Joomla 2.5.x and Joomla 3.x, and does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 

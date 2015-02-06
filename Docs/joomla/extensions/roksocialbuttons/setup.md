@@ -13,7 +13,7 @@ Configuring and setting up RokSocialButtons is a fairly straightforward process.
 Settings
 -----
 
-RokSocialButtons uses the AddThis system for generating social sharing links. If you have an AddThis account, you can take your social sharing a step further using the AddThis ID which gives you tracking and analytics capabilities. 
+RokSocialButtons uses the [AddThis](http://www.addthis.com/) system for generating social sharing links. If you have an [AddThis](http://www.addthis.com/) account, you can take your social sharing a step further using the AddThis ID which gives you tracking and analytics capabilities. 
 
 ![Setup](assets/roksocialbuttons_1.jpeg)
 
