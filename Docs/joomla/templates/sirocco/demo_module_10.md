@@ -23,7 +23,7 @@ Once this is done, you can navigate to the **Menu Manager** by going to **Admini
 
 ![](assets/demo_10a.png)
 
-In order to show two featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**.
+In order to show three featured articles on the front page, we placed a `3` in the **Intro Articles** setting within the **Layout Options** menu. The **Article Order** has been set to **Featured Articles Order**.
 
 Article Properties
 -----
