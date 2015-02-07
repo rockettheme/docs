@@ -110,9 +110,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ##### Advanced
 
-| Option              | Setting                                                    |  
-| :------------------ | :--------------------------------------------------------- |  
-| Module Class Suffix | ` hidden-phone nomarginall medpaddingtop medpaddingbottom` |  
+|        Option       |     Setting     |
+| :------------------ | :-------------- |
+| Module Class Suffix | ` hidden-phone` |
 
 ### Custom HTML - Services: Chart JS
 
