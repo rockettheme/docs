@@ -9,7 +9,7 @@ tags: [Style, Template, Theme, Features, Description, Tutorials, rokBB 5]
 Introduction
 -----
 
-Sirocco is a vibrant design with various integrated elements to provide a seamless and versatile environment. A slideshow position image provides a rich interface to impress, aggregated by other layout options, to expand beyond its core base.
+The design paradigm behind Sirocco is a flat and contemporary approach, to keep a fresh but engaging site experience.
 
 ![Sirocco](sirocco.png)
 
@@ -19,7 +19,7 @@ Features
 -----
 
 * Responsive Layout
-* 6 Preset Styles
+* 8 Preset Styles
 * Content Animations
 * Sidebar option
 * Imageset Editor
