@@ -26,6 +26,7 @@ more:
 
 * Club Styles
 
+	- [Sirocco](styles/sirocco)
 	- [Iridescent](styles/iridescent)
 	- [Myriad](styles/myriad)
 	- [Ricochet](styles/ricochet)
