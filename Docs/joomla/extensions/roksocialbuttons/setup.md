@@ -45,6 +45,6 @@ To access RokSocialButton's settings page, you will need to navigate to **Admin 
 
 7. **Display Position**: This dropdown gives you the ability to determine if the buttons will appear above, or below the article content body. 
 
-8. **Add Method**: This dropdown gives you the ability to choose how the buttons are added to content. You can have them automatically added to articles in selected categories, as a replacement to the `{roksocialbuttons}` string, or both.
+8. **Add Method**: This dropdown gives you the ability to choose how the buttons are added to content. You can have them automatically added to articles in selected categories, as a replacement to the `{socialbuttons}` string, or both.
 
 9. **Category**: If the **Both Replace and Selected Categories** or **Selected Categories** methods are used, this field determines which categories have the buttons added.

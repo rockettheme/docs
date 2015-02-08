@@ -54,6 +54,6 @@ From Joomla 2.5 and 3.x:
 How to Publish to the Frontend
 -----
 
-Publishing RokSocialButtons to the frontend of your site is an easy process. You do this by adding `{roksocialbuttons}` in the content body of an article or module you wish to have social sharing buttons appear from the site. These buttons make it easy to share the page URL the user is accessing the content from to their social networks.
+Publishing RokSocialButtons to the frontend of your site is an easy process. You do this by adding `{socialbuttons}` in the content body of an article or module you wish to have social sharing buttons appear from the site. These buttons make it easy to share the page URL the user is accessing the content from to their social networks.
 
 You can alternatively set it to appear at the top of articles in a specific category, set of categories, or in all categories at either the top or bottom of the main article content body.
