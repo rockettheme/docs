@@ -17,60 +17,61 @@ Here is the widget breakdown for the Feature section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<div class="gantry-row">
+<div class="rt-square-set">
     <div class="gantry-width-container">
         <div class="gantry-width-33">
-            <div class="gantry-width-spacer">
-                <div class="rt-box2 rt-center">
+            <div class="rt-square-1">
+                <div class="gantry-width-spacer">
+                    <h2>A Slider or Fixed Side Position for <span class="hidden-tablet">Displaying </span>Extra Content</h2>
                     <ul class="rt-tags">
-                        <li>Facebook</li>
-                        <li>Twitter</li>
-                    </ul>                   
-                    <h2 class="title">Configurable Social Media Buttons</h2>
-                    <ul class="rt-tags">
-                        <li><a href="#">#Social Media</a></li>
-                    </ul>                       
-                </div>
-            </div>
-        </div>  
-        <div class="gantry-width-33">
-            <div class="gantry-width-spacer">
-                <div class="rt-box3 rt-center">
-                    <ul class="rt-tags">
-                        <li>Offine</li>
-                        <li>Counter</li>
-                    </ul>                       
-                    <h2 class="title">Custom Offline &amp; Coming Soon Pages</h2>
-                    <ul class="rt-tags">
-                        <li><a href="#">#Maintenance</a></li>
-                    </ul>                       
-                </div>
-            </div>
-        </div>  
-        <div class="gantry-width-33">
-            <div class="gantry-width-spacer">
-                <div class="rt-box1 rt-center">
-                    <ul class="rt-tags">
-                        <li>Responsive</li>
                         <li>Fixed</li>
-                    </ul>                       
-                    <h2 class="title">Responsive, 960 &amp; 1200 Layouts</h2>
-                    <ul class="rt-tags">
-                        <li><a href="#">#Layout</a></li>
-                    </ul>                       
+                        <li>Dynamic</li>
+                    </ul>
+                    <p class="smallmarginbottom">An extra widget position, outside of the main structure, configurable to be either fixed or dynamically toggled.</p>
+                    <a href="http://demo.rockettheme.com/live/wordpress/ricochet/features-overview/" class="readon2">Read More</a>              
                 </div>
             </div>
-        </div>          
-    </div>      
+            <div class="rt-image">
+                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-feature/img-01.jpg" alt="image" />
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="rt-square-2">
+                <div class="gantry-width-spacer">
+                    <h2>Powered by the Versatile Gantry Framework</h2>
+                    <ul class="rt-tags">
+                        <li>Power</li>
+                        <li>Adaptable</li>
+                    </ul>                   
+                    <p class="smallmarginbottom">As a core framework, Gantry sits at the center of Ricochet, providing a range of standardized features and capabilities.</p>
+                    <a href="http://demo.rockettheme.com/live/wordpress/ricochet/features-overview/" class="readon2">Read More</a>  
+                </div>  
+            </div>
+            <div class="rt-image">
+                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-feature/img-02.jpg" alt="image" />
+            </div>
+        </div>
+        <div class="gantry-width-33">
+            <div class="rt-square-3">
+                <div class="gantry-width-spacer">
+                    <h2>A Sophisticated CSS Dropdown Menu<span class="hidden-tablet"> with Advanced Features</span></h2>
+                    <ul class="rt-tags">
+                        <li>Columns</li>
+                        <li>Positions</li>
+                    </ul>                   
+                    <p class="smallmarginbottom">The menu has support for item distribution, inline icons and subtext, alongside many other configurable options.</p>
+                    <a href="http://demo.rockettheme.com/live/wordpress/ricochet/menu-options/" class="readon2">Read More</a>
+                </div>  
+            </div>
+            <div class="rt-image">
+                <img src="http://demo.rockettheme.com/live/wordpress/ricochet/wp-content/rockettheme/rt_ricochet_wp/home/fp-feature/img-03.jpg" alt="image" />
+            </div>
+        </div>      
+    </div>  
 </div>
-
-<div class="clear"></div>
-
-<h6>One of the Gantry Framework's most notable features is its custom administrative interface. The theme settings page provides a user friendly and intuitive console to configure many aspects of the theme, from gizmos, styling, to layout controls.</h6>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Enter `Upcoming Events` in the **Title** field.
-* Enter `fp-expandedtop title5` in the **Custom Variations** field.
+* Enter `fp-feature` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
