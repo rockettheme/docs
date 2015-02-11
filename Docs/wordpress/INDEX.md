@@ -32,7 +32,7 @@ more:
 * Basic Tutorials
 
 	- [How to Install a WordPress Theme from RocketTheme](start/themes.md#how-to-install-a-wordpress-theme-from-rockettheme)
-	- [How to Install a RocketLauncher](start/themes.md#rocketlauncher)
+	- [How to Install a RocketLauncher](start/rocketlauncher.md)
 	- [How to Install a Plugin](start/plugins.md#how-to-install-a-plugin)
 	- [How to Manage Plugins](start/plugins.md#how-to-manage-plugins)
 	- [How to Create a New Post](start/post.md)

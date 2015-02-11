@@ -26,31 +26,33 @@ Below, you will find the module placement and settings for the various module po
 
 ![][Chapelco]
 
-:   1. **FP RokAjaxSearch**  [6%, 85%, sw]
-    2. **FP Showcase - RokSprocket Features**  [10%, 15%, se]
-    3. **Popular Features**  [25%, 25%, se]
-    4. **FP Utility - RokSprocket Mosaic**  [30%, 12%, se]
-    5. **Featured Article**  [61%, 12%, se]
-    6. **Gantry Extras**  [61%, 85%, sw]
-    7. **Popular Templates**  [76%, 12%, se]
-    8. **Demo Information**  [82%, 12%, se]
-    9. **Contact Us**  [82%, 38%, se]
-    10. **Location**  [82%, 65%, se]
-    11. **Copyright Menu**  [91%, 32%, se]
+:   1. **Header C - RokAjaxSearch**  [6%, 85%, sw]
+    2. **Showcase A - RokSprocket (Features)**  [10%, 15%, se]
+    3. **Utility A - Custom HTML**  [25%, 25%, se]
+    4. **Utility A - RokSprocket (Mosaic)**  [30%, 12%, se]
+    5. **Maintop A - Custom HTML**  [48%, 12%, se]
+    6. **MainBody**  [61%, 12%, se]
+    7. **Sidebar A - Custom HTML**  [61%, 85%, sw]
+    8. **Bottom A - Custom HTML**  [76%, 12%, se]
+    9. **Footer A - Custom HTML**  [82%, 12%, se]
+    10. **Footer B - Custom HTML**  [82%, 38%, se]
+    11. **Footer C - Custom HTML**  [82%, 65%, se]
+    12. **Copyright B - Menu**  [91%, 32%, se] 
 
 We have detailed how to recreate the individual modules pictured above in the links below.
 
-1. [FP RokAjaxSearch][module1]
-2. [FP Showcase - RokSprocket Features][module2]
-3. [Popular Features][module3]
-4. [FP Utility - RokSprocket Mosaic][module4]
-5. [Featured Article][module5]
-6. [Gantry Extras][module6]
-7. [Popular Templates][module7]
-8. [Demo Information][module8]
-9. [Contact Us][module9]
-10. [Location][module10]
-11. [Copyright Menu][module11]
+1. [Header C - RokAjaxSearch](demo_module_1.md)
+2. [Showcase A - RokSprocket (Features)](demo_module_2.md)
+3. [Utility A - Custom HTML](demo_module_3.md)
+4. [Utility A - RokSprocket (Mosaic)](demo_module_4.md)
+5. [Maintop A - Custom HTML](demo_module_12.md)
+6. [MainBody](demo_module_5.md)
+7. [Sidebar A - Custom HTML](demo_module_6.md)
+8. [Bottom A - Custom HTML](demo_module_7.md)
+9. [Footer A - Custom HTML](demo_module_8.md)
+10. [Footer B - Custom HTML](demo_module_9.md)
+11. [Footer C - Custom HTML](demo_module_10.md)
+12. [Copyright B - Menu](demo_module_11.md)
 
 Recommended Extensions
 -----
