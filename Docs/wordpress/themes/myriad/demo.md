@@ -99,3 +99,4 @@ One important thing to note here is that many of the widget sections included in
 * [Bottom](demo_bottom.md)
 * [Footer](demo_footer.md)
 * [Copyright](demo_copyright.md)
+* [MainBody](demo_mainbody)

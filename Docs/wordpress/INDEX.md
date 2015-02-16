@@ -61,6 +61,7 @@ more:
 
 * Club Themes
 
+	- [Iridescent](themes/iridescent)
 	- [Myriad](themes/myriad)
 	- [Ricochet](themes/ricochet)
 	- [Chimera](themes/chimera)
