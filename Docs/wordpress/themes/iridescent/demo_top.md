@@ -28,10 +28,10 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <div class="rt-effect-slide rt-effect-slide-top">
-    <img src="http://ryanmpierson.no-ip.biz/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/home/fp-top/img-01.jpg" alt="image"/>
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/home/fp-top/img-01.jpg" alt="image"/>
     <div class="rt-effect-slide-content">
-        <h2 class="rt-uppercase"><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Example Pages</a></h2>
-        <p><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Sample layouts available <span class="hidden-tablet">for replication</span></a></p>
+        <h2 class="rt-uppercase"><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Example Pages</a></h2>
+        <p><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Sample layouts available <span class="hidden-tablet">for replication</span></a></p>
     </div>          
 </div>
 ~~~
@@ -61,7 +61,7 @@ by other layout options, to expand beyond its core base.</span></p>
 <p class="visible-large">The theme features a selection of animated extras,
 that without detracting from the content, provide depth to your
 page.</p><a class="readon3" href=
-"http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/">Read
+"http://(Your Site URL)/features-overview/">Read
 More</a>
 ~~~
 

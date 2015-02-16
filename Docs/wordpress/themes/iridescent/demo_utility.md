@@ -25,10 +25,10 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <div class="rt-effect-border">
-    <img src="http://ryanmpierson.no-ip.biz/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-01.jpg" alt="image"/>
+    <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-01.jpg" alt="image"/>
     <div class="rt-effect-content">
-        <h2><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url"><span>RocketLauncher</span></a></h2>
-        <p class="visible-desktop"><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Install Iridescent demo on your website or localhost<span class="visible-large"></span></a></p>
+        <h2><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url"><span>RocketLauncher</span></a></h2>
+        <p class="visible-desktop"><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Install Iridescent demo on your website or localhost<span class="visible-large"></span></a></p>
     </div>          
 </div>
 <div class="gantry-width-container">
@@ -76,26 +76,26 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-50">
         <div class="rt-effect-slide rt-effect-slide-top">
-            <img src="http://ryanmpierson.no-ip.biz/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-02.jpg" alt="image"/>
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-02.jpg" alt="image"/>
             <div class="rt-effect-slide-content">
-                <h2 class="rt-uppercase"><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Responsive<br /> Design</a></h2>
-                <p><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Adapts to any device</a></p>
+                <h2 class="rt-uppercase"><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Responsive<br /> Design</a></h2>
+                <p><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Adapts to any device</a></p>
             </div>          
         </div>
     </div>
     <div class="gantry-width-50">
         <div class="rt-effect-slide rt-effect-slide-top">
-            <img src="http://ryanmpierson.no-ip.biz/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-03.jpg" alt="image"/>
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-03.jpg" alt="image"/>
             <div class="rt-effect-slide-content">
-                <h2 class="rt-uppercase"><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Presets</a></h2>
-                <p><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/features-overview/" class="fp-demo-url">Six elegant styles</a></p>
+                <h2 class="rt-uppercase"><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Presets</a></h2>
+                <p><a href="http://(Your Site URL)/features-overview/" class="fp-demo-url">Six elegant styles</a></p>
             </div>          
         </div>
         <div class="rt-effect-slide rt-effect-slide-top">
-            <img src="http://ryanmpierson.no-ip.biz/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-04.jpg" alt="image"/>
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/home/fp-utility/img-04.jpg" alt="image"/>
             <div class="rt-effect-slide-content">
-                <h2 class="rt-uppercase"><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/typography/" class="fp-demo-url">Typography</a></h2>
-                <p><a href="http://ryanmpierson.no-ip.biz/wordpress/iridescent/typography/" class="fp-demo-url">Individualize <span class="hidden-tablet">your</span> content</a></p>
+                <h2 class="rt-uppercase"><a href="http://(Your Site URL)/typography/" class="fp-demo-url">Typography</a></h2>
+                <p><a href="http://(Your Site URL)/typography/" class="fp-demo-url">Individualize <span class="hidden-tablet">your</span> content</a></p>
             </div>          
         </div>      
     </div>      

@@ -113,7 +113,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
-            <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-01.jpg" alt="image" /></span>
+            <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-01.jpg" alt="image" /></span>
         </div>
     </div>
 
@@ -158,7 +158,7 @@ This section of the page is a standard text widget. You will need to enter the f
     <div class="gantry-width-container">
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-02.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-02.jpg" alt="image" /></span>
                 <h4>Our Mission</h4>
                 <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains.</p>
             </div>
@@ -166,7 +166,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-03.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-03.jpg" alt="image" /></span>
                 <h4>Our Values</h4>
                 <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration.</p>
             </div>
@@ -174,7 +174,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
         <div class="gantry-width-33">
             <div class="gantry-width-spacer">
-                <span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-04.jpg" alt="image" /></span>
+                <span class="rt-image"><img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/about-us/img-04.jpg" alt="image" /></span>
                 <h4>Our Solution</h4>
                 <p>Engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric outside the box thinking.</p>
             </div>
@@ -264,7 +264,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 

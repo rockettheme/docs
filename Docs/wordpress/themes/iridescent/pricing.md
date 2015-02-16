@@ -266,7 +266,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <div class="gantry-width-container">
     <div class="gantry-width-40">
         <div class="gantry-width-spacer">
-            <img src="http://demo.rockettheme.com/live/wordpress/iridescent/wp-content/rockettheme/rt_iridescent_wp/pages/pages-overview/logo.png" alt="image" />
+            <img src="http://(Your Site URL)/wp-content/rockettheme/rt_iridescent_wp/pages/pages-overview/logo.png" alt="image" />
         </div>  
     </div>
 
