@@ -11,7 +11,7 @@ Introduction
 
 Acacia is a beautifully designed professional phpBB style, underlying interactive and configurable features to maximize the versatility and engagement of your forum. Its appearance is enriched through brilliant icons and splendid design.
 
-![][style]
+![style](assets/acacia.jpeg)
 
 The style is built with the RokBB Framework. RokBB is a powerful framework for phpBB, that provides the basis for advanced and extensive administrative control over the styles.
 
@@ -34,7 +34,8 @@ Features
 * Customizable layout options
 * Firefox, Opera, Safari 4, IE8+ Compatible
 
-NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
+NOTE: **RokBB 5.0.4+** is required for Acacia to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide](../../start/styles.md#installing-administrative-modules). Also, this style presently only supports phpBB 3.0 and is not currently available for phpBB 3.1.
+
 
 ### WebFonts Imageset and Icons
 
@@ -46,12 +47,8 @@ For example: Installing matching language imagesets is not needed as we removed 
 
 RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
 
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
+By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page](http://www.rockettheme.com/extensions-joomla/rokbridge) for support and latest news.
 
 ### Responsive Layout
 
 Acacia's responsive grid system is designed for desktops, tablets, and smartphones. Each with minor modifications to enhance compatibility in each mode.
-
-[adminguide]: ../../start/styles.md#installing-administrative-modules
-[style]: assets/acacia.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge

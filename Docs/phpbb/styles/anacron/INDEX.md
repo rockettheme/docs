@@ -38,7 +38,8 @@ Features
 * Tabs Feature
 * Headlines Feature
 
-NOTE: **RokBB 5.0.4+** is required for Anacron to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide][adminguide].
+NOTE: **RokBB 5.0.4+** is required for Anacron to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide](../../start/styles.md#installing-administrative-modules). Also, this style presently only supports phpBB 3.0 and is not currently available for phpBB 3.1.
+
 
 ### WebFonts Imageset and Icons
 
