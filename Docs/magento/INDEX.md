@@ -39,6 +39,7 @@ more:
 
 * Club Themes
 
+	- [Nuance](themes/nuance)
 	- [Lexicon](themes/lexicon)
 	- [Anacron](themes/anacron)
 	- [Hadron](themes/hadron)
