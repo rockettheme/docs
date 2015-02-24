@@ -11,7 +11,7 @@ Introduction
 
 ![Nuance](assets/nuance.png)
 
-Nuance is centered around a flat design approach, spruced by professional and engaging color schemes to create presence for site content without distracting from it. Ideal for showcasing product details in a vibrant but elegant fashion.
+The transparent nature of the Nuance design allows the background colors to bleed through to the forefront, to complement and embellish your content.
 
 The theme boasts 6 style variations, meticulously constructed to perfection, with our 12 RokMage extensions seamlessly integrated with the design.
 

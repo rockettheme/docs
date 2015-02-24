@@ -125,7 +125,6 @@ more:
 	- [RokCandy](extensions/rokcandy/)
 	- [RokComments](extensions/rokcomments/)
 	- [RokBridge](extensions/rokbridge/)
-	- [RokUpdater](extensions/rokupdater/)
 	- [RokSocialButtons](extensions/roksocialbuttons)
 
 <!-- -->
