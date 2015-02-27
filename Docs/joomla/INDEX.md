@@ -124,7 +124,6 @@ more:
 	- [RokAjaxSearch](extensions/rokajaxsearch/)
 	- [RokCandy](extensions/rokcandy/)
 	- [RokComments](extensions/rokcomments/)
-	- [RokBridge](extensions/rokbridge/)
 	- [RokSocialButtons](extensions/roksocialbuttons)
 
 <!-- -->

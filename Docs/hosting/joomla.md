@@ -88,25 +88,25 @@ In order for Joomla to operate properly, there are a series of requirements that
 
 #### Joomla 2.5
 
-| Software      | Minimum       | Recommended |
-| :------------ |--------------:| ---------:  |
-| MySQL         | 5.0.4 +       | 5.0.4 +     |
-| PHP           | 5.2.4 +       | 5.3 +       |
-| Apache        | 2.x +         | 2.x +       |
-| NGINX         | 1.0           | 1.1         |
-| Microsoft IIS | 7             | 7           |
+| Software      | Minimum        | Recommended |
+| :------------ | :------------- | :--------   |
+| MySQL         | 5.0.4 +        | 5.0.4 +     |
+| PHP           | 5.2.4 +        | 5.3 +       |
+| Apache        | 2.x +          | 2.x +       |
+| NGINX         | 1.0            | 1.1         |
+| Microsoft IIS | 7              | 7           |
 
 #### Joomla 3.x
 
-| Software      | Minimum       |  Recommended  |
-| :------------ |--------------:| ------------: |
-| MySQL         | 5.1 +         | 5.1 +         |
-| MSSQL         | 10.50.1600.1 +| 10.50.1600.1 +|
-| PostgreSQL    | 8.3.18 +      | 8.3.18 +      |
-| PHP           | 5.3.1 +       | 5.3.1         |
-| Apache        | 2.x +         | 2.x +         |
-| NGINX         | 1.0           | 1.1           |
-| Microsoft IIS | 7             | 7             |
+| Software      | Minimum         | Recommended    |
+| :------------ | :-------------- | :------------  |
+| MySQL         | 5.1 +           | 5.1 +          |
+| MSSQL         | 10.50.1600.1 +  | 10.50.1600.1 + |
+| PostgreSQL    | 8.3.18 +        | 8.3.18 +       |
+| PHP           | 5.3.1 +         | 5.3.1          |
+| Apache        | 2.x +           | 2.x +          |
+| NGINX         | 1.0             | 1.1            |
+| Microsoft IIS | 7               | 7              |
 
 Joomla currently does not support MySQL 6.x, though support may be offered in the future. You may also need to install additional software for Microsoft IIS as it does not always come with PHP or MySQL support by default.
 
