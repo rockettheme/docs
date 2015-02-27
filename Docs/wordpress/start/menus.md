@@ -8,8 +8,6 @@ breadcrumb: /wordpress:WordPress/!start:Start/!menu_guide:Menu Guide
 Introduction
 -----
 
-
-
 WordPress has a powerful built-in menu system that makes it easy to create and manage menus that appear on the frontend of your site. These menus serve as the source by which the **Custom Menu** and our **Gantry Menu** widgets pull information. This allows you to create multiple custom menus and apply them in different ways throughout your site.
 
 The menus you create using the menu editor determine the menu's content. The widget that links to the menu determines where and how that information will be presented.
@@ -19,13 +17,13 @@ For the purpose of this guide, we are using a site built with the Gantry templat
 How to Create a Menu
 -----
 
-![][menu]
+![Menu](assets/menu_1.jpeg)
 
 :	1. **Menus** This link gives you access to the main menu editor for WordPress. [47%, 5%, se]
 
 To get to the **Menus** area of the backend of WordPress, you need to navigate to **Admin -> Appearance -> Menus**. This will take you to the primary menu management area where you can create a new menu and manage existing menus. 
 
-![][menu4]
+![Menu](assets/menu_4.jpeg)
 
 :	1. **Create a New Menu** When you would like to create a new menu, click this link. [22%, 40%, se]
 	2. **Menu Name** This is the name for your custom menu. [30%, 45%, se]
@@ -33,7 +31,7 @@ To get to the **Menus** area of the backend of WordPress, you need to navigate t
 
 The first step to building a new menu is to click **Create a New Menu** located to the right of the menu selection area of the page. This will create a blank menu which you can name and assign links to. You will have to give your menu a name before you can begin item assignments. Once you have typed a name in the **Menu Name** field, select **Create Menu**.
 
-![][menu5]
+![Menu](assets/menu_5.jpeg)
 
 :	1. **Add to Menu** Select the check box next to the item you wish to add to your menu, and select this link. [71%, 29%, se]
 
@@ -43,7 +41,7 @@ This will place you in the menu editing page, allowing you to add new items to t
 * **Links**: This is a simple link, with a custom label, that enables you to create a menu item for any specific URL. This could be either an internal or external link. For example, you could use this option to link to a Facebook or Yelp page.
 * **Categories**: This is a convenient way to link post categories within your site. For example, if you have a category of posts dedicated to your personal blog, that category could be directly linked to your menu.
 
-![][menu7]
+![Menu](assets/menu_8.jpeg)
 
 :	1. **Top-Level Menu Item** This is a top-level menu item. It appears on the front of the menu. [32%, 53%, sw]
 	2. **Submenu Item** This is a submenu item. It appears under the top-level item above it. [40%, 56%, sw]
@@ -62,7 +60,7 @@ Individual menu items can be customized to meet your needs. For example, you can
 
 ### Pages and Categories
 
-![][menu2]
+![Menu](assets/menu_2.jpeg)
 
 * **Navigation Label**: This field sets the title of the menu item as it appears to visitors.
 
@@ -86,7 +84,7 @@ Individual menu items can be customized to meet your needs. For example, you can
 
 ### Links
 
-![][menu3]
+![Menu](assets/menu_3.jpeg)
 
 * **URL** This is the URL you wish to have the menu item link to. Clicking the menu item will send the user directly to this URL.
 
@@ -109,11 +107,3 @@ Individual menu items can be customized to meet your needs. For example, you can
 * **Drop-Down Width (px)**: Sets the width (in pixels) for the drop-down menu item.
 
 * **Column Widths (px)**: Sets the width (in pixels) for columns of submenu items.
-
-[menu]: assets/menu_1.jpeg
-[menu2]: assets/menu_2.jpeg
-[menu3]: assets/menu_3.jpeg
-[menu4]: assets/menu_4.jpeg
-[menu5]: assets/menu_5.jpeg
-[menu6]: assets/menu_6.jpeg
-[menu7]: assets/menu_8.jpeg
