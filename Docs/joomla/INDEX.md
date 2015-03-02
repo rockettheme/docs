@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Audacity](templates/audacity)
 	- [Sirocco](templates/sirocco)
 	- [Iridescent](templates/iridescent)
 	- [Myriad](templates/myriad)
