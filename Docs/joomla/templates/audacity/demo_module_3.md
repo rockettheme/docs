@@ -19,7 +19,7 @@ The **FP Utility Menu** module is a standard **Menu** module. Here is a breakdow
 
 | Option      | Setting             |
 | :---------- | :----------         |
-| Title       | `FP Copyright Memu` |
+| Title       | `FP Utility Menu` |
 | Show Title  | Hide                |
 | Position    | utility-a           |
 | Status      | Published           |

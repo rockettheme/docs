@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/audacity:Audacity
 FP RokSprocket Features - Showcase 2
 -----
 
-![](assets/demo_5.jpeg)
+![](assets/demo_11.jpeg)
 
 The **RokSprocket** module used in this area of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
@@ -16,7 +16,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_5a.jpeg)
+![](assets/demo_11a.jpeg)
 
 | Option           | Setting                                |
 | :--------------- | :------------------------------------  |
@@ -89,7 +89,7 @@ The Color Chooser provides an intuitive and extensive UI for swift customization
 
 ### Layout Options
 
-![](assets/demo_5b.jpeg)
+![](assets/demo_11b.jpeg)
 
 | Option                | Setting               |
 | :-------------------- | :-------------------- |
@@ -115,7 +115,7 @@ The Color Chooser provides an intuitive and extensive UI for swift customization
 
 ### Advanced
 
-![](assets/demo_5c.jpeg)
+![](assets/demo_11c.jpeg)
 
 | Option              | Setting                                |
 | :------------------ | :----------------------------------    |

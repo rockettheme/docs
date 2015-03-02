@@ -135,6 +135,6 @@ The **Tab Label**, **Link**, and **Description** fields in each item have been a
 
 ![Demo](assets/demo_8c.jpeg)
 
-| Option              | Setting               |
-| :------------------ | :-------------------- |
-| Module Class Suffix | `fp-roksprocket-tabs` |
+| Option              | Setting                       |
+| :------------------ | :--------------------         |
+| Module Class Suffix | `fp-roksprocket-tabs-maintop` |

@@ -1,9 +1,12 @@
 ---
-title: Audacity: Recreating the Demo - FP RokSprocket Headlines
+title: Audacity: Recreating the Demo - FP RokSprocket Features - Stories (Small Size)
 description: Your Guide to Recreating Elements of the Audacity Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/audacity:Audacity
 
 ---
+
+FP RokSprocket Features - Stories (Small Size)
+-----
 
 ![](assets/demo_2.jpeg)
 
@@ -17,7 +20,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 | Option           | Setting                               |
 | :--------------- | :------------------------------------ |
-| Title            | `FP RokSprocket Features - Slideshow` |
+| Title            | `FP RokSprocket Features - Stories (Small Size)` |
 | Show Title       | Hide                                  |
 | Access           | Public                                |
 | Position         | showcase-a                            |

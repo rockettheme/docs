@@ -10,7 +10,7 @@ FP RokSprocket Features - Scroller
 
 ![](assets/demo_4.jpeg)
 
-The **RokSprocket Showcase** module used in this area of the page is a great way to feature some of your site's more notable articles or areas of interest.
+The **RokSprocket** module used in this area of the page is a great way to feature some of your site's more notable articles or areas of interest.
 
 ### Details
 
