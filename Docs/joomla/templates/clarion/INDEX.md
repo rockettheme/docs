@@ -25,7 +25,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.x.18+, 3.2.15+ is required for Clarion to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v3.x.18+, 3.2.15+ is required for Clarion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
 
 Key Features
 -----

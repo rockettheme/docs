@@ -23,7 +23,7 @@ Requirements
 * Joomla 2.5 or 3.x
 * Gantry Framework
 
->> NOTE: v3.1.20+, 3.2.18+ is required for Diametric to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: v3.1.20+, 3.2.18+ is required for Diametric to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
 
 Key Features
 -----

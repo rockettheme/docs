@@ -25,7 +25,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Halcyon to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Halcyon to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
 
 Key Features
 -----

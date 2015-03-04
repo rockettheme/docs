@@ -18,15 +18,15 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ![](assets/demo_2a.jpeg)
 
-| Option           | Setting                               |
-| :--------------- | :------------------------------------ |
+| Option           | Setting                                          |
+| :--------------- | :------------------------------------            |
 | Title            | `FP RokSprocket Features - Stories (Small Size)` |
-| Show Title       | Hide                                  |
-| Access           | Public                                |
-| Position         | showcase-a                            |
-| Status           | Published                             |
-| Content Provider | Simple                                |
-| Type             | Features                              |
+| Show Title       | Hide                                             |
+| Access           | Public                                           |
+| Position         | showcase-a                                       |
+| Status           | Published                                        |
+| Content Provider | Simple                                           |
+| Type             | Features                                         |
 
 ### Filtered Article List
 
