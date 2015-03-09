@@ -93,3 +93,64 @@ One important thing to note here is that many of the widget sections included in
 * [Bottom](demo_bottom.md)
 * [Footer](demo_footer.md)
 * [Copyright](demo_copyright.md)
+
+RokSprocket and RocketLauncher Settings
+------
+
+Some aspects of the RokSprocket demo content in the Slideshow position are hard-coded in the **demo.less** file. This includes images for the following modules:
+
+* [Slideshow - RokSprocket (Features)](demo_slideshow.md)
+
+If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-preset-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
+
+To switch the **Demo Style** setting, you will need to navigate to **Administration -> Template Manager -> Iridescent Template** and selecting the **Style** tab. By default, this setting will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
+
+For reference, and in the event that you wish to modify this code to meet your individual needs, here is the section of the demo.less file that sets this behavior.
+
+~~~ .css
+// Demo Preset Images
+.demostyleImage(@index) when (@index > 0) {
+    (~".demostyle-type-preset@{index}") {
+        .fp-preset-images {
+            &.fp-slideshow .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image, {
+                background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
+                background-position: center;
+                background-repeat: no-repeat;
+            }
+        }
+    }
+    .demostyleImage(@index - 1);
+}
+.demostyleImage(6);
+
+// FP Slideshow
+.fp-slideshow .layout-fullslideshow {
+    .sprocket-features-title {
+        font-family: @alt-font-family;
+        font-size: 1.75em;
+        text-transform: uppercase;
+        position: relative;
+        // Small Mobile Modes
+        @media (max-width: 480px) {
+            body.layout-mode-responsive & {
+                font-size: 1.25em;
+            }
+        }
+    }
+    .sprocket-features-desc {
+        font-size: 1.25em;
+        color: darken(@header-textcolor, 5%);
+        width: 60%;
+        margin: 25px auto;
+        .readon {
+            margin-top: 25px;
+        }
+        // Tablet Mode
+        @media only screen and (min-width: 768px) and (max-width: 959px) {
+            body.layout-mode-responsive & {
+                width: 80%;
+            }
+        }
+    }
+}
+~~~

@@ -122,8 +122,8 @@ For reference, and in the event that you wish to modify this code to meet your i
 .demostyleImage(@index) when (@index > 0) {
     (~".demostyle-type-preset@{index}") {
         .fp-preset-images {
-            &.fp-slideshow .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image, {
-                background-image: url(../../../images/rocketlauncher/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
+            &.fp-slideshow .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image {
+                background-image: url(../../../rockettheme/rt_iridescent_wp/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
                 background-position: center;
                 background-repeat: no-repeat;
             }
