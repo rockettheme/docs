@@ -12,8 +12,13 @@ Below is a list of fonts used in RocketTheme's templates, themes, and styles for
 
 Any font without a listed source (such as Helvetica) is a standard font generally included with most modern operating systems.
 
-| Template / Theme |        Font       |                                Source                                |
+| Template / Theme | Font              | Source                                                               |
 | :--------------- | :---------------- | :------------------------------------------------------------------- |
+| Audacity         | Playfair Display  | [Font Squirrel](http://www.fontsquirrel.com/fonts/playfair-display)  |
+|                  | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |
+| Sirocco          | Campton           | [FontFabric](http://fontfabric.com/campton-free-font/)               |
+|                  | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |
+| Iridescent       | LATO              | [Font Squirrel](http://www.fontsquirrel.com/fonts/LATO)              |
 | Myriad           | Lato              | [Font Squirrel](http://www.fontsquirrel.com/fonts/LATO)              |
 |                  | Lora              | [Font Squirrel](http://www.fontsquirrel.com/fonts/lora)              |
 | Ricochet         | Nexa              | [Font Squirrel](http://www.fontsquirrel.com/fonts/nexa)              |
