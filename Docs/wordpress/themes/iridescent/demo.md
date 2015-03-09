@@ -99,7 +99,7 @@ RokSprocket and RocketLauncher Settings
 
 Some aspects of the RokSprocket demo content in the Slideshow position are hard-coded in the **demo.less** file. This includes images for the following modules:
 
-* [Slideshow - RokSprocket (Features)](demo_module_1.md)
+* [Slideshow - RokSprocket (Features)](demo_slideshow.md)
 
 If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-preset-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
 
