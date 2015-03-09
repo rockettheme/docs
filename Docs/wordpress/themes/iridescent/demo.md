@@ -103,7 +103,7 @@ Some aspects of the RokSprocket demo content in the Slideshow position are hard-
 
 If you wish to use custom images for these modules, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-preset-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
 
-To switch the **Demo Style** setting, you will need to navigate to **Administration -> Template Manager -> Iridescent Template** and selecting the **Style** tab. By default, this setting will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
+To switch the **Demo Style** setting, you will need to navigate to **Administration -> Iridescent Template** and selecting the **Style** tab. By default, the **Demo Body Class** option will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
 
 For reference, and in the event that you wish to modify this code to meet your individual needs, here is the section of the demo.less file that sets this behavior.
 
