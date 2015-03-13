@@ -32,7 +32,7 @@ support: http://www.rockettheme.com/forum/joomla-template-chapelco
             * [Bottom A - Custom HTML](demo_module_7.md)
             * [Footer A - Custom HTML](demo_module_8.md)
             * [Footer B - Custom HTML](demo_module_9.md)
-            * [Footer C - Custom HTML](demo_module_0.md)
+            * [Footer C - Custom HTML](demo_module_10.md)
             * [Copyright B - Menu](demo_module_11.md)
         * [Main Menu](demo.md#menu-settings)
     * [FAQ](faq.md)
