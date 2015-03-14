@@ -1,5 +1,5 @@
 ---
-title: How to Install a RocketTheme phpBB Style
+title: How to Install a RocketTheme Style for phpBB 3.0
 description: This document will guide you through the process of installing a new phpBB style.
 breadcrumb: /phpbb:phpBB/!start:Getting Started/!styles.md:How to Install a RocketTheme phpBB Style
 
@@ -50,9 +50,11 @@ After you have set these options, simply select **Submit** to complete installat
 Installing Administrative Modules
 -----
 
+### RokBB for phpBB 3.0
+
 ![][rokbb]
 
-When installing RokBB, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files contained within:
+When installing RokBB for 3.0, the contents of the downloaded ZIP file you receive from RocketTheme can be uploaded directly to your phpBB installation. Here is a quick list of critical files contained within:
 
 | File                            | Upload to                          |  
 | :------------------------------ | :--------------------------------- |  
@@ -98,6 +100,26 @@ After this this done, log in to the **phpBB Administration Control Panel** and c
 Do not be worried about the installation process, as we only need this operation to be executed once. After that, upgrading RokBB will only involve replacing files.
 
 >> NOTE: There are currently three RokBB editions available. This includes: RokBB 3 and RokBB 5 for Club members, and a free version we've made available to non-members that works with our trimmed-down free styles. If you are using a paid style, make sure you're not using the free edition of RokBB.
+
+### RokBB for phpBB 3.1
+
+![rokbb](assets/rokbb_31.png)
+
+Installing RokBB for phpBB 3.1 is simple as uploading extension to the `ext` directory and activating it in **Admin Panel**. 
+
+The RokBB zip file contains file structure which starts with a directory named `rockettheme`. This is vendor name and has to be uploaded into `ext` exactly this way. Renaming it in any kind will result in inability to install it.
+
+Because there are now two versions of RokBB for phpBB 3.0 and 3.1, will have RokBB for Joomla 3.1 available to download **only** from the download panel for styles that support phpBB 3.1. 
+
+![Activate](assets/activate.png)
+
+Once you have uploaded the extension to the `ext` directory, access the Administrative Control Panel and navigate to **Customize > Manage Extensions**. Here, you will see **phpBB 3.1 RokBB Framework** listed. Simply select **Enable** under the **Actions** column to activate the extension.
+
+![Activate](assets/activate_2.png)
+
+Once you have done this, you will be taken to a page where you will be asked to confirm your selection. Click the **Enable** button to complete activation.
+
+
 
 [filezilla]: https://filezilla-project.org/download.php
 [rokbb]: assets/rokbb.jpg
