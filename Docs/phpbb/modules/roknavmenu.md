@@ -103,7 +103,7 @@ First, you will want to make sure you have the latest version of RokBB 3/5 (depe
 
 Once this is set, press **Submit** and enjoy using your Joomla menu on your phpBB board. If changes made here are not immediately visable, a manual cache purge is advised. You can do this by deleting cached files from the **Cache** folder in the phpBB installation via FTP.
 
-[download]: http://www.rockettheme.com/joomla/extensions/roknavmenu
+[download]: http://www.rockettheme.com/joomla/extensions/rokutilities
 [nav]: assets/roknavmenu_1.jpeg
 [nav2]: assets/roknavmenu_2.jpeg
 [nav3]: assets/roknavmenu_3.jpeg
