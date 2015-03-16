@@ -52,7 +52,7 @@ We have detailed how to recreate the individual modules pictured above in the li
 8. [Custom HTML - FP Feature C][module8]
 9. [RokSprocket Lists - Top News][module9]
 10. [Custom HTML - Top Galleries][module10]
-11. [RokSprocket Lists - Top News][module11]
+11. [RokSprocket Lists - Top Reviews][module11]
 12. [FP RokSprocket Strips - Bottom][module12]
 13. [Custom HTML - About Plethora][module13]
 14. [Custom HTML - Sample Pages][module14]
