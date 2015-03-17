@@ -41,7 +41,7 @@ The page's content body is set in the **About Us** article. You will find the co
 Widgets
 -----
 
-Below is a brief rundown of the widgets used to make up the demo page. Widgets in the [**Header**][header] and [**Copyright**][copyright] positions are outlined in the main demo replication area of this guide.
+Below is a brief rundown of the widgets used to make up the demo page. Widgets in the [**Header**](demo_header.md) and [**Copyright**](demo_copyright.md) positions are outlined in the main demo replication area of this guide.
 
 ![Page](page_aboutus.jpeg)
 
