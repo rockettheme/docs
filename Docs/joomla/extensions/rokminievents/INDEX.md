@@ -24,7 +24,6 @@ Key Features
 * **Time Format**: Control the type of date displayed
 * **Event Controls**: Manage the number of events
 * **Layouts**: Various layout parameters
-* **Animation**: Transitions, durations, offsets
 * **Responsive**: Responsive layout and design
 
 Requirements
