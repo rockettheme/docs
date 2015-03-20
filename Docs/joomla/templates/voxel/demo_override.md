@@ -9,7 +9,7 @@ Template Settings
 -----
 One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Voxel Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
-![][Voxel2]
+![Voxel](assets/voxel.jpeg)
 
 :   1. **Logo**  [6%, 22%, se]
     2. **Menu**  [8%, 52%, sw]
@@ -117,4 +117,3 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [demo25]: assets/Voxel.jpg
 [menu]: ../../start/menu.md
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
-[Voxel2]: assets/Voxel.jpeg
