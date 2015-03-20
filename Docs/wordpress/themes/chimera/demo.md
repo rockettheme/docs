@@ -95,6 +95,64 @@ One important thing to note here is that many of the widget sections included in
 * [Footer](demo_footer.md)
 * [Copyright](demo_copyright.md)
 
+RokSprocket and RocketLauncher Settings
+------
+
+Some aspects of the RokSprocket demo content in the Slideshow position are hard-coded in the **demo.less** file. This includes images for the following widgets:
+
+* [Slideshow](demo_slideshow.md)
+
+If you wish to use custom images for these widgets, you can do so by either switching the **Demo Style** setting in the **Template Settings** to **Custom** or remove the **fp-preset-images** suffix from the **Module Class Suffix** field in the module's **Advanced** settings. 
+
+To switch the **Demo Style** setting, you will need to navigate to **Administration -> Chimera Template** and selecting the **Style** tab. By default, the **Demo Body Class** option will be set to the preset selected. By switching this option to **Custom** it will ignore the preset settings for the RokSprocket module found in **Demo.less**.
+
+For reference, and in the event that you wish to modify this code to meet your individual needs, here is the section of the demo.less file that sets this behavior.
+
+~~~ css
+/* Demo Image */
+.demostyleImage(@index) when (@index > 0) {
+    (~".demostyle-type-preset@{index}") {
+        .fp-preset-images {
+            .sprocket-features-index-1 .sprocket-features-img-container.sprocket-fullslideshow-image {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-slideshow/img-01-preset-@{index}.jpg) !important;
+            }
+            .sprocket-features-index-2 .sprocket-features-img-container.sprocket-fullslideshow-image {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-slideshow/img-02-preset-@{index}.jpg) !important;
+            }
+            .sprocket-features-index-3 .sprocket-features-img-container.sprocket-fullslideshow-image {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-slideshow/img-03-preset-@{index}.jpg) !important;
+            }
+        }
+        
+        .fp-roksprocket-strips.fp-preset-images .sprocket-strips-container li .sprocket-strips-image-container {
+            img[src$="img-01.jpg"] {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-mainbottom/img-01-preset-@{index}.jpg);
+            }
+            img[src$="img-02.jpg"] {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-mainbottom/img-02-preset-@{index}.jpg);
+            }
+            img[src$="img-03.jpg"] {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-mainbottom/img-03-preset-@{index}.jpg);
+            }
+        }
+
+        .fp-roksprocket-slideshow.fp-preset-images {
+            .sprocket-features-index-1 .sprocket-features-img-container img {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-fullwidth/img-01-preset-@{index}.jpg);
+            }
+            .sprocket-features-index-2 .sprocket-features-img-container img {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-fullwidth/img-02-preset-@{index}.jpg);
+            }
+            .sprocket-features-index-3 .sprocket-features-img-container img {
+                background-image: url(../../../rockettheme/rt_chimera_wp/home/fp-fullwidth/img-03-preset-@{index}.jpg);
+            }
+        }
+    }
+    .demostyleImage(@index - 1);
+}
+.demostyleImage(6);
+~~~
+
 [gantry]: http://gantry-framework.org/download
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
