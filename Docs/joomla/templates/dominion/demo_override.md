@@ -124,7 +124,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [Style]: http://www.gantry-framework.org/documentation/joomla/configure
 [template2]: assets/dominion2.jpeg
 [styles]: assets/setstyle.jpeg
-[features]: assets/setfeatures.jpeg
+[features]: assets/setfeatures.png
 [menu]: assets/setmenu.jpeg
 [layouts]: assets/setlayouts.jpeg
 [mobile]: assets/setmobile.jpeg
