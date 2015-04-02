@@ -10,6 +10,8 @@ Introduction
 
 The **About Us** example page demonstrates how you can create a beautiful page with the Cygnet template. Here is some information to help you replicate this page as it appears in the demo.
 
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 Mainbody
 -----
 
