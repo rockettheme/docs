@@ -37,7 +37,7 @@ If the transaction fails repeatedly, you may wish to contact your bank or credit
 
 >> NOTE for PayPal Users: Please be aware, we only receive the error messages from PayPal and have no control over the transaction. Therefore, we can only advise on how to address the issue. Only PayPal and your bank can offer an affirmative solution.
 
-[terms]: http://www.rockettheme.com/legal/terms.php
+[terms]: http://www.rockettheme.com/legal/94-terms-of-service
 [forum]: http://www.rockettheme.com/forum/
 [stripe]: http://www.stripe.com
 [contact]: http://www.rockettheme.com/contact-us

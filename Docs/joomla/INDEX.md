@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Cygnet](templates/cygnet)
 	- [Audacity](templates/audacity)
 	- [Sirocco](templates/sirocco)
 	- [Iridescent](templates/iridescent)
