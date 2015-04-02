@@ -10,6 +10,8 @@ Introduction
 
 The **Portfolio** example page demonstrates how you can create a clean, functional portfolio with the Cygnet template. Here is some information to help you replicate this page as it appears in the demo.
 
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 Modules
 -----
 
@@ -183,7 +185,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Strip HTML Tags   | No            |
 | Previews Per Page | 1             |
 | Items Per Row     | 1             |
-| Arrow Navigation  | Show          |
+| Arrow Navigation  | Hide          |
 | Pagination        | Show          |
 | Animation         | Fade Delayed  |
 | Autoplay          | Disable       |
@@ -194,7 +196,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 |        Option       |           Setting            |
 | :------------------ | :--------------------------- |
-| Module Class Suffix | `box3 rt-center nomarginall` |
+| Module Class Suffix | `box1 rt-center nomarginall` |
 
 ### Custom HTML - Our Satisfied Clients
 

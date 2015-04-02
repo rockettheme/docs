@@ -10,6 +10,8 @@ Introduction
 
 The **Contact Us** example page demonstrates how you can create a clean, functional contact page with the Cygnet template. Here is some information to help you replicate this page as it appears in the demo.
 
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+
 Modules
 -----
 
@@ -19,10 +21,10 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 :   1. **Custom HTML - Contact Us** [11%, 45%, se]
     2. **Breadcrumbs** [19%, 12%, se]
-    3. **Custom HTML - Contact Info** [20%, 66%, se]
+    3. **Custom HTML - Contact Info** [23%, 66%, se]
     4. **Custom HTML - Got Billing and Payments Questions?** [65%, 35%, se]
-    5. **Custom HTML - Cygnet Demo** [75%, 12%, se]
-    6. **Custom HTML - Sample Contact Info** [75%, 52%, se]
+    5. **Custom HTML - Cygnet Demo** [73%, 12%, se]
+    6. **Custom HTML - Sample Contact Info** [73%, 52%, se]
 
 1. [Custom HTML - Contact Us](contactus.md#custom-html---contact-us)
 2. [Breadcrumbs](contactus.md#breadcrumbs)
