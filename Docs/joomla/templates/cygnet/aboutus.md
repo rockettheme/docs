@@ -12,23 +12,6 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-Mainbody
------
-
-![](assets/page_aboutus_5.jpeg)
-
-The page's content body is set in the **About Us** article. You will find the content used in the article below.
-
-~~~ .html
-<h3>Cygnet, the Powerful Template</h3>
-
-<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
-
-<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
-
-<p><a href="http://www.rockettheme.com/joomla/templates/cygnet" class="readon">Learn More</a></p>
-~~~
-
 Modules
 -----
 
@@ -350,3 +333,20 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Option              | Setting           |
 | :----------         | :----------       |
 | Module Class Suffix | `rt-phone-center` |
+
+Mainbody
+-----
+
+![](assets/page_aboutus_5.jpeg)
+
+The page's content body is set in the **About Us** article. You will find the content used in the article below.
+
+~~~ .html
+<h3>Cygnet, the Powerful Template</h3>
+
+<p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>
+
+<p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
+
+<p><a href="http://www.rockettheme.com/joomla/templates/cygnet" class="readon">Learn More</a></p>
+~~~

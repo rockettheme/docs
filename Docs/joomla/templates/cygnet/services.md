@@ -391,19 +391,19 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :------------------ | :----------------- |
 | Module Class Suffix | `box1 nomarginall` |
 
-### Custom HTML - Save Your Time and Effort
+### Custom HTML - Save Yourself Time and Effort
 
 ![](assets/page_services_7.jpeg)
 
 #### Module
 
-|   Option   |           Setting           |
-| :--------- | :-------------------------- |
-| Title      | `Save Your Time and Effort` |
-| Show Title | Show                        |
-| Position   | extension-a                 |
-| Status     | Published                   |
-| Access     | Public                      |
+| Option     | Setting                         |
+| :--------- | :--------------------------     |
+| Title      | `Save Yourself Time and Effort` |
+| Show Title | Show                            |
+| Position   | extension-a                     |
+| Status     | Published                       |
+| Access     | Public                          |
 
 #### Content
 
@@ -422,9 +422,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Advanced
 
-|        Option       |   Setting   |
-| :------------------ | :---------- |
-| Module Class Suffix | `rt-center` |
+| Option              | Setting                        |
+| :------------------ | :----------                    |
+| Module Class Suffix | `box4, rt-center, nomarginall` |
 
 ### Custom HTML - Cygnet Demo
 

@@ -33,7 +33,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 1. [Custom HTML - Blog](blog.md#custom-html---blog)
 2. [Breadcrumbs](blog.md#breadcrumbs)
-3. [RokAjaxSearch - Search the Blog](blog.md#rokajaxsearch---search-the-blog)
+3. [RokAjaxSearch - Search the Blog](blog.md#rokajaxsearch---site-search)
 4. [Menu Module - Site Menu](blog.md#menu-module---site-menu)
 5. [Custom HTML - Template Tutorials](blog.md#custom-html---template-tutorials)
 6. [Login Form - Login Form](blog.md#login---login-form)
@@ -248,20 +248,20 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Module
 
-| Option      | Setting             |
-| :---------- | :-----------        |
-| Title       | `Who's Online`      |
-| Show Title  | Show                |
-| Position    | sidebar-a           |
-| Status      | Published           |
-| Access      | Public              |
-| Display     | # of Guests / Users |
+| Option      | Setting                                       |
+| :---------- | :-----------                                  |
+| Title       | `Who[span class="arialfont"]'[/span]s Online` |
+| Show Title  | Show                                          |
+| Position    | sidebar-a                                     |
+| Status      | Published                                     |
+| Access      | Public                                        |
+| Display     | # of Guests / Users                           |
 
 #### Advanced
 
 | Option              | Setting      |
 | :-----------        | :----------- |
-| Module Class Suffix | `title1`     |
+| Module Class Suffix |              |
 
 ### Custom HTML - Join Our Newsletter
 
@@ -305,9 +305,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Advanced
 
-|        Option       |   Setting   |
-| :------------------ | :---------- |
-| Module Class Suffix | `rt-center` |
+| Option              | Setting                        |
+| :------------------ | :----------                    |
+| Module Class Suffix | `box4, rt-center, nomarginall` |
 
 ### Custom HTML - Cygnet Demo
 
