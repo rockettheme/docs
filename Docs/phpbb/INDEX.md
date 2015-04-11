@@ -35,6 +35,7 @@ more:
 
 * Club Styles
 
+	- [Cygnet](styles/cygnet)
 	- [Audacity](styles/audacity)
 	- [Sirocco](styles/sirocco)
 	- [Iridescent](styles/iridescent)
