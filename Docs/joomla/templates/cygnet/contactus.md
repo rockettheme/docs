@@ -49,6 +49,12 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 >> The title of this module requires RokCandy in order to appear properly on the screen due to the `[span]` tags present. See the main [RokCandy](../../extensions/rokcandy/rokcandy_use.md#rokcandy-use-in-rockettheme-template-demos) guide for additional instructions.
 
+#### Content
+
+~~~ .html
+&nbsp;
+~~~
+
 #### Options
 
 |           Option          | Setting |
@@ -130,7 +136,6 @@ Below is a brief rundown of the modules used to make up the demo page.
 <h4>Online Support</h4>
 <p>
     <span>Skype ID: cygnet.theme</span><br />
-    <span>BBM PIN: 12ABC345</span>
 </p>
 ~~~
 
@@ -145,7 +150,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 |        Option       |    Setting    |
 | :------------------ | :------------ |
-| Module Class Suffix | `box1 title3` |
+| Module Class Suffix | `box4 title1` |
 
 ### Custom HTML - Got Billing and Payments Questions?
 
@@ -178,9 +183,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | `rt-center` |
+| Option              | Setting                        |
+| :----------         | :----------                    |
+| Module Class Suffix | `box4, rt-center, nomarginall` |
 
 ### Custom HTML - Cygnet Demo
 

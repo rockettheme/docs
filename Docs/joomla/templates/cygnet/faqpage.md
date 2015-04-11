@@ -27,7 +27,7 @@ Below is a brief rundown of the modules used to make up the demo page.
     8. **Custom HTML - Sample Contact Info** [75%, 52%, se]
 
 1. [Custom HTML - FAQ](faqpage.md#custom-html---faq)
-2. [Breadcrumbs](faqpage#breadcrumbs)
+2. [Breadcrumbs](faqpage.md#breadcrumbs)
 3. [Custom HTML - Forum Support](faqpage.md#custom-html---forum-support)
 4. [RokSprocket Lists](faqpage.md#roksprocket-lists)
 5. [Article Content](faqpage.md#mainbody)
@@ -233,9 +233,9 @@ Collaboratively administrate empowered markets via plug-and-play networks. Dynam
 
 #### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | `rt-center` |
+| Option              | Setting                        |
+| :----------         | :----------                    |
+| Module Class Suffix | `box4, rt-center, nomarginall` |
 
 ### Custom HTML - Cygnet Demo
 
@@ -329,7 +329,7 @@ Mainbody
 
 ![](assets/page_faq_5.jpeg)
 
-The page's content body is set in the **About Us** article. You will find the content used in the article below.
+The page's content body is set in the **FAQ** article. You will find the content used in the article below.
 
 ~~~ .html
 <h3>Common Queries and Questions</h3>

@@ -217,9 +217,9 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 #### Advanced
 
-|        Option       |   Setting   |
-| :------------------ | :---------- |
-| Module Class Suffix | `rt-center` |
+| Option              | Setting                        |
+| :------------------ | :----------                    |
+| Module Class Suffix | `box4, rt-center, nomarginall` |
 
 ### Custom HTML - Cygnet Demo
 
