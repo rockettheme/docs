@@ -2,8 +2,8 @@
 
 breadcrumb: /phpbb:phpBB/!modules:Modules/
 
-details: http://www.rockettheme.com/joomla/extensions/rokutilities
-download: http://www.rockettheme.com/joomla/extensions/rokutilities
+details: http://www.rockettheme.com/joomla/extensions/rokutilities/
+download: http://www.rockettheme.com/joomla/extensions/rokutilities/
 
 ---
 
