@@ -36,17 +36,6 @@ Features
 * FF4+, Opera 9.6, Safari 3, IE8, 9 Compatible
 * W3C XHTML 1.0 Strict. W3C CSS Valid
 
-Responsive Theme
------
-
-![][responsive]
-
-Ionosphere is a responsive Magento theme. That means that there is no need for an additional mobile version of your store, as the template automatically adapts to the viewing device, such as a smartphone, tablet or desktop, based on the resolution of the screen.
-
-This is achieved through @media queries - which can detect the width of the browser window, and allow for different CSS accordingly. It also detects if you are viewing from a mobile device, and if so, will display a mobile optimized version of our ProductView extension, complete with a product image gallery that can be browsed with touch slide gestures.
-
-There are 5 "breakpoints" for the template, each one optimized to display your products prominently, making sure that everyone can browse your store from whatever device they please, from mobiles up to widescreen desktops. For example, the menu system for a smartphone device will be that of a select-field (a select field is a great solution for this because most phones have nice native select UI elements), whilst desktops will get the full animated dropdown menu.
-
 RokMage Extensions
 -----
 
