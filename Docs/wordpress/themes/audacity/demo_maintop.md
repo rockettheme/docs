@@ -128,13 +128,13 @@ Leaving everything else at its default setting, select **Save**.
 
 This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section.
 
-#### RokSprocket Tabs
+#### RokSprocket (Tabs)
 
 You will need to do two things to prepare this widget so that it looks similar to the one in the demo.
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget.
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket).
 
 **Simple Content Provider**
 
