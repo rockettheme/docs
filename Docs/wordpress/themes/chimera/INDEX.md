@@ -57,7 +57,7 @@ A responsive layout adapts automatically to the viewing device's width, such as 
 
 ### Animation
 
-The animated elements that trigger as you scroll down the page are handled via classes applied to modules. These classes are either included in the **Custom Variations** field or in-line in the content.
+The animated elements that trigger as you scroll down the page are handled via classes applied to widgets. These classes are either included in the **Custom Variations** field or in-line in the content.
 
 You can find a visual example as well as the class names of classes that are supported by Chimera [on the Animate.css project site](http://daneden.github.io/animate.css/).
 
