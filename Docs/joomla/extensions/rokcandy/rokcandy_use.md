@@ -10,7 +10,7 @@ How to Configure RokCandy
 
 ![][rokcandy1]
 
-RokCandy is distributed with default snippets for a variety of logical purposes such as for content title. However, Joomla offers its templates the capacity to override the platform's core. In this manner, we can add files to the template that will override the snippets in RokCandy. Therefore, you can quickly add and edit your own macros without modifying core files. 
+RokCandy is distributed with default snippets for a variety of logical purposes such as for article and module titles. However, Joomla offers its templates the capacity to override the platform's core. In this manner, we can add files to the template that will override the snippets in RokCandy. Therefore, you can quickly add and edit your own macros without modifying core files. 
 
 ![][rokcandy2]
 
