@@ -86,7 +86,7 @@ You can download the extension settings installer file from the template [downlo
 * Log in to the Magento administrator dashboard (http://www.(your url).com/admin/ by default)
 * Go to **System -> Configuration**
 * Click the **Design** tab on the left
-* Under the **Package** heading, add `Infuse` as the **Current Package Name**
+* Under the **Package** heading, add `infuse` as the **Current Package Name**
 * Under the **Themes** heading, add the word `default` as the **Layout**
 * Add `style1` (or which ever preset you prefer) as the **Skin** (Images / CSS), and save
 
