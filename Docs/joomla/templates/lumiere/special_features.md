@@ -28,7 +28,7 @@ You can choose the background style you would like to use on the template manage
 
 ![][demo2]
 
-If you do not want to use RocketLauncher and just want to install the standalone Lumiere template, the videos are not included. Just download the video files from [Lumiere Download Area][lumiere], unpack it and upload the videos to <Joomla Root>/templates/rt_lumiere/videos/ directory. You could also upload your own videos in this directory.
+If you do not want to use RocketLauncher and just want to install the standalone Lumiere template, the videos are not included. Just download the video files from [Lumiere Download Area][lumiere], unpack it and upload the videos to `<Joomla Root>/templates/rt_lumiere/videos/` directory. You could also upload your own videos in this directory.
 
 
 #### HTML5 Video Format
@@ -53,33 +53,32 @@ As mentioned above, HTML5 video uses MP4, WebM and Ogg formats. While most serve
 
 In case you could not see your video plays, and if you are using Apache webserver you will need to add the following code to an .htaccess file in the directory where your video files are located. 
 
-LINE NUMBER ON/OFF | EXPAND/CONTRACT | SELECT ALL
- 
+~~~ html
 AddType video/ogg .ogv
 AddType video/mp4 .mp4
 AddType video/webm .webm
+~~~
 
 
-You can download the following htaccess.txt, rename it to .htaccess, and put it inside your video folder.
- htaccess.txt
-(70 Bytes) Downloaded 474 times
+You can download [this htaccess.txt file](http://www.rockettheme.com/forum/attachment/84990/htaccess.txt), rename it to .htaccess, and put it inside your video folder.
 
+For MAMP users, you can edit the `/Applications/MAMP/conf/apache/mime.types` by adding the following at the bottom. Please create a backup of that file (mime.types) first before editing it.
 
-For MAMP users, you can edit the /Applications/MAMP/conf/apache/mime.types by adding the following at the bottom. Please create a backup of that file (mime.types) first before editing it.
-LINE NUMBER ON/OFF | EXPAND/CONTRACT | SELECT ALL
- 
+~~~ html
 video/ogg                   ogv
 video/mp4                   mp4
 video/webm                  webm
+~~~
 
 ![][demo5]
 
-For XAMPP users, you can edit the /XAMPP/apache/conf/mime.types by adding the following. Please create a backup of that file (mime.types) first before editing it.
-LINE NUMBER ON/OFF | EXPAND/CONTRACT | SELECT ALL
+For XAMPP users, you can edit the `/XAMPP/apache/conf/mime.types` by adding the following. Please create a backup of that file (mime.types) first before editing it.
  
+~~~ html
 video/ogg                   ogv
 video/mp4                   mp4
 video/webm                  webm
+~~~
 
 ![][demo6]
 
