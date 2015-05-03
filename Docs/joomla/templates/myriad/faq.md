@@ -108,7 +108,7 @@ You can adjust the **width, height, bottom, and padding-right** settings to meet
 
 >> NOTE: Step 3 and 4 of this tutorial may already be completed if you are using the RocketLauncher. It is still good practice to check these files to ensure that the proper settings are in place.
 
-The next step involved visiting the **Menu Manager** in your Joomla Administrator and locating the **Myriad** menu item. The **Menu Item Type** should be listed as a **Menu Item Alias**. The settings should appear as pictured below:
+The next step involved visiting the **Menu Manager** in your Joomla Administrator and locating the **Myriad** menu item. The **Menu Item Type** should be listed as **Custom**. The settings should appear as pictured below:
 
 ![](assets/myriadmenu_1.jpeg)
 
