@@ -54,7 +54,7 @@ Corvus' responsive grid system is designed for desktop, tablet and smartphone sy
 
 Corvus comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Corvus
 [corvus]: assets/corvus.jpeg

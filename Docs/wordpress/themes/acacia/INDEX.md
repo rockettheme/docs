@@ -47,7 +47,7 @@ Key Features
 
 Create exquisite graphical charts using HTML5 and Chart.js, which is built-in with Acacia. Construct pie, line and bar charts with ease. Further, Acacia uses the Chart feature, alongside the vast collection of Font Awesome icons to create beautiful iconography.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Acacia
 [acacia]: assets/acacia.jpeg

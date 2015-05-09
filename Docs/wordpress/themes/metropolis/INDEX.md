@@ -51,7 +51,7 @@ For mobile devices, a basic version of the Dropdown Menu will be used. It is act
 
 Metropolis comes with the RokSprocket plugin which is built to work with a responsive layout and support mobile touch events, such as '**swipe**'. This is a modern way to display your site's featured content with minimal required effort on your part to maintain and update.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-metropolis
 [metropolis]: assets/wp_metropolis.jpeg

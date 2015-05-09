@@ -41,7 +41,7 @@ I installed Alerion RocketLauncher but the images are different with the demo si
 -----
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/Alerion/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-template-alerion

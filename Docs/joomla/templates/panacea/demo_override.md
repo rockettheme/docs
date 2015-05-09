@@ -138,7 +138,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default     | IE7 Redirect        | On                                                                   |
 
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [template2]: assets/panacea2.jpeg
 [styles]: assets/setstyle.jpeg
 [features]: assets/setfeatures.jpeg

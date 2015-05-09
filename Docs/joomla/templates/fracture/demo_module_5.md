@@ -36,7 +36,7 @@ Enter the following in the **Custom Output** text editor.
 
 <p><a href="index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=113"><em class="bold">More with LESS.</em></a> Built-in LESS CSS compilation increased performance whilst making CSS development easier and intuitive.</p>
 
-<a class="readon" href="http://www.gantry-framework.org/documentation/joomla/basics/key-features" target="_blank"><span>More Features</span></a>
+<a class="readon" href="http://gantry.orgdocumentation/joomla/basics/key-features" target="_blank"><span>More Features</span></a>
 ~~~
 
 ### Basic

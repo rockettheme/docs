@@ -352,5 +352,5 @@ Here is a breakdown of options changes you will want to make to match the demo.
 * Leaving everything else at its default setting, select **Save**.
 
 
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure
 [roksprocket]: ../../plugins/roksprocket/

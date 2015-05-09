@@ -25,7 +25,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.x.18+, 3.2.15+ is required for Clarion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v3.x.18+, 3.2.15+ is required for Clarion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -73,7 +73,7 @@ A selection of our RocketTheme Extensions have been styled to integrate with the
 * RokMiniEvents: A simple and elegant solution for displaying events on your site.
 * RokAjaxSearch: An advanced ground-up revolutionary Joomla! gallery extension.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [clarion]: assets/clarion2.jpeg
 [rokgallery1]: assets/rokgallery1.jpg
 [rokgallery2]: assets/rokgallery2.jpg

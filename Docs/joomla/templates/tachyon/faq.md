@@ -21,7 +21,7 @@ What is Splicemenu?
 -----
 A Mootools powered dropline menu system, 1st/2nd level items in the header and others in the sidebar.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-Templates/tachyon/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-template-tachyon/

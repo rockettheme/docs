@@ -117,7 +117,7 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 
 Secondly, you will need to change the **Page Heading** to **Feature Focus**.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

@@ -52,7 +52,7 @@ Gantry offers a grid system, splitting module position rows into blocks of up to
 
 Syndicate has compatibility styling for 7 major third party extensions: K2, JComments, Contact Form Enhanced, Tienda, NinjaBoard, Virtuemart and JomSocial. The extensions will not be included in the RocketLauncher, but can be acquired from the respective developers.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/syndicate.jpeg
 [grid]: assets/grid.jpg
 [extensions]: assets/extensions.jpg

@@ -59,7 +59,7 @@ Hexeris comes with the RokSprocket plugin that is built to work with a responsiv
 
 Hexeris has integrated styling for the new RokSprocket layout Strips, which displays rotatable content blocks horizontally.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Hexeris
 [Hexeris]: assets/hexeris.jpeg

@@ -110,5 +110,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Home  | Main Menu | Home    |  
 
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [fresco2]: assets/fresco.jpeg

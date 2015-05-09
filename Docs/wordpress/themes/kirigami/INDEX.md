@@ -63,7 +63,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 
 Kirigami comes with the RokSprocket plugin that is built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [kirigami]: assets/wp_kirigami.jpg
 [responsive]: assets/responsive.jpg

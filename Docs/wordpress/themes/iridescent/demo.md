@@ -21,7 +21,7 @@ Recommended Plugins
 
 Here is a list of RocketTheme plugins used to create the demo version of Iridescent:
 
-* [Gantry Framework](http://gantry-framework.org/download)
+* [Gantry Framework](http://gantry.org/downloads)
 * [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 * [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)

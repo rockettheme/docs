@@ -52,7 +52,7 @@ The richness of Entropy is composited in part from its prolific use of custom fo
 
 The template is outfitted with Smooth Scroll, which adds a smooth animation effect to page anchors. The effect activates when the top button is clicked, smoothly scrolling to the top of the page. It also works for sectional scrolling, as demoed in the 1st level menu items.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/entropy.jpeg
 [customfont]: assets/customfont.jpg
 [scrolling]: assets/scrolling.jpg

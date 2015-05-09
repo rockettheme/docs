@@ -100,7 +100,7 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery

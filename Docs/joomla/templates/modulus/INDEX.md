@@ -46,7 +46,7 @@ Key Features
 
 The login module is an important element of any site. Nevertheless, it can be a bulky presence on a page, especially if you are conscious of screen space. Modulus uses a popup login powered by RokBox, which is activated by a single button in the menu bar, to alleviate this.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/modulus.jpeg
 [login]: assets/login.jpg
 [featured]: assets/featured.jpg

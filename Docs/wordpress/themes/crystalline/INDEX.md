@@ -47,7 +47,7 @@ The Color Chooser is an interactive popup that allows you to edit the various st
 
 There are 14 suffixes: bg1-5, title1-5, flush, flushtop, flushbottom & basic, a mix of stylistic suffixes, to adjust title/bg style and color, as well as structural suffixes. Widget Variations allow for the individual styling of each widget within a position, without it being global.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [crystalline]: assets/crystalline.jpeg
 [color]: assets/color.jpg

@@ -133,7 +133,7 @@ Once all these steps are complete, you should be able to check your site to see 
 
 The white line can be removed by deleting the comment lines from the CSS file we created earlier. These are lines **25** and **29** in the example listed in **Step 2**.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/myriad/index.php/features/features-overview
 [forum]: http://www.rockettheme.com/forum/joomla-template-myriad
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

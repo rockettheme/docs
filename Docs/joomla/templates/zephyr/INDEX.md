@@ -54,7 +54,7 @@ A uniquely styled feature is the horizontal login in the header area. The stylin
 
 Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as: inline subtext, icons, modules, module positions, custom column widths and number, as well as control over how menu items are distributed between columns.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/zephyr.jpeg
 [compactlogin]: assets/compactlogin.jpg
 [fusionmenu]: assets/fusionmenu.jpg

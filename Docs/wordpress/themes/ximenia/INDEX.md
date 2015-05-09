@@ -47,7 +47,7 @@ Key Features
 
 The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; all have Ximenia-specific styling, as seen on the Ximenia Demo site. RokSprocket is a powerful content widget with an intuitive administrator interface.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [ximenia]: assets/ximenia.jpeg
 [responsive]: assets/responsive.jpg

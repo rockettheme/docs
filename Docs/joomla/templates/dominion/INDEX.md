@@ -53,7 +53,7 @@ Fusion is an advanced, CSS menu system, which offers a wide range of per menu op
 
 Template side RTL support from the Fusion menu to the Typography; alongside Gantry's RTL support for the automatic flipping of the grid system. If Joomla is set to RTL mode, in its language settings, the template will automatically adjust to its RTL layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/dominion.jpeg
 [fusion]: assets/fusion.jpg
 [rtl]: assets/rtl.jpg

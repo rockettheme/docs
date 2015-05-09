@@ -41,7 +41,7 @@ Here is the **Article Text** we used:
 	<h5 class="smallmarginbottom nomargintop">Framework</h5>
 	<p class="smallmarginbottom"><em><small>Advanced Features</small></em></p>
 	<p>Gantry provides the template foundation, with its standard set of features, such as the advanced template manager.</p>
-	<a href="http://gantry-framework.org/" class="readon"><span>Read More</span></a>
+	<a href="http://gantry.org" class="readon"><span>Read More</span></a>
 	<div class="clear"></div>
 </div>
 ~~~

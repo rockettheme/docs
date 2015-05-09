@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, 3.3+
 
->> NOTE: Gantry v4.1.26+ is required for Ricochet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.26+ is required for Ricochet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

@@ -21,7 +21,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, or 3.3
 
->> NOTE: Gantry v4.1.19+ is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.19+ is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -62,7 +62,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 
 Hadron uses Chart.js and HTML5 canvas to display beautiful graphs and exquisite typography. This only works on modern browsers like IE9+.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [Hadron]: assets/hadron.jpeg
 [responsive]: assets/responsive.jpg
 [chart]: assets/chart.jpg

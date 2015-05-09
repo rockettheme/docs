@@ -53,7 +53,7 @@ The second Text widget in the section is made a lot like the others. You will ne
 
 <p><a href="http://demo.rockettheme.com/wordpress-themes/wp_fracture/features/plugins/"><em class="bold">More with LESS.</em></a> Built-in LESS CSS compilation increased performance whilst making CSS development easier and intuitive.</p>
 
-<a class="readon" href="http://www.gantry-framework.org/documentation/wordpress/basics/" target="_blank"><span>More Features</span></a>
+<a class="readon" href="http://docs.gantry.org/gantry4/basics" target="_blank"><span>More Features</span></a>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

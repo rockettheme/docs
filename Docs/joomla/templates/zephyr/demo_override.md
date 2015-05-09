@@ -135,7 +135,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/zephyr.jpg
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [Zephyr2]: assets/zephyr2.jpeg
 [styles]: assets/setstyle.jpeg
 [features]: assets/setfeatures.jpeg

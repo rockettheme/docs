@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Callisto](templates/callisto)
 	- [Cygnet](templates/cygnet)
 	- [Audacity](templates/audacity)
 	- [Sirocco](templates/sirocco)
@@ -130,7 +131,7 @@ more:
 
 <!-- -->
 
-* Basic Tutorials
+* Basic Tutorials (General)
 
 	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
 	- [How to Update a RocketTheme Template](platform/update_template.md)
@@ -142,18 +143,40 @@ more:
 	- [How to Create a Menu Module](basic/menu_manager.md#creating-menu-modules)
 	- [How to Add Images](basic/adding_images.md)
 	- [How to Add Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
-	- [How to Change the Default Logo](basic/how_to_edit_the_logo.md)
 	- [How to Edit Template Text](basic/how_to_edit_template_text.md)
 	- [How to Set Up a RokBox Member Login](basic/how_to_set_up_a_rokbox_member_login.md)
-	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)
-	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
-	- [How to Create Responsive Content](basic/creating_responsive_content.md)
-	- [K2 Styling Guide](basic/k2_styling_guide.md)
-	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
+	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)	
 	- [Frequently Asked Questions](basic/faq.md)
 	- [How to Identify an Existing Module](basic/module_identification.md)
 	- [How to Create a Multilingual Site](basic/how_to_create_a_multilingual_site.md)
 	- [Five Tips to Help You Get Started with Joomla](http://www.rockettheme.com/blog/joomla/138-five-tips-to-help-you-get-started-with-joomla)
+
+<!-- -->
+
+* Basic Tutorials (Gantry 4)
+
+	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
+	- [K2 Styling Guide](basic/k2_styling_guide.md)
+	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
+	- [How to Create Responsive Content](basic/creating_responsive_content.md)
+	- [How to Change the Default Logo](basic/how_to_edit_the_logo.md)
+
+<!-- -->
+
+* Basic Tutorials (Gantry 5)
+
+	- [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
+	- [Adding a Custom Stylesheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-stylesheet)
+	- [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-font)
+	- [Customizing the Error Page](http://docs.gantry.org/gantry5/tutorials/customize-the-error-page)
+	- [Using the Font Picker](http://docs.gantry.org/gantry5/tutorials/using-the-font-picker)
+	- [Using the Color Picker](http://docs.gantry.org/gantry5/tutorials/using-the-color-picker)
+	- [Using the Icon Picker](http://docs.gantry.org/gantry5/tutorials/using-the-icon-picker)
+	- [Creating a New Particle](http://docs.gantry.org/gantry5/advanced/creating-a-new-particle)
+	- [Particle YAML Field Types](http://docs.gantry.org/gantry5/advanced/particle-yaml-field-types)
+	- [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
+	- [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
+	- [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
 
 <!-- -->
 

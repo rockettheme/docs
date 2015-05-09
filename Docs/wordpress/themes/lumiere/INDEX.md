@@ -62,7 +62,7 @@ At [Downloops.com][downloops], you can download 200 artistic videos for reasonab
 
 Lumiere comes with the RokSprocket plugin that are built to work with a responsive layout and support mobile touch events, such as 'swipe'.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Lumiere
 [lumiere]: assets/lumiere2.jpeg

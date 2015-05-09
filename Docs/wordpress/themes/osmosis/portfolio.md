@@ -407,5 +407,5 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [portfoliopage11]: assets/page_portfolio_11.jpeg
 [portfoliopage12]: assets/page_portfolio_12.jpeg
 [portfoliopage13]: assets/page_portfolio_13.jpeg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure
 [roksprocket]: ../../plugins/roksprocket/

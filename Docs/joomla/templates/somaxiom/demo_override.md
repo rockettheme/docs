@@ -118,5 +118,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/Somaxiom.jpg
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [Somaxiom2]: assets/Somaxiom.jpeg

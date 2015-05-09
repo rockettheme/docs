@@ -31,7 +31,7 @@ The effect that makes the module expand as you scroll down is the result of the 
 Enter the following in the **Custom Output** text editor.
 
 ~~~
-<p>A feature of Corvus is the <strong>expanded</strong> module. Any module that has the <strong>expanded</strong> module class suffix applied to it, will expand based on window <strong>scroll</strong>. The feature is best applied in the <strong>showcase</strong> position, with a full width module, as demoed currently. The <strong>overlap</strong> effect below, is via CSS and can be customized through the <a href="http://www.gantry-framework.org/documentation/joomla/tutorials/custom_stylesheet.md">custom stylesheet process</a>, depending on your content needs.</p>
+<p>A feature of Corvus is the <strong>expanded</strong> module. Any module that has the <strong>expanded</strong> module class suffix applied to it, will expand based on window <strong>scroll</strong>. The feature is best applied in the <strong>showcase</strong> position, with a full width module, as demoed currently. The <strong>overlap</strong> effect below, is via CSS and can be customized through the <a href="http://gantry.orgdocumentation/joomla/tutorials/custom_stylesheet.md">custom stylesheet process</a>, depending on your content needs.</p>
 ~~~
 
 ### Basic

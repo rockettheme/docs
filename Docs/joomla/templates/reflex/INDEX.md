@@ -52,7 +52,7 @@ Fusion is an advanced, CSS menu system, which offers a wide range of per menu op
 
 Reflex has a selection of custom overrides but most notable for the featured content component, where it has a left aligned, and side column-styled date and article info icons, such as print, to provide distinct visuals as compared to the standard Joomla layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/reflex.jpeg
 [fusion]: assets/fusion.jpg
 [featured]: assets/featured.jpg

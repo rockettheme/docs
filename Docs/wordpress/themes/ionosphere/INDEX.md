@@ -47,7 +47,7 @@ These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and
 ![][roksprocket2]
 RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The plugin itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [ionosphere]: assets/ionosphere2.jpeg
 [responsive]: assets/responsive.jpg

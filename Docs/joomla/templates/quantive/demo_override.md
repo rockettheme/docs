@@ -125,7 +125,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Page Suffix        | On                                                                   |  
 
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [template2]: assets/quantive2.jpeg
 [styles]: assets/setstyle.jpeg
 [features]: assets/setfeatures.jpeg

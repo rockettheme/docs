@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.0+ is required for Fracture to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.0+ is required for Fracture to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -68,7 +68,7 @@ Fracture is the first RocketTheme template built to be built on the Gantry4 Fram
 ![][k2]
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Fracture also comes with the K2 extension that is built to work with the responsive layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [fracture]: assets/fracture2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

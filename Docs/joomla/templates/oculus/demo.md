@@ -114,7 +114,7 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 
 You can also set the Dropdown Menu Offset in order to center the sub-menu as seen in our demo. As an example, we will look at the settings for the Features sub-menu within the **Main Menu** found at the top of the **Home** page.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

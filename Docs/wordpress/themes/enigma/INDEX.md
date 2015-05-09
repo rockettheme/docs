@@ -50,7 +50,7 @@ Social is a prevalent part of the modern web, so Enigma provides an easy to use 
 
 Enigma has a custom blog layout (available on our frontpage demo), where it has a left aligned, and tab-styled date to provide distinct visuals as compared to the standard WordPress layout. The title also supports a custom, elegantly-styled font.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Enigma
 [theme]: assets/enigma.jpeg

@@ -9,7 +9,7 @@ Where can I find theme settings?
 -----
 * Log in to the WordPress administrative dashboard at http://www.yoursite.com/wp-admin/
 * Select the **Voxel Settings** sidebar tab on the left of the dashboard.
-* For more information visit our [Gantry documentation](http://gantry-framework.org/documentation/wordpress/configure/) on the settings menu.
+* For more information visit our [Gantry documentation](http://docs.gantry.org/gantry4/configure) on the settings menu.
 
 How do I change the logo?
 -----
@@ -22,4 +22,4 @@ How do I change the logo?
 * Follow the instructions to **Save** your selection.
 * Save the change to your site by selecting the blue **Save** button in the upper-right area of the page.
 
-[gantry]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantry]: http://docs.gantry.org/gantry4/configure

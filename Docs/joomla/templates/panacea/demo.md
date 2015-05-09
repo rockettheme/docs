@@ -66,7 +66,7 @@ Here is a list of RocketTheme extensions we recommend using with Panacea:
 
 Many of these extensions are included with the Panacea RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [rokgallery]: http://www.rockettheme.com/joomla/extensions/rokgallery

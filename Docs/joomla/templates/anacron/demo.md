@@ -111,7 +111,7 @@ The icons that appear at the top-level menu area are configured under the indivi
 
 For example, the **Pages** menu icon is set to `icon-file-text`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

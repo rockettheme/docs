@@ -92,5 +92,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/grunge.jpg
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [Grunge2]: assets/grunge.jpeg

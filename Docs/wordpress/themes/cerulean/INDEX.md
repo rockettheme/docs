@@ -51,7 +51,7 @@ For mobile devices, a basic version of the Dropdown Menu will be used. It is act
 ![][sprocket]
 Cerulean comes with the RokGallery and RokSprocket plugins which are built to work with a responsive layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Cerulean
 [cerulean]: assets/cerulean2.jpeg

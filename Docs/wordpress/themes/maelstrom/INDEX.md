@@ -49,7 +49,7 @@ Scrolling Positions is a feature of Gantry, which, when activated, modifies the 
 
 Maelstrom has 31 inbuilt suffixes with 25 stylistic suffixes. These can be combined to create a diverse range of widget styles. You can see how the widget styles can be portrayed on the demo via the Core Features > Widget Variations page.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [maelstrom]: assets/maelstrom.jpeg
 [scrolling]: assets/scrolling.jpg

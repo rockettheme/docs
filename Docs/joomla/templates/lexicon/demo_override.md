@@ -116,7 +116,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/Lexicon.jpg
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [lexicon2]: assets/lexicon2.jpeg
 [assignments]: assets/assignments_settings.jpeg
 [style]: assets/style_settings.jpeg

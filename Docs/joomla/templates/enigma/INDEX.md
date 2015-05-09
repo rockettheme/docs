@@ -70,7 +70,7 @@ The new Showcase Layout allows you to utilize RokGallery's presentation power to
 
 RokGallery offers an advanced photo gallery solution for Joomla, that rests on a custom tagging architecture, combined with native application slice editing, which Enigma provides integrated styling for.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/enigma.jpeg
 [gallery]: assets/gallery.jpg
 [showcase]: assets/showcase.jpg

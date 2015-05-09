@@ -99,4 +99,4 @@ the oldest item will be loaded in the search result. There are a variety of opti
 [advanced]: assets/rokajaxsearch_advanced.jpeg
 [gantrymodule]: assets/wp_rokajaxsearch_gantrymodule.jpeg
 [googleapi]: http://code.google.com/apis/ajaxsearch/signup.html
-[gantry]: http://gantry-framework.org
+[gantry]: http://gantry.org

@@ -131,7 +131,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Default | Page Suffix         | On                                                                                    |
 
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [Omnicron2]: assets/omnicron2.jpeg
 [styles]: assets/style.jpeg
 [features]: assets/features.jpeg

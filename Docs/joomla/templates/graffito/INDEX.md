@@ -24,7 +24,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.0+ is required for Graffito to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.0+ is required for Graffito to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -79,7 +79,7 @@ Graffito comes with the RokSprocket extension that is built to work with a respo
 
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Graffito also comes with the K2 styling support that is built to work with the responsive layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [Graffito]: assets/Graffito2.jpeg
 [responsive]: assets/responsive.jpg
 [gantry4]: assets/gantry4.jpg

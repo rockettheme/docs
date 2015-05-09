@@ -287,4 +287,4 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [header]: demo_header.md
 [top]: demo_top.md
 [copyright]: demo_copyright.md
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

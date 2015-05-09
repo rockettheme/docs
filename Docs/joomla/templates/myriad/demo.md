@@ -190,7 +190,7 @@ For reference, and in the event that you wish to modify this code to meet your i
 }
 ~~~
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

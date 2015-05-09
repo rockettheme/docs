@@ -46,7 +46,7 @@ Somaxiom has compatibility styling for 3 major third party extensions: K2, JComm
 
 Template side RTL support from the Fusion menu to the Typography; alongside Gantry's RTL support for the automatic flipping of the grid system. If Joomla is set to RTL mode, in its language settings, the template will automatically adjust to its RTL layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [Somaxiom]: assets/somaxiom.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

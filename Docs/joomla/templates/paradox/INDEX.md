@@ -52,7 +52,7 @@ Scrolling Positions is a Gantry feature, which, when activated, modifies the beh
 
 There are two menu options, Triple Level SplitMenu and Fusion. Triple Level Splitmenu splits the first level, second level and all further menu items, allowing for for a navigation bar, a dropline and a sidemenu, as configurable.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/paradox.jpeg
 [scrollingmodules]: assets/scrollingmodules.jpg
 [splitmenu]: assets/splitmenu.jpg

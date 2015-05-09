@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.1.8+ is required for Chapelco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.8+ is required for Chapelco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----

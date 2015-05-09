@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.1.9+ is required for Alerion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.9+ is required for Alerion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -68,7 +68,7 @@ The floating module feature also allows a module position to follow the users vi
 ![][parallax]
 Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the template, allowing configurable areas to move based on scroll position.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [alerion]: assets/alerion2.jpeg
 [responsive]: assets/responsive.jpg
 [quicknavmenu]: assets/quicknavmenu.jpg

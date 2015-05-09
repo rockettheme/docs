@@ -131,4 +131,4 @@ Myriad's logo, as it appears in our RocketLauncher, is partially text based. You
 [menu2]: assets/setmenu.jpeg
 [features]: assets/setfeatures.jpeg
 [setsocial]: assets/setsocial.jpg
-[gantrydocs]: http://www.gantry-framework.org/documentation/joomla/configure
+[gantrydocs]: http://docs.gantry.org/gantry4/configure
