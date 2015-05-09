@@ -39,6 +39,7 @@ more:
 
 * Club Themes
 
+	- [Ricochet](themes/ricochet)
 	- [Nuance](themes/nuance)
 	- [Lexicon](themes/lexicon)
 	- [Anacron](themes/anacron)
