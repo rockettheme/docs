@@ -81,7 +81,7 @@ Doing this will assign the style to the home page. This will allow the style to 
 
 You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [Quasar]: assets/quasar2.jpeg
 [Quasar2]: assets/quasar.jpeg
 [demooverride]: demo_override.md

@@ -17,7 +17,7 @@ Theme Override Options
 
 The **About Us** page is a regular **Page**. To recreate the layout the way it appears in our demo, enter `menu-about-us` in the **Page Suffix** field in the **Gizmos** page inside the **Audacity** theme settings. This suffix is tied to a class in the demo.less file that sets the page up so it appears the way it does in the demo.
 
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Admin > Audacity > Gizmos**. You will likely need to create a theme override specifically for the page before assigning that suffix to it. For more information on creating theme overrides, visit our [Gantry Documentation](http://gantry-framework.org/documentation/wordpress/configure/).
+In order for this to work, you should have the **Page Suffix** option set to **On** in **Admin > Audacity > Gizmos**. You will likely need to create a theme override specifically for the page before assigning that suffix to it. For more information on creating theme overrides, visit our [Gantry Documentation](http://docs.gantry.org/gantry4/configure).
 
 You will also want to assign the override to the **About Us** page via the **Assignments** tab in the **Theme Settings**.
 

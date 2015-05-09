@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.2.20+ is required for Ionosphere to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v3.2.20+ is required for Ionosphere to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -52,7 +52,7 @@ These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and
 ![][roksprocket2]
 RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in Joomla. The module itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [ionosphere]: assets/ionosphere2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

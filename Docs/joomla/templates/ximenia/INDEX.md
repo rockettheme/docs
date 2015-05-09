@@ -24,7 +24,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.2.20+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v3.2.20+ is required for Ximenia to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -57,7 +57,7 @@ The varying layout modes of RokSprocket: Headlines, Features, Tabs and Mosaic; a
 
 K2 is an integrated solution for Joomla! similar to CCK for those acquainted with Drupal. Using K2, you can transform your Joomla! website to a news or magazine site.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [ximenia]: assets/ximenia2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

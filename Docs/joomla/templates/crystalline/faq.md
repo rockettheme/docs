@@ -17,7 +17,7 @@ What is Splitmenu?
 -----
 A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-Templates/crystalline/features
 [font]: http://www.fontsquirrel.com/fonts/ubuntu
 [forum]: http://www.rockettheme.com/forum/joomla-template-crystalline/

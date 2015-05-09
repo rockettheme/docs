@@ -28,5 +28,5 @@ DropDown Menu is a menu theme of the RokNavMenu extension, the addon that drives
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.
 
 [compatibility]: http://www.rockettheme.com/joomla-templates/compatibility-matrix
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [dropdown]: http://demo.rockettheme.com/joomla-templates/afterburner2/features/menu-options

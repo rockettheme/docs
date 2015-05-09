@@ -59,7 +59,7 @@ Template side RTL support from the Fusion menu to the Typography. This is in con
 
 If Joomla is set to RTL mode, in its language settings, the Grunge template will automatically adjust to its RTL layout. The modules will invert inside a row, such as showcase-a and showcase-f being in alternate locations; the various template elements such as the breadcrumbs and typography will also flip; and also the menu will adjust accordingly.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [Grunge]: assets/grunge2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

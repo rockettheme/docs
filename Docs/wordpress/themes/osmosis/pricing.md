@@ -327,4 +327,4 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [pricingpage11]: assets/page_pricing_11.jpeg
 [pricingpage12]: assets/page_pricing_12.jpeg
 [pricingpage13]: assets/page_pricing_13.jpeg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

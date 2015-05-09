@@ -15,7 +15,7 @@ FP RokSprocket Tabs - Showcase
 
 We used a **RokSprocket** module with the **Tabs** layout to make up this area of the front page. It overlaps the **Custom HTML** module that is also placed in the **showcase-c** position thanks to custom script in the **demo.less** file. The `fp-roksprocket-tabs-showcase` module class suffix must be in place in order for this to work.
 
-You can make adjustments to how your module appears and is placed by adding the below code to a custom.less file and changing the widths, heights, and margins. More information on creating/editing this file can be found in our [Gantry documentation](http://gantry-framework.org/documentation/joomla/advanced/less_css.md#custom-less-files).
+You can make adjustments to how your module appears and is placed by adding the below code to a custom.less file and changing the widths, heights, and margins. More information on creating/editing this file can be found in our [Gantry documentation](http://docs.gantry.org/gantry4/advanced/less-css).
 
 Here is the block of code you would change to affect the RokSprocket Tabs module specifically:
 

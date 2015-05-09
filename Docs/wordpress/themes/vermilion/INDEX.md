@@ -57,7 +57,7 @@ A responsive layout adapts automatically to the viewing device's width, such as 
 | Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [Vermilion]: assets/vermilion.jpeg
 [chart]: assets/chart.jpeg

@@ -479,4 +479,4 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [servicespage11]: assets/page_services_11.jpeg
 [servicespage12]: assets/page_services_12.jpeg
 [servicespage13]: assets/page_services_13.jpeg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

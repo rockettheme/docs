@@ -60,7 +60,7 @@ There are two menu options, Triple Level SplitMenu and Fusion. The latter is a C
 
 A uniquely styled feature is the horizontal login in the header area. The styling is automatically applied, without the need for a module suffix, which transforms the vertical login module into a compact, singular lined login, perfect for displaying in space-conscious zones.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/camber.jpeg
 [splitmenu]: assets/splitmenu.jpg
 [login]: assets/login.jpg

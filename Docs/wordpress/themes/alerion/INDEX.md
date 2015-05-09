@@ -67,7 +67,7 @@ The floating widget feature also allows a widget position to follow the users vi
 
 Parallax is apparent motion of a 3D object depending on your perspective. This effect has been transposed into the theme, allowing configurable areas to move based on scroll position.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-alerion
 [theme]: assets/alerion2.jpeg

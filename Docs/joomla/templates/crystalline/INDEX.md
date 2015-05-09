@@ -58,7 +58,7 @@ There are 14 suffixes: bg1-5, title1-5, flush, flushtop, flushbottom & basic, a 
 
 Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as text that appears underneath the parent item, called subtext; inline menu images, such as the prebuilt menu icon images, as well as column number.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/crystalline.jpeg
 [color]: assets/color.jpg
 [style]: assets/style.jpg

@@ -48,7 +48,7 @@ The Fusion Menu is an advanced, CSS based menu system, which offers a wide range
 
 Reflex has a custom blog layout (available on our frontpage demo), where it has a left aligned, and side column-styled date to provide distinct visuals as compared to the standard WordPress layout. The title also supports a custom-styled font.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [reflex]: assets/reflex.jpeg
 [fusion]: assets/fusion.jpg

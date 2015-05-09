@@ -52,7 +52,7 @@ The Sidepanel is forced on every page, and has a grid distribution of 3, leaving
 
 The template has integrated styling for a selection of different e-commerce extensions: Ecwid, a 3rd party and platform independent shopping solution that is wrapped into Joomla by RokEcwid; and Tienda & redSHOP, integrated Joomla e-commerce extensions.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/mercado.jpeg
 [sidepanel]: assets/sidepanel.jpg
 [ecommerce]: assets/ecommerce.jpg

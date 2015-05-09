@@ -79,4 +79,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :--------- | ------------------: | --------------------: |  
 | Front Page | Template Page Types | Home Page, Front Page |  
 
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[override]: http://docs.gantry.org/gantry4/configure

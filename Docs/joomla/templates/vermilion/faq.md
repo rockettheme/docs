@@ -57,7 +57,7 @@ I installed Vermilion RocketLauncher but the images are different with the demo 
 
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/vermilion/index.php/features/features-overview
 [font]: http://www.fontsquirrel.com/fonts/Raleway
 [forum]: http://www.rockettheme.com/forum/joomla-template-vermilion

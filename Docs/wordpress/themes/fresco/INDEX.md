@@ -55,7 +55,7 @@ The varying layout modes of RokSprocket: Tabs, Features, Lists, Headlines and Mo
 
 ![][roksprocket1]
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [fresco]: assets/fresco2.jpeg
 [responsive]: assets/responsive.jpg

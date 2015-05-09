@@ -110,7 +110,7 @@ The **SideSlider** module position enables you to place additional modules in a 
 * [Copyright](demo_copyright.md)
 * [MainBody](demo_mainbody.md)
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
@@ -118,7 +118,7 @@ The **SideSlider** module position enables you to place additional modules in a 
 [roksprocket]: ../../plugins/roksprocket/
 [faq]: faq.md
 [menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[override]: http://docs.gantry.org/gantry4/configure
 [demooverride]: demo_override.md
 [sidepanelimage]: assets/demo_4.jpg
 [theme]: assets/ricochet2.jpeg

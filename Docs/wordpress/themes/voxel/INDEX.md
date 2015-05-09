@@ -54,7 +54,7 @@ Mosaic, a new theme layout for RokSprocket, that presents content in a dynamic a
 
 RokSprocket is a very powerful and full featured extension that is a real game-changer when it comes to displaying content in WordPress. The plugin itself, follows RokGallery’s revolutionary approach to UI and implements a stunning new compound filter system based on OS X’s Finder functionality.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [voxel]: assets/voxel2.jpeg
 [roksprocket]: assets/roksprocket.jpg

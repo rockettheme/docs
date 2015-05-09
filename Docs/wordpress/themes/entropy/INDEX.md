@@ -47,7 +47,7 @@ The richness of the Entropy design is composited in part from its prolific use o
 
 The theme is outfitted with Smooth Scroll, which adds a smooth animation effect to page anchors. The effect is triggered when the top button is clicked, smoothly scrolling to the top of the page. It also works for sectional scrolling, as demoed in the 1st level menu items.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [entropy]: assets/entropy.jpeg
 [font]: assets/font.jpg

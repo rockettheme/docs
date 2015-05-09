@@ -17,7 +17,7 @@ Theme Override Options
 
 The **Blog** page is a regular **Page**. To recreate the layout the way it appears in our demo, enter `menu-blog` in the **Page Suffix** field in the **Gizmos** page inside the **Iridescent** theme settings. This suffix is tied to a class in the demo.less file that sets the page up so it appears the way it does in the demo.
 
-In order for this to work, you should have the **Page Suffix** option set to **On** in **Admin > Iridescent > Gizmos**. You will likely need to create a theme override specifically for the page before assigning that suffix to it. For more information on creating theme overrides, visit our [Gantry Documentation](http://gantry-framework.org/documentation/wordpress/configure/).
+In order for this to work, you should have the **Page Suffix** option set to **On** in **Admin > Iridescent > Gizmos**. You will likely need to create a theme override specifically for the page before assigning that suffix to it. For more information on creating theme overrides, visit our [Gantry Documentation](http://docs.gantry.org/gantry4/configure).
 
 Mainbody
 -----

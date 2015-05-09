@@ -24,7 +24,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.1.17+ is required for Acacia to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.17+ is required for Acacia to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -73,7 +73,7 @@ Acacia uses Chart.js and HTML5 canvas to display beautiful graphs and exquisite 
 
 Acacia comes with integrated styling for the RokSprocket extension, which is built with a responsive layout and support mobile touch events, such as 'swipe'.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [acacia]: assets/acacia2.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

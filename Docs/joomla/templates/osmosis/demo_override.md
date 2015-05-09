@@ -123,4 +123,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [menu2]: assets/menu_settings.jpeg
 [features]: assets/features_settings.jpeg
 [setsocial]: assets/setsocial.jpg
-[gantrydocs]: http://www.gantry-framework.org/documentation/joomla/configure
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

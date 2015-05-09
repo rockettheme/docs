@@ -20,5 +20,5 @@ Somaxiom has 6 preset styles in total, 3 of which are light variations and the o
 All you need to do is create a new Joomla menu module and assign it one of the header positions, header-b on the demo, and ensure Always show sub-menu items is set to yes.
 
 [compatibility]: http://www.rockettheme.com/joomla-templates/compatibility-matrix
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [dropdown]: http://demo.rockettheme.com/joomla-templates/Somaxiom/features/menu-options

@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v4.1.10+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.10+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -48,7 +48,7 @@ Fresco provides a selection of ten preset styles, each with its own custom theme
 ![][roksprocket]
 The varying layout modes of RokSprocket: Tabs, Features, Lists, Headlines and Mosaic; all have Fresco-specific styling, as demoed on Fresco Demo site. RokSprocket is a powerful content module with intuitive administrator interface.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [fresco]: assets/fresco2.jpeg
 [level]: assets/level.jpg
 [roksprocket]: assets/roksprocket.jpg

@@ -114,7 +114,7 @@ The search icon that appears in the menu with a drop-down search field is a **Te
 
 You will also need to assign a **mod_search** module as the **Child Module** in the **Dropdown Menu Options** page. This gives it its search functionality.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

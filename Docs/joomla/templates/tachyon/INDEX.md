@@ -52,7 +52,7 @@ RokMiniEvents is a simple solution for displaying events. The module syncs autom
 
 RokAjaxSearch is a configurable search module that uses AJAX to load results in real time via a styled popup. It can be set to local or Google search, inclusive of web, image, video and blog. Results are paged and can be accessed via buttons or keyboard commands.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/tachyon.jpeg
 [rokminievents]: assets/rokminievents.jpg
 [rokajaxsearch]: assets/rokajaxsearch.jpg

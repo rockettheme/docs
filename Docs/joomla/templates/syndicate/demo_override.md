@@ -132,7 +132,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo25]: assets/Syndicate.jpg
 [menu]: ../../start/menu.md
-[Style]: http://www.gantry-framework.org/documentation/joomla/configure
+[Style]: http://docs.gantry.org/gantry4/configure
 [Syndicate2]: assets/syndicate2.jpeg
 [styles]: assets/style.jpeg
 [features]: assets/features.jpeg

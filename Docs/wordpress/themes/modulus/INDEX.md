@@ -47,7 +47,7 @@ The theme has the most comprehensive collection of integrated styling for Rocket
 
 The login widget is an important element of any site. Nevertheless, it can be a bulky presence on a page, especially if you are conscious of screen space. Modulus uses a popup login which is activated by a single button in the menu bar, to alleviate this problem.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [modulus]: assets/modulus.jpeg
 [plugins]: assets/plugins.jpg

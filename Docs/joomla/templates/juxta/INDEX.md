@@ -53,7 +53,7 @@ With each preset, Juxta offers three different detailing levels, for both the ba
 
 Template side RTL support from the Fusion menu to the Typography; alongside Gantry's RTL support for the automatic flipping of the grid system. If Joomla is set to RTL mode, in its language settings, the template will automatically adjust to its RTL layout.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/juxta.jpeg
 [detail]: assets/detail.jpg
 [rtl]: assets/rtl.jpg

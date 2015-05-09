@@ -58,7 +58,7 @@ Scrolling Positions is a Gantry feature, which, when activated, modifies the beh
 
 Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as: inline subtext, icons, modules, module positions, custom column widths and number, as well as control over how menu items are distributed between columns.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/nebulae.jpeg
 [transparency]: assets/transparency.jpg
 [scrolling]: assets/scrolling.jpg

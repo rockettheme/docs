@@ -53,7 +53,7 @@ The login module is an important element of any site. Nevertheless, it can be a 
 
 There are two menu options, Triple Level SplitMenu and Fusion. The latter is a CSS based dropdown menu. Triple Level Splitmenu splits the first level, second level and all further menu items, allowing for for a navigation bar, a dropline and a sidemenu, as configurable.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/quantive.jpeg
 [login]: assets/login.jpg
 [tsm]: assets/tsm.jpg

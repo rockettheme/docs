@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, or 3.3
 
->> NOTE: Gantry v4.1.20+ is required for Anacron to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.20+ is required for Anacron to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -52,7 +52,7 @@ A responsive layout adapts automatically to the viewing device's width, such as 
 | Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [anacron]: assets/anacron.jpeg
 [responsive]: assets/responsive.jpg
 [chart]: assets/chart.jpg

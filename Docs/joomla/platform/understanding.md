@@ -63,4 +63,4 @@ You can find out more about installing and managing plugins [here][plugins].
 
 [rockettheme]: http://www.rockettheme.com
 [plugins]: extensions.md
-[modules]: http://gantry-framework.org/documentation/joomla/configure/layouts.md
+[modules]: http://docs.gantry.org/gantry4/configure/layouts

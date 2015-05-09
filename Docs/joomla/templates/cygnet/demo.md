@@ -66,7 +66,7 @@ Recommended Extensions
 
 Here is a list of RocketTheme extensions used to create the demo version of Cygnet:
 
-* [Gantry Template Framework](http://gantry-framework.org/download)
+* [Gantry Template Framework](http://gantry.org/downloads)
 * [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
 * RokCommon Library (Installed with RokSprocket)

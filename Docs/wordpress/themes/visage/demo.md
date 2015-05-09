@@ -103,7 +103,7 @@ One important thing to note here is that many of the widget sections included in
 
 The featured posts on the front page of the demo are outlined in the [Featured posts][posts] area of this documentation.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
@@ -113,7 +113,7 @@ The featured posts on the front page of the demo are outlined in the [Featured p
 [rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
 [menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[override]: http://docs.gantry.org/gantry4/configure
 [top]: demo_top.md
 [ribbon]: demo_ribbon.md
 [showcase]: demo_showcase.md

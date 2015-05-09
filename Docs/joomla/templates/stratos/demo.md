@@ -116,7 +116,7 @@ For example, the **RokSprocket Styling** article preview as it appears in the **
 
 To replicate this specific layout, the publishing date needs to be used.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

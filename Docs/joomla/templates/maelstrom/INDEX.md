@@ -52,7 +52,7 @@ Scrolling Positions is a Gantry feature, which, when activated, modifies the beh
 
 Maelstrom has 31 inbuilt suffixes with 25 stylistic suffixes. These can be combined to create a diverse range of module styles. The box, title, icon and button variations must be placed in this order, such as box5 title5 icon2 button2.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/maelstrom.jpeg
 [scrollingmodules]: assets/scrollingmodules.jpg
 [modulestyle]: assets/modulestyle.jpg

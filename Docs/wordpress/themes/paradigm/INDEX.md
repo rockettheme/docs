@@ -61,7 +61,7 @@ The template supports content-based icons through the FontAwesome font with its 
 
 The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, multiple columns, custom column widths as well as control over how menu items are distributed between columns.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Paradigm
 [paradigm]: assets/paradigm.jpeg

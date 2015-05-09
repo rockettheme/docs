@@ -63,7 +63,7 @@ The Background Picker allows you to load a background image, either through RokG
 * **Selection Window**: Select the individual slice of a file
 * **Media Manager**: Load an image from the Media Manager
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/radiance.jpeg
 [color]: assets/color.jpg
 [picker]: assets/picker.jpg

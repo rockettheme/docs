@@ -95,4 +95,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [demo]: assets/Spectral2.jpeg
 [menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[override]: http://docs.gantry.org/gantry4/configure

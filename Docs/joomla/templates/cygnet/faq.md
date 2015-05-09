@@ -55,7 +55,7 @@ I installed Cygnet RocketLauncher but the images are different with the demo sit
 
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/cygnet/index.php/features/features-overview
 [forum]: http://www.rockettheme.com/forum/joomla-template-cygnet
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

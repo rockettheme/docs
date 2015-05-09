@@ -47,7 +47,7 @@ Custom styling is used for content images and RokGallery grid images to compleme
 
 Clarion is available in a fixed layout, with a separate mobile layout for iPhone and Android devices. These mobile layouts can be configured via our Gantry admin. We also include a set of position aliases that provide you additional control over your mobile content.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [theme]: assets/clarion.jpeg
 [responsive]: assets/responsive.jpg

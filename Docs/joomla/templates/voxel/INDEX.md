@@ -22,7 +22,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.2.19+ is required for Voxel to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v3.2.19+ is required for Voxel to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -55,7 +55,7 @@ RokSprocket is a very powerful and full featured extension that is a real game-c
 K2 is an integrated solution for Joomla! similar to CCK for those acquainted with Drupal. Using K2, you can transform your Joomla! website to a news or magazine site.
 
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [voxel]: assets/voxel2.jpeg
 [mosaic]: assets/mosaic.jpg
 [roksprocket]: assets/roksprocket.jpg

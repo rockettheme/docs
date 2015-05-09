@@ -299,4 +299,4 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [blogpage12]: assets/page_blog_12.jpeg
 [blogpage13]: assets/page_blog_13.jpeg
 [blogpage14]: assets/page_blog_14.jpg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

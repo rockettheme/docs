@@ -60,7 +60,7 @@ Custom typography is prolific in use throughout Spectral, and the image overlays
 RokSprocket Tabs in Spectral, allows for the replacement of text tabs with icons. Using Font Awesome, the Tabs can display any of 300+ icons in a button-styled navigation system. The tabbed icons help to differentiate site areas by adding style and character to the page.
 
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Spectral
 [Spectral]: assets/Spectral.jpeg

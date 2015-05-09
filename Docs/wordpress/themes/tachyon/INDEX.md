@@ -46,7 +46,7 @@ SpliceMenu is a new menu option that combines the dynamic, animation-based featu
 
 The login widget is an important element of any site. Nevertheless, it can be a bulky presence on a page, especially if you are conscious of screen space. Tachyon uses a popup login powered by RokBox, which is activated by a single button in the menu bar, to alleviate this.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [theme]: assets/tachyon.jpeg
 [responsive]: assets/responsive.jpg

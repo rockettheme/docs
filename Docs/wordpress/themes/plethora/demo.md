@@ -92,7 +92,7 @@ One important thing to note here is that many of the widget sections included in
 * [Footer][footer]
 * [Copyright][copyright]
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
@@ -100,7 +100,7 @@ One important thing to note here is that many of the widget sections included in
 [roksprocket]: ../../plugins/roksprocket/
 [faq]: faq.md
 [menu]: ../../start/menu.md
-[override]: http://gantry-framework.org/documentation/wordpress/configure/
+[override]: http://docs.gantry.org/gantry4/configure
 [header]: demo_header.md
 [top]: demo_top.md
 [showcase]: demo_showcase.md

@@ -46,7 +46,7 @@ There are two menu options, SplitMenu and Fusion Menu. The Splitmenu is a static
 
 Visage has a custom blog layout (available on our frontpage demo) where it has a left aligned, and tab-styled date to provide distinct visuals as compared to the standard WordPress layout. The title also supports a custom, calligraphic-styled font.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [theme]: assets/visage.jpeg
 [responsive]: assets/responsive.jpg

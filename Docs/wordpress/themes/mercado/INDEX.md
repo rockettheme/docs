@@ -48,7 +48,7 @@ The Sidepanel is forced on every page, and has a grid distribution of 3, leaving
 
 The theme has integrated styling for Ecwid eCommerce functionality. Ecwid is a revolutionary shopping cart that seamlessly integrates with your existing WordPress website. It is available for download in the Mercado download area, as part of the plugins bundle.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [mercado]: assets/mercado.jpeg
 [sidepanel]: assets/sidepanel.jpg

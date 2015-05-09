@@ -21,7 +21,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5, 3.2, or 3.3
 
->> NOTE: Gantry v4.1.19+ is required for Paradigm to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v4.1.19+ is required for Paradigm to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -62,7 +62,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 | Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
 | Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [Paradigm]: assets/paradigm.jpeg
 [responsive]: assets/responsive.jpg
 [roksprocket]: assets/roksprocket.jpg

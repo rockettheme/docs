@@ -103,7 +103,7 @@ You can find these settings by navigating to **Admin > Menus > Main Menu > Home*
 
 You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `-oct13-home`.
 
-[gantry]: http://gantry-framework.org/download
+[gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

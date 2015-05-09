@@ -25,7 +25,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 2.5 or 3.x
 
->> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Visage to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://www.gantry-framework.org/).
+>> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Visage to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
@@ -84,7 +84,7 @@ Fusion is a javascript enhanced CSS dropdown menu system, that is fully crawlabl
 
 The Triple Level Splitmenu on Visage provides a static menu system that displays 1st and 2nd level items in the main horizontal menu and further children in the Sidebar.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/visage.jpeg
 [splitmenu]: assets/splitmenu.jpg
 [fusion]: assets/fusion.jpg

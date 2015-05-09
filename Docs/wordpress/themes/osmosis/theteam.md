@@ -438,4 +438,4 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [theteampage11]: assets/page_theteam_11.jpeg
 [theteampage12]: assets/page_theteam_12.jpeg
 [theteampage13]: assets/page_theteam_13.jpg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure

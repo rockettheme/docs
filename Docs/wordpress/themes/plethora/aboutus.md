@@ -259,7 +259,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 [aboutuspage9]: assets/page_aboutus_9.jpeg
 [aboutuspage10]: assets/page_aboutus_10.jpeg
 [aboutuspage11]: assets/page_aboutus_11.jpeg
-[gantrydocs]: http://gantry-framework.org/documentation/wordpress/configure/
+[gantrydocs]: http://docs.gantry.org/gantry4/configure
 [header]: demo_header.md
 [top]: demo_top.md
 [copyright]: demo_copyright.md

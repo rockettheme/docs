@@ -46,7 +46,7 @@ SpliceMenu is a menu option that combines the dynamic, animation-based features 
 
 Halcyon is available in a fixed layout, with a separate mobile layout for iPhone and Android devices. These mobile layouts can be configured via our Gantry admin. We also include a set of position aliases that provide you additional control over your mobile content.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [theme]: assets/halcyon.jpeg
 [responsive]: assets/responsive.jpg

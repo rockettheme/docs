@@ -53,7 +53,7 @@ The Gantry Framework allows for a much more efficient, more powerful underlying 
 
 Fusion is an advanced, CSS menu system, which offers a wide range of per menu options, such as text that appears underneath the parent item, called subtext; inline menu images, such as the prebuilt menu icon images, as well as number of columns of child items.
 
-[gantry]: http://www.gantry-framework.org/
+[gantry]: http://gantry.org
 [theme]: assets/reaction.jpeg
 [framework]: assets/framework.jpg
 [style]: assets/style.jpg

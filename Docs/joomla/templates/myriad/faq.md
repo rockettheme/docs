@@ -108,7 +108,7 @@ You can adjust the **width, height, bottom, and padding-right** settings to meet
 
 >> NOTE: Step 3 and 4 of this tutorial may already be completed if you are using the RocketLauncher. It is still good practice to check these files to ensure that the proper settings are in place.
 
-The next step involved visiting the **Menu Manager** in your Joomla Administrator and locating the **Myriad** menu item. The **Menu Item Type** should be listed as a **Menu Item Alias**. The settings should appear as pictured below:
+The next step involved visiting the **Menu Manager** in your Joomla Administrator and locating the **Myriad** menu item. The **Menu Item Type** should be listed as **Custom**. The settings should appear as pictured below:
 
 ![](assets/myriadmenu_1.jpeg)
 
@@ -133,7 +133,7 @@ Once all these steps are complete, you should be able to check your site to see 
 
 The white line can be removed by deleting the comment lines from the CSS file we created earlier. These are lines **25** and **29** in the example listed in **Step 2**.
 
-[gantry]: http://gantry-framework.org/
+[gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/myriad/index.php/features/features-overview
 [forum]: http://www.rockettheme.com/forum/joomla-template-myriad
 [roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
