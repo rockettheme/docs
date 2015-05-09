@@ -1,5 +1,5 @@
 ---
-title: Callisto: Recreating the Demo - Blog Page
+title: Callisto: Recreating the Demo - Contact Page
 description: Your Guide to Recreating Elements of the Callisto Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/callisto:Callisto
 
@@ -7,34 +7,34 @@ breadcrumb: /joomla:Joomla/!templates:Templates/callisto:Callisto
 
 ## Introduction
 
-The **Blog** example page demonstrates how you can create a beautiful page with the Callisto template. Here is some information to help you replicate this page as it appears in the demo.
+The **Contact** example page demonstrates how you can create a beautiful page with the Callisto template. Here is some information to help you replicate this page as it appears in the demo.
 
 >> Any **Custom HTML** particles are available and set in the **Layout Manager**, not as **Custom HTML** modules.
 
 ## Layout Manager
 
-![Layout Manager](assets/layout_blog.jpeg)
+![Layout Manager](assets/layout_contact.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Blog** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Contact** Configuration. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_blog.jpeg)
+![](assets/page_contact.jpeg)
 
-:   1. **Header - Logo** [5%, 15%, se]
-    2. **Header - Icon Menu** [5%, 55%, se]
-    3. **Navigation - Menu** [7%, 15%, se]
-    4. **Navigation - Social** [7%, 75%, se]
-    5. **Showcase - Custom HTML** [9%, 40%, se]
-    6. **Mainbar - Page Content** [11%, 15%, se]
-    7. **Sidebar - Custom HTML** [11%, 63%, se]
-    8. **Sidebar - Contact** [18%, 63%, se]
-    9. **Extension - Custom HTML** [84%, 30%, se]
-    10. **Footer - Custom HTML** [88%, 15%, se]
-    11. **Footer - Newsletter** [88%, 38%, se]
-    12. **Footer - Custom HTML - Copyright** [88%, 65%, se]
+:   1. **Header - Logo** [6%, 9%, se]
+    2. **Header - Icon Menu** [6%, 55%, se]
+    3. **Navigation - Menu** [10%, 9%, se]
+    4. **Navigation - Social** [10%, 80%, se]
+    5. **Showcase - Custom HTML** [14%, 40%, se]
+    6. **Mainbar - Page Content** [20%, 9%, se]
+    7. **Sidebar - Custom HTML** [20%, 67%, se]
+    8. **Sidebar - Contact** [44%, 67%, se]
+    9. **Extension - Custom HTML** [65%, 30%, se]
+    10. **Footer - Custom HTML** [78%, 9%, se]
+    11. **Footer - Newsletter** [78%, 38%, se]
+    12. **Footer - Custom HTML - Copyright** [78%, 65%, se]
     13. **Copyright - Copyright** [92%, 40%, se]
 
 1. [Header](#header-section)
@@ -185,7 +185,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Showcase Section
 
-![](assets/page_blog_1.jpeg)
+![](assets/page_contact_1.jpeg)
 
 The **Showcase** section contains a single **Custom HTML** particle. Settings used in our demo for this particle can be found below.
 
@@ -217,7 +217,7 @@ The **Showcase** section contains a single **Custom HTML** particle. Settings us
 
 ## Mainbar Section
 
-![](assets/page_blog_2.jpeg)
+![](assets/page_contact_2.jpeg)
 
 The **Mainbar** section is set to `67`% width and the **Sidebar** section to `33`%.
 
@@ -245,10 +245,10 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Sidebar Section
 
-![](assets/page_blog_3.jpeg)
+![](assets/page_contact_3.jpeg)
 
-:   1. **Custom HTML** [5%, 15%, se]
-    2. **Contact** [27%, 15%, se]
+:   1. **Custom HTML** [9%, 15%, se]
+    2. **Contact** [60%, 15%, se]
 
 The **Sidebar** section is set to `33`% width.
 
@@ -310,7 +310,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Extension Section
 
-![](assets/page_blog_4.jpeg)
+![](assets/page_contact_4.jpeg)
 
 The **Extension** section contains a single **Custom HTML** particle. Settings used in our demo for this particle can be found below.
 
