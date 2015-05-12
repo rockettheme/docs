@@ -26,7 +26,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 :   1. **Header - Logo** [6%, 9%, se]
     2. **Header - Icon Menu** [6%, 55%, se]
     3. **Navigation - Menu** [10%, 9%, se]
-    4. **Navigation - Social** [10%, 80%, se]
+    4. **Navigation - Social (Particle)** [10%, 80%, se]
     5. **Showcase - Custom HTML** [14%, 40%, se]
     6. **Mainbar - Page Content** [20%, 9%, se]
     7. **Sidebar - Custom HTML** [20%, 67%, se]
@@ -34,7 +34,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     9. **Extension - Custom HTML** [65%, 30%, se]
     10. **Footer - Custom HTML** [78%, 9%, se]
     11. **Footer - Newsletter** [78%, 38%, se]
-    12. **Footer - Custom HTML - Copyright** [78%, 65%, se]
+    12. **Footer - Custom HTML** [78%, 65%, se]
     13. **Copyright - Copyright** [92%, 40%, se]
 
 1. [Header](#header-section)
