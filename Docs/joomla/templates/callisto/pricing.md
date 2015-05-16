@@ -15,7 +15,7 @@ The **Pricing** example page demonstrates how you can create a beautiful page wi
 
 ![Layout Manager](assets/layout_pricing.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Pricing** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Pricing** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 
