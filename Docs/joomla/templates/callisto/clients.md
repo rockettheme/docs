@@ -15,7 +15,7 @@ The **Clients** example page demonstrates how you can create a beautiful page wi
 
 ![Layout Manager](assets/layout_clients.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Clients** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Clients** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 

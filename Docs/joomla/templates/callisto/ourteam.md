@@ -15,7 +15,7 @@ The **Our Team** example page demonstrates how you can create a beautiful page w
 
 ![Layout Manager](assets/layout_ourteam.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Our Team** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Our Team** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 

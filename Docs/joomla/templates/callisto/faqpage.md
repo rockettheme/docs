@@ -15,7 +15,7 @@ The **FAQ** example page demonstrates how you can create a beautiful page with t
 
 ![Layout Manager](assets/layout_faqpage.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - FAQ** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - FAQ** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 

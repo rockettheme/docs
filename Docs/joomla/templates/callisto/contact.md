@@ -15,7 +15,7 @@ The **Contact** example page demonstrates how you can create a beautiful page wi
 
 ![Layout Manager](assets/layout_contact.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Contact** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Contact** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 
@@ -221,7 +221,7 @@ The **Showcase** section contains a single **Custom HTML** particle. Settings us
 
 The **Mainbar** section is set to `67`% width and the **Sidebar** section to `33`%.
 
-The page's content is sourced from a **Single Contact** menu item assigned to the Configuration. This creates the content form as seen in our demo.
+The page's content is sourced from a **Single Contact** menu item assigned to the outline. This creates the content form as seen in our demo.
 
 Settings used in our demo for each of these particles can be found below.
 

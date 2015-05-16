@@ -15,7 +15,7 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 ![Layout Manager](assets/layout_blog.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Blog** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Blog** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 

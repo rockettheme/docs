@@ -15,7 +15,7 @@ The **Services** example page demonstrates how you can create a beautiful page w
 
 ![Layout Manager](assets/layout_services.jpeg)
 
-This is a look at the **Layout Manager** for the **Callisto - Pages - Services** Configuration. We have detailed the various particles represented here in the sections below.
+This is a look at the **Layout Manager** for the **Callisto - Pages - Services** outline. We have detailed the various particles represented here in the sections below.
 
 ## Modules and Particles
 
