@@ -14,6 +14,9 @@ Any font without a listed source (such as Helvetica) is a standard font generall
 
 | Template / Theme | Font              | Source                                                               |
 | :--------------- | :---------------- | :------------------------------------------------------------------- |
+| Callisto         | Lato              | [Font Squirrel](http://www.fontsquirrel.com/fonts/lato)              |
+|                  | Source Sans Pro   | [Font Squirrel](http://www.fontsquirrel.com/fonts/source-sans-pro)   |
+| Cygnet           | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |
 | Audacity         | Playfair Display  | [Font Squirrel](http://www.fontsquirrel.com/fonts/playfair-display)  |
 |                  | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |
 | Sirocco          | Campton           | [FontFabric](http://fontfabric.com/campton-free-font/)               |

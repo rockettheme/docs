@@ -61,6 +61,7 @@ more:
 
 * Club Themes
 
+	- [Cygnet](themes/cygnet)
 	- [Audacity](themes/audacity)
 	- [Sirocco](themes/sirocco)
 	- [Iridescent](themes/iridescent)
