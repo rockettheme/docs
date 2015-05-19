@@ -46,12 +46,6 @@ This section of the page is a standard text widget. You will need to enter the f
 </script>
 ~~~
 
-Here is a breakdown of options changes you will want to make to match the demo.
-
-| Option            | Setting    |
-| :---------------- | :--------- |
-| Custom Variations | Blank      |
-
 Leaving everything else at its default setting, select **Save**.
 
 #### RokSprocket Tabs
@@ -60,7 +54,7 @@ You will need to do two things to prepare this widget so that it looks similar t
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget.
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket).
 
 **Simple Content Provider**
 
@@ -141,7 +135,7 @@ You will need to do two things to prepare this widget so that it looks similar t
 
 First, you will need to create the RokSprocket Widget. You can do this by navigating to **Administration -> RokSprocket Admin** and creating a new **Tabs** widget.
 
-You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
+You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket).
 
 **Simple Content Provider**
 
