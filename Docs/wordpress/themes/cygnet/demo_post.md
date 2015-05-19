@@ -14,9 +14,9 @@ This area of the front page is the mainbody. It allows you to display featured a
 
 ![](assets/setadvanced.jpeg)
 
-First, you will need to have the **Display Mainbody** and **Display Content** options set to **On** in your template settings. You can find these options by navigating to **Admin -> Clarion Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
+First, you will need to have the **Display Mainbody** and **Display Content** options set to **On** in your template settings. You can find these options by navigating to **Admin -> Cygnet Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Clarion Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
+By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Cygnet Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
 
 Below, we have listed the settings of the post titled **The RocketLauncher installs a demo equivalent onto your site**.
 
