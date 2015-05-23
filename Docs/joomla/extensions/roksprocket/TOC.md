@@ -28,3 +28,4 @@ support: http://www.rockettheme.com/forum/joomla-extension-roksprocket/
         * [Sliders](sliders_mode.md)
     * [Creating Template Overrides](layout_modes.md#creating-template-overrides)
     * [Content Providers](layout_modes.md#content-providers)
+    * [Filters](filters.md)
