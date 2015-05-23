@@ -4,6 +4,7 @@ breadcrumb: /phpbb:phpBB/!modules:Modules/
 
 details: http://www.rockettheme.com/joomla/extensions/rokutilities/
 download: http://www.rockettheme.com/joomla/extensions/rokutilities/
+support: http://www.rockettheme.com/forum/phpbb-administration-modules
 
 ---
 
