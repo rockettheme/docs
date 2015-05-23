@@ -27,3 +27,4 @@ support: http://www.rockettheme.com/forum/wordpress-plugin-roksprocket/
         * [Tables](tables_mode.md)
         * [Sliders](sliders_mode.md)
     * [Content Providers](layout_modes.md#content-providers)
+    * [Filters](filters.md)
