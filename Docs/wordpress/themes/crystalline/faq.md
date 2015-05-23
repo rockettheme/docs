@@ -14,12 +14,12 @@ Where can I find theme settings?
 How do I change the logo?
 -----
 
-* Log in to the WordPress administrative dashboard at http://(Your WordPress Site URL)/wp-admin/
-* Select **Crystalline Theme** from the sidebar.
-* Navigate to the **Style** tab.
-* Change the **Logo** type to **Custom**.
-* Choose your desired logo from your local drive by clicking the **Select** button.
-* Follow the instructions to **Save** your selection.
-* Save the change to your site by selecting the blue **Save** button in the upper-right area of the page.
+The logo used in **Crystalline** is a png file named `logo.png` located in `/wp-content/themes/rt_crystalline_wp/images/logo/`. The logo we used is 250 × 65 pixels. You can create your own logo and replace this file with it. Once you have created your own logo and named it `logo.png`, follow these steps to upload them to your server. 
+
+If you are using a remote server, we recommend using your preferred FTP, SFTP, etc. program. The directory listing mentioned below is relative to the root of the WordPress installation.
+
+* Navigate to the `/wp-content/themes/rt_crystalline_wp/images/logo/` directory.
+* Upload `logo.png` (and any other logo related images) to this directory (You may need to browse on the local panel in the FTP client to find where you have exported your logo).
+* Clear your browser cache before viewing such as using the keyboard commands on Windows, `Ctrl+F5`.
 
 [gantry]: http://docs.gantry.org/gantry4/configure
