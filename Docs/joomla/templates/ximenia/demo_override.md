@@ -122,4 +122,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [demo25]: assets/Ximenia.jpg
 [menu]: ../../start/menu.md
 [Style]: http://docs.gantry.org/gantry4/configure
-[Ximenia2]: assets/Ximenia.jpeg
+[Ximenia2]: assets/ximenia.jpeg
