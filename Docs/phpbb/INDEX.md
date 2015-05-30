@@ -35,6 +35,7 @@ more:
 
 * Club Styles
 
+	- [Callisto](styles/callisto)
 	- [Cygnet](styles/cygnet)
 	- [Audacity](styles/audacity)
 	- [Sirocco](styles/sirocco)
