@@ -14,4 +14,5 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokpad/
     * [How to Install](INDEX.md#how-to-install)
     * [Configuration](rokpad_plugins.md)
     * [How to Use the Editor](rokpad_use.md)
+    * [Features Breakdown](features.md)
     * [Keyboard Shortcuts](keyboard_shortcuts.md)
