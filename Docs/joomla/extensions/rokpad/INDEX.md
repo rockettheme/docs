@@ -14,6 +14,8 @@ Ever wished you could use a powerful desktop text editor such as Textmate, Subli
 
 RokPad is not a WYSIWYG editor, instead it is a powerful desktop-style editor for developers. With RokPad creating content becomes a pleasure not a chore.
 
+https://www.youtube.com/watch?v=foSWZ2qHY1I
+
 RokPad was created to meet the demands of the Team, a tool unrestricted by the limitations of the WYSIWYG editors, and something more advanced than simply using None. RokPad provides a medium for this, a balance between a useful interface and the unrestricted approach of code view. We at RocketTheme proudly build our content with RokPad.
 
 Requirements
