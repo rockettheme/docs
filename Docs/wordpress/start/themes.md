@@ -60,10 +60,10 @@ There are other files that you may wish to download that accompany the release, 
 
 >> RocketLauncher includes a FULL WordPress install, in addition to the theme and demo contents. The WordPress installation process is necessary in creating the demo content, therefore RocketLauncher will only work properly as a new WordPress installation. It can not be used on an existing WordPress installation.
 
-* Download the RocketLauncher package (rt_themename_wp_rocketlauncher.zip) from the theme's downloads section.
-* Unzip the zip packaged onto your computer to reveal the rt_themename_wp_rocketlauncher folder.
-* Upload this to your site using your FTP client.
-* Direct your browser to the installation directory. For example: **www.yoursite.com/rt_themename_wp_rocketlauncher**. 
+* Download the RocketLauncher package `rt_themename_wp_rocketlauncher.zip` from the theme's downloads section.
+* Unzip the zip packaged onto your computer to reveal the **rt_themename_wp_rocketlauncher** folder.
+* Upload the content of this folder to the root directory of your site using your FTP client.
+* Direct your browser to the installation directory. For example: **www.yoursite.com/**. 
 * Follow the standard WordPress installation, after which the theme and gantry framework will automatically be activated, along with the associated sample content.
 
 More detailed instructions on setting up RocketLauncher can be found in our [RocketLauncher documentation][launcher].
