@@ -305,7 +305,7 @@ The first thing you will want to do is add a **Module Position** particle to the
 | Field          | Setting                 |
 | :-----         | :-----                  |
 | CSS ID         | Blank                   |
-| CSS Classes    | `g-sprocket-grids-main` |
+| CSS Classes    | `fp-sprocket-grids-main` |
 | Variations     | Centered Title          |
 | Tag Attributes | Blank                   |
 | Block Size     | `100%`                  |
