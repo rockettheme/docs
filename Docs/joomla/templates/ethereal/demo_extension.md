@@ -18,7 +18,7 @@ Here is a breakdown of the particles that appear in this section:
 
 * [Custom HTML (Particle)](#image-block-(particle))
 * [Icon Headline (Particle)](#custom-html-(particle))
-    - [Alterantive: RokSprocket (Strips)](#module-position-(extension-strips))
+    - [Alternative: RokSprocket (Strips)](#module-position-(extension-strips))
 
 ![](assets/home_extension.jpeg)
 
