@@ -483,7 +483,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ## Assigned Module(s)
 
-The `main-grids` module position is host to a single **RokSprocket** module.
+The `main-grids-2` module position is host to a single **RokSprocket** module.
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. You can find an example of the **Simple** items used in this module in the **Filtered Article List** section below.
 
