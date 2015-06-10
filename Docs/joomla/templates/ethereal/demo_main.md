@@ -19,7 +19,7 @@ The **Main** section contains three particles, a **Image Block** particle creati
 Here is a breakdown of the particles that appear in this section:
 
 * [Image Block (Particle)](#image-block-(particle))
-    - [Alterantive: RokSprocket (Grids)](#module-position-(main-grids))
+    - [Alternative: RokSprocket (Grids)](#module-position-(main-grids))
 * [Custom HTML (Particle)](#custom-html-(particle))
 * [Number Headline (Particle)](#number-headline-(particle))
     - [Alternative: RokSprocket (Mosaic)](#module-position-(main-mosaic))
