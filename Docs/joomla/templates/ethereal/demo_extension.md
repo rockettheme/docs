@@ -137,7 +137,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Option           | Setting             |
 | :-----           | :-----              |
 | Title            | `Ethereal Features` |
-| Show Title       | Hide                |
+| Show Title       | Show                |
 | Access           | Public              |
 | Position         | extension-strips    |
 | Status           | Published           |
