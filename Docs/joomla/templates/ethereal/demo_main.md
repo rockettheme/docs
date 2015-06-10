@@ -14,12 +14,12 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ethereal:Ethereal
     3. **Number Headline (Particle)** [45%, 12%, se]
     4. **Ethereal Block (Particle)** [65%, 12%, se]
 
-The **Main** section contains three particles, a **Image Block** particle creating the triangle, a **Custom HTML** particle, **Number Headline** particle, and a **Ethereal Block** particle. 
+The **Main** section contains four particles, a **Image Block** particle creating the triangle, a **Custom HTML** particle, **Number Headline** particle, and a **Ethereal Block** particle. 
 
 Here is a breakdown of the particles that appear in this section:
 
 * [Image Block (Particle)](#image-block-(particle))
-    - [Alterantive: RokSprocket (Grids)](#module-position-(main-grids))
+    - [Alternative: RokSprocket (Grids)](#module-position-(main-grids))
 * [Custom HTML (Particle)](#custom-html-(particle))
 * [Number Headline (Particle)](#number-headline-(particle))
     - [Alternative: RokSprocket (Mosaic)](#module-position-(main-mosaic))
