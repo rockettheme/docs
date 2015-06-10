@@ -12,7 +12,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ethereal:Ethereal
 :   1. **Custom HTML (Particle)** [7%, 5%, se]
     2. **Icon Headline (Particle) / RokSprocket (Strips)** [40%, 5%, se]
 
-The **Extension** section is made up two particles. The first, a **Custom HTML** particle. The second, an **Icon Headline** particle which is placed on a second row, each at 100% width.
+The **Extension** section is made up of two particles. The first, a **Custom HTML** particle. The second, an **Icon Headline** particle which is placed on a second row, each at 100% width.
 
 Here is a breakdown of the particles that appear in this section:
 
