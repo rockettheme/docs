@@ -186,12 +186,12 @@ This area of the page is a **Custom HTML** module. You will find the settings us
 
 ### Details
 
-| Field      | Setting           |
-| :-----     | :-----            |
-| Title      | `Contact Details` |
-| Show Title | Hide              |
-| Position   | `bottom-a`        |
-| Status     | Published         |
+| Field      | Setting                               |
+| :-----     | :-----                                |
+| Title      | `Got Billing and Payments Questions?` |
+| Show Title | Hide                                  |
+| Position   | `bottom-a`                            |
+| Status     | Published                             |
 
 ### Custom Output
 
