@@ -100,7 +100,7 @@ Settings used in our demo for each of these particles can be found below.
 | Tag Attributes | Blank         |
 | Block Size     | `100%`        |
 
-## Sidebar Section
+## Aside Section
 
 ![](assets/page_contact_3.jpeg)
 
