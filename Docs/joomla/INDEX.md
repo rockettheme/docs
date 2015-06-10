@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Ethereal](templates/ethereal)
 	- [Callisto](templates/callisto)
 	- [Cygnet](templates/cygnet)
 	- [Audacity](templates/audacity)

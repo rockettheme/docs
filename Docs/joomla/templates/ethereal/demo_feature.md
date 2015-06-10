@@ -69,7 +69,7 @@ Settings used in the demo for the particle used in this section can be found bel
 
 ### Particle Settings
 
-![](assets/demo_feature_4.jpeg)
+![](assets/demo_feature_5.jpeg)
 
 | Field               | Setting                                                    |
 | :-----              | :-----                                                     |
@@ -102,7 +102,7 @@ Gantry 5 is a revolutionary template framework, built for the modern web, with f
 
 ### Block Settings
 
-![](assets/demo_feature_5.jpeg)
+![](assets/demo_feature_6.jpeg)
 
 | Field          | Setting                             |
 | :-----         | :-----                              |
@@ -116,7 +116,7 @@ Gantry 5 is a revolutionary template framework, built for the modern web, with f
 
 ### Particle Settings
 
-![](assets/demo_feature_6.jpeg)
+![](assets/demo_feature_4.png)
 
 | Field                        | Setting                                                                                              |
 | :-----                       | :-----                                                                                               |
