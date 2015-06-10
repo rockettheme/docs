@@ -9,189 +9,49 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ethereal:Ethereal
 
 The **Contact** example page demonstrates how you can create a beautiful page with the Ethereal template. Here is some information to help you replicate this page as it appears in the demo.
 
->> Any **Custom HTML** particles are available and set in the **Layout Manager**, not as **Custom HTML** modules.
-
 ## Modules and Particles
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
 ![](assets/page_contact.jpeg)
 
-:   1. **Header - Logo** [6%, 9%, se]
-    2. **Header - Icon Menu** [6%, 55%, se]
-    3. **Navigation - Menu** [10%, 9%, se]
-    4. **Navigation - Social (Particle)** [10%, 80%, se]
-    5. **Showcase - Custom HTML** [14%, 40%, se]
-    6. **Mainbar - Page Content** [20%, 9%, se]
-    7. **Sidebar - Custom HTML** [20%, 67%, se]
-    8. **Sidebar - Contact** [44%, 67%, se]
-    9. **Extension - Custom HTML** [65%, 30%, se]
-    10. **Footer - Custom HTML** [78%, 9%, se]
-    11. **Footer - Newsletter** [78%, 38%, se]
-    12. **Footer - Custom HTML** [78%, 65%, se]
-    13. **Copyright - Copyright** [92%, 40%, se]
+:   1. **Showcase - Custom HTML (Module)** [12%, 40%, se]
+    2. **Mainbar - Page Content** [20%, 9%, se]
+    3. **Sidebar - Custom HTML (Module)** [20%, 67%, se]
+    4. **Bottom - Custom HTML (Module)** [60%, 30%, se]
+    5. **Footer - Custom HTML (Module)** [70%, 10%, se]
+    6. **Footer - Custom HTML (Module)** [70%, 38%, se]
+    7. **Footer - Custom HTML (Module)** [70%, 65%, se]
 
-1. [Header](#header-section)
-2. [Navigation](#navigation-section)
-3. [Showcase](#showcase-section)
-4. [Mainbar](#mainbar-section)
-5. [Sidebar](#sidebar-section)
-5. [Extension](#extension-section)
-6. [Footer](#footer-section)
-7. [Copyright](#copyright-section)
-
-## Header Section
-
-![](assets/page_aboutus_1.jpeg)
-
-:   1. **Logo (Particle)** [40%, 5%, se]
-    2. **Icon Menu (Particle)** [40%, 60%, se]
-
-The **Header** section is made up of a position and two particles set in two rows. The first row hosts the **System Messages** position which remains invisible unless a system message is being displayed to the visitor.
-
-In the second row, we have a **Logo** particle and an **Icon Menu** particle which make up the visual body of this area of the site. Settings used in our demo for each of these particles can be found below.
-
-### Logo (Particle)
-
-#### Particle Settings
-
-| Field         | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Logo`     |
-| URL           | Blank      |
-| Image         | Custom     |
-| Text          | `Ethereal` |
-| CSS Classes   | `g-logo`   |
-
-#### Block Settings
-
-| Field          | Setting        |
-| :-----         | :-----         |
-| CSS ID         | Blank          |
-| CSS Classes    | `g-logo-block` |
-| Variations     | Blank          |
-| Tag Attributes | Blank          |
-| Block Size     | `56%`          |
-
-### Icon Menu (Particle)
-
-#### Particle Settings
-
-| Field                  | Setting          |
-| :-----                 | :-----           |
-| CSS Classes            | Blank            |
-| Target                 | Self             |
-| Icon Menu Item 1 Title | `Features`       |
-| Icon Menu Item 1 Icon  | `fa fa-diamond`  |
-| Icon Menu Item 1 Text  | `Features`       |
-| Icon Menu Item 1 Link  | `#`              |
-| Icon Menu Item 2 Title | `Gantry 5`       |
-| Icon Menu Item 2 Icon  | `fa fa-rocket`   |
-| Icon Menu Item 2 Text  | `Gantry 5`       |
-| Icon Menu Item 2 Link  | `#`              |
-| Icon Menu Item 3 Title | `Addons`         |
-| Icon Menu Item 3 Icon  | `fa fa-gear`     |
-| Icon Menu Item 3 Text  | `Addons`         |
-| Icon Menu Item 3 Link  | `#`              |
-| Icon Menu Item 4 Title | `Download`       |
-| Icon Menu Item 4 Icon  | `fa fa-download` |
-| Icon Menu Item 4 Text  | `Download`       |
-| Icon Menu Item 4 Link  | `#`              |
-
-#### Block Settings
-
-| Field          | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | `flush` |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `44%`   |
-
-## Navigation Section
-
-![](assets/page_aboutus_2.jpeg)
-
-:   1. **Menu (Particle)** [40%, 5%, se]
-    2. **Social** [40%, 85%, se]
-
-The **Navigation** section is made up of two particles. The first is a **Menu** particle which displays a CMS-sourced menu which can be enhanced through Gantry's **Menu Editor**. The second particle in the section is the **Social** particle, displaying social links.
-
-Settings used in our demo for each of these particles can be found below.
-
-### Menu (Particle)
-
-#### Particle Settings
-
-| Field         | Setting |
-| :-----        | :-----  |
-| Particle Name | `Menu`  |
-| Base Path     | `/`     |
-| Menu          | Custom  |
-| Start Level   | `1`     |
-| Max Levels    | `0`     |
-
-#### Block Settings
-
-| Field          | Setting        |
-| :-----         | :-----         |
-| CSS ID         | Blank          |
-| CSS Classes    | `g-menu-block` |
-| Variations     | Blank          |
-| Tag Attributes | Blank          |
-| Block Size     | `80%`          |
-
-### Social (Particle)
-
-#### Particle Settings
-
-| Field               | Setting                                          |
-| :-----              | :-----                                           |
-| Title               | Social                                           |
-| CSS Classes         | `social-items`                                   |
-| Social Items        | `Features`                                       |
-| Social Item 1 Title | `Twitter`                                        |
-| Social Item 1 Icon  | `fa fa-twitter fa-fw`                            |
-| Social Item 1 Text  | Blank                                            |
-| Social Item 1 Link  | `http://twitter.com/rockettheme`                 |
-| Social Item 2 Title | `Facebook`                                       |
-| Social Item 2 Icon  | `fa fa-facebook fa-fw`                           |
-| Social Item 2 Text  | Blank                                            |
-| Social Item 2 Link  | `http://facebook.com/rockettheme`                |
-| Social Item 3 Title | `Google`                                         |
-| Social Item 3 Icon  | `fa fa-google fa-fw`                             |
-| Social Item 3 Text  | Blank                                            |
-| Social Item 3 Link  | `http://plus.google.com/+rockettheme`            |
-| Social Item 4 Title | `RSS`                                            |
-| Social Item 4 Icon  | `fa fa-rss fa-fw`                                |
-| Social Item 4 Text  | Blank                                            |
-| Social Item 4 Link  | `http://www.rockettheme.com/product-updates?rss` |
-
-#### Block Settings
-
-| Field          | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | Blank   |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `20%`   |
+1. [Showcase](#showcase-section)
+2. [Mainbar](#mainbar-section)
+3. [Sidebar](#sidebar-section)
+4. [Bottom](#bottom-section)
+5. [Footer](#footer-section)
 
 ## Showcase Section
 
 ![](assets/page_contact_1.jpeg)
 
-The **Showcase** section contains a single **Custom HTML** particle. Settings used in our demo for this particle can be found below.
+This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
 
-### Custom HTML (Particle)
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-#### Particle Settings
+### Custom HTML (Module)
 
-| Field         | Setting       |
-| :-----        | :-----        |
-| Particle Name | `Custom HTML` |
+### Details
 
-**Custom HTML**
+| Field      | Setting            |
+| :-----     | :-----             |
+| Title      | `Contact - Header` |
+| Show Title | Hide               |
+| Position   | `showcase-a`       |
+| Status     | Published          |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
     <h2 class="g-layercontent-title">Contact</h2>
@@ -199,21 +59,24 @@ The **Showcase** section contains a single **Custom HTML** particle. Settings us
 </div>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting         |
-| :-----         | :-----          |
-| CSS ID         | Blank           |
-| CSS Classes    | `flush, center` |
-| Variations     | Blank           |
-| Tag Attributes | Blank           |
-| Block Size     | `100%`          |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting        |
+| :----------         | :----------    |
+| Module Class Suffix | `flush center` |
 
 ## Mainbar Section
 
 ![](assets/page_contact_2.jpeg)
 
-The **Mainbar** section is set to `67`% width and the **Sidebar** section to `33`%.
+The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
 The page's content is sourced from a **Single Contact** menu item assigned to the outline. This creates the content form as seen in our demo.
 
@@ -241,232 +104,252 @@ Settings used in our demo for each of these particles can be found below.
 
 ![](assets/page_contact_3.jpeg)
 
-:   1. **Custom HTML** [9%, 15%, se]
-    2. **Contact** [60%, 15%, se]
+The **Aside** section is set to `20`% width.
 
-The **Sidebar** section is set to `33`% width.
+This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
 
-Settings used in our demo for each of these particles can be found below.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-### Custom HTML (Particle)
+### Custom HTML (Module)
 
-#### Particle Settings
+### Details
 
-| Field         | Setting       |
-| :-----        | :-----        |
-| Particle Name | `Custom HTML` |
+| Field      | Setting           |
+| :-----     | :-----            |
+| Title      | `Contact Details` |
+| Show Title | Hide              |
+| Position   | `aside`           |
+| Status     | Published         |
 
-**Custom HTML**
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
-<h2 class="g-title">Contact Details</h2>
-<p><img alt="image" src="gantry-theme://images/demo/pages/pages/contact/img-01.jpg"></p>
-<p><strong>Ethereal</strong> is only available as part of the Club Subscription. Please use the RocketLauncher to install an equivalent of the demo onto your site.</p>
+<div class="g-grid">
+  <div class="g-block size-100">
+    <div class="g-content ">
+      <p><img src="images/rocketlauncher/pages/contact/img-01.jpg" alt="image"></p>
+      <p><strong>Ethereal</strong> is only available as part of the Club Subscription. Please use the RocketLauncher to install an equivalent of the demo onto your site.</p>
+    </div>
+  </div>  
+</div>
+
+<div class="g-grid">
+  <div class="g-block size-100">
+    <div class="g-content ">
+      <h2 class="g-title">Contact Details</h2>
+      <div class="g-contact ">
+        <div class="g-contact-item">
+          <div class="g-contact-icon"><span class="fa fa-phone fa-fw"></span></div>
+          <div class="g-contact-label">Call Us</div>
+          <div class="g-contact-text">+1(555)-555-555</div>
+        </div>
+        <div class="g-contact-item">
+          <div class="g-contact-icon"><span class="fa fa-map-marker fa-fw"></span></div>
+          <div class="g-contact-label">Office</div>
+          <div class="g-contact-text">555 RocketTheme Blvd, CO</div>
+        </div>
+        <div class="g-contact-item">
+          <div class="g-contact-icon"><span class="fa fa-envelope fa-fw"></span></div>
+          <div class="g-contact-label">Say Hi</div>
+          <div class="g-contact-text">hello@no-reply.com</div>
+        </div>
+      </div>
+    </div>
+  </div>   
+</div>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | Blank   |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `100%`  |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
 
-### Contact (Particle)
+### Advanced
 
-#### Particle Settings
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | Blank       |
 
-| Field                | Setting                    |
-| :-----               | :-----                     |
-| Particle Name        | `Contact`                  |
-| CSS Classes          | Blank                      |
-| Title                | Blank                      |
-| Contact Item 1 Title | `Call Us`                  |
-| Contact Item 1 Icon  | `fa fa-phone fa-fw`        |
-| Contact Item 1 Value | `+1(555)-555-555`          |
-| Contact Item 2 Title | `Office`                   |
-| Contact Item 2 Icon  | `fa fa-map-marker fa-fw`   |
-| Contact Item 2 Value | `555 RocketTheme Blvd, CO` |
-| Contact Item 3 Title | `Say Hi`                   |
-| Contact Item 3 Icon  | `fa fa-envelope fa-fw`     |
-| Contact Item 3 Value | `hello@no-reply.com`       |
-
-#### Block Settings
-
-| Field          | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | Blank   |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `100%`  |
-
-## Extension Section
+## Bottom Section
 
 ![](assets/page_contact_4.jpeg)
 
-The **Extension** section contains a single **Custom HTML** particle. Settings used in our demo for this particle can be found below.
+This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
 
-### Custom HTML (Particle)
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-#### Particle Settings
+### Custom HTML (Module)
 
-| Field         | Setting       |
-| :-----        | :-----        |
-| Particle Name | `Custom HTML` |
+### Details
 
-**Custom HTML**
+| Field      | Setting           |
+| :-----     | :-----            |
+| Title      | `Contact Details` |
+| Show Title | Hide              |
+| Position   | `bottom-a`        |
+| Status     | Published         |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
 <div class="g-layercontent">
     <h2 class="g-layercontent-title">Got Billing and Payments Questions?</h2>
     <div class="g-layercontent-subtitle">Email Us for Questions Involving Payments, Billing, and Membership.</div>
-    <a href="#" class="button button-2">Send Email</a>
+    <a href="http://www.rockettheme.com/joomla/templates/ethereal" class="button button-2">Send Email</a>
 </div>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting         |
-| :-----         | :-----          |
-| CSS ID         | Blank           |
-| CSS Classes    | `flush, center` |
-| Variations     | `Box 1`         |
-| Tag Attributes | Blank           |
-| Block Size     | `100%`          |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting        |
+| :----------         | :----------    |
+| Module Class Suffix | `flush center` |
 
 ## Footer Section
 
 ![](assets/page_aboutus_6.jpeg)
 
-:   1. **Custom HTML 1** [30%, 5%, se]
-    2. **Newsletter** [30%, 38%, se]
-    3. **Custom HTML 2** [30%, 70%, se]
+:   1. **Custom HTML (Module) 1** [20%, 5%, se]
+    2. **Custom HTML (Module) 2** [20%, 38%, se]
+    3. **Custom HTML (Module) 3** [20%, 65%, se]
 
-The **Footer** section is made up of three particles in a single row. This includes a **Newsletter** particle surrounded by two **Custom HTML** particles.
+This area of the page is made up of three **Custom HTML** modules spanning three different module positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
-Settings used in our demo for each of these particles can be found below.
+>> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-### Custom HTML 1 (Particle)
+### Custom HTML (Module) 1
 
-#### Particle Settings
+### Details
 
-| Field         | Setting          |
-| :-----        | :-----           |
-| Particle Name | `About Ethereal` |
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `About Ethereal` |
+| Show Title | Show             |
+| Position   | `footer-a`       |
+| Status     | Published        |
 
-**Custom HTML**
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
-<h2 class="g-title">About Ethereal</h2>
-
 <p>All demo content is for sample purposes only, intended to represent a live site.</p>
 
 <p>The sample pages are intended to show how Ethereal can be constructed on your site.</p>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting          |
-| :-----         | :-----           |
-| CSS ID         | Blank            |
-| CSS Classes    | Blank            |
-| Variations     | Blank            |
-| Tag Attributes | Blank            |
-| Block Size     | `33.3333333333%` |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
 
-### Newsletter (Particle)
+### Advanced
 
-#### Particle Settings
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | Blank       |
 
-| Field          | Setting           |
-| :-----         | :-----            |
-| Particle Name  | `Newsletter`      |
-| CSS Classes    | Blank             |
-| Title          | `Newsletter`      |
-| Feedburner URI | `rocketthemeblog` |
+### Custom HTML (Module) 2
 
-**Heading Text**
+### Details
+
+| Field      | Setting      |
+| :-----     | :-----       |
+| Title      | `Newsletter` |
+| Show Title | Show         |
+| Position   | `footer-b`   |
+| Status     | Published    |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
-Subscribe to our newsletter and stay updated on the latest developments and special offers!
+<div class="g-newsletter">
+  <div class="g-newsletter-headtext">
+    Subscribe to our newsletter and stay updated on the latest developments and special offers!
+  </div>
+  <form onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify" class="g-newsletter-form">
+    <input type="text" name="email" placeholder="Email Address" class="g-newsletter-inputbox"> <input type="hidden" name="uri" value="rocketthemeblog"> <input type="hidden" value="en_US" name="loc"> <input type="submit" value="Join" class="g-newsletter-button button button-3" name="Submit">
+  </form>
+</div>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting          |
-| :-----         | :-----           |
-| CSS ID         | Blank            |
-| CSS Classes    | `flush, center`  |
-| Variations     | `Box 1`          |
-| Tag Attributes | Blank            |
-| Block Size     | `33.3333666666%` |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
 
-### Custom HTML 2 (Particle)
+### Advanced
 
-#### Particle Settings
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | Blank       |
 
-| Field         | Setting          |
-| :-----        | :-----           |
-| Particle Name | `Simple Sitemap` |
+### Custom HTML (Module) 3
 
-**Custom HTML**
+### Details
+
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `Sample Sitemap` |
+| Show Title | Show             |
+| Position   | `footer-c`       |
+| Status     | Published        |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
 ~~~ .html
-<h2 class="g-title">Sample Sitemap</h2>
-
 <div class="g-grid">
     <div class="g-block">
         <ul class="nomarginall noliststyle">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Features</a></li>
-            <li><a href="#">Typography</a></li>
-            <li><a href="#">Particles</a></li>
-            <li><a href="#">Variations</a></li>
-        </ul>       
+            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=105">Features</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Typography</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Particles</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=107">Variations</a></li>
+        </ul>
     </div>
     <div class="g-block">
         <ul class="nomarginall noliststyle">
-            <li><a href="#">Buttons</a></li>
-            <li><a href="#">Pages</a></li>
-            <li><a href="#">Guide</a></li>
-            <li><a href="#">Support</a></li>
-            <li><a href="#">Download</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Buttons</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
+            <li><a href="http://www.rockettheme.com/docs/joomla/templates/ethereal">Guide</a></li>
+            <li><a href="http://www.rockettheme.com/forum/joomla-template-ethereal">Support</a></li>
+            <li><a href="http://www.rockettheme.com/joomla/templates/ethereal">Download</a></li>
         </ul>       
     </div>  
 </div>
 ~~~
 
-#### Block Settings
+### Basic
 
-| Field          | Setting         |
-| :-----         | :-----          |
-| CSS ID         | Blank           |
-| CSS Classes    | `flush, center` |
-| Variations     | `Box 1`         |
-| Tag Attributes | Blank           |
-| Block Size     | `33.3333%`      |
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
 
-## Copyright Section
+### Advanced
 
-![](assets/page_aboutus_7.jpeg)
-
-The **Copyright** section contains a single **Copyright** particle. Settings used in our demo for this particle can be found below.
-
-### Custom HTML (Particle)
-
-#### Particle Settings
-
-| Field           | Setting            |
-| :-----          | :-----             |
-| Particle Name   | `Copyright`        |
-| Start Year      | `2007`             |
-| End Year        | Now                |
-| Copyright Owner | `RocketTheme, LLC` |
-
-#### Block Settings
-
-| Field          | Setting  |
-| :-----         | :-----   |
-| CSS ID         | Blank    |
-| CSS Classes    | `center` |
-| Variations     | Blank    |
-| Tag Attributes | Blank    |
-| Block Size     | `100%`   |
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | Blank       |
