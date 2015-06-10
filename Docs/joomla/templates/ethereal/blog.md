@@ -5,11 +5,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ethereal:Ethereal
 
 ---
 
-## Introduction
+# Introduction
 
 The **Blog** example page demonstrates how you can create a beautiful page with the Ethereal template. Here is some information to help you replicate this page as it appears in the demo.
 
-## Modules and Particles
+# Modules and Particles
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
@@ -17,21 +17,22 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 :   1. **Showcase - Custom HTML (Module)** [8%, 45%, se]
     2. **Mainbar - Page Content** [11%, 15%, se]
-    3. **Aside - RokAjaxSearch (Module)** [28%, 10%, se]
-    4. **Aside - Custom HTML (Module)** [47%, 10%, se]
-    5. **Aside - Login (Module)** [50%, 50%, se]
-    6. **Aside - Who's Online (Module)** [50%, 60%, se]
-    5. **Footer - Custom HTML (Module)** [72%, 10%, se]
-    6. **Footer - Custom HTML (Module)** [72%, 38%, se]
-    7. **Footer - Custom HTML (Module)** [72%, 65%, se]
+    3. **Aside - RokAjaxSearch (Module)** [11%, 67%, se]
+    4. **Aside - Custom HTML (Module)** [14%, 67%, se]
+    5. **Aside - Login (Module)** [20%, 67%, se]
+    6. **Aside - Who's Online (Module)** [26%, 67%, se]
+    7. **Bottom - Custom HTML (Module)** [75%, 35%, se]
+    5. **Footer - Custom HTML (Module)** [82%, 15%, se]
+    6. **Footer - Custom HTML (Module)** [82%, 38%, se]
+    7. **Footer - Custom HTML (Module)** [82%, 63%, se]
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
-3. [Extension](#extension-section)
+3. [Aside](#aside-section)
 4. [Bottom](#bottom-section)
 4. [Footer](#footer-section)
 
-## Showcase Section
+# Showcase Section
 
 ![](assets/page_blog_1.jpeg)
 
@@ -39,7 +40,7 @@ This area of the page is a **Custom HTML** module. You will find the settings us
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
-### Custom HTML (Module)
+## Custom HTML (Module)
 
 ### Details
 
@@ -74,9 +75,9 @@ Enter the following in the **Custom Output** text editor.
 | :----------         | :----------    |
 | Module Class Suffix | `flush center` |
 
-## Mainbar Section
+# Mainbar Section
 
-![](assets/page_blog_3.jpeg)
+![](assets/page_blog_2.jpeg)
 
 The **Mainbar** section includes several articles assigned to the **Joomla Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** article.
 
@@ -96,9 +97,14 @@ The **Mainbar** section includes several articles assigned to the **Joomla Blog*
 <a class="button" href="#">Read More</a>
 ~~~
 
-## Aside Section
+# Aside Section
 
-![](assets/page_blog_4.jpeg)
+![](assets/page_blog_3.jpeg)
+
+:   1. **RokAjaxSearch (Module)** [7%, 15%, se]
+    2. **Custom HTML (Module)** [20%, 15%, se]
+    3. **Login (Module)** [50%, 15%, se]
+    4. **Who's Online (Module)** [80%, 15%, se]
 
 This area of the page consists of the **Aside** section, which sits to the right of the **Mainbar** section in the **Layout Manager**.
 
@@ -111,10 +117,53 @@ Here is a breakdown of the modules used in the `aside` module position assigned 
 
 >> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
+## RokAjaxSearch (Module)
 
+The Site Search area of the front page is a **mod_rokajaxsearch** module that allows visitors to search your site using the powerful RokAjaxSearch tool.
 
+### Details
 
-### Custom HTML (Module)
+| Option      | Setting           |
+| :---------- | :----------       |
+| Title       | `Search Our Site` |
+| Show Title  | Show              |
+| Position    | aside             |
+| Status      | Published         |
+| Access      | Public            |
+
+### Module
+
+| Option                            | Setting                                                  |
+| :----------                       | :----------                                              |
+| Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
+| Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
+| Include RokAjaxSearch default CSS | No                                                       |
+| Theme Style                       | Light                                                    |
+| Searchphrase                      | Any words                                                |
+| Ordering                          | Newest First                                             |
+| Limit                             | 10                                                       |
+| Results Per Page                  | 3                                                        |
+| Google Web Search                 | No                                                       |
+| Google Blog Search                | No                                                       |
+| Google Images Search              | No                                                       |
+| Google Videos Search              | No                                                       |
+| Show Pagination                   | Yes                                                      |
+| Google SafeSearch                 | Moderate                                                 |
+| Image Size to Search              | Medium                                                   |
+| Show Estimated                    | Yes                                                      |
+| Hide div id(s)                    | Blank                                                    |
+| Link to All Results               | Yes                                                      |
+| Show Description                  | Yes                                                      |
+| Include (Category/Section)        | Yes                                                      |
+| Show Read More Link               | Yes                                                      |
+
+### Advanced
+
+| Option              | Setting     |
+| :----------         | :---------- |
+| Module Class Suffix | Blank       |
+
+## Custom HTML (Module)
 
 ### Details
 
@@ -165,68 +214,63 @@ Enter the following in the **Custom Output** text editor.
 | :----------         | :---------- |
 | Module Class Suffix | Blank       |
 
-## Extension Section
-
-![](assets/page_blog_5.jpeg)
-
-This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
-
->> Any **mod_custom** (Custom HTML) modules are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
-
-### Custom HTML (Module)
+## Login (Module)
 
 ### Details
 
-| Field      | Setting                                 |
-| :-----     | :-----                                  |
-| Title      | `Sophisticated - Responsive - Powerful` |
-| Show Title | Hide                                    |
-| Position   | `extension-a`                           |
-| Status     | Published                               |
+| Field      | Setting   |
+| :-----     | :-----    |
+| Title      | `Login`   |
+| Show Title | Show      |
+| Position   | `aside`   |
+| Status     | Published |
 
-### Custom Output
+### Options
 
-Enter the following in the **Custom Output** text editor.
-
-~~~ .html
-<div class="g-grid">
-  <div class="g-block box-grey size-33-3">
-    <div class="g-content ">
-      <h2 class="g-title"><span class="fa fa-dashboard fa-fw fa-2x"></span> Sophisticated</h2>
-      <p>Dynamically procrastinate B2C users after installed base benefits.</p>
-    </div>
-  </div>
-  <div class="g-block box-grey size-33-3">
-    <div class="g-content ">
-      <h2 class="g-title"><span class="fa fa-arrows-alt fa-fw fa-2x"></span> Responsive</h2>
-      <p>Dynamically procrastinate B2C users after installed base benefits.</p>
-    </div>
-  </div>
-  <div class="g-block box-grey size-33-3">
-    <div class="g-content ">
-      <h2 class="g-title"><span class="fa fa-sliders fa-fw fa-2x"></span> Powerful</h2>
-      <p>Dynamically procrastinate B2C users after installed base benefits.</p>
-    </div>
-  </div>
-</div>
-~~~
-
-### Basic
-
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
+| Field                   | Setting |
+| :-----                  | :-----  |
+| Pre-text                | Blank   |
+| Post-text               | Blank   |
+| Login Redirection Page  | Default |
+| Logout Redirection Page | Default |
+| Show Greeting           | Yes     |
+| Show Name/Username      | Name    |
+| Encrypt Login Form      | No      |
+| Display Labels          | Icons   |
 
 ### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | Blank       |
+| Field               | Setting |
+| :-----              | :-----  |
+| Module Class Suffix | `box3`  |
+
+## Who's Online (Module)
+
+### Details
+
+| Field      | Setting   |
+| :-----     | :-----    |
+| Title      | `Who's Online`   |
+| Show Title | Show      |
+| Position   | `aside`   |
+| Status     | Published |
+
+### Options
+
+| Field   | Setting             |
+| :-----  | :-----              |
+| Display | # of Guests / Users |
+
+
+### Advanced
+
+| Field               | Setting |
+| :-----              | :-----  |
+| Module Class Suffix | Blank   |
 
 ## Bottom Section
 
-![](assets/page_blog_5.jpeg)
+![](assets/page_blog_4.jpeg)
 
 This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
 
@@ -236,12 +280,12 @@ This area of the page is a **Custom HTML** module. You will find the settings us
 
 ### Details
 
-| Field      | Setting                                |
-| :-----     | :-----                                 |
-| Title      | `We Always Try to Create a Difference` |
-| Show Title | Hide                                   |
-| Position   | `bottom-a`                             |
-| Status     | Published                              |
+| Field      | Setting            |
+| :-----     | :-----             |
+| Title      | `Share Some Ideas` |
+| Show Title | Show               |
+| Position   | `bottom-a`         |
+| Status     | Published          |
 
 ### Custom Output
 
@@ -249,9 +293,9 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <div class="g-layercontent">
-    <h2 class="g-layercontent-title">We Always Try to Create a Difference</h2>
-    <div class="g-layercontent-subtitle">Versatile and Flexible Features Powered by the Gantry Framework.</div>
-    <a href="http://www.rockettheme.com/joomla/templates/ethereal" class="button button-2">Download Ethereal</a>
+    <h2 class="g-layercontent-title">Share Some Ideas</h2>
+    <div class="g-layercontent-subtitle">Do You Have a Tip or an Idea for a Story? Tell Us About It.</div>
+    <a href="http://www.rockettheme.com/joomla/templates/ethereal" class="button button-2">Submit Article</a>
 </div>
 ~~~
 
