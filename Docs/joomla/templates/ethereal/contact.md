@@ -78,7 +78,7 @@ Enter the following in the **Custom Output** text editor.
 
 The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
-The page's content is sourced from a **Single Contact** menu item assigned to the outline. This creates the content form as seen in our demo.
+The page's content is sourced from a **Single Contact** menu item assigned to the outline. This creates the contact form as seen in our demo.
 
 Settings used in our demo for each of these particles can be found below.
 
