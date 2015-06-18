@@ -41,6 +41,7 @@ support: http://www.rockettheme.com/forum/joomla-template-ethereal/
             * [Pricing](pricing.md)
             * [FAQ Page](faqpage.md)
             * [Blog](blog.md)
+            * [Coming Soon](comingsoon.md)
     * [FAQ](faq.md)
 * Template Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
