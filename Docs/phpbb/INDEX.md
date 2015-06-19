@@ -35,6 +35,7 @@ more:
 
 * Club Styles
 
+	- [Ethereal](styles/ethereal)
 	- [Callisto](styles/callisto)
 	- [Cygnet](styles/cygnet)
 	- [Audacity](styles/audacity)
