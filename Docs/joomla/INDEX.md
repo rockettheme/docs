@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Ambrosia](templates/ambrosia)
 	- [Ethereal](templates/ethereal)
 	- [Callisto](templates/callisto)
 	- [Cygnet](templates/cygnet)
