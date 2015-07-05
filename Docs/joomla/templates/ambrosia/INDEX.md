@@ -26,7 +26,7 @@ Key Features
 -----
 
 * Responsive Layout
-* 10 Preset Styles
+* 6 Preset Styles
 * Block Variations
 * Custom Typography
 * Unlimited Positions
