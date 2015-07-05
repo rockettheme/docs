@@ -25,7 +25,7 @@ Below, you will find the module placement and settings for the various module po
 
 ![](assets/ambrosia2.jpeg)
 
-:   1. **Header - Logo** [5%, 12%, se]
+:   1. **Header - Logo (Particle)** [5%, 12%, se]
     2. **Header - Horizontal Menu (Particle)** [5%, 65%, se]
     3. **Navigation - Menu (Particle)** [8%, 12%, ne]
     4. **Slideshow - RokSprocket (Features)** [14%, 25%, se]
