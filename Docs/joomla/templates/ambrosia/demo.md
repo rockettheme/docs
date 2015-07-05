@@ -21,8 +21,6 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
->> NOTE: In Ambrosia, we have two versions of the front page. One is comprised of Gantry 5 particles, and the other utilizes the popular RokSprocket extension to offer an alternative to particles for users that are more familiar with RokSprocket. You will find documentation for both styles of the items on their section guides linked below the image.
-
 ![](assets/ambrosia2.jpeg)
 
 :   1. **Header - Logo** [5%, 12%, se]
