@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ambrosia:Ambrosia
 
 ## Introduction
 
-The **Navigation** section hosts the **Menu** particle, which displays the main menu near the navigation of the page.
+The **Navigation** section hosts the **Menu** particle, which displays the main menu near the top of the page.
 
 ![](assets/home_navigation.jpeg)
 
