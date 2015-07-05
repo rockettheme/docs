@@ -21,7 +21,7 @@ The **Navigation** section hosts the **Menu** particle, which displays the main 
 | CSS Classes    | `g-home`  |
 | Tag Attributes | Blank     |
 
-## System Messages (Position)
+## Menu (Particle)
 
 ### Particle Settings
 
