@@ -66,13 +66,13 @@ In the second row, we have a **Logo** particle and a **Horizontal Menu** particl
 
 ![Demo Header](demo_header_2.jpeg)
 
-| Field          | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | Blank   |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `25%`   |
+| Field          | Setting        |
+| :-----         | :-----         |
+| CSS ID         | Blank          |
+| CSS Classes    | `g-logo-block` |
+| Variations     | Blank          |
+| Tag Attributes | Blank          |
+| Block Size     | `25%`          |
 
 ## Horizontal Menu (Particle)
 
