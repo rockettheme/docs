@@ -82,7 +82,7 @@ The first thing you will need to do in order to set your front page apart as it 
 
 You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an override, or **Style**. This outline can have its own layout, style, and settings preferences.
 
-It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site.
+It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site. In our own Demo and in the RocketLauncher we have named this Style **Ambrosia - Demo** instead of **Ambrosia - Home**.
 
 Menu Editor
 -----
@@ -99,5 +99,3 @@ Assignments
 ![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Ambrosia** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
-
->> NOTE: There are two versions of the home page in our demo. This is to allow our users to easily choose between starting with a home page built entirely with Gantry 5 particles, or with the popular RokSprocket modules many of them are used to. You will notice that the `Ambrosia - RokSprocket` outline is assigned to the `RokSprocket` menu item in the Assignments panel.
