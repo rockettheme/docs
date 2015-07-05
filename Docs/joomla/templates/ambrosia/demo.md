@@ -45,14 +45,15 @@ Below, you will find the module placement and settings for the various module po
 
 We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
-1. [Top](demo_top.md)
-2. [Header](demo_header.md)
+1. [Header](demo_header.md)
+2. [Navigation](demo_navigation.md)
 3. [Slideshow](demo_slideshow.md)
 4. [Feature](demo_feature.md)
 5. [Mainbar](demo_main.md)
-6. [Extension](demo_extension.md)
+6. [Sidebar](demo_sidebar.md) 
 7. [Bottom](demo_bottom.md)
-8. [Copyright](demo_copyright.md)
+8. [Footer](demo_footer.md)
+9. [Copyright](demo_copyright.md)
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
