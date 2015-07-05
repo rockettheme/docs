@@ -136,9 +136,9 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ![](assets/demo_feature_6.jpeg)
 
-| Option              | Setting |
-| :-----              | :-----  |
-| Module Class Suffix | Blank   |
+| Option              | Setting                      |
+| :-----              | :-----                       |
+| Module Class Suffix | `g-roksprocket-tabs-style-1` |
 
 ### Gantry 5 Particle (Module)
 
