@@ -90,7 +90,7 @@ Settings used in this section can be found below.
 
 ### Assigned Module(s) - RokSprocket (Lists)
 
-The `sidebarbar` module position is host to a single **RokSprocket** module.
+The `sidebar-b` module position is host to a single **RokSprocket** module.
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. You can find examples of the **Simple** items used in this module in the **Filtered Article List** section below.
 
