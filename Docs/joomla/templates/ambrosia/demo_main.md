@@ -266,7 +266,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Link        | None                                  |
 | Description | `{loadposition mainleft-headlines-3}` |
 
->> NOTE: The description fields for these items load module positions (for example: `mainleft-headlines-1`), which have been assigned **Gantry 5 Particle** modules, each of which contain a single **Tab Image** particle. You will find the details for the **Tab Image** particle assigned to the **Gantry 5 Particle** module, and assigned to the `mainleft-headlines-1` position loaded in the `News` tab in the [Info List](#info-list-(particle) section below.
+>> NOTE: The description fields for these items load module positions (for example: `mainleft-headlines-1`), which have been assigned **Gantry 5 Particle** modules, each of which contain a single **Tab Image** particle. You will find the details for the **Tab Image** particle assigned to the **Gantry 5 Particle** module, and assigned to the `mainleft-headlines-1` position loaded in the `News` tab in the [Info List (Particle)](#info-list-(particle)-2) section below.
 
 #### Layout Options
 
@@ -423,7 +423,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Link        | None                              |
 | Description | `{loadposition mainright-tabs-3}` |
 
->> NOTE: The description fields for these items load module positions (for example: `mainright-tabs-1`), which have been assigned **Gantry 5 Particle** modules, each of which contain a single **Tab Image** particle. You will find the details for the **Tab Image** particle assigned to the **Gantry 5 Particle** module, and assigned to the `mainright-tabs-1` position loaded in the `News` tab in the [Info List](#info-list-(particle) section below.
+>> NOTE: The description fields for these items load module positions (for example: `mainright-tabs-1`), which have been assigned **Gantry 5 Particle** modules, each of which contain a single **Tab Image** particle. You will find the details for the **Tab Image** particle assigned to the **Gantry 5 Particle** module, and assigned to the `mainright-tabs-1` position loaded in the `News` tab in the [Info List (Particle)](#info-list-(particle)-3) section below.
 
 #### Layout Options
 
