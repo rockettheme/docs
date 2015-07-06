@@ -13,7 +13,7 @@ The **Bottom** section contains a **Module Position** particle, creating the `bo
 
 Here is a breakdown of the particles used in this section:
 
-* [Module Position (Particle)](#custom-html-(particle))
+* [Module Position (Particle)](#module-position-(bottom-a))
     - [RokSprocket (Strips)](#assigned-module(s)---roksprocket-(strips))
 
 ![](assets/home_bottom.jpeg)
