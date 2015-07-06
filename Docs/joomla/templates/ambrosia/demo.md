@@ -80,7 +80,7 @@ The first thing you will need to do in order to set your front page apart as it 
 
 You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an override, or **Style**. This outline can have its own layout, style, and settings preferences.
 
-It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site.
+It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site. In our own Demo and in the RocketLauncher we have named this Style **Ambrosia - Demo** instead of **Ambrosia - Home**.
 
 Menu Editor
 -----
