@@ -17,7 +17,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 :   1. **Showcase - Custom HTML (Module)** [12%, 40%, se]
     2. **Mainbar - Page Content** [22%, 9%, se]
-    3. **Sidebar - Custom HTML (Module)** [22%, 67%, se]
+    3. **Aside - Custom HTML (Module)** [22%, 67%, se]
     4. **Bottom - Custom HTML (Module)** [60%, 30%, se]
     5. **Footer - Custom HTML (Module)** [70%, 10%, se]
     6. **Footer - Gantry 5 Particle (Module) / Newsletter (Particle)** [70%, 38%, se]
@@ -25,7 +25,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
-3. [Sidebar](#sidebar-section)
+3. [Aside](#aside-section)
 4. [Bottom](#bottom-section)
 5. [Footer](#footer-section)
 
