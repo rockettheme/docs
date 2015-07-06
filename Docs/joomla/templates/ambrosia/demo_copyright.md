@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ambrosia:Ambrosia
 
 ![](assets/demo_copyright.png)
 
-The **Copyright** section is made up a single **Copyright** particle.
+The **Copyright** section is made up of a single **Copyright** particle.
 
 ![](assets/home_copyright.jpeg)
 
