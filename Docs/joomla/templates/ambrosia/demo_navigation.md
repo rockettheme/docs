@@ -42,7 +42,7 @@ The **Navigation** section hosts the **Menu** particle, which displays the main 
 | Option          | Setting           |
 | :-----         | :-----            |
 | CSS ID         | Blank             |
-| CSS Classes    | `g-ambrosia-home` |
+| CSS Classes    | `g-ambrosia-menu` |
 | Variations     | Blank             |
 | Tag Attributes | Blank             |
 | Block Size     | `100%`            |
