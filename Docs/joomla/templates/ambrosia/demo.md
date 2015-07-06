@@ -96,8 +96,6 @@ You can access the Gantry Menu Editor by navigating to **Administrator > Compone
 Assignments
 -----
 
-![](assets/assignments_1.jpeg)
+![](assets/assignments_1.png)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Ambrosia** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
-
->> NOTE: There are two versions of the home page in our demo. This is to allow our users to easily choose between starting with a home page built entirely with Gantry 5 particles, or with the popular RokSprocket modules many of them are used to. You will notice that the `Ambrosia - RokSprocket` outline is assigned to the `RokSprocket` menu item in the Assignments panel.
