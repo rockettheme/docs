@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ambrosia:Ambrosia
 
 ## Introduction
 
-The **Navigation** section hosts the **Menu** particle, which displays the main menu near the navigation of the page.
+The **Navigation** section hosts the **Menu** particle, which displays the main menu near the top of the page.
 
 ![](assets/home_navigation.jpeg)
 
@@ -21,7 +21,7 @@ The **Navigation** section hosts the **Menu** particle, which displays the main 
 | CSS Classes    | `g-home`  |
 | Tag Attributes | Blank     |
 
-## System Messages (Position)
+## Menu (Particle)
 
 ### Particle Settings
 
@@ -42,7 +42,7 @@ The **Navigation** section hosts the **Menu** particle, which displays the main 
 | Option          | Setting           |
 | :-----         | :-----            |
 | CSS ID         | Blank             |
-| CSS Classes    | `g-ambrosia-home` |
+| CSS Classes    | `g-ambrosia-menu` |
 | Variations     | Blank             |
 | Tag Attributes | Blank             |
 | Block Size     | `100%`            |

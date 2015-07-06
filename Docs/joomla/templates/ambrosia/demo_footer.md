@@ -124,10 +124,10 @@ Settings used in our demo for each of these particles can be found below.
 
 ![](assets/demo_footer_6.jpeg)
 
-| Field          | Setting        |
-| :-----         | :-----         |
-| CSS ID         | Blank          |
-| CSS Classes    | `fp-demo-info` |
-| Variations     | Blank          |
-| Tag Attributes | Blank          |
-| Block Size     | `40%`          |
+| Field          | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Block Size     | `40%`     |

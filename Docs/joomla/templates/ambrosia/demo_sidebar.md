@@ -17,10 +17,10 @@ The **Sidebar** section contains three particles, one of which is a **Module Pos
 
 Here is a breakdown of the particles that appear in this section:
 
-* [Sidebar Image (Particle)]()
+* [Sidebar Image (Particle)](#sidebar-image-(particle))
 * [Module Position (sidebar-b)](#module-position-(sidebar-b))
     * [RokSprocket (Lists)](#assigned-module(s)---roksprocket-(lists))
-* [Newsletter (Particle)]()
+* [Newsletter (Particle)](#newsletter-(particle))
 
 ![](assets/home_sidebar.jpeg)
 
@@ -90,7 +90,7 @@ Settings used in this section can be found below.
 
 ### Assigned Module(s) - RokSprocket (Lists)
 
-The `sidebarbar` module position is host to a single **RokSprocket** module.
+The `sidebar-b` module position is host to a single **RokSprocket** module.
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket module to an article. You can find examples of the **Simple** items used in this module in the **Filtered Article List** section below.
 

@@ -21,8 +21,6 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
->> NOTE: In Ambrosia, we have two versions of the front page. One is comprised of Gantry 5 particles, and the other utilizes the popular RokSprocket extension to offer an alternative to particles for users that are more familiar with RokSprocket. You will find documentation for both styles of the items on their section guides linked below the image.
-
 ![](assets/ambrosia2.jpeg)
 
 :   1. **Header - Logo** [5%, 12%, se]
@@ -45,14 +43,15 @@ Below, you will find the module placement and settings for the various module po
 
 We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
-1. [Top](demo_top.md)
-2. [Header](demo_header.md)
+1. [Header](demo_header.md)
+2. [Navigation](demo_navigation.md)
 3. [Slideshow](demo_slideshow.md)
 4. [Feature](demo_feature.md)
 5. [Mainbar](demo_main.md)
-6. [Extension](demo_extension.md)
+6. [Sidebar](demo_sidebar.md) 
 7. [Bottom](demo_bottom.md)
-8. [Copyright](demo_copyright.md)
+8. [Footer](demo_footer.md)
+9. [Copyright](demo_copyright.md)
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
@@ -82,7 +81,7 @@ The first thing you will need to do in order to set your front page apart as it 
 
 You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an override, or **Style**. This outline can have its own layout, style, and settings preferences.
 
-It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site.
+It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site. In our own Demo and in the RocketLauncher we have named this Style **Ambrosia - Demo** instead of **Ambrosia - Home**.
 
 Menu Editor
 -----
@@ -96,8 +95,6 @@ You can access the Gantry Menu Editor by navigating to **Administrator > Compone
 Assignments
 -----
 
-![](assets/assignments_1.jpeg)
+![](assets/assignments_1.png)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Ambrosia** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
-
->> NOTE: There are two versions of the home page in our demo. This is to allow our users to easily choose between starting with a home page built entirely with Gantry 5 particles, or with the popular RokSprocket modules many of them are used to. You will notice that the `Ambrosia - RokSprocket` outline is assigned to the `RokSprocket` menu item in the Assignments panel.
