@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!responsive_support_classes:Re
 
 Another useful feature available, via Bootstrap, is the collection of responsive utility classes that can be used to help tweak layouts by providing a simple method of showing or hiding modules. Insert the following module class suffixes into your module settings to show/hide a module for a particular mode.
 
-|       Class       | Phones (<= 767px) | Tablets (768-959px) | Desktops (960-1199px) | Desktops (>= 1200px) |
+| Class             | Phones (<= 767px) | Tablets (768-959px) | Desktops (960-1199px) | Desktops (>= 1200px) |
 | :---------------- | :---------------- | :------------------ | :-------------------- | :------------------- |
 | `visible-phone`   | **Visible**       | Hidden              | Hidden                | Hidden               |
 | `visible-tablet`  | Hidden            | **Visible**         | Hidden                | Hidden               |
@@ -15,7 +15,7 @@ Another useful feature available, via Bootstrap, is the collection of responsive
 | `visible-large`   | Hidden            | Hidden              | Hidden                | **Visible**          |
 | `hidden-phone`    | Hidden            | **Visible**         | **Visible**           | **Visible**          |
 | `hidden-tablet`   | **Visible**       | Hidden              | **Visible**           | **Visible**          |
-| `hidden-desktop`  | **Visible**       | **Visible**         | Hidden                | **Visible**          |
+| `hidden-desktop`  | **Visible**       | **Visible**         | Hidden                | Hidden               |
 | `hidden-large`    | **Visible**       | **Visible**         | **Visible**           | Hidden               |
 
 As an example, if you wish to have a login module appear on desktop and tablet devices, but not necessarily phones, you can place `hidden-phone` in the **Module Class Suffix** field (as pictured below). This will allow the module to remain visible on any device displaying the page at a width above 768, allowing you to maintain the look you wish to achieve across multiple device types.
