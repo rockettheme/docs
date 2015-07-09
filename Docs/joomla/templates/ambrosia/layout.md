@@ -8,5 +8,5 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ambrosia:Ambrosia
 Layout Manager
 -----
 
-![positions](assets/outline_home.jpeg)
+![positions](assets/outline_home.png)
 
