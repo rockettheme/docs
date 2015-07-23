@@ -52,7 +52,6 @@ more:
 	- [RokStock](plugins/rokstock/)
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
-	- [RokStories](plugins/rokstories)
 	- [RokBox](plugins/rokbox)
 	- [RokSprocket](plugins/roksprocket/)
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
