@@ -78,4 +78,4 @@ Ambrosia is second RocketTheme Club phpBB style released with Leafo SCSS Compile
 
 ## Style Settings
 
-Callisto's pre-built presets are displayed in the Styles tab for you to individually customize and apply. You'll also find an assortment of individual style options, such as text and background colors for the various sections, allowing for easy color changes.
+Ambrosia's pre-built presets are displayed in the Styles tab for you to individually customize and apply. You'll also find an assortment of individual style options, such as text and background colors for the various sections, allowing for easy color changes.

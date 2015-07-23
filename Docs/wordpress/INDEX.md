@@ -82,6 +82,7 @@ more:
 	- [Corvus](themes/corvus)
 	- [Praxis](themes/praxis)
 	- [Stratos](themes/stratos)
+	- [Oculus](themes/oculus)
 	- [Hexeris](themes/hexeris)
 	- [Alerion](themes/alerion)
 	- [Chapelco](themes/chapelco)
