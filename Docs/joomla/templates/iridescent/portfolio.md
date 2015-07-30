@@ -70,14 +70,14 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ![][portfoliopage]
 
-:   1. **Custom HTML - Portfolio** [8%, 45%, se]
-    2. **Breadcrumbs** [11%, 15%, se]
-    3. **RokSprocket Mosaic** [14%, 15%, se]
-    4. **RokSprocket Strips - What Our Clients Say** [60%, 15%, se]
-    5. **Custom HTML - Our Satisfied Clients** [70%, 15%, se]
-    6. **Custom HTML - Iridescent Demo** [81%, 15%, se]
-    7. **Custom HTML - Sample Contact Info** [81%, 52%, se]
-    8. **Article Content** [43%, 15%, se]
+:   1. **Custom HTML - Portfolio** [3%, 45%, se]
+    2. **Breadcrumbs** [7%, 5%, se]
+    3. **RokSprocket Mosaic** [9%, 4%, se]
+    4. **RokSprocket Strips - What Our Clients Say** [63%, 5%, se]
+    5. **Custom HTML - Our Satisfied Clients** [73%, 5%, se]
+    6. **Custom HTML - Iridescent Demo** [85%, 5%, se]
+    7. **Custom HTML - Sample Contact Info** [85%, 52%, se]
+    8. **Article Content** [44%, 5%, se]
 
 1. [Custom HTML - Portfolio](portfolio.md#custom-html---portfolio)
 2. [Breadcrumbs](portfolio.md#breadcrumbs)
@@ -404,15 +404,15 @@ Below is a brief rundown of the modules used to make up the demo page.
 | :----------         | :----------       |
 | Module Class Suffix | `rt-phone-center` |
 
-[portfoliopage]: assets/page_portfolio.jpeg
-[portfoliopage1]: assets/page_portfolio_1.jpeg
-[portfoliopage2]: assets/page_portfolio_2.jpeg
-[portfoliopage3]: assets/page_portfolio_3.jpeg
-[portfoliopage4]: assets/page_portfolio_4.jpeg
-[portfoliopage5]: assets/page_portfolio_5.jpeg
-[portfoliopage6]: assets/page_portfolio_6.jpeg
-[portfoliopage7]: assets/page_portfolio_7.jpeg
-[portfoliopage8]: assets/page_portfolio_8.jpeg
-[portfoliopage9]: assets/page_portfolio_9.jpeg
-[portfoliopage10]: assets/page_portfolio_10.jpeg
-[portfoliopage11]: assets/page_portfolio_11.jpeg
+[portfoliopage]: assets/page_portfolio.png
+[portfoliopage1]: assets/page_portfolio_1.png
+[portfoliopage2]: assets/page_portfolio_2.png
+[portfoliopage3]: assets/page_portfolio_3.png
+[portfoliopage4]: assets/page_portfolio_4.png
+[portfoliopage5]: assets/page_portfolio_5.png
+[portfoliopage6]: assets/page_portfolio_6.png
+[portfoliopage7]: assets/page_portfolio_7.png
+[portfoliopage8]: assets/page_portfolio_8.png
+[portfoliopage9]: assets/page_portfolio_9.png
+[portfoliopage10]: assets/page_portfolio_10.png
+[portfoliopage11]: assets/page_portfolio_11.png
