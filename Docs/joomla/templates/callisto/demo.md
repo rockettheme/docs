@@ -62,7 +62,7 @@ Recommended Extensions
 
 Here is a list of RocketTheme extensions used to create the demo version of Callisto:
 
-* [Gantry Theme Framework](http://gantry.org/)
+* [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
 * RokCommon Library (Installed with RokSprocket)
