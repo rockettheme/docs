@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!salient:Salient
 Introduction
 -----
 
-Salient is a contemporary, flat design, ideal for a content-centric site that features high text volumes, such as for a Magazine or Newspaper. There is a collection of complementary typography to enhance and add sharpness to content elements.
+Salient is an admirable, clean design with a fresh approach for the ever-changing Web. Integrated with the modern Gantry 5 template framework, it is infinitely customizable, incredibly powerful, and remarkably simple. Download it today!
 
 
 ![](assets/salient.png)

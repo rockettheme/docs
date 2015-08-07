@@ -34,22 +34,22 @@ Below, you will find the module placement and settings for the various module po
     9. **Slideshow C Above - Custom HTML (Module)** [8%, 72%, se]
     10. **Slideshow C - Animated Block (Particle)** [10%, 72%, se]
     11. **Slideshow C Below - Animated Block (Particle)** [14%, 72%, se]
-    12. **Showcase A - ** [68%, 65%, se]
-    13. **Showcase B - ** [73%, 12%, se]
-    14. **Utility A - ** [83%, 12%, se]
-    15. **Feature A - ** [83%, 45%, se]
-    16. **Mainbar A - ** [83%, 75%, se]
-    17. **Expanded A - ** [92%, 40%, se]
-    18. **Extension A - ** [92%, 40%, se]
-    19. **Extension B - ** [92%, 40%, se]
-    20. **Bottom A - ** [92%, 40%, se]
-    21. **Footer A - ** [92%, 40%, se]
-    22. **Footside A - ** [92%, 40%, se]
-    23. **Footside B - ** [92%, 40%, se]
-    24. **Footside C - ** [92%, 40%, se]
-    25. **Copyright A - ** [92%, 40%, se]
-    26. **Copyright B - ** [92%, 40%, se]
-    27. **Copyright C - ** [92%, 40%, se]
+    12. **Showcase A - Promo Content (Particle)** [22%, 5%, se]
+    13. **Showcase B - Block Content (Particle)** [25%, 5%, se]
+    14. **Utility A - Promo Content (Particle)** [30%, 50%, se]
+    15. **Feature A - Promo Content (Particle)** [40%, 50%, se]
+    16. **Mainbar A - Block Content (Particle)** [52%, 5%, se]
+    17. **Expanded A - Promo Content (Particle)** [62%, 5%, se]
+    18. **Extension A - Promo Content (Particle)** [70%, 7%, se]
+    19. **Extension B - Promo Content (Particle)** [70%, 45%, se]
+    20. **Bottom A - Promo Content (Particle)** [82%, 5%, se]
+    21. **Footer A - Contact (Particle)** [89%, 5%, se]
+    22. **Footside A - Promo Content (Particle)** [89%, 50%, se]
+    23. **Footside B - Contact (Particle)** [93%, 50%, se]
+    24. **Footside C - Contact (Particle)** [93%, 68%, se]
+    25. **Copyright A - Logo (Particle)** [99%, 5%, se]
+    26. **Copyright B - To Top (Particle)** [99%, 40%, se]
+    27. **Copyright C - Social (Particle)** [99%, 70%, se]
 
 We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
@@ -65,7 +65,6 @@ We have detailed how to recreate the individual modules and particles pictured a
 10. [Bottom](demo_bottom.md)
 11. [Footer / Footside](demo_footer.md)
 12. [Copyright](demo_copyright.md)
-13. [Offcanvas](demo_offcanvas.md)
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
@@ -74,7 +73,7 @@ Recommended Extensions
 
 Here is a list of RocketTheme extensions used to create the demo version of Salient:
 
-* [Gantry Theme Framework](http://gantry.org/)
+* [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
 * RokCommon Library (Installed with RokSprocket)
