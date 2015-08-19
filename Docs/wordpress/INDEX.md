@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Callisto](themes/callisto)
 	- [Cygnet](themes/cygnet)
 	- [Audacity](themes/audacity)
 	- [Sirocco](themes/sirocco)
