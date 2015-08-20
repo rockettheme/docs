@@ -91,6 +91,10 @@ The `sidefeature-a` widget position is host to a single **RokAjaxSearch** widget
 
 This area of the page is a **RokSprocket** widget utilizing the **Simple** content provider and the **Tabs** layout.
 
+This widget is placed using the integrated **WordPress** widgets tool. Since you created the widget position in the **Layout Manager**, it should appear in the **Widgets** area of the WordPress Admin. Once you have created the RokSprocket widget, you can simply drag and drop a new **RokSprocket** widget to the appropriate position, and choose it using the **Choose Widget** setting.
+
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+
 The settings used in our demo are listed below.
 
 ### Details

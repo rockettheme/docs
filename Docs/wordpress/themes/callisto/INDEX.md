@@ -18,7 +18,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.4+ (PHP 5.4+ Recommended)
 * MySQL 5.1+
-* WordPress 4.0+
+* WordPress 4.2+
 
 >> NOTE: Gantry v5.1.0+ is required for Callisto to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 

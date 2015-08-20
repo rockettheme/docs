@@ -49,7 +49,7 @@ Settings used in our demo for each of these particles can be found below.
 
 **Description**
 ~~~ .html
-The Styles settings provides a user friendly interface for easily customizing the stylistic elements of the template, such as color pickers for link, font or background colors. You can choose from six predefined presets or create or customize your own.
+The Styles settings provides a user friendly interface for easily customizing the stylistic elements of the theme, such as color pickers for link, font or background colors. You can choose from six predefined presets or create or customize your own.
 ~~~
 
 #### Block Settings

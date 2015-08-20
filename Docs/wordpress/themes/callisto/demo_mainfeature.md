@@ -69,7 +69,7 @@ Settings used in the demo for the particle used in this section can be found bel
 
 **Description**
 ~~~ .html
-RokSprocket is a powerful, content switchblade extension, that brings a vast portfolio of different layouts and themes into a single extension and UI.
+RokSprocket is a powerful, content switchblade plugin, that brings a vast portfolio of different layouts and themes into a single plugin and UI.
 ~~~
 
 ### Block Settings

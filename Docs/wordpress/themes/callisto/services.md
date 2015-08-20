@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ## Introduction
 
-The **Services** example page demonstrates how you can create a beautiful page with the Callisto template. Here is some information to help you replicate this page as it appears in the demo.
+The **Services** example page demonstrates how you can create a beautiful page with the Callisto theme. Here is some information to help you replicate this page as it appears in the demo.
 
 >> Any **Custom HTML** particles are available and set in the **Layout Manager**, not as **Text** widgets.
 
@@ -48,7 +48,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 2. [Navigation](#navigation-section)
 3. [Showcase](#showcase-section)
 4. [Mainbar](#mainbar-section)
-5. [Extension](#extension-section)
+5. [Extension](#plugin-section)
 6. [Footer](#footer-section)
 7. [Copyright](#copyright-section)
 

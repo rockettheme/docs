@@ -7,44 +7,44 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ## Introduction
 
-![](assets/demo_extension.jpeg)
+![](assets/demo_plugin.jpeg)
 
-:   1. **Widget Position (extension-a)** [7%, 5%, se]
-    2. **Widget Position (extension-b)** [17%, 5%, se]
+:   1. **Widget Position (plugin-a)** [7%, 5%, se]
+    2. **Widget Position (plugin-b)** [17%, 5%, se]
     3. **Promo Image (Particle)** [65%, 5%, se]
-    4. **Widget Position (extension-c)** [65%, 37%, se]
+    4. **Widget Position (plugin-c)** [65%, 37%, se]
     5. **Image Grid (Particle)** [65%, 68%, se]
 
 The **Extension** section is made up three **Widget Positions**, a **Promo Image** particle, and an **Image Grid** particle. These particles and positions span three rows.
 
-![](assets/demo_extension_lm.jpeg)
+![](assets/demo_plugin_lm.jpeg)
 
 Settings used in our demo for each of these particles can be found below.
 
 ## Section Settings
 
-![](assets/demo_extension_settings.jpeg)
+![](assets/demo_plugin_settings.jpeg)
 
 | Field          | Setting |
 | :-----         | :-----  |
 | CSS Classes    | Blank   |
 | Tag Attributes | Blank   |
 
-## Widget Position (extension-a)
+## Widget Position (plugin-a)
 
 ### Particle Settings
 
-![](assets/demo_extension_1.jpeg)
+![](assets/demo_plugin_1.jpeg)
 
 | Field         | Setting                            |
 | :-----        | :-----                             |
 | Particle Name | `Position - RokSprocket Headlines` |
-| Key           | `extension-a`                      |
+| Key           | `plugin-a`                      |
 | Chrome        | `gantry`                           |
 
 ### Block Settings
 
-![](assets/demo_extension_2.jpeg)
+![](assets/demo_plugin_2.jpeg)
 
 | Field          | Setting          |
 | :-----         | :-----           |
@@ -58,9 +58,13 @@ Settings used in our demo for each of these particles can be found below.
 
 The **RokSprocket** widget used here utilizes the **Headlines** layout type to present interesting information to visitors in a way that maximizes a relatively small amount of space.
 
+This widget is placed using the integrated **WordPress** widgets tool. Since you created the widget position in the **Layout Manager**, it should appear in the **Widgets** area of the WordPress Admin. Once you have created the RokSprocket widget, you can simply drag and drop a new **RokSprocket** widget to the appropriate position, and choose it using the **Choose Widget** setting.
+
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+
 ### Details
 
-![](assets/demo_extension_3.jpeg)
+![](assets/demo_plugin_3.jpeg)
 
 | Option           | Setting                    |
 | :-----           | :-----                     |
@@ -74,11 +78,11 @@ In this instance, we used the **Simple** content provider to enable us to create
 | :-----      | :------                                                              |
 | Image       | None                                                                 |
 | Link        | `#`                                                                  |
-| Description | `Built with SASS - a powerful, professional CSS extension language…` |
+| Description | `Built with SASS - a powerful, professional CSS plugin language…` |
 
 ### Layout Options
 
-![](assets/demo_extension_4.jpeg)
+![](assets/demo_plugin_4.jpeg)
 
 | Option           | Setting        |
 | :------          | :------        |
@@ -93,21 +97,21 @@ In this instance, we used the **Simple** content provider to enable us to create
 | Autoplay Delay   | 5              |
 | Image Resize     | Disable        |
 
-## Widget Position (extension-b)
+## Widget Position (plugin-b)
 
 ### Particle Settings
 
-![](assets/demo_extension_6.jpeg)
+![](assets/demo_plugin_6.jpeg)
 
 | Field         | Setting                         |
 | :-----        | :-----                          |
 | Particle Name | `Position - RokSprocket Strips` |
-| Key           | `extension-b`                   |
+| Key           | `plugin-b`                   |
 | Chrome        | `gantry`                        |
 
 ### Block Settings
 
-![](assets/demo_extension_7.jpeg)
+![](assets/demo_plugin_7.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -121,11 +125,13 @@ In this instance, we used the **Simple** content provider to enable us to create
 
 We used a **RokSprocket** widget with the **Strips** layout to make up this area of the front page. You will find the settings used in our demo below.
 
+This widget is placed using the integrated **WordPress** widgets tool. Since you created the widget position in the **Layout Manager**, it should appear in the **Widgets** area of the WordPress Admin. Once you have created the RokSprocket widget, you can simply drag and drop a new **RokSprocket** widget to the appropriate position, and choose it using the **Choose Widget** setting.
+
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
 ### Details
 
-![](assets/demo_extension_8.jpeg)
+![](assets/demo_plugin_8.jpeg)
 
 | Option           | Setting                 |
 | :-----           | :-----                  |
@@ -162,7 +168,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Layout Options
 
-![](assets/demo_extension_9.jpeg)
+![](assets/demo_plugin_9.jpeg)
 
 | Option            | Setting      |
 | :----------       | :----------  |
@@ -183,7 +189,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Particle Settings
 
-![](assets/demo_extension_11.jpeg)
+![](assets/demo_plugin_11.jpeg)
 
 | Field             | Setting                                                          |
 | :-----            | :-----                                                           |
@@ -206,7 +212,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Block Settings
 
-![](assets/demo_extension_12.jpeg)
+![](assets/demo_plugin_12.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -216,21 +222,21 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Tag Attributes | Blank          |
 | Block Size     | `33.3333%`     |
 
-## Widget Position (extension-c)
+## Widget Position (plugin-c)
 
 ### Particle Settings
 
-![](assets/demo_extension_13.jpeg)
+![](assets/demo_plugin_13.jpeg)
 
 | Field         | Setting                        |
 | :-----        | :-----                         |
 | Particle Name | `Position - RokSprocket Lists` |
-| Key           | `extension-c`                  |
+| Key           | `plugin-c`                  |
 | Chrome        | `gantry`                       |
 
 ### Block Settings
 
-![](assets/demo_extension_14.jpeg)
+![](assets/demo_plugin_14.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -248,7 +254,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![demo](assets/demo_extension_15.jpeg)
+![demo](assets/demo_plugin_15.jpeg)
 
 | Option           | Setting                |
 | :----------      | :----------            |
@@ -283,7 +289,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 ~~~ .html
 <div>
     <span>Gantry 5 utilizes Twig - a <span class="hidden-tablet">flexible,
-    fast, and secure</span> template engine for PHP <span class=
+    fast, and secure</span> theme engine for PHP <span class=
     "visible-large">- to make creating powerful, dynamic themes quick and
     easy</span>.</span>
 </div>
@@ -313,7 +319,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Layout Options
 
-![demo2](assets/demo_extension_16.jpeg)
+![demo2](assets/demo_plugin_16.jpeg)
 
 | Option              | Setting     |
 | :----------         | :---------- |
@@ -333,7 +339,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Particle Settings
 
-![demo3](assets/demo_extension_18.jpeg)
+![demo3](assets/demo_plugin_18.jpeg)
 
 | Field               | Setting                                                                                      |
 | :-----              | :-----                                                                                       |
@@ -378,7 +384,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Block Settings
 
-![demo3](assets/demo_extension_19.jpeg)
+![demo3](assets/demo_plugin_19.jpeg)
 
 | Field          | Setting          |
 | :-----         | :-----           |

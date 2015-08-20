@@ -50,7 +50,9 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Assigned Widget(s)
 
-The `showcase` widget position is host to a single **RokSprocket** widget.
+The `showcase` widget position is host to a single **RokSprocket** widget. 
+
+This widget is placed using the integrated **WordPress** widgets tool. Since you created the widget position in the **Layout Manager**, it should appear in the **Widgets** area of the WordPress Admin. Once you have created the RokSprocket widget, you can simply drag and drop a new **RokSprocket** widget to the appropriate position, and choose it using the **Choose Widget** setting.
 
 We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
@@ -82,7 +84,7 @@ The Gantry 5 revolution has finally arrived!
 **Description**
 
 ~~~ .html
-<p>Callisto is the first RocketTheme Club template to be released on the new Gantry 5 Framework, marking the dawn of a new era of powerful, highly customizable and mobile friendly web building.</p><a class="button button-3" href="#">Read More</a>
+<p>Callisto is the first RocketTheme Club theme to be released on the new Gantry 5 Framework, marking the dawn of a new era of powerful, highly customizable and mobile friendly web building.</p><a class="button button-3" href="#">Read More</a>
 ~~~
 
 #### Item 2
@@ -101,7 +103,7 @@ Built in Menu Support with Custom Editor
 **Description**
 
 ~~~ .html
-<p>Gantry 5 benefits from its own built-in menu system, negating the need for auxiliary extensions, as well as featuring a drag and drop setup for dropdown configuration.</p>                    <a class="button button-3" href="#">Read More</a>
+<p>Gantry 5 benefits from its own built-in menu system, negating the need for auxiliary plugins, as well as featuring a drag and drop setup for dropdown configuration.</p>                    <a class="button button-3" href="#">Read More</a>
 ~~~
 
 #### Item 3
@@ -120,7 +122,7 @@ Choose and Configure the Six Preset Styles
 **Description**
 
 ~~~ .html
-<p>Callisto is distributed with six preset styles, with light and dark variations. Each can be customized in the Style Settings to individualize the template with ease and speed.</p>                    <a class="button button-3" href="#">Read More</a>
+<p>Callisto is distributed with six preset styles, with light and dark variations. Each can be customized in the Style Settings to individualize the theme with ease and speed.</p>                    <a class="button button-3" href="#">Read More</a>
 ~~~
 
 ### Layout Options

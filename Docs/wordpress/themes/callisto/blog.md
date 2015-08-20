@@ -7,13 +7,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ## Introduction
 
-The **Blog** example page demonstrates how you can create a beautiful page with the Callisto template. Here is some information to help you replicate this page as it appears in the demo.
+The **Blog** example page demonstrates how you can create a beautiful page with the Callisto theme. Here is some information to help you replicate this page as it appears in the demo. 
 
 >> Any **Custom HTML** particles are available and set in the **Layout Manager**, not as **Text** widgets.
 
 ## Layout Manager
 
-![Layout Manager](assets/layout_blog.png)
+![Layout Manager](assets/layout_blog.jpeg)
 
 This is a look at the **Layout Manager** for the **Callisto - Pages - Blog** outline. We have detailed the various particles represented here in the sections below.
 
@@ -21,13 +21,13 @@ This is a look at the **Layout Manager** for the **Callisto - Pages - Blog** out
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_blog.jpeg)
+![](assets/page_blog.png)
 
 :   1. **Header - Logo** [5%, 15%, se]
     2. **Header - Icon Menu** [5%, 55%, se]
     3. **Navigation - Menu** [7%, 15%, se]
     4. **Navigation - Social** [7%, 75%, se]
-    5. **Showcase - Custom HTML** [9%, 40%, se]
+    5. **Showcase - Custom HTML** [10%, 40%, se]
     6. **Mainbar - Page Content** [11%, 15%, se]
     7. **Sidebar - Custom HTML** [11%, 63%, se]
     8. **Sidebar - Widget Position (sidebar-a)** [18%, 63%, se]
@@ -43,7 +43,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 3. [Showcase](#showcase-section)
 4. [Mainbar](#mainbar-section)
 5. [Sidebar](#sidebar-section)
-5. [Extension](#extension-section)
+5. [Extension](#plugin-section)
 6. [Footer](#footer-section)
 7. [Copyright](#copyright-section)
 

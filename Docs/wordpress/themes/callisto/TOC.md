@@ -5,7 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!callisto:Callisto
 details: http://www.rockettheme.com/wordpress/themes/callisto/
 demo: http://demo.rockettheme.com/wordpress-themes/callisto/
 download: http://www.rockettheme.com/wordpress/themes/callisto/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-template-callisto/
+support: http://www.rockettheme.com/forum/wordpress-theme-callisto/
 
 ---
 
@@ -14,7 +14,7 @@ support: http://www.rockettheme.com/forum/wordpress-template-callisto/
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
     * [How to Install](../../start/themes.md#how-to-install)
-        * [Installing the Theme](../../start/themes.md#installing-the-theme)
+        * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Plugins](demo.md#recommended-plugins)
@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/wordpress-template-callisto/
             * [Mainfeature](demo_mainfeature.md)
             * [Sidefeature](demo_sidefeature.md)
             * [Main](demo_main.md)
-            * [Extension](demo_extension.md)
+            * [Extension](demo_plugin.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
         * [Front Page Layout](layout.md)

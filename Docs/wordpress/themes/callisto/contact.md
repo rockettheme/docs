@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ## Introduction
 
-The **Contact** example page demonstrates how you can create a beautiful page with the Callisto template. Here is some information to help you replicate this page as it appears in the demo.
+The **Contact** example page demonstrates how you can create a beautiful page with the Callisto theme. Here is some information to help you replicate this page as it appears in the demo.
 
 >> Any **Custom HTML** particles are available and set in the **Layout Manager**, not as **Text** widgets.
 
@@ -42,7 +42,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 3. [Showcase](#showcase-section)
 4. [Mainbar](#mainbar-section)
 5. [Sidebar](#sidebar-section)
-5. [Extension](#extension-section)
+5. [Extension](#plugin-section)
 6. [Footer](#footer-section)
 7. [Copyright](#copyright-section)
 
@@ -211,7 +211,7 @@ The **Showcase** section contains a single **Custom HTML** particle. Settings us
 | :-----         | :-----          |
 | CSS ID         | Blank           |
 | CSS Classes    | `flush, center` |
-| Variations     | Blank           |
+| Variations     | Blank           | 
 | Tag Attributes | Blank           |
 | Block Size     | `100%`          |
 
