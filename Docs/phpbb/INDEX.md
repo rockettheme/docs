@@ -35,6 +35,7 @@ more:
 
 * Club Styles
 
+	- [Salient](styles/salient)
 	- [Ambrosia](styles/ambrosia)
 	- [Ethereal](styles/ethereal)
 	- [Callisto](styles/callisto)
