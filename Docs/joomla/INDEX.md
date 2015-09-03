@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Requiem](templates/requiem)
 	- [Salient](templates/salient)
 	- [Ambrosia](templates/ambrosia)
 	- [Ethereal](templates/ethereal)
