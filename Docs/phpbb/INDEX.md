@@ -35,6 +35,7 @@ more:
 
 * Club Styles
 
+	- [Requiem](styles/requiem)
 	- [Salient](styles/salient)
 	- [Ambrosia](styles/ambrosia)
 	- [Ethereal](styles/ethereal)
