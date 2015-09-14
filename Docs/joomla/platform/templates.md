@@ -25,6 +25,7 @@ If you have an existing site running a Gantry-enabled template, you just need to
 
 If you have an existing site, but have not yet installed the Gantry library, you can grab a bundle download that takes the standalone version a bit further by adding Gantry framework.
 
+>> If you are using a RocketTheme template based on Gantry 5, you will notice some differences than what is described here. We recommend checking out the [official Gantry 5 guide](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme) to installing templates.
 
 ### Installing a Template Using RocketLauncher
 
@@ -44,7 +45,7 @@ At this point, you will access the Joomla Web Installer to complete installation
 
 Assuming that you already have Joomla installed and just wish to change your existing site over to a RocketTheme template using Gantry Framework, the bundle installation option is probably going to be what you are looking for. This bundle includes the template itself in addition to Gantry, so you can hit the ground running with a single installation package.
 
->> Note: The Bundle template is only necessary if the Gantry Library is not installed at `/components/com_gantry`.
+>> Note: The Bundle template is only necessary if the Gantry Library is not installed at `/components/com_gantry`. Due to differences in how the template interacts with the Gantry framework, bundle downloads are not presently available for Gantry 5.
 
 You can find this bundle package on all Gantry-supported template download pages. Simply download the bundle ZIP file and install it to your existing Joomla site. 
 
