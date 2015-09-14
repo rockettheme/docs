@@ -137,7 +137,6 @@ more:
 
 * Basic Tutorials (General)
 
-	- [How to Install a Template](platform/templates.md#how-to-install-a-joomla-template)
 	- [How to Update a RocketTheme Template](platform/update_template.md)
 	- [How to Install an Extension](platform/extensions.md#how-to-install-an-extension)
 	- [How to Update an Extension](platform/extensions.md#how-to-update-an-extension)
@@ -159,6 +158,8 @@ more:
 
 * Basic Tutorials (Gantry 4)
 
+	- [How to Install a Gantry 4 Template](platform/templates.md#how-to-install-a-joomla-template)
+	- [How to Update a RocketTheme Template](platform/update_template.md)
 	- [How to Use Responsive Support Classes](basic/responsive_support_classes.md)
 	- [K2 Styling Guide](basic/k2_styling_guide.md)
 	- [How to Create a Template Override](basic/how_to_create_a_template_override.md)
@@ -169,6 +170,7 @@ more:
 
 * Basic Tutorials (Gantry 5)
 
+	- [How to Install a Gantry 5 Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
 	- [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
 	- [Adding a Custom Stylesheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-stylesheet)
 	- [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-font)

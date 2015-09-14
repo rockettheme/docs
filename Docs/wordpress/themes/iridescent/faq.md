@@ -15,7 +15,7 @@ How do I change the logo?
 -----
 
 * Log in to the WordPress administrative dashboard at http://(Your WordPress Site URL)/wp-admin/
-* Select **Epsilon Theme** from the sidebar.
+* Select **Iridescent Theme** from the sidebar.
 * Navigate to the **Style** tab.
 * Change the **Logo** type to **Custom**.
 * Choose your desired logo from your local drive by clicking the **Select** button.
