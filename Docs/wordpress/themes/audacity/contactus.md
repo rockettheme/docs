@@ -15,7 +15,7 @@ Mainbody
 
 ![Mainbody](page_contactus_3.jpeg)
 
-The **Contact Us** page is . The first post is the **Powered by Gantry Framework** article. The page's content is blank. The contact form is loaded as the result of setting the **Template** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `template-contact.php` file located in the theme's directory.
+The contact page's content is blank. The contact form is loaded as the result of setting the **Template** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `template-contact.php` file located in the theme's directory.
 
 Widgets
 -----
@@ -32,13 +32,13 @@ Below is a brief rundown of the widgets used to make up the demo page. Widgets i
     6. **Footer - Text** [76%, 10%, se]
     7. **Footer - Text** [76%, 50%, se]
 
-1. [Showcase - Text](blog.md#showcase-section)
-2. [Breadcrumbs](blog.md#breadcrumbs-section)
-3. [Mainbody](blog.md#sidebar-section)
-4. [Sidebar - Text](blog.md#sidebar-section)
-5. [Sidebar - Gantry Login Form](blog.md#sidebar-section)
-6. [Extension - Text](blog.md#extension_section)
-7. [Footer - Text](blog.md#footer-section)
+1. [Showcase - Text](#showcase-section)
+2. [Breadcrumbs](#breadcrumbs-section)
+3. [Mainbody](#sidebar-section)
+4. [Sidebar - Text](#sidebar-section)
+5. [Sidebar - Gantry Login Form](#sidebar-section)
+6. [Extension - Text](#extension_section)
+7. [Footer - Text](#footer-section)
 
 Showcase Section
 -----
