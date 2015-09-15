@@ -221,17 +221,79 @@ The **Showcase** section contains a single **Custom HTML** particle. Settings us
 
 The **Mainbar** section is set to `67`% width and the **Sidebar** section to `33`%.
 
-The page's content is sourced from a **Single Contact** menu item assigned to the outline. This creates the content form as seen in our demo.
+The page's contact form is sourced from a **Custom HTML** particle located in the **Mainbar** section.
 
 Settings used in our demo for each of these particles can be found below.
-
-### Page Content
 
 #### Particle Settings
 
 | Field         | Setting        |
 | :-----        | :-----         |
-| Particle Name | `Page Content` |
+| Particle Name | `Contact Form` |
+
+~~~ .html
+<form  class="form-validate form-horizontal" id="contact-form" method="post" name="contact-form">
+    <fieldset class="nopaddingall nomarginall">
+      <legend style="margin-bottom: 1.5rem">Send an Email. All fields with an * are required.</legend>
+
+      <div class="control-group" style="margin-bottom: 1.5rem">
+        <div class="control-label">
+          <label class="hasTooltip required">Name<span class="star">&nbsp;*</span></label>
+        </div>
+
+        <div class="controls">
+          <input class="required" id="jform_contact_name" required="required" size="30" type="text" value="">
+        </div>
+      </div>
+
+      <div class="control-group" style="margin-bottom: 1.5rem">
+        <div class="control-label">
+          <label class="hasTooltip required">Email<span class="star">&nbsp;*</span></label>
+        </div>
+
+        <div class="controls">
+          <input class="validate-email required" id="jform_contact_email" required="required" size="30" type="email" value="">
+        </div>
+      </div>
+
+      <div class="control-group" style="margin-bottom: 1.5rem">
+        <div class="control-label">
+          <label class="hasTooltip required">Subject<span class="star">&nbsp;*</span></label>
+        </div>
+
+        <div class="controls">
+          <input class="required" id="jform_contact_emailmsg" required="required" size="60" type="text" value="">
+        </div>
+      </div>
+
+      <div class="control-group" style="margin-bottom: 1.5rem">
+        <div class="control-label">
+          <label class="hasTooltip required">Message<span class="star">&nbsp;*</span></label>
+        </div>
+
+        <div class="controls">
+          <textarea class="required" cols="50" id="jform_contact_message" required="required" rows="10"></textarea>
+        </div>
+      </div>
+
+      <div class="control-group" style="margin-bottom: 1.5rem">
+        <div class="control-label" style="margin-right: 0.75rem; float: left;">
+          <label class="hasTooltip">Send Copy to Yourself</label>
+        </div>
+
+        <div class="controls">
+          <input id="jform_contact_email_copy" type="checkbox" value="1">
+        </div>
+
+        <div class="clearfix"></div>
+      </div>
+
+      <div class="form-actions">
+        <button class="button button-3" type="submit">Send Email</button> 
+      </div>
+    </fieldset>
+  </form>
+  ~~~
 
 #### Block Settings
 
