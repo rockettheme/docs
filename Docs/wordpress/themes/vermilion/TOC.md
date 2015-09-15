@@ -31,6 +31,8 @@ support: http://www.rockettheme.com/forum/wordpress-theme-vermilion
             * [Extension](demo_extension.md)
             * [Bottom](demo_bottom.md)
             * [Footer](demo_footer.md)
+        * Sample Pages
+            * [Contact Us](contactus.md)
         * [Override Settings](demo_override.md)
         * [Widget Positions](positions.md)
         * [Coming Soon Page](comingsoon.md)
