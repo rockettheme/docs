@@ -1,26 +1,26 @@
 ---
-title: Callisto
-description: Your Guide to Using the Callisto Theme for WordPress
-breadcrumb: /wordpress:WordPress/!theme:Themes/!callisto:Callisto
+title: Ethereal
+description: Your Guide to Using the Ethereal Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ethereal:Ethereal
 
 ---
 
 Introduction
 -----
 
-Callisto is the first RocketTheme WordPress Club theme to be released on the new Gantry 5 Framework, marking the dawn of a new era of powerful, highly customizable and mobile friendly web building, and complemented by a vibrant, engaging visual design.
+Ethereal is an exquisitely designed theme, bursting with elegance, sharpness and bold, but complementary visuals; achieved via a subtle color scheme with dashes of vibrancy, within a rich framework of emphasized typography and iconography.
 
 
-![](assets/callisto.jpeg)
+![](assets/ethereal.jpeg)
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.4+ Recommended)
+* PHP 5.4+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
 * WordPress 4.2.1+
 
->> NOTE: Gantry v5.1.0+ is required for Callisto to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.1.3+ is required for Ethereal to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
@@ -32,14 +32,24 @@ Key Features
 * Unlimited Positions
 * Custom Particles
 * Dropdown Menu
-* Icon Menu
 * RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page
 * Offline Page
 * Font Awesome Icons
-* Content Animations
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Theme Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
 
 ## Layout Manager
 
