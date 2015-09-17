@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Ethereal](themes/ethereal)
 	- [Callisto](themes/callisto)
 	- [Cygnet](themes/cygnet)
 	- [Audacity](themes/audacity)
