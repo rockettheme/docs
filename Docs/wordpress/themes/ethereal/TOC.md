@@ -58,8 +58,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-ethereal/
     - [Theme Font Index](../../../technical_tips/general/font_index.md)
 * Useful Plugin Guides
     - [RokAjaxSearch](../../plugins/rokajaxsearch/)
-    - [RokBooster](../../plugins/rokbooster/)
     - [RokBox](../../plugins/rokbox/)
     - [RokGallery](../../plugins/rokgallery/)
-    - [RokPad](../../plugins/rokpad/)
     - [RokSprocket](../../plugins/roksprocket/)
