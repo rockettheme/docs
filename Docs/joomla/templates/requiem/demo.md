@@ -52,7 +52,7 @@ We have detailed how to recreate the individual modules and particles pictured a
 5. [Utility](demo_utility.md)
 6. [Feature](demo_feature.md)
 7. [Expanded](demo_expanded.md)
-8. [Expansion](demo_expansion.md)
+8. [Extension](demo_extension.md)
 9. [Bottom](demo_bottom.md)
 10. [Footer](demo_footer.md)
 11. [Copyright](demo_copyright.md)
