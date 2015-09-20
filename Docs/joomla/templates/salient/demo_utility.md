@@ -29,6 +29,12 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | CSS Classes    | Blank     |
 | Tag Attributes | Blank     |
 
+## Background Image
+
+![](demo_utility_image.png)
+
+The background image seen to the right of the content area of the section is set in the **Styles** tab within the Gantry administrator.
+
 ## Spacer (positions particle)
 
 #### Particle Settings
