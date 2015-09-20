@@ -38,6 +38,8 @@ Key Features
 
 ### Typical Comment System Features
 
+The following are features that are found in some or all of the supported content systems listed in the previous section. RokComments integrates with these services, and can benefit from these features (as provided by the services).
+
 * Comment Threading
 * Reply-By-Email
 * Importing/Exporting
