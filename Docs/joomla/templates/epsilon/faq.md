@@ -10,6 +10,32 @@ What are Epsilon template features?
 
 Please check our [Template Info page][features] for all Epsilon features in one complete list.
 
+## Can I Change the Hexagons to Something Else?
+
+The hexigon shapes used in the Epsilon template are created with a blend of techniques and are largely considered a part of the core of the theme, rather than a feature intended for ready changing.
+
+In most cases found in our demo, these are squares with pseudo-elements `:before` and `:after` applied. You will also find them scattered throughout the theme. For example, the hexigon elements at the bottom of the **FP Expanded Bottom** module are SVG masks created with the following custom code in the simple provider window:
+
+~~~ .html
+<span class="rt-testimonial-item">
+<span class="icon-quote-left"></span>  
+A beautiful and rich selection of typography, based on Bootstrap, to emphasise <span class="hidden-tablet">and embellish </span>content. 
+<span class="icon-quote-right"></span>
+<span class="rt-arrow-bottom"></span>
+</span><span class="rt-testimonial-img">
+<svg class="rt-hexagon-svg" width="150px" height="150px" viewBox = "0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<g><clipPath id="rt-hexagon-mask-1">
+<polygon points="99.9999999999999,196 16.8615612366939,148 16.8615612366939,52 100,4 183.138438763306,52 183.138438763306,148" />          </clipPath></g>      
+<a xlink:href="#">       
+<image clip-path="url(#rt-hexagon-mask-1)" height="100%" width="100%" xlink:href="images/rocketlauncher/frontpage/expandedbottom/img1.jpg" />
+</a>
+</svg>
+</span><span class="rt-testimonial-author">Leo Parry</span>
+<span class="rt-testimonial-position">CEO of Hexeris</span>
+~~~ 
+
+The best way to determine how specific areas of the theme are set up, we recommend downloading a RocketLauncher version of the theme, and using your browser's inspector to find specific CSS sources and other resources to help you address them one-by-one.
+
 Is Epsilon compatible for Joomla 1.5?
 -----
 
