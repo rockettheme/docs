@@ -59,7 +59,7 @@ We have detailed how to recreate the individual modules and particles pictured a
 4. [Showcase](demo_showcase.md)
 5. [Utility](demo_utility.md)
 6. [Feature](demo_feature.md)
-7. [Mainbar](demo_main.md)
+7. [Mainbar](demo_mainbar.md)
 8. [Expanded](demo_expanded.md)
 9. [Extension](demo_extension.md)
 10. [Bottom](demo_bottom.md)
