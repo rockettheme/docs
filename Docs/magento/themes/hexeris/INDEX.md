@@ -106,13 +106,13 @@ If you are creating a fresh install and would like sample data included, you can
 
 * Download the Hexeris RocketLauncher Package (**rt_hexeris_m-rocketlauncher.zip**) from the [Hexeris template downloads section][download].
 * Unzip the package on your computer to reveal the **rt_hexeris_m-rocketlauncher** folder.
-* Upload this to your server using a FTP client.
+* Upload the contents of this folder to your server using a FTP client.
 
 >> NOTE: on some servers, you can upload the zip and extract the package directly onto your server using cPanel or SSH access. For more details on this, please contact your hosting provider.
 
 ### Step 2: Complete the Installation Process
 
-* Direct your browser to the installation (**for example, www.(your site).com/rt_hexeris_m-rocketlauncher**) URL.
+* Direct your browser to the installation (for example, www.(your site).com/) URL.
 * Follow the installation instructions, including filling out your database information.
 * Complete your installation.
 
