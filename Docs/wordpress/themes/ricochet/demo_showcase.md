@@ -8,6 +8,10 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ricochet:Ricochet
 Showcase Section
 -----
 
+## Three Triangles
+
+The three triangles represented in this area of the page are created using CSS. You can find the CSS source used to create them in the `ROOT/wp-content/themes/rt_ricochet_wp/less/demo.less` file. The written content in this area is managed using RokSprocket. Details about this are found in the sections below.
+
 ![Showcase](assets/demo_2.jpeg)
 
 Here is the widget breakdown for the Showcase section:
