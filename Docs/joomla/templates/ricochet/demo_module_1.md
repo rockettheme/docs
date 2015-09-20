@@ -5,10 +5,13 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
 
 ---
 
-FP RokSprocket Features - Showcase
------
-
 ![](assets/demo_1.jpeg)
+
+## Three Triangles
+
+The three triangles represented in this area of the page are created using CSS. You can find the CSS source used to create them in the `ROOT/templates/rt_ricochet/less/demo.less` file. The written content in this area is managed using RokSprocket. Details about this are found in the sections below.
+
+## FP RokSprocket Features - Showcase
 
 The **RokSprocket Features** module used near the top of the front page is a great way to feature some of your site's more notable articles or areas of interest.
 
