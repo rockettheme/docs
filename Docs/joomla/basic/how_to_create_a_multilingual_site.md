@@ -129,7 +129,7 @@ Once you have created the menu, you can then go into that menu's **Menu Manager*
 
 ![][multilanguage_15]
 
-When you create the new menu item, you can do so as you would normally. The only additional steps required is that you set the **Menu Location** and **Language** to your desired language-specific menu and language. You may also want to create a home page menu item for that individual language, as this will make each visitor's landing page appear in their native language.
+When you create the new menu item, you can do so as you would normally. The only additional steps required is that you set the **Menu Location** and **Language** to your desired language-specific menu and language. You need to create a home page/default page menu item for each individual language in order for the **Language Switcher** (Step #8) to work properly.
 
 ![][multilanguage_16]
 
@@ -208,9 +208,9 @@ To do this, you will want to set the **Default** language to the language you wi
 
 Next, you will want to change the main menu to the one you created for the language. For example, if this template style is assigned to English (USA), then you will want to select the English (USA) menu.
 
-## Step 8: Create a Language Selector Module
+## Step 8: Create a Language Switcher Module
 
-This step is useful if you want to give your visitors the option to switch between languages as they please. You can do this by creating a **Language Selector** module and publishing it on the page.
+This step is useful if you want to give your visitors the option to switch between languages as they please. You can do this by creating a **Language Switcher** module and publishing it on the page.
 
 ![][multilanguage_18]
 
@@ -218,10 +218,16 @@ You can do this as you would create any other module. By navigating to **Adminis
  
 ![][multilanguage_19]
 
-:   1. **Language Selector** [23%, 5%, se]
+:   1. **Language Switcher** [23%, 5%, se]
     2. **Language-specific Menu** [35%, 5%, se]
 
 Once this is done, you should see both the language selector module and the language-specific menu appear as expected. Your visitors can switch between languages by clicking its associated flag.
+
+## Extra Information
+
+If you're having issues with your multilanguage setup working properly, the first thing you should do is to enable the **Multilanguage Status** Administrative Module. This is a back end module that will run a series of checks against your setup and advise on any corrections that need to be made. 
+
+To enable it you go to **Extensions > Module Manager > (change the dropdown from **Site** to **Administration** to show the admin modules) > Enable** (publish) the **Multilanguage Status** Module. You should now see a link named **Multilanguage Status** in the position you published it in.
 
 [multilanguage_1]: assets/multilanguage_1.jpeg
 [multilanguage_2]: assets/multilanguage_2.jpeg
