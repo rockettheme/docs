@@ -89,7 +89,7 @@ The first thing you will want to do is add a **Widget Position** particle to the
 
 ### Particle Settings
 
-![](assets/demo_slideshow_2.jpeg)
+![](assets/demo_slideshow_1.jpeg)
 
 | Field         | Setting              |
 | :-----        | :-----               |
@@ -99,7 +99,7 @@ The first thing you will want to do is add a **Widget Position** particle to the
 
 ### Block Settings
 
-![](assets/demo_slideshow_3.jpeg)
+![](assets/demo_slideshow_2.jpeg)
 
 | Field          | Setting |
 | :-----         | :-----  |
