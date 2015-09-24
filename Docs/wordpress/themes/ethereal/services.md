@@ -15,11 +15,11 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_services.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [11%, 45%, se]
-    2. **Feature - Custom HTML (Widget)** [17%, 15%, se]
+:   1. **Showcase - Custom HTML (Particle)** [11%, 45%, se]
+    2. **Feature - Custom HTML (Particle)** [17%, 15%, se]
     3. **Mainbar - Page Content** [31%, 15%, se]
-    4. **Plugin - Custom HTML (Widget)** [46%, 15%, se]
-    5. **Bottom - Custom HTML (Widget)** [60%, 40%, se]
+    4. **Extension - Custom HTML (Particle)** [46%, 15%, se]
+    5. **Bottom - Custom HTML (Particle)** [60%, 40%, se]
     6. **Footer - Custom HTML (Widget)** [72%, 10%, se]
     7. **Footer - Custom HTML (Widget)** [72%, 38%, se]
     8. **Footer - Custom HTML (Widget)** [72%, 65%, se]
@@ -27,7 +27,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)
 2. [Mainbar](#mainbar-section)
-3. [Plugin](#plugin-section)
+3. [Extension](#extension-section)
 4. [Bottom](#bottom-section)
 4. [Footer](#footer-section)
 
@@ -35,67 +35,53 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_services_1.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting               |
-| :-----     | :-----                |
-| Title      | `What We Do - Header` |
-| Show Title | Hide                  |
-| Position   | `showcase-a`          |
-| Status     | Published             |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">What We Do</h2>
-    <div class="g-layercontent-subtitle">Learn More About Our Great Services</div>
+  <h2 class="g-layercontent-title">What We Do</h2>
+  <div class="g-layercontent-subtitle">Learn More About Our Great Services</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Feature Section
 
 ![](assets/page_services_2.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `Services List` |
-| Show Title | Hide                |
-| Position   | `feature-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -164,18 +150,16 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Mainbar Section
 
@@ -224,28 +208,22 @@ The **Mainbar** section includes the **Services** article, displayed through the
 </div>
 ~~~
 
-## Plugin Section
+## Extension Section
 
 ![](assets/page_services_4.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                                 |
-| :-----     | :-----                                  |
-| Title      | `Services List` |
-| Show Title | Hide                                    |
-| Position   | `plugin-a`                           |
-| Status     | Published                               |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -311,7 +289,7 @@ Enter the following in the **Custom Output** text editor.
         <div class="g-infolist-item">
           <div class="g-infolist-item-text">
             <div class="g-infolist-item-title">
-              <a href="#">Theme</a>
+              <a href="#">Template</a>
             </div>
             <div class="g-infolist-item-desc">
               Dynamically procrastinate B2C users after installed base benefits.
@@ -360,62 +338,52 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Bottom Section
 
 ![](assets/page_services_5.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                |
-| :-----     | :-----                 |
-| Title      | `Save Time and Effort` |
-| Show Title | Hide                   |
-| Position   | `bottom-a`             |
-| Status     | Published              |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Save Time and Effort</h2>
-    <div class="g-layercontent-subtitle">We Always Create the Real Value and Work with All Passion</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Purchase Ethereal</a>
+  <h2 class="g-layercontent-title">Save Time and Effort</h2>
+  <div class="g-layercontent-subtitle">We Always Create the Real Value and Work with All Passion</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Purchase Ethereal</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Footer Section
 
@@ -427,7 +395,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 
