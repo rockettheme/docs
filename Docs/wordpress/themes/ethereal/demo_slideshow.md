@@ -117,15 +117,9 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_slideshow_4.jpeg)
-
 | Option           | Setting              |
 | :-----           | :-----               |
 | Title            | `Slideshow`          |
-| Show Title       | Hide                 |
-| Access           | Public               |
-| Position         | `slideshow-features` |
-| Status           | Published            |
 | Content Provider | Simple               |
 | Type             | Features             |
 

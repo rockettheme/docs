@@ -219,15 +219,10 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_feature_10.jpeg)
-
 | Option           | Setting              |
 | :-----           | :-----               |
 | Title            | `Features Slideshow` |
-| Show Title       | Hide                 |
-| Access           | Public               |
 | Position         | `feature-features`   |
-| Status           | Published            |
 | Content Provider | Simple               |
 | Type             | Features             |
 
@@ -294,14 +289,6 @@ Gantry 5 is a revolutionary theme framework, built for the modern web, with feat
 | Default Article Text  | Default Article Text  |
 | Default Article Image | Default Article Image |
 | Default Link          | Default Article Link  |
-
-### Advanced
-
-![](assets/demo_feature_12.jpeg)
-
-| Option              | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
 
 
 

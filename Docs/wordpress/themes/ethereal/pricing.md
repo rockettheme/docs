@@ -15,11 +15,11 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_pricing.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [11%, 40%, se]
-    2. **Feature - Custom HTML (Widget)** [15%, 12% se]
+:   1. **Showcase - Custom HTML (Particle)** [11%, 40%, se]
+    2. **Feature - Custom HTML (Particle)** [15%, 12% se]
     3. **Mainbar - Page Content** [40%, 12%, se]
-    4. **Plugin - Custom HTML (Widget)** [47%, 12%, se]
-    5. **Bottom - Custom HTML (Widget)** [67%, 40%, se]
+    4. **Extension - Custom HTML (Particle)** [47%, 12%, se]
+    5. **Bottom - Custom HTML (Particle)** [67%, 40%, se]
     5. **Footer - Custom HTML (Widget)** [75%, 10%, se]
     6. **Footer - Custom HTML (Widget)** [75%, 38%, se]
     7. **Footer - Custom HTML (Widget)** [75%, 64%, se]
@@ -27,7 +27,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)
 2. [Mainbar](#mainbar-section)
-3. [Plugin](#plugin-section)
+3. [Extension](#extension-section)
 4. [Bottom](#bottom-section)
 4. [Footer](#footer-section)
 
@@ -35,67 +35,53 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_pricing_1.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting            |
-| :-----     | :-----             |
-| Title      | `Awesome Plans - Header` |
-| Show Title | Hide               |
-| Position   | `showcase-a`       |
-| Status     | Published          |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Awesome Plans</h2>
-    <div class="g-layercontent-subtitle">Choose the Plan that Suits Your Needs</div>
+  <h2 class="g-layercontent-title">Awesome Plans</h2>
+  <div class="g-layercontent-subtitle">Choose the Plan that Suits Your Needs</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Feature Section
 
 ![](assets/page_pricing_2.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `Pricing Table` |
-| Show Title | Hide                |
-| Position   | `feature-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -121,7 +107,7 @@ Enter the following in the **Custom Output** text editor.
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/wordpress/themes/ethereal">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/ethereal">Sign Up</a>
         </li>
       </ul>
     </div>
@@ -148,7 +134,7 @@ Enter the following in the **Custom Output** text editor.
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/wordpress/themes/ethereal">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/ethereal">Sign Up</a>
         </li>
       </ul>
     </div>
@@ -175,7 +161,7 @@ Enter the following in the **Custom Output** text editor.
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/wordpress/themes/ethereal">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/ethereal">Sign Up</a>
         </li>
       </ul>
     </div>
@@ -183,18 +169,16 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Mainbar Section
 
@@ -228,28 +212,22 @@ The **Mainbar** section includes the **Pricing** article, displayed through the 
 </div>
 ~~~
 
-## Plugin Section
+## Extension Section
 
 ![](assets/page_pricing_4.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                        |
-| :-----     | :-----                         |
-| Title      | `Common Queries and Questions` |
-| Show Title | Hide                           |
-| Position   | `plugin-a`                  |
-| Status     | Published                      |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -334,62 +312,52 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Bottom Section
 
 ![](assets/page_pricing_5.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting          |
-| :-----     | :-----           |
-| Title      | `No Hidden Fees` |
-| Show Title | Hide             |
-| Position   | `bottom-a`       |
-| Status     | Published        |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent">
-    <h2 class="g-layercontent-title">No Hidden Fees</h2>
-    <div class="g-layercontent-subtitle">No Credit Card Required and No Long-Term Contracts</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Sign Up</a>
+  <h2 class="g-layercontent-title">No Hidden Fees</h2>
+  <div class="g-layercontent-subtitle">No Credit Card Required and No Long-Term Contracts</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Sign Up</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Footer Section
 
@@ -401,7 +369,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 

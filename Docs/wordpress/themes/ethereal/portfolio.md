@@ -15,11 +15,11 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_portfolio.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [9%, 45%, se]
+:   1. **Showcase - Custom HTML (Particle)** [9%, 45%, se]
     2. **Mainbar - Page Content** [14%, 15%, se]
-    3. **Feature - Custom HTML (Widget)** [29%, 15%, se]
-    4. **Plugin - Custom HTML (Widget)** [52%, 15%, se]
-    5. **Bottom - Custom HTML (Widget)** [68%, 35%, se]
+    3. **Feature - Custom HTML (Particle)** [29%, 15%, se]
+    4. **Extension - Custom HTML (Particle)** [52%, 15%, se]
+    5. **Bottom - Custom HTML (Particle)** [68%, 35%, se]
     6. **Footer - Custom HTML (Widget)** [78%, 15%, se]
     7. **Footer - Custom HTML (Widget)** [78%, 38%, se]
     8. **Footer - Custom HTML (Widget)** [78%, 65%, se]
@@ -27,7 +27,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)
 3. [Mainbar](#mainbar-section)
-4. [Plugin](#plugin-section)
+4. [Extension](#extension-section)
 5. [Bottom](#bottom-section)
 6. [Footer](#footer-section)
 
@@ -35,67 +35,53 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_portfolio_1.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting              |
-| :-----     | :-----               |
-| Title      | `Portfolio - Header` |
-| Show Title | Hide                 |
-| Position   | `showcase-a`         |
-| Status     | Published            |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Portfolio</h2>
-    <div class="g-layercontent-subtitle">What We Have Already Done</div>
+  <h2 class="g-layercontent-title">Portfolio</h2>
+  <div class="g-layercontent-subtitle">What We Have Already Done</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Feature Section
 
 ![](assets/page_ourteam_2.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `Ethereal Premium Project - Responsive Layout` |
-| Show Title | Hide                |
-| Position   | `feature-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -103,7 +89,7 @@ Enter the following in the **Custom Output** text editor.
     <div class="g-content ">
       <div class="g-contentlist ">
         <div class="g-grid">
-          <div style="background-image: url(images/rocketlauncher/pages/portfolio/img-01.jpg)" class="g-block size-33 g-contentlist-img">
+          <div style="background-image: url(wp-content://rocketlauncher/pages/portfolio/img-01.jpg)" class="g-block size-33 g-contentlist-img">
             <div class="g-contentlist-img-tag">On Going</div>
           </div>
           <div class="g-block size-67 g-contentlist-text">
@@ -165,25 +151,23 @@ Enter the following in the **Custom Output** text editor.
   <div class="g-block size-33">
     <div class="g-content ">
       <h2 class="g-title">Responsive Layout</h2>
-      <p><img alt="image" src="images/rocketlauncher/pages/portfolio/img-02.jpg"></p>
+      <p><img alt="image" src="wp-content://rocketlauncher/pages/portfolio/img-02.jpg"></p>
       <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.</p>
     </div>
   </div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Mainbar Section
 
@@ -310,28 +294,22 @@ The **Mainbar** section includes the **Portfolio** article, displayed through th
 </div>
 ~~~
 
-## Plugin Section
+## Extension Section
 
 ![](assets/page_portfolio_4.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                                 |
-| :-----     | :-----                                  |
-| Title      | `Upcoming Projects` |
-| Show Title | Hide                                    |
-| Position   | `plugin-a`                           |
-| Status     | Published                               |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -413,62 +391,52 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Bottom Section
 
 ![](assets/page_portfolio_5.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                        |
-| :-----     | :-----                         |
-| Title      | `100% Satisfaction Guaranteed` |
-| Show Title | Hide                           |
-| Position   | `bottom-a`                     |
-| Status     | Published                      |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">100% Satisfaction Guaranteed</h2>
-    <div class="g-layercontent-subtitle">Will You be the Next to Join Our Happy Clients?</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Join Now</a>
+  <h2 class="g-layercontent-title">100% Satisfaction Guaranteed</h2>
+  <div class="g-layercontent-subtitle">Will You be the Next to Join Our Happy Clients?</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Join Now</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Footer Section
 
@@ -480,7 +448,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 

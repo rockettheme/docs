@@ -15,16 +15,15 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_blog.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [8%, 45%, se]
+:   1. **Showcase - Custom HTML (Particle)** [8%, 45%, se]
     2. **Mainbar - Page Content** [11%, 15%, se]
     3. **Aside - RokAjaxSearch (Widget)** [11%, 67%, se]
-    4. **Aside - Custom HTML (Widget)** [14%, 67%, se]
+    4. **Aside - Text (Widget)** [14%, 67%, se]
     5. **Aside - Login (Widget)** [20%, 67%, se]
-    6. **Aside - Who's Online (Widget)** [26%, 67%, se]
-    7. **Bottom - Custom HTML (Widget)** [75%, 35%, se]
-    5. **Footer - Custom HTML (Widget)** [82%, 15%, se]
-    6. **Footer - Custom HTML (Widget)** [82%, 38%, se]
-    7. **Footer - Custom HTML (Widget)** [82%, 63%, se]
+    7. **Bottom - Custom HTML (Particle)** [75%, 35%, se]
+    5. **Footer - Text (Widget)** [82%, 15%, se]
+    6. **Footer - Text (Widget)** [82%, 38%, se]
+    7. **Footer - Text (Widget)** [82%, 63%, se]
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
@@ -36,44 +35,36 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_blog_1.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-## Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `Our Blog - Header` |
-| Show Title | Hide                |
-| Position   | `showcase-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Our Blog</h2>
-    <div class="g-layercontent-subtitle">Read the Latest News</div>
+  <h2 class="g-layercontent-title">Our Blog</h2>
+  <div class="g-layercontent-subtitle">Read the Latest News</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 # Mainbar Section
 
@@ -104,7 +95,6 @@ The **Mainbar** section includes several articles assigned to the **WordPress Bl
 :   1. **RokAjaxSearch (Widget)** [7%, 15%, se]
     2. **Custom HTML (Widget)** [20%, 15%, se]
     3. **Login (Widget)** [50%, 15%, se]
-    4. **Who's Online (Widget)** [80%, 15%, se]
 
 This area of the page consists of the **Aside** section, which sits to the right of the **Mainbar** section in the **Layout Manager**.
 
@@ -113,9 +103,6 @@ Here is a breakdown of the widgets used in the `aside` widget position assigned 
 * RokAjaxSearch (Widget)
 * Custom HTML (Widget)
 * Login (Widget)
-* Who's Online (Widget)
-
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ## RokAjaxSearch (Widget)
 
@@ -244,73 +231,41 @@ Enter the following in the **Custom Output** text editor.
 | :-----              | :-----  |
 | Widget Class Suffix | `box3`  |
 
-## Who's Online (Widget)
-
-### Details
-
-| Field      | Setting   |
-| :-----     | :-----    |
-| Title      | `Who's Online`   |
-| Show Title | Show      |
-| Position   | `aside`   |
-| Status     | Published |
-
-### Options
-
-| Field   | Setting             |
-| :-----  | :-----              |
-| Display | # of Guests / Users |
-
-
-### Advanced
-
-| Field               | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
-
 ## Bottom Section
 
 ![](assets/page_blog_4.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting            |
-| :-----     | :-----             |
-| Title      | `Share Some Ideas` |
-| Show Title | Show               |
-| Position   | `bottom-a`         |
-| Status     | Published          |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent">
-    <h2 class="g-layercontent-title">Share Some Ideas</h2>
-    <div class="g-layercontent-subtitle">Do You Have a Tip or an Idea for a Story? Tell Us About It.</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Submit Article</a>
+  <h2 class="g-layercontent-title">Share Some Ideas</h2>
+  <div class="g-layercontent-subtitle">Do You Have a Tip or an Idea for a Story? Tell Us About It.</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Submit Article</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Footer Section
 
@@ -322,7 +277,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 

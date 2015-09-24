@@ -15,10 +15,10 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_contact.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [12%, 40%, se]
+:   1. **Showcase - Custom HTML (Particle)** [12%, 40%, se]
     2. **Mainbar - Page Content** [20%, 9%, se]
     3. **Sidebar - Custom HTML (Widget)** [20%, 67%, se]
-    4. **Bottom - Custom HTML (Widget)** [60%, 30%, se]
+    4. **Bottom - Custom HTML (Particle)** [60%, 30%, se]
     5. **Footer - Custom HTML (Widget)** [70%, 10%, se]
     6. **Footer - Custom HTML (Widget)** [70%, 38%, se]
     7. **Footer - Custom HTML (Widget)** [70%, 65%, se]
@@ -33,44 +33,36 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_contact_1.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting            |
-| :-----     | :-----             |
-| Title      | `Contact - Header` |
-| Show Title | Hide               |
-| Position   | `showcase-a`       |
-| Status     | Published          |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Contact</h2>
-    <div class="g-layercontent-subtitle">Keep in Touch with Us</div>
+  <h2 class="g-layercontent-title">Contact</h2>
+  <div class="g-layercontent-subtitle">Keep in Touch with Us</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Mainbar Section
 
@@ -114,7 +106,6 @@ The **Aside** section is set to `20`% width.
 
 This area of the page is a **Text** widget. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget)
 
@@ -184,45 +175,37 @@ Enter the following in the **Custom Output** text editor.
 
 ![](assets/page_contact_4.jpeg)
 
-This area of the page is a **Text** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                               |
-| :-----     | :-----                                |
-| Title      | `Got Billing and Payments Questions?` |
-| Show Title | Hide                                  |
-| Position   | `bottom-a`                            |
-| Status     | Published                             |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent">
-    <h2 class="g-layercontent-title">Got Billing and Payments Questions?</h2>
-    <div class="g-layercontent-subtitle">Email Us for Questions Involving Payments, Billing, and Membership.</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Send Email</a>
+  <h2 class="g-layercontent-title">Got Billing and Payments Questions?</h2>
+  <div class="g-layercontent-subtitle">Email Us for Questions Involving Payments, Billing, and Membership.</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Send Email</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Footer Section
 
@@ -234,7 +217,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 

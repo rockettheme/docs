@@ -25,7 +25,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
-3. [Plugin](#plugin-section)
+3. [Plugin](#extension-section)
 4. [Bottom](#bottom-section)
 4. [Footer](#footer-section)
 
@@ -35,7 +35,6 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 This area of the page is a **Text** widget. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget)
 
@@ -98,7 +97,6 @@ The **Mainbar** section includes the **Clients** article, displayed through the 
 
 This area of the page is a **Text** widget. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget)
 
@@ -183,7 +181,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is a **Text** widget. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget)
 
@@ -231,7 +228,6 @@ Enter the following in the **Custom Output** text editor.
 
 This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ### Custom HTML (Widget) 1
 

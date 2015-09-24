@@ -318,15 +318,10 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_main_12.jpeg)
-
 | Option           | Setting        |
 | :-----           | :-----         |
 | Title            | `Latest Shots` |
-| Show Title       | Hide           |
-| Access           | Public         |
 | Position         | `main-grids`   |
-| Status           | Published      |
 | Content Provider | Simple         |
 | Type             | Grids          |
 
@@ -363,14 +358,6 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Default Article Image | Default Article Image |
 | Default Link          | Default Article Link  |
 
-### Advanced
-
-![](assets/demo_main_14.jpeg)
-
-| Option              | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
-
 ## Widget Position (main-mosaic)
 
 ### Particle Settings
@@ -403,15 +390,10 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_main_17.jpeg)
-
 | Option           | Setting       |
 | :-----           | :-----        |
 | Title            | `This Month`  |
-| Show Title       | Show          |
-| Access           | Public        |
 | Position         | `main-mosaic` |
-| Status           | Published     |
 | Content Provider | Simple        |
 | Type             | Mosaic        |
 
@@ -449,14 +431,6 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Default Article Image | Default Article Image        |
 | Default Link          | Default Article Link         |
 
-### Advanced
-
-![](assets/demo_main_19.jpeg)
-
-| Option              | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
-
 ## Widget Position (main-grids-2)
 
 ### Particle Settings
@@ -489,15 +463,10 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_main_22.jpeg)
-
 | Option           | Setting        |
 | :-----           | :-----         |
 | Title            | `Must Read`    |
-| Show Title       | Hide           |
-| Access           | Public         |
 | Position         | `main-grids-2` |
-| Status           | Published      |
 | Content Provider | Simple         |
 | Type             | Grids          |
 
@@ -533,11 +502,3 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Default Article Text  | Default Article Text  |
 | Default Article Image | Default Article Image |
 | Default Link          | Default Article Link  |
-
-### Advanced
-
-![](assets/demo_main_24.jpeg)
-
-| Option              | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
