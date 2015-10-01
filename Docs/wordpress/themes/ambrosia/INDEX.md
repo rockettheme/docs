@@ -15,12 +15,11 @@ Ambrosia is a contemporary, flat design, ideal for a content-centric site that f
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.4+ Recommended)
+* PHP 5.4+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* WordPress 3.4+
+* WordPress 4.2+
 
->> NOTE: Gantry v5.0.0+ is required for Ambrosia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.1.5+ is required for Ambrosia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

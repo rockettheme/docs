@@ -44,15 +44,15 @@ Settings used in our demo for each of these particles can be found below.
 
 #### Block Settings
 
-![Demo Header](demo_bottom_2.jpeg)
+![Demo Header](demo_bottom_2.png)
 
-| Field          | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | No Padding |
-| Tag Attributes | Blank      |
-| Block Size     | `100%`     |
+| Field          | Setting                         |
+| :-----         | :-----                          |
+| CSS ID         | Blank                           |
+| CSS Classes    | `fp-roksprocket-strips-style-1` |
+| Variations     | No Padding                      |
+| Tag Attributes | Blank                           |
+| Block Size     | `100%`                          |
 
 ## Assigned Widget(s) - RokSprocket (Strips)
 
@@ -62,17 +62,25 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_bottom_3.jpeg)
+![](assets/demo_bottom_3.png)
 
-| Option           | Setting                 |
-| :-----           | :-----                  |
-| Title            | `FP RokSprocket Strips` |
-| Show Title       | Hide                    |
-| Access           | Public                  |
-| Position         | `bottom-a`              |
-| Status           | Published               |
-| Content Provider | Simple                  |
-| Type             | Strips                  |
+| Option            | Setting                 |
+| :-----            | :-----                  |
+| Title             | `FP RokSprocket Strips` |
+| Content Provider  | Simple                  |
+| Type              | Strips                  |
+| Theme             | Separated               |
+| Display Limit     | `∞`                     |
+| Preview Length    | `∞`                     |
+| Strip HTML Tags   | Yes                     |
+| Previews Per Page | `6`                     |
+| Items Per Row     | 6                       |
+| Arrow Navigation  | Show                    |
+| Pagination        | Hide                    |
+| Animation         | Fade Delayed            |
+| Autoplay          | Disable                 |
+| Autoplay Delay    | 5                       |
+| Image Resize      | Disable                 |
 
 ### Filtered Article List
 
@@ -102,31 +110,4 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Image       | Custom  |
 | Link        | `#`     |
 | Description | None    |
-
-### Layout Options
-
-![](assets/demo_bottom_4.jpeg)
-
-| Option            | Setting      |
-| :----------       | :----------  |
-| Theme             | Separated    |
-| Display Limit     | `∞`          |
-| Preview Length    | `∞`          |
-| Strip HTML Tags   | Yes          |
-| Previews Per Page | `6`          |
-| Items Per Row     | 6            |
-| Arrow Navigation  | Show         |
-| Pagination        | Hide         |
-| Animation         | Fade Delayed |
-| Autoplay          | Disable      |
-| Autoplay Delay    | 5            |
-| Image Resize      | Disable      |
-
-### Advanced
-
-![](assets/demo_bottom_5.jpeg)
-
-| Option              | Setting                         |
-| :----------         | :----------                     |
-| Widget Class Suffix | `fp-roksprocket-strips-style-1` |
 

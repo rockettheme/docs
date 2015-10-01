@@ -96,17 +96,27 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 #### Details
 
-![](assets/demo_sidebar_6.jpeg)
+![](assets/demo_sidebar_6.png)
 
-| Option           | Setting                |
-| :-----           | :-----                 |
-| Title            | `FP RokSprocket Lists` |
-| Show Title       | Hide                   |
-| Access           | Public                 |
-| Position         | `sidebar-b`            |
-| Status           | Published              |
-| Content Provider | Simple                 |
-| Type             | Lists                  |
+| Option                | Setting                |
+| :-----                | :-----                 |
+| Title                 | `FP RokSprocket Lists` |
+| Content Provider      | Simple                 |
+| Type                  | Lists                  |
+| Theme                 | Default                |
+| Display Limit         | `3`                    |
+| Collapsible Preview   | Enable                 |
+| Preview Length        | `∞`                    |
+| Strip HTML Tags       | No                     |
+| Preview Per Page      | `4`                    |
+| Arrow Navigation      | Show                   |
+| Pagination            | Show                   |
+| Image Resize          | Disable                |
+| Autoplay Delay        | `5`                    |
+| Default Title         | Default Article Title  |
+| Default Article Text  | Default Article Text   |
+| Default Article Image | Default Article Image  |
+| Default Link          | Default Article Link   |
 
 #### Filtered Article List
 
@@ -136,35 +146,6 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Image       | None                                                                                                            |
 | Link        | None                                                                                                            |
 | Description | `Gantry 5's Particles system makes it easy to create, configure, and manage content blocks on multiple levels.` |
-
-#### Layout Options
-
-![](assets/demo_sidebar_7.jpeg)
-
-| Option                | Setting               |
-| :-----                | :-----                |
-| Theme                 | Default               |
-| Display Limit         | `3`                   |
-| Collapsible Preview   | Enable                |
-| Preview Length        | `∞`                   |
-| Strip HTML Tags       | No                    |
-| Preview Per Page      | `4`                   |
-| Arrow Navigation      | Show                  |
-| Pagination            | Show                  |
-| Image Resize          | Disable               |
-| Autoplay Delay        | `5`                   |
-| Default Title         | Default Article Title |
-| Default Article Text  | Default Article Text  |
-| Default Article Image | Default Article Image |
-| Default Link          | Default Article Link  |
-
-#### Advanced
-
-![](assets/demo_sidebar_8.jpeg)
-
-| Option              | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
 
 ## Newsletter (Particle)
 
