@@ -1,13 +1,13 @@
 ---
 title: Ambrosia: Recreating the Demo - Services Page
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
 ## Introduction
 
-The **Services** example page demonstrates how you can create a beautiful page with the Ambrosia template. Here is some information to help you replicate this page as it appears in the demo.
+The **Services** example page demonstrates how you can create a beautiful page with the Ambrosia theme. Here is some information to help you replicate this page as it appears in the demo.
 
 ## Widgets and Particles
 
@@ -15,83 +15,73 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_services.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [11%, 45%, se]
-    2. **Feature - Custom HTML (Widget)** [19%, 11%, se]
-    3. **Mainbar - Page Content** [35%, 11%, se]
-    4. **Plugin - Info List (Particle)** [50%, 11%, se]
-    5. **Bottom - Custom HTML (Widget)** [64%, 40%, se]
+:   1. **Showcase - Custom HTML (Particle)** [11%, 45%, se]
+    2. **Feature - Custom HTML (Particle)** [19%, 13%, se]
+    3. **Mainbar - Page Content** [35%, 13%, se]
+    4. **Extension - Custom HTML (Particle)** [51%, 13%, se]
+    5. **Bottom - Custom HTML (Particle)** [65%, 40%, se]
+    6. **Footer - Custom HTML (Widget)** [75%, 10%, se]
+    7. **Footer - Custom HTML (Widget)** [75%, 38%, se]
+    8. **Footer - Custom HTML (Widget)** [75%, 65%, se]
 
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)
 2. [Mainbar](#mainbar-section)
-3. [Plugin](#plugin-section)
+3. [Extension](#extension-section)
 4. [Bottom](#bottom-section)
+4. [Footer](#footer-section)
 
 ## Showcase Section
 
 ![](assets/page_services_2.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting               |
-| :-----     | :-----                |
-| Title      | `What We Do - Header` |
-| Show Title | Hide                  |
-| Position   | `showcase-a`          |
-| Status     | Published             |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">What We Do</h2>
-    <div class="g-layercontent-subtitle">Learn More About Our Great Services</div>
+  <h2 class="g-layercontent-title">What We Do</h2>
+  <div class="g-layercontent-subtitle">Learn More About Our Great Services</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Feature Section
 
 ![](assets/page_services_3.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting         |
-| :-----     | :-----          |
-| Title      | `Services List` |
-| Show Title | Hide            |
-| Position   | `feature-a`     |
-| Status     | Published       |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -160,18 +150,16 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Mainbar Section
 
@@ -220,63 +208,251 @@ The **Mainbar** section includes the **Services** article, displayed through the
 </div>
 ~~~
 
-## Plugin Section
+## Extension Section
 
 ![](assets/page_services_5.jpeg)
 
-This area of the page is made up of three **Info List** particles, each placed into a widget position (`plugin-a`, `plugin-b`, `plugin-c`) by way of a **Gantry 5 Particle** widget. You will find the settings used in one of these **Info List** particles below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
-### Info List (Particle)
+### Custom HTML (Particle)
 
 ### Particle Settings
 
-| Field                            | Setting                                                              |
-| :-----                           | :-----                                                               |
-| Particle Name                    | `Info List`                                                          |
-| Title                            | Blank                                                                |
-| Intro                            | Blank                                                                |
-| Grid Column                      | 1 Column                                                             |
-| Info Lists Item 1 Name           | `Graphic Design`                                                     |
-| Info Lists Item 1 Image          | Blank                                                                |
-| Info Lists Item 1 Image Location | Left                                                                 |
-| Info Lists Item 1 Text Style     | Compact                                                              |
-| Info Lists Item 1 Image Style    | Compact                                                              |
-| Info Lists Item 1 Description    | `Dynamically procrastinate B2C users after installed base benefits.` |
-| Info Lists Item 1 Tag            | Blank                                                                |
-| Info Lists Item 1 Sub Tag        | Blank                                                                |
-| Info Lists Item 1 Label          | Blank                                                                |
-| Info Lists Item 1 Link           | Blank                                                                |
-| Info Lists Item 1 Icon           | Blank                                                                |
-| Info Lists Item 1 CSS Classes    | Blank                                                                |
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
+
+### Custom HTML
+
+~~~ .html
+<div class="g-grid">
+  <div class="g-block box3 size-33-3">
+    <div class="g-content">
+      <div class="g-infolist">
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Graphic Design</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Domain</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">HelpDesk</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="g-block box3 size-33-3">
+    <div class="g-content">
+      <div class="g-infolist">
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Programming</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Security</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Template</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="g-block box3 size-33-3">
+    <div class="g-content">
+      <div class="g-infolist">
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Hosting</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">Server</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+        <div class="g-infolist-item">
+          <div class="g-infolist-item-text">
+            <div class="g-infolist-item-title">
+              <a href="#">MarketPlace</a>
+            </div>
+            <div class="g-infolist-item-desc">
+              Dynamically procrastinate B2C users after installed base benefits.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+~~~
+
+### Block Settings
+
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Bottom Section
 
 ![](assets/page_services_6.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
+
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
+
+### Custom HTML
+
+~~~ .html
+<div class="g-layercontent g-layercontent-small">
+  <h2 class="g-layercontent-title">Save Time and Effort</h2>
+  <div class="g-layercontent-subtitle">We Always Create the Real Value and Work with All Passion</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ambrosia" class="button button-2">Purchase Ambrosia</a>
+</div>
+~~~
+
+### Block Settings
+
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
+
+## Footer Section
+
+![](assets/page_aboutus_6.jpeg)
+
+:   1. **Custom HTML (Widget) 1** [20%, 5%, se]
+    2. **Custom HTML (Widget) 2** [20%, 38%, se]
+    3. **Custom HTML (Widget) 3** [20%, 65%, se]
+
+This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
+
+
+### Custom HTML (Widget) 1
 
 ### Details
 
-| Field      | Setting                |
-| :-----     | :-----                 |
-| Title      | `Save Time and Effort` |
-| Show Title | Hide                   |
-| Position   | `bottom-a`             |
-| Status     | Published              |
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `About Ambrosia` |
+| Show Title | Show             |
+| Position   | `footer-a`       |
+| Status     | Published        |
 
 ### Custom Output
 
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<div class="g-layercontent g-layercontent-small">
-  <h2 class="g-layercontent-title">Save Time and Effort</h2>
-  <div class="g-layercontent-subtitle">We Always Create the Real Value and Work with All Passion</div>
-  <a href="http://www.rockettheme.com/wordpress/templates/ambrosia" class="button">Purchase Ambrosia</a>
+<p>All demo content is for sample purposes only, intended to represent a live site.</p>
+
+<p>The sample pages are intended to show how Ambrosia can be constructed on your site.</p>
+~~~
+
+### Basic
+
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |
+
+### Custom HTML (Widget) 2
+
+### Details
+
+| Field      | Setting      |
+| :-----     | :-----       |
+| Title      | `Newsletter` |
+| Show Title | Show         |
+| Position   | `footer-b`   |
+| Status     | Published    |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
+~~~ .html
+<div class="g-newsletter">
+  <div class="g-newsletter-headtext">
+    Subscribe to our newsletter and stay updated on the latest developments and special offers!
+  </div>
+  <form onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify" class="g-newsletter-form">
+    <input type="text" name="email" placeholder="Email Address" class="g-newsletter-inputbox"> <input type="hidden" name="uri" value="rocketthemeblog"> <input type="hidden" value="en_US" name="loc"> <input type="submit" value="Join" class="g-newsletter-button button button-3" name="Submit">
+  </form>
 </div>
 ~~~
 
@@ -289,6 +465,57 @@ Enter the following in the **Custom Output** text editor.
 
 ### Advanced
 
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |
+
+### Custom HTML (Widget) 3
+
+### Details
+
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `Sample Sitemap` |
+| Show Title | Show             |
+| Position   | `footer-c`       |
+| Status     | Published        |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
+~~~ .html
+<div class="g-grid">
+    <div class="g-block">
+        <ul class="nomarginall noliststyle">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=105">Features</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Typography</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Particles</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=107">Variations</a></li>
+        </ul>
+    </div>
+    <div class="g-block">
+        <ul class="nomarginall noliststyle">
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Buttons</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
+            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ambrosia">Guide</a></li>
+            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ambrosia">Support</a></li>
+            <li><a href="http://www.rockettheme.com/wordpress/themes/ambrosia">Download</a></li>
+        </ul>       
+    </div>  
+</div>
+~~~
+
+### Basic
+
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |

@@ -1,13 +1,13 @@
 ---
-title: Ambrosia: Recreating the Demo - Blog Page
-description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+title: Ethereal: Recreating the Demo - Blog Page
+description: Your Guide to Recreating Elements of the Ethereal Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/ethereal:Ethereal
 
 ---
 
 # Introduction
 
-The **Blog** example page demonstrates how you can create a beautiful page with the Ambrosia template. Here is some information to help you replicate this page as it appears in the demo.
+The **Blog** example page demonstrates how you can create a beautiful page with the Ethereal theme. Here is some information to help you replicate this page as it appears in the demo.
 
 # Widgets and Particles
 
@@ -15,61 +15,56 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_blog.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [8%, 45%, se]
+:   1. **Showcase - Custom HTML (Particle)** [8%, 45%, se]
     2. **Mainbar - Page Content** [13%, 15%, se]
     3. **Aside - RokAjaxSearch (Widget)** [13%, 67%, se]
-    4. **Aside - Custom HTML (Widget)** [15%, 67%, se]
+    4. **Aside - Text (Widget)** [16%, 67%, se]
     5. **Aside - Login (Widget)** [22%, 67%, se]
-    6. **Aside - Who's Online (Widget)** [28%, 67%, se]
-    7. **Bottom - Custom HTML (Widget)** [78%, 35%, se]
+    7. **Bottom - Custom HTML (Particle)** [78%, 35%, se]
+    5. **Footer - Text (Widget)** [84%, 15%, se]
+    6. **Footer - Text (Widget)** [84%, 38%, se]
+    7. **Footer - Text (Widget)** [84%, 63%, se]
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
 3. [Aside](#aside-section)
 4. [Bottom](#bottom-section)
+4. [Footer](#footer-section)
 
 # Showcase Section
 
 ![](assets/page_blog_1.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-## Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `Our Blog - Header` |
-| Show Title | Hide                |
-| Position   | `showcase-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
-    <h2 class="g-layercontent-title">Our Blog</h2>
-    <div class="g-layercontent-subtitle">Read the Latest News</div>
+  <h2 class="g-layercontent-title">Our Blog</h2>
+  <div class="g-layercontent-subtitle">Read the Latest News</div>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 # Mainbar Section
 
@@ -100,7 +95,6 @@ The **Mainbar** section includes several articles assigned to the **WordPress Bl
 :   1. **RokAjaxSearch (Widget)** [7%, 15%, se]
     2. **Custom HTML (Widget)** [20%, 15%, se]
     3. **Login (Widget)** [50%, 15%, se]
-    4. **Who's Online (Widget)** [80%, 15%, se]
 
 This area of the page consists of the **Aside** section, which sits to the right of the **Mainbar** section in the **Layout Manager**.
 
@@ -109,9 +103,6 @@ Here is a breakdown of the widgets used in the `aside` widget position assigned 
 * RokAjaxSearch (Widget)
 * Custom HTML (Widget)
 * Login (Widget)
-* Who's Online (Widget)
-
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
 
 ## RokAjaxSearch (Widget)
 
@@ -240,58 +231,110 @@ Enter the following in the **Custom Output** text editor.
 | :-----              | :-----  |
 | Widget Class Suffix | `box3`  |
 
-## Who's Online (Widget)
-
-### Details
-
-| Field      | Setting   |
-| :-----     | :-----    |
-| Title      | `Who's Online`   |
-| Show Title | Show      |
-| Position   | `aside`   |
-| Status     | Published |
-
-### Options
-
-| Field   | Setting             |
-| :-----  | :-----              |
-| Display | # of Guests / Users |
-
-
-### Advanced
-
-| Field               | Setting |
-| :-----              | :-----  |
-| Widget Class Suffix | Blank   |
-
 ## Bottom Section
 
 ![](assets/page_blog_4.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
+
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
+
+### Custom HTML
+
+~~~ .html
+<div class="g-layercontent">
+  <h2 class="g-layercontent-title">Share Some Ideas</h2>
+  <div class="g-layercontent-subtitle">Do You Have a Tip or an Idea for a Story? Tell Us About It.</div>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Submit Article</a>
+</div>
+~~~
+
+### Block Settings
+
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
+
+## Footer Section
+
+![](assets/page_aboutus_6.jpeg)
+
+:   1. **Custom HTML (Widget) 1** [20%, 5%, se]
+    2. **Custom HTML (Widget) 2** [20%, 38%, se]
+    3. **Custom HTML (Widget) 3** [20%, 65%, se]
+
+This area of the page is made up of three **Text** widgets spanning three different widget positions: `footer-a`, `footer-b`, and `footer-c`. You will find the settings used in our demo below.
+
+
+### Custom HTML (Widget) 1
 
 ### Details
 
-| Field      | Setting            |
-| :-----     | :-----             |
-| Title      | `Share Some Ideas` |
-| Show Title | Show               |
-| Position   | `bottom-a`         |
-| Status     | Published          |
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `About Ethereal` |
+| Show Title | Show             |
+| Position   | `footer-a`       |
+| Status     | Published        |
 
 ### Custom Output
 
 Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
-<div class="g-layercontent">
-    <h2 class="g-layercontent-title">Share Some Ideas</h2>
-    <div class="g-layercontent-subtitle">Do You Have a Tip or an Idea for a Story? Tell Us About It.</div>
-    <a href="http://www.rockettheme.com/wordpress/templates/ambrosia" class="button button-2">Submit Article</a>
+<p>All demo content is for sample purposes only, intended to represent a live site.</p>
+
+<p>The sample pages are intended to show how Ethereal can be constructed on your site.</p>
+~~~
+
+### Basic
+
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |
+
+### Custom HTML (Widget) 2
+
+### Details
+
+| Field      | Setting      |
+| :-----     | :-----       |
+| Title      | `Newsletter` |
+| Show Title | Show         |
+| Position   | `footer-b`   |
+| Status     | Published    |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
+~~~ .html
+<div class="g-newsletter">
+  <div class="g-newsletter-headtext">
+    Subscribe to our newsletter and stay updated on the latest developments and special offers!
+  </div>
+  <form onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify" class="g-newsletter-form">
+    <input type="text" name="email" placeholder="Email Address" class="g-newsletter-inputbox"> <input type="hidden" name="uri" value="rocketthemeblog"> <input type="hidden" value="en_US" name="loc"> <input type="submit" value="Join" class="g-newsletter-button button button-3" name="Submit">
+  </form>
 </div>
 ~~~
 
@@ -304,6 +347,57 @@ Enter the following in the **Custom Output** text editor.
 
 ### Advanced
 
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |
+
+### Custom HTML (Widget) 3
+
+### Details
+
+| Field      | Setting          |
+| :-----     | :-----           |
+| Title      | `Sample Sitemap` |
+| Show Title | Show             |
+| Position   | `footer-c`       |
+| Status     | Published        |
+
+### Custom Output
+
+Enter the following in the **Custom Output** text editor.
+
+~~~ .html
+<div class="g-grid">
+    <div class="g-block">
+        <ul class="nomarginall noliststyle">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=105">Features</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Typography</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Particles</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=107">Variations</a></li>
+        </ul>
+    </div>
+    <div class="g-block">
+        <ul class="nomarginall noliststyle">
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Buttons</a></li>
+            <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
+            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ethereal">Guide</a></li>
+            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ethereal">Support</a></li>
+            <li><a href="http://www.rockettheme.com/wordpress/themes/ethereal">Download</a></li>
+        </ul>       
+    </div>  
+</div>
+~~~
+
+### Basic
+
+| Option                    | Setting     |
+| :----------               | :---------- |
+| Prepare Content           | No          |
+| Select a Background Image | Blank       |
+
+### Advanced
+
+| Option              | Setting     |
+| :----------         | :---------- |
+| Widget Class Suffix | Blank       |

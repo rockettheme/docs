@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
 
 ## Introduction
 
-The **About Us** example page demonstrates how you can create a beautiful page with the Ambrosia template. Here is some information to help you replicate this page as it appears in the demo.
+The **About Us** example page demonstrates how you can create a beautiful page with the Ethereal theme. Here is some information to help you replicate this page as it appears in the demo.
 
 ## Widgets and Particles
 
@@ -15,40 +15,33 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_aboutus.jpeg)
 
-:   1. **Showcase - Custom HTML (Widget)** [11%, 45%, se]
-    2. **Feature - Custom HTML (Widget)** [18%, 10%, se]
-    3. **Mainbar - Page Content** [32%, 10%, se]
-    4. **Plugin - Custom HTML (Widget)** [52%, 10%, se]
-    5. **Bottom - Custom HTML (Widget)** [65%, 10%, se]
+:   1. **Showcase - Custom HTML (Particle)** [13%, 45%, se]
+    2. **Feature - Custom HTML (Particle)** [18%, 10%, se]
+    2. **Mainbar - Page Content** [30%, 10%, se]
+    3. **Plugin - Custom HTML (Particle)** [52%, 10%, se]
+    4. **Bottom - Custom HTML (Particle)** [62%, 10%, se]
 
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)
-3. [Mainbar](#mainbar-section)
-4. [Plugin](#plugin-section)
-5. [Bottom](#bottom-section)
+2. [Mainbar](#mainbar-section)
+3. [Plugin](#extension-section)
+4. [Bottom](#bottom-section)
 
 ## Showcase Section
 
 ![](assets/page_aboutus_2.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle)
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field         | Setting       |
+| :-----        | :-----        |
+| Particle Name | `Custom HTML` |
 
-| Field      | Setting             |
-| :-----     | :-----              |
-| Title      | `About Us - Header` |
-| Show Title | Hide                |
-| Position   | `showcase-a`        |
-| Status     | Published           |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent g-layercontent-small">
@@ -57,41 +50,32 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
 
 ## Feature Section
 
 ![](assets/page_aboutus_3.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle) 2
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field         | Setting       |
+| :-----        | :-----        |
+| Particle Name | `Custom HTML` |
 
-| Field      | Setting                         |
-| :-----     | :-----                          |
-| Title      | `Missions - Values - Solutions` |
-| Show Title | Hide                            |
-| Position   | `feature-a`                     |
-| Status     | Published                       |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -121,18 +105,16 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Mainbar Section
 
@@ -199,28 +181,22 @@ The **Mainbar** section includes the **About Us** article, displayed through the
 </div>
 ~~~
 
-## Plugin Section
+## Extension Section
 
 ![](assets/page_aboutus_5.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle) 3
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                                 |
-| :-----     | :-----                                  |
-| Title      | `Sophisticated - Responsive - Powerful` |
-| Show Title | Hide                                    |
-| Position   | `plugin-a`                           |
-| Status     | Published                               |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-grid">
@@ -245,59 +221,49 @@ Enter the following in the **Custom Output** text editor.
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting     |
-| :----------         | :---------- |
-| Widget Class Suffix | Blank       |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Bottom Section
 
 ![](assets/page_aboutus_7.jpeg)
 
-This area of the page is a **Custom HTML** widget. You will find the settings used in our demo below.
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
->> Any **mod_custom** (Custom HTML) widgets are best handled using either RokPad or no editor as a WYSIWYG editor can cause issues with any code that exists in the **Custom Output** field.
+### Custom HTML (Particle) 3
 
-### Custom HTML (Widget)
+### Particle Settings
 
-### Details
+| Field              | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Shortcodes | Unchecked     |
 
-| Field      | Setting                                |
-| :-----     | :-----                                 |
-| Title      | `We Always Try to Create a Difference` |
-| Show Title | Hide                                   |
-| Position   | `bottom-a`                             |
-| Status     | Published                              |
-
-### Custom Output
-
-Enter the following in the **Custom Output** text editor.
+### Custom HTML
 
 ~~~ .html
 <div class="g-layercontent">
   <h2 class="g-layercontent-title">We Always Try to Create a Difference</h2>
   <div class="g-layercontent-subtitle">Versatile and Flexible Features Powered by the Gantry Framework.</div>
-  <a href="http://www.rockettheme.com/wordpress/templates/ambrosia" class="button">Download Ambrosia</a>
+  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Download Ethereal</a>
 </div>
 ~~~
 
-### Basic
+### Block Settings
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
-
-### Advanced
-
-| Option              | Setting        |
-| :----------         | :----------    |
-| Widget Class Suffix | `flush center` |
+| Option         | Setting          |
+| :----------    | :----------      |
+| CSS ID         | Blank            |
+| CSS Classes    | `flush` `center` |
+| Variations     | Blank            |
+| Tag Attributes | Blank            |
+| Fixed Size     | Unchecked        |
+| Block Size     | `100%`           |
