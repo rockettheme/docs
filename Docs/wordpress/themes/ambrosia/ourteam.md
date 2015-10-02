@@ -485,7 +485,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 <div class="g-layercontent g-layercontent-small">
   <h2 class="g-layercontent-title">We Are Hiring</h2>
   <div class="g-layercontent-subtitle">Join Our Awesome Team with a Great Work Environment</div>
-  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Join Ambrosia</a>
+  <a href="http://www.rockettheme.com/wordpress/themes/ambrosia" class="button button-2">Join Ambrosia</a>
 </div>
 ~~~
 
@@ -614,9 +614,9 @@ Enter the following in the **Custom Output** text editor.
         <ul class="nomarginall noliststyle">
             <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Buttons</a></li>
             <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
-            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ethereal">Guide</a></li>
-            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ethereal">Support</a></li>
-            <li><a href="http://www.rockettheme.com/wordpress/themes/ethereal">Download</a></li>
+            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ambrosia">Guide</a></li>
+            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ambrosia">Support</a></li>
+            <li><a href="http://www.rockettheme.com/wordpress/themes/ambrosia">Download</a></li>
         </ul>       
     </div>  
 </div>

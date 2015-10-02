@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
 
 ## Introduction
 
-The **About Us** example page demonstrates how you can create a beautiful page with the Ethereal theme. Here is some information to help you replicate this page as it appears in the demo.
+The **About Us** example page demonstrates how you can create a beautiful page with the Ambrosia theme. Here is some information to help you replicate this page as it appears in the demo.
 
 ## Widgets and Particles
 
@@ -253,7 +253,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 <div class="g-layercontent">
   <h2 class="g-layercontent-title">We Always Try to Create a Difference</h2>
   <div class="g-layercontent-subtitle">Versatile and Flexible Features Powered by the Gantry Framework.</div>
-  <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Download Ethereal</a>
+  <a href="http://www.rockettheme.com/wordpress/themes/ambrosia" class="button button-2">Download Ambrosia</a>
 </div>
 ~~~
 

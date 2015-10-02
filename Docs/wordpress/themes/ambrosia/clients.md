@@ -1,13 +1,13 @@
 ---
-title: Ethereal: Recreating the Demo - Clients Page
-description: Your Guide to Recreating Elements of the Ethereal Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/ethereal:Ethereal
+title: Ambrosia: Recreating the Demo - Clients Page
+description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
 ## Introduction
 
-The **Clients** example page demonstrates how you can create a beautiful page with the Ethereal theme. Here is some information to help you replicate this page as it appears in the demo.
+The **Clients** example page demonstrates how you can create a beautiful page with the Ambrosia theme. Here is some information to help you replicate this page as it appears in the demo.
 
 ## Widgets and Particles
 
@@ -201,7 +201,7 @@ Enter the following in the **Custom Output** text editor.
 <div class="g-layercontent g-layercontent-small">
     <h2 class="g-layercontent-title">Willing to Work With Us</h2>
     <div class="g-layercontent-subtitle">Have a Project for Us?</div>
-    <a href="http://www.rockettheme.com/wordpress/themes/ethereal" class="button button-2">Contact Us</a>
+    <a href="http://www.rockettheme.com/wordpress/themes/ambrosia" class="button button-2">Contact Us</a>
 </div>
 ~~~
 
@@ -235,7 +235,7 @@ This area of the page is made up of three **Text** widgets spanning three differ
 
 | Field      | Setting          |
 | :-----     | :-----           |
-| Title      | `About Ethereal` |
+| Title      | `About Ambrosia` |
 | Show Title | Show             |
 | Position   | `footer-a`       |
 | Status     | Published        |
@@ -247,7 +247,7 @@ Enter the following in the **Custom Output** text editor.
 ~~~ .html
 <p>All demo content is for sample purposes only, intended to represent a live site.</p>
 
-<p>The sample pages are intended to show how Ethereal can be constructed on your site.</p>
+<p>The sample pages are intended to show how Ambrosia can be constructed on your site.</p>
 ~~~
 
 ### Basic
@@ -332,9 +332,9 @@ Enter the following in the **Custom Output** text editor.
         <ul class="nomarginall noliststyle">
             <li><a href="index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=106">Buttons</a></li>
             <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
-            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ethereal">Guide</a></li>
-            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ethereal">Support</a></li>
-            <li><a href="http://www.rockettheme.com/wordpress/themes/ethereal">Download</a></li>
+            <li><a href="http://www.rockettheme.com/docs/wordpress/themes/ambrosia">Guide</a></li>
+            <li><a href="http://www.rockettheme.com/forum/wordpress-theme-ambrosia">Support</a></li>
+            <li><a href="http://www.rockettheme.com/wordpress/themes/ambrosia">Download</a></li>
         </ul>       
     </div>  
 </div>
