@@ -55,7 +55,7 @@ How to install
 
 Installing RokBox takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokBox. The package you will download contains everything you need to get RokBox up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokBox. The package you will download contains everything you need to get RokBox up and running and it is compatible with WordPress 3.2 or higher. It does not need to be uncompressed.
 
 Once you have downloaded the package, go into the WordPress Administrator and:
 
