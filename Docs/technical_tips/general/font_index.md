@@ -13,7 +13,7 @@ Below is a list of fonts used in RocketTheme's templates, themes, and styles for
 Any font without a listed source (such as Helvetica) is a standard font generally included with most modern operating systems.
 
 | Template / Theme | Font              | Source                                                               |
-| :--------------- | :---------------- | :------------------------------------------------------------------- |
+|:-----------------|:------------------|:---------------------------------------------------------------------|
 | Callisto         | Lato              | [Font Squirrel](http://www.fontsquirrel.com/fonts/lato)              |
 |                  | Source Sans Pro   | [Font Squirrel](http://www.fontsquirrel.com/fonts/source-sans-pro)   |
 | Cygnet           | Roboto            | [Font Squirrel](http://www.fontsquirrel.com/fonts/roboto)            |
