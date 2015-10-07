@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Kraken](templates/kraken)
 	- [Requiem](templates/requiem)
 	- [Salient](templates/salient)
 	- [Ambrosia](templates/ambrosia)
