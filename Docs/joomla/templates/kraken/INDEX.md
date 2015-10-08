@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 3.4+
 
->> NOTE: Gantry v5.1.2+ is required for Kraken to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.1.5+ is required for Kraken to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
