@@ -71,7 +71,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ![](assets/page_contact_2.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Info List Particle
 
@@ -139,7 +139,7 @@ Settings used in our demo for each of these particles can be found below.
 
 The **Aside** section is set to `20`% width.
 
-This area of the page is an **Contact** particle. You will find the settings used in our demo below.
+This area of the page is a **Contact** particle. You will find the settings used in our demo below.
 
 ### Contact (Particle)
 
