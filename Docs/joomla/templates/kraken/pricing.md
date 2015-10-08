@@ -21,7 +21,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     4. **Extension - Image Grid (particle)** [52%, 9%, se]
     5. **Bottom - Info List (particle)** [80%, 40%, se]
 
-1. [Header](#showcase-section)
+1. [Header](#header-section)
 2. [Above](#above-section)
 3. [Mainbar](#mainbar-section)
 4. [Extension](#extension-section)
