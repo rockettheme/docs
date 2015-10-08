@@ -56,7 +56,7 @@ Key Features
 
 ![FixedSide](ft-2.jpg)
 
-The FixedSide position is similar to offcanvas, by allowing you to position blocks outside of the main wrapper of the template. For Kraken, FixedSide contains the logo and social icons, but can be adjusted to use whatever blocks you prefer.
+The FixedSide position is similar to offcanvas, by allowing you to position blocks outside of the main wrapper of the template. For Kraken, FixedSide contains the logo, social icons and menu, but can be adjusted to use whatever blocks you prefer.
 
 ## Particles
 
