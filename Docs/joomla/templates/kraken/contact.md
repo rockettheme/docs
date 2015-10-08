@@ -22,7 +22,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     5. **Extension - Info List (particle)** [53%, 23%, se]
     6. **Bottom - Info List (particle)** [75%, 30%, se]
 
-1. [Header](#showcase-section)
+1. [Header](#header-section)
 2. [Above](#above-section)
 3. [Mainbar](#mainbar-section)
 4. [Aside](#aside-section)
@@ -71,7 +71,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ![](assets/page_contact_2.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Info List Particle
 
@@ -139,7 +139,7 @@ Settings used in our demo for each of these particles can be found below.
 
 The **Aside** section is set to `20`% width.
 
-This area of the page is an **Contact** particle. You will find the settings used in our demo below.
+This area of the page is a **Contact** particle. You will find the settings used in our demo below.
 
 ### Contact (Particle)
 

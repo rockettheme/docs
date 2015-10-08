@@ -23,7 +23,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     6. **Aside - Who's Online (Module)** [27%, 75%, se]
     7. **Bottom - Custom HTML (Module)** [84%, 35%, se]
 
-1. [Header](#showcase-section)
+1. [Header](#header-section)
 2. [Mainbar](#mainbar-section)
 3. [Aside](#aside-section)
 4. [Bottom](#bottom-section)

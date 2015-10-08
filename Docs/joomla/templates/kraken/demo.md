@@ -24,8 +24,8 @@ Below, you will find the module placement and settings for the various module po
 ![](assets/kraken.png)
 
 :   1. **FixedSide** Logo (Particle) [1%, 3%, se]
-    2. **FixedSide** Menu (Particle) [4%, 3%, se]
-    3. **FixedSide** Side Menu (Particle) [5%, 3%, se]
+    2. **FixedSide** Social (Particle) [4%, 3%, se]
+    3. **FixedSide** Side Menu (Module Position) [5%, 3%, se]
     4. **Header** Swiper (Particle) [7%, 30%, se]
     5. **Header** Swiper (Particle) [15%, 20%, se]
     6. **Showcase** Grid Statistic (Particle) [25%, 20%, se]
