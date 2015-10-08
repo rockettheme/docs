@@ -13,11 +13,8 @@ The **Footer** sections include three module positions, `footer-a`, `footer-b`, 
 
 ![](assets/home_footer.png)
 
-Here is a breakdown of the module(s) and particle(s) that appear in this section:
+Here is a breakdown of the module(s) and particle(s) that appear on the front end from this section:
 
-* [Footer A (module position)](#footer-a-(module-position))
-* [Footer B (module position)](#footer-b-(module-position))
-* [Footer C (module position)](#footer-c-(module-position))
 * [Logo (particle)](#logo-(particle))
 * [Horizontal Menu (particle)](#horizontal-menu-(particle))
 * [Social (particle)](#social-(particle))
@@ -27,80 +24,11 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![](assets/demo_footer_settings.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | Section Width  | `100%`    |
 | Layout         | Fullwidth |
 | CSS Classes    | Blank     |
 | Tag Attributes | Blank     |
-
-## Footer A (module position)
-
-#### Particle Settings
-
-![Demo Footer](demo_footer_1.png)
-
-| Option | Setting    |
-| :----- | :-----     |
-| Key    | `footer-a` |
-| Chrome | gantry     |
-
-#### Block Settings
-
-![Demo Footer](demo_footer_2.png)
-
-| Option         | Setting            |
-| :-----         | :-----             |
-| CSS ID         | Blank              |
-| CSS Classes    | `g-title-bordered` |
-| Variations     | Blank              |
-| Tag Attributes | Blank              |
-| Block Size     | `33.3%`            |
-
-## Footer B (module position)
-
-#### Particle Settings
-
-![Demo Footer](demo_footer_4.png)
-
-| Option | Setting    |
-| :----- | :-----     |
-| Key    | `footer-b` |
-| Chrome | gantry     |
-
-#### Block Settings
-
-![Demo Footer](demo_footer_5.png)
-
-| Option         | Setting            |
-| :-----         | :-----             |
-| CSS ID         | Blank              |
-| CSS Classes    | `g-title-bordered` |
-| Variations     | Blank              |
-| Tag Attributes | Blank              |
-| Block Size     | `33.3%`            |
-
-## Footer C (module position)
-
-#### Particle Settings
-
-![Demo Footer](demo_footer_7.png)
-
-| Option | Setting    |
-| :----- | :-----     |
-| Key    | `footer-c` |
-| Chrome | gantry     |
-
-#### Block Settings
-
-![Demo Footer](demo_footer_8.png)
-
-| Option         | Setting            |
-| :-----         | :-----             |
-| CSS ID         | Blank              |
-| CSS Classes    | `g-title-bordered` |
-| Variations     | Blank              |
-| Tag Attributes | Blank              |
-| Block Size     | `33.3%`            |
 
 ## Logo (particle)
 
@@ -109,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Footer](demo_footer_9.png)
 
 | Option        | Setting  |
-| :-----        | :-----   |
+|:--------------|:---------|
 | Particle Name | `Logo`   |
 | URL           | Blank    |
 | Rel           | Blank    |
@@ -123,7 +51,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Footer](demo_footer_10.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | CSS ID         | Blank     |
 | CSS Classes    | Blank     |
 | Variations     | Blank     |
@@ -137,21 +65,21 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ![Demo Footer](demo_footer_11.png)
 
-| Option           | Setting                  |
-| :-----           | :-----                   |
-| Particle Name    | `Horizontal Menu`        |
-| CSS Classes      | Blank                    |
-| Target Window    | New Window               |
+| Option             | Setting                  |
+|:-------------------|:-------------------------|
+| Particle Name      | `Horizontal Menu`        |
+| CSS Classes        | Blank                    |
+| Target Window      | New Window               |
 | Social Item 1 Name | `Gantry`                 |
-| Menu Item 1 Text | `Gantry`                 |
-| Menu Item 1 Link | `http://www.gantry.org/` |
+| Menu Item 1 Text   | `Gantry`                 |
+| Menu Item 1 Link   | `http://www.gantry.org/` |
 
 #### Block Settings
 
 ![Demo Footer](demo_footer_12.png)
 
 | Option         | Setting                  |
-| :-----         | :-----                   |
+|:---------------|:-------------------------|
 | CSS ID         | Blank                    |
 | CSS Classes    | `g-horizontalmenu-block` |
 | Variations     | Center                   |
@@ -166,7 +94,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Footer](demo_footer_13.png)
 
 | Option               | Setting                               |
-| :-----               | :-----                                |
+|:---------------------|:--------------------------------------|
 | Particle Name        | `Social`                              |
 | CSS Classes          | `social`                              |
 | Title                | Blank                                 |
@@ -181,7 +109,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Footer](demo_footer_14.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | CSS ID         | Blank     |
 | CSS Classes    | `social`  |
 | Variations     | Center    |

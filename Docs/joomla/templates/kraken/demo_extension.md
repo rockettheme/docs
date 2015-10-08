@@ -9,23 +9,21 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ![](assets/demo_9.png)
 
-The **Extension** section includes three module positions, `extension-a`, `extension-b`, and `extension-c`. 
+The **Extension** section includes three module positions, `extension-a`, `extension-b`, and `extension-c`. We are only utilizing the `extension-a` module position.
 
 ![](assets/home_extension.png)
 
-Here is a breakdown of the module(s) and particle(s) that appear in this section:
+Here is a breakdown of the module(s) and particle(s) that appear in the front end for this section:
 
 * [Extension A (module position)](#extension-a-(module-position))
     - [Swiper (particle)](#gantry-5-particle-(swiper))
-* [Extension B (module position)](#extension-b-(module-position))
-* [Extension C (module position)](#extension-c-(module-position))
 
 ## Section Settings
 
 ![](assets/demo_extension_settings.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | Layout         | Fullwidth |
 | CSS Classes    | Blank     |
 | Tag Attributes | Blank     |
@@ -36,17 +34,17 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ![Demo Extension](assets/demo_extension_1.png)
 
-| Option | Setting     |
-| :----- | :-----      |
+| Option | Setting       |
+|:-------|:--------------|
 | Key    | `extension-a` |
-| Chrome | gantry      |
+| Chrome | gantry        |
 
 #### Block Settings
 
 ![Demo Extension](assets/demo_extension_2.png)
 
 | Option         | Setting    |
-| :-----         | :-----     |
+|:---------------|:-----------|
 | CSS ID         | Blank      |
 | CSS Classes    | Blank      |
 | Variations     | Blank      |
@@ -57,7 +55,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Gantry 5 Particle (Swiper)
 
-We added a **Swiper** particle to the `extension-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings. 
+We added a **Swiper** particle to the `extension-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -66,7 +64,7 @@ You will find the particle settings used in this particle below:
 ![Demo Extension](assets/demo_extension_3.png)
 
 | Option                    | Setting                                               |
-| :-----                    | :-----                                                |
+|:--------------------------|:------------------------------------------------------|
 | Particle Name             | `Swiper`                                              |
 | CSS Classes               | `g-swiper-testimonial`                                |
 | Title                     | Blank                                                 |
@@ -81,49 +79,3 @@ You will find the particle settings used in this particle below:
 | Swiper Item 1 Link        | Blank                                                 |
 | Swiper Item 1 Link Text   | Blank                                                 |
 | Swiper Item 1 Description | `- Alex Simon, Think Kraken Co.`                      |
-
-## Extension B (module position)
-
-#### Particle Settings
-
-![Demo Extension](assets/demo_extension_4.png)
-
-| Option | Setting       |
-| :----- | :-----        |
-| Key    | `extension-b` |
-| Chrome | gantry        |
-
-#### Block Settings
-
-![Demo Extension](assets/demo_extension_5.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |
-
-## Extension C (module position)
-
-#### Particle Settings
-
-![Demo Extension](assets/demo_extension_6.png)
-
-| Option | Setting      |
-| :----- | :-----       |
-| Key    | `extension-c` |
-| Chrome | gantry       |
-
-#### Block Settings
-
-![Demo Extension](assets/demo_extension_7.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |

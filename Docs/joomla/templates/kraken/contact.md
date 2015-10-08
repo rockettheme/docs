@@ -15,12 +15,12 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_contact.png)
 
-:   1. **Header - Info List (particle)** [9%, 40%, se]
-    2. **Above - Block Content (particle)** [14%, 10%, se]
-    3. **Mainbar - Page Content** [26%, 9%, se]
-    4. **Aside - Contact (particle)** [26%, 70%, se]
-    5. **Extension - Info List (particle)** [60%, 10%, se]
-    6. **Bottom - Info List (particle)** [77%, 30%, se]
+:   1. **Header - Info List (particle)** [3%, 40%, se]
+    2. **Above - Block Content (particle)** [10%, 25%, se]
+    3. **Mainbar - Page Content** [24%, 25%, se]
+    4. **Aside - Contact (particle)** [24%, 75%, se]
+    5. **Extension - Info List (particle)** [53%, 23%, se]
+    6. **Bottom - Info List (particle)** [75%, 30%, se]
 
 1. [Header](#showcase-section)
 2. [Above](#above-section)
@@ -39,17 +39,17 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 #### Gantry 5 Particle Module Details
 
-| Field      | Setting             |
-| :-----     | :-----              |
+| Field      | Setting            |
+|:-----------|:-------------------|
 | Title      | `Contact - Header` |
-| Show Title | Hide                |
-| Position   | `header-a`          |
-| Status     | Published           |
+| Show Title | Hide               |
+| Position   | `header-a`         |
+| Status     | Published          |
 
 ### Particle Settings
 
 | Option                              | Setting                                |
-| :----------                         | :----------                            |
+|:------------------------------------|:---------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder` |
 | Title                               | Blank                                  |
 | Intro                               | Blank                                  |
@@ -77,17 +77,17 @@ This area of the page is an **Block Content** particle. You will find the settin
 
 #### Gantry 5 Particle Module Details
 
-| Field      | Setting                                  |
-| :-----     | :-----                                   |
+| Field      | Setting                          |
+|:-----------|:---------------------------------|
 | Title      | `Contact - Email - Phone - Chat` |
-| Show Title | Hide                                     |
-| Position   | `above-a`                                |
-| Status     | Published                                |
+| Show Title | Hide                             |
+| Position   | `above-a`                        |
+| Status     | Published                        |
 
 ### Particle Settings
 
 | Option                        | Setting                                                                        |
-| :----------                   | :----------                                                                    |
+|:------------------------------|:-------------------------------------------------------------------------------|
 | Image                         | Blank                                                                          |
 | Headline                      | Blank                                                                          |
 | Description                   | Blank                                                                          |
@@ -120,13 +120,13 @@ Settings used in our demo for each of these particles can be found below.
 #### Particle Settings
 
 | Field         | Setting        |
-| :-----        | :-----         |
+|:--------------|:---------------|
 | Particle Name | `Page Content` |
 
 #### Block Settings
 
 | Field          | Setting |
-| :-----         | :-----  |
+|:---------------|:--------|
 | CSS ID         | Blank   |
 | CSS Classes    | Blank   |
 | Variations     | Blank   |
@@ -146,7 +146,7 @@ This area of the page is an **Contact** particle. You will find the settings use
 #### Particle Settings
 
 | Field                | Setting             |
-| :-----               | :-----              |
+|:---------------------|:--------------------|
 | Particle Name        | `Contact`           |
 | CSS Classes          | Blank               |
 | Title                | `Contact Details`   |
@@ -168,25 +168,25 @@ You will find the settings used in our demo below.
 
 #### Particle Settings
 
-| Field                            | Setting                                                                                                                                                                                 |
-| :-----                           | :-----                                                                                                                                                                                  |
-| Particle Name                    | `Info List`                                                                                                                                                                             |
-| CSS Classes                      | Blank                                                                                                                                                                                   |
-| Title                            | `Common Queries and Questions`                                                                                                                                                          |
-| Description                      | Blank                                                                                                                                                                                   |
-| Grid Column                      | 2 Columns                                                                                                                                                                               |
-| Info Lists Item 1 Name           | `What prices are your services?`                                                                                                                                                        |
-| Info Lists Item 1 Image          | Blank                                                                                                                                                                                   |
-| Info Lists Item 1 Image Location | Left                                                                                                                                                                                    |
-| Info Lists Item 1 Text Style     | Compact                                                                                                                                                                                 |
-| Info Lists Item 1 Image Style    | Compact                                                                                                                                                                                 |
+| Field                            | Setting                                                                                                                                                                                   |
+|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Particle Name                    | `Info List`                                                                                                                                                                               |
+| CSS Classes                      | Blank                                                                                                                                                                                     |
+| Title                            | `Common Queries and Questions`                                                                                                                                                            |
+| Description                      | Blank                                                                                                                                                                                     |
+| Grid Column                      | 2 Columns                                                                                                                                                                                 |
+| Info Lists Item 1 Name           | `What prices are your services?`                                                                                                                                                          |
+| Info Lists Item 1 Image          | Blank                                                                                                                                                                                     |
+| Info Lists Item 1 Image Location | Left                                                                                                                                                                                      |
+| Info Lists Item 1 Text Style     | Compact                                                                                                                                                                                   |
+| Info Lists Item 1 Image Style    | Compact                                                                                                                                                                                   |
 | Info Lists Item 1 Description    | `Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.` |
-| Info Lists Item 1 Tag            | Blank                                                                                                                                                                                   |
-| Info Lists Item 1 Sub Tag        | Blank                                                                                                                                                                                   |
-| Info Lists Item 1 Label          | Blank                                                                                                                                                                                   |
-| Info Lists Item 1 Link           | `#`                                                                                                                                                                                     |
-| Info Lists Item 1 Icon           | Blank                                                                                                                                                                                   |
-| Info Lists Item 1 CSS Classes    | Blank                                                                                                                                                                                   |
+| Info Lists Item 1 Tag            | Blank                                                                                                                                                                                     |
+| Info Lists Item 1 Sub Tag        | Blank                                                                                                                                                                                     |
+| Info Lists Item 1 Label          | Blank                                                                                                                                                                                     |
+| Info Lists Item 1 Link           | `#`                                                                                                                                                                                       |
+| Info Lists Item 1 Icon           | Blank                                                                                                                                                                                     |
+| Info Lists Item 1 CSS Classes    | Blank                                                                                                                                                                                     |
 
 ## Bottom Section
 
@@ -199,7 +199,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                                           |
-| :-----     | :-----                                            |
+|:-----------|:--------------------------------------------------|
 | Title      | `About Us - We Always Try to Create a Difference` |
 | Show Title | Hide                                              |
 | Position   | `bottom-a`                                        |
@@ -208,7 +208,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Particle Settings
 
 | Option                              | Setting                                                               |
-| :----------                         | :----------                                                           |
+|:------------------------------------|:----------------------------------------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`                                            |
 | Title                               | Blank                                                                 |
 | Intro                               | Blank                                                                 |
@@ -222,7 +222,6 @@ This area of the page is an **Info List** particle. You will find the settings u
 | Info Lists Item 1 Tag               | Blank                                                                 |
 | Info Lists Item 1 Sub Tag           | Blank                                                                 |
 | Info Lists Item 1 Label             | `Send Email`                                                          |
-| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`                 |
+| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`                  |
 | Info Lists Item 1 Icon              | Blank                                                                 |
 | Info Lists Item 1 Read More Classes | Blank                                                                 |
-

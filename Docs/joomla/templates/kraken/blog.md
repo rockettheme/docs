@@ -15,13 +15,13 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_blog.png)
 
-:   1. **Header - Custom HTML (Module)** [4%, 45%, se]
-    2. **Mainbar - Page Content** [9%, 5%, se]
-    3. **Aside - RokAjaxSearch (Module)** [9%, 70%, se]
-    4. **Aside - Custom HTML (Module)** [12%, 70%, se]
-    5. **Aside - Login (Module)** [20%, 70%, se]
-    6. **Aside - Who's Online (Module)** [28%, 70%, se]
-    7. **Bottom - Custom HTML (Module)** [87%, 35%, se]
+:   1. **Header - Custom HTML (Module)** [3%, 45%, se]
+    2. **Mainbar - Page Content** [6%, 22%, se]
+    3. **Aside - RokAjaxSearch (Module)** [6%, 75%, se]
+    4. **Aside - Custom HTML (Module)** [10%, 75%, se]
+    5. **Aside - Login (Module)** [20%, 75%, se]
+    6. **Aside - Who's Online (Module)** [27%, 75%, se]
+    7. **Bottom - Custom HTML (Module)** [84%, 35%, se]
 
 1. [Header](#showcase-section)
 2. [Mainbar](#mainbar-section)
@@ -38,17 +38,17 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 #### Gantry 5 Particle Module Details
 
-| Field      | Setting            |
-| :-----     | :-----             |
+| Field      | Setting         |
+|:-----------|:----------------|
 | Title      | `Blog - Header` |
-| Show Title | Hide               |
-| Position   | `header-a`         |
-| Status     | Published          |
+| Show Title | Hide            |
+| Position   | `header-a`      |
+| Status     | Published       |
 
 ### Particle Settings
 
 | Option                              | Setting                                |
-| :----------                         | :----------                            |
+|:------------------------------------|:---------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder` |
 | Title                               | Blank                                  |
 | Intro                               | Blank                                  |
@@ -73,7 +73,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 The **Mainbar** section includes several articles assigned to the **Joomla Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** article.
 
 | Option   | Setting                                                                          |
-| :-----   | :-----                                                                           |
+|:---------|:---------------------------------------------------------------------------------|
 | Title    | `Dramatically visualize customer directed convergence without revolutionary ROI` |
 | Alias    | `dramatically-visualize-customer-directed-convergence-without-revolutionary-roi` |
 | Status   | Published                                                                        |
@@ -114,18 +114,18 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 
 ### Details
 
-| Option      | Setting           |
-| :---------- | :----------       |
-| Title       | `Search Our Site` |
-| Show Title  | Show              |
-| Position    | aside             |
-| Status      | Published         |
-| Access      | Public            |
+| Option     | Setting           |
+|:-----------|:------------------|
+| Title      | `Search Our Site` |
+| Show Title | Show              |
+| Position   | aside             |
+| Status     | Published         |
+| Access     | Public            |
 
 ### Module
 
 | Option                            | Setting                                                  |
-| :----------                       | :----------                                              |
+|:----------------------------------|:---------------------------------------------------------|
 | Search Page URL                   | `index.php?option=com_search&view=search&tmpl=component` |
 | Advanced Search Page URL          | `index.php?option=com_search&view=search`                |
 | Include RokAjaxSearch default CSS | No                                                       |
@@ -150,16 +150,16 @@ The Site Search area of the front page is a **mod_rokajaxsearch** module that al
 
 ### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | Blank       |
+| Option              | Setting |
+|:--------------------|:--------|
+| Module Class Suffix | Blank   |
 
 ## Custom HTML (Module)
 
 ### Details
 
 | Field      | Setting                                 |
-| :-----     | :-----                                  |
+|:-----------|:----------------------------------------|
 | Title      | `Sophisticated - Responsive - Powerful` |
 | Show Title | Hide                                    |
 | Position   | `extension-a`                           |
@@ -194,23 +194,23 @@ Enter the following in the **Custom Output** text editor.
 
 ### Basic
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
+| Option                    | Setting |
+|:--------------------------|:--------|
+| Prepare Content           | No      |
+| Select a Background Image | Blank   |
 
 ### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | Blank       |
+| Option              | Setting |
+|:--------------------|:--------|
+| Module Class Suffix | Blank   |
 
 ## Login (Module)
 
 ### Details
 
 | Field      | Setting   |
-| :-----     | :-----    |
+|:-----------|:----------|
 | Title      | `Login`   |
 | Show Title | Show      |
 | Position   | `aside`   |
@@ -219,7 +219,7 @@ Enter the following in the **Custom Output** text editor.
 ### Options
 
 | Field                   | Setting |
-| :-----                  | :-----  |
+|:------------------------|:--------|
 | Pre-text                | Blank   |
 | Post-text               | Blank   |
 | Login Redirection Page  | Default |
@@ -232,31 +232,31 @@ Enter the following in the **Custom Output** text editor.
 ### Advanced
 
 | Field               | Setting |
-| :-----              | :-----  |
+|:--------------------|:--------|
 | Module Class Suffix | `box3`  |
 
 ## Who's Online (Module)
 
 ### Details
 
-| Field      | Setting   |
-| :-----     | :-----    |
-| Title      | `Who's Online`   |
-| Show Title | Show      |
-| Position   | `aside`   |
-| Status     | Published |
+| Field      | Setting        |
+|:-----------|:---------------|
+| Title      | `Who's Online` |
+| Show Title | Show           |
+| Position   | `aside`        |
+| Status     | Published      |
 
 ### Options
 
 | Field   | Setting             |
-| :-----  | :-----              |
+|:--------|:--------------------|
 | Display | # of Guests / Users |
 
 
 ### Advanced
 
 | Field               | Setting |
-| :-----              | :-----  |
+|:--------------------|:--------|
 | Module Class Suffix | Blank   |
 
 ## Bottom Section
@@ -270,7 +270,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                   |
-| :-----     | :-----                    |
+|:-----------|:--------------------------|
 | Title      | `Blog - Share Some Ideas` |
 | Show Title | Hide                      |
 | Position   | `bottom-a`                |
@@ -279,7 +279,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Particle Settings
 
 | Option                              | Setting                                                       |
-| :----------                         | :----------                                                   |
+|:------------------------------------|:--------------------------------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder`                        |
 | Title                               | Blank                                                         |
 | Intro                               | Blank                                                         |
@@ -293,6 +293,6 @@ This area of the page is an **Info List** particle. You will find the settings u
 | Info Lists Item 1 Tag               | Blank                                                         |
 | Info Lists Item 1 Sub Tag           | Blank                                                         |
 | Info Lists Item 1 Label             | `Submit Article`                                              |
-| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`         |
+| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`          |
 | Info Lists Item 1 Icon              | Blank                                                         |
 | Info Lists Item 1 Read More Classes | Blank                                                         |
