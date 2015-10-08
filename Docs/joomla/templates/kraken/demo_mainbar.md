@@ -9,23 +9,25 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ![](assets/demo_7.png)
 
-The **Mainbar** section includes three module positions, `mainbar-a`, `mainbar-b`, and `mainbar-c`. In a second row, the **Pagecontent** position has been added, inserting any article content that is assigned to the page.
+The **Mainbar** section includes three module positions, `mainbar-a`, `mainbar-b`, and `mainbar-c`. In a second row, the **Pagecontent** position has been added, inserting any article content that is assigned to the page. We are only using `mainbar-a` from this section actively, so only it is rendering to the front end.
 
 ![](assets/demo_8.png)
+
+: 1. **Icon Menu (Particle)** [3%, 8%, se]
+  2. **Grid Content (Particle)** [15%, 8%, se]
+  3. **Block Content (Particle)** [44%, 8%, se]
+  4. **Swiper (Particle)** [70%, 8%, se]
 
 The **Aside** section makes up the sidebar to the right of the **Mainbar**. This section contains a single module position, `aside`.
 
 ![](assets/home_mainbar.png)
 
-Here is a breakdown of the module(s) and particle(s) that appear in the **Mainbar** section:
+Here is a breakdown of the module(s) and particle(s) that appear in front end from the **Mainbar** section:
 
 * [Mainbar A (module position)](#mainbar-a-(module-position))
-    - [Animated Block (particle)](#gantry-5-particle-(grid-content))
-* [Mainbar B (module position)](#mainbar-b-(module-position))
-* [Mainbar C (module position)](#mainbar-c-(module-position))
-* [Pagecontent](#pagecontent)
+    - [Grid Content (particle)](#gantry-5-particle-(grid-content))
 
-Here is a breakdown of the module(s) and particle(s) that appear in the **Aside** section:
+Here is a breakdown of the module(s) and particle(s) that appear in front end from the **Aside** section:
 
 * [Aside (module position)](#aside-(module-position))
     - [Icon Menu (particle)](#gantry-5-particle-(icon-menu))
@@ -40,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 ![](assets/demo_container_settings.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | Layout         | Fullwidth |
 | CSS Classes    | Blank     |
 | Tag Attributes | Blank     |
@@ -49,13 +51,13 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 
 ![](assets/demo_mainbar_settings.png)
 
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS Classes    | Blank     |
-| Tag Attributes | Blank     |
+| Option         | Setting |
+|:---------------|:--------|
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 | Option         | Setting |
-| :-----         | :-----  |
+|:---------------|:--------|
 | CSS ID         | Blank   |
 | CSS Classes    | Blank   |
 | Variations     | Blank   |
@@ -66,13 +68,13 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 
 ![](assets/demo_aside_settings.png)
 
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS Classes    | Blank     |
-| Tag Attributes | Blank     |
+| Option         | Setting |
+|:---------------|:--------|
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 | Option         | Setting |
-| :-----         | :-----  |
+|:---------------|:--------|
 | CSS ID         | Blank   |
 | CSS Classes    | Blank   |
 | Variations     | Blank   |
@@ -86,7 +88,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 ![Demo Mainbar](assets/demo_mainbar_1.png)
 
 | Option | Setting     |
-| :----- | :-----      |
+|:-------|:------------|
 | Key    | `mainbar-a` |
 | Chrome | gantry      |
 
@@ -95,7 +97,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 ![Demo Mainbar](assets/demo_mainbar_2.png)
 
 | Option         | Setting    |
-| :-----         | :-----     |
+|:---------------|:-----------|
 | CSS ID         | Blank      |
 | CSS Classes    | Blank      |
 | Variations     | Blank      |
@@ -106,7 +108,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the **Aside*
 
 #### Gantry 5 Particle (Grid Content)
 
-We added a **Grid Content** particle to the `mainbar-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Grid Content** particle in the module's settings. 
+We added a **Grid Content** particle to the `mainbar-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Grid Content** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -115,7 +117,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_9.png)
 
 | Option                                | Setting                                                                                                            |
-| :-----                                | :-----                                                                                                             |
+|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Particle Name                         | `Grid Content`                                                                                                     |
 | CSS Classes                           | Blank                                                                                                              |
 | Title                                 | Blank                                                                                                              |
@@ -135,70 +137,6 @@ You will find the particle settings used in this particle below:
 | Grid Columns Item 1 Link              | `#`                                                                                                                |
 | Grid Columns Item 1 Link Button Style | Arrow                                                                                                              |
 
-## Mainbar B (module position)
-
-#### Particle Settings
-
-![Demo Mainbar](assets/demo_mainbar_3.png)
-
-| Option | Setting     |
-| :----- | :-----      |
-| Key    | `mainbar-b` |
-| Chrome | gantry      |
-
-#### Block Settings
-
-![Demo Mainbar](assets/demo_mainbar_4.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |
-
-## Mainbar C (module position)
-
-#### Particle Settings
-
-![Demo Mainbar](assets/demo_mainbar_5.png)
-
-| Option | Setting      |
-| :----- | :-----       |
-| Key    | `mainbar-c` |
-| Chrome | gantry       |
-
-#### Block Settings
-
-![Demo Mainbar](assets/demo_mainbar_6.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |
-
-## PageContent (position)
-
-#### Particle Settings
-
-![Demo Mainbar](assets/demo_mainbar_7.png)
-
-#### Block Settings
-
-![Demo Mainbar](assets/demo_mainbar_8.png)
-
-| Option         | Setting |
-| :-----         | :-----  |
-| CSS ID         | Blank   |
-| CSS Classes    | Blank   |
-| Variations     | Blank   |
-| Tag Attributes | Blank   |
-| Block Size     | `100%`  |
-
 ## Aside (module position)
 
 #### Particle Settings
@@ -206,7 +144,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_10.png)
 
 | Option | Setting |
-| :----- | :-----  |
+|:-------|:--------|
 | Key    | `aside` |
 | Chrome | gantry  |
 
@@ -215,7 +153,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_11.png)
 
 | Option         | Setting |
-| :-----         | :-----  |
+|:---------------|:--------|
 | CSS ID         | Blank   |
 | CSS Classes    | Blank   |
 | Variations     | Blank   |
@@ -226,7 +164,7 @@ You will find the particle settings used in this particle below:
 
 #### Gantry 5 Particle (Icon Menu)
 
-We added a **Icon Menu** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Icon Menu** particle in the module's settings. 
+We added a **Icon Menu** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Icon Menu** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -235,7 +173,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_12.png)
 
 | Option                   | Setting                     |
-| :-----                   | :-----                      |
+|:-------------------------|:----------------------------|
 | Particle Name            | `Icon Menu`                 |
 | CSS Classes              | `g-title-bordered` `center` |
 | Title                    | `Compatibility`             |
@@ -248,7 +186,7 @@ You will find the particle settings used in this particle below:
 
 #### Gantry 5 Particle (Grid Content) 2
 
-We added a **Grid Content** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Grid Content** particle in the module's settings. 
+We added a **Grid Content** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Grid Content** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -257,7 +195,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_13.png)
 
 | Option                                | Setting                                                                                                                                                                                 |
-| :-----                                | :-----                                                                                                                                                                                  |
+|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Particle Name                         | `Grid Content`                                                                                                                                                                          |
 | CSS Classes                           | `g-titled-border` `center`                                                                                                                                                              |
 | Title                                 | `Must Read`                                                                                                                                                                             |
@@ -279,7 +217,7 @@ You will find the particle settings used in this particle below:
 
 #### Gantry 5 Particle (Block Content)
 
-We added a **Block Content** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Block Content** particle in the module's settings. 
+We added a **Block Content** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Block Content** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -288,7 +226,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_14.png)
 
 | Option                          | Setting                                                                                                                         |
-| :-----                          | :-----                                                                                                                          |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | Particle Name                   | `Block Content`                                                                                                                 |
 | CSS Classes                     | `g-title-bordered` `center`                                                                                                     |
 | Title                           | `Past Week`                                                                                                                     |
@@ -307,7 +245,7 @@ You will find the particle settings used in this particle below:
 
 #### Gantry 5 Particle (Swiper)
 
-We added a **Swiper** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings. 
+We added a **Swiper** particle to the `aside` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings.
 
 You will find the particle settings used in this particle below:
 
@@ -316,7 +254,7 @@ You will find the particle settings used in this particle below:
 ![Demo Mainbar](assets/demo_mainbar_15.png)
 
 | Option                    | Setting                                                                  |
-| :-----                    | :-----                                                                   |
+|:--------------------------|:-------------------------------------------------------------------------|
 | Particle Name             | `Swiper`                                                                 |
 | CSS Classes               | `g-title-bordered` `title-center` `g-swiper-stories`                     |
 | Title                     | `Trending`                                                               |

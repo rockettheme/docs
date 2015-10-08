@@ -13,13 +13,13 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_about.png)
+![](assets/page_aboutus.png)
 
-:   1. **Header - Custom HTML (Module)** [8%, 45%, se]
-    2. **Above - Custom HTML (Module)** [18%, 10%, se]
-    3. **Mainbar - Page Content** [32%, 10%, se]
-    4. **Extension - Custom HTML (Module)** [57%, 10%, se]
-    5. **Bottom - Custom HTML (Module)** [72%, 10%, se]
+:   1. **Header - Custom HTML (Module)** [4%, 45%, se]
+    2. **Above - Custom HTML (Module)** [13%, 22%, se]
+    3. **Mainbar - Page Content** [32%, 22%, se]
+    4. **Extension - Custom HTML (Module)** [53%, 22%, se]
+    5. **Bottom - Custom HTML (Module)** [66%, 35%, se]
 
 1. [Header](#header-section)
 2. [Above](#above-section)
@@ -38,7 +38,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting             |
-| :-----     | :-----              |
+|:-----------|:--------------------|
 | Title      | `About Us - Header` |
 | Show Title | Hide                |
 | Position   | `header-a`          |
@@ -47,7 +47,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 ### Particle Settings
 
 | Option                              | Setting                                |
-| :----------                         | :----------                            |
+|:------------------------------------|:---------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder` |
 | Title                               | Blank                                  |
 | Intro                               | Blank                                  |
@@ -69,14 +69,14 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ![](assets/page_aboutus_2.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Info List Particle
 
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                                  |
-| :-----     | :-----                                   |
+|:-----------|:-----------------------------------------|
 | Title      | `About Us - Mission - Values - Solution` |
 | Show Title | Hide                                     |
 | Position   | `above-a`                                |
@@ -85,7 +85,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 ### Particle Settings
 
 | Option                        | Setting                                                                                                                                                               |
-| :----------                   | :----------                                                                                                                                                           |
+|:------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Image                         | Blank                                                                                                                                                                 |
 | Headline                      | Blank                                                                                                                                                                 |
 | Description                   | Blank                                                                                                                                                                 |
@@ -110,7 +110,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 The **Mainbar** section includes the **About Us** article, displayed through the **Page Content** particle. Here are the settings found in the **About Us** article.
 
 | Option   | Setting        |
-| :-----   | :-----         |
+|:---------|:---------------|
 | Title    | `About Us`     |
 | Alias    | `about-us`     |
 | Status   | Published      |
@@ -172,14 +172,14 @@ The **Mainbar** section includes the **About Us** article, displayed through the
 
 ![](assets/page_aboutus_4.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Block Content Particle
 
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                                            |
-| :-----     | :-----                                             |
+|:-----------|:---------------------------------------------------|
 | Title      | `About Us - Sophisticated - Responsive - Powerful` |
 | Show Title | Hide                                               |
 | Position   | `extension-a`                                      |
@@ -188,7 +188,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 ### Particle Settings
 
 | Option                        | Setting                                                              |
-| :----------                   | :----------                                                          |
+|:------------------------------|:---------------------------------------------------------------------|
 | Image                         | Blank                                                                |
 | Headline                      | Blank                                                                |
 | Description                   | Blank                                                                |
@@ -217,7 +217,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                                           |
-| :-----     | :-----                                            |
+|:-----------|:--------------------------------------------------|
 | Title      | `About Us - We Always Try to Create a Difference` |
 | Show Title | Hide                                              |
 | Position   | `bottom-a`                                        |
@@ -226,7 +226,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Particle Settings
 
 | Option                              | Setting                                                            |
-| :----------                         | :----------                                                        |
+|:------------------------------------|:-------------------------------------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder`                             |
 | Title                               | Blank                                                              |
 | Intro                               | Blank                                                              |
@@ -239,7 +239,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 | Info Lists Item 1 Description       | `Versatile and Flexible Features Powered by the Gantry Framework.` |
 | Info Lists Item 1 Tag               | Blank                                                              |
 | Info Lists Item 1 Sub Tag           | Blank                                                              |
-| Info Lists Item 1 Label             | `Download Kraken`                                                 |
-| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`              |
+| Info Lists Item 1 Label             | `Download Kraken`                                                  |
+| Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken`               |
 | Info Lists Item 1 Icon              | Blank                                                              |
 | Info Lists Item 1 Read More Classes | Blank                                                              |

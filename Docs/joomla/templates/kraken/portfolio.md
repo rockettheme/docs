@@ -21,7 +21,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     3. **Extension - Info List (particle)** [60%, 15%, se]
     4. **Bottom - Info List (particle)** [80%, 30%, se]
 
-1. [Header](#showcase-section)
+1. [Header](#header-section)
 2. [Above](#above-section)
 3. [Mainbar](#mainbar-section)
 3. [Extension](#extension-section)

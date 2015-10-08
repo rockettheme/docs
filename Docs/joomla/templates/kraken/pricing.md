@@ -15,11 +15,11 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_pricing.png)
 
-:   1. **Header - Info List (particle)** [8%, 40%, se]
-    2. **Above - Custom HTML (module)** [15%, 9% se]
-    3. **Mainbar - Page Content** [45%, 9%, se]
-    4. **Extension - Image Grid (particle)** [52%, 9%, se]
-    5. **Bottom - Info List (particle)** [80%, 40%, se]
+:   1. **Header - Info List (particle)** [3%, 40%, se]
+    2. **Above - Custom HTML (module)** [12%, 23% se]
+    3. **Mainbar - Page Content** [43%, 23%, se]
+    4. **Extension - Image Grid (particle)** [51%, 23%, se]
+    5. **Bottom - Info List (particle)** [73%, 40%, se]
 
 1. [Header](#showcase-section)
 2. [Above](#above-section)
@@ -37,17 +37,17 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 #### Gantry 5 Particle Module Details
 
-| Field      | Setting             |
-| :-----     | :-----              |
+| Field      | Setting            |
+|:-----------|:-------------------|
 | Title      | `Pricing - Header` |
-| Show Title | Hide                |
-| Position   | `header-a`          |
-| Status     | Published           |
+| Show Title | Hide               |
+| Position   | `header-a`         |
+| Status     | Published          |
 
 ### Particle Settings
 
 | Option                              | Setting                                 |
-| :----------                         | :----------                             |
+|:------------------------------------|:----------------------------------------|
 | CSS Classes                         | `center`, `g-layercontent`, `noborder`  |
 | Title                               | Blank                                   |
 | Intro                               | Blank                                   |
@@ -78,7 +78,7 @@ This area of the page is a **Custom HTML** module. You will find the settings us
 ### Details
 
 | Field      | Setting         |
-| :-----     | :-----          |
+|:-----------|:----------------|
 | Title      | `Pricing Table` |
 | Show Title | Hide            |
 | Position   | `above-a`       |
@@ -176,16 +176,16 @@ Enter the following in the **Custom Output** text editor.
 
 ### Basic
 
-| Option                    | Setting     |
-| :----------               | :---------- |
-| Prepare Content           | No          |
-| Select a Background Image | Blank       |
+| Option                    | Setting |
+|:--------------------------|:--------|
+| Prepare Content           | No      |
+| Select a Background Image | Blank   |
 
 ### Advanced
 
-| Option              | Setting     |
-| :----------         | :---------- |
-| Module Class Suffix | Blank       |
+| Option              | Setting |
+|:--------------------|:--------|
+| Module Class Suffix | Blank   |
 
 ## Mainbar Section
 
@@ -194,7 +194,7 @@ Enter the following in the **Custom Output** text editor.
 The **Mainbar** section includes the **Pricing** article, displayed through the **Page Content** particle. Here are the settings found in the **Pricing** article.
 
 | Option   | Setting        |
-| :-----   | :-----         |
+|:---------|:---------------|
 | Title    | `Pricing`      |
 | Alias    | `pricing`      |
 | Status   | Published      |
@@ -230,7 +230,7 @@ This area of the page is an **Image Grid** particle placed within a **Gantry 5 P
 ### Particle Settings
 
 | Field                         | Setting      |
-| :-----                        | :-----       |
+|:------------------------------|:-------------|
 | Particle Name                 | `Image Grid` |
 | CSS Classes                   | Blank        |
 | Title                         | None         |
@@ -253,7 +253,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 #### Gantry 5 Particle Module Details
 
 | Field      | Setting                    |
-| :-----     | :-----                     |
+|:-----------|:---------------------------|
 | Title      | `Pricing - No Hidden Fees` |
 | Show Title | Hide                       |
 | Position   | `bottom-a`                 |
@@ -261,21 +261,21 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 #### Particle Settings
 
-| Option                              | Setting                                               |
-| :----------                         | :----------                                           |
-| CSS Classes                         | `center`, `g-layercontent`, `noborder`                |
-| Title                               | Blank                                                 |
-| Intro                               | Blank                                                 |
-| Grid Column                         | 1 Column                                              |
-| Info Lists Item 1 Name              | `No Hidden Fees`                                      |
-| Info Lists Item 1 Image             | Blank                                                 |
-| Info Lists Item 1 Image Location    | Left                                                  |
-| Info Lists Item 1 Text Style        | Header                                                |
-| Info Lists Item 1 Image Style       | Compact                                               |
-| Info Lists Item 1 Description       | `No Credit Card Required and No Long-Term Contracts`  |
-| Info Lists Item 1 Tag               | Blank                                                 |
-| Info Lists Item 1 Sub Tag           | Blank                                                 |
-| Info Lists Item 1 Label             | `Sign Up`                                             |
+| Option                              | Setting                                              |
+|:------------------------------------|:-----------------------------------------------------|
+| CSS Classes                         | `center`, `g-layercontent`, `noborder`               |
+| Title                               | Blank                                                |
+| Intro                               | Blank                                                |
+| Grid Column                         | 1 Column                                             |
+| Info Lists Item 1 Name              | `No Hidden Fees`                                     |
+| Info Lists Item 1 Image             | Blank                                                |
+| Info Lists Item 1 Image Location    | Left                                                 |
+| Info Lists Item 1 Text Style        | Header                                               |
+| Info Lists Item 1 Image Style       | Compact                                              |
+| Info Lists Item 1 Description       | `No Credit Card Required and No Long-Term Contracts` |
+| Info Lists Item 1 Tag               | Blank                                                |
+| Info Lists Item 1 Sub Tag           | Blank                                                |
+| Info Lists Item 1 Label             | `Sign Up`                                            |
 | Info Lists Item 1 Link              | `http://www.rockettheme.com/joomla/templates/kraken` |
-| Info Lists Item 1 Icon              | Blank                                                 |
-| Info Lists Item 1 Read More Classes | Blank                                                 |
+| Info Lists Item 1 Icon              | Blank                                                |
+| Info Lists Item 1 Read More Classes | Blank                                                |

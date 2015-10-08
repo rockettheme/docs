@@ -21,15 +21,13 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 * [Header A (module position)](#header-a-(module-position))
     - [Swiper (particle)](#gantry-5-particle-(swiper))
     - [Swiper (Particle)](#gantry-5-particle-(swiper)-2)
-* [Header B (module position)](#header-b-(module-position))
-* [Header C (module position)](#header-c-(module-position))
 
 ## Section Settings
 
 ![](assets/demo_header_settings.png)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+|:---------------|:----------|
 | Layout         | Fullwidth |
 | CSS Classes    | Blank     |
 | Tag Attributes | Blank     |
@@ -41,7 +39,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Header](demo_header_1.png)
 
 | Option | Setting    |
-| :----- | :-----     |
+|:-------|:-----------|
 | Key    | `header-a` |
 | Chrome | gantry     |
 
@@ -50,7 +48,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 ![Demo Header](demo_header_2.png)
 
 | Option         | Setting    |
-| :-----         | :-----     |
+|:---------------|:-----------|
 | CSS ID         | Blank      |
 | CSS Classes    | Blank      |
 | Variations     | Blank      |
@@ -61,7 +59,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Gantry 5 Particle (Swiper)
 
-We added a **Swiper** particle to the `header-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings. 
+We added a **Swiper** particle to the `header-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings.
 
 >> There is a mobile version of this particle using the `visible-phone` CSS class which has differing options in order to make the particle appear slightly different.
 
@@ -72,7 +70,7 @@ You will find the particle settings used in this particle below:
 ![Demo Header](demo_header_3.png)
 
 | Option                    | Setting                 |
-| :-----                    | :-----                  |
+|:--------------------------|:------------------------|
 | Particle Name             | `Swiper`                |
 | CSS Classes               | `center` `hidden-phone` |
 | Title                     | Blank                   |
@@ -90,7 +88,7 @@ You will find the particle settings used in this particle below:
 
 #### Gantry 5 Particle (Swiper) 2
 
-We added a second **Swiper** particle to the `header-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings. 
+We added a second **Swiper** particle to the `header-a` position. This was done by creating a **Gantry 5 Particle** module and selecting the **Swiper** particle in the module's settings.
 
 >> There is a mobile version of this particle using the `visible-phone` CSS class which has a single slide per view in order to make the particle appear slightly different.
 
@@ -101,7 +99,7 @@ You will find the particle settings used in this particle below:
 ![Demo Header](demo_header_4.png)
 
 | Option                    | Setting                                         |
-| :-----                    | :-----                                          |
+|:--------------------------|:------------------------------------------------|
 | Particle Name             | `Swiper`                                        |
 | CSS Classes               | `hidden-phone`                                  |
 | Title                     | Blank                                           |
@@ -116,49 +114,3 @@ You will find the particle settings used in this particle below:
 | Swiper Item 1 Link        | `features/overview`                             |
 | Swiper Item 1 Link Text   | `<span class="hidden-tablet">Learn </span>More` |
 | Swiper Item 1 Description | Blank                                           |
-
-## Header B (module position)
-
-#### Particle Settings
-
-![Demo Header](demo_header_5.png)
-
-| Option | Setting    |
-| :----- | :-----     |
-| Key    | `header-b` |
-| Chrome | gantry     |
-
-#### Block Settings
-
-![Demo Header](demo_header_6.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |
-
-## Header C (module position)
-
-#### Particle Settings
-
-![Demo Header](demo_header_7.png)
-
-| Option | Setting    |
-| :----- | :-----     |
-| Key    | `header-c` |
-| Chrome | gantry     |
-
-#### Block Settings
-
-![Demo Header](demo_header_8.png)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | Blank      |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Block Size     | `33.3333%` |
