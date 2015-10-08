@@ -69,7 +69,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ![](assets/page_aboutus_2.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Info List Particle
 
@@ -172,7 +172,7 @@ The **Mainbar** section includes the **About Us** article, displayed through the
 
 ![](assets/page_aboutus_4.png)
 
-This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
+This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
 ### Block Content Particle
 
