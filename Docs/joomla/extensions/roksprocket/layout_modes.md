@@ -63,6 +63,15 @@ In this directory, you will find folders with the names of overridden **Layout M
 
 If you want to create overrides of your own, simply copy the theme's folder found by going to **/site/components/com_roksprocket/layouts/(mode name)/(theme name)** and paste it to **/site/templates/(template folder)/roksprocket/(mode name)/**. From here, you can edit its contents to meet your new template's unique needs. 
 
+#### Custom Layouts - (Very Advanced)
+
+For advanced users and developers, you can take full advantage of the power of RokSprocket by adding new custom layouts to your templates. A new custom layout is similar to a custom theme, only you need to create a complete layout with themes in the folder **/site/templates/(template folder)/roksprocket/[your new layout]**. 
+
+The simplest way to learn how to build a custom layout is to copy an existing layout and the layout themes from the **/site/componets/com_roksprocket/layouts/[the layout your are copying]** and renaming the layout. For example, if you wanted to create a new layout called *icongrids* from the *grids* layout you would copy the whole layout from  **/site/componets/com_roksprocket/layouts/grids** to **/site/templates/(template folder)/roksprocket/icongrids**. you would then need to rename all files accordingly and do a search and replace to rename all of the code items in each file from "grids" to "icongrids" and "grid" to "icongrid" (note the plural and singular instances).
+
+In your custom layout, to add or remove new fields you need to modify both the meta.xml and the RokSprocket_layout_[layouttype].php files. The RokSprocket_layout_[layouttype].php file must have the setParam(), setupText(), setupLink() for the items added to the meta.xml file (or remove items matching those which are removed). 
+Just follow the pattern for the setParam() items in the existing code to get the syntax right.
+
 Content Providers
 -----
 
