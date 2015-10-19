@@ -72,6 +72,7 @@ The simplest way to learn how to build a custom layout is to copy an existing la
 In your custom layout, to add or remove new fields you need to modify both the meta.xml and the RokSprocket_layout_[layouttype].php files. The RokSprocket_layout_[layouttype].php file must have the setParam(), setupText(), setupLink() for the items added to the meta.xml file (or remove items matching those which are removed). 
 Just follow the pattern for the setParam() items in the existing code to get the syntax right.
 
+
 Content Providers
 -----
 
