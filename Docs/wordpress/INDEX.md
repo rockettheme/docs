@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Salient](themes/salient)
 	- [Ambrosia](themes/ambrosia)
 	- [Ethereal](themes/ethereal)
 	- [Callisto](themes/callisto)
