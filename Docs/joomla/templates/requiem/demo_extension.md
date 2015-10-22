@@ -11,6 +11,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/requiem:Requiem
 
 The **Extension** section includes three module positions, `extension-a`, `extension-b`, and `extension-c`. 
 
+The background image found in our demo is set in the **Style** administrative panel. Just navigate to **Gantry 5 Admin > Styles** and scroll down to the **Header** section.
+
+
 ![](assets/home_extension.png)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:

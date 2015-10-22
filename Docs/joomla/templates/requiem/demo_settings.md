@@ -38,7 +38,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Base Outline | Top Styles        | Text             | `#888888`             |
 | Base Outline | Header Styles     | Background       | `#ffffff`             |
 | Base Outline | Header Styles     | Text             | `#5c5c5c`             |
-| Base Outline | Header Styles     | Background Image |                       |
+| Base Outline | Header Styles     | Background Image | Custom                |
 | Base Outline | Slideshow Styles  | Background       | `#ffffff`             |
 | Base Outline | Slideshow Styles  | Text             | `#888888`             |
 | Base Outline | Showcase Styles   | Background       | `#ffffff`             |
