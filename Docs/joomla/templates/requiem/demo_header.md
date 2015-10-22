@@ -11,6 +11,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/requiem:Requiem
 
 The **Header** section includes three module positions, `header-a`, `header-b`, `header-c`. These module positions are created using the Layout Manager.
 
+The background image found in our demo is set in the **Style** administrative panel. Just navigate to **Gantry 5 Admin > Styles** and scroll down to the **Header** section.
+
 ![](assets/home_header.png)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
