@@ -6,7 +6,7 @@ The documentation is contained in [Docs/](Docs) and is structured in folders, ex
 
 You can read all of the documentation within as its just in plain text files, marked up with [Markdown](http://daringfireball.net/projects/markdown/).
 
-If you would like a local copy of the documentation, you can either [download it](https://github.com/rockettheme/docs/archive/master.zip) or you can clone the reopistory by running the follwing command:
+If you would like a local copy of the documentation, you can either [download it](https://github.com/rockettheme/docs/archive/master.zip) or you can clone the repository by running the following command:
 
 ~~~ .bash
 git clone git://github.com/rockettheme/docs rockettheme-docs
