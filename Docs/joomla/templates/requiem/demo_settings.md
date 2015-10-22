@@ -18,17 +18,17 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Core Styles
 
-| Outline      | Category      | Option          | Setting                                                                 |
-| :-----       | :-----        | :-----          |                                                                         |
-| Base Outline | Base Styles   | Base Background | `#ffffff`                                                               |
-| Base Outline | Base Styles   | Base Text Color | `#888888`                                                               |
-| Base Outline | Base Styles   | Favicoon        | Blank                                                                   |
-| Base Outline | Font Families | Body Font       | `roboto, Helvetica, Tahoma, Geneva, Arial, sans-serif`           |
-| Base Outline | Font Families | Title Font      | `montserrat, Helvetica, Tahoma, Geneva, Arial, sans-serif`           |
+| Outline      | Category      | Option          | Setting                                                    |
+| :-----       | :-----        | :-----          |                                                            |
+| Base Outline | Base Styles   | Base Background | `#ffffff`                                                  |
+| Base Outline | Base Styles   | Base Text Color | `#888888`                                                  |
+| Base Outline | Base Styles   | Favicoon        | Blank                                                      |
+| Base Outline | Font Families | Body Font       | `roboto, Helvetica, Tahoma, Geneva, Arial, sans-serif`     |
+| Base Outline | Font Families | Title Font      | `montserrat, Helvetica, Tahoma, Geneva, Arial, sans-serif` |
 | Base Outline | Font Families | Promo Font      | `montserrat, Helvetica, Tahoma, Geneva, Arial, sans-serif` |
-| Base Outline | Accent Colors | Accent Color 1  | `#3a7ad9`                                                               |
-| Base Outline | Accent Colors | Accent Color 2  | `#ff6705`                                                               |
-| Base Outline | Accent Colors | Accent Color 3  | `#f7c500`                                                               |
+| Base Outline | Accent Colors | Accent Color 1  | `#3a7ad9`                                                  |
+| Base Outline | Accent Colors | Accent Color 2  | `#ff6705`                                                  |
+| Base Outline | Accent Colors | Accent Color 3  | `#f7c500`                                                  |
 
 ### Section Styles
 
