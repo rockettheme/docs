@@ -13,6 +13,8 @@ RokNavMenu Exporter allows you to bring your existing styled Joomla menu over to
 
 RokNavMenu Exporter is primarily a Joomla extension, though it does require a little work to be done on both platforms. Below, we have outlined the requirements and steps you can take to make your phpBB and Joomla sites seamlessly transition between one-another.
 
+>> RokNavMenu Exporter is no longer in development. While it is available for download, it is no longer being actively supported.
+
 Requirements
 -----
 
