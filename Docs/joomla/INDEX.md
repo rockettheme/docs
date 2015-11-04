@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Isotope](templates/isotope)
 	- [Kraken](templates/kraken)
 	- [Requiem](templates/requiem)
 	- [Salient](templates/salient)
