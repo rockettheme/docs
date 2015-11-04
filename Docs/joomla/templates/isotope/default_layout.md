@@ -12,4 +12,4 @@ The following is a look at the default layout used in our demo for all of our sa
 
 ### Gantry 5 Particles
 
-![positions](assets/default_layout.png)
+![positions](assets/default_layout.jpeg)

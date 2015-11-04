@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_1.png)
+![](assets/demo_1.jpeg)
 
 :   1. **Logo (Particle)** [10%, 2%, se]
     2. **Overlay Toggle (Particle)** [10%, 90%, se]
 
 The **Navigation** section includes two particles, **Logo** and **Overlay Toggle**. The Overlay Toggle particle activates the **Overlay** section.
 
-![](assets/home_navigation.png)
+![](assets/home_navigation.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -23,7 +23,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_navigation_settings.png)
+![](assets/demo_navigation_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -35,7 +35,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_1.png)
+![Demo Navigation](demo_navigation_1.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -47,7 +47,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_2.png)
+![Demo Navigation](demo_navigation_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -62,7 +62,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_3.png)
+![Demo Navigation](demo_navigation_3.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -73,7 +73,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_4.png)
+![Demo Navigation](demo_navigation_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

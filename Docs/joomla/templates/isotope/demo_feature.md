@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_6.png)
+![](assets/demo_6.jpeg)
 
 The **Feature** section includes one module position, **Feature**. In that module position we placed a **Gantry 5 Particle** module with the **Flipping Content** particle assigned.
 
-![](assets/home_feature.png)
+![](assets/home_feature.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_feature_settings.png)
+![](assets/demo_feature_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Feature](demo_feature_1.png)
+![Demo Feature](demo_feature_1.jpeg)
 
 | Option        | Setting     |
 | :-----        | :-----      |
@@ -42,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Feature](demo_feature_2.png)
+![Demo Feature](demo_feature_2.jpeg)
 
 | Option         | Setting      |
 | :-----         | :-----       |
@@ -61,7 +61,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Flipping Content** parti
 
 ##### Particle Settings
 
-![Demo Feature](demo_feature_3.png)
+![Demo Feature](demo_feature_3.jpeg)
 
 | Option                                 | Setting                                              |
 | :-----                                 | :-----                                               |

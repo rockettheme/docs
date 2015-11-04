@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_11.png)
+![](assets/demo_11.jpeg)
 
 :   1. **Branding (Particle)** [10%, 2%, se]
     2. **Copyright (Particle)** [10%, 40%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 The **Copyright** section includes three particles, **Branding**, **Copyright**, and **To Top**. 
 
-![](assets/home_copyright.png)
+![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.png)
+![](assets/demo_copyright_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_1.png)
+![Demo Copyright](demo_copyright_1.jpeg)
 
 | Option        | Setting      |
 | :-----        | :-----       |
@@ -52,7 +52,7 @@ Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-po
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_2.png)
+![Demo Copyright](demo_copyright_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -67,7 +67,7 @@ Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-po
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_3.png)
+![Demo Copyright](demo_copyright_3.jpeg)
 
 | Option            | Setting           |
 | :-----            | :-----            |
@@ -81,7 +81,7 @@ Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-po
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_4.png)
+![Demo Copyright](demo_copyright_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -96,7 +96,7 @@ Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-po
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_5.png)
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option            | Setting                         |
 | :-----            | :-----                          |
@@ -108,7 +108,7 @@ Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-po
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_6.png)
+![Demo Copyright](demo_copyright_6.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

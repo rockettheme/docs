@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_5.png)
+![](assets/demo_5.jpeg)
 
 The **Utility** section includes one module position, **Utility**. In that module position we placed a **Gantry 5 Particle** module with the **Promo Content** particle assigned.
 
-![](assets/home_utility.png)
+![](assets/home_utility.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_utility_settings.png)
+![](assets/demo_utility_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Utility](demo_utility_1.png)
+![Demo Utility](demo_utility_1.jpeg)
 
 | Option        | Setting     |
 | :-----        | :-----      |
@@ -42,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Utility](demo_utility_2.png)
+![Demo Utility](demo_utility_2.jpeg)
 
 | Option         | Setting      |
 | :-----         | :-----       |
@@ -61,7 +61,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Promo Content** particle
 
 ##### Particle Settings
 
-![Demo Utility](demo_utility_3.png)
+![Demo Utility](demo_utility_3.jpeg)
 
 | Option           | Setting                                                                                                                                                                                            |
 | :-----           | :-----                                                                                                                                                                                             |

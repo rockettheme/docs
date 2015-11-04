@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_2.png)
+![](assets/demo_2.jpeg)
 
 The **Slideshow** section includes one module position, **Slideshow**. In that module position we placed a **Gantry 5 Particle** module with the **FlexSlider** particle assigned.
 
-![](assets/home_slideshow.png)
+![](assets/home_slideshow.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_slideshow_settings.png)
+![](assets/demo_slideshow_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Slideshow](demo_slideshow_1.png)
+![Demo Slideshow](demo_slideshow_1.jpeg)
 
 | Option        | Setting     |
 | :-----        | :-----      |
@@ -42,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Slideshow](demo_slideshow_2.png)
+![Demo Slideshow](demo_slideshow_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -61,7 +61,7 @@ Using the **Gantry 5 Particle** module, we assigned a **FlexSlider** particle to
 
 ##### Particle Settings
 
-![Demo Slideshow](demo_slideshow_3.png)
+![Demo Slideshow](demo_slideshow_3.jpeg)
 
 | Option                                 | Setting                                            |
 | :-----                                 | :-----                                             |

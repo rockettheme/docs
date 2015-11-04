@@ -58,7 +58,7 @@ We have detailed how to recreate the individual modules and particles pictured a
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
-![Overlay](overlay.png)
+![Overlay](overlay.jpeg)
 
 There is also an **Overlay** position which appears when activated via the **Overlay Toggle** particle. We have detailed this part of our demo [here](demo_overlay.md).
 
@@ -93,7 +93,7 @@ It would be a good idea for organization to name this outline something like **I
 Menu Editor
 -----
 
-![](assets/menu_1.png)
+![](assets/menu_1.jpeg)
 
 Isotope has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
@@ -102,6 +102,6 @@ You can access the Gantry Menu Editor by navigating to **Administrator > Compone
 Assignments
 -----
 
-![](assets/assignments_1.png)
+![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Isotope** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

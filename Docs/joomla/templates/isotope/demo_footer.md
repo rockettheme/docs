@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_10.png)
+![](assets/demo_10.jpeg)
 
 The **Footer** section includes four module positions, **Footer A**, **Footer B**, **Footer C**, and **Footer D**. In these positions, we placed different particles, outlined in this guide.
 
-![](assets/home_footer.png)
+![](assets/home_footer.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -26,7 +26,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_footer_settings.png)
+![](assets/demo_footer_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -38,7 +38,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_1.png)
+![Demo Footer](demo_footer_1.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -48,7 +48,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Footer](demo_footer_2.png)
+![Demo Footer](demo_footer_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -67,7 +67,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ##### Particle Settings
 
-![Demo Footer](demo_footer_3.png)
+![Demo Footer](demo_footer_3.jpeg)
 
 | Option                   | Setting                                               |
 | :-----                   | :-----                                                |
@@ -93,7 +93,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_4.png)
+![Demo Footer](demo_footer_4.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -103,7 +103,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ### Block Settings
 
-![Demo Footer](demo_footer_5.png)
+![Demo Footer](demo_footer_5.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -122,7 +122,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ##### Particle Settings
 
-![Demo Footer](demo_footer_6.png)
+![Demo Footer](demo_footer_6.jpeg)
 
 | Option                   | Setting                                 |
 | :-----                   | :-----                                  |
@@ -148,7 +148,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_7.png)
+![Demo Footer](demo_footer_7.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -158,7 +158,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Info List** particle to 
 
 ### Block Settings
 
-![Demo Footer](demo_footer_8.png)
+![Demo Footer](demo_footer_8.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -177,7 +177,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Custom HTML** particle t
 
 ##### Particle Settings
 
-![Demo Footer](demo_footer_9.png)
+![Demo Footer](demo_footer_9.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |
@@ -193,7 +193,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Custom HTML** particle t
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_10.png)
+![Demo Footer](demo_footer_10.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -203,7 +203,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Custom HTML** particle t
 
 ### Block Settings
 
-![Demo Footer](demo_footer_11.png)
+![Demo Footer](demo_footer_11.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -222,7 +222,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Custom HTML** particle t
 
 ##### Particle Settings
 
-![Demo Footer](demo_footer_12.png)
+![Demo Footer](demo_footer_12.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |

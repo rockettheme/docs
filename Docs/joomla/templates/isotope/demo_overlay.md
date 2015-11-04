@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_12.png)
+![](assets/demo_12.jpeg)
 
 :   1. **Menu (Particle)** [5%, 2%, se]
     2. **Block Content (Particle)** [35%, 5%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 The **Overlay** section includes three particles, **Menu** and two **Module Position** particles. Assigned to these module positions are **Block Content** and **Social** particles.
 
-![](assets/home_overlay.png)
+![](assets/home_overlay.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -27,7 +27,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_overlay_settings.png)
+![](assets/demo_overlay_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -39,7 +39,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_1.png)
+![Demo Overlay](demo_overlay_1.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -53,7 +53,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_2.png)
+![Demo Overlay](demo_overlay_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -68,7 +68,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_4.png)
+![Demo Overlay](demo_overlay_4.jpeg)
 
 | Option        | Setting     |
 | :-----        | :-----      |
@@ -78,7 +78,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_5.png)
+![Demo Overlay](demo_overlay_5.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -97,7 +97,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Block Content** particle
 
 ##### Particle Settings
 
-![Demo Overlay](demo_overlay_6.png)
+![Demo Overlay](demo_overlay_6.jpeg)
 
 | Option                | Setting                                                                             |
 | :-----                | :-----                                                                              |
@@ -126,7 +126,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Block Content** particle
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_7.png)
+![Demo Overlay](demo_overlay_7.jpeg)
 
 | Option        | Setting    |
 | :-----        | :-----     |
@@ -136,7 +136,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Block Content** particle
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_8.png)
+![Demo Overlay](demo_overlay_8.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -155,7 +155,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Social** particle to thi
 
 ##### Particle Settings
 
-![Demo Overlay](demo_overlay_9.png)
+![Demo Overlay](demo_overlay_9.jpeg)
 
 | Option        | Setting                               |
 | :-----        | :-----                                |

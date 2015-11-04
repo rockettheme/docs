@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_8.png)
+![](assets/demo_8.jpeg)
 
 The **Extension** section includes one module position, **Extension**. In that module position we placed a **Gantry 5 Particle** module with the **Block Content** particle assigned.
 
-![](assets/home_extension.png)
+![](assets/home_extension.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_extension_settings.png)
+![](assets/demo_extension_settings.jpeg)
 
 | Option                | Setting                            |
 | :---------------      | :----------                        |
@@ -33,7 +33,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Extension](demo_extension_1.png)
+![Demo Extension](demo_extension_1.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -43,7 +43,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Extension](demo_extension_2.png)
+![Demo Extension](demo_extension_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -62,7 +62,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Block Content** particle
 
 ##### Particle Settings
 
-![Demo Extension](demo_extension_3.png)
+![Demo Extension](demo_extension_3.jpeg)
 
 | Option                | Setting                                                                                                                           |
 | :-----                | :-----                                                                                                                            |

@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_4.png)
+![](assets/demo_4.jpeg)
 
 The **Above** section includes one module position, **Above**. In that module position we placed a **Gantry 5 Particle** module with the **FlexSlider** particle assigned.
 
-![](assets/home_above.png)
+![](assets/home_above.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_above_settings.png)
+![](assets/demo_above_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Above](demo_above_1.png)
+![Demo Above](demo_above_1.jpeg)
 
 | Option        | Setting   |
 | :-----        | :-----    |
@@ -42,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Above](demo_above_2.png)
+![Demo Above](demo_above_2.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
@@ -61,7 +61,7 @@ Using the **Gantry 5 Particle** module, we assigned a **FlexSlider** particle to
 
 ##### Particle Settings
 
-![Demo Above](demo_above_3.png)
+![Demo Above](demo_above_3.jpeg)
 
 | Option                                 | Setting                                                                                                                                              |
 | :-----                                 | :-----                                                                                                                                               |
