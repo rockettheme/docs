@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 The **Expanded** section includes one module position, **Expanded**. In that module position we placed a **Gantry 5 Particle** module with the **Popup Image Grid** particle assigned.
 
-![](assets/home_expanded.png)
+![](assets/home_expanded.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_expanded_settings.png)
+![](assets/demo_expanded_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Expanded](demo_expanded_1.png)
+![Demo Expanded](demo_expanded_1.jpeg)
 
 | Option        | Setting      |
 | :-----        | :-----       |
@@ -42,7 +42,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Expanded](demo_expanded_2.png)
+![Demo Expanded](demo_expanded_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -61,7 +61,7 @@ Using the **Gantry 5 Particle** module, we assigned a **Popup Image Grid** parti
 
 ##### Particle Settings
 
-![Demo Expanded](demo_expanded_3.png)
+![Demo Expanded](demo_expanded_3.jpeg)
 
 | Option                 | Setting                                                                                                                                                        |
 | :-----                 | :-----                                                                                                                                                         |

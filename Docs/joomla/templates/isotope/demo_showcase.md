@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ## Introduction
 
-![](assets/demo_3.png)
+![](assets/demo_3.jpeg)
 
 :	1. **FlexSlider** [10%, 20%, se]
 	2. **Custom HTML** [90%, 40%, se]
 
 The **Showcase** section includes one module position, **Showcase A**. In that module position we assigned two **Gantry 5 Particle** modules. One being a **FlexSlider** particle, and the other a **Custom HTML** particle..
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -24,7 +24,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.png)
+![](assets/demo_showcase_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -36,7 +36,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Showcase](demo_showcase_1.png)
+![Demo Showcase](demo_showcase_1.jpeg)
 
 | Option        | Setting      |
 | :-----        | :-----       |
@@ -46,7 +46,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Showcase](demo_showcase_2.png)
+![Demo Showcase](demo_showcase_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -65,7 +65,7 @@ Using the **Gantry 5 Particle** module, we assigned **FlexSlider** and **Custom 
 
 ##### Particle Settings
 
-![Demo Showcase](demo_showcase_3.png)
+![Demo Showcase](demo_showcase_3.jpeg)
 
 | Option                                 | Setting                                                                                                                            |
 | :-----                                 | :-----                                                                                                                             |
@@ -97,7 +97,7 @@ Using the **Gantry 5 Particle** module, we assigned **FlexSlider** and **Custom 
 
 ##### Particle Settings
 
-![Demo Showcase](demo_showcase_4.png)
+![Demo Showcase](demo_showcase_4.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |

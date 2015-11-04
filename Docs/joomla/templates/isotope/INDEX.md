@@ -10,7 +10,7 @@ Introduction
 
 Isotope is an elegant, interactive and animated template, bursting with colors and imagery, in a highly flexible structure. Stylistic features include Parallax backgrounds and the versatile FlexSlider particle, with several layout options and animation effects.
 
-![](assets/isotope.png)
+![](assets/isotope.jpeg)
 
 Requirements
 -----

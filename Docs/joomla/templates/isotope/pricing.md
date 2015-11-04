@@ -29,7 +29,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ## Header Section
 
-![](assets/page_pricing_1.png)
+![](assets/page_pricing_1.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
@@ -67,7 +67,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ## Above Section
 
-![](assets/page_pricing_2.png)
+![](assets/page_pricing_2.jpeg)
 
 This area of the page is a **Custom HTML** module. You will find the settings used in our demo below.
 
@@ -189,7 +189,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Mainbar Section
 
-![](assets/page_pricing_3.png)
+![](assets/page_pricing_3.jpeg)
 
 The **Mainbar** section includes the **Pricing** article, displayed through the **Page Content** particle. Here are the settings found in the **Pricing** article.
 
@@ -221,7 +221,7 @@ The **Mainbar** section includes the **Pricing** article, displayed through the 
 
 ## Extension Section
 
-![](assets/page_pricing_4.png)
+![](assets/page_pricing_4.jpeg)
 
 This area of the page is an **Image Grid** particle placed within a **Gantry 5 Particle** module in the `extension-a` module position. We have included the settings for this particle below.
 
@@ -244,7 +244,7 @@ This area of the page is an **Image Grid** particle placed within a **Gantry 5 P
 
 ## Bottom Section
 
-![](assets/page_pricing_5.png)
+![](assets/page_pricing_5.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
