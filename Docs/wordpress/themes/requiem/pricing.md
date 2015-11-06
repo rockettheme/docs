@@ -13,7 +13,7 @@ The **Pricing** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_pricing.png)
+![](assets/page_pricing.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [7%, 40%, se]
     2. **Feature - Custom HTML (Particle)** [15%, 5% se]
@@ -33,7 +33,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ## Showcase Section
 
-![](assets/page_pricing_1.png)
+![](assets/page_pricing_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -68,7 +68,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Feature Section
 
-![](assets/page_pricing_2.png)
+![](assets/page_pricing_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -182,7 +182,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Mainbar Section
 
-![](assets/page_pricing_3.png)
+![](assets/page_pricing_3.jpeg)
 
 The **Mainbar** section includes the **Pricing** article, displayed through the **Page Content** particle. Here are the settings found in the **Pricing** article.
 
@@ -214,7 +214,7 @@ The **Mainbar** section includes the **Pricing** article, displayed through the 
 
 ## Extension Section
 
-![](assets/page_pricing_4.png)
+![](assets/page_pricing_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -325,7 +325,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Bottom Section
 
-![](assets/page_pricing_5.png)
+![](assets/page_pricing_5.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -361,7 +361,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]

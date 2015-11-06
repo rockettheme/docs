@@ -21,7 +21,7 @@ Widget and Particle Settings
 
 Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/requiem2.png)
+![](assets/requiem2.jpeg)
 
 :   1. **Navigation** MainNav Left - Icon Menu (Particle) [1%, 13%, se]
     2. **Navigation** Menu (Particle) [1%, 38%, se]
@@ -92,7 +92,7 @@ It would be a good idea for organization to name this outline something like **R
 Menu Editor
 -----
 
-![](assets/menu_1.png)
+![](assets/menu_1.jpeg)
 
 Requiem has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
@@ -101,6 +101,6 @@ You can access the Gantry Menu Editor by navigating to **Admin > Requiem Theme >
 Assignments
 -----
 
-![](assets/assignments_1.png)
+![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Admin. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Requiem Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, we used the **Front Page** page, which is a blank page we created.

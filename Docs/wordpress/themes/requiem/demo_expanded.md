@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_8.png)
+![](assets/demo_8.jpeg)
 
 The **Expanded** section includes two particles, **Info List** and **Grid Promo Gallery**.
 
-![](assets/home_expanded.png)
+![](assets/home_expanded.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_expanded_settings.png)
+![](assets/demo_expanded_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -32,7 +32,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Expanded](assets/demo_expanded_1.png)
+![Demo Expanded](assets/demo_expanded_1.jpeg)
 
 | Option                              | Setting                                                                      |
 | :-----                              | :-----                                                                       |
@@ -55,7 +55,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Expanded](assets/demo_expanded_2.png)
+![Demo Expanded](assets/demo_expanded_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -70,7 +70,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Expanded](assets/demo_expanded_3.png)
+![Demo Expanded](assets/demo_expanded_3.jpeg)
 
 | Option                                      | Setting                            |
 | :-----                                      | :-----                             |
@@ -90,7 +90,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Expanded](assets/demo_expanded_4.png)
+![Demo Expanded](assets/demo_expanded_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

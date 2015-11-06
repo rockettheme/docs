@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_4.png)
+![](assets/demo_4.jpeg)
 
 The **Showcase** section includes a single **Grid Statistic** particle. 
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.png)
+![](assets/demo_showcase_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Showcase](assets/demo_showcase_1.png)
+![Demo Showcase](assets/demo_showcase_1.jpeg)
 
 | Option                                 | Setting                                                                |
 | :-----                                 | :-----                                                                 |
@@ -49,7 +49,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Showcase](assets/demo_showcase_2.png)
+![Demo Showcase](assets/demo_showcase_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

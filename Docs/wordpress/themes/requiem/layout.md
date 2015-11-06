@@ -8,5 +8,5 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 Layout Manager
 -----
 
-![positions](assets/outline_home.png)
+![positions](assets/outline_home.jpeg)
 

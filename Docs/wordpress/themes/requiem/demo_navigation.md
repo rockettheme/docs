@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_2.png)
+![](assets/demo_2.jpeg)
 
 The **Navigation** section includes three particles, **Icon Menu**, **Men**, and another **Icon Menu**. 
 
-![](assets/home_navigation.png)
+![](assets/home_navigation.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -22,7 +22,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_navigation_settings.png)
+![](assets/demo_navigation_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -34,7 +34,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Navigation](assets/demo_navigation_1.png)
+![Demo Navigation](assets/demo_navigation_1.jpeg)
 
 | Option      | Setting            |
 | :-----      | :-----             |
@@ -47,7 +47,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Navigation](assets/demo_navigation_2.png)
+![Demo Navigation](assets/demo_navigation_2.jpeg)
 
 | Option         | Setting        |
 | :-----         | :-----         |
@@ -62,7 +62,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Navigation](assets/demo_navigation_3.png)
+![Demo Navigation](assets/demo_navigation_3.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -75,7 +75,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Navigation](assets/demo_navigation_4.png)
+![Demo Navigation](assets/demo_navigation_4.jpeg)
 
 | Option         | Setting          |
 | :-----         | :-----           |
@@ -90,7 +90,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Navigation](assets/demo_navigation_5.png)
+![Demo Navigation](assets/demo_navigation_5.jpeg)
 
 | Option      | Setting              |
 | :-----      | :-----               |
@@ -103,7 +103,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Navigation](assets/demo_navigation_6.png)
+![Demo Navigation](assets/demo_navigation_6.jpeg)
 
 | Option         | Setting         |
 | :-----         | :-----          |

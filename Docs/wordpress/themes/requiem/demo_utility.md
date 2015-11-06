@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_6.png)
+![](assets/demo_6.jpeg)
 
 The **Utility** section includes a single **Animated Block** particle.
 
-![](assets/home_utility.png)
+![](assets/home_utility.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_utility_settings.png)
+![](assets/demo_utility_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Utility](assets/demo_utility_1.png)
+![Demo Utility](assets/demo_utility_1.jpeg)
 
 | Option                    | Setting                                                                                                    |
 | :-----                    | :-----                                                                                                     |
@@ -49,7 +49,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Utility](assets/demo_utility_2.png)
+![Demo Utility](assets/demo_utility_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

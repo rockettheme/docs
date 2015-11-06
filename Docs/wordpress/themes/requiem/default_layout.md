@@ -12,5 +12,5 @@ The following is a look at the default layout used in our demo for all of our sa
 
 ### Gantry 5 Particles
 
-![positions](assets/outline_default.png)
+![positions](assets/outline_default.jpeg)
 

@@ -13,7 +13,7 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_about.png)
+![](assets/page_about.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [10%, 45%, se]
     2. **Feature - Custom HTML (Particle)** [18%, 8%, se]
@@ -29,7 +29,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ## Showcase Section
 
-![](assets/page_aboutus_1.png)
+![](assets/page_aboutus_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -63,7 +63,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Feature Section
 
-![](assets/page_aboutus_2.png)
+![](assets/page_aboutus_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -118,7 +118,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Mainbar Section
 
-![](assets/page_aboutus_3.png)
+![](assets/page_aboutus_3.jpeg)
 
 The **Mainbar** section includes the **About Us** article, displayed through the **Page Content** particle. Here are the settings found in the **About Us** article.
 
@@ -183,7 +183,7 @@ The **Mainbar** section includes the **About Us** article, displayed through the
 
 ## Extension Section
 
-![](assets/page_aboutus_4.png)
+![](assets/page_aboutus_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -234,7 +234,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Bottom Section
 
-![](assets/page_aboutus_5.png)
+![](assets/page_aboutus_5.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 

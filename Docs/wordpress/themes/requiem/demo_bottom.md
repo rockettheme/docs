@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_10.png)
+![](assets/demo_10.jpeg)
 
 The **Bottom** section includes a single **Grid Content** particle.
 
-![](assets/home_bottom.png)
+![](assets/home_bottom.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_bottom_settings.png)
+![](assets/demo_bottom_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](assets/demo_bottom_1.png)
+![Demo Bottom](assets/demo_bottom_1.jpeg)
 
 | Option                          | Setting                                               |
 | :-----                          | :-----                                                |
@@ -52,7 +52,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](assets/demo_bottom_2.png)
+![Demo Bottom](assets/demo_bottom_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 The **Feature** section includes a single **Testimonial** particle.
 
-![](assets/home_feature.png)
+![](assets/home_feature.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_feature_settings.png)
+![](assets/demo_feature_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Feature](assets/demo_feature_1.png)
+![Demo Feature](assets/demo_feature_1.jpeg)
 
 | Option                      | Setting                                                                     |
 | :-----                      | :-----                                                                      |
@@ -49,7 +49,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Feature](assets/demo_feature_2.png)
+![Demo Feature](assets/demo_feature_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

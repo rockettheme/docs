@@ -7,11 +7,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_1.png)
+![](assets/demo_1.jpeg)
 
 The **FixedSide** section includes two particles, each arranged in its own row in the section.
 
-![](assets/home_fixedside.png)
+![](assets/home_fixedside.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -21,7 +21,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_fixedside_settings.png)
+![](assets/demo_fixedside_settings.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -34,7 +34,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo FixedSide](demo_fixedside_1.png)
+![Demo FixedSide](demo_fixedside_1.jpeg)
 
 | Option        | Setting            |
 | :-----        | :-----             |
@@ -48,7 +48,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo FixedSide](demo_fixedside_2.png)
+![Demo FixedSide](demo_fixedside_2.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -62,7 +62,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo FixedSide](demo_fixedside_3.png)
+![Demo FixedSide](demo_fixedside_3.jpeg)
 
 | Option             | Setting               |
 | :-----             | :-----                |
@@ -76,7 +76,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo FixedSide](demo_fixedside_4.png)
+![Demo FixedSide](demo_fixedside_4.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |

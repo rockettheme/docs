@@ -13,7 +13,7 @@ The **Portfolio** example page demonstrates how you can create a beautiful page 
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_portfolio.png)
+![](assets/page_portfolio.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [7%, 45%, se]
     2. **Mainbar - Page Content** [14%, 5%, se]
@@ -33,7 +33,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ## Showcase Section
 
-![](assets/page_portfolio_1.png)
+![](assets/page_portfolio_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -68,7 +68,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Feature Section
 
-![](assets/page_portfolio_2.png)
+![](assets/page_portfolio_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -171,7 +171,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Mainbar Section
 
-![](assets/page_portfolio_3.png)
+![](assets/page_portfolio_3.jpeg)
 
 The **Mainbar** section includes the **Portfolio** article, displayed through the **Page Content** particle. Here are the settings found in the **Portfolio** article.
 
@@ -296,7 +296,7 @@ The **Mainbar** section includes the **Portfolio** article, displayed through th
 
 ## Extension Section
 
-![](assets/page_portfolio_4.png)
+![](assets/page_portfolio_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -404,7 +404,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Bottom Section
 
-![](assets/page_portfolio_5.png)
+![](assets/page_portfolio_5.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -440,7 +440,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]

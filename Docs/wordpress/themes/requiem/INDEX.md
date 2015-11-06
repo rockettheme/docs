@@ -10,7 +10,7 @@ Introduction
 
 Requiem is an exquisitely designed theme for the Gantry 5 theme framework, offering a fixed side position, for the logo and other elements. Easy to style, configure and customize through an advanced, user friendly and modern interface.
 
-![](assets/requiem.png)
+![](assets/requiem.jpeg)
 
 Requirements
 -----

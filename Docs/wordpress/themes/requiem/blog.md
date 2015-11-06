@@ -13,7 +13,7 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_blog.png)
+![](assets/page_blog.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [3%, 45%, se]
     2. **Mainbar - Page Content** [8%, 7%, se]
@@ -33,7 +33,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 # Showcase Section
 
-![](assets/page_blog_1.png)
+![](assets/page_blog_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -68,7 +68,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Mainbar Section
 
-![](assets/page_blog_2.png)
+![](assets/page_blog_2.jpeg)
 
 The **Mainbar** section includes several articles assigned to the **WordPress Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** article.
 
@@ -90,7 +90,7 @@ The **Mainbar** section includes several articles assigned to the **WordPress Bl
 
 # Aside Section
 
-![](assets/page_blog_3.png)
+![](assets/page_blog_3.jpeg)
 
 :   1. **RokAjaxSearch (Widget)** [7%, 15%, se]
     2. **Custom HTML (Widget)** [20%, 15%, se]
@@ -233,7 +233,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Bottom Section
 
-![](assets/page_blog_4.png)
+![](assets/page_blog_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -269,7 +269,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]

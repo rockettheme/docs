@@ -7,14 +7,14 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ## Introduction
 
-![](assets/demo_9.png)
+![](assets/demo_9.jpeg)
 
 The **Extension** section includes a single **Promo Content** particle.
 
 The background image found in our demo is set in the **Style** administrative panel. Just navigate to **Gantry 5 Admin > Styles** and scroll down to the **Header** section.
 
 
-![](assets/home_extension.png)
+![](assets/home_extension.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -22,7 +22,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_extension_settings.png)
+![](assets/demo_extension_settings.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -34,7 +34,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Extension](assets/demo_extension_1.png)
+![Demo Extension](assets/demo_extension_1.jpeg)
 
 | Option                | Setting                                                                                                                                                                                                                                     |
 | :-----                | :-----                                                                                                                                                                                                                                      |
@@ -58,7 +58,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Extension](assets/demo_extension_2.png)
+![Demo Extension](assets/demo_extension_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

@@ -13,7 +13,7 @@ The **Contact** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_contact.png)
+![](assets/page_contact.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [8%, 40%, se]
     2. **Above - Custom HTML (Particle)** [14%, 5%, se]
@@ -35,7 +35,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ## Showcase Section
 
-![](assets/page_contact_1.png)
+![](assets/page_contact_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -70,7 +70,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Showcase Section
 
-![](assets/page_contact_10.png)
+![](assets/page_contact_10.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -127,7 +127,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Mainbar Section
 
-![](assets/page_contact_2.png)
+![](assets/page_contact_2.jpeg)
 
 The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
@@ -161,7 +161,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Aside Section
 
-![](assets/page_contact_3.png)
+![](assets/page_contact_3.jpeg)
 
 The **Aside** section is set to `20`% width.
 
@@ -234,7 +234,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Extension Section
 
-![](assets/page_contact_11.png)
+![](assets/page_contact_11.jpeg)
 
 This area of the page is an **Infolist** particle. You will find the settings used in our demo below.
 
@@ -285,7 +285,7 @@ This area of the page is an **Infolist** particle. You will find the settings us
 
 ## Bottom Section
 
-![](assets/page_contact_4.png)
+![](assets/page_contact_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -321,7 +321,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]
