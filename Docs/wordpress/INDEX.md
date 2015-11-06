@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Requiem](themes/requiem)
 	- [Salient](themes/salient)
 	- [Ambrosia](themes/ambrosia)
 	- [Ethereal](themes/ethereal)
