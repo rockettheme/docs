@@ -35,7 +35,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-requiem/
             * [FixedSide](demo_fixedside.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
-            * [Sample Page Layout](default_layout.md) 
             * [Contact](contact.md)
             * [Portfolio](portfolio.md)
             * [About Us](aboutus.md)

@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ---
 
-Is Requiem compatible for WordPress 1.5 or 2.5?
------
-
-No, Requiem is only compatible with WordPress 3.4+.
-
 What is RokSprocket?
 -----
 
