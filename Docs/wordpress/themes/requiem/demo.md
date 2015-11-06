@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Widget and Particle Settings
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the widget placement and settings for the various particles as they appear on the front page of our demo. 
 
 ![](assets/requiem2.jpeg)
 
