@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-callisto/
             * [Mainfeature](demo_mainfeature.md)
             * [Sidefeature](demo_sidefeature.md)
             * [Main](demo_main.md)
-            * [Extension](demo_plugin.md)
+            * [Extension](demo_extension.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
         * [Front Page Layout](layout.md)

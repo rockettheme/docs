@@ -51,7 +51,7 @@ We have detailed how to recreate the individual widgets and particles pictured a
 4. [Mainfeature](demo_mainfeature.md)
 5. [Sidefeature](demo_sidefeature.md)
 6. [Main](demo_main.md)
-7. [Extension](demo_plugin.md)
+7. [Extension](demo_extension.md)
 8. [Footer](demo_footer.md)
 9. [Copyright](demo_copyright.md)
 
