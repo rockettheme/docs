@@ -7,44 +7,44 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ## Introduction
 
-![](assets/demo_plugin.jpeg)
+![](assets/demo_extension.jpeg)
 
-:   1. **Widget Position (plugin-a)** [7%, 5%, se]
-    2. **Widget Position (plugin-b)** [17%, 5%, se]
+:   1. **Widget Position (extension-a)** [7%, 5%, se]
+    2. **Widget Position (extension-b)** [17%, 5%, se]
     3. **Promo Image (Particle)** [65%, 5%, se]
-    4. **Widget Position (plugin-c)** [65%, 37%, se]
+    4. **Widget Position (extension-c)** [65%, 37%, se]
     5. **Image Grid (Particle)** [65%, 68%, se]
 
 The **Extension** section is made up three **Widget Positions**, a **Promo Image** particle, and an **Image Grid** particle. These particles and positions span three rows.
 
-![](assets/demo_plugin_lm.jpeg)
+![](assets/demo_extension_lm.jpeg)
 
 Settings used in our demo for each of these particles can be found below.
 
 ## Section Settings
 
-![](assets/demo_plugin_settings.jpeg)
+![](assets/demo_extension_settings.jpeg)
 
 | Field          | Setting |
 | :-----         | :-----  |
 | CSS Classes    | Blank   |
 | Tag Attributes | Blank   |
 
-## Widget Position (plugin-a)
+## Widget Position (extension-a)
 
 ### Particle Settings
 
-![](assets/demo_plugin_1.jpeg)
+![](assets/demo_extension_1.jpeg)
 
 | Field         | Setting                            |
 | :-----        | :-----                             |
 | Particle Name | `Position - RokSprocket Headlines` |
-| Key           | `plugin-a`                      |
+| Key           | `extension-a`                      |
 | Chrome        | `gantry`                           |
 
 ### Block Settings
 
-![](assets/demo_plugin_2.jpeg)
+![](assets/demo_extension_2.jpeg)
 
 | Field          | Setting          |
 | :-----         | :-----           |
@@ -64,7 +64,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_plugin_3.jpeg)
+![](assets/demo_extension_3.jpeg)
 
 | Option           | Setting                    |
 | :-----           | :-----                     |
@@ -78,11 +78,11 @@ In this instance, we used the **Simple** content provider to enable us to create
 | :-----      | :------                                                              |
 | Image       | None                                                                 |
 | Link        | `#`                                                                  |
-| Description | `Built with SASS - a powerful, professional CSS plugin language…` |
+| Description | `Built with SASS - a powerful, professional CSS extension language…` |
 
 ### Layout Options
 
-![](assets/demo_plugin_4.jpeg)
+![](assets/demo_extension_4.jpeg)
 
 | Option           | Setting        |
 | :------          | :------        |
@@ -97,21 +97,21 @@ In this instance, we used the **Simple** content provider to enable us to create
 | Autoplay Delay   | 5              |
 | Image Resize     | Disable        |
 
-## Widget Position (plugin-b)
+## Widget Position (extension-b)
 
 ### Particle Settings
 
-![](assets/demo_plugin_6.jpeg)
+![](assets/demo_extension_6.jpeg)
 
 | Field         | Setting                         |
 | :-----        | :-----                          |
 | Particle Name | `Position - RokSprocket Strips` |
-| Key           | `plugin-b`                   |
+| Key           | `extension-b`                   |
 | Chrome        | `gantry`                        |
 
 ### Block Settings
 
-![](assets/demo_plugin_7.jpeg)
+![](assets/demo_extension_7.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -131,7 +131,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![](assets/demo_plugin_8.jpeg)
+![](assets/demo_extension_8.jpeg)
 
 | Option           | Setting                 |
 | :-----           | :-----                  |
@@ -168,7 +168,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Layout Options
 
-![](assets/demo_plugin_9.jpeg)
+![](assets/demo_extension_9.jpeg)
 
 | Option            | Setting      |
 | :----------       | :----------  |
@@ -189,7 +189,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Particle Settings
 
-![](assets/demo_plugin_11.jpeg)
+![](assets/demo_extension_11.jpeg)
 
 | Field             | Setting                                                          |
 | :-----            | :-----                                                           |
@@ -212,7 +212,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Block Settings
 
-![](assets/demo_plugin_12.jpeg)
+![](assets/demo_extension_12.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -222,21 +222,21 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Tag Attributes | Blank          |
 | Block Size     | `33.3333%`     |
 
-## Widget Position (plugin-c)
+## Widget Position (extension-c)
 
 ### Particle Settings
 
-![](assets/demo_plugin_13.jpeg)
+![](assets/demo_extension_13.jpeg)
 
 | Field         | Setting                        |
 | :-----        | :-----                         |
 | Particle Name | `Position - RokSprocket Lists` |
-| Key           | `plugin-c`                  |
+| Key           | `extension-c`                  |
 | Chrome        | `gantry`                       |
 
 ### Block Settings
 
-![](assets/demo_plugin_14.jpeg)
+![](assets/demo_extension_14.jpeg)
 
 | Field          | Setting        |
 | :-----         | :-----         |
@@ -254,7 +254,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Details
 
-![demo](assets/demo_plugin_15.jpeg)
+![demo](assets/demo_extension_15.jpeg)
 
 | Option           | Setting                |
 | :----------      | :----------            |
@@ -319,7 +319,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Layout Options
 
-![demo2](assets/demo_plugin_16.jpeg)
+![demo2](assets/demo_extension_16.jpeg)
 
 | Option              | Setting     |
 | :----------         | :---------- |
@@ -339,7 +339,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Particle Settings
 
-![demo3](assets/demo_plugin_18.jpeg)
+![demo3](assets/demo_extension_18.jpeg)
 
 | Field               | Setting                                                                                      |
 | :-----              | :-----                                                                                       |
@@ -384,7 +384,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 
 ### Block Settings
 
-![demo3](assets/demo_plugin_19.jpeg)
+![demo3](assets/demo_extension_19.jpeg)
 
 | Field          | Setting          |
 | :-----         | :-----           |
