@@ -14,7 +14,7 @@ support: http://www.rockettheme.com/forum/joomla-template-requiem/
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
     * [How to Install](../../platform/templates.md#how-to-install)
-        * [Installing the Template](../../platform/templates.md#how-to-install-a-joomla-template)
+        * [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
         * [RocketLauncher (3.x)](../../platform/install_joomla_3x.md)
         * [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
     * [Recreate the Demo](demo.md)
