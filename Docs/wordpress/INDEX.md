@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Kraken](themes/kraken)
 	- [Requiem](themes/requiem)
 	- [Salient](themes/salient)
 	- [Ambrosia](themes/ambrosia)
