@@ -15,7 +15,7 @@ Chimera is a clean, modern and minimalistic theme showcasing the beauty of your 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
 * Joomla 2.5, 3.2, 3.3+
 
