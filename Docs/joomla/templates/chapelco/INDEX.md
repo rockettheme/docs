@@ -18,9 +18,9 @@ A standard array of powerful features and functions are brought to Chapelco via 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.x
+* Joomla 2.5 or 3.4
 
 >> NOTE: Gantry v4.1.8+ is required for Chapelco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

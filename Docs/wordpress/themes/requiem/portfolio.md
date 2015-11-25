@@ -15,7 +15,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_portfolio.jpeg)
 
-:   1. **Showcase - Custom HTML (Particle)** [7%, 45%, se]
+:   1. **Header - Info List (Particle)** [7%, 45%, se]
     2. **Mainbar - Page Content** [14%, 5%, se]
     3. **Feature - Custom HTML (Particle)** [31%, 5%, se]
     4. **Extension - Custom HTML (Particle)** [62%, 5%, se]
@@ -24,47 +24,53 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
     7. **Footer - Custom HTML (Widget)** [90%, 38%, se]
     8. **Footer - Custom HTML (Widget)** [90%, 65%, se]
 
-1. [Showcase](#showcase-section)
+1. [Header](#header-section)
 2. [Feature](#feature-section)
 3. [Mainbar](#mainbar-section)
 4. [Extension](#extension-section)
 5. [Bottom](#bottom-section)
 6. [Footer](#footer-section)
 
-## Showcase Section
+## Header Section
 
 ![](assets/page_portfolio_1.jpeg)
 
-This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
-### Custom HTML (Particle)
+### Info List (Particle)
 
 ### Particle Settings
 
-| Field              | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
-
-### Custom HTML
-
-~~~ .html
-<div class="g-layercontent g-layercontent-small">
-  <h2 class="g-layercontent-title">Portfolio</h2>
-  <div class="g-layercontent-subtitle">What We Have Already Done</div>
-</div>
-~~~
+| Field                              | Setting                              |
+| :-----                             | :-----                               |
+| Particle Name                      | `Portfolio - Header`                 |
+| CSS Classes                        | `center` `g-layercontent` `noborder` |
+| Title                              | Blank                                |
+| Intro                              | Blank                                |
+| Grid Column                        | 1 Column                             |
+| Info List Item 1 Name              | `Portfolio`                          |
+| Info List Item 1 Image             | Blank                                |
+| Info List Item 1 Image Location    | Left                                 |
+| Info List Item 1 Text Style        | Header                               |
+| Info List Item 1 Image Style       | Compact                              |
+| Info List Item 1 Description       | `What We Have Already Done`          |
+| Info List Item 1 Tag               | Blank                                |
+| Info List Item 1 Sub Tag           | Blank                                |
+| Info List Item 1 Label             | Blank                                |
+| Info List Item 1 Link              | Blank                                |
+| Info List Item 1 Icon              | Blank                                |
+| Info List Item 1 Read More Classes | Blank                                |
 
 ### Block Settings
 
-| Option         | Setting          |
-| :----------    | :----------      |
-| CSS ID         | Blank            |
-| CSS Classes    | `flush` `center` |
-| Variations     | Blank            |
-| Tag Attributes | Blank            |
-| Fixed Size     | Unchecked        |
-| Block Size     | `100%`           |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Feature Section
 

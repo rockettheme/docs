@@ -15,7 +15,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_contact.jpeg)
 
-:   1. **Showcase - Custom HTML (Particle)** [8%, 40%, se]
+:   1. **Header - Custom HTML (Particle)** [8%, 40%, se]
     2. **Above - Custom HTML (Particle)** [14%, 5%, se]
     2. **Mainbar - Page Content** [26%, 5%, se]
     3. **Aside - Custom HTML (Widget)** [26%, 72%, se]
@@ -25,7 +25,7 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
     6. **Footer - Custom HTML (Widget)** [88%, 38%, se]
     7. **Footer - Custom HTML (Widget)** [88%, 65%, se]
 
-1. [Showcase](#showcase-section)
+1. [Header](#header-section)
 2. [Above](#above-section)
 2. [Mainbar](#mainbar-section)
 3. [Aside](#sidebar-section)
@@ -33,40 +33,46 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 4. [Bottom](#bottom-section)
 5. [Footer](#footer-section)
 
-## Showcase Section
+## Header Section
 
 ![](assets/page_contact_1.jpeg)
 
-This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+TThis area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
-### Custom HTML (Particle)
+### Info List (Particle)
 
 ### Particle Settings
 
-| Field              | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
-
-### Custom HTML
-
-~~~ .html
-<div class="g-layercontent g-layercontent-small">
-  <h2 class="g-layercontent-title">Contact</h2>
-  <div class="g-layercontent-subtitle">Keep in Touch with Us</div>
-</div>
-~~~
+| Field                              | Setting                              |
+| :-----                             | :-----                               |
+| Particle Name                      | `Contact - Header`                   |
+| CSS Classes                        | `center` `g-layercontent` `noborder` |
+| Title                              | Blank                                |
+| Intro                              | Blank                                |
+| Grid Column                        | 1 Column                             |
+| Info List Item 1 Name              | `Contact Us`                         |
+| Info List Item 1 Image             | Blank                                |
+| Info List Item 1 Image Location    | Left                                 |
+| Info List Item 1 Text Style        | Header                               |
+| Info List Item 1 Image Style       | Compact                              |
+| Info List Item 1 Description       | `Keep in Touch with Us`              |
+| Info List Item 1 Tag               | Blank                                |
+| Info List Item 1 Sub Tag           | Blank                                |
+| Info List Item 1 Label             | Blank                                |
+| Info List Item 1 Link              | Blank                                |
+| Info List Item 1 Icon              | Blank                                |
+| Info List Item 1 Read More Classes | Blank                                |
 
 ### Block Settings
 
-| Option         | Setting          |
-| :----------    | :----------      |
-| CSS ID         | Blank            |
-| CSS Classes    | `flush` `center` |
-| Variations     | Blank            |
-| Tag Attributes | Blank            |
-| Fixed Size     | Unchecked        |
-| Block Size     | `100%`           |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Showcase Section
 

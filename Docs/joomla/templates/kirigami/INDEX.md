@@ -18,9 +18,9 @@ The next generation layout and structure compliments the beautiful and intricate
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.4+ Recommended)
+* PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.x
+* Joomla 2.5 or 3.4
 
 >> NOTE: Gantry v4.1.10+ is required for Kirigami to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

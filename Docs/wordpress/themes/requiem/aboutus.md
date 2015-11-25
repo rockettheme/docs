@@ -15,51 +15,58 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 
 ![](assets/page_about.jpeg)
 
-:   1. **Showcase - Custom HTML (Particle)** [10%, 45%, se]
+:   1. **Header - Custom HTML (Particle)** [10%, 45%, se]
     2. **Feature - Custom HTML (Particle)** [18%, 8%, se]
     3. **Mainbar - Page Content** [30%, 8%, se]
     4. **Plugin - Custom HTML (Particle)** [55%, 8%, se]
     5. **Bottom - Custom HTML (Particle)** [73%, 30%, se]
 
-1. [Showcase](#showcase-section)
+1. [Header](#header-section)
 2. [Feature](#feature-section)
 2. [Mainbar](#mainbar-section)
 3. [Plugin](#extension-section)
 4. [Bottom](#bottom-section)
 
-## Showcase Section
+## Header Section
 
 ![](assets/page_aboutus_1.jpeg)
 
-This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
-### Custom HTML (Particle)
+### Info List (Particle)
 
 ### Particle Settings
 
-| Field         | Setting       |
-| :-----        | :-----        |
-| Particle Name | `Custom HTML` |
-
-### Custom HTML
-
-~~~ .html
-<div class="g-layercontent g-layercontent-small">
-  <h2 class="g-layercontent-title">About Us</h2>
-  <div class="g-layercontent-subtitle">Who We Are</div>
-</div>
-~~~
+| Field                              | Setting                              |
+| :-----                             | :-----                               |
+| Particle Name                      | `About Us - Header`                  |
+| CSS Classes                        | `center` `g-layercontent` `noborder` |
+| Title                              | Blank                                |
+| Intro                              | Blank                                |
+| Grid Column                        | 1 Column                             |
+| Info List Item 1 Name              | About Us                             |
+| Info List Item 1 Image             | Blank                                |
+| Info List Item 1 Image Location    | Left                                 |
+| Info List Item 1 Text Style        | Header                               |
+| Info List Item 1 Image Style       | Compact                              |
+| Info List Item 1 Description       | `Who We Are`                         |
+| Info List Item 1 Tag               | Blank                                |
+| Info List Item 1 Sub Tag           | Blank                                |
+| Info List Item 1 Label             | Blank                                |
+| Info List Item 1 Link              | Blank                                |
+| Info List Item 1 Icon              | Blank                                |
+| Info List Item 1 Read More Classes | Blank                                |
 
 ### Block Settings
 
-| Option         | Setting          |
-| :----------    | :----------      |
-| CSS ID         | Blank            |
-| CSS Classes    | `flush` `center` |
-| Variations     | Blank            |
-| Tag Attributes | Blank            |
-| Fixed Size     | Unchecked        |
-| Block Size     | `100%`           |
+| Option         | Setting     |
+| :----------    | :---------- |
+| CSS ID         | Blank       |
+| CSS Classes    | Blank       |
+| Variations     | Blank       |
+| Tag Attributes | Blank       |
+| Fixed Size     | Unchecked   |
+| Block Size     | `100%`      |
 
 ## Feature Section
 
