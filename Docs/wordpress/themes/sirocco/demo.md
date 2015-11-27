@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/sirocco:Sirocco
 Introduction
 -----
 
-![Sirocco](assets/sirocco.jpeg)
+![Sirocco](assets/sirocco.png)
 
 Recreating features of the demo site used to show off some of the more interesting aspects of Sirocco can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
@@ -56,25 +56,25 @@ You can find more information about the entire override breakdown for both the f
 Widget Settings
 -----
 
-![Theme](assets/sirocco2.jpeg)
+![Theme](assets/sirocco2.png)
 
-:   1. **Header - Gantry Logo** [5%, 15%, se]
-    2. **Header - Gantry Menu** [5%, 60%, se]
-    3. **Showcase - RokSprocket (Features)** [7%, 20%, se]
-    4. **Utility - RokSprocket (Headlines)** [13%, 20%, se]
-    5. **Feature - RokSprocket (Mosaic)** [16%, 20%, se]
+:   1. **Header - Gantry Logo** [1%, 5%, se]
+    2. **Header - Gantry Menu** [1%, 25%, se]
+    3. **Showcase - RokSprocket (Features)** [2%, 3%, se]
+    4. **Utility - RokSprocket (Headlines)** [10%, 8%, se]
+    5. **Feature - RokSprocket (Mosaic)** [12%, 8%, se]
     6. **Main Top - Text** [36%, 40%, se]
-    7. **Expanded Top - RokSprocket (Features)** [39%, 20%, se]
-    8. **Expanded Bottom - Text** [48%, 20%, se]
-    9. **Main Bottom - Text** [53%, 20%, se]
-    10. **ThirdFullWidth - RokSprocket (Features)** [61%, 20%, se]
-    11. **Sidebar - Text** [70%, 20%, se]
-    12. **MainBody** [70%, 75%, sw]
-    13. **Footer - Text** [87%, 20%, se]
-    14. **Footer - Text** [87%, 35%, se]
-    15. **Footer - Text** [87%, 65%, se]
-    16. **Copyright - Gantry Copyright** [92%, 65%, se]
-    16. **Copyright - Menu** [92%, 65%, se]
+    7. **Expanded Top - RokSprocket (Features)** [39%, 8%, se]
+    8. **Expanded Bottom - Text** [48%, 8%, se]
+    9. **Main Bottom - Text** [53%, 8%, se]
+    10. **ThirdFullWidth - RokSprocket (Features)** [63%, 8%, se]
+    11. **Sidebar - Text** [74%, 8%, se]
+    12. **MainBody** [74%, 80%, sw]
+    13. **Footer - Text** [94%, 8%, se]
+    14. **Footer - Text** [94%, 32%, se]
+    15. **Footer - Text** [94%, 70%, se]
+    16. **Copyright - Gantry Copyright** [99%, 8%, se]
+    17. **Copyright - Menu** [99%, 65%, se]
 
 Like any Gantry theme, Sirocco utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
