@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!sirocco:Sirocco
 Introduction
 -----
 
-![Sirocco](assets/sirocco.jpeg)
+![Sirocco](assets/sirocco.png)
 
 Sirocco features a variety of sharp and elegant visual options for site content via RokSprocket, with its many layouts and themes. The design paradigm behind Sirocco is a flat and contemporary approach, to keep a fresh but engaging site experience.
 
