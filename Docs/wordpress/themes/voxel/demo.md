@@ -105,8 +105,8 @@ One important thing to note here is that many of the widget sections included in
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
-[Voxel]: assets/Voxel.jpeg
-[voxel2]: assets/Voxel2.jpeg
+[Voxel]: assets/voxel.jpeg
+[voxel2]: assets/voxel2.jpeg
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
 [rokgallery]: http://www.rockettheme.com/wordpress/plugins/rokgallery
 [faq]: faq.md
