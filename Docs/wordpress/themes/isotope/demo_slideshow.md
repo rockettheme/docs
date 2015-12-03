@@ -9,14 +9,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_2.jpeg)
 
-The **Slideshow** section includes one widget position, **Slideshow**. In that widget position we placed a **Gantry 5 Particle** widget with the **FlexSlider** particle assigned.
+The **Slideshow** section includes a single **FlexSlider** particle.
 
 ![](assets/home_slideshow.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Slideshow)](#widget-position-(slideshow))
-	* [FlexSlider (particle)](#flexslider-(particle))
+* [FlexSlider (particle)](#flexslider-(particle))
 
 ## Section Settings
 
@@ -33,35 +32,6 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 ### Particle Settings
 
 ![Demo Slideshow](demo_slideshow_1.jpeg)
-
-| Option        | Setting     |
-| :-----        | :-----      |
-| Particle Name | `Slideshow` |
-| Key           | `slideshow` |
-| Chrome        | `gantry`    |
-
-### Block Settings
-
-![Demo Slideshow](demo_slideshow_2.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **FlexSlider** particle to this position. You will find the settings used in this particle, below.
-
-#### FlexSlider (Particle)
-
-##### Particle Settings
-
-![Demo Slideshow](demo_slideshow_3.jpeg)
 
 | Option                                 | Setting                                            |
 | :-----                                 | :-----                                             |
@@ -88,3 +58,18 @@ Using the **Gantry 5 Particle** widget, we assigned a **FlexSlider** particle to
 | FlexSlider Item 1 Link Text            | `View More`                                        |
 | FlexSlider Item 1 Target               | Self                                               |
 | FlexSlider Item 1 Button Class         | `button-3`                                         |
+
+### Block Settings
+
+![Demo Slideshow](demo_slideshow_2.jpeg)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `100%`    |
+
+
