@@ -15,11 +15,11 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_pricing.jpeg)
 
-:   1. **Header - Info List (particle)** [3%, 40%, se]
-    2. **Above - Custom HTML (module)** [12%, 5% se]
-    3. **Mainbar - Page Content** [43%, 5%, se]
-    4. **Extension - Image Grid (particle)** [51%, 5%, se]
-    5. **Bottom - Info List (particle)** [73%, 40%, se]
+:   1. **Header - Info List (particle)** [7%, 40%, se]
+    2. **Above - Custom HTML (module)** [12%, 6% se]
+    3. **Mainbar - Page Content** [43%, 6%, se]
+    4. **Extension - Image Grid (particle)** [51%, 6%, se]
+    5. **Bottom - Info List (particle)** [78%, 40%, se]
 
 1. [Header](#showcase-section)
 2. [Above](#above-section)

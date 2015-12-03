@@ -16,10 +16,10 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 ![](assets/page_portfolio.jpeg)
 
 :   1. **Header - Info List (particle)** [5%, 45%, se]
-    2. **Above - Content List (particle)** [10%, 5%, se]
-    3. **Mainbar - Promo Image (particle)** [28%, 5%, se]
-    4. **Extension - Info List (particle)** [60%, 5%, se]
-    5. **Bottom - Info List (particle)** [75%, 30%, se]
+    2. **Above - Content List (particle)** [13%, 6%, se]
+    3. **Mainbar - Promo Image (particle)** [30%, 6%, se]
+    4. **Extension - Info List (particle)** [62%, 6%, se]
+    5. **Bottom - Info List (particle)** [78%, 30%, se]
 
 1. [Header](#header-section)
 2. [Above](#above-section)
