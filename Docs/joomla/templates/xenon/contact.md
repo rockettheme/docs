@@ -15,12 +15,12 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_contact.jpeg)
 
-:   1. **Header - Info List (particle)** [3%, 40%, se]
-    2. **Above - Block Content (particle)** [13%, 5%, se]
-    3. **Mainbar - Page Content** [26%, 5%, se]
+:   1. **Header - Info List (particle)** [7%, 40%, se]
+    2. **Above - Block Content (particle)** [13%, 7%, se]
+    3. **Mainbar - Page Content** [26%, 7%, se]
     4. **Aside - Contact (particle)** [26%, 75%, se]
-    5. **Extension - Info List (particle)** [53%, 5%, se]
-    6. **Bottom - Info List (particle)** [75%, 30%, se]
+    5. **Extension - Info List (particle)** [57%, 7%, se]
+    6. **Bottom - Info List (particle)** [77%, 30%, se]
 
 1. [Header](#header-section)
 2. [Above](#above-section)

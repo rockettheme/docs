@@ -18,10 +18,10 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 :   1. **Header - Custom HTML (Module)** [3%, 45%, se]
     2. **Mainbar - Page Content** [8%, 5%, se]
     3. **Aside - RokAjaxSearch (Module)** [8%, 75%, se]
-    4. **Aside - Custom HTML (Module)** [10%, 75%, se]
-    5. **Aside - Login (Module)** [18%, 75%, se]
-    6. **Aside - Who's Online (Module)** [25%, 75%, se]
-    7. **Bottom - Custom HTML (Module)** [84%, 35%, se]
+    4. **Aside - Custom HTML (Module)** [12%, 75%, se]
+    5. **Aside - Login (Module)** [20%, 75%, se]
+    6. **Aside - Who's Online (Module)** [27%, 75%, se]
+    7. **Bottom - Custom HTML (Module)** [88%, 35%, se]
 
 1. [Header](#header-section)
 2. [Mainbar](#mainbar-section)
