@@ -21,7 +21,7 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/xenon2.jpeg)
+![](assets/xenon2.jpg)
 
 :   1. **Top** Logo (Particle) [1%, 5%, se]
     2. **Top** Overlay Toggle (Particle) [1%, 62%, se]
