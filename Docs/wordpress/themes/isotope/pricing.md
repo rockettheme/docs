@@ -16,13 +16,13 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 ![](assets/page_pricing.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [4%, 40%, se]
-    2. **Feature - Custom HTML (Particle)** [12%, 20% se]
-    3. **Mainbar - Page Content** [43%, 20%, se]
-    4. **Extension - Custom HTML (Particle)** [52%, 20%, se]
+    2. **Feature - Custom HTML (Particle)** [12%, 5% se]
+    3. **Mainbar - Page Content** [43%, 5%, se]
+    4. **Extension - Custom HTML (Particle)** [52%, 5%, se]
     5. **Bottom - Custom HTML (Particle)** [74%, 40%, se]
-    5. **Footer - Custom HTML (Particle)** [85%, 20%, se]
-    6. **Footer - Custom HTML (Particle)** [85%, 45%, se]
-    7. **Footer - Custom HTML (Particle)** [85%, 70%, se]
+    5. **Footer - Custom HTML (Particle)** [87%, 5%, se]
+    6. **Footer - Custom HTML (Particle)** [87%, 35%, se]
+    7. **Footer - Custom HTML (Particle)** [87%, 70%, se]
 
 1. [Showcase](#showcase-section)
 2. [Feature](#feature-section)

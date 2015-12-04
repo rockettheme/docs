@@ -9,20 +9,16 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_10.jpeg)
 
-The **Footer** section includes four widget positions, **Footer A**, **Footer B**, **Footer C**, and **Footer D**. In these positions, we placed different particles, outlined in this guide.
+The **Footer** section includes four different particles, outlined in this guide.
 
 ![](assets/home_footer.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Footer A)](#widget-position-(footer-a))
-	* [Info List (particle)](#info-list-(particle))
-* [Widget Position (Footer B)](#widget-position-(footer-b))
-	* [Info List (particle)](#info-list-(particle)-2)
-* [Widget Position (Footer C)](#widget-position-(footer-c))
-	* [Custom HTML (particle)](#custom-html-(particle))
-* [Widget Position (Footer D)](#widget-position-(footer-d))
-	* [Custom HTML (particle)](#custom-html-(particle)-2)
+* [Info List (particle)](#info-list-(particle))
+* [Info List (particle)](#info-list-(particle)-2)
+* [Custom HTML (particle)](#custom-html-(particle))
+* [Custom HTML (particle)](#custom-html-(particle)-2)
 
 ## Section Settings
 
@@ -34,44 +30,15 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes      | Blank                     |
 | Tag Attributes   | Blank                     |
 
-## Widget Position (Footer A)
+## Info List (Particle)
 
 ### Particle Settings
 
 ![Demo Footer](demo_footer_1.jpeg)
 
-| Option        | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Footer A` |
-| Key           | `footer-a` |
-| Chrome        | `gantry`   |
-
-### Block Settings
-
-![Demo Footer](demo_footer_2.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `25%`     |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to this position. You will find the settings used in this particle, below.
-
-#### Info List (Particle)
-
-##### Particle Settings
-
-![Demo Footer](demo_footer_3.jpeg)
-
 | Option                   | Setting                                               |
 | :-----                   | :-----                                                |
-| Particle Name            | `Info List`                                           |
+| Particle Name            | `Useful Links`                                        |
 | CSS Classes              | `g-gridmenu`                                          |
 | Title                    | `Useful Links`                                        |
 | Intro                    | Blank                                                 |
@@ -89,21 +56,9 @@ Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to 
 | Item 1 Icon              | Blank                                                 |
 | Item 1 Read More Classes | Blank                                                 |
 
-## Widget Position (Footer B)
-
-### Particle Settings
-
-![Demo Footer](demo_footer_4.jpeg)
-
-| Option        | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Footer B` |
-| Key           | `footer-b` |
-| Chrome        | `gantry`   |
-
 ### Block Settings
 
-![Demo Footer](demo_footer_5.jpeg)
+![Demo Footer](demo_footer_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -114,19 +69,15 @@ Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to 
 | Fixed Size     | Unchecked |
 | Block Size     | `25%`     |
 
-### Assigned Particle(s)
+## Info List (Particle) 2
 
-Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to this position. You will find the settings used in this particle, below.
+### Particle Settings
 
-#### Info List (Particle) 2
-
-##### Particle Settings
-
-![Demo Footer](demo_footer_6.jpeg)
+![Demo Footer](demo_footer_3.jpeg)
 
 | Option                   | Setting                                 |
 | :-----                   | :-----                                  |
-| Particle Name            | `Info List`                             |
+| Particle Name            | `Elsewhere`                             |
 | CSS Classes              | `g-gridmenu`                            |
 | Title                    | `Elsewhere`                             |
 | Intro                    | Blank                                   |
@@ -144,17 +95,65 @@ Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to 
 | Item 1 Icon              | Blank                                   |
 | Item 1 Read More Classes | Blank                                   |
 
-## Widget Position (Footer C)
+### Block Settings
+
+![Demo Footer](demo_footer_4.jpeg)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `25%`     |
+
+## Custom HTML (Particle)
+
+### Particle Settings
+
+![Demo Footer](demo_footer_5.jpeg)
+
+| Option             | Setting   |
+| :-----             | :-----    |
+| Particle Name      | `About`   |
+| Process Shortcodes | Unchecked |
+
+~~~ .html
+<h3 class="g-title">About</h3>
+<p>All demo content is for sample purposes only, to represent a live site.</p>
+<p>Note: Isotope is built on the latest version of the Gantry 5 Framework.</p>
+~~~
+
+### Block Settings
+
+![Demo Footer](demo_footer_6.jpeg)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `25%`     |
+
+## Custom HTML (Particle) 2
 
 ### Particle Settings
 
 ![Demo Footer](demo_footer_7.jpeg)
 
-| Option        | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Footer C` |
-| Key           | `footer-c` |
-| Chrome        | `gantry`   |
+| Option             | Setting        |
+| :-----             | :-----         |
+| Particle Name      | `Availability` |
+| Process Shortcodes | Unchecked      |
+
+~~~ .html
+<h3 class="g-title">Availability</h3>
+<p><a href="http://www.rockettheme.com/wordpress/themes/isotope">Isotope</a> can be <span class="hidden-tablet">individually </span>purchased with lifetime download / forum access.</p>
+<p>Alternatively, Isotope is available as part of a subscription.</p></div>
+~~~
 
 ### Block Settings
 
@@ -168,68 +167,3 @@ Using the **Gantry 5 Particle** widget, we assigned a **Info List** particle to 
 | Tag Attributes | Blank     |
 | Fixed Size     | Unchecked |
 | Block Size     | `25%`     |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Custom HTML** particle to this position. You will find the settings used in this particle, below.
-
-#### Custom HTML (Particle)
-
-##### Particle Settings
-
-![Demo Footer](demo_footer_9.jpeg)
-
-| Option             | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
-
-~~~ .html
-<p>All demo content is for sample purposes only, to represent a live site.</p>
-<p>Note: Isotope is built on the latest version of the Gantry 5 Framework.</p>
-~~~
-
-## Widget Position (Footer D)
-
-### Particle Settings
-
-![Demo Footer](demo_footer_10.jpeg)
-
-| Option        | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Footer D` |
-| Key           | `footer-d` |
-| Chrome        | `gantry`   |
-
-### Block Settings
-
-![Demo Footer](demo_footer_11.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `25%`     |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Custom HTML** particle to this position. You will find the settings used in this particle, below.
-
-#### Custom HTML (Particle) 2
-
-##### Particle Settings
-
-![Demo Footer](demo_footer_12.jpeg)
-
-| Option             | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
-
-~~~ .html
-<p><span><a href="http://www.rockettheme.com/wordpress/themes/isotope">Isotope</a> can be <span class="hidden-tablet">individually </span>purchased with lifetime download / forum access.</span></p>
-<p>Alternatively, Isotope is available as part of a subscription.</p></div>
-~~~

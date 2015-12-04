@@ -16,14 +16,14 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 ![](assets/page_blog.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [3%, 45%, se]
-    2. **Mainbar - Page Content** [6%, 20%, se]
-    3. **Aside - RokAjaxSearch (Widget)** [6%, 75%, se]
+    2. **Mainbar - Page Content** [7%, 5%, se]
+    3. **Aside - RokAjaxSearch (Widget)** [7%, 75%, se]
     4. **Aside - Custom HTML (Widget)** [11%, 75%, se]
     5. **Aside - Login Form (Particle)** [19%, 75%, se]
     6. **Bottom - Custom HTML (Particle)** [87%, 35%, se]
-    7. **Footer - Logo (Particle)** [90%, 20%, se]
-    8. **Footer - Horizontal Menu (Particle)** [90%, 45%, se]
-    9. **Footer - Social (Particle)** [90%, 70%, se]
+    7. **Footer - Logo (Particle)** [93%, 5%, se]
+    8. **Footer - Horizontal Menu (Particle)** [93%, 35%, se]
+    9. **Footer - Social (Particle)** [93%, 65%, se]
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
@@ -92,9 +92,9 @@ The **Mainbar** section includes several articles assigned to the **WordPress Bl
 
 ![](assets/page_blog_3.jpeg)
 
-:   1. **RokAjaxSearch (Widget)** [7%, 15%, se]
-    2. **Custom HTML (Widget)** [20%, 15%, se]
-    3. **Login (Widget)** [60%, 15%, se]
+:   1. **RokAjaxSearch (Widget)** [7%, 4%, se]
+    2. **Custom HTML (Widget)** [20%, 4%, se]
+    3. **Login (Widget)** [60%, 4%, se]
 
 This area of the page consists of the **Aside** section, which sits to the right of the **Mainbar** section in the **Layout Manager**.
 

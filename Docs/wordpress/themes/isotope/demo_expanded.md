@@ -9,14 +9,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_7.jpeg)
 
-The **Expanded** section includes one widget position, **Expanded**. In that widget position we placed a **Gantry 5 Particle** widget with the **Popup Image Grid** particle assigned.
+The **Expanded** section includes one **Popup Image Grid** particle.
 
 ![](assets/home_expanded.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Expanded)](#widget-position-(expanded))
-	* [Popup Image Grid (particle)](#popup-image-grid-(particle))
+* [Popup Image Grid (particle)](#popup-image-grid-(particle))
 
 ## Section Settings
 
@@ -33,35 +32,6 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 ### Particle Settings
 
 ![Demo Expanded](demo_expanded_1.jpeg)
-
-| Option        | Setting      |
-| :-----        | :-----       |
-| Particle Name | `Expanded A` |
-| Key           | `expanded-a` |
-| Chrome        | `gantry`     |
-
-### Block Settings
-
-![Demo Expanded](demo_expanded_2.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Popup Image Grid** particle to this position. You will find the settings used in this particle, below.
-
-#### Popup Image Grid (Particle)
-
-##### Particle Settings
-
-![Demo Expanded](demo_expanded_3.jpeg)
 
 | Option                 | Setting                                                                                                                                                        |
 | :-----                 | :-----                                                                                                                                                         |
@@ -80,3 +50,16 @@ Using the **Gantry 5 Particle** widget, we assigned a **Popup Image Grid** parti
 | Item 1 Button Link     | `#`                                                                                                                                                            |
 | Item 1 Target          | Self                                                                                                                                                           |
 | Item 1 Button Classes  | `button-3`                                                                                                                                                     |
+
+### Block Settings
+
+![Demo Expanded](demo_expanded_2.jpeg)
+
+| Option         | Setting        |
+| :-----         | :-----         |
+| CSS ID         | Blank          |
+| CSS Classes    | Blank          |
+| Variations     | Centered Title |
+| Tag Attributes | Blank          |
+| Fixed Size     | Unchecked      |
+| Block Size     | `100%`         |

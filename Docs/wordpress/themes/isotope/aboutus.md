@@ -16,9 +16,9 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 ![](assets/page_aboutus.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [5%, 45%, se]
-    2. **Feature - Custom HTML (Particle)** [15%, 20%, se]
-    3. **Mainbar - Page Content** [30%, 20%, se]
-    4. **Plugin - Custom HTML (Particle)** [55%, 20%, se]
+    2. **Feature - Custom HTML (Particle)** [15%, 5%, se]
+    3. **Mainbar - Page Content** [30%, 5%, se]
+    4. **Plugin - Custom HTML (Particle)** [55%, 5%, se]
     5. **Bottom - Custom HTML (Particle)** [68%, 30%, se]
 
 1. [Showcase](#showcase-section)

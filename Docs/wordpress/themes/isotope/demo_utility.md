@@ -9,14 +9,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_5.jpeg)
 
-The **Utility** section includes one widget position, **Utility**. In that widget position we placed a **Gantry 5 Particle** widget with the **Promo Content** particle assigned.
+The **Utility** section includes one **Promo Content** particle.
 
 ![](assets/home_utility.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Utility)](#widget-position-(utility))
-	* [Promo Content (particle)](#promo-content-(particle))
+* [Promo Content (particle)](#promo-content-(particle))
 
 ## Section Settings
 
@@ -28,40 +27,11 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes      | Blank                     |
 | Tag Attributes   | Blank                     |
 
-## Widget Position (Utility)
+## Promo Content (Particle)
 
 ### Particle Settings
 
 ![Demo Utility](demo_utility_1.jpeg)
-
-| Option        | Setting     |
-| :-----        | :-----      |
-| Particle Name | `Utility A` |
-| Key           | `utility-a` |
-| Chrome        | `gantry`    |
-
-### Block Settings
-
-![Demo Utility](demo_utility_2.jpeg)
-
-| Option         | Setting      |
-| :-----         | :-----       |
-| CSS ID         | Blank        |
-| CSS Classes    | `fp-utility` |
-| Variations     | Blank        |
-| Tag Attributes | Blank        |
-| Fixed Size     | Unchecked    |
-| Block Size     | `100%`       |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Promo Content** particle to this position. You will find the settings used in this particle, below.
-
-#### Promo Content (Particle)
-
-##### Particle Settings
-
-![Demo Utility](demo_utility_3.jpeg)
 
 | Option           | Setting                                                                                                                                                                                            |
 | :-----           | :-----                                                                                                                                                                                             |
@@ -79,3 +49,16 @@ Using the **Gantry 5 Particle** widget, we assigned a **Promo Content** particle
 | Tags Item 1 Icon | Blank                                                                                                                                                                                              |
 | Tags Item 1 Text | `Flexible &amp; Intuitive`                                                                                                                                                                         |
 | Tags Item 1 Link | `#`                                                                                                                                                                                                |
+
+### Block Settings
+
+![Demo Utility](demo_utility_2.jpeg)
+
+| Option         | Setting      |
+| :-----         | :-----       |
+| CSS ID         | Blank        |
+| CSS Classes    | `fp-utility` |
+| Variations     | Blank        |
+| Tag Attributes | Blank        |
+| Fixed Size     | Unchecked    |
+| Block Size     | `100%`       |

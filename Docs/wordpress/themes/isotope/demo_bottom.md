@@ -9,14 +9,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_9.jpeg)
 
-The **Bottom** section includes one widget position, **Bottom**. In that widget position we placed a **Gantry 5 Particle** widget with the **Testimonials** particle assigned.
+The **Bottom** section includes one **Testimonials** particle.
 
 ![](assets/home_bottom.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Bottom)](#widget-position-(bottom))
-	* [Testimonials (particle)](#block-content-(particle))
+* [Testimonials (particle)](#block-content-(particle))
 
 ## Section Settings
 
@@ -29,40 +28,11 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | Tag Attributes Item 1 | `data-enllax-ratio` -> `0.3`       |
 | Tag Attributes Item 2 | `data-enllax-type` -> `background` |
 
-## Widget Position (Bottom)
+## Testimonials (Particle)
 
 ### Particle Settings
 
 ![Demo Bottom](demo_bottom_1.jpeg)
-
-| Option        | Setting    |
-| :-----        | :-----     |
-| Particle Name | `Bottom A` |
-| Key           | `bottom-a` |
-| Chrome        | `gantry`   |
-
-### Block Settings
-
-![Demo Bottom](demo_bottom_2.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **Testimonials** particle to this position. You will find the settings used in this particle, below.
-
-#### Testimonials (Particle)
-
-##### Particle Settings
-
-![Demo Bottom](demo_bottom_3.jpeg)
 
 | Option                   | Setting                                                                                                                           |
 | :-----                   | :-----                                                                                                                            |
@@ -78,3 +48,16 @@ Using the **Gantry 5 Particle** widget, we assigned a **Testimonials** particle 
 | Item 1 Author            | `Jerry Ellis`                                                                                                                     |
 | Item 1 Company           | `CEO`                                                                                                                             |
 | Item 1 Link              | `#`                                                                                                                               |
+
+### Block Settings
+
+![Demo Bottom](demo_bottom_2.jpeg)
+
+| Option         | Setting        |
+| :-----         | :-----         |
+| CSS ID         | Blank          |
+| CSS Classes    | Blank          |
+| Variations     | Centered Title |
+| Tag Attributes | Blank          |
+| Fixed Size     | Unchecked      |
+| Block Size     | `100%`         |

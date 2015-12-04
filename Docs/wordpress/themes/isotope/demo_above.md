@@ -9,14 +9,13 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ![](assets/demo_4.jpeg)
 
-The **Above** section includes one widget position, **Above**. In that widget position we placed a **Gantry 5 Particle** widget with the **FlexSlider** particle assigned.
+The **Above** section includes one **FlexSlider** particle.
 
 ![](assets/home_above.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (Above)](#widget-position-(above))
-	* [FlexSlider (particle)](#flexslider-(particle))
+* [FlexSlider (particle)](#flexslider-(particle))
 
 ## Section Settings
 
@@ -28,40 +27,11 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes      | Blank                     |
 | Tag Attributes   | Blank                     |
 
-## Widget Position (Above)
+## FlexSlider (Particle)
 
 ### Particle Settings
 
 ![Demo Above](demo_above_1.jpeg)
-
-| Option        | Setting   |
-| :-----        | :-----    |
-| Particle Name | `Above A` |
-| Key           | `above-a` |
-| Chrome        | `gantry`  |
-
-### Block Settings
-
-![Demo Above](demo_above_2.jpeg)
-
-| Option         | Setting    |
-| :-----         | :-----     |
-| CSS ID         | Blank      |
-| CSS Classes    | `fp-above` |
-| Variations     | Blank      |
-| Tag Attributes | Blank      |
-| Fixed Size     | Unchecked  |
-| Block Size     | `100%`     |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned a **FlexSlider** particle to this position. You will find the settings used in this particle, below.
-
-#### FlexSlider (Particle)
-
-##### Particle Settings
-
-![Demo Above](demo_above_3.jpeg)
 
 | Option                                 | Setting                                                                                                                                              |
 | :-----                                 | :-----                                                                                                                                               |
@@ -88,3 +58,19 @@ Using the **Gantry 5 Particle** widget, we assigned a **FlexSlider** particle to
 | FlexSlider Item 1 Link Text            | `Details`                                                                                                                                            |
 | FlexSlider Item 1 Target               | Self                                                                                                                                                 |
 | FlexSlider Item 1 Button Class         | `button-3`                                                                                                                                           |
+
+### Block Settings
+
+![Demo Above](demo_above_2.jpeg)
+
+| Option         | Setting    |
+| :-----         | :-----     |
+| CSS ID         | Blank      |
+| CSS Classes    | `fp-above` |
+| Variations     | Blank      |
+| Tag Attributes | Blank      |
+| Fixed Size     | Unchecked  |
+| Block Size     | `100%`     |
+
+
+

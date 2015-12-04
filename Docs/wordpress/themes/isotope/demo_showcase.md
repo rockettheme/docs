@@ -12,15 +12,14 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 :	1. **FlexSlider** [10%, 20%, se]
 	2. **Custom HTML** [90%, 40%, se]
 
-The **Showcase** section includes one widget position, **Showcase A**. In that widget position we assigned two **Gantry 5 Particle** widgets. One being a **FlexSlider** particle, and the other a **Custom HTML** particle..
+The **Showcase** section includes **FlexSlider** particle, and one **Custom HTML** particle.
 
 ![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Widget Position (showcase-a)](#widget-position-(showcase-a))
-	* [FlexSlider (particle)](#flexslider-(particle))
-	* [Custom HTML (particle)](#custom-html-(particle))
+* [FlexSlider (particle)](#flexslider-(particle))
+* [Custom HTML (particle)](#custom-html-(particle))
 
 ## Section Settings
 
@@ -32,40 +31,11 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes      | Blank                     |
 | Tag Attributes   | Blank                     |
 
-## Widget Position (showcase-a)
+## FlexSlider (Particle)
 
 ### Particle Settings
 
 ![Demo Showcase](demo_showcase_1.jpeg)
-
-| Option        | Setting      |
-| :-----        | :-----       |
-| Particle Name | `Showcase`   |
-| Key           | `showcase-a` |
-| Chrome        | `gantry`     |
-
-### Block Settings
-
-![Demo Showcase](demo_showcase_2.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
-
-### Assigned Particle(s)
-
-Using the **Gantry 5 Particle** widget, we assigned **FlexSlider** and **Custom HTML** particles to this position. You will find the settings used in these particles, below.
-
-#### FlexSlider (Particle)
-
-##### Particle Settings
-
-![Demo Showcase](demo_showcase_3.jpeg)
 
 | Option                                 | Setting                                                                                                                            |
 | :-----                                 | :-----                                                                                                                             |
@@ -93,11 +63,24 @@ Using the **Gantry 5 Particle** widget, we assigned **FlexSlider** and **Custom 
 | FlexSlider Item 1 Target               | Self                                                                                                                               |
 | FlexSlider Item 1 Button Class         | Blank                                                                                                                              |
 
-#### Custom HTML (Particle)
+### Block Settings
 
-##### Particle Settings
+![Demo Showcase](demo_showcase_2.jpeg)
 
-![Demo Showcase](demo_showcase_4.jpeg)
+| Option         | Setting                            |
+| :-----         | :-----                             |
+| CSS ID         | Blank                              |
+| CSS Classes    | `nomarginbottom` `nopaddingbottom` |
+| Variations     | Blank                              |
+| Tag Attributes | Blank                              |
+| Fixed Size     | Unchecked                          |
+| Block Size     | `100%`                             |
+
+## Custom HTML (Particle)
+
+### Particle Settings
+
+![Demo Showcase](demo_showcase_3.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |
@@ -106,7 +89,18 @@ Using the **Gantry 5 Particle** widget, we assigned **FlexSlider** and **Custom 
 
 **Custom HTML**
 ~~~ .html
-<div class="title-center">
-	<h2 class="g-title largetopspace">What We Made Recently</h2>
-</div>
+<h2 class="g-title largetopspace">What We Made Recently</h2>
 ~~~
+
+### Block Settings
+
+![Demo Showcase](demo_showcase_4.jpeg)
+
+| Option         | Setting                      |
+| :-----         | :-----                       |
+| CSS ID         | Blank                        |
+| CSS Classes    | `nomargintop` `nopaddingtop` |
+| Variations     | Centered Title               |
+| Tag Attributes | Blank                        |
+| Fixed Size     | Unchecked                    |
+| Block Size     | `100%`                       |

@@ -16,15 +16,15 @@ Below is a brief rundown of the widgets and particles used to make up the demo p
 ![](assets/page_contact.jpeg)
 
 :   1. **Showcase - Custom HTML (Particle)** [5%, 40%, se]
-    2. **Above - Custom HTML (Particle)** [10%, 20%, se]
-    3. **Mainbar - Page Content** [26%, 20%, se]
+    2. **Above - Custom HTML (Particle)** [12%, 5%, se]
+    3. **Mainbar - Page Content** [26%, 5%, se]
     4. **Aside - Custom HTML (Particle)** [26%, 75%, se]
-    5. **Aside - Contact (Particle)** [32%, 75%, se]
-    6. **Expanded - Custom HTML (Particle)** [57%, 20%, se]
-    7. **Extension - Custom HTML (Particle)** [79%, 30%, se]
-    8. **Footer - Custom HTML (Particle)** [85%, 20%, se]
-    9. **Footer - Custom HTML (Particle)** [85%, 45%, se]
-    10. **Footer - Custom HTML (Particle)** [85%, 70%, se]
+    5. **Aside - Contact (Particle)** [39%, 75%, se]
+    6. **Expanded - Custom HTML (Particle)** [55%, 5%, se]
+    7. **Extension - Custom HTML (Particle)** [75%, 30%, se]
+    8. **Footer - Custom HTML (Particle)** [87%, 5%, se]
+    9. **Footer - Custom HTML (Particle)** [87%, 35%, se]
+    10. **Footer - Custom HTML (Particle)** [87%, 70%, se]
 
 1. [Showcase](#showcase-section)
 2. [Above](#above-section)
