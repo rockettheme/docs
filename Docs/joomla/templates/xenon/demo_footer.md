@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Info List (Particle) 1
 
-The **Info List** particle was placed within the **footer-a** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Info List** particle is a **Gantry 5 Particle** module placed within the **footer-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -92,7 +92,7 @@ The **Info List** particle was placed within the **footer-a** module position. T
 
 ## Info List (Particle) 2
 
-The **Info List** particle was placed within the **footer-b** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Info List** particle is a **Gantry 5 Particle** module placed within the **footer-b** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -147,7 +147,7 @@ The **Info List** particle was placed within the **footer-b** module position. T
 
 ## Custom HTML (Particle)
 
-The **Custom HTML** particle was placed within the **footer-c** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the **footer-c** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -194,7 +194,7 @@ The **Custom HTML** particle was placed within the **footer-c** module position.
 
 ## Newsletter (Particle)
 
-The **Newsletter** particle was placed within the **footer-d** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Newsletter** particle is a **Gantry 5 Particle** module placed within the **footer-d** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 

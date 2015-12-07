@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Promo Content (Particle)
 
-The **Info List** particle was placed within the **overlay-top** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Info List** particle is a **Gantry 5 Particle** module placed within the **overlay-top** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -86,7 +86,7 @@ The **Info List** particle was placed within the **overlay-top** module position
 
 ## Pricing Table (Particle) 1
 
-The **Pricing Table** particle was placed within the **overlay-a** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Pricing Table** particle is a **Gantry 5 Particle** module placed within the **overlay-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -138,7 +138,7 @@ The **Pricing Table** particle was placed within the **overlay-a** module positi
 
 ## Pricing Table (Particle) 2
 
-The **Pricing Table** particle was placed within the **overlay-b** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Pricing Table** particle is a **Gantry 5 Particle** module placed within the **overlay-b** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -190,7 +190,7 @@ The **Pricing Table** particle was placed within the **overlay-b** module positi
 
 ## Pricing Table (Particle) 3
 
-The **Pricing Table** particle was placed within the **overlay-c** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Pricing Table** particle is a **Gantry 5 Particle** module placed within the **overlay-c** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
