@@ -33,7 +33,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Testimonial (Particle) 1
 
-The **Testimonial** particle was placed within the **bottom-a** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Testimonial** particle is a **Gantry 5 Particle** module placed within the **bottom-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
@@ -83,7 +83,7 @@ The **Testimonial** particle was placed within the **bottom-a** module position.
 
 ## Promo Content (Particle)
 
-The **Promo Content** particle was placed within the **bottom-b** module position. This was done to make it easier for users of the RocketLauncher to replace this item with a module if they so desired. It also makes it possible to set CSS classes and variations for the whole position rather than on a per-item basis. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module and assigning it to the position.
+The **Promo Content** particle is a **Gantry 5 Particle** module placed within the **bottom-b** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
