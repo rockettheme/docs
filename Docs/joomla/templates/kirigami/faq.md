@@ -29,10 +29,6 @@ What is Splitmenu?
 -----
 A static menu system that displays 1st level items in the main horizontal menu and further children in the Sidebar.
 
-What extensions are integrated with the template?
------
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokAjaxSearch, RokNavMenu, RokSprocket, and Third party extension K2.
-
 Can I install RocketLauncher on existing Joomla! website?
 -----
 No. RocketLauncher will install both Joomla and the demo sample content and images, so you will need a fresh Joomla! installation.

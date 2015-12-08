@@ -49,8 +49,6 @@ Panacea encapsulates stylistic freedom with its Color Chooser with 12 preset sty
 
 ### Article Controls
 
-![][article]
-
 The template extends the styling and abilities of Joomla Content. Firstly, there are controls for 3 Article Details layouts as well as 8 Article Styles; and secondly, Panacea also supports Ajax Loading for articles, meaning page refreshes are unnecessary for further articles.
 
 [gantry]: http://gantry.org

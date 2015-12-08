@@ -37,9 +37,8 @@ it is easy to bury your contact information under a mountain of useful info and 
 
 Remember: Your site should make it easy for people to not only determine if you are worth considering, but to contact you in the event that they want to take the next step.
 
-This means not only listing your email address and/or providing a contact form for visitors, but a phone number. You can get a free phone number and voicemail box from [Google Voice][voice] which can be forwarded to your phone, or checked periodically through your browser. Even a [Skype][skype] number will work for this purpose. Some companies prefer to call potential candidates than to email.
+This means not only listing your email address and/or providing a contact form for visitors, but a phone number. You can get a free phone number and voicemail box from [Skype][skype] which can be forwarded to your phone, or checked periodically through your browser.
 
 Personal portfolios can be a powerful tool to attract new clients and potentially even a full-time employer. The time you spend building it and making it just right can certainly pay off for you down the road. Just remember, the devil is in the details.
 
-[skype]: http://skype.com
-[voice]: http://voice.google.com
+[skype]: http://www.skype.com/en/
