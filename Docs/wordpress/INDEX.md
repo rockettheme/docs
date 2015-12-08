@@ -130,3 +130,21 @@ more:
 	- [Crystalline](themes/crystalline)
 	- [Dominion](themes/dominion)
 	- [Reaction](themes/reaction)
+
+<!-- -->
+
+* Basic Tutorials (Gantry 5)
+
+	- [How to Install a Gantry 5 Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+	- [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
+	- [Adding a Custom Stylesheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
+	- [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-font)
+	- [Customizing the Error Page](http://docs.gantry.org/gantry5/tutorials/customize-the-error-page)
+	- [Using the Font Picker](http://docs.gantry.org/gantry5/tutorials/using-the-font-picker)
+	- [Using the Color Picker](http://docs.gantry.org/gantry5/tutorials/using-the-color-picker)
+	- [Using the Icon Picker](http://docs.gantry.org/gantry5/tutorials/using-the-icon-picker)
+	- [Creating a New Particle](http://docs.gantry.org/gantry5/advanced/creating-a-new-particle)
+	- [Particle YAML Field Types](http://docs.gantry.org/gantry5/advanced/particle-yaml-field-types)
+	- [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
+	- [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
+	- [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
