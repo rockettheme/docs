@@ -78,7 +78,7 @@ You will want to make sure that the **Configuration Scope** is set to the theme 
 How to Install
 -----
 
-You can download a zip package from the RokMage Extensions [downloads page][download].
+You can download a zip package from the RokMage Extensions using the **Download** button above..
 
 Once you have downloaded and unzipped the extension package, you will notice that the folder structure for the files has been included. This means you can simply copy the files/folders over to the corresponding folder of your Magento site, if developing locally. 
 
@@ -94,7 +94,7 @@ Magento uses a hierarchy system. Adding the files in the **base** folder will wo
 >> If you download a RocketTheme Magento template, the extension files will all be included in the theme package folder, not the base folder.
 
 [installation]: assets/installation.jpg
-[download]: http://www.rockettheme.com/magento-downloads/1807-extension
+[download]: http://www.rockettheme.com/magento/extensions//modal/downloads
 [extension1]: assets/extension_1.jpeg
 [extension2]: assets/extension_2.jpeg
 [extension3]: assets/extension_3.jpeg

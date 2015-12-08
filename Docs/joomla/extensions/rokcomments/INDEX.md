@@ -34,7 +34,7 @@ Key Features
 * [Facebook][fb]
 * [Disqus][dq]
 * [Livefyre][lf]
-* [JS-Kit][jk] DEPRECATED
+* JS-Kit **DEPRECATED**
 
 ### Typical Comment System Features
 

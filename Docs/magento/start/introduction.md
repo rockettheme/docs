@@ -154,6 +154,6 @@ Magento has hundreds of features available in the Community Edition, including I
 The goal behind the creation of Magento was to build an e-commerce platform that accomplishes all the tasks commonly associated with solutions that run thousands, or tens of thousands of dollars to operate.
 
 [intro]: assets/introduction_1.jpg
-[features]: http://www.magentocommerce.com/images/uploads/magento-feature-list.pdf
+[features]: http://info2.magento.com/rs/magentoenterprise/images/Magento%20Full%20Features%20List%20052714.pdf
 [community]: http://www.magentocommerce.com/download
 [enterprise]: http://magento.com/products/enterprise-edition
