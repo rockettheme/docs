@@ -97,6 +97,8 @@ In order to make it really easy to replicate the home page, we included two layo
 
 The other preset is called **Home - Positions** and this is used in our demo by default in the RocketLauncher. This option creates module positions which give you a little more flexibility to swap out demo particles with standard Joomla modules. Keep in mind that this Layout Preset will not fill in the **Gantry 5 Particle** modules, only the module positions we used in the layout for the demo. We've included this documentation to help you recreate specific elements if you opt to go with this layout preset on an existing site.
 
+You can access the presets by selecting **Load** in the **Layout Manager**.
+
 Template Settings
 -----
 
