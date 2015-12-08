@@ -15,7 +15,7 @@ The **Bottom** section includes one **Testimonials** particle.
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Testimonials (particle)](#block-content-(particle))
+* [Testimonials (particle)](#testimonials-(particle))
 
 ## Section Settings
 
