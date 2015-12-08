@@ -156,4 +156,4 @@ The goal behind the creation of Magento was to build an e-commerce platform that
 [intro]: assets/introduction_1.jpg
 [features]: http://www.magentocommerce.com/images/uploads/magento-feature-list.pdf
 [community]: http://www.magentocommerce.com/download
-[enterprise]: http://www.magentocommerce.com/product/enterprise-edition?icid=uninav
+[enterprise]: http://magento.com/products/enterprise-edition
