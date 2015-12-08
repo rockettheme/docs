@@ -168,7 +168,7 @@ You can purchase site licenses from the [Join a Club][join] page. If you renew w
 If you have purchased a single template, rather than a Club membership, you can gain additional licenses by purchasing the template again. Each purchase gives you one site license to use.
 
 [help]: http://www.rockettheme.com/help
-[rockettheme]: www.rockettheme.com
-[demo]: demo.rockettheme.com
+[rockettheme]: http://www.rockettheme.com
+[demo]: http://demo.rockettheme.com
 [join]: http://www.rockettheme.com/join-a-club
 [licenses]: http://www.rockettheme.com/legal/license.php
