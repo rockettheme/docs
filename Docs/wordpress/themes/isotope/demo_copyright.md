@@ -19,7 +19,7 @@ The **Copyright** section includes three particles, **Branding**, **Copyright**,
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
-* [Branding (particle)](#logo-(particle))
+* [Branding (particle)](#branding-(particle))
 * [Copyright (Particle)](#copyright-(particle))
 * [To Top (particle)](#to-top-(particle))
 
