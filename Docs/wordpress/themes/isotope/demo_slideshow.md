@@ -27,7 +27,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes      | Blank                     |
 | Tag Attributes   | Blank                     |
 
-## Widget Position (Slideshow)
+## FlexSlider (Particle)
 
 ### Particle Settings
 
