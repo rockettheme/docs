@@ -1,7 +1,7 @@
 ---
 title: Somaxiom: Widget Positions
 description: Your Guide to Widget Positions in the Somaxiom Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/somaxiom:Somaxiom
+breadcrumb: /wordpress:WordPress/!themes:Themes/somaxiom:Somaxiom
 
 ---
 

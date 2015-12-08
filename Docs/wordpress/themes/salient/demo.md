@@ -1,7 +1,7 @@
 ---
 title: Salient: Recreating the Demo
 description: Your Guide to Recreating Elements of the Salient Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/salient:Salient
+breadcrumb: /wordpress:WordPress/!themes:Themes/salient:Salient
 
 ---
 
@@ -10,9 +10,9 @@ Introduction
 
 Recreating features of the demo site used to show off some of the more interesting aspects of Salient can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Salient Template.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Salient Theme.
 
-Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
@@ -84,7 +84,7 @@ Many of these plugins are included with the Salient RocketLauncher, and can be d
 Recreating the Front Page
 -----
 
-The front page of the Salient demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Salient demo.
+The front page of the Salient demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Salient demo.
 
 Theme Settings
 -----

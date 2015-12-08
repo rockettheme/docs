@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Front Page Layout
-description: Your Guide to the Front Page Layout in the Ambrosia Template for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+description: Your Guide to the Front Page Layout in the Ambrosia Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Salient: FAQ
-description: Your Guide to Using the Salient Template for WordPress
+description: Your Guide to Using the Salient Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/salient:Salient
 
 ---
@@ -18,7 +18,7 @@ What is RokSprocket?
 What is Gantry?
 -----
 
-[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme theme. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.
 
 Can I install RocketLauncher onto an existing WordPress! website?
 -----
@@ -31,5 +31,5 @@ I installed Salient RocketLauncher but the images are different with the demo si
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry.org/
-[forum]: http://www.rockettheme.com/forum/wordpress-template-salient
+[forum]: http://www.rockettheme.com/forum/wordpress-theme-salient
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket

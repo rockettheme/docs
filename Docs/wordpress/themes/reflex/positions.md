@@ -1,7 +1,7 @@
 ---
 title: Reflex: Widget Positions
 description: Your Guide to Widget Positions in the Reflex Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/reflex:Reflex
+breadcrumb: /wordpress:WordPress/!themes:Themes/reflex:Reflex
 
 ---
 

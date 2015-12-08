@@ -1,7 +1,7 @@
 ---
 title: Juxta: Widget Positions
 description: Your Guide to Widget Positions in the Juxta Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/juxta:Juxta
+breadcrumb: /wordpress:WordPress/!themes:Themes/juxta:Juxta
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Recreating the Demo - Footer Section
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
@@ -48,7 +48,7 @@ Settings used in our demo for each of these particles can be found below.
 | Title                           | `Useful Links`                                              |
 | Intro                           | Blank                                                       |
 | Grid Column                     | 1 Column                                                    |
-| Info List Item 1 Name           | `Online Guides for the Ambrosia Template`                   |
+| Info List Item 1 Name           | `Online Guides for the Ambrosia Theme`                   |
 | Info List Item 1 Image Location | Left                                                        |
 | Info List Item 1 Text Style     | Compact                                                     |
 | Info List Item 1 Image Style    | Compact                                                     |
@@ -56,7 +56,7 @@ Settings used in our demo for each of these particles can be found below.
 | Info List Item 1 Tag            | Blank                                                       |
 | Info List Item 1 Sub Tag        | Blank                                                       |
 | Info List Item 1 Label          | Blank                                                       |
-| Info List Item 1 Link           | `http://www.rockettheme.com/docs/wordpress/templates/ambrosia` |
+| Info List Item 1 Link           | `http://www.rockettheme.com/docs/wordpress/themes/ambrosia` |
 | Info List Item 1 Icon           | Blank                                                       |
 | Info List Item 1 CSS Classes    | Blank                                                       |
 

@@ -1,7 +1,7 @@
 ---
 title: Reaction: Widget Positions
 description: Your Guide to Widget Positions in the Reaction Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/reaction:Reaction
+breadcrumb: /wordpress:WordPress/!themes:Themes/reaction:Reaction
 
 ---
 

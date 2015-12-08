@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!templates:Templates/!ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ambrosia:Ambrosia
 
-details: http://www.rockettheme.com/wordpress/templates/ambrosia/
-demo: http://demo.rockettheme.com/wordpress-templates/ambrosia/
-download: http://www.rockettheme.com/wordpress/templates/ambrosia/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-template-ambrosia/
+details: http://www.rockettheme.com/wordpress/themes/ambrosia/
+demo: http://demo.rockettheme.com/wordpress-themes/ambrosia/
+download: http://www.rockettheme.com/wordpress/themes/ambrosia/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-ambrosia/
 
 ---
 
@@ -13,8 +13,8 @@ support: http://www.rockettheme.com/forum/wordpress-template-ambrosia/
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
-    * [How to Install](../../platform/templates.md#how-to-install)
-        * [Installing the Template](../../platform/templates.md#how-to-install-a-wordpress-template)
+    * [How to Install](../../platform/themes.md#how-to-install)
+        * [Installing the Theme](../../platform/themes.md#how-to-install-a-wordpress-theme)
         * [RocketLauncher (3.x)](../../platform/install_wordpress_3x.md)
         * [Installing Plugins](../../platform/plugins.md#how-to-install-an-plugin)
     * [Recreate the Demo](demo.md)
@@ -43,7 +43,7 @@ support: http://www.rockettheme.com/forum/wordpress-template-ambrosia/
             * [Blog](blog.md)
             * [Coming Soon](comingsoon.md)
     * [FAQ](faq.md)
-* Template Tutorials
+* Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
     - [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
@@ -56,7 +56,7 @@ support: http://www.rockettheme.com/forum/wordpress-template-ambrosia/
     - [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
     - [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
-    - [Template Font Index](../../../technical_tips/general/font_index.md)
+    - [Theme Font Index](../../../technical_tips/general/font_index.md)
 * Useful Plugin Guides
     - [RokAjaxSearch](../../plugins/rokajaxsearch/)
     - [RokBooster](../../plugins/rokbooster/)

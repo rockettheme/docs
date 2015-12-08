@@ -1,7 +1,7 @@
 ---
 title: Requiem: Recreating the Demo - Coming Soon Page
 description: Your Guide to Recreating Elements of the Requiem Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/requiem:Requiem
+breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
 
 ---
 

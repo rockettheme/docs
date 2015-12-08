@@ -1,7 +1,7 @@
 ---
 title: Radiance: Widget Positions
 description: Your Guide to Widget Positions in the Radiance Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/radiance:Radiance
+breadcrumb: /wordpress:WordPress/!themes:Themes/radiance:Radiance
 
 ---
 

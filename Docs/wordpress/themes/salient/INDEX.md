@@ -1,14 +1,14 @@
 ---
 title: Salient
-description: Your Guide to Using the Salient Template for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/!salient:Salient
+description: Your Guide to Using the Salient Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!salient:Salient
 
 ---
 
 Introduction
 -----
 
-Salient is an admirable, clean design with a fresh approach for the ever-changing Web. Integrated with the modern Gantry 5 template framework, it is infinitely customizable, incredibly powerful, and remarkably simple. Download it today!
+Salient is an admirable, clean design with a fresh approach for the ever-changing Web. Integrated with the modern Gantry 5 theme framework, it is infinitely customizable, incredibly powerful, and remarkably simple. Download it today!
 
 
 ![](assets/salient.png)

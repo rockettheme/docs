@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Recreating the Demo - Bottom Section
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
