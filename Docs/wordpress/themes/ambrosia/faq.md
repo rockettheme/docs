@@ -1,6 +1,6 @@
 ---
 title: Ambrosia: FAQ
-description: Your Guide to Using the Ambrosia Template for WordPress
+description: Your Guide to Using the Ambrosia Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
@@ -18,7 +18,7 @@ What is RokSprocket?
 What is Gantry?
 -----
 
-[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme theme. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.
 
 Can I install RocketLauncher onto an existing WordPress! website?
 -----
@@ -31,5 +31,5 @@ I installed Ambrosia RocketLauncher but the images are different with the demo s
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry.org/
-[forum]: http://www.rockettheme.com/forum/wordpress-template-ambrosia
+[forum]: http://www.rockettheme.com/forum/wordpress-theme-ambrosia
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket

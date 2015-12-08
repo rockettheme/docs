@@ -1,7 +1,7 @@
 ---
 title: Mercado: Widget Positions
 description: Your Guide to Widget Positions in the Mercado Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/mercado:Mercado
+breadcrumb: /wordpress:WordPress/!themes:Themes/mercado:Mercado
 
 ---
 

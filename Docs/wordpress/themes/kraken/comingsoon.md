@@ -1,7 +1,7 @@
 ---
 title: Kraken: Recreating the Demo - Coming Soon Page
 description: Your Guide to Recreating Elements of the Kraken Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/kraken:Kraken
+breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 
 ---
 

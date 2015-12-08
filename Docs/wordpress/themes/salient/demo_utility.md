@@ -1,7 +1,7 @@
 ---
 title: Salient: Recreating the Demo - Utility Section
 description: Your Guide to Recreating Elements of the Salient Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/salient:Salient
+breadcrumb: /wordpress:WordPress/!themes:Themes/salient:Salient
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Salient: Recreating the Demo - SlideLeft, SlideCenter, and SlideRight Sections
 description: Your Guide to Recreating Elements of the Salient Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/salient:Salient
+breadcrumb: /wordpress:WordPress/!themes:Themes/salient:Salient
 
 ---
 
@@ -73,14 +73,14 @@ You will find the particle settings used in this particle below:
 
 | Option           | Setting          |
 | :-----           | :-----           |
-| Particle Name    | `100+ Templates` |
+| Particle Name    | `100+ Themes` |
 | CSS Classes      | Blank            |
 | Background Color | Accent 2         |
 | Animation        | Animation 1      |
 | Headline         | Blank            |
 | Image            | Custom           |
 | Headline         | `100+`           |
-| Description      | `Templates`      |
+| Description      | `Themes`      |
 | Read More        | `&rarr;`         |
 | Link             | `#`              |
 | Button           | Blank            |

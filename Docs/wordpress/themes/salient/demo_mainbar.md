@@ -1,7 +1,7 @@
 ---
 title: Salient: Recreating the Demo - Sidebar / Mainbar / Aside Sections
 description: Your Guide to Recreating Elements of the Salient Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/salient:Salient
+breadcrumb: /wordpress:WordPress/!themes:Themes/salient:Salient
 
 ---
 
@@ -72,7 +72,7 @@ You will find the particle settings used in this particle below:
 | Content Item 1 Icon        | Blank                                                                                                                          |
 | Content Item 1 Image       | Custom                                                                                                                         |
 | Content Item 1 Sub Title   | `<a href="#">01.</a>`                                                                                                          |
-| Content Item 1 Description | `The Styles settings allows for customizing the stylistic elements of the template, such as links, font or background colors.` |
+| Content Item 1 Description | `The Styles settings allows for customizing the stylistic elements of the theme, such as links, font or background colors.` |
 | Content Item 1 Variations  | Blank                                                                                                                          |
 
 #### Block Settings

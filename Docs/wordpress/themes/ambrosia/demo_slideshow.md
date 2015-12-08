@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Recreating the Demo - Slideshow Section
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
@@ -86,7 +86,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Option      | Setting                                              |
 | :-----      | :-----                                               |
 | Title       | `A fully flexible theme experience via Gantry 5`     |
-| Description | `A powerful and versatile modern template framework` |
+| Description | `A powerful and versatile modern theme framework` |
 | Image       | Custom                                               |
 | Link        | None                                                 |
 

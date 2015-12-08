@@ -1,7 +1,7 @@
 ---
 title: Entropy: Widget Positions
 description: Your Guide to Widget Positions in the Entropy Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/entropy:Entropy
+breadcrumb: /wordpress:WordPress/!themes:Themes/entropy:Entropy
 
 ---
 

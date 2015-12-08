@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!templates:Templates/!salient:Salient
+breadcrumb: /wordpress:WordPress/!themes:Themes/!salient:Salient
 
-details: http://www.rockettheme.com/wordpress/templates/salient/
-demo: http://demo.rockettheme.com/wordpress-templates/salient/
-download: http://www.rockettheme.com/wordpress/templates/salient/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-template-salient/
+details: http://www.rockettheme.com/wordpress/themes/salient/
+demo: http://demo.rockettheme.com/wordpress-themes/salient/
+download: http://www.rockettheme.com/wordpress/themes/salient/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-salient/
 
 ---
 

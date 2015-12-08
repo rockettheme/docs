@@ -1,7 +1,7 @@
 ---
 title: Crystalline: Widget Positions
 description: Your Guide to Widget Positions in the Crystalline Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/crystalline:Crystalline
+breadcrumb: /wordpress:WordPress/!themes:Themes/crystalline:Crystalline
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Recreating the Demo - Mainbar Section
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
@@ -426,7 +426,7 @@ In this section, we will cover one of the embedded particles that appear in the 
 | Info List Item 1 Image Location | Left                                                                                                               |
 | Info List Item 1 Text Style     | Large                                                                                                              |
 | Info List Item 1 Image Style    | Compact                                                                                                            |
-| Info List Item 1 Description    | `Gantry 5 is an advanced, versatile and multi-platform template framework, perfectly designed for the modern web.` |
+| Info List Item 1 Description    | `Gantry 5 is an advanced, versatile and multi-platform theme framework, perfectly designed for the modern web.` |
 | Info List Item 1 Tag            | Blank                                                                                                              |
 | Info List Item 1 Sub Tag        | `Drag and Drop Functionality`                                                                                      |
 | Info List Item 1 Label          | Blank                                                                                                              |

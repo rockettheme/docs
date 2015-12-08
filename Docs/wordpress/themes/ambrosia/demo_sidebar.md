@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: Recreating the Demo - Sidebar Section
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
@@ -136,7 +136,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 | Title       | `Twig Templating`                                                                                                                           |
 | Image       | None                                                                                                                                        |
 | Link        | None                                                                                                                                        |
-| Description | `Gantry 5 utilizes Twig - a flexible, fast, and secure template engine for PHP - to make creating powerful, dynamic themes quick and easy.` |
+| Description | `Gantry 5 utilizes Twig - a flexible, fast, and secure theme engine for PHP - to make creating powerful, dynamic themes quick and easy.` |
 
 ##### Item 3
 

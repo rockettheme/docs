@@ -1,7 +1,7 @@
 ---
 title: Momentum: Widget Positions
 description: Your Guide to Widget Positions in the Momentum Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/momentum:Momentum
+breadcrumb: /wordpress:WordPress/!themes:Themes/momentum:Momentum
 
 ---
 

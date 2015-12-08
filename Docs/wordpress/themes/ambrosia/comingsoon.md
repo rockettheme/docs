@@ -1,13 +1,13 @@
 ---
 title: Ambrosia: Recreating the Demo - Coming Soon Page
 description: Your Guide to Recreating Elements of the Ambrosia Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/ambrosia:Ambrosia
+breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
 ## Introduction
 
-The **Coming Soon** example page demonstrates how you can create and assign a useful Coming Soon page for your template. 
+The **Coming Soon** example page demonstrates how you can create and assign a useful Coming Soon page for your theme. 
 
 In this guide, we will go over how to create a new theme outline for the Coming Soon page, configure the **Simple Counter** particle, and assign the coming soon outline to your home page.
 

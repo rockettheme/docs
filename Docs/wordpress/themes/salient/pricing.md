@@ -107,7 +107,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/salient">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/themes/salient">Sign Up</a>
         </li>
       </ul>
     </div>
@@ -134,7 +134,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/salient">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/themes/salient">Sign Up</a>
         </li>
       </ul>
     </div>
@@ -161,7 +161,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
         <li class="g-pricingtable-item">Unlimited Departments
         </li>
         <li class="g-pricingtable-cta">
-          <a class="button button-3" href="http://www.rockettheme.com/joomla/templates/salient">Sign Up</a>
+          <a class="button button-3" href="http://www.rockettheme.com/joomla/themes/salient">Sign Up</a>
         </li>
       </ul>
     </div>

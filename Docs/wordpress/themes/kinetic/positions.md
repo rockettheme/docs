@@ -1,7 +1,7 @@
 ---
 title: Kinetic: Widget Positions
 description: Your Guide to Widget Positions in the Kinetic Theme for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/kinetic:Kinetic
+breadcrumb: /wordpress:WordPress/!themes:Themes/kinetic:Kinetic
 
 ---
 

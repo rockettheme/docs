@@ -1,7 +1,7 @@
 ---
 title: Ambrosia
-description: Your Guide to Using the Ambrosia Template for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/!ambrosia:Ambrosia
+description: Your Guide to Using the Ambrosia Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!ambrosia:Ambrosia
 
 ---
 

@@ -63,7 +63,7 @@ RokSprocket Tabs in Spectral, allows for the replacement of text tabs with icons
 [gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [download]: http://www.rockettheme.com/wordpress-downloads/club/3516-Spectral
-[Spectral]: assets/Spectral.jpeg
+[Spectral]: assets/spectral.jpeg
 [chart]: assets/chart.jpeg
 [roksprocket]: assets/roksprocket.jpg
 [filezilla]: https://filezilla-project.org
