@@ -19,7 +19,7 @@ A static menu system that displays 1st level items in the main horizontal menu a
 
 What extensions are integrated with the template?
 -----
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokNewsPager, RokNavMenu, RokBox, RokCandy, and RokGZipper.
+A few of our RocketTheme extensions have been given individual styling by the template, these are RokNewsPager, RokNavMenu, RokBox, RokCandy, and RokGZipper.
 
 [gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-Templates/mercado/features

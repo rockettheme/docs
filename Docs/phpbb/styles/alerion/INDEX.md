@@ -40,11 +40,7 @@ Features
 NOTE: **RokBB 5+** is required for Alerion to work correctly. For more details on installing RokBB, please visit the [Administrative Module installation guide](../../start/styles.md#installing-administrative-modules). Also, this style presently only supports phpBB 3.0 and is not currently available for phpBB 3.1.
 
 
-### RokBridge Support
 
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
-
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
 
 ### Responsive Layout
 

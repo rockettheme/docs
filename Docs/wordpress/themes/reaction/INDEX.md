@@ -21,7 +21,7 @@ Requirements
 * WordPress 3.2+, 4.0+
 * Gantry Framework
 
->> NOTE: Gantry v1.30+ is required for Reaction to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: An updated version of the Gantry 4 Framework is required for Reaction to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
@@ -38,7 +38,7 @@ Key Features
 
 ### Gantry Framework
 
-![][gantry]
+![][gantry2]
 
 The Gantry Framework allows for a much more efficient, more powerful underlying system; that can transcend to other platforms with ease. The main features are its 960 Grid system, and its advanced administrative control panel, with many other features.
 
@@ -51,6 +51,6 @@ The Fusion Menu is effectively an advanced, CSS based menu system, which offers 
 [gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [reaction]: assets/reaction.jpeg
-[gantry]: assets/gantry.jpg
+[gantry2]: assets/gantry.jpg
 [fusion]: assets/fusion.jpg
 [bootstrap]: http://twitter.github.com/bootstrap/

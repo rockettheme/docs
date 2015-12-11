@@ -89,7 +89,7 @@ Frequently Asked Questions
 
 ### How are Non-Profits exempt from site licenses?
 
-If the site you are setting up is for a Non-Profit organization, which is given its non-profit status from national law, then you do not require a site license for the install. For more information on our Non-Profit definition, please see our [main Help page][help]. 
+If the site you are setting up is for a Non-Profit organization, which is given its non-profit status from national law, then you do not require a site license for the install.
 
 Example: If you have three site licenses, and you have set up three sites with our templates, you can still setup a fourth site, if it is for a non-profit organization, without the need to purchase more site licenses. 
 
