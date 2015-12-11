@@ -15,7 +15,7 @@ Fusion Menu is a menu theme of the RokNavMenu extension, the addon that drives m
 
 What extensions are integrated with the template?
 -----
-A few of our [RocketTheme extensions][extensions] have been given individual styling by the template, these are RokNavMenu and RokGallery.
+A few of our RocketTheme extensions have been given individual styling by the template, these are RokNavMenu and RokGallery.
 
 [gantry]: http://gantry.org/
 [features]: http://demo.rockettheme.com/joomla-templates/modulus/features

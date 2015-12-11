@@ -44,11 +44,7 @@ Oculus supports WebFonts-based scalable vector icons. No images are used in this
 
 For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
 
-### RokBridge Support
 
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
-
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page][rokbridge] for support and latest news.
 
 ### Responsive Layout
 

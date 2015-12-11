@@ -80,7 +80,7 @@ Graffito comes with the RokSprocket extension that is built to work with a respo
 K2 is the popular powerful content extension for Joomla! with CCK-like features. Graffito also comes with the K2 styling support that is built to work with the responsive layout.
 
 [gantry]: http://gantry.org
-[Graffito]: assets/Graffito2.jpeg
+[Graffito]: assets/graffito2.jpeg
 [responsive]: assets/responsive.jpg
 [gantry4]: assets/gantry4.jpg
 [filezilla]: https://filezilla-project.org

@@ -25,7 +25,7 @@ Requirements
 * WordPress 3.2+, 4.0+
 * Gantry Framework
 
->> NOTE: Gantry v1.30+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: An updated version of the Gantry 4 Framework is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----

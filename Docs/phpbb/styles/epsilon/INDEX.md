@@ -56,11 +56,7 @@ Epsilon supports WebFonts-based scalable vector icons. No images are used in thi
 
 For example: Installing matching language imagesets is not needed as we removed text and replaced it with pictographic language.
 
-### RokBridge Support
 
-![][rokbridge]
-
-RokBridge is a non-invasive, bi-directional bridge for Joomla and phpBB3. It allows for the easy integration of the two platforms, providing registration, user syncing and login sessions syncing. The bridge is a Joomla application and not a component, so it runs standalone for performance purposes. Please visit the [RokBridge product page][rokbridge] for support and latest news.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/epsilon.jpg

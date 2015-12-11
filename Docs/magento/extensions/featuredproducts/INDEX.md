@@ -9,8 +9,6 @@ breadcrumb: /magento:Magento/!extensions:Extensions/!featuredproducts:FeaturedPr
 Introduction
 -----
 
-![][demo]
-
 The **FeaturedProducts** module makes it easier for you to define your featured products. From the config section, you can use the dropdown to select 1 of 3 different ways that you can choose the products. For example, you can choose from a selected category, from an attribute, or from a multi-select list of all the products in the store.
 
 #### Featured Category
