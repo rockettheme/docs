@@ -69,7 +69,7 @@ You will need to enter the following in the main text field.
         <ul class="fp-footer-menu rt-uppercase">
             <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/logo-editing/">Logo <span class="hidden-tablet">Editing</span></a></li>
             <li><a href="http://www.rockettheme.com/forum/index.php?f=844&amp;rb_v=viewforum"><span class="hidden-tablet">Forum</span> Guides</a></li>
-            <li><a href="http://www.gantry-framework.org/documentation">Gantry</a></li>                     
+            <li><a href="http://docs.gantry.org/">Gantry</a></li>                     
             <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/preset-styles/">Preset Styles</a></li>
             <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/sed-imperdiet-ligula-nisi/">Sample Post</a></li>
             <li><a href="http://demo.rockettheme.com/wordpress-themes/wp_corvus/sample-page-2/"><span class="hidden-tablet">Dummy</span> Page</a></li>

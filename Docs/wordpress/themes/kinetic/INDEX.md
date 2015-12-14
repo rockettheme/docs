@@ -20,7 +20,7 @@ Requirements
 * PHP 5.2.17+ (5.3+ recommended)
 * WordPress 3.2+, 4.0+
 
-> > NOTE: An updated version of RokCommon is required for Kinetic to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
+> > NOTE: An updated version of RokCommon is required for Kinetic to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
 
 Key Features
 ------------

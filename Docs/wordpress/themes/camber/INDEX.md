@@ -20,7 +20,7 @@ Requirements
 - PHP 5.2.17+ (5.3+ recommended)
 - WordPress 3.x
 
-> > NOTE: An updated version of RokCommon is required for Camber to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry-framework.org/).
+> > NOTE: An updated version of RokCommon is required for Camber to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
 
 Key Features
 ------------
