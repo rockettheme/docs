@@ -120,6 +120,7 @@ more:
 	- [Mercado](themes/mercado)
 	- [Maelstrom](themes/maelstrom)
 	- [Syndicate](themes/syndicate)
+	- [Paradox](themes/paradox)
 	- [Hybrid](themes/hybrid)
 	- [Omnicron](themes/omnicron)
 	- [Zephyr](themes/zephyr)

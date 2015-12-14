@@ -72,7 +72,7 @@ The widget should now be created and ready for use on the front page of your Wor
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
-<p>A feature of Corvus is the <strong>expanded</strong> widget. Any widget that has the <strong>expanded</strong> widget custom variation applied to it, will expand and contract based on window <strong>scroll</strong>. The feature is best applied in the <strong>showcase</strong> position, with a full width widget, as demoed currently. The <strong>overlap</strong> effect below, is via CSS and can be customized through the <a href="http://www.gantry-framework.org/documentation/wordpress/tutorials/custom_stylesheet.md">custom stylesheet process</a>, depending on your content needs.</p>
+<p>A feature of Corvus is the <strong>expanded</strong> widget. Any widget that has the <strong>expanded</strong> widget custom variation applied to it, will expand and contract based on window <strong>scroll</strong>. The feature is best applied in the <strong>showcase</strong> position, with a full width widget, as demoed currently. The <strong>overlap</strong> effect below, is via CSS and can be customized through the <a href="http://docs.gantry.org/wordpress/tutorials/custom_stylesheet.md">custom stylesheet process</a>, depending on your content needs.</p>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.
