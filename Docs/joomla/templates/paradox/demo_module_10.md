@@ -45,6 +45,6 @@ Here is the **Article Text** we used:
 
 Once this article is created and set to **Featured**, it should appear on the front page.
 
-[demo]: assets/demo_12.jpeg
+[demo]: assets/demo_10.jpeg
 [advanced]: assets/advanced.jpeg
 [menu]: assets/menu.jpeg

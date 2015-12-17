@@ -116,6 +116,6 @@ You can find extensive documentation listing the different elements found here o
 
 [chartjs]: http://chartjs.org
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
-[chart_1]: assets/chart.jpeg
+[chart_1]: assets/chart.png
 [chart_2]: assets/demo_3.jpeg
 [list]: http://demo.rockettheme.com/wordpress-themes/Lexicon/features/typography

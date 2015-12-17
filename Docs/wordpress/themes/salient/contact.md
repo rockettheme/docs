@@ -161,7 +161,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Aside Section
 
-![](assets/page_contact_3.png)
+![](assets/page_contact_5.png)
 
 The **Aside** section is set to `20`% width.
 
@@ -285,7 +285,7 @@ This area of the page is an **Infolist** particle. You will find the settings us
 
 ## Bottom Section
 
-![](assets/page_contact_4.png)
+![](assets/page_contact_7.png)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 

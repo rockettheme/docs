@@ -84,5 +84,5 @@ Enter the following in the **Custom Output** text editor.
 
 [demo]: assets/demo_7.jpeg
 [demo2]: assets/utility_1.jpeg
-[demo3]: assets/utility_3.jpeg
-[demo4]: assets/utility_4.jpeg
+[demo3]: assets/utility_2.jpeg
+[demo4]: assets/utility_3.jpeg

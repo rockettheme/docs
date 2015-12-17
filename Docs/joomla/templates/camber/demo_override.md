@@ -9,7 +9,7 @@ Template Settings
 -----
 One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Camber Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
-![][Camber2]
+![][camber2]
 
 :   1. **Logo** [10%, 20%, se]
     2. **Menu** [5%, 20%, se]
@@ -128,7 +128,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :---- | :-------- | :------ |  
 | Home  | Main Menu | Home    |  
 
-[demo25]: assets/Camber.jpg
+[demo25]: assets/camber.jpg
 [menu]: ../../start/menu.md
 [Style]: http://docs.gantry.org/gantry4/configure
-[Camber2]: assets/Camber2.jpeg
+[camber2]: assets/camber2.jpeg

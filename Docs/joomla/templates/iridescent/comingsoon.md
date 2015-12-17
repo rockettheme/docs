@@ -66,5 +66,5 @@ RT_COMINGSOON_MESSAGE
 Once this is done, place your desired text in the Text box to display your text.
 
 [comingsoon]: assets/comingsoon.jpeg
-[comingsoon2]: assets/setfeatuees_jpeg
+[comingsoon2]: assets/setfeatures_jpeg
 [feedburner]: http://theedublogger.com/2010/01/26/setting-up-feedburner-rss-and-email-subscription-for-your-blog/

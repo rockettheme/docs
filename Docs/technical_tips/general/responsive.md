@@ -26,7 +26,7 @@ A responsive site is even easier to test since all you need to do to see the dif
 How RocketTheme Uses Responsive Design
 -----
 
-RocketTheme has been creating responsive templates, styles, and themes since January of 2012. The Gantry framework has supported a responsive grid system for both [Joomla](http://docs.gantry.org/gantry4/joomla/advanced/responsive_grid_system.md) and [WordPress](http://docs.gantry.org/gantry4/wordpress/advanced/responsive_grid_system.md), as well. As of Gantry 4.0, [Twitter's Bootstrap][bootstrap] responsive grid system has been integrated with Gantry's core featureset.
+RocketTheme has been creating responsive templates, styles, and themes since January of 2012. The Gantry framework has supported a responsive grid system for both Joomla and WordPress, as well. As of Gantry 4.0, [Twitter's Bootstrap][bootstrap] responsive grid system has been integrated with Gantry's core featureset.
 
 ### Responsive Grid
 

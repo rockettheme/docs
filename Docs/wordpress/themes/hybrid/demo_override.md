@@ -118,9 +118,9 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Front Page  | Template Page Types | Home Page, Front Page |
 
 [override]: http://docs.gantry.org/gantry4/configure
-[style]: assets/setstyle.jpeg
-[assignments]: assets/setassignments.jpg
-[advanced]: assets/setadvanced.jpeg
-[mobile]: assets/setmobile.jpeg
-[layouts]: assets/setlayouts.jpeg
-[gizmos]: assets/setgizmos.jpeg
+[style]: assets/setstyle.png
+[assignments]: assets/setassignments.png
+[advanced]: assets/setadvanced.png
+[mobile]: assets/setiphone.png
+[layouts]: assets/setlayouts.png
+[gizmos]: assets/setgizmos.png

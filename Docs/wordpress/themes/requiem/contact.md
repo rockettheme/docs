@@ -76,7 +76,7 @@ TThis area of the page is an **Info List** particle. You will find the settings 
 
 ## Showcase Section
 
-![](assets/page_contact_10.jpeg)
+![](assets/page_contact_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -133,7 +133,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Mainbar Section
 
-![](assets/page_contact_2.jpeg)
+![](assets/page_contact_3.jpeg)
 
 The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
@@ -167,7 +167,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Aside Section
 
-![](assets/page_contact_3.jpeg)
+![](assets/page_contact_4.jpeg)
 
 The **Aside** section is set to `20`% width.
 
@@ -240,7 +240,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Extension Section
 
-![](assets/page_contact_11.jpeg)
+![](assets/page_contact_5.jpeg)
 
 This area of the page is an **Infolist** particle. You will find the settings used in our demo below.
 
@@ -291,7 +291,7 @@ This area of the page is an **Infolist** particle. You will find the settings us
 
 ## Bottom Section
 
-![](assets/page_contact_4.jpeg)
+![](assets/page_contact_7.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -327,7 +327,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.jpeg)
+![](assets/page_aboutus_6.png)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]

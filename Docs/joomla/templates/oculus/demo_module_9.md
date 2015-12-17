@@ -64,7 +64,7 @@ We used a **RokSprocket** module with the **Lists** layout to make up the conten
 
 
 [demo]: assets/demo_module_5.jpeg
-[demo2]: assets/extras_2.jpeg
-[demo3]: assets/extras_3.jpeg
-[demo4]: assets/extras_4.jpeg
-[demo5]: assets/extras_5.jpeg
+[demo2]: assets/extras_1.jpeg
+[demo3]: assets/extras_2.jpeg
+[demo4]: assets/extras_3.jpeg
+[demo5]: assets/extras_4.jpeg

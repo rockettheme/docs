@@ -137,7 +137,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Mainbar Section
 
-![](assets/page_contact_3.png)
+![](assets/page_contact_4.png)
 
 The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
@@ -165,7 +165,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Aside Section
 
-![](assets/page_contact_4.png)
+![](assets/page_contact_5.png)
 
 The **Aside** section is set to `20`% width.
 
@@ -188,7 +188,7 @@ This area of the page is an **Contact** particle. You will find the settings use
 
 ## Extension Section
 
-![](assets/page_contact_5.png)
+![](assets/page_contact_6.png)
 
 The **Extension** section consists of an **Info List** particle assigned to the `extension-a` module position.
 

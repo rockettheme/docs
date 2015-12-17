@@ -12,7 +12,7 @@ MainBody Section
 
 This area of the front page is the mainbody. It allows you to display featured articles on the front page. There are a couple things that have to be in order in order to see these articles populated in the MainBody section of the page.
 
-![](assets/setadvanced.md)
+![](assets/setadvanced.jpeg)
 
 First, you will need to have the **Display Mainbody** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Momentum Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 

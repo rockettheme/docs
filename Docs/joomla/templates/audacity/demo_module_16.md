@@ -16,7 +16,7 @@ This area of the front page is a **Custom HTML** module. You will find the setti
 
 ### Details
 
-![](assets/demo_16a.jpeg)
+![](assets/demo_16a.png)
 
 | Option     | Setting      |
 | :--------- | :----------- |
@@ -45,7 +45,7 @@ Enter the following in the **Custom Output** text editor.
 
 ### Basic
 
-![](assets/demo_16b.jpeg)
+![](assets/demo_16b.png)
 
 | Option                    | Setting |
 | :------------------------ | :------ |
@@ -54,7 +54,7 @@ Enter the following in the **Custom Output** text editor.
 
 ### Advanced
 
-![](assets/demo_16c.jpeg)
+![](assets/demo_16c.png)
 
 | Option              | Setting                           |
 | :------------------ | :-------------------------------- |

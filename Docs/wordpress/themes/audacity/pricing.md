@@ -114,7 +114,7 @@ The **Gantry Breadcrumbs** widget gives you the ability to present page-aware br
 Feature Section
 -----
 
-![Feature](page_pricing_5.png)
+![Feature](page_pricing_3.jpeg)
 
 Here is a breakdown for the **Feature** section:
 
@@ -196,7 +196,7 @@ Leaving everything else at its default setting, select **Save**.
 Extension Section
 -----
 
-![Extension](page_pricing_4.jpeg)
+![Extension](page_pricing_5.jpeg)
 
 Here is a breakdown for the **Extension** section:
 

@@ -310,7 +310,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 Mainbody
 -----
 
-![](assets/page_pricing_6.jpeg)
+![](assets/page_pricing_4.jpeg)
 
 The page's content body is set in the **Pricing Tables** article. You will find the content used in the article below.
 

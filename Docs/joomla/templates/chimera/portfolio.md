@@ -329,7 +329,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Chimera Demo
 
-![][portfoliopage8]
+![](page_aboutus_8.jpeg)
 
 #### Module
 
@@ -363,7 +363,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Sample Contact Info
 
-![][portfoliopage9]
+![](page_aboutus_9.jpeg)
 
 #### Module
 
@@ -414,9 +414,8 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Module Class Suffix | `rt-phone-center` |
 
 [portfoliopage]: assets/page_portfolio.jpeg
-[portfoliopage1]: assets/page_portfolio_1.jpeg
+[portfoliopage1]: assets/page_portfolio_2.jpeg
 [portfoliomenu]: assets/page_portfolio_menu.jpeg
-[portfoliopage2]: assets/page_portfolio_2.jpeg
 [portfoliopage3]: assets/page_portfolio_3.jpeg
 [portfoliopage4]: assets/page_portfolio_4.jpeg
 [portfoliopage5]: assets/page_portfolio_5.jpeg

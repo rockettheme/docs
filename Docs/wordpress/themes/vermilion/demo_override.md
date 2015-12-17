@@ -103,5 +103,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [advanced]: assets/setadvanced.jpeg
 [layouts]: assets/setlayouts.jpeg
 [gizmos]: assets/setgizmos.jpeg
-[assignments]: assets/setassignments.jpeg
+[assignments]: assets/setassignments.png
 [style]: assets/setstyle.jpeg

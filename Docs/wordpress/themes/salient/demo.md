@@ -98,7 +98,7 @@ It would be a good idea for organization to name this outline something like **S
 Menu Editor
 -----
 
-![](assets/menu_1.jpeg)
+![](assets/menu_1.png)
 
 Salient has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
