@@ -30,9 +30,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Background Image
 
-![](demo_feature_image.png)
-
-The background image seen to the right of the content area of the section is set in the **Styles** tab within the Gantry administrator.
+The background image seen to the left of the content area of the section is set in the **Styles** tab within the Gantry administrator.
 
 ## Spacer (positions particle)
 

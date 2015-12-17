@@ -446,7 +446,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ## Footer Section
 
-![](assets/page_aboutus_6.jpeg)
+![](assets/page_aboutus_6.png)
 
 :   1. **Custom HTML (Widget) 1** [20%, 5%, se]
     2. **Custom HTML (Widget) 2** [20%, 38%, se]

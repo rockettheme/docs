@@ -31,26 +31,30 @@ In order to show two featured articles on the front page, we placed a `1` in the
 Article Properties
 -----
 
-The **Popular Features** article is a standard article with the **Featured** option turned on so it appears in the front page mainbody.
+The **Introducing Reflex with RokGallery** article is a standard article with the **Featured** option turned on so it appears in the front page mainbody.
 
 Here is the **Article Text** we used:
 
 ~~~ .html
-<img class="rt-image floatleft smallmarginbottom" src="images/stories/demo/frontpage/fp-article.jpg" width="125" height="100" alt="RocketTheme" />
+<p><b>Reflex</b> is an elegant, professional and highly flexible template. It is the first to debut <b>RokGallery</b>, an advanced new <b>multiple tagging gallery</b> solution for Joomla, with integrated styling and accompanying documentation, instructing you on using its simple, but <b>powerful feature</b> set.</p>
 
-<p>The Reflex template is built for both the Joomla <strong>1.5.x</strong> and <strong>1.7.x</strong> platforms, with full support for both. This includes the template, the RocketTheme Extensions demoed, the Gantry Framework, version specific PDF tutorials, in addition to <strong>RocketLaunchers</strong> for both versions. All products are available from a consolidated Joomla Download area for Reflex.</p>
-
-<p>The template is based on the <strong>Gantry Framework</strong>, therefore, standard features such as the 960 Grid System, <strong>iPhone/Android</strong> viewing support. Layered on top is an intricate array of design elements, textures, patterns and backgrounds providing an elegant but complex appearance.</p>
-
-<hr id="system-readmore" />
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+<div class="rt-demo-grid-4 nomarginleft">
+    <ul class="checkmark normalfont nomarginbottom">
+        <li><b>Gantry Framework:</b> The template's core, providing extensive and scalable features such as the 960 Grid System.</li>
+        <li><b>Preset Styles:</b> A selection of six style variations, as configurable int the user friendly template manager interface.</li>
+    </ul>
+</div>
+<div class="rt-demo-grid-4 rt-demo-grid-4 nomarginleft nomarginright">
+    <ul class="checkmark normalfont nomarginbottom">
+        <li><b>Fusion Menu:</b> A javascript enhanced CSS dropdown menu, with multi-column support, plus much more.</li>
+        <li><b>Extensions:</b> Reflex has styled support for RokTabs, RokTwittie, RokGallery, RokNewsPager and RokAjaxSearch.</li>
+    </ul>
+</div>
+<div class="clear"></div>
 ~~~
 
 Once this article is created and set to **Featured**, it should appear on the front page.
 
-[demo]: assets/demo_12.jpeg
-[advanced]: assets/advanced.jpeg
-[menu]: assets/menu.jpeg
+[demo]: assets/featured.jpg
+[advanced]: assets/advanced.png
+[menu]: assets/menu.png

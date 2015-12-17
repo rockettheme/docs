@@ -358,7 +358,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Sample Contact Info
 
-![](page_blog_12.jpeg)
+![](page_blog_11.jpeg)
 
 #### Module
 

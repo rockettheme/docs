@@ -96,7 +96,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Try it Out for 10 Days Free
 
-![](assets/page_pricing_3.jpeg)
+![](assets/page_pricing_4.jpeg)
 
 #### Module
 
@@ -221,7 +221,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Audacity Demo
 
-![](assets/page_pricing_6.jpeg)
+![](assets/page_aboutus_7.jpeg)
 
 #### Module
 
@@ -255,7 +255,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ### Custom HTML - Sample Contact Info
 
-![](assets/page_pricing_7.jpeg)
+![](assets/page_aboutus_8.jpeg)
 
 #### Module
 
@@ -308,7 +308,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 Mainbody
 -----
 
-![](assets/page_pricing_6.jpeg)
+![](assets/page_pricing_4.jpeg)
 
 The page's content body is set in the **Pricing Tables** article. You will find the content used in the article below.
 

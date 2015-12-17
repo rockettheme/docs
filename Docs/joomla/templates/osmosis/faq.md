@@ -33,8 +33,6 @@ What is DropDown Menu?
 Can I Change the Direction the Dropdown Menu Drops?
 -----
 
-![][dropdownoptions]
-
 Yes! You can control this by navigating to **Administrator > Menu Manager > Menu Item > Dropdown Menu Options** and toggle the direction the dropdown drops to for large, desktop, and tablet displays.
 
 What is Splitmenu?

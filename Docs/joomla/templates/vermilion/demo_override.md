@@ -22,7 +22,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 ### Style
 
-![Style Settings][style]
+![Style Settings][style2]
 
 | Style       | Option              | Position    | Setting                                    |
 | :---------- | :----------         | :---------- | :----------                                |
@@ -130,7 +130,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [Style]: http://docs.gantry.org/gantry4/configure
 [Vermilion2]: assets/vermilion2.jpeg
 [assignments]: assets/assignments_settings.jpeg
-[style]: assets/style_settings.jpeg
+[style2]: assets/style_settings.jpeg
 [advanced]: assets/advanced_settings.jpeg
 [layouts]: assets/layouts_settings.jpeg
 [menu2]: assets/menu_settings.jpeg

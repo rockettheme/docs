@@ -100,13 +100,13 @@ You can find more information about the entire override breakdown for both the f
 Menu Settings
 -----
 
-![][mainmenu]
+![](menu_1.png)
 
 In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
 
 You can find these settings by navigating to **Admin > Menus > Main Menu > Home**. Once there, you will want to select the **Page Display** tab.
 
-You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `feb12-home`.
+You will need to change the **Page Class** setting under the Home menu **Page Display Options** submenu to `jan12-home`.
 
 [gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch

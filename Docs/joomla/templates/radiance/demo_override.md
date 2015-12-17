@@ -9,7 +9,7 @@ Template Settings
 -----
 One of the most important aspects of any Gantry template is its ability to be easily customized using the settings present in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Radiance Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs. 
 
-![][Radiance2]
+![][radiance2]
 
 :   1. **Logo** [6%, 45%, se]
     2. **Menu** [9%, 28%, se]
@@ -127,4 +127,4 @@ Once you have selected a Preset, these options can be further adjusted to match 
 [demo25]: assets/radiance.jpg
 [menu]: ../../start/menu.md
 [Style]: http://docs.gantry.org/gantry4/configure
-[Radiance2]: assets/Radiance2.jpeg
+[radiance2]: assets/radiance2.jpeg

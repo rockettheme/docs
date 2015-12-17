@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/callisto:Callisto
 
 ## Introduction
 
-![](assets/copyright.jpeg)
+![](assets/copyright.png)
 
 The **Copyright** section is made up of a single particle displaying the site's **copyright** information.
 

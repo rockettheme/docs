@@ -123,7 +123,7 @@ You will need to change the **Page Class** setting under the Home menu **Page Di
 [module8]: demo_module_8.md
 [module9]: demo_module_9.md
 [module10]: demo_module_10.md
-[comingsoon]: assets/comingsoon.jpeg
+[comingsoon]: assets/comingsoon.jpg
 [soon]: comingsoon.md
 [mainmenu]: assets/menu_1.jpeg
 [icons]: http://fortawesome.github.io/Font-Awesome/icons/

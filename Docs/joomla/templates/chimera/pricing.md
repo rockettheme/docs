@@ -350,7 +350,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 | Module Class Suffix | `rt-phone-center` |
 
 [pricingpage]: assets/page_pricing.jpeg
-[prices]: assets/page_prices_menu.jpeg
+[prices]: assets/page_pricing_menu.jpeg
 [pricingpage2]: assets/page_pricing_2.jpeg
 [pricingpage3]: assets/page_pricing_3.jpeg
 [pricingpage4]: assets/page_pricing_4.jpeg
