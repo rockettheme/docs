@@ -61,4 +61,4 @@ powerful and flexible Gantry Framework.
 ~~~
 
 [demo]: assets/demo_8.jpeg
-[mainbody]: assets/setadvanced.jpg
+[mainbody]: assets/setadvanced.jpeg

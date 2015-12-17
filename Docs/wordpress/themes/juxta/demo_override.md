@@ -110,8 +110,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 [override]: http://docs.gantry.org/gantry4/configure
 [style]: assets/setstyle.jpeg
-[assignments]: assets/setassignments.jpg
-[advanced]: assets/setadvanced.jpg
+[assignments]: assets/setassignments.png
+[advanced]: assets/setadvanced.jpeg
 [mobile]: assets/setmobile.jpeg
 [layouts]: assets/setlayouts.jpeg
 [gizmos]: assets/setgizmos.jpeg

@@ -95,7 +95,7 @@ One important thing to note here is that many of the widget sections included in
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
 [roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
-[Paradigm]: assets/Paradigm.jpeg
+[Paradigm]: assets/paradigm.jpeg
 [roksprocket]: ../../plugins/roksprocket/
 [faq]: faq.md
 [menu]: ../../start/menu.md
@@ -115,5 +115,5 @@ One important thing to note here is that many of the widget sections included in
 [copyright]: demo_copyright.md
 [top]: demo_top.md
 [demooverride]: demo_override.md
-[theme]: assets/Paradigm2.jpeg
+[theme]: assets/paradigm2.jpeg
 [scroll]: assets/scrollwidget.jpg

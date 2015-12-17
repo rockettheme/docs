@@ -84,6 +84,6 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | Front Page | Page   | Front Page |  
 | Home Page  | Page   | Front Page |
 
-[demo]: assets/Paradigm2.jpeg
+[demo]: assets/paradigm2.jpeg
 [menu]: ../../start/menu.md
 [override]: http://docs.gantry.org/gantry4/configure

@@ -46,6 +46,6 @@ Here is the content body of the post.
 
 Once the post is set to **Published**, you should be able to see it on the page.
 
-[demo1]: assets/wp_Kirigami_demo_5.jpeg
+[demo1]: assets/wp_kirigami_demo_5.jpeg
 [postbody]: assets/postbody.jpeg
 [blogview]: assets/blogview.jpeg

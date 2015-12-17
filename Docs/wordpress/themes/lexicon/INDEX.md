@@ -57,7 +57,7 @@ A responsive layout adapts automatically to the viewing device's width, such as 
 [gantry]: http://gantry.org/
 [gantry_install]: ../../start/gantry.md
 [Lexicon]: assets/lexicon.jpeg
-[chart]: assets/chart.jpeg
+[chart]: assets/chart.png
 [roksprocket]: assets/roksprocket.jpg
 [filezilla]: https://filezilla-project.org
 [launcher]: ../../start/rocketlauncher.md
