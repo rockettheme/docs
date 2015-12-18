@@ -14,7 +14,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Bottom** section includes both a **Testimonial** and a **Promo Content** particle.
 
-![](assets/home_bottom.png)
+![](assets/home_bottom.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -23,7 +23,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_bottom_settings.png)
+![](assets/demo_bottom_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -35,7 +35,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](demo_bottom_1.png)
+![Demo Bottom](demo_bottom_1.jpeg)
 
 | Option                   | Setting                                                                                                                               |
 | :-----                   | :-----                                                                                                                                |
@@ -54,7 +54,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](demo_bottom_2.png)
+![Demo Bottom](demo_bottom_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -69,7 +69,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](demo_bottom_3.png)
+![Demo Bottom](demo_bottom_3.jpeg)
 
 | Option           | Setting             |
 | :-----           | :-----              |
@@ -93,7 +93,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](demo_bottom_4.png)
+![Demo Bottom](demo_bottom_4.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |

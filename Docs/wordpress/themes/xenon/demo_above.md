@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Above** section includes a single **News Ticker** particle.
 
-![](assets/home_above.png)
+![](assets/home_above.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_above_settings.png)
+![](assets/demo_above_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Above](demo_above_1.png)
+![Demo Above](demo_above_1.jpeg)
 
 | Option                 | Setting                                                              |
 | :-----                 | :-----                                                               |
@@ -47,7 +47,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Above](demo_above_2.png)
+![Demo Above](demo_above_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

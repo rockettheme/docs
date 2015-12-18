@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Expanded** section includes a single **News Slider** particle.
 
-![](assets/home_expanded.png)
+![](assets/home_expanded.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_expanded_settings.png)
+![](assets/demo_expanded_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_1.png)
+![Demo Expanded](demo_expanded_1.jpeg)
 
 | Option                    | Setting                                                                                                                                                                                                                                                       |
 | :-----                    | :-----                                                                                                                                                                                                                                                        |
@@ -51,7 +51,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Expanded](demo_expanded_2.png)
+![Demo Expanded](demo_expanded_2.jpeg)
 
 | Option         | Setting        |
 | :-----         | :-----         |

@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Utility** section includes a single **FlexSlider** particle.
 
-![](assets/home_utility.png)
+![](assets/home_utility.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_utility_settings.png)
+![](assets/demo_utility_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Utility](demo_utility_1.png)
+![Demo Utility](demo_utility_1.jpeg)
 
 | Option                  | Setting                                                                                                                 |
 | :-----                  | :-----                                                                                                                  |
@@ -62,7 +62,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Utility](demo_utility_2.png)
+![Demo Utility](demo_utility_2.jpeg)
 
 | Option         | Setting        |
 | :-----         | :-----         |

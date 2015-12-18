@@ -223,7 +223,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ## Bottom Section
 
-![](assets/page_aboutus_8.png)
+![](assets/page_aboutus_8.jpeg)
 
 :   1. **Text (Widget)** [20%, 2%, se]
     2. **Newsletter (Particle)** [20%, 35%, se]

@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Extension** section includes three **Chartist** particles.
 
-![](assets/home_extension.png)
+![](assets/home_extension.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -21,7 +21,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_extension_settings.png)
+![](assets/demo_extension_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -33,7 +33,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Extension](demo_extension_1.png)
+![Demo Extension](demo_extension_1.jpeg)
 
 | Option        | Setting                                                         |
 | :-----        | :-----                                                          |
@@ -53,7 +53,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Extension](demo_extension_2.png)
+![Demo Extension](demo_extension_2.jpeg)
 
 | Option         | Setting          |
 | :-----         | :-----           |
@@ -68,7 +68,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Extension](demo_extension_3.png)
+![Demo Extension](demo_extension_3.jpeg)
 
 | Option        | Setting                                  |
 | :-----        | :-----                                   |
@@ -88,7 +88,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Extension](demo_extension_4.png)
+![Demo Extension](demo_extension_4.jpeg)
 
 | Option         | Setting          |
 | :-----         | :-----           |
@@ -104,7 +104,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Extension](demo_extension_5.png)
+![Demo Extension](demo_extension_5.jpeg)
 
 | Option        | Setting                                    |
 | :-----        | :-----                                     |
@@ -117,7 +117,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Extension](demo_extension_6.png)
+![Demo Extension](demo_extension_6.jpeg)
 
 | Option         | Setting          |
 | :-----         | :-----           |

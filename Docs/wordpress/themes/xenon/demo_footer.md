@@ -16,7 +16,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Footer** section includes four particles.
 
-![](assets/home_footer.png)
+![](assets/home_footer.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -27,7 +27,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_footer_settings.png)
+![](assets/demo_footer_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -39,7 +39,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_1.png)
+![Demo Footer](demo_footer_1.jpeg)
 
 | Option                   | Setting        |
 | :-----                   | :-----         |
@@ -63,7 +63,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Footer](demo_footer_2.png)
+![Demo Footer](demo_footer_2.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |
@@ -78,7 +78,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_3.png)
+![Demo Footer](demo_footer_3.jpeg)
 
 | Option                   | Setting                               |
 | :-----                   | :-----                                |
@@ -102,7 +102,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Footer](demo_footer_4.png)
+![Demo Footer](demo_footer_4.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |
@@ -117,7 +117,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_5.png)
+![Demo Footer](demo_footer_5.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |
@@ -136,7 +136,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Footer](demo_footer_6.png)
+![Demo Footer](demo_footer_6.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |
@@ -151,7 +151,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Footer](demo_footer_7.png)
+![Demo Footer](demo_footer_7.jpeg)
 
 | Option         | Setting                       |
 | :-----         | :-----                        |
@@ -166,7 +166,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Footer](demo_footer_8.png)
+![Demo Footer](demo_footer_8.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |

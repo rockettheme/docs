@@ -13,7 +13,7 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
-![](assets/page_blog.png)
+![](assets/page_blog.jpeg)
 
 :   1. **Header - Info List (Particle)** [3%, 45%, se]
     2. **Mainbar - Page Content** [7%, 5%, se]
@@ -95,7 +95,7 @@ The **Mainbar** section includes several articles assigned to the **WordPress Bl
 
 # Aside Section
 
-![](assets/page_blog_3.png)
+![](assets/page_blog_3.jpeg)
 
 :   1. **RokAjaxSearch (Widget)** [7%, 4%, se]
     2. **Custom HTML (Widget)** [20%, 4%, se]
@@ -203,7 +203,7 @@ This area of the page is a **Info List** particle. You will find the settings us
 
 ## Bottom Section
 
-![](assets/page_aboutus_8.png)
+![](assets/page_aboutus_8.jpeg)
 
 :   1. **Text (Widget)** [20%, 2%, se]
     2. **Newsletter (Particle)** [20%, 35%, se]
