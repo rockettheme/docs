@@ -1,13 +1,13 @@
 ---
-title: Xenon: Recreating the Demo - Contact Page
-description: Your Guide to Recreating Elements of the Xenon Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/xenon:Xenon
+title: Isotope: Recreating the Demo - Contact Page
+description: Your Guide to Recreating Elements of the Isotope Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ---
 
 ## Introduction
 
-The **Contact** example page demonstrates how you can create a beautiful page with the Xenon theme. Here is some information to help you replicate this page as it appears in the demo.
+The **Contact** example page demonstrates how you can create a beautiful page with the Isotope theme. Here is some information to help you replicate this page as it appears in the demo.
 
 ## Widgets and Particles
 
@@ -162,7 +162,7 @@ This area of the page is made up of two particles, a **Custom HTML** particle an
 
 | Field              | Setting      |
 | :-----             | :-----       |
-| Particle Name      | `Xenon Info` |
+| Particle Name      | `Isotope Info` |
 | Process Shortcodes | Unchecked    |
 
 ##### Custom Output
@@ -171,7 +171,7 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <p><img src="gantry-media://rocketlauncher/pages/contact/img-01.jpg" alt="image"></p>
-<p><strong>Xenon</strong> is only available as part of the Club Subscription. Please use the RocketLauncher to install an equivalent of the demo onto your site.</p>
+<p><strong>Isotope</strong> is only available as part of the Club Subscription. Please use the RocketLauncher to install an equivalent of the demo onto your site.</p>
 ~~~
 
 #### Block Settings
@@ -264,7 +264,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 | Item 1 Tag            | Blank                                                                 |
 | Item 1 Sub Tag        | Blank                                                                 |
 | Item 1 Label          | `Send Email`                                                          |
-| Item 1 Link           | `http://www.rockettheme.com/wordpress/themes/xenon`                   |
+| Item 1 Link           | `http://www.rockettheme.com/wordpress/themes/isotope`                   |
 | Item 1 Icon           | Blank                                                                 |
 | Read More Classes     | Blank                                                                 |
 
@@ -299,8 +299,8 @@ Below, you will find the widget settings we used in the demo:
 
 | Field                        | Setting                                                                                                                              |
 | :-----                       | :-----                                                                                                                               |
-| Title                        | `About Xenon`                                                                                                                        |
-| Content                      | `Xenon is available for purchase or part of a club membership from RocketTheme, inclusive of the RocketLauncher, theme and plugins.` |
+| Title                        | `About Isotope`                                                                                                                        |
+| Content                      | `Isotope is available for purchase or part of a club membership from RocketTheme, inclusive of the RocketLauncher, theme and plugins.` |
 | Automatically Add Paragraphs | Unchecked                                                                                                                            |
 | Custom class(es)             | Blank                                                                                                                                |
 
@@ -342,20 +342,20 @@ Below, you will find the widget settings we used in the demo:
 <div class="g-grid g-sample-sitemap">
   <div class="g-block">
     <ul class="nomarginall noliststyle">
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/">Home</a></li>
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/overview/">Features</a></li>
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/typography/"><span class="hidden-tablet">Typography</span><span class="visible-tablet">Content</span></a></li>
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/particles/">Particles</a></li>
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/block-variations/">Variations</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/">Home</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/overview/">Features</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/typography/"><span class="hidden-tablet">Typography</span><span class="visible-tablet">Content</span></a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/particles/">Particles</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/block-variations/">Variations</a></li>
     </ul>
   </div>
   <div class="g-block">
     <ul class="nomarginall noliststyle">
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/typography/">Buttons</a></li>
-      <li><a href="http://demo.rockettheme.com/live/wordpress/xenon/overview/">Pages</a></li>
-      <li><a href="http://www.rockettheme.com/docs/wordpress/themes/xenon">Guide</a></li>
-      <li><a href="http://www.rockettheme.com/forum/wordpress-theme-xenon">Support</a></li>
-      <li><a href="http://www.rockettheme.com/wordpress/themes/xenon">Download</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/typography/">Buttons</a></li>
+      <li><a href="http://demo.rockettheme.com/live/wordpress/isotope/overview/">Pages</a></li>
+      <li><a href="http://www.rockettheme.com/docs/wordpress/themes/isotope">Guide</a></li>
+      <li><a href="http://www.rockettheme.com/forum/wordpress-theme-isotope">Support</a></li>
+      <li><a href="http://www.rockettheme.com/wordpress/themes/isotope">Download</a></li>
     </ul>
   </div>
 </div>
