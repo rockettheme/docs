@@ -13,7 +13,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 	2. **Copyright (Particle)** [5%, 35%, se]
 	3. **To Top (Particle)** [5%, 95%, se]
 
-The **Copyright** section includes four particles assigned to the **copyright-a**, **copyright-b**, **copyright-c**, and **copyright-d** module positions.
+The **Copyright** section includes three particles.
 
 ![](assets/home_copyright.jpeg)
 
