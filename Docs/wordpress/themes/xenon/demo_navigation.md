@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 ## Introduction
 
-![](assets/demo_2.png)
+![](assets/demo_2.jpeg)
 
 :   1. **Menu (Particle)** [10%, 2%, se]
     2. **Popup Module (Particle)** [10%, 88%, se]
 
 The **Navigation** section includes two particles, **Menu** and **Popup Module**. The **Popup Module** particle puts the **Meta** widget in a popup.
 
-![](assets/home_navigation.png)
+![](assets/home_navigation.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -23,7 +23,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_navigation_settings.png)
+![](assets/demo_navigation_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -35,7 +35,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_1.png)
+![Demo Navigation](demo_navigation_1.jpeg)
 
 | Option        | Setting   |
 | :-----        | :-----    |
@@ -49,7 +49,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_2.png)
+![Demo Navigation](demo_navigation_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -64,7 +64,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_3.png)
+![Demo Navigation](demo_navigation_3.jpeg)
 
 | Option            | Setting        |
 | :-----            | :-----         |
@@ -80,7 +80,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_4.png)
+![Demo Navigation](demo_navigation_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

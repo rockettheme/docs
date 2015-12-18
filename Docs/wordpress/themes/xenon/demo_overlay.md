@@ -16,7 +16,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Overlay** section includes four particles assigned to the **overlay-a**, **overlay-b**, **overlay-c**, and **overlay-top** module positions.
 
-![](assets/home_overlay.png)
+![](assets/home_overlay.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -27,7 +27,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_overlay_settings.png)
+![](assets/demo_overlay_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -39,7 +39,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_1.png)
+![Demo Overlay](demo_overlay_1.jpeg)
 
 | Option           | Setting                                                |
 | :-----           | :-----                                                 |
@@ -57,7 +57,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_2.png)
+![Demo Overlay](demo_overlay_2.jpeg)
 
 | Option         | Setting          |
 | :-----         | :-----           |
@@ -72,7 +72,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_3.png)
+![Demo Overlay](demo_overlay_3.jpeg)
 
 | Option          | Setting                                                                 |
 | :-----          | :-----                                                                  |
@@ -93,7 +93,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_4.png)
+![Demo Overlay](demo_overlay_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -108,7 +108,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_5.png)
+![Demo Overlay](demo_overlay_5.jpeg)
 
 | Option          | Setting                                                                 |
 | :-----          | :-----                                                                  |
@@ -129,7 +129,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_6.png)
+![Demo Overlay](demo_overlay_6.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -144,7 +144,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Overlay](demo_overlay_7.png)
+![Demo Overlay](demo_overlay_7.jpeg)
 
 | Option          | Setting                                                                 |
 | :-----          | :-----                                                                  |
@@ -165,7 +165,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Overlay](demo_overlay_8.png)
+![Demo Overlay](demo_overlay_8.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

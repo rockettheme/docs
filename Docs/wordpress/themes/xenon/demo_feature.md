@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Feature** section includes a single **Image Grid** particle.
 
-![](assets/home_feature.png)
+![](assets/home_feature.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_feature_settings.png)
+![](assets/demo_feature_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Feature](demo_feature_1.png)
+![Demo Feature](demo_feature_1.jpeg)
 
 | Option             | Setting                                         |
 | :-----             | :-----                                          |
@@ -47,7 +47,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Feature](demo_feature_2.png)
+![Demo Feature](demo_feature_2.jpeg)
 
 | Option         | Setting        |
 | :-----         | :-----         |

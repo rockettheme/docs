@@ -8,5 +8,5 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/xenon:Xenon
 Layout Manager
 -----
 
-![positions](assets/outline_home.png)
+![positions](assets/outline_home.jpeg)
 

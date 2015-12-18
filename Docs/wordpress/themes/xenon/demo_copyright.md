@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Copyright** section includes three particles.
 
-![](assets/home_copyright.png)
+![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.png)
+![](assets/demo_copyright_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -37,7 +37,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_1.png)
+![Demo Copyright](demo_copyright_1.jpeg)
 
 | Option        | Setting                                                                                                                                             |
 | :-----        | :-----                                                                                                                                              |
@@ -47,7 +47,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_2.png)
+![Demo Copyright](demo_copyright_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -62,7 +62,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_4.png)
+![Demo Copyright](demo_copyright_4.jpeg)
 
 | Option            | Setting           |
 | :-----            | :-----            |
@@ -76,7 +76,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_5.png)
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -91,7 +91,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_7.png)
+![Demo Copyright](demo_copyright_7.jpeg)
 
 | Option        | Setting  |
 | :-----        | :-----   |
@@ -102,7 +102,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_8.png)
+![Demo Copyright](demo_copyright_8.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Top** section includes three particles, **Logo**, **Overlay Toggle**, and **Social**.
 
-![](assets/home_top.png)
+![](assets/home_top.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_top_settings.png)
+![](assets/demo_top_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -37,7 +37,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Top](demo_top_1.png)
+![Demo Top](demo_top_1.jpeg)
 
 | Option        | Setting                |
 | :-----        | :-----                 |
@@ -50,7 +50,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Top](demo_top_2.png)
+![Demo Top](demo_top_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -65,7 +65,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Top](demo_top_3.png)
+![Demo Top](demo_top_3.jpeg)
 
 | Option        | Setting               |
 | :-----        | :-----                |
@@ -76,7 +76,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Top](demo_top_4.png)
+![Demo Top](demo_top_4.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
@@ -91,7 +91,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Top](demo_top_5.png)
+![Demo Top](demo_top_5.jpeg)
 
 | Option             | Setting                               |
 | :-----             | :-----                                |
@@ -106,7 +106,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Top](demo_top_6.png)
+![Demo Top](demo_top_6.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |

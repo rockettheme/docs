@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 The **Header** section includes a single **FlexSlider** particle.
 
-![](assets/home_header.png)
+![](assets/home_header.jpeg)
 
 Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_header_settings.png)
+![](assets/demo_header_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Header](demo_header_1.png)
+![Demo Header](demo_header_1.jpeg)
 
 | Option                  | Setting                                                                                                                                                    |
 | :-----                  | :-----                                                                                                                                                     |
@@ -62,7 +62,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Header](demo_header_2.png)
+![Demo Header](demo_header_2.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |

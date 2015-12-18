@@ -16,5 +16,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 Our demo uses **Preset 1** for its style settings. For reference, here is a screenshot of the Styles administrative panel.
 
-![Style Settings](assets/style_settings.png)
+![Style Settings](assets/style_settings.jpeg)
 
