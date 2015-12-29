@@ -13,20 +13,20 @@ Leviathan, the January 2013 template release, is a visually enriched design with
 
 The core of the template is based on the Gantry Framework, which provides a plethora of standardized features and functions. Also included is support for extensions such as RokSprocket.
 
->> NOTICE: Leviathan is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Leviathan is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.10+ is required for Leviathan to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 76 Module Positions

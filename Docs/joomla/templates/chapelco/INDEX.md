@@ -13,20 +13,20 @@ Chapelco is designed with an intricate mix of subtle style elements to add depth
 
 A standard array of powerful features and functions are brought to Chapelco via the Gantry Framework, a dynamic and powerful template framework. RokSprocket, a complex and diverse content display extension, has integrated styling with this template.
 
->> NOTICE: Chapelco is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Chapelco is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.8+ is required for Chapelco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 76 Module Positions

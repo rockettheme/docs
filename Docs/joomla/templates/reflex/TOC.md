@@ -15,7 +15,6 @@ support: http://www.rockettheme.com/forum/joomla-template-reflex
     * [Requirements](INDEX.md#requirements)
     * [How to Install](../../platform/templates.md#how-to-install)
         * [Installing the Template](../../platform/templates.md#how-to-install-a-joomla-template)
-        * [RocketLauncher (2.5)](../../platform/install_joomla_25.md)
         * [RocketLauncher (3.x)](../../platform/install_joomla_3x.md)
         * [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
     * [Recreate the Demo](demo.md)

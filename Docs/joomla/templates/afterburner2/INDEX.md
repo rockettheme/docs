@@ -14,7 +14,7 @@ Afterburner2 is an experiment in how streamlined a Gantry Framework Template can
 
 The template has a simple, CSS based dropdown menu system, module variations, multiple preset styles, configurable responsive modes, and advanced typography styling, whilst still maintaing a speed-centric and performance edge.
 
->> NOTICE: Afterburner2 is a Free/GPL Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Afterburner2 is a Free/GPL Joomla 3.x Template.
 
 Requirements
 -----
@@ -22,7 +22,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.9+ is required for Afterburner2 to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
@@ -30,7 +30,7 @@ Key Features
 -----
 
 * Free/GPL Template
-* Joomla 2.5 & Joomla 3.0 Compatible
+* Joomla Joomla 3.x Compatible
 * Fixed 960px/1200px & Responsive Layout options
 * 3 Preset Styles
 * 37 Module Positions

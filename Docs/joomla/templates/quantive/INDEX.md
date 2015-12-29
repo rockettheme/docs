@@ -13,7 +13,7 @@ Quantive encapsulates the notion of simply complex, featuring a conservative des
 
 ![][theme]
 
->> NOTICE: Quantive is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Quantive is a Joomla 3.x template.
 
 Requirements
 -----

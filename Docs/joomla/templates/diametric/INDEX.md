@@ -13,14 +13,14 @@ Diametric, the April 2012 template release, is a beautifully layered template, w
 
 Built on the Gantry Framework, Diametric has a powerful core supporting versatile and functional features; in addition to standard elements such as the stunning Fusion Menu.
 
->> NOTICE: Diametric is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Diametric is a Joomla 3.x template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 * Gantry Framework
 
 >> NOTE: v3.1.20+, 3.2.18+ is required for Diametric to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
@@ -42,12 +42,6 @@ Key Features
 * W3C XHTML 1.0 / CSS Valid
 
 >> Responsive and fixed versions of this template are available from the template's download page.
-
-### RokSprocket Integrated Template
-![][roksprocket]
-RokSprocket is a revolutionary new Joomla 2.5 only extension that has been designed to replace a variety of our existing ‘content’ modules.
-
-These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles. We have built our new April 2012 Joomla template to showcase this extension.
 
 ### RokSprocket :: Revolutionary User Interface
 ![][roksprocket2]

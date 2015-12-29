@@ -13,7 +13,7 @@ Omnicron is the ideal choice for any product related site, as well as broader us
 
 ![][theme]
 
->> NOTICE: Omnicron is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Omnicron is a Joomla 3.x template.
 
 Requirements
 -----

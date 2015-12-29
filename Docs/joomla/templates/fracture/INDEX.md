@@ -13,14 +13,14 @@ Fracture, the September 2012 template release, is the first RocketTheme template
 
 The template also uses LESS, a dynamic stylesheet language, that extends CSS with dynamic behaviour. RokSprocket further benefits from custom styling, adding rich focus to a conservative design backdrop.
 
->> NOTICE: Fracture is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Fracture is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.0+ is required for Fracture to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

@@ -36,15 +36,15 @@ A beautiful and rich selection of typography, based on Bootstrap, to emphasise <
 
 The best way to determine how specific areas of the theme are set up, we recommend downloading a RocketLauncher version of the theme, and using your browser's inspector to find specific CSS sources and other resources to help you address them one-by-one.
 
-Is Epsilon compatible for Joomla 1.5?
+Is Epsilon compatible with Joomla 1.5 or 2.5?
 -----
 
-No, Epsilon is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla.
+No, Epsilon is only compatible with Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla. Joomla 2.5 support was discontinued at the end of 2014. 
 
 What is RokSprocket?
 -----
 
-[RokSprocket][roksprocket] is a powerful content display extension for Joomla 2.5 and above. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles.
+[RokSprocket][roksprocket] is a powerful content display extension for Joomla 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles.
 
 What is Gantry?
 -----

@@ -15,7 +15,7 @@ Visage, the December 2011 template release, is a contemporary blending of stunni
 
 Visage has integrated styled support for several RocketTheme Extensions, providing them with a consistent and stunning appearance. Included are: RokGallery (Component/Module), RokTabs and RokContentRotator.
 
->> NOTICE: Visage is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Visage is a Joomla 3.x template.
 
 Requirements
 -----
@@ -23,7 +23,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Visage to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

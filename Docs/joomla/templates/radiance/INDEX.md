@@ -15,7 +15,7 @@ Radiance, the September 2011 template release, features an advanced Color Choose
 
 The template's stylistic versatility rests on a foundation of other features, with integrated styling for RokTabs, RokGallery, amongst other RocketTheme extensions, as well as the Gantry Framework, iPhone/Android support and more.
 
->> NOTICE: Radiance is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Radiance is a Joomla 3.x template.
 
 Requirements
 -----
@@ -23,7 +23,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 For more information, visit our [Gantry documentation][gantry].
 

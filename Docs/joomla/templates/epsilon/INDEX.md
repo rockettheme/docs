@@ -17,14 +17,14 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.20+ is required for Epsilon to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
 
-* Joomla 2.5 & Joomla 3.2 Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 6 Preset Styles
 * 92 Module Positions

@@ -13,20 +13,20 @@ Metropolis, the November 2012 template release, is an elegantly designed theme, 
 
 The template's content functionality is powered by RokSprocket, which has integrated styling for Metropolis. A standard assortment of features are also included.
 
->> NOTICE: Metropolis is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Metropolis is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1+ is required for Metropolis to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 10 Preset Styles
 * 76 Module Positions

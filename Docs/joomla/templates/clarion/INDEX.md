@@ -16,14 +16,14 @@ Built on the Gantry Framework, Clarion has a range of powerful, flexible and int
 
 Clarion has styled support for a variety of RocketTheme extensions, such as RokGallery, RokNewsPager, RokTabs, as well as K2, the advanced content extension.
 
->> NOTICE: Clarion is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Clarion is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v3.x.18+, 3.2.15+ is required for Clarion to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

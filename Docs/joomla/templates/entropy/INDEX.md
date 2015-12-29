@@ -13,7 +13,7 @@ Entropy is a truly artistic piece, segregating its layout into distinctly design
 
 ![][theme]
 
->> NOTICE: Entropy is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Entropy is a Joomla 3.x template.
 
 Requirements
 -----
@@ -21,7 +21,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 For more information, visit our [Gantry documentation][gantry].
 
