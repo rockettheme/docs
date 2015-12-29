@@ -13,20 +13,20 @@ Voxel, the May 2012 template release, is a magazine orientated design. Its elega
 
 The template has support for various RocketTheme Extensions, as well as a beautifully styled menu, amongst other features, such as the Gantry Framework.
 
->> NOTICE: Voxel is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Voxel is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v3.2.19+ is required for Voxel to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 / 3.x Compatible
+* Joomla 3.x Compatible
 * 12 Preset Styles
 * 82 Module Positions
 * 11 Styled and 26 Structural Module Suffixes

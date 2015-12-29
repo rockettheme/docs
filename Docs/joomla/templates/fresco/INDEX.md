@@ -13,20 +13,20 @@ Fresco, the June 2012 template release, is a visually rich design, with each sty
 
 The template provides beautiful integrated styling for varying modules, such as RokSprocket in its varying layout modes, the Fusion Menu and all other standard extras.
 
->> NOTICE: Fresco is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Fresco is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.10+ is required for Fresco to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 / 3.x Compatible
+* Joomla 3.x Compatible
 * Variant with Responsive Support
 * 10 Preset Styles
 * 82 Module Positions

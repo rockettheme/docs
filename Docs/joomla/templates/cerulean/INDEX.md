@@ -13,20 +13,20 @@ Cerulean, the December 2012 template release, is a beautifully constructed templ
 
 The styling extends to RokSprocket in all its layout modes, such as Mosaic. Based on the Gantry Framework, a wide portfolio of features are included such as a powerful template control interface.
 
->> NOTICE: Cerulean is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Cerulean is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.10+ is required for Cerulean to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 6 Preset Styles
 * 78 Module Positions

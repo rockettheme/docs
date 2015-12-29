@@ -13,7 +13,7 @@ Camber is a beautifully designed theme, based around the Color Chooser system, t
 
 ![][theme]
 
->> NOTICE: Camber is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Camber is a Joomla 3.x template.
 
 Requirements
 -----
@@ -21,7 +21,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 For more information, visit our [Gantry documentation][gantry].
 
@@ -42,10 +42,6 @@ Key Features
 * Gantry 4 Framework  
 * FF, Safari, Chrome, Opera, IE8+  
 * PHP 5.2.17 + (5.3+ recommended)  
-* Joomla 2.5 Support  
-* Joomla 2.5 RocketLauncher  
-* Joomla 3.2 Support  
-* Joomla 3.1 RocketLauncher  
 * Adobe Fireworks PNG Sources 
 
 ### Triple SplitMenu

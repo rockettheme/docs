@@ -13,7 +13,7 @@ Maelstrom illustrates the elegance of merging a complex style infrastructure, wi
 
 ![][theme]
 
->> NOTICE: Maelstrom is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Maelstrom is a Joomla 3.x template.
 
 Requirements
 -----

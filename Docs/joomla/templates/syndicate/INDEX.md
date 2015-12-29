@@ -13,7 +13,7 @@ Syndicate is ideal for any news, media or business type site that requires a cle
 
 ![][theme]
 
->> NOTICE: Syndicate is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Syndicate is a Joomla 3.x template.
 
 Requirements
 -----

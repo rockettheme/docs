@@ -18,13 +18,13 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.9+ is required for Oculus to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 76 Module Positions

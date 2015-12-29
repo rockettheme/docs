@@ -15,7 +15,7 @@ Halcyon, the January 2012 template release, is elegant and subtle, reflecting a 
 
 The template has integrated styling for Ecwid, a powerful third party and platform independent eCommerce solution, ported into Joomla via the RokEcwid component. Halcyon is built on the Gantry Framework, providing ready access to its rich feature set such as an extensive administrator interface and per menu item configuration options.
 
->> NOTICE: Halcyon is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Halcyon is a Joomla 3.x template.
 
 Requirements
 -----
@@ -23,7 +23,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v3.1.18+, 3.2.12+ is required for Halcyon to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 

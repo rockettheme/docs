@@ -13,20 +13,20 @@ Lumiere, the February 2013 template release, uses HTML5 to offer video functiona
 
 The template is founded on the Gantry Framework, the core that underpins the templates features. Numerous design features are also included such as RokSprocket integrated styling for its various layout modes.
 
->> NOTICE: Lumiere is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Lumiere is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.6+ is required for Lumiere to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 9 Preset Styles
 * 76 Module Positions

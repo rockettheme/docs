@@ -5,9 +5,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/Afterburner2:Afterburner2
 
 ---
 
-#### Is Afterburner2 compatible for Joomla 1.5?
+#### Is Afterburner2 compatible with Joomla 1.5 or 2.5?
 
-No, Afterburner2 is only compatible with Joomla 2.5 and Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla and Joomla 2.5 stable version has been released out for some months and you should upgrade.
+No, Afterburner2 is only compatible with Joomla 3.x. Joomla 1.5 support was discontinued in September 2012 by Joomla and 2.5 support ended at the end of 2014.
 
 [More Details...][compatibility]
 

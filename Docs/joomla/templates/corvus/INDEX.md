@@ -13,20 +13,20 @@ Corvus is content centric template, built with rich media and text blocks, on a 
 
 Corvus features integrated styling that works with RokSprocket to create a more seamless user experience. It is also built on the powerful Gantry framework, which adds an array of additional features to improve site management and performance.
 
->> NOTICE: Corvus is a Joomla 2.5 and Joomla 3.x Template.
+>> NOTICE: Corvus is a Joomla 3.x Template.
 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 >> NOTE: Gantry v4.1.12+ is required for Corvus to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----
-* Joomla 2.5 & Joomla 3.x Compatible
+* Joomla 3.x Compatible
 * Responsive Layout
 * 8 Preset Styles
 * 76 Module Positions

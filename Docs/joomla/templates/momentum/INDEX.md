@@ -15,7 +15,7 @@ Momentum, the October 2011 template release, combines an intricate graphical des
 
 RokGallery is elegantly styled and featured, in addition to several other popular RocketTheme Extensions such as RokTabs and RokNewsPager. Additionally, the standard selection of features, such as the Gantry Framework and mobile support are also present.
 
->> NOTICE: Momentum is a Joomla 2.5 and 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Momentum is a Joomla 3.x template.
 
 Requirements
 -----
@@ -23,7 +23,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.3.10+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 2.5 or 3.4
+* Joomla 3.4
 
 For more information, visit our [Gantry documentation][gantry].
 
