@@ -20,7 +20,7 @@ Requirements
 * MySQL 5.1+
 * WordPress 4.2.1+
 
->> NOTE: Gantry v5.1.3+ is required for Ethereal to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.1.3+ is required for Ethereal to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org). On WordPress, [Timber](https://wordpress.org/plugins/timber-library/) is also required for the Gantry Framework's Twig to be read by WordPress.
 
 Key Features
 -----
