@@ -114,6 +114,36 @@ The search icon that appears in the menu with a drop-down search field is a **Te
 
 You will also need to assign a **mod_search** module as the **Child Module** in the **Dropdown Menu Options** page. This gives it its search functionality.
 
+![](assets/search_menu_2.png)
+
+To do this, navigate to your main menu in the backend of Joomla by going to **Admin > Menus > Manage > Your Menu** and add a new **Text Separator** item. 
+
+![](assets/search_menu_1.png)
+
+We added a **mod_search** module as a **Child Module** in the **Dropdown Menu Options** tab.
+
+![](assets/search_menu_3.png)
+
+This module was created with the following settings:
+
+| Option                   | Setting       |
+| :-----                   | :-----        |
+| Title                    | `Menu Search` |
+| Show Title               | Hide          |
+| Position                 | `menu-search` |
+| Box Label                | Blank         |
+| Box Width                | `20`          |
+| Box Text                 | Blank         |
+| Search Button            | No            |
+| Button Position          | Right         |
+| Search Button Image      | No            |
+| Button Text              | Blank         |
+| OpenSearch Autodiscovery | Yes           |
+| OpenSearch Title         | Blank         |
+| Set ItemID               | None Selected |
+
+
+
 [gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
 [rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox

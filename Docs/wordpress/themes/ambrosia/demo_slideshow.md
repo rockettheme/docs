@@ -41,13 +41,13 @@ Settings used in our demo can be found below.
 
 ![Demo slideshow](demo_slideshow_2.jpeg)
 
-| Field          | Setting                                                 |
-| :-----         | :-----                                                  |
-| CSS ID         | Blank                                                   |
-| CSS Classes    | `flush`, `fp-roksprocket-slideshow`, `sprocket-presets` |
-| Variations     | Center                                                  |
-| Tag Attributes | Blank                                                   |
-| Block Size     | `100%`                                                  |
+| Field          | Setting                                               |
+| :-----         | :-----                                                |
+| CSS ID         | Blank                                                 |
+| CSS Classes    | `flush` `fp-roksprocket-slideshow` `sprocket-presets` |
+| Variations     | Center                                                |
+| Tag Attributes | Blank                                                 |
+| Block Size     | `100%`                                                |
 
 ## Assigned Widget(s)
 
