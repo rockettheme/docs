@@ -18,7 +18,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 :   1. **Showcase - Custom HTML (Module)** [8%, 40%, se]
     2. **Above - Custom HTML (Module)** [15%, 9% se]
     3. **Mainbar - Page Content** [45%, 9%, se]
-    4. **Extension - Info List (Particle)** [52%, 9%, se]
+    4. **Extension - Image Grid (Particle)** [52%, 9%, se]
     5. **Bottom - Custom HTML (Module)** [80%, 40%, se]
 
 1. [Showcase](#showcase-section)
@@ -228,32 +228,23 @@ The **Mainbar** section includes the **Pricing** article, displayed through the 
 
 ![](assets/page_pricing_4.png)
 
-This area of the page is an **Info List** particle placed within a **Gantry 5 Particle** module in the `extension-a` module position. We have included the settings for this particle below.
+This area of the page is an **Image Grid** particle placed within a **Gantry 5 Particle** module in the `extension-a` module position. We have included the settings for this particle below.
 
-### Info List (Particle)
+### Image Grid (Particle)
 
 ### Particle Settings
 
-| Field                            | Setting                                                                                                                                                                                   |
-| :-----                           | :-----                                                                                                                                                                                    |
-| Particle Name                    | `Info List`                                                                                                                                                                               |
-| CSS Classes                      | Blank                                                                                                                                                                                     |
-| Title                            | None                                                                                                                                                                                      |
-| Intro                            | None                                                                                                                                                                                      |
-| Grid Column                      | 2 Columns                                                                                                                                                                                 |
-| Info Lists Item 1 Name           | `1. What prices are your services?`                                                                                                                                                       |
-| Info Lists Item 1 Image          | Blank                                                                                                                                                                                     |
-| Info Lists Item 1 Image Location | Left                                                                                                                                                                                      |
-| Info Lists Item 1 Text Style     | Compact                                                                                                                                                                                   |
-| Info Lists Item 1 Image Style    | Compact                                                                                                                                                                                   |
-| Info Lists Item 1 Description    | `Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.` |
-| Info Lists Item 1 Tag            | Blank                                                                                                                                                                                     |
-| Info Lists Item 1 Sub Tag        | Blank                                                                                                                                                                                     |
-| Info Lists Item 1 Label          | Blank                                                                                                                                                                                     |
-| Info Lists Item 1 Link           | `#`                                                                                                                                                                                       |
-| Info Lists Item 1 Icon           | Blank                                                                                                                                                                                     |
-| Info Lists Item 1 CSS Classes    | Blank                                                                                                                                                                                     |
-
+| Field                         | Setting      |
+| :-----                        | :-----       |
+| Particle Name                 | `Image Grid` |
+| CSS Classes                   | Blank        |
+| Title                         | Blank        |
+| Description                   | Blank        |
+| Grid Column                   | 4 Columns    |
+| Album Name                    | `clients`    |
+| Info Lists Item 1 Name        | `Image 1`    |
+| Info Lists Item 1 Promo Image | Custom       |
+| Info Lists Item 1 Caption     | `Image 1`    |
 
 ## Bottom Section
 
