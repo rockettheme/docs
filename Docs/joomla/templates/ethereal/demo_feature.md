@@ -201,15 +201,15 @@ The first thing you will want to do is add a **Module Position** particle to the
 
 ### Block Settings
 
-![](assets/demo_feature_9.jpeg)
+![](assets/demo_feature_9.png)
 
-| Field          | Setting                      |
-| :-----         | :-----                       |
-| CSS ID         | Blank                        |
-| CSS Classes    | `g-sprocket-negative-margin` |
-| Variations     | Blank                        |
-| Tag Attributes | Blank                        |
-| Block Size     | `67%`                        |
+| Field          | Setting                                                             |
+| :-----         | :-----                                                              |
+| CSS ID         | Blank                                                               |
+| CSS Classes    | `g-sprocket-negative-margin` `fp-sprocket-features-stories` `flush` |
+| Variations     | Blank                                                               |
+| Tag Attributes | Blank                                                               |
+| Block Size     | `67%`                                                               |
 
 ## Assigned Module(s)
 
