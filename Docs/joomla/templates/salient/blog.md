@@ -22,11 +22,15 @@ Below is a brief rundown of the modules and particles used to make up the demo p
     5. **Aside - Login (Module)** [20%, 75%, se]
     6. **Aside - Who's Online (Module)** [28%, 75%, se]
     7. **Bottom - Custom HTML (Module)** [87%, 35%, se]
+    8. **Footer - Custom HTML** [93%, 7%, se]
+    7. **Footer - Newsletter** [93%, 36%, se]
+    8. **Footer - Custom HTML** [93%, 65%, se]
 
 1. [Showcase](#showcase-section)
 2. [Mainbar](#mainbar-section)
 3. [Aside](#aside-section)
 4. [Bottom](#bottom-section)
+5. [Footer](#footer-section)
 
 # Showcase Section
 
@@ -307,3 +311,94 @@ Enter the following in the **Custom Output** text editor.
 | Option              | Setting        |
 | :----------         | :----------    |
 | Module Class Suffix | `flush center` |
+
+## Footer Section
+
+![](assets/page_aboutus_6.png)
+
+:   1. **Custom HTML 1** [30%, 5%, se]
+    2. **Newsletter** [30%, 38%, se]
+    3. **Custom HTML 2** [30%, 70%, se]
+
+The **Footer** section is made up of two modules and one particle in a single row. This includes a **Newsletter** particle surrounded by two **Custom HTML** modules.
+
+Settings used in our demo for each of these modules and particle can be found below.
+
+### Custom HTML 1 (Module)
+
+#### Module settings
+
+| Field        | Setting         |
+| :-----       | :-----          |
+| Module Title | `About Salient` |
+| Show Title   | Show            |
+| Position     | `footer-a`      |
+
+**Custom HTML**
+~~~ .html
+Salient is available for purchase or part of a club membership from RocketTheme, inclusive of the RocketLauncher, template, addons and sources.
+~~~
+
+### Newsletter (Particle)
+
+#### Particle Settings
+
+| Field          | Setting           |
+| :-----         | :-----            |
+| Particle Name  | `Newsletter`      |
+| CSS Classes    | Blank             |
+| Title          | `Newsletter`      |
+| InputBox Text  | `Email Address`   |
+| Button Text    | `Join`            |
+| Feedburner URI | `rocketthemeblog` |
+| Button Classes | `button-4`        |
+
+
+**Heading Text**
+~~~ .html
+Subscribe to our newsletter and stay updated on the latest developments and special offers!
+~~~
+
+#### Block Settings
+
+| Field          | Setting |
+| :-----         | :-----  |
+| CSS ID         | Blank   |
+| CSS Classes    | Blank   |
+| Variations     | Blank   |
+| Tag Attributes | Blank   |
+| Block Size     | `33.3%` |
+
+### Custom HTML 2 (Module)
+
+#### Module settings
+
+| Field        | Setting          |
+| :-----       | :-----           |
+| Module Title | `Sample Sitemap` |
+| Show Title   | Show             |
+| Position     | `footer-c`       |
+
+**Custom HTML**
+~~~ .html
+<div class="g-grid g-sample-sitemap">
+  <div class="g-block">
+    <ul class="nomarginall noliststyle">
+      <li><a href="index.php">Home</a></li>
+      <li><a href="index.php?option=com_gantry5&amp;view=custom&amp;Itemid=105">Features</a></li>
+      <li><a href="index.php?option=com_gantry5&amp;view=custom&amp;Itemid=106">Typography</a></li>
+      <li><a href="index.php?option=com_gantry5&amp;view=custom&amp;Itemid=106">Particles</a></li>
+      <li><a href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=107">Variations</a></li>
+    </ul>
+  </div>
+  <div class="g-block">
+    <ul class="nomarginall noliststyle">
+      <li><a href="index.php?option=com_gantry5&amp;view=custom&amp;Itemid=106">Buttons</a></li>
+      <li><a href="index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=111">Pages</a></li>
+      <li><a href="http://www.rockettheme.com/docs/joomla/templates/salient">Guide</a></li>
+      <li><a href="http://www.rockettheme.com/forum/joomla-template-salient">Support</a></li>
+      <li><a href="http://www.rockettheme.com/joomla/templates/salient">Download</a></li>
+    </ul>   
+  </div>  
+</div>
+~~~
