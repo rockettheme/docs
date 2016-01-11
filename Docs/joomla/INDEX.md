@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Antares](templates/antares)
 	- [Xenon](templates/xenon)
 	- [Isotope](templates/isotope)
 	- [Kraken](templates/kraken)
