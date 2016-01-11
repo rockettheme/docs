@@ -70,6 +70,7 @@ Widget Settings
     13. **Copyright - Text** [91%, 13%, se]
     14. **Copyright - Custom Menu** [91%, 32%, se]
     15. **Copyright - Gantry To Top** [91%, 81%, se]
+    16. **Featured Article** [60%, 15%, se]
 
 Like any of our Gantry theme demos, Chapelco utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
 
@@ -87,6 +88,7 @@ One important thing to note here is that many of the widget sections included in
 * [Bottom][bottom]
 * [Footer][footer]
 * [Copyright][copyright]
+* [Featured Posts](demo_posts.md)
 
 [gantry]: http://gantry.org/downloads
 [rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch

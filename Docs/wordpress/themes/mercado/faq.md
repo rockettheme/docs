@@ -14,12 +14,9 @@ Where can I find theme settings?
 How do I change the logo?
 -----
 
-* Log in to the WordPress administrative dashboard at http://(Your WordPress Site URL)/wp-admin/
-* Select **Mercado Theme** from the sidebar.
-* Navigate to the **Style** tab.
-* Change the **Logo** type to **Custom**.
-* Choose your desired logo from your local drive by clicking the **Select** button.
-* Follow the instructions to **Save** your selection.
-* Save the change to your site by selecting the blue **Save** button in the upper-right area of the page.
+* Log in to the WordPress administrative dashboard at `http://(Your WordPress Site URL)/wp-admin/`
+* Navigate to **Appearance > Widgets**
+* Find the **Gantry Logo** widget in **Top**.
+* Remove it and replace with a new widget (such as Text) linking to your logo media file of choice.
 
 [gantry]: http://docs.gantry.org/gantry4/configure

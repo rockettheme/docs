@@ -216,112 +216,23 @@ The **Mainbar** section includes the **Pricing** article, displayed through the 
 
 ![](assets/page_pricing_4.png)
 
-This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+This area of the page is an **Image Grid** particle. We have included the settings for this particle below.
 
-### Custom HTML (Particle)
+### Image Grid (Particle)
 
 ### Particle Settings
 
-| Field              | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
-
-### Custom HTML
-
-~~~ .html
-<div class="g-grid">
-  <div class="g-block size-50">
-    <div class="g-content">
-      <h2 class="g-title">
-        Common Queries and Questions
-      </h2>
-      <div class="g-infolist">
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">1. What prices are our services?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">2. What is our refund policy?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">3. What payments methods do we accept?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="g-block size-50">
-    <div class="g-content">
-      <h2 class="g-title">
-        <span class="hidden-phone">&nbsp;</span><span class="visible-phone">More Common Queries and Questions</span>
-      </h2>
-      <div class="g-infolist">
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">4. What delivery options do we offer?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">5. What support options are available?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-        <div class="g-infolist-item">
-          <div class="g-infolist-item-text">
-            <div class="g-infolist-item-title">
-              <a href="#">6. What additional services are available?</a>
-            </div>
-            <div class="g-infolist-item-desc">
-              Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-~~~
-
-### Block Settings
-
-| Option         | Setting     |
-| :----------    | :---------- |
-| CSS ID         | Blank       |
-| CSS Classes    | Blank       |
-| Variations     | Blank       |
-| Tag Attributes | Blank       |
-| Fixed Size     | Unchecked   |
-| Block Size     | `100%`      |
+| Field                         | Setting      |
+| :-----                        | :-----       |
+| Particle Name                 | `Image Grid` |
+| CSS Classes                   | Blank        |
+| Title                         | Blank        |
+| Description                   | Blank        |
+| Grid Column                   | 4 Columns    |
+| Album Name                    | `clients`    |
+| Info Lists Item 1 Name        | `Image 1`    |
+| Info Lists Item 1 Promo Image | Custom       |
+| Info Lists Item 1 Caption     | `Image 1`    |
 
 ## Bottom Section
 
