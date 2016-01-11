@@ -45,7 +45,7 @@ Settings used in the demo for the particle used in this section can be found bel
 | Field          | Setting                 |
 | :-----         | :-----                  |
 | CSS ID         | Blank                   |
-| CSS Classes    | `g-copyright`, `center` |
+| CSS Classes    | `g-copyright` `center` |
 | Variations     | Blank                   |
 | Tag Attributes | Blank                   |
 | Block Size     | `100%`                  |
