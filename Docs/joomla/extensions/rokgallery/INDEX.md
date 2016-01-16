@@ -29,7 +29,7 @@ RokGallery has the following requirements in order to operate:
 * PHP support for GD2
 * PHP 5.2.17 and above
 
->> NOTE: Internet Explorer 7 and before are not supported
+>> NOTE: Internet Explorer 11+ and Edge are supported, but versions 8, 9, and 10 are no longer supported by Microsoft and while they may work, are not recommended.
 
 >> Also, if you experience the Fatal error: `Call to undefined function curl_init()`, you will need to have CURL enabled on your server. You can ask your hosting provider to activate this.
 
