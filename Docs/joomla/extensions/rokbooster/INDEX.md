@@ -69,7 +69,7 @@ RokBooster has the following requirements in order to operate:
 
 * Joomla 2.5 or 3.x - ensure you are using the latest version.
 
->> NOTE: Internet Explorer 7 and before are not supported
+>> NOTE: Internet Explorer 11+ and Edge are supported, but versions 8, 9, and 10 are no longer supported by Microsoft and while they may work, are not recommended.
 
 >> ALSO: Gzip must be installed on your server and enabled in PHP in order to function.
 

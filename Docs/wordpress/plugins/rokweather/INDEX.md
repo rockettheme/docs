@@ -22,7 +22,7 @@ RokWeather has the following requirements in order to operate:
 * WordPress 3.x - Ensure you are using the latest version
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
->> NOTE: Internet Explorer 7 and before are not supported
+>> NOTE: Internet Explorer 11+ and Edge are supported, but versions 8, 9, and 10 are no longer supported by Microsoft and while they may work, are not recommended.
 
 Key Features
 ------------
