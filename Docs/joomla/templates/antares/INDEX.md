@@ -28,7 +28,6 @@ Key Features
 * Responsive Layout
 * 6 Preset Styles
 * Block Variations
-* Headroom Support
 * Custom Typography
 * Unlimited Positions
 * Custom Particles
