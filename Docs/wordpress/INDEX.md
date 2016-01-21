@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Antares](themes/antares)
 	- [Xenon](themes/xenon)
 	- [Isotope](themes/isotope)
 	- [Kraken](themes/kraken)
