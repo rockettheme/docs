@@ -101,9 +101,9 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 4. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images.
 
-5. **Images**: Set the image preferences for images appearing within the tag gallery.
+5. **Images**: Set the image preferences for images appearing within the tag gallery. This field will limit the absolute pixel width and/or height of the image. Leaving it blank will revert to the default image size.
 
-6. **Thumbnails Size**: Sets the image preferences for thumbnails associated with images presented in as part of the gallery.
+6. **Thumbnails Size**: Sets the image preferences for thumbnails associated with images presented in as part of the gallery. This will set an absolute pixel limit on the width and/or height of the thumbnail. Leaving it blank will revert this display to default values. For most modern themes, this means the images will be displayed based on responsive values for the theme.
 
 7. The **Ordering** button allows you to manage the ordering of the gallery, manually.
 
