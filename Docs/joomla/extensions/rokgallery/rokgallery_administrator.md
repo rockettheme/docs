@@ -101,11 +101,15 @@ The Jobs Manager gives you a real-time look at processes being executed by RokGa
 
 4. **Tags**: Enter tag(s) for the gallery, separated by commas, which should be present on associated images.
 
-5. The **Ordering** button allows you to manage the ordering of the gallery, manually.
+5. **Images**: Set the image preferences for images appearing within the tag gallery. This field will limit the absolute pixel width and/or height of the image. Leaving it blank will revert to the default image size.
 
-6. The **Publish** button publishes images associated with the selected gallery.
+6. **Thumbnails Size**: Sets the image preferences for thumbnails associated with images presented in as part of the gallery. This will set an absolute pixel limit on the width and/or height of the thumbnail. Leaving it blank will revert this display to default values. For most modern themes, this means the images will be displayed based on responsive values for the theme.
 
-7. The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well.
+7. The **Ordering** button allows you to manage the ordering of the gallery, manually.
+
+8. The **Publish** button publishes images associated with the selected gallery.
+
+9. The **Delete** button removes the gallery from the site. You have the option to have slices created for associated images removed, as well.
 
 The Galleries Manager allows you to create and manage tag galleries which are used to determine which images should display in various locations on your site. For example, a RokGallery module can be set to display a specific tag gallery, based on the tags assigned to the specific gallery (and images within that gallery).
 
