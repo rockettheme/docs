@@ -55,13 +55,14 @@ The **Grid Promo Gallery** particle is a **Gantry 5 Particle** module placed wit
 
 ![Demo Above](demo_above_2.png)
 
-| Option         | Setting      |
-| :-----         | :-----Grid Promo Gallery CSS ID         | Blank        |
-| CSS Classes    | `fp-above-a` |
-| Variations     | Blank        |
-| Tag Attributes | Blank        |
-| Fixed Size     | Unchecked    |
-| Block Size     | `50%`        |
+| Option                    | Setting      |
+| :-----                    | :-----       |
+| Grid Promo Gallery CSS ID | Blank        |
+| CSS Classes               | `fp-above-a` |
+| Variations                | Blank        |
+| Tag Attributes            | Blank        |
+| Fixed Size                | Unchecked    |
+| Block Size                | `50%`        |
 
 ### Grid Promo Gallery Particle Settings
 
