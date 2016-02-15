@@ -53,7 +53,11 @@ After you have set these options, simply select **Details** to go to the style's
 
 ![Style Install](assets/install_style_4.png)
 
-Here, you can switch the style to **Default** as well as make sure it is **Active**. The style should inherit from **Prosilver** by default. Once you have done this, select **Submit**. Your style should now be ready to use.
+Here, you can switch the style to **Default** as well as make sure it is **Active**. The style should inherit from **Prosilver** by default. Once you have done this, select **Submit**.
+
+![Style](assets/style_install_1.png)
+
+Now, all you need to do is set the new style as the style you want to have your guests see on the front end. You can do this by navigating to **General > Board Config > Board Settings** then setting the **Default** style to the new style you just installed, then either switching **Override user style** to **Yes** to make it the default style for guests (non-logged in users) as well or setting the Guest style to the new style manually.
 
 Installing Administrative Modules
 -----
