@@ -24,6 +24,7 @@ support: http://www.rockettheme.com/forum/joomla-template-antares/
             * [Navigation](demo_navigation.md)
             * [Slideshow](demo_slideshow.md)
             * [Above](demo_above.md)
+            * [Header](demo_header.md)
             * [Showcase](demo_showcase.md)
             * [Utility](demo_utility.md)
             * [Feature](demo_feature.md)

@@ -53,6 +53,7 @@ We have detailed how to recreate the individual modules and particles pictured a
 1. [Navigation](demo_navigation.md)
 2. [Slideshow](demo_slideshow.md)
 3. [Above](demo_above.md)
+4. [Header](demo_header.md)
 4. [Showcase](demo_showcase.md)
 5. [Utility](demo_utility.md)
 6. [Feature](demo_feature.md)
