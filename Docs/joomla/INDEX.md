@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Galatea](templates/galatea)
 	- [Antares](templates/antares)
 	- [Xenon](templates/xenon)
 	- [Isotope](templates/isotope)
