@@ -33,7 +33,7 @@ To avoid image license copyright issues, all sample content images shown in our 
 
 This is a very simple fix caused by a conflict between your style settings and the `demo.css` file which is loaded through the **Custom CSS/JS** atom found in the **Page Settings** tab within the Gantry 5 Administrator. This demo file is intended to make the RocketLauncher match the demo as much as possible, giving it its unique styling. However, removing this file enables you to replace these elements.
 
-![Fix](assets/custom_atom_1.png)
+![Fix](assets/custom_atom_1.jpeg)
 
 Simply navigate to this tab, scroll down to the **Atoms** section, and select the **Custom CSS / JS** atom. From here, you can locate and remove the **Demo CSS** item. Once this is done, save your page settings and refresh. Your changes should now appear on the front end.
 

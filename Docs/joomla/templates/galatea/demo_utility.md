@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_6.png)
+![](assets/demo_6.jpeg)
 
 The **Utility** section includes a single **Block Content** particle placed in the **Utility B** module position.
 
-![](assets/home_utility.png)
+![](assets/home_utility.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_utility_settings.png)
+![](assets/demo_utility_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -35,7 +35,7 @@ The **Promo Content** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Utility](demo_utility_1.png)
+![Demo Utility](demo_utility_1.jpeg)
 
 | Option        | Setting        |
 | :-----        | :-----         |
@@ -45,7 +45,7 @@ The **Promo Content** particle is a **Gantry 5 Particle** module placed within t
 
 #### Block Settings
 
-![Demo Utility](demo_utility_2.png)
+![Demo Utility](demo_utility_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -60,7 +60,7 @@ The **Promo Content** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Utility](demo_utility_3.png)
+![Demo Utility](demo_utility_3.jpeg)
 
 | Option                | Setting                                                                                                             |
 | :-----                | :-----                                                                                                              |

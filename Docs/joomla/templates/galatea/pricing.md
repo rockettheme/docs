@@ -13,18 +13,18 @@ The **Pricing** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_pricing.png)
+![](assets/page_pricing.jpeg)
 
-:   1. **Above** Custom HTML (particle) [7%, 45%, se]
-    2. **Feature** Pricing Table (particle) [15%, 10%, se]
-    3. **Feature** Pricing Table (particle) [20%, 20%, se]
+:   1. **Above** Custom HTML (particle) [7%, 5%, se]
+    2. **Feature** Pricing Table (particle) [20%, 10%, se]
+    3. **Feature** Pricing Table (particle) [50%, 10%, se]
 
 * [Above](#above-section)
 * [Feature](#feature-section)
 
 # Above Section
 
-![](assets/page_pricing_1.png)
+![](assets/page_pricing_1.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -63,7 +63,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Feature Section
 
-![](assets/page_pricing_2.png)
+![](assets/page_pricing_2.jpeg)
 
 This area of the page features two **Pricing Table** particles. You will find the settings used in our demo below.
 

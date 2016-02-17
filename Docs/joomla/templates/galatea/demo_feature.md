@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 The **Feature** section includes two particles: **Pricing Table** and **Block Content**. These particles are placed within the **Feature A** and **Feature B** module positions.
 
-![](assets/home_feature.png)
+![](assets/home_feature.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_feature_settings.png)
+![](assets/demo_feature_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -35,7 +35,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Feature](demo_feature_1.png)
+![Demo Feature](demo_feature_1.jpeg)
 
 | Option        | Setting        |
 | :-----        | :-----         |
@@ -45,7 +45,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Block Settings
 
-![Demo Feature](demo_feature_2.png)
+![Demo Feature](demo_feature_2.jpeg)
 
 | Option         | Setting        |
 | :-----         | :-----         |
@@ -60,7 +60,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Feature](demo_feature_3.png)
+![Demo Feature](demo_feature_3.jpeg)
 
 | Option                 | Setting                                                                                                                             |
 | :-----                 | :-----                                                                                                                              |

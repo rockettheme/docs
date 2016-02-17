@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_10.png)
+![](assets/demo_10.jpeg)
 
 :	1. **Branding (Particle)** [5%, 1%, se]
 	2. **Horizontal (Particle)** [5%, 75%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 The **Branding** section includes three particles.
 
-![](assets/home_copyright.png)
+![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.png)
+![](assets/demo_copyright_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_1.png)
+![Demo Copyright](demo_copyright_1.jpeg)
 
 | Option        | Setting                                                                                                                                             |
 | :-----        | :-----                                                                                                                                              |
@@ -47,7 +47,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_2.png)
+![Demo Copyright](demo_copyright_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -62,7 +62,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_3.png)
+![Demo Copyright](demo_copyright_3.jpeg)
 
 | Option          | Setting           |
 | :-----          | :-----            |
@@ -73,7 +73,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_4.png)
+![Demo Copyright](demo_copyright_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -88,7 +88,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_5.png)
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option        | Setting                       |
 | :-----        | :-----                        |
@@ -99,7 +99,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_6.png)
+![Demo Copyright](demo_copyright_6.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |

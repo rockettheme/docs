@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_3.png)
+![](assets/demo_3.jpeg)
 
 The **Slideshow** section includes one **Owl Carousel** particle. This particle is placed within the **Slideshow A** module position.
 
-![](assets/home_slideshow.png)
+![](assets/home_slideshow.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_slideshow_settings.png)
+![](assets/demo_slideshow_settings.jpeg)
 
 | Option           | Setting                     |
 | :--------------- | :----------                 |
@@ -35,7 +35,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Slideshow](demo_slideshow_1.png)
+![Demo Slideshow](demo_slideshow_1.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -45,7 +45,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Slideshow](demo_slideshow_2.png)
+![Demo Slideshow](demo_slideshow_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -60,7 +60,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Slideshow](demo_slideshow_3.png)
+![Demo Slideshow](demo_slideshow_3.jpeg)
 
 | Option                  | Setting                                                                                                           |
 | :-----                  | :-----                                                                                                            |

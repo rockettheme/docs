@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_9.png)
+![](assets/demo_9.jpeg)
 
 The **Footer** section includes a single **Newsletter** particle placed within a **Footer A** module position.
 
-![](assets/home_footer.png)
+![](assets/home_footer.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_footer_settings.png)
+![](assets/demo_footer_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -35,7 +35,7 @@ The **Newsletter** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Particle Settings
 
-![Demo Utility](demo_footer_1.png)
+![Demo Utility](demo_footer_1.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -45,7 +45,7 @@ The **Newsletter** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Block Settings
 
-![Demo Utility](demo_footer_2.png)
+![Demo Utility](demo_footer_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -60,7 +60,7 @@ The **Newsletter** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Particle Settings
 
-![Demo Utility](demo_footer_3.png)
+![Demo Utility](demo_footer_3.jpeg)
 
 | Option                | Setting                                     |
 | :-----                | :-----                                      |

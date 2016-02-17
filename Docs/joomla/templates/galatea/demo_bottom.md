@@ -7,15 +7,15 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_8.png)
+![](assets/demo_8.jpeg)
 
-:   1. **Info List 1** (20%, 20%, se)
-    2. **Info List 2** (20%, 20%, se)
-    3. **Custom HTML** (20%, 20%, se)
+:   1. **Info List 1** [20%, 3%, se]
+    2. **Info List 2** [20%, 34%, se]
+    3. **Custom HTML** [20%, 65%, se]
 
 The **Bottom** section includes three particles, including: two **Info List** particles and one **Custom HTML** particle.
 
-![](assets/home_bottom.png)
+![](assets/home_bottom.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_bottom_settings.png)
+![](assets/demo_bottom_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](demo_bottom_1.png)
+![Demo Bottom](demo_bottom_1.jpeg)
 
 | Option                   | Setting                                               |
 | :-----                   | :-----                                                |
@@ -64,7 +64,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](demo_bottom_2.png)
+![Demo Bottom](demo_bottom_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -79,7 +79,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](demo_bottom_3.png)
+![Demo Bottom](demo_bottom_3.jpeg)
 
 | Option                   | Setting                                 |
 | :-----                   | :-----                                  |
@@ -106,7 +106,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](demo_bottom_4.png)
+![Demo Bottom](demo_bottom_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -121,7 +121,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Bottom](demo_bottom_5.png)
+![Demo Bottom](demo_bottom_5.jpeg)
 
 | Option             | Setting   |
 | :-----             | :-----    |
@@ -138,7 +138,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Bottom](demo_bottom_6.png)
+![Demo Bottom](demo_bottom_6.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

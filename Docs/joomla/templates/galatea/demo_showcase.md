@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_5.png)
+![](assets/demo_5.jpeg)
 
 :   1. **Custom HTML** [10%, 5%, se]
-    2. **Logo / Image** [65%, 5%, se]
+    2. **Logo / Image** [10%, 55%, se]
 
 The **Showcase** section includes a **Custom HTML** and a **Logo / Image** particle assigned to the **Showcase A** and **Showcase B** module positions.
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -23,7 +23,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.png)
+![](assets/demo_showcase_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -39,7 +39,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_1.png)
+![Demo Showcase](demo_showcase_1.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -49,7 +49,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_2.png)
+![Demo Showcase](demo_showcase_2.jpeg)
 
 | Option         | Setting             |
 | :-----         | :-----              |
@@ -64,7 +64,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_3.png)
+![Demo Showcase](demo_showcase_3.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |
@@ -86,7 +86,7 @@ The **Logo / Image** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_4.png)
+![Demo Showcase](demo_showcase_4.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -96,7 +96,7 @@ The **Logo / Image** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_5.png)
+![Demo Showcase](demo_showcase_5.jpeg)
 
 | Option         | Setting                            |
 | :-----         | :-----                             |
@@ -111,7 +111,7 @@ The **Logo / Image** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_6.png)
+![Demo Showcase](demo_showcase_6.jpeg)
 
 | Option        | Setting        |
 | :-----        | :-----         |

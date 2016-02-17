@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/demo_4.png)
+![](assets/demo_4.jpeg)
 
 The **Header** section includes a single **Mosaic Grid** particle assigned to the **Header A** module position.
 
-![](assets/home_header.png)
+![](assets/home_header.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_header_settings.png)
+![](assets/demo_header_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -35,7 +35,7 @@ The **Mosaic Grid** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Header](demo_header_1.png)
+![Demo Header](demo_header_1.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -45,7 +45,7 @@ The **Mosaic Grid** particle is a **Gantry 5 Particle** module placed within the
 
 #### Block Settings
 
-![Demo Header](demo_header_2.png)
+![Demo Header](demo_header_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -60,7 +60,7 @@ The **Mosaic Grid** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Header](demo_header_3.png)
+![Demo Header](demo_header_3.jpeg)
 
 | Option                    | Setting                     |
 | :-----                    | :-----                      |

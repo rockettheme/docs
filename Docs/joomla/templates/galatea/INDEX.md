@@ -10,7 +10,7 @@ Introduction
 
 Galatea is a beautiful, clean design that blends foreground with background elements, in an elegant, modern way. The template features a mobile inspired menu with configurable page push and slidedown animation effects.
 
-![](assets/galatea.png)
+![](assets/galatea.jpeg)
 
 Requirements
 -----

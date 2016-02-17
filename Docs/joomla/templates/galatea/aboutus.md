@@ -13,14 +13,14 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_aboutus.png)
+![](assets/page_aboutus.jpeg)
 
-:   1. **Slideshow** Own Carousel (particle) [7%, 45%, se]
-    2. **Header** Mosaic Grid (particle) [15%, 10%, se]
-    3. **Utility** Grid Statistic (particle) [28%, 10%, se]
-    4. **Feature** Image Grid (particle) [45%, 10%, se]
-    5. **Mainbar** Block Content (particle) [60%, 25%, se]
-    6. **Extension** Block Content (particle) [73%, 8%, se]
+:   1. **Slideshow** Own Carousel (particle) [7%, 40%, se]
+    2. **Header** Mosaic Grid (particle) [20%, 7%, se]
+    3. **Utility** Grid Statistic (particle) [38%, 7%, se]
+    4. **Feature** Image Grid (particle) [45%, 7%, se]
+    5. **Mainbar** Block Content (particle) [64%, 25%, se]
+    6. **Extension** Block Content (particle) [80%, 8%, se]
 
 * [Slideshow](#slideshow-section)
 * [Header](#header-section)
@@ -31,7 +31,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 # Slideshow Section
 
-![](assets/page_aboutus_1.png)
+![](assets/page_aboutus_1.jpeg)
 
 This area of the page is an **Owl Carousel** particle. You will find the settings used in our demo below.
 
@@ -85,7 +85,7 @@ This area of the page is an **Owl Carousel** particle. You will find the setting
 
 # Header Section
 
-![](assets/page_aboutus_2.png)
+![](assets/page_aboutus_2.jpeg)
 
 This area of the page is an **Mosaic Grid** particle. You will find the settings used in our demo below.
 
@@ -135,7 +135,7 @@ This area of the page is an **Mosaic Grid** particle. You will find the settings
 
 # Utility Section
 
-![](assets/page_aboutus_3.png)
+![](assets/page_aboutus_3.jpeg)
 
 This area of the page is an **Grid Statistic** particle. You will find the settings used in our demo below.
 
@@ -178,7 +178,7 @@ This area of the page is an **Grid Statistic** particle. You will find the setti
 
 # Feature Section
 
-![](assets/page_aboutus_4.png)
+![](assets/page_aboutus_4.jpeg)
 
 This area of the page is an **Image Grid** particle. You will find the settings used in our demo below.
 
@@ -217,7 +217,7 @@ This area of the page is an **Image Grid** particle. You will find the settings 
 
 # Mainbar Section
 
-![](assets/page_aboutus_5.png)
+![](assets/page_aboutus_5.jpeg)
 
 This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
 
@@ -271,7 +271,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 
 # Extension Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 This area of the page is an **Block Content** particle. You will find the settings used in our demo below.
 

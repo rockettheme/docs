@@ -11,17 +11,17 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 # Modules and Particles
 
-![](assets/page_blog.png)
+![](assets/page_blog.jpeg)
 
 The bulk if this page is made up of **Page Content** generated in the **Mainbar** section.
 
-![](assets/page_blog_mainbar.png)
+![](assets/page_blog_mainbar.jpeg)
 
 Even though there are module and particle sections placed in the layout, as there are no other elements assigned to this page, only the content in the **Page Content** particle are displayed.
 
 # Mainbar Section
 
-![](assets/page_blog_1.png)
+![](assets/page_blog_1.jpeg)
 
 The **Mainbar** section includes several articles assigned to the **Joomla Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Gantry 5 Framework is the powerhouse behind the Galatea theme** article.
 

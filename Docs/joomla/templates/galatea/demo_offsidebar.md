@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ## Introduction
 
-![](assets/offsidebar.png)
+![](assets/offsidebar.jpeg)
 
 The **Offsidebar** section includes a single **Menu** particle. This section is activated by an **OffSidebar Toggle** particle placed in the **Navigation** section.
 
-![](assets/home_offsidebar.png)
+![](assets/home_offsidebar.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_offsidebar_settings.png)
+![](assets/demo_offsidebar_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -31,7 +31,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Offsidebar](demo_offsidebar_1.png)
+![Demo Offsidebar](demo_offsidebar_1.jpeg)
 
 | Option        | Setting                               |
 | :-----        | :-----                                |
@@ -45,7 +45,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Offsidebar](demo_offsidebar_2.png)
+![Demo Offsidebar](demo_offsidebar_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
