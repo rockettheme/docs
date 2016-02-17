@@ -1,0 +1,150 @@
+---
+title: Galatea: Recreating the Demo - Bottom Section
+description: Your Guide to Recreating Elements of the Galatea Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
+
+---
+
+## Introduction
+
+![](assets/demo_8.png)
+
+:   1. **Info List 1** (20%, 20%, se)
+    2. **Info List 2** (20%, 20%, se)
+    3. **Custom HTML** (20%, 20%, se)
+
+The **Bottom** section includes three particles, including: two **Info List** particles and one **Custom HTML** particle.
+
+![](assets/home_bottom.png)
+
+Here is a breakdown of the module(s) and particle(s) that appear in this section:
+
+* [Info List (particle)](#info-list-(particle)-1)
+* [Info List (particle)](#info-list-(particle)-2)
+* [Custom HTML (particle)](#custom-html-(particle))
+
+## Section Settings
+
+![](assets/demo_bottom_settings.png)
+
+| Option           | Setting                   |
+| :--------------- | :----------               |
+| Layout           | Fullwidth (Boxed Content) |
+| CSS Classes      | Blank                     |
+| Tag Attributes   | Blank                     |
+
+## Info List (Particle) 1
+
+### Particle Settings
+
+![Demo Bottom](demo_bottom_1.png)
+
+| Option                   | Setting                                               |
+| :-----                   | :-----                                                |
+| Particle Name            | `Useful Links`                                        |
+| CSS Classes              | `g-mobile-keep-grid` `g-compact`                      |
+| Title                    | `Useful Links`                                        |
+| Intro                    | Blank                                                 |
+| Grid Column              | 2 Columns                                             |
+| Item 1 Name              | `About`                                               |
+| Item 1 Icon              | Blank                                                 |
+| Item 1 Icon Location     | Left                                                  |
+| Item 1 Image             | Blank                                                 |
+| Item 1 Image Location    | Left                                                  |
+| Item 1 Text Style        | Compact                                               |
+| Item 1 Image Style       | Compact                                               |
+| Item 1 Description       | Blank                                                 |
+| Item 1 Tag               | Blank                                                 |
+| Item 1 Sub Tag           | Blank                                                 |
+| Item 1 Label             | Blank                                                 |
+| Item 1 Link              | `http://www.rockettheme.com/joomla/templates/galatea` |
+| Item 1 Button Icon       | Blank                                                 |
+| Item 1 Read More Classes | Blank                                                 |
+| Item 1 Target            | Self                                                  |
+
+### Block Settings
+
+![Demo Bottom](demo_bottom_2.png)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `33.3%`   |
+
+## Info List (Particle) 2
+
+### Particle Settings
+
+![Demo Bottom](demo_bottom_3.png)
+
+| Option                   | Setting                                 |
+| :-----                   | :-----                                  |
+| Particle Name            | `Elsewhere`                             |
+| CSS Classes              | `g-mobile-keep-grid` `g-compact`        |
+| Title                    | `Elsewhere`                             |
+| Intro                    | Blank                                   |
+| Grid Column              | 2 Columns                               |
+| Item 1 Name              | `Facebook`                              |
+| Item 1 Icon              | Blank                                   |
+| Item 1 Icon Location     | Left                                    |
+| Item 1 Image             | Blank                                   |
+| Item 1 Image Location    | Left                                    |
+| Item 1 Text Style        | Compact                                 |
+| Item 1 Image Style       | Compact                                 |
+| Item 1 Description       | Blank                                   |
+| Item 1 Tag               | Blank                                   |
+| Item 1 Sub Tag           | Blank                                   |
+| Item 1 Label             | Blank                                   |
+| Item 1 Link              | `https://www.facebook.com/RocketTheme/` |
+| Item 1 Button Icon       | Blank                                   |
+| Item 1 Read More Classes | Blank                                   |
+| Item 1 Target            | Self                                    |
+
+### Block Settings
+
+![Demo Bottom](demo_bottom_4.png)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `33.3%`   |
+
+## Custom HTML (Particle)
+
+### Particle Settings
+
+![Demo Bottom](demo_bottom_5.png)
+
+| Option             | Setting   |
+| :-----             | :-----    |
+| Particle Name      | `About`   |
+| Process Shortcodes | Unchecked |
+
+**Custom HTML**
+
+~~~ .html
+<h2 class="g-title">About</h3>
+<p>All demo content is for sample purposes only, to represent a live site.</p>
+<p><span class="hidden-tablet">Note: Galatea is built on the latest version of the Gantry 5 Framework.</span></p>   
+~~~
+
+### Block Settings
+
+![Demo Bottom](demo_bottom_6.png)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `33.3%`   |
