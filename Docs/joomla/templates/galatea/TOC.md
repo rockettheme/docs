@@ -1,15 +1,15 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!antares:Antares
+breadcrumb: /joomla:Joomla/!templates:Templates/!galatea:Galatea
 
-details: http://www.rockettheme.com/joomla/templates/antares/
-demo: http://demo.rockettheme.com/joomla-templates/antares/
-download: http://www.rockettheme.com/joomla/templates/antares/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-antares/
+details: http://www.rockettheme.com/joomla/templates/galatea/
+demo: http://demo.rockettheme.com/joomla-templates/galatea/
+download: http://www.rockettheme.com/joomla/templates/galatea/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-galatea/
 
 ---
 
-* Antares
+* Galatea
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
@@ -22,18 +22,14 @@ support: http://www.rockettheme.com/forum/joomla-template-antares/
         * [Style Settings](demo_settings.md)
         * [Module and Particle Settings](demo.md#module-and-particle-settings)
             * [Navigation](demo_navigation.md)
+            * [Offsiebar](demo_offsidebar.md)
             * [Slideshow](demo_slideshow.md)
-            * [Above](demo_above.md)
-            * [Header](demo_header.md)
             * [Showcase](demo_showcase.md)
             * [Utility](demo_utility.md)
             * [Feature](demo_feature.md)
-            * [Expanded](demo_expanded.md)
-            * [Extension](demo_extension.md)
             * [Bottom](demo_bottom.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
-            * [FixedSide](demo_fixedside.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)

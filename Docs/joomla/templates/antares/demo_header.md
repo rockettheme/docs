@@ -14,6 +14,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/antares:Antares
 
 The **Header** section includes a twp **Promo Content** particles. One assigned to the **header-a** and and the other to the **header-b** module positions.
 
+Worth noting, the text that appears under the covered overlays at the back of the section reading `Gantry 5` is assigned in the **Styles** tab of the Gantry 5 Administrator within the **Header** section.
+
 ![](assets/home_header.png)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
