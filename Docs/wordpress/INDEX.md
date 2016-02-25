@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Galatea](themes/galatea)
 	- [Antares](themes/antares)
 	- [Xenon](themes/xenon)
 	- [Isotope](themes/isotope)
