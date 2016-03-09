@@ -7,21 +7,23 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_10.jpeg)
+![](assets/demo_7.jpeg)
 
-:	1. **Branding (Particle)** [5%, 1%, se]
-	2. **Horizontal (Particle)** [5%, 75%, se]
-	3. **To Top (Particle)** [50%, 40%, se]
+:	1. **Logo / Image (Particle)** [5%, 1%, se]
+	2. **Newsletter (Particle)** [5%, 75%, se]
+	3. **Copyright (Particle)** [50%, 40%, se]
+	4. **Custom HTML (Particle)** [50%, 45%, se]
 
-The **Branding** section includes three particles.
+The **Copyright** section includes four particles: **Logo / Image**, **Newsletter**, **Copyright**, and a **Custom HTML** particle assigned to the **copyright-a** module position.
 
 ![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
-* [Branding (particle)](#branding-(particle))
-* [Copyright (particle)](#copyright-(particle))
-* [To Top (particle)](#to-top-(particle))
+* [Logo / Image (particle)](#logo-image-(particle))
+* [Newsletter (particle)](#copyright-(particle))
+* [Copyright (particle)](#to-top-(particle))
+* [Custom HTML (particle)](#custom-html-(particle))
 
 ## Section Settings
 
@@ -33,17 +35,19 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | CSS Classes      | `g-mobile-center-compact` |
 | Tag Attributes   | Blank                     |
 
-## Branding (Particle)
+## Logo Image (Particle)
 
 ### Particle Settings
 
 ![Demo Copyright](demo_copyright_1.jpeg)
 
-| Option        | Setting                                                                                                                                             |
-| :-----        | :-----                                                                                                                                              |
-| Particle Name | `Branding`                                                                                                                                          |
-| Content       | `Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-powered-by">Gantry<span class="hidden-tablet"> Framework</span></a>` |
-| CSS Classes   | `g-branding`                                                                                                                                        |
+| Option        | Setting         |
+| :-----        | :-----          |
+| Particle Name | `Logo / Image`  |
+| URL           | Blank           |
+| Image         | Blank           |
+| Text          | `Photon`        |
+| CSS Classes   | `g-footer-logo` |
 
 ### Block Settings
 
@@ -56,13 +60,48 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | Variations     | Blank     |
 | Tag Attributes | Blank     |
 | Fixed Size     | Unchecked |
-| Block Size     | `25%`     |
+| Block Size     | `60%`     |
 
 ## Copyright (Particle)
 
 ### Particle Settings
 
 ![Demo Copyright](demo_copyright_3.jpeg)
+
+| Option         | Setting      |
+| :-----         | :-----       |
+| Particle Name  | `Newsletter` |
+| CSS Classes    | Blank        |
+| Width          | Full Width   |
+| Layout         | Square       |
+| Style          | Blank        |
+| Title          | Blank        |
+| Heading Text   | Blank        |
+| Side Text      | `Newsletter` |
+| InputBox Text  | Blank        |
+| Button Icon    | `fa fa-send` |
+| Button Text    | `Join`       |
+| Feedburner URI | Blank        |
+| Button Classes | Blank        |
+
+### Block Settings
+
+![Demo Copyright](demo_copyright_4.jpeg)
+
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `40%`     |
+
+## Copyright (Particle)
+
+### Particle Settings
+
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option          | Setting           |
 | :-----          | :-----            |
@@ -73,40 +112,70 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_4.jpeg)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | `center`  |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `50%`     |
-
-## To Top (Particle)
-
-### Particle Settings
-
-![Demo Copyright](demo_copyright_5.jpeg)
-
-| Option        | Setting                       |
-| :-----        | :-----                        |
-| Particle Name | `To Top`                      |
-| CSS Classes   | `g-totop`                     |
-| Icon          | `fa fa-angle-double-up fa-fw` |
-| Text          | `To Top`                      |
-
-### Block Settings
-
 ![Demo Copyright](demo_copyright_6.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |
 | CSS ID         | Blank         |
-| CSS Classes    | `align-right` |
+| CSS Classes    | `g-copyright` |
 | Variations     | Blank         |
 | Tag Attributes | Blank         |
 | Fixed Size     | Unchecked     |
-| Block Size     | `25%`         |
+| Block Size     | `48%`         |
 
+## Custom HTML (Particle)
+
+The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the **extension-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
+
+### Module Position Particle Settings
+
+#### Particle Settings
+
+![Demo Extension](demo_copyright_7.png)
+
+| Option        | Setting          |
+| :-----        | :-----           |
+| Particle Name | `FP Extension A` |
+| Key           | `copyright-a`    |
+| Chrome        | `gantry`         |
+
+#### Block Settings
+
+![Demo Extension](demo_copyright_8.png)
+
+| Option         | Setting                        |
+| :-----         | :-----                         |
+| CSS ID         | Blank                          |
+| CSS Classes    | `nomarginleft` `nopaddingleft` |
+| Variations     | Blank                          |
+| Tag Attributes | Blank                          |
+| Fixed Size     | Unchecked                      |
+| Block Size     | `52%`                          |
+
+### Custom HTML Particle Settings
+
+#### Particle Settings
+
+![Demo Extension](demo_copyright_9.png)
+
+| Option             | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Twig       | Unchecked     |
+| Process Shortcodes | Unchecked     |
+
+**Custom HTML**
+
+~~~ .html
+<div class="g-grid g-sample-sitemap">
+<div class="g-block">
+<ul class="nomarginall g-bottom-menu align-right">
+<li><a href="index.php">Home</a> </li>
+<li><a href="#"><i class="fa fa-circle"></i> About</a></li>
+<li><a href="#"><i class="fa fa-circle"></i> Terms</a></li>
+<li><a href="#"><i class="fa fa-circle"></i> Legal</a></li>
+<li><a href="#"><i class="fa fa-circle"></i> Disclaimer</a></li>
+</ul>
+</div>
+</div>
+~~~
