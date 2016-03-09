@@ -7,39 +7,41 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_5.jpeg)
+![](assets/demo_4.png)
 
-:   1. **Custom HTML** [10%, 5%, se]
-    2. **Logo / Image** [10%, 55%, se]
+:   1. **Accordion** [10%, 5%, se]
+    2. **Custom HTML** [10%, 55%, se]
+    3. **Grid Content** [15%, 15%, se]
 
-The **Showcase** section includes a **Custom HTML** and a **Logo / Image** particle assigned to the **Showcase A** and **Showcase B** module positions.
+The **Showcase** section includes three particles: Accordion, Custom HTML, and . The **Accordion** particle is assigned to the **showcase-a** module position, while the **Custom HTML** and **Grid Content** particles are assigned to the **showcase-b** module position.
 
-![](assets/home_showcase.jpeg)
+![](assets/home_showcase.png)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
+* [Accordion (particle)](#accordion-(particle))
 * [Custom HTML (particle)](#custom-html-(particle))
-* [Logo / Image (Particle)](#logo-image-(particle))
+* [Grid Content (Particle)](#grid-content-(particle))
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.jpeg)
+![](assets/demo_showcase_settings.png)
 
-| Option           | Setting                   |
-| :--------------- | :----------               |
-| Layout           | Fullwidth (Boxed Content) |
-| CSS Classes      | `g-compact`               |
-| Tag Attributes   | Blank                     |
+| Option           | Setting     |
+| :--------------- | :---------- |
+| Layout           | Boxed       |
+| CSS Classes      | `g-compact` |
+| Tag Attributes   | Blank       |
 
-## Custom HTML (Particle)
+## Accordion (Particle)
 
-The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the **showcase-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
+The **Accordion** particle is a **Gantry 5 Particle** module placed within the **showcase-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_1.jpeg)
+![Demo Showcase](demo_showcase_1.png)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -49,44 +51,44 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_2.jpeg)
+![Demo Showcase](demo_showcase_2.png)
 
-| Option         | Setting             |
-| :-----         | :-----              |
-| CSS ID         | Blank               |
-| CSS Classes    | `g-center-vertical` |
-| Variations     | Blank               |
-| Tag Attributes | Blank               |
-| Fixed Size     | Unchecked           |
-| Block Size     | `50%`               |
+| Option         | Setting   |
+| :-----         | :-----    |
+| CSS ID         | Blank     |
+| CSS Classes    | Blank     |
+| Variations     | Blank     |
+| Tag Attributes | Blank     |
+| Fixed Size     | Unchecked |
+| Block Size     | `68%`     |
 
-### Custom HTML Particle Settings
+### Accordion Particle Settings
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_3.jpeg)
+![Demo Showcase](demo_showcase_3.png)
 
-| Option             | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Unchecked     |
+| Option                | Setting                                                                                                                                                 |
+| :-----                | :-----                                                                                                                                                  |
+| Particle Name         | `Accordion`                                                                                                                                             |
+| CSS Classes           | Blank                                                                                                                                                   |
+| Title                 | Blank                                                                                                                                                   |
+| Item 1 Name           | `Twig Templating Engine`                                                                                                                                |
+| Item 1 Description    | `Twig is a templating engine for PHP, that provides a sub-platform, making the code easier to manage and customize, and powers the Gantry 5 Particles.` |
+| Item 1 Button Label   | Blank                                                                                                                                                   |
+| Item 1 Button Link    | Blank                                                                                                                                                   |
+| Item 1 Target         | Self                                                                                                                                                    |
+| Item 1 Button Classes | Blank                                                                                                                                                   |
 
-**Custom HTML**
+## Custom HTML (Particle)
 
-~~~ .html
-<h2 class="g-title">Gantry is a cross-platform framework with a vast library of standardized features and functions, to make powerful, flexible themes.</h2>
-<p><a href="http://www.gantry.org" class="readon">Read more about Gantry</a></p>
-~~~
-
-## Logo Image (Particle)
-
-The **Logo / Image** particle is a **Gantry 5 Particle** module placed within the **showcase-b** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
+The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the **showcase-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 
 ### Module Position Particle Settings
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_4.jpeg)
+![Demo Showcase](demo_showcase_4.png)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -96,27 +98,84 @@ The **Logo / Image** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_5.jpeg)
+![Demo Showcase](demo_showcase_5.png)
 
-| Option         | Setting                            |
-| :-----         | :-----                             |
-| CSS ID         | Blank                              |
-| CSS Classes    | `nomarginbottom` `nopaddingbottom` |
-| Variations     | Blank                              |
-| Tag Attributes | Blank                              |
-| Fixed Size     | Unchecked                          |
-| Block Size     | `50%`                             |
+| Option         | Setting               |
+| :-----         | :-----                |
+| CSS ID         | Blank                 |
+| CSS Classes    | Blank                 |
+| Variations     | No Margin, No Padding |
+| Tag Attributes | Blank                 |
+| Fixed Size     | Unchecked             |
+| Block Size     | `32%`                 |
 
-### Logo / Image Particle Settings
+### Custom HTML Particle Settings
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_6.jpeg)
+![Demo Showcase](demo_showcase_6.png)
 
-| Option        | Setting        |
-| :-----        | :-----         |
-| Particle Name | `Logo / Image` |
-| URL           | Blank          |
-| Image         | Custom         |
-| Text          | Blank          |
-| CSS Classes   | Blank          |
+| Option             | Setting       |
+| :-----             | :-----        |
+| Particle Name      | `Custom HTML` |
+| Process Twig       | Unchecked     |
+| Process Shortcodes | Unchecked     |
+
+**Custom HTML**
+
+~~~ .html
+<h4>London Office, UK </h4>
+<p class="desc">+ 44 1632 960956</p>
+<p><a href="mailto:london@photon.com" class="email">london@photon.com</a></p>
+~~~
+
+## Grid Content (Particle)
+
+The **Grid Content** particle is a **Gantry 5 Particle** module placed within the **showcase-b** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
+
+### Module Position Particle Settings
+
+#### Particle Settings
+
+![Demo Showcase](demo_showcase_4.png)
+
+| Option        | Setting         |
+| :-----        | :-----          |
+| Particle Name | `FP Showcase B` |
+| Key           | `showcase-b`    |
+| Chrome        | `gantry`        |
+
+#### Block Settings
+
+![Demo Showcase](demo_showcase_5.png)
+
+| Option         | Setting               |
+| :-----         | :-----                |
+| CSS ID         | Blank                 |
+| CSS Classes    | Blank                 |
+| Variations     | No Margin, No Padding |
+| Tag Attributes | Blank                 |
+| Fixed Size     | Unchecked             |
+| Block Size     | `32%`                 |
+
+### Grid Content Particle Settings
+
+#### Particle Settings
+
+![Demo Showcase](demo_showcase_7.png)
+
+| Option             | Setting              |
+| :-----             | :-----               |
+| Particle Name      | `Grid Content`       |
+| CSS Classes        | Blank                |
+| Title              | Custom               |
+| Description        | Blank                |
+| Readmore Text      | Blank                |
+| Readmore Link      |                      |
+| Readmore Style     | Style 3              |
+| Grid Column        | 2 Columns            |
+| Item 1 Name        | `Gantry 5 Framework` |
+| Item 1 Icon        | `fa fa-cog`          |
+| Item 1 Icon Color  | Accent Color 1       |
+| Item 1 Description | Blank                |
+| Item 1 Link        | Blank                |
