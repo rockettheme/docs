@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Photon](templates/photon)
 	- [Galatea](templates/galatea)
 	- [Antares](templates/antares)
 	- [Xenon](templates/xenon)
