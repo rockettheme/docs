@@ -13,64 +13,45 @@ The **Portfolio** example page demonstrates how you can create a beautiful page 
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_portfolio.jpeg)
+![](assets/page_portfolio.png)
 
-:   1. **Slideshow** FlexSlider (particle) [5%, 2%, se]
-    2. **Feature** Info List (particle) [21%, 7%, se]
-    3. **Feature** Image Grid (particle) [45%, 7%, se]
-    4. **Feature** Block Content (particle) [63%, 7%, se]
-    5. **Extension** Info List (particle) [74%, 7%, se]
+:   1. **Header** Simple Content (particle) [5%, 2%, se]
+	2. **Showcase** 
 
-* [Slideshow](#slideshow-section)
-* [Feature](#feature-section)
-* [Extension](#extension-section)
+* [Header](#header-section)
+* [Showcase](#showcase-section)
 
-# Slideshow Section
+# Header Section
 
-![](assets/page_portfolio_1.jpeg)
+![](assets/page_portfolio_1.png)
 
-This area of the page is an **FlexSlider** particle. You will find the settings used in our demo below.
+This area of the page is a **Simple Content** particle. You will find the settings used in our demo below.
 
 ## Section Settings
 
-| Field          | Setting                     |
-| :-----         | :-----                      |
-| Layout         | Fullwidth (Flushed Content) |
-| CSS Classes    | Blank                       |
-| Tag Attributes | Blank                       |
+| Field          | Setting |
+| :-----         | :-----  |
+| Layout         | Boxed   |
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 ## Particle Settings
 
-| Option                      | Setting                                                              |
-| :-----                      | :-----                                                               |
-| Particle Name               | `FlexSlider`                                                         |
-| CSS Classes                 | Blank                                                                |
-| Title                       | Blank                                                                |
-| Layout                      | Showcase                                                             |
-| Thumbnail Width             | `200`                                                                |
-| Autoplay                    | Disable                                                              |
-| Autoplay Speed              | `5000`                                                               |
-| Pause on Hover              | Disable                                                              |
-| Animation Type              | Slide                                                                |
-| Prev Button Text            | `Prev`                                                               |
-| Next Button Text            | `Next`                                                               |
-| RTL Move                    | Disable                                                              |
-| Item 1 Name                 | `New Item`                                                           |
-| Item 1 Background Image     | `gantry-media://rocketlauncher/pages/portfolio/slideshow/img-01.jpg` |
-| Item 1 Overlay Image        | Blank                                                                |
-| Item 1 Overlay Parallax     | Disabled                                                             |
-| Item 1 Parallax Ratio       | Blank                                                                |
-| Item 1 Subtitle             | Blank                                                                |
-| Item 1 Title                | `Portfolio`                                                          |
-| Item 1 Description          | `Some description goes here. We have done awesome stuff.`            |
-| Item 1 Testimonial Image    | Blank                                                                |
-| Item 1 Testimonial Name     | Blank                                                                |
-| Item 1 Testimonial Position | Blank                                                                |
-| Item 1 Link                 | `#`                                                                  |
-| Item 1 Link Text            | `See Project`                                                        |
-| Item 1 Target               | Self                                                                 |
-| Item 1 Button Class         | `button-2`                                                           |
-
+| Option                   | Setting                                                                                                                                    |
+| :-----                   | :-----                                                                                                                                     |
+| CSS Classes              | Blank                                                                                                                                      |
+| Title                    | Blank                                                                                                                                      |
+| Item 1 Name              | `Portfolio`                                                                                                                                |
+| Item 1 Layout Style      | Blank                                                                                                                                      |
+| Item 1 Created Date      | Blank                                                                                                                                      |
+| Item 1 Content Title     | `Portfolio`                                                                                                                                |
+| Item 1 Author            | Blank                                                                                                                                      |
+| Item 1 Leading Content   | `The Menu Editor in Gantry 5 grants you drag and drop controls, for creating columns, adding particles and blocks inline, and reordering.` |
+| Item 1 Main Content      | Blank                                                                                                                                      |
+| Item 1 Read More Label   | Blank                                                                                                                                      |
+| Item 1 Read More Link    | Blank                                                                                                                                      |
+| Item 1 Read More Classes | Blank                                                                                                                                      |
+| Item 1 Target            | Self                                                                                                                                       |
 
 ## Block Settings
 
@@ -85,7 +66,7 @@ This area of the page is an **FlexSlider** particle. You will find the settings 
 
 # Showcase Section
 
-![](assets/page_portfolio_2.jpeg)
+![](assets/page_portfolio_2.png)
 
 :   1. **Info List** (20%, 20%, se)
     2. **Image Grid** (20%, 20%, se)
@@ -95,11 +76,11 @@ This area of the page features three particles: **Info List**, **Image Grid**, a
 
 ## Section Settings
 
-| Field          | Setting                   |
-| :-----         | :-----                    |
-| Layout         | Fullwidth (Boxed Content) |
-| CSS Classes    | Blank                     |
-| Tag Attributes | Blank                     |
+| Field          | Setting |
+| :-----         | :-----  |
+| Layout         | Boxed   |
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 ## Particle Settings (Info List)
 
@@ -203,7 +184,7 @@ This area of the page features three particles: **Info List**, **Image Grid**, a
 
 # Extension Section
 
-![](assets/page_portfolio_3.jpeg)
+![](assets/page_portfolio_3.png)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
