@@ -9,6 +9,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ![](assets/demo_3.png)
 
+:	1. **Image Grid** [10%, 3%, se]
+	2. **Pricing Table** [10%, 70%, se]
+
 The **Header** section includes two particles assigned to the **header-a** and **header-b** module positions.
 
 ![](assets/home_header.png)
@@ -28,7 +31,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | CSS Classes      | `g-offset-padding` |
 | Tag Attributes   | Blank              |
 
-## Image Grid (Particle) 1
+## Image Grid (Particle)
 
 The **Image Grid** particle is a **Gantry 5 Particle** module placed within the **header-a** module position. Adding a particle to a module position can be done by creating a **Gantry 5 Particle** module, adding the particle using the settings found in the section below, and assigning it to the position.
 

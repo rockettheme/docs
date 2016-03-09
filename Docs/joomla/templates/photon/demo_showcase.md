@@ -9,9 +9,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ![](assets/demo_4.png)
 
-:   1. **Accordion** [10%, 5%, se]
-    2. **Custom HTML** [10%, 55%, se]
-    3. **Grid Content** [15%, 15%, se]
+:   1. **Accordion** [8%, 5%, se]
+    2. **Custom HTML** [8%, 70%, se]
+    3. **Grid Content** [40%, 70%, se]
 
 The **Showcase** section includes three particles: **Accordion**, **Custom HTML**, and **Grid Content**. The **Accordion** particle is assigned to the **showcase-a** module position, while the **Custom HTML** and **Grid Content** particles are assigned to the **showcase-b** module position.
 

@@ -10,7 +10,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 ![](assets/demo_1.png)
 
 :   1. **Logo / Image (Particle)** [10%, 2%, se]
-    2. **Menu (Particle)** [10%, 40%, se]
+    2. **Menu (Particle)** [10%, 20%, se]
     3. **Social (Particle)** [10%, 88%, se]
 
 The **Navigation** section includes three particles, **Logo**, **Menu**, and **Social**.

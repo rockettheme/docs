@@ -9,11 +9,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ![](assets/demo_5.png)
 
-:   1. **Content Tabs** [10%, 5%, se]
-    2. **Owl Carousel** [10%, 55%, se]
-    3. **Simple Content** [15%, 15%, se]
+:   1. **Content Tabs** [5%, 3%, se]
+    2. **Owl Carousel** [5%, 63%, se]
+    3. **Simple Content** [55%, 67%, se]
 
-The **Showcase** section includes three particles: **Content Tabs**, **Owl Carousel**, and . The **Content Tabs** particle is assigned to the **expanded-a** module position, while the **Owl Carousel** and **Simple Content** particles are assigned to the **expanded-b** module position.
+The **Showcase** section includes three particles: **Content Tabs**, **Owl Carousel**, and **Simple Content**. The **Content Tabs** particle is assigned to the **expanded-a** module position, while the **Owl Carousel** and **Simple Content** particles are assigned to the **expanded-b** module position.
 
 ![](assets/home_expanded.png)
 

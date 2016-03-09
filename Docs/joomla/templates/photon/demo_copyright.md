@@ -7,16 +7,16 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_7.jpeg)
+![](assets/demo_7.png)
 
 :	1. **Logo / Image (Particle)** [5%, 1%, se]
-	2. **Newsletter (Particle)** [5%, 75%, se]
-	3. **Copyright (Particle)** [50%, 40%, se]
-	4. **Custom HTML (Particle)** [50%, 45%, se]
+	2. **Newsletter (Particle)** [5%, 60%, se]
+	3. **Copyright (Particle)** [65%, 1%, se]
+	4. **Custom HTML (Particle)** [65%, 60%, se]
 
 The **Copyright** section includes four particles: **Logo / Image**, **Newsletter**, **Copyright**, and a **Custom HTML** particle assigned to the **copyright-a** module position.
 
-![](assets/home_copyright.jpeg)
+![](assets/home_copyright.png)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -27,7 +27,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.jpeg)
+![](assets/demo_copyright_settings.png)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -39,7 +39,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_1.jpeg)
+![Demo Copyright](demo_copyright_1.png)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -51,7 +51,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_2.jpeg)
+![Demo Copyright](demo_copyright_2.png)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -66,7 +66,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_3.jpeg)
+![Demo Copyright](demo_copyright_3.png)
 
 | Option         | Setting      |
 | :-----         | :-----       |
@@ -86,7 +86,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_4.jpeg)
+![Demo Copyright](demo_copyright_4.png)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -101,7 +101,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_5.jpeg)
+![Demo Copyright](demo_copyright_5.png)
 
 | Option          | Setting           |
 | :-----          | :-----            |
@@ -112,7 +112,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_6.jpeg)
+![Demo Copyright](demo_copyright_6.png)
 
 | Option         | Setting       |
 | :-----         | :-----        |

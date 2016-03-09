@@ -23,34 +23,34 @@ Below, you will find the module placement and settings for the various module po
 
 ![](assets/photon2.png)
 
-:   1. **Navigation** OffSidebar Toggle (Particle) [1%, 5%, se]
-    2. **Navigation** Logo / Image (Particle) [1%, 40%, se]
+:   1. **Navigation** Logo / Image (Particle) [1%, 8%, se]
+    2. **Navigation** Menu (Particle) [1%, 25%, se]
     3. **Navigation** Social (Particle) [1%, 85%, se]
-    4. **Slideshow** Owl Carousel (Particle) [5%, 7%, se]
-    5. **Header** Mosaic Grid (Particle) [10%, 7%, se]
-    6. **Showcase** Custom HTML (Particle) [42%, 7% se]
-    7. **Showcase** Logo / Image (Particle) [42%, 50%, se]
-    8. **Utility** Block Content  (Particle) [53%, 7%, se]
-    9. **Feature** Pricing Table (Particle) [65%, 7%, se]
-    10. **Bottom** Info List (Particle) [85%, 7%, se]
-    11. **Bottom** Info List (Particle) [85%, 33%, se]
-    12. **Bottom** Custom HTML (Particle) [85%, 65%, se]
-    13. **Footer** Newsletter (Particle) [95%, 35%, se]
-    14. **Copyright** Branding (Particle) [99%, 7%, se]
-    15. **Copyright** Copyright (Particle) [99%, 33%, se]
-    16. **Copyright** To Top (Particle) [99%, 90%, se]
+    4. **Slideshow** News Slider (Particle) [5%, 8%, se]
+    5. **Header** Image Grid (Particle) [25%, 8%, se]
+    6. **Header** Pricing Table (Particle) [25%, 65% se]
+    8. **Showcase** Accordion (Particle) [38%, 8%, se]
+    8. **Showcase** Custom HTML (Particle) [38%, 65%, se]
+    9. **Showcase** Grid Content (Particle) [44%, 65%, se]
+    10. **Expanded** Content Tabs (Particle) [59%, 8%, se]
+    11. **Expanded** Owl Carousel (Particle) [59%, 65%, se]
+    12. **Expanded** Simple Content (Particle) [70%, 66%, se]
+    13. **Extension** Owl Carousel (Particle) [81%, 8%, se]
+    14. **Copyright** Logo / Image (Particle) [93%, 8%, se]
+    15. **Copyright** Newsletter (Particle) [93%, 60%, se]
+    16. **Copyright** Copyright (Particle) [96%, 8%, se]
+    17. **Copyright** Custom HTML (Particle) [96%, 60%, se]
+
 
 We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
 1. [Navigation](demo_navigation.md)
 2. [Slideshow](demo_slideshow.md)
 3. [Header](demo_header.md)
-3. [Showcase](demo_showcase.md)
-4. [Utility](demo_utility.md)
-5. [Feature](demo_feature.md)
-6. [Bottom](demo_bottom.md)
-7. [Footer](demo_footer.md)
-8. [Copyright](demo_copyright.md)
+4. [Showcase](demo_showcase.md)
+5. [Expanded](demo_expanded.md)
+6. [Extension](demo_extension.md)
+7. [Copyright](demo_copyright.md)
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 

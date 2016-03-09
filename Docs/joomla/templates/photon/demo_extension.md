@@ -15,7 +15,7 @@ The **Extension** section includes one **Owl Carousel** particle. This particle 
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
-* [Owl Carousel` (particle)](#owl-carousel-(particle))
+* [Owl Carousel (particle)](#owl-carousel-(particle))
 
 ## Section Settings
 
