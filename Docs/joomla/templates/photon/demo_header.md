@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_3.png)
+![](assets/demo_3.jpeg)
 
 :	1. **Image Grid** [10%, 3%, se]
 	2. **Pricing Table** [10%, 70%, se]
 
 The **Header** section includes two particles assigned to the **header-a** and **header-b** module positions.
 
-![](assets/home_header.png)
+![](assets/home_header.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -23,7 +23,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_header_settings.png)
+![](assets/demo_header_settings.jpeg)
 
 | Option           | Setting            |
 | :--------------- | :----------        |
@@ -39,7 +39,7 @@ The **Image Grid** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Particle Settings
 
-![Demo Header](demo_header_1.png)
+![Demo Header](demo_header_1.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -49,7 +49,7 @@ The **Image Grid** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Block Settings
 
-![Demo Header](demo_header_2.png)
+![Demo Header](demo_header_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -64,7 +64,7 @@ The **Image Grid** particle is a **Gantry 5 Particle** module placed within the 
 
 #### Particle Settings
 
-![Demo Header](demo_header_3.png)
+![Demo Header](demo_header_3.jpeg)
 
 | Option             | Setting                                                                      |
 | :-----             | :-----                                                                       |
@@ -86,7 +86,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Header](demo_header_4.png)
+![Demo Header](demo_header_4.jpeg)
 
 | Option        | Setting       |
 | :-----        | :-----        |
@@ -96,7 +96,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Block Settings
 
-![Demo Header](demo_header_5.png)
+![Demo Header](demo_header_5.jpeg)
 
 | Option         | Setting                  |
 | :-----         | :-----                   |
@@ -111,7 +111,7 @@ The **Pricing Table** particle is a **Gantry 5 Particle** module placed within t
 
 #### Particle Settings
 
-![Demo Header](demo_header_6.png)
+![Demo Header](demo_header_6.jpeg)
 
 | Option                 | Setting                |
 | :-----                 | :-----                 |

@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_6.png)
+![](assets/demo_6.jpeg)
 
 The **Extension** section includes one **Owl Carousel** particle. This particle is placed within the **Extension A** module position.
 
-![](assets/home_extension.png)
+![](assets/home_extension.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -19,7 +19,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_extension_settings.png)
+![](assets/demo_extension_settings.jpeg)
 
 | Option           | Setting       |
 | :--------------- | :----------   |
@@ -35,7 +35,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Extension](demo_extension_1.png)
+![Demo Extension](demo_extension_1.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -45,7 +45,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Extension](demo_extension_2.png)
+![Demo Extension](demo_extension_2.jpeg)
 
 | Option         | Setting               |
 | :-----         | :-----                |
@@ -60,7 +60,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Extension](demo_extension_3.png)
+![Demo Extension](demo_extension_3.jpeg)
 
 | Option              | Setting                                                                                                                                                                                                    |
 | :-----              | :-----                                                                                                                                                                                                     |

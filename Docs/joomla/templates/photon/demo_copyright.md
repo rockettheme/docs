@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 :	1. **Logo / Image (Particle)** [5%, 1%, se]
 	2. **Newsletter (Particle)** [5%, 60%, se]
@@ -16,7 +16,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 The **Copyright** section includes four particles: **Logo / Image**, **Newsletter**, **Copyright**, and a **Custom HTML** particle assigned to the **copyright-a** module position.
 
-![](assets/home_copyright.png)
+![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -27,7 +27,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.png)
+![](assets/demo_copyright_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -39,7 +39,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_1.png)
+![Demo Copyright](demo_copyright_1.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -51,7 +51,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_2.png)
+![Demo Copyright](demo_copyright_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -66,7 +66,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_3.png)
+![Demo Copyright](demo_copyright_3.jpeg)
 
 | Option         | Setting      |
 | :-----         | :-----       |
@@ -86,7 +86,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_4.png)
+![Demo Copyright](demo_copyright_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -101,7 +101,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Copyright](demo_copyright_5.png)
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option          | Setting           |
 | :-----          | :-----            |
@@ -112,7 +112,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Copyright](demo_copyright_6.png)
+![Demo Copyright](demo_copyright_6.jpeg)
 
 | Option         | Setting       |
 | :-----         | :-----        |
@@ -131,7 +131,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Extension](demo_copyright_7.png)
+![Demo Extension](demo_copyright_7.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -141,7 +141,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Block Settings
 
-![Demo Extension](demo_copyright_8.png)
+![Demo Extension](demo_copyright_8.jpeg)
 
 | Option         | Setting                        |
 | :-----         | :-----                         |
@@ -156,7 +156,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Extension](demo_copyright_9.png)
+![Demo Extension](demo_copyright_9.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |

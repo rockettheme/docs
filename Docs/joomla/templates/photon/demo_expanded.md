@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_5.png)
+![](assets/demo_5.jpeg)
 
 :   1. **Content Tabs** [5%, 3%, se]
     2. **Owl Carousel** [5%, 63%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 The **Showcase** section includes three particles: **Content Tabs**, **Owl Carousel**, and **Simple Content**. The **Content Tabs** particle is assigned to the **expanded-a** module position, while the **Owl Carousel** and **Simple Content** particles are assigned to the **expanded-b** module position.
 
-![](assets/home_expanded.png)
+![](assets/home_expanded.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_expanded_settings.png)
+![](assets/demo_expanded_settings.jpeg)
 
 | Option           | Setting          |
 | :--------------- | :----------      |
@@ -41,7 +41,7 @@ The **Content Tabs** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_1.png)
+![Demo Expanded](demo_expanded_1.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -51,7 +51,7 @@ The **Content Tabs** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Expanded](demo_expanded_2.png)
+![Demo Expanded](demo_expanded_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -66,7 +66,7 @@ The **Content Tabs** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_3.png)
+![Demo Expanded](demo_expanded_3.jpeg)
 
 | Option                     | Setting                                                                                                                                    |
 | :-----                     | :-----                                                                                                                                     |
@@ -95,7 +95,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_4.png)
+![Demo Expanded](demo_expanded_4.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -105,7 +105,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Expanded](demo_expanded_5.png)
+![Demo Expanded](demo_expanded_5.jpeg)
 
 | Option         | Setting                  |
 | :-----         | :-----                   |
@@ -120,7 +120,7 @@ The **Owl Carousel** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_6.png)
+![Demo Expanded](demo_expanded_6.jpeg)
 
 | Option                 | Setting                |
 | :-----                 | :-----                 |
@@ -159,7 +159,7 @@ The **Simple Content** particle is a **Gantry 5 Particle** module placed within 
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_4.png)
+![Demo Expanded](demo_expanded_4.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -169,7 +169,7 @@ The **Simple Content** particle is a **Gantry 5 Particle** module placed within 
 
 #### Block Settings
 
-![Demo Expanded](demo_expanded_5.png)
+![Demo Expanded](demo_expanded_5.jpeg)
 
 | Option         | Setting                  |
 | :-----         | :-----                   |
@@ -184,7 +184,7 @@ The **Simple Content** particle is a **Gantry 5 Particle** module placed within 
 
 #### Particle Settings
 
-![Demo Expanded](demo_expanded_7.png)
+![Demo Expanded](demo_expanded_7.jpeg)
 
 | Option                   | Setting          |
 | :-----                   | :-----           |

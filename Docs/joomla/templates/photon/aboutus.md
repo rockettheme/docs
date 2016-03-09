@@ -13,7 +13,7 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_aboutus.png)
+![](assets/page_aboutus.jpeg)
 
 :   1. **Header** Simple Content (particle) [6%, 40%, se]
     2. **ShowcaseBanner** Custom HTML (particle) [13%, 40%, se]
@@ -39,7 +39,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 # Header Section
 
-![](assets/page_aboutus_1.png)
+![](assets/page_aboutus_1.jpeg)
 
 This area of the page is a **Simple Content** particle. You will find the settings used in our demo below.
 
@@ -83,7 +83,7 @@ This area of the page is a **Simple Content** particle. You will find the settin
 
 # ShowcaseBanner Section
 
-![](assets/page_aboutus_2.png)
+![](assets/page_aboutus_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -122,7 +122,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Showcase Section
 
-![](assets/page_aboutus_3.png)
+![](assets/page_aboutus_3.jpeg)
 
 This area of the page is an **Mosaic Grid** particle. You will find the settings used in our demo below.
 
@@ -170,7 +170,7 @@ This area of the page is an **Mosaic Grid** particle. You will find the settings
 
 # UtilityBanner Section
 
-![](assets/page_aboutus_4.png)
+![](assets/page_aboutus_4.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -209,7 +209,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Utility Section
 
-![](assets/page_aboutus_5.png)
+![](assets/page_aboutus_5.jpeg)
 
 This area of the page is an **Grid Statistic** particle. You will find the settings used in our demo below.
 
@@ -252,7 +252,7 @@ This area of the page is an **Grid Statistic** particle. You will find the setti
 
 # FeatureBanner Section
 
-![](assets/page_aboutus_6.png)
+![](assets/page_aboutus_6.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -291,7 +291,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Feature Section
 
-![](assets/page_aboutus_7.png)
+![](assets/page_aboutus_7.jpeg)
 
 This area of the page is an **Image Grid** particle. You will find the settings used in our demo below.
 
@@ -331,7 +331,7 @@ This area of the page is an **Image Grid** particle. You will find the settings 
 
 # FeatureBanner Section
 
-![](assets/page_aboutus_8.png)
+![](assets/page_aboutus_8.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -370,7 +370,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Main Section
 
-![](assets/page_aboutus_9.png)
+![](assets/page_aboutus_9.jpeg)
 
 This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
@@ -424,7 +424,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 
 # Extension Section
 
-![](assets/page_aboutus_10.png)
+![](assets/page_aboutus_10.jpeg)
 
 This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 

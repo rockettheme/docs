@@ -21,7 +21,7 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/photon2.png)
+![](assets/photon2.jpeg)
 
 :   1. **Navigation** Logo / Image (Particle) [1%, 8%, se]
     2. **Navigation** Menu (Particle) [1%, 25%, se]
@@ -76,7 +76,7 @@ The front page of the Photon demo sits apart from the rest of the page layouts i
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.png)
+![Layout Presets](assets/layout_presets.jpeg)
 
 In order to make it really easy to replicate the home page, we included two layout presets for the home page with the theme. The first, **Home - Particles** includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 
@@ -96,7 +96,7 @@ It would be a good idea for organization to name this outline something like **P
 Menu Editor
 -----
 
-![](assets/menu_1.png)
+![](assets/menu_1.jpeg)
 
 Photon has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
@@ -105,6 +105,6 @@ You can access the Gantry Menu Editor by navigating to **Administrator > Compone
 Assignments
 -----
 
-![](assets/assignments_1.png)
+![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Photon** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

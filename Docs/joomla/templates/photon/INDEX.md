@@ -10,7 +10,7 @@ Introduction
 
 Photon features a bold, elegant theme that blends dynamic content elements while maintaining a level of simplicity that is the hallmark of modern design. Powered by Gantry 5, Photon is extremely easy to configure with limitless versatility.
 
-![](assets/photon.png)
+![](assets/photon.jpeg)
 
 Requirements
 -----

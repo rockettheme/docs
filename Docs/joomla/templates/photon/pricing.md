@@ -13,7 +13,7 @@ The **Pricing** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_pricing.png)
+![](assets/page_pricing.jpeg)
 
 :   1. **Header** Simple Content (particle) [7%, 5%, se]
     2. **FeatureBanner** Custom HTML (particle) [20%, 10%, se]
@@ -25,7 +25,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 # Header Section
 
-![](assets/page_pricing_1.png)
+![](assets/page_pricing_1.jpeg)
 
 This area of the page is a **Simple Content** particle. You will find the settings used in our demo below.
 
@@ -68,7 +68,7 @@ This area of the page is a **Simple Content** particle. You will find the settin
 
 # FeatureBanner Section
 
-![](assets/page_pricing_2.png)
+![](assets/page_pricing_2.jpeg)
 
 This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
 
@@ -107,7 +107,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 # Feature Section
 
-![](assets/page_pricing_3.png)
+![](assets/page_pricing_3.jpeg)
 
 This area of the page features a **Pricing Table** particle. You will find the settings used in our demo below.
 

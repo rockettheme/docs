@@ -13,7 +13,7 @@ The **Portfolio** example page demonstrates how you can create a beautiful page 
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_portfolio.png)
+![](assets/page_portfolio.jpeg)
 
 :   1. **Header** Simple Content (particle) [6%, 45%, se]
 	2. **Showcase** Info List (particle) [15%, 8%, se]
@@ -27,7 +27,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 # Header Section
 
-![](assets/page_portfolio_1.png)
+![](assets/page_portfolio_1.jpeg)
 
 This area of the page is a **Simple Content** particle. You will find the settings used in our demo below.
 
@@ -70,7 +70,7 @@ This area of the page is a **Simple Content** particle. You will find the settin
 
 # Showcase Section
 
-![](assets/page_portfolio_2.png)
+![](assets/page_portfolio_2.jpeg)
 
 :   1. **Info List** (20%, 20%, se)
     2. **Image Grid** (20%, 20%, se)
@@ -188,7 +188,7 @@ This area of the page features three particles: **Info List**, **Image Grid**, a
 
 # Extension Section
 
-![](assets/page_portfolio_3.png)
+![](assets/page_portfolio_3.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 

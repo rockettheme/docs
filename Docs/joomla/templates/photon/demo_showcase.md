@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ## Introduction
 
-![](assets/demo_4.png)
+![](assets/demo_4.jpeg)
 
 :   1. **Accordion** [8%, 5%, se]
     2. **Custom HTML** [8%, 70%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 The **Showcase** section includes three particles: **Accordion**, **Custom HTML**, and **Grid Content**. The **Accordion** particle is assigned to the **showcase-a** module position, while the **Custom HTML** and **Grid Content** particles are assigned to the **showcase-b** module position.
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.png)
+![](assets/demo_showcase_settings.jpeg)
 
 | Option           | Setting     |
 | :--------------- | :---------- |
@@ -41,7 +41,7 @@ The **Accordion** particle is a **Gantry 5 Particle** module placed within the *
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_1.png)
+![Demo Showcase](demo_showcase_1.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -51,7 +51,7 @@ The **Accordion** particle is a **Gantry 5 Particle** module placed within the *
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_2.png)
+![Demo Showcase](demo_showcase_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -66,7 +66,7 @@ The **Accordion** particle is a **Gantry 5 Particle** module placed within the *
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_3.png)
+![Demo Showcase](demo_showcase_3.jpeg)
 
 | Option                | Setting                                                                                                                                                 |
 | :-----                | :-----                                                                                                                                                  |
@@ -88,7 +88,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_4.png)
+![Demo Showcase](demo_showcase_4.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -98,7 +98,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_5.png)
+![Demo Showcase](demo_showcase_5.jpeg)
 
 | Option         | Setting               |
 | :-----         | :-----                |
@@ -113,7 +113,7 @@ The **Custom HTML** particle is a **Gantry 5 Particle** module placed within the
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_6.png)
+![Demo Showcase](demo_showcase_6.jpeg)
 
 | Option             | Setting       |
 | :-----             | :-----        |
@@ -137,7 +137,7 @@ The **Grid Content** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_4.png)
+![Demo Showcase](demo_showcase_4.jpeg)
 
 | Option        | Setting         |
 | :-----        | :-----          |
@@ -147,7 +147,7 @@ The **Grid Content** particle is a **Gantry 5 Particle** module placed within th
 
 #### Block Settings
 
-![Demo Showcase](demo_showcase_5.png)
+![Demo Showcase](demo_showcase_5.jpeg)
 
 | Option         | Setting               |
 | :-----         | :-----                |
@@ -162,7 +162,7 @@ The **Grid Content** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Showcase](demo_showcase_7.png)
+![Demo Showcase](demo_showcase_7.jpeg)
 
 | Option             | Setting              |
 | :-----             | :-----               |
