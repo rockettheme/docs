@@ -15,11 +15,15 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_portfolio.png)
 
-:   1. **Header** Simple Content (particle) [5%, 2%, se]
-	2. **Showcase** 
+:   1. **Header** Simple Content (particle) [6%, 45%, se]
+	2. **Showcase** Info List (particle) [15%, 8%, se]
+	3. **Showcase** Image Grid (particle) [48%, 8%, se]
+	4. **Showcase** Block Content (particle) [65%, 8%, se]
+	5. **Extension** Info List (particle) [74%, 8%, se]
 
 * [Header](#header-section)
 * [Showcase](#showcase-section)
+* [Extension](#extension-section)
 
 # Header Section
 
