@@ -15,15 +15,15 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_aboutus.png)
 
-:   1. **Header** Simple Content (particle) [7%, 40%, se]
-    2. **ShowcaseBanner** Custom HTML (particle) [20%, 7%, se]
-    3. **Showcase** Mosaic Grid (particle) [38%, 7%, se]
-    4. **UtilityBanner** Custom HTML (particle) [45%, 7%, se]
-    5. **Utility** Grid Statistic (particle) [64%, 25%, se]
-    6. **FeatureBanner** Block Content (particle) [80%, 8%, se]
-    7. **Feature** Image Grid (particle) [50%, 50%, se]
-    8. **MainBanner** Custom HTML (particle) [80%, 8%, se]
-    9. **Main** Block Content (particle) [80%, 8%, se]
+:   1. **Header** Simple Content (particle) [6%, 40%, se]
+    2. **ShowcaseBanner** Custom HTML (particle) [13%, 40%, se]
+    3. **Showcase** Mosaic Grid (particle) [16%, 9%, se]
+    4. **UtilityBanner** Custom HTML (particle) [31%, 40%, se]
+    5. **Utility** Grid Statistic (particle) [35%, 9%, se]
+    6. **FeatureBanner** Block Content (particle) [44%, 40%, se]
+    7. **Feature** Image Grid (particle) [47%, 9%, se]
+    8. **MainBanner** Custom HTML (particle) [63%, 35%, se]
+    9. **Main** Block Content (particle) [67%, 9%, se]
     10. **Extension** Block Content (particle) [80%, 8%, se]
 
 * [Header](#header-section)
