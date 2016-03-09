@@ -13,42 +13,47 @@ The **Pricing** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_pricing.jpeg)
+![](assets/page_pricing.png)
 
-:   1. **Above** Custom HTML (particle) [7%, 5%, se]
-    2. **Feature** Pricing Table (particle) [20%, 10%, se]
+:   1. **Header** Simple Content (particle) [7%, 5%, se]
+    2. **FeatureBanner** Custom HTML (particle) [20%, 10%, se]
     3. **Feature** Pricing Table (particle) [50%, 10%, se]
 
-* [Above](#above-section)
+* [Header](#above-section)
+* [FeatureBanner](#featurebanner-section)
 * [Feature](#feature-section)
 
-# Above Section
+# Header Section
 
-![](assets/page_pricing_1.jpeg)
+![](assets/page_pricing_1.png)
 
-This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+This area of the page is a **Simple Content** particle. You will find the settings used in our demo below.
 
 ## Section Settings
 
-| Field          | Setting                   |
-| :-----         | :-----                    |
-| Layout         | Fullwidth (Boxed Content) |
-| CSS Classes    | Blank                     |
-| Tag Attributes | Blank                     |
+| Field          | Setting |
+| :-----         | :-----  |
+| Layout         | Boxed   |
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 ## Particle Settings
 
-| Option             | Setting       |
-| :-----             | :-----        |
-| Particle Name      | `Custom HTML` |
-| Process Shortcodes | Blank         |
-
-**Custom HTML**
-
-~~~ .html
-<h2 class="g-title">Gantry is a cross-platform framework with a vast library of standardized features and functions, to make powerful, flexible themes.</h2>
-<p><a href="http://www.gantry.org" class="readon">Read more about Gantry</a></p>
-~~~
+| Option                   | Setting                                                                                                                               |
+| :-----                   | :-----                                                                                                                                |
+| CSS Classes              | Blank                                                                                                                                 |
+| Title                    | Blank                                                                                                                                 |
+| Item 1 Name              | `Pricing Overview`                                                                                                                    |
+| Item 1 Layout Style      | Blank                                                                                                                                 |
+| Item 1 Created Date      | Blank                                                                                                                                 |
+| Item 1 Content Title     | `Pricing Overview`                                                                                                                    |
+| Item 1 Author            | Blank                                                                                                                                 |
+| Item 1 Leading Content   | `Gantry is a cross-platform framework with a vast library of standardized features and functions, to make powerful, flexible themes.` |
+| Item 1 Main Content      | Blank                                                                                                                                 |
+| Item 1 Read More Label   | Blank                                                                                                                                 |
+| Item 1 Read More Link    | Blank                                                                                                                                 |
+| Item 1 Read More Classes | Blank                                                                                                                                 |
+| Item 1 Target            | Self                                                                                                                                  |
 
 ## Block Settings
 
@@ -56,16 +61,55 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 | :-----         | :-----    |
 | CSS ID         | Blank     |
 | CSS Classes    | Blank     |
-| Variations     | `Center`  |
+| Variations     | Blank     |
 | Tag Attributes | Blank     |
 | Fixed Size     | Unchecked |
 | Block Size     | `100%`    |
 
+# FeatureBanner Section
+
+![](assets/page_pricing_2.png)
+
+This area of the page is a **Custom HTML** particle. You will find the settings used in our demo below.
+
+## Section Settings
+
+| Field          | Setting |
+| :-----         | :-----  |
+| Layout         | Boxed   |
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
+
+## Particle Settings
+
+| Option                   | Setting                                                                                                                               |
+| :-----                   | :-----                                                                                                                                |
+| CSS Classes              | Blank                                                                                                                                 |
+| Title                    | Blank                                                                                                                                 |
+| Item 1 Name              | `Pricing Overview`                                                                                                                    |
+
+**Custom HTML**
+
+~~~ .html
+<h3 class="g-title nomarginbottom nopaddingbottom">Our Basic Packages Pricing</h3>
+~~~
+
+## Block Settings
+
+| Option         | Setting                            |
+| :-----         | :-----                             |
+| CSS ID         | Blank                              |
+| CSS Classes    | `nomarginbottom` `nopaddingbottom` |
+| Variations     | Blank                              |
+| Tag Attributes | Blank                              |
+| Fixed Size     | Unchecked                          |
+| Block Size     | `100%`                             |
+
 # Feature Section
 
-![](assets/page_pricing_2.jpeg)
+![](assets/page_pricing_3.png)
 
-This area of the page features two **Pricing Table** particles. You will find the settings used in our demo below.
+This area of the page features a **Pricing Table** particle. You will find the settings used in our demo below.
 
 ## Section Settings
 
@@ -86,57 +130,23 @@ This area of the page features two **Pricing Table** particles. You will find th
 | Footer Text            | `<br /><br />`                                                                                                                     |
 | Grid Columns           | 3 Columns                                                                                                                          |
 | Item 1 Name            | `Bronze`                                                                                                                           |
-| CSS Classes            | Blank                                                                                                                              |
-| Ribbon Text            | Blank                                                                                                                              |
-| Icon                   | Blank                                                                                                                              |
-| Price                  | `Free`                                                                                                                             |
-| Period                 | `monthly`                                                                                                                          |
-| Description            | `Some short description to explain this awesome plan`                                                                              |
-| Button Label           | `Choose`                                                                                                                           |
-| Button Link            | `#`                                                                                                                                |
-| Target                 | Self                                                                                                                               |
-| Button Classes         | `button-2` `button-grey`                                                                                                           |
+| Item 1 Accent Color    | Accent Color 1                                                                                                                     |
+| Item 1 Custom Color    | Blank                                                                                                                              |
+| Item 1 CSS Classes     | Blank                                                                                                                              |
+| Item 1 Ribbon Text     | Blank                                                                                                                              |
+| Item 1 Icon            | Blank                                                                                                                              |
+| Item 1 Price           | `Free`                                                                                                                             |
+| Item 1 Period          | `monthly`                                                                                                                          |
+| Item 1 Description     | Blank                                                                                                                              |
+| Item 1 Button Label    | `Choose`                                                                                                                           |
+| Item 1 Button Link     | `#`                                                                                                                                |
+| Item 1 Target          | Self                                                                                                                               |
+| Button Classes         | Blank                                                                                                                              |
 | Subitem 1 Name         | `Item 1`                                                                                                                           |
 | Subitem 1 Text         | `5 web pages`                                                                                                                      |
 | Subitem 1 Item Classes | `g-bold`                                                                                                                           |
 
-## Block Settings (First Pricing Table Particle)
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | `Center`  |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
-
-## Particle Settings (Second Pricing Table Particle)
-
-| Option                 | Setting                                                                                                                            |
-| :-----                 | :-----                                                                                                                             |
-| Particle Name          | `Pricing Table`                                                                                                                    |
-| CSS Classes            | `center` `g-title-large`                                                                                                           |
-| Title                  | `Premium Services`                                                                                                                 |
-| Header Text            | `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec leo dolor. Proin laoreet neque et nisi mollis consequat.` |
-| Footer Text            | `Any questions about our pricing? <strong>Call us at +1-888-1234-5678</strong>`                                                    |
-| Grid Columns           | 3 Columns                                                                                                                          |
-| Item 1 Name            | `Silver`                                                                                                                           |
-| CSS Classes            | `box3` `g-outer-box`                                                                                                               |
-| Ribbon Text            | Blank                                                                                                                              |
-| Icon                   | Blank                                                                                                                              |
-| Price                  | `$129`                                                                                                                             |
-| Period                 | `monthly`                                                                                                                          |
-| Description            | `Some short description to explain this awesome plan`                                                                              |
-| Button Label           | `Choose`                                                                                                                           |
-| Button Link            | `#`                                                                                                                                |
-| Target                 | Self                                                                                                                               |
-| Button Classes         | `button-2` `button-grey`                                                                                                           |
-| Subitem 1 Name         | `Item 1`                                                                                                                           |
-| Subitem 1 Text         | `15 web pages`                                                                                                                     |
-| Subitem 1 Item Classes | `g-bold`                                                                                                                           |
-
-## Block Settings (Second Pricing Table Particle)
+## Block Settings
 
 | Option         | Setting   |
 | :-----         | :-----    |
