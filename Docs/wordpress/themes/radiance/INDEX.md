@@ -17,7 +17,7 @@ Requirements
 
 - Gantry 4 Framework
 - FF, Safari, Chrome, Opera, IE8+
-- PHP 5.2.17+ (5.3+ recommended)
+- PHP 5.4+
 - WordPress 3.x
 
 > > NOTE: An updated version of RokCommon is required for Radiance to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).

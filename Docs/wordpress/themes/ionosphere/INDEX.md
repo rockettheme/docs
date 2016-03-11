@@ -15,7 +15,7 @@ RokSprocket debuts with Ionosphere, a powerful, revolutionary content plugin, th
 Requirements
 -----
 * Apache 2.x or Microsoft IIS 7
-* PHP 5.3.x
+* PHP 5.4+
 * MySQL 5.0.4 or higher
 * WordPress 3.2+, 4.0+
 * Gantry Framework
