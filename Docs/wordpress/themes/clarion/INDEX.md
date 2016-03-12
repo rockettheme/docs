@@ -14,7 +14,7 @@ Clarion is a subtle, conservatively styled design, that is primed for business u
 Requirements
 -----
 * Apache 2.x or Microsoft IIS 7
-* PHP 5.2.17+ (5.3+ recommended)
+* PHP 5.4+
 * MySQL 5.0.4 or higher
 * WordPress 3.2+, 4.0+
 * Gantry 4 Framework

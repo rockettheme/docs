@@ -17,7 +17,7 @@ A standard array of powerful features and functions are brought to Chapelco via 
 Requirements
 -----
 * Apache 2.x or Microsoft IIS 7
-* PHP 5.3.x
+* PHP 5.4+
 * MySQL 5.0.4 or higher
 * WordPress 3.2+, 4.0+
 * Gantry Framework
