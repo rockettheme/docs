@@ -1,15 +1,15 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!themes:Themes/!galatea:Galatea
+breadcrumb: /wordpress:WordPress/!themes:Themes/!photon:Photon
 
-details: http://www.rockettheme.com/wordpress/themes/galatea/
-demo: http://demo.rockettheme.com/wordpress-themes/galatea/
-download: http://www.rockettheme.com/wordpress/themes/galatea/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-theme-galatea/
+details: http://www.rockettheme.com/wordpress/themes/photon/
+demo: http://demo.rockettheme.com/wordpress-themes/photon/
+download: http://www.rockettheme.com/wordpress/themes/photon/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-photon/
 
 ---
 
-* Antares
+* Photon
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
@@ -21,14 +21,11 @@ support: http://www.rockettheme.com/forum/wordpress-theme-galatea/
         * [Style Settings](demo_settings.md)
         * [Widget and Particle Settings](demo.md#widget-and-particle-settings)
             * [Navigation](demo_navigation.md)
-            * [Offsidebar](demo_offsidebar.md)
             * [Slideshow](demo_slideshow.md)
             * [Header](demo_header.md)
             * [Showcase](demo_showcase.md)
-            * [Utility](demo_utility.md)
-            * [Feature](demo_feature.md)
-            * [Bottom](demo_bottom.md)
-            * [Footer](demo_footer.md)
+            * [Expanded](demo_expanded.md)
+            * [Extension](demo_extension.md)
             * [Copyright](demo_copyright.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
@@ -58,4 +55,3 @@ support: http://www.rockettheme.com/forum/wordpress-theme-galatea/
     - [RokBox](../../plugins/rokbox/)
     - [RokGallery](../../plugins/rokgallery/)
     - [RokSprocket](../../plugins/roksprocket/)
-
