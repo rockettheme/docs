@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Interstellar](templates/interstellar)
 	- [Photon](templates/photon)
 	- [Galatea](templates/galatea)
 	- [Antares](templates/antares)
