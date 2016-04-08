@@ -15,8 +15,8 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_pricing.jpeg)
 
-:   1. **Slideshow** Simple Content (particle) [7%, 5%, se]
-    3. **Utility** Pricing Table (particle) [50%, 10%, se]
+:   1. **Slideshow** Simple Content (particle) [15%, 30%, se]
+    3. **Utility** Pricing Table (particle) [35%, 5%, se]
 
 * [Slideshow](#slideshow-section)
 * [Utility](#feature-section)

@@ -17,9 +17,9 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 :   1. **Slideshow** Simple Content (particle) [6%, 40%, se]
     2. **Showcase** Mosaic Grid (particle) [16%, 9%, se]
-    3. **Feature** Image Grid (particle) [47%, 9%, se]
-    5. **Mainbar** Block Content (particle) [67%, 9%, se]
-    6. **Extension** Block Content (particle) [80%, 8%, se]
+    3. **Feature** Image Grid (particle) [40%, 9%, se]
+    4. **Mainbar** Block Content (particle) [60%, 9%, se]
+    5. **Extension** Block Content (particle) [75%, 8%, se]
 
 * [Slideshow](#slideshow-section)
 * [Showcase](#showcase-section)

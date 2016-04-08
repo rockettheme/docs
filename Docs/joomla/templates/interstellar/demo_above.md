@@ -9,8 +9,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/interstellar:Interstellar
 
 ![](assets/demo_4.jpeg)
 
-:   1. **Spacer** [8%, 5%, se]
-    2. **Simple Content** [8%, 70%, se]
+:   1. **Spacer** [40%, 5%, se]
+    2. **Simple Content** [40%, 40%, se]
     3. **Simple Content** [40%, 70%, se]
 
 The **Above** section includes three particles: **Spacer**, **Simple Content**, and **Simple Content**. The **Spacer** particle is placed directly in the **Above** section, while the two **Simple Content** particles are assigned to the **above-b** and **above-c** module positions.

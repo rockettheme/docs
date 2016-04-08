@@ -16,8 +16,8 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 ![](assets/page_contact.jpeg)
 
 :   1. **Slideshow** Info List (particle) [9%, 35%, se]
-    2. **Aside** Simple Content (particle) [30%, 73%, se]
-    3. **Aside** Custom HTML (module) [45%, 73%, se]
+    2. **Aside** Simple Content (particle) [23%, 73%, se]
+    3. **Aside** Custom HTML (module) [35%, 73%, se]
 
 * [Slideshow](#slideshow-section)
 * [Aside](#aside-section)

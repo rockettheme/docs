@@ -7,15 +7,15 @@ breadcrumb: /joomla:Joomla/!templates:Templates/interstellar:Interstellar
 
 ## Introduction
 
-![](assets/demo_1.png)
+![](assets/demo_1.jpeg)
 
-:   1. **Logo / Image (Particle)** [10%, 2%, se]
-    2. **Social (Particle)** [10%, 20%, se]
-    3. **Menu (Particle)** [10%, 88%, se]
+:   1. **Logo / Image (Particle)** [30%, 2%, se]
+    2. **Social (Particle)** [30%, 16%, se]
+    3. **Menu (Particle)** [30%, 55%, se]
 
 The **Navigation** section includes three particles, **Logo**, **Social**, and **Menu**.
 
-![](assets/home_navigation.png)
+![](assets/home_navigation.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -25,7 +25,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_navigation_settings.png)
+![](assets/demo_navigation_settings.jpeg)
 
 | Option           | Setting                   |
 | :--------------- | :----------               |
@@ -37,7 +37,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_1.png)
+![Demo Navigation](demo_navigation_1.jpeg)
 
 | Option      | Setting                        |
 | :-----      | :-----                         |
@@ -48,7 +48,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_2.png)
+![Demo Navigation](demo_navigation_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -63,7 +63,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_5.png)
+![Demo Navigation](demo_navigation_5.jpeg)
 
 | Option      | Setting                               |
 | :-----      | :-----                                |
@@ -78,7 +78,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_6.png)
+![Demo Navigation](demo_navigation_6.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
@@ -93,7 +93,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_3.png)
+![Demo Navigation](demo_navigation_3.jpeg)
 
 | Option        | Setting          |
 | :-----        | :-----           |
@@ -107,7 +107,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ### Block Settings
 
-![Demo Navigation](demo_navigation_4.png)
+![Demo Navigation](demo_navigation_4.jpeg)
 
 | Option         | Setting     |
 | :-----         | :-----      |

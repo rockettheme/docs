@@ -10,7 +10,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/interstellar:Interstellar
 ![](assets/demo_6.jpeg)
 
 :   1. **Simple Content** [5%, 3%, se]
-    2. **Image Grid** [5%, 63%, se]
+    2. **Image Grid** [5%, 40%, se]
 
 The **Showcase** section includes two particles: **Simple Content** and **Simple Content**. The **Simple Content** particle is assigned to the **expanded-a** module position, while the **Image Grid** particle is assigned to the **expanded-b** module position.
 
