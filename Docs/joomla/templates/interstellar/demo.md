@@ -55,7 +55,6 @@ We have detailed how to recreate the individual modules and particles pictured a
 9. [Footer](demo_footer.md)
 10. [Copyright](demo_copyright.md)
 
-
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
 Recommended Extensions
