@@ -1,7 +1,7 @@
 ---
 title: Interstellar: Recreating the Demo - Navigation Section
-description: Your Guide to Recreating Elements of the Interstellar Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/interstellar:Interstellar
+description: Your Guide to Recreating Elements of the Interstellar Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/interstellar:Interstellar
 
 ---
 
@@ -17,7 +17,7 @@ The **Navigation** section includes three particles, **Logo**, **Social**, and *
 
 ![](assets/home_navigation.jpeg)
 
-Here is a breakdown of the module(s) and particle(s) that appear in this section:
+Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
 * [Logo / Image (particle)](#logo-(particle))
 * [Social (Particle)](#social-(particle))
@@ -43,7 +43,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | :-----      | :-----                         |
 | URL         | Blank                          |
 | Image       | `gantry-media://logo/logo.svg` |
-| Text        | `Interstellar`                 |
+| Text        | `Interstellar`                       |
 | CSS Classes | `g-logo`                       |
 
 ### Block Settings

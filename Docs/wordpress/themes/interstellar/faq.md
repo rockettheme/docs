@@ -1,7 +1,7 @@
 ---
-title: Photon: FAQ
-description: Your Guide to Using the Photon Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/photon:Photon
+title: Interstellar: FAQ
+description: Your Guide to Using the Interstellar Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/interstellar:Interstellar
 
 ---
 
