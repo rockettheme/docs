@@ -43,7 +43,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 | :-----      | :-----                         |
 | URL         | Blank                          |
 | Image       | `gantry-media://logo/logo.svg` |
-| Text        | `Interstellar`                       |
+| Text        | `Interstellar`                 |
 | CSS Classes | `g-logo`                       |
 
 ### Block Settings
