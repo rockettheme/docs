@@ -13,7 +13,7 @@ The **About Us** example page demonstrates how you can create a beautiful page w
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_aboutus.png)
+![](assets/page_aboutus.jpeg)
 
 :   1. **Header - Custom HTML (Module)** [4%, 45%, se]
     2. **Above - Custom HTML (Module)** [13%, 22%, se]
@@ -29,7 +29,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ## Header Section
 
-![](assets/page_aboutus_1.png)
+![](assets/page_aboutus_1.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
@@ -67,7 +67,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ## Above Section
 
-![](assets/page_aboutus_2.png)
+![](assets/page_aboutus_2.jpeg)
 
 This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
@@ -105,7 +105,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 
 ## Mainbar Section
 
-![](assets/page_aboutus_3.png)
+![](assets/page_aboutus_3.jpeg)
 
 The **Mainbar** section includes the **About Us** article, displayed through the **Page Content** particle. Here are the settings found in the **About Us** article.
 
@@ -170,7 +170,7 @@ The **Mainbar** section includes the **About Us** article, displayed through the
 
 ## Extension Section
 
-![](assets/page_aboutus_4.png)
+![](assets/page_aboutus_4.jpeg)
 
 This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
@@ -208,7 +208,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 
 ## Bottom Section
 
-![](assets/page_aboutus_5.png)
+![](assets/page_aboutus_5.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 

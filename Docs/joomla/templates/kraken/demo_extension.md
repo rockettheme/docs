@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_9.png)
+![](assets/demo_9.jpeg)
 
 The **Extension** section includes three module positions, `extension-a`, `extension-b`, and `extension-c`. We are only utilizing the `extension-a` module position.
 
-![](assets/home_extension.png)
+![](assets/home_extension.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in the front end for this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the front en
 
 ## Section Settings
 
-![](assets/demo_extension_settings.png)
+![](assets/demo_extension_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the front en
 
 #### Particle Settings
 
-![Demo Extension](assets/demo_extension_1.png)
+![Demo Extension](assets/demo_extension_1.jpeg)
 
 | Option | Setting       |
 |:-------|:--------------|
@@ -41,7 +41,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in the front en
 
 #### Block Settings
 
-![Demo Extension](assets/demo_extension_2.png)
+![Demo Extension](assets/demo_extension_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -61,7 +61,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Extension](assets/demo_extension_3.png)
+![Demo Extension](assets/demo_extension_3.jpeg)
 
 | Option                    | Setting                                               |
 |:--------------------------|:------------------------------------------------------|

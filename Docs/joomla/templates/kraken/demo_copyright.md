@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_11.png)
+![](assets/demo_11.jpeg)
 
 The **Copyright** section includes three particles, **Branding**, **Copyright**, and a **To Top** particle. These particles are created using the Layout Manager.
 
-![](assets/home_copyright.png)
+![](assets/home_copyright.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -21,7 +21,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_copyright_settings.png)
+![](assets/demo_copyright_settings.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -37,7 +37,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Copyright](demo_copyright_1.png)
+![Demo Copyright](demo_copyright_1.jpeg)
 
 | Option      | Setting                                                                                                                                             |
 | :-----      | :-----                                                                                                                                              |
@@ -46,7 +46,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Copyright](demo_copyright_2.png)
+![Demo Copyright](demo_copyright_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -65,7 +65,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Copyright](demo_copyright_3.png)
+![Demo Copyright](demo_copyright_3.jpeg)
 
 | Option            | Setting           |
 | :-----            | :-----            |
@@ -78,7 +78,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Copyright](demo_copyright_4.png)
+![Demo Copyright](demo_copyright_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -97,7 +97,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Copyright](demo_copyright_5.png)
+![Demo Copyright](demo_copyright_5.jpeg)
 
 | Option             | Setting                               |
 | :-----             | :-----                                |
@@ -107,7 +107,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Copyright](demo_copyright_6.png)
+![Demo Copyright](demo_copyright_6.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |

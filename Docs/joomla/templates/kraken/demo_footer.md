@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_10.png)
+![](assets/demo_10.jpeg)
 
 The **Footer** sections include three module positions, `footer-a`, `footer-b`, and `footer-c`. These module positions are created using the Layout Manager. There are also three particles present, detailed below.
 
-![](assets/home_footer.png)
+![](assets/home_footer.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear on the front end from this section:
 
@@ -21,7 +21,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 ## Section Settings
 
-![](assets/demo_footer_settings.png)
+![](assets/demo_footer_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -34,7 +34,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Particle Settings
 
-![Demo Footer](demo_footer_9.png)
+![Demo Footer](demo_footer_9.jpeg)
 
 | Option        | Setting  |
 |:--------------|:---------|
@@ -48,7 +48,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Block Settings
 
-![Demo Footer](demo_footer_10.png)
+![Demo Footer](demo_footer_10.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -63,7 +63,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Particle Settings
 
-![Demo Footer](demo_footer_11.png)
+![Demo Footer](demo_footer_11.jpeg)
 
 | Option             | Setting                  |
 |:-------------------|:-------------------------|
@@ -76,7 +76,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Block Settings
 
-![Demo Footer](demo_footer_12.png)
+![Demo Footer](demo_footer_12.jpeg)
 
 | Option         | Setting                  |
 |:---------------|:-------------------------|
@@ -91,7 +91,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Particle Settings
 
-![Demo Footer](demo_footer_13.png)
+![Demo Footer](demo_footer_13.jpeg)
 
 | Option               | Setting                               |
 |:---------------------|:--------------------------------------|
@@ -106,7 +106,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Block Settings
 
-![Demo Footer](demo_footer_14.png)
+![Demo Footer](demo_footer_14.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|

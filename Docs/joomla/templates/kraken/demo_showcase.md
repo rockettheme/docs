@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_4.png)
+![](assets/demo_4.jpeg)
 
 The **Showcase** section includes three module positions, `showcase-a`, `showcase-b`, and `showcase-c`. We are only using `showcase-a` from this section actively, so only it is rendering to the front end.
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear on the front end from this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 ## Section Settings
 
-![](assets/demo_showcase_settings.png)
+![](assets/demo_showcase_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Particle Settings
 
-![Demo Showcase](assets/demo_showcase_1.png)
+![Demo Showcase](assets/demo_showcase_1.jpeg)
 
 | Option | Setting      |
 |:-------|:-------------|
@@ -41,7 +41,7 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 #### Block Settings
 
-![Demo Showcase](assets/demo_showcase_2.png)
+![Demo Showcase](assets/demo_showcase_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -61,7 +61,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Showcase](assets/demo_showcase_3.png)
+![Demo Showcase](assets/demo_showcase_3.jpeg)
 
 | Option                                 | Setting                      |
 |:---------------------------------------|:-----------------------------|

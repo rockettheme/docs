@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 The **Feature** section includes three module positions, `feature-a`, `feature-b`, and `feature-c`. 
 
-![](assets/home_feature.png)
+![](assets/home_feature.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -22,7 +22,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_feature_settings.png)
+![](assets/demo_feature_settings.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -34,7 +34,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Feature](assets/demo_feature_1.png)
+![Demo Feature](assets/demo_feature_1.jpeg)
 
 | Option | Setting     |
 | :----- | :-----      |
@@ -43,7 +43,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Feature](assets/demo_feature_2.png)
+![Demo Feature](assets/demo_feature_2.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
@@ -63,7 +63,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Feature](assets/demo_feature_3.png)
+![Demo Feature](assets/demo_feature_3.jpeg)
 
 | Option                      | Setting                                                                     |
 | :-----                      | :-----                                                                      |
@@ -83,7 +83,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Feature](assets/demo_feature_4.png)
+![Demo Feature](assets/demo_feature_4.jpeg)
 
 | Option | Setting   |
 | :----- | :-----    |
@@ -92,7 +92,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Feature](assets/demo_feature_5.png)
+![Demo Feature](assets/demo_feature_5.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
@@ -106,7 +106,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Feature](assets/demo_feature_6.png)
+![Demo Feature](assets/demo_feature_6.jpeg)
 
 | Option | Setting      |
 | :----- | :-----       |
@@ -115,7 +115,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Feature](assets/demo_feature_7.png)
+![Demo Feature](assets/demo_feature_7.jpeg)
 
 | Option         | Setting    |
 | :-----         | :-----     |
