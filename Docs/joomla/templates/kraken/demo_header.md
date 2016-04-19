@@ -7,14 +7,14 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_2.png)
+![](assets/demo_2.jpeg)
 
 :   1. **Swiper (Particle)** [10%, 20%, se]
     2. **Swiper (Particle)** [60%, 5%, se]
 
 The **Header** section includes three module positions, `header-a`, `header-b`, `header-c`. These module positions are created using the Layout Manager.
 
-![](assets/home_header.png)
+![](assets/home_header.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -24,7 +24,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_header_settings.png)
+![](assets/demo_header_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -36,7 +36,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Header](demo_header_1.png)
+![Demo Header](demo_header_1.jpeg)
 
 | Option | Setting    |
 |:-------|:-----------|
@@ -45,7 +45,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Header](demo_header_2.png)
+![Demo Header](demo_header_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -67,7 +67,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Header](demo_header_3.png)
+![Demo Header](demo_header_3.jpeg)
 
 | Option                    | Setting                 |
 |:--------------------------|:------------------------|
@@ -96,7 +96,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Header](demo_header_4.png)
+![Demo Header](demo_header_4.jpeg)
 
 | Option                    | Setting                                         |
 |:--------------------------|:------------------------------------------------|

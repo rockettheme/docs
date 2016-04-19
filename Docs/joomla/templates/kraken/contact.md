@@ -13,7 +13,7 @@ The **Contact** example page demonstrates how you can create a beautiful page wi
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_contact.png)
+![](assets/page_contact.jpeg)
 
 :   1. **Header - Info List (particle)** [3%, 40%, se]
     2. **Above - Block Content (particle)** [10%, 25%, se]
@@ -31,7 +31,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ## Header Section
 
-![](assets/page_contact_1.png)
+![](assets/page_contact_1.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
@@ -69,7 +69,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 ## Above Section
 
-![](assets/page_contact_2.png)
+![](assets/page_contact_2.jpeg)
 
 This area of the page is a **Block Content** particle. You will find the settings used in our demo below.
 
@@ -107,7 +107,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 
 ## Mainbar Section
 
-![](assets/page_contact_3.png)
+![](assets/page_contact_3.jpeg)
 
 The **Mainbar** section is set to `60`% width and both the **Sidebar** and **Aside** sections are set to `20`%.
 
@@ -135,7 +135,7 @@ Settings used in our demo for each of these particles can be found below.
 
 ## Aside Section
 
-![](assets/page_contact_4.png)
+![](assets/page_contact_4.jpeg)
 
 The **Aside** section is set to `20`% width.
 
@@ -158,7 +158,7 @@ This area of the page is a **Contact** particle. You will find the settings used
 
 ## Extension Section
 
-![](assets/page_contact_6.png)
+![](assets/page_contact_6.jpeg)
 
 The **Extension** section consists of an **Info List** particle assigned to the `extension-a` module position.
 
@@ -190,7 +190,7 @@ You will find the settings used in our demo below.
 
 ## Bottom Section
 
-![](assets/page_contact_7.png)
+![](assets/page_contact_7.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 

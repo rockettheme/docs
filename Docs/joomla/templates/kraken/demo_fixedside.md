@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_1.png)
+![](assets/demo_1.jpeg)
 
 :   1. **Logo (Particle)** [10%, 20%, se]
     2. **Social (Particle)** [40%, 20%, se]
@@ -15,7 +15,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 The **FixedSide** section includes two particles, each arranged in its own row in the section.
 
-![](assets/home_fixedside.png)
+![](assets/home_fixedside.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -26,7 +26,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_fixedside_settings.png)
+![](assets/demo_fixedside_settings.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -36,7 +36,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Style Settings
 
-![](assets/demo_fixedside_style.png)
+![](assets/demo_fixedside_style.jpeg)
 
 The settings present in the **Style** administrative panels are 
 
@@ -51,7 +51,7 @@ The settings present in the **Style** administrative panels are
 
 #### Particle Settings
 
-![Demo FixedSide](demo_fixedside_1.png)
+![Demo FixedSide](demo_fixedside_1.jpeg)
 
 | Option        | Setting            |
 | :-----        | :-----             |
@@ -65,7 +65,7 @@ The settings present in the **Style** administrative panels are
 
 #### Block Settings
 
-![Demo FixedSide](demo_fixedside_2.png)
+![Demo FixedSide](demo_fixedside_2.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -80,7 +80,7 @@ The settings present in the **Style** administrative panels are
 
 #### Particle Settings
 
-![Demo FixedSide](demo_fixedside_3.png)
+![Demo FixedSide](demo_fixedside_3.jpeg)
 
 | Option             | Setting               |
 | :-----             | :-----                |
@@ -94,7 +94,7 @@ The settings present in the **Style** administrative panels are
 
 #### Block Settings
 
-![Demo FixedSide](demo_fixedside_4.png)
+![Demo FixedSide](demo_fixedside_4.jpeg)
 
 | Option         | Setting   |
 | :-----         | :-----    |
@@ -109,7 +109,7 @@ The settings present in the **Style** administrative panels are
 
 #### Particle Settings
 
-![Demo Feature](assets/demo_fixedside_5.png)
+![Demo Feature](assets/demo_fixedside_5.jpeg)
 
 | Option | Setting     |
 | :----- | :-----      |
@@ -118,7 +118,7 @@ The settings present in the **Style** administrative panels are
 
 #### Block Settings
 
-![Demo Feature](assets/demo_fixedside_6.png)
+![Demo Feature](assets/demo_fixedside_6.jpeg)
 
 | Option         | Setting |
 | :-----         | :-----  |
@@ -138,7 +138,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Feature](assets/demo_fixedside_7.png)
+![Demo Feature](assets/demo_fixedside_7.jpeg)
 
 | Option                      | Setting                                                                     |
 | :-----                      | :-----                                                                      |

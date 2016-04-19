@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_10.png)
+![](assets/demo_10.jpeg)
 
 The **Bottom** section includes three module positions, `bottom-a`, `bottom-b`, and `bottom-c`. We are only using `bottom-a` from this section actively, so only it is rendering to the front end.
 
-![](assets/home_bottom.png)
+![](assets/home_bottom.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_bottom_settings.png)
+![](assets/demo_bottom_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Bottom](assets/demo_bottom_1.png)
+![Demo Bottom](assets/demo_bottom_1.jpeg)
 
 | Option | Setting    |
 |:-------|:-----------|
@@ -41,7 +41,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Bottom](assets/demo_bottom_2.png)
+![Demo Bottom](assets/demo_bottom_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -61,7 +61,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Bottom](assets/demo_bottom_3.png)
+![Demo Bottom](assets/demo_bottom_3.jpeg)
 
 | Option                          | Setting                                                 |
 |:--------------------------------|:--------------------------------------------------------|

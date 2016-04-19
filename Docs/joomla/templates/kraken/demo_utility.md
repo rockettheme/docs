@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_6.png)
+![](assets/demo_6.jpeg)
 
 The **Utility** section includes three module positions, `utility-a`, `utility-b`, and `utility-c`.
 
-![](assets/home_utility.png)
+![](assets/home_utility.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_utility_settings.png)
+![](assets/demo_utility_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Utility](assets/demo_utility_1.png)
+![Demo Utility](assets/demo_utility_1.jpeg)
 
 | Option | Setting     |
 |:-------|:------------|
@@ -41,7 +41,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Utility](assets/demo_utility_2.png)
+![Demo Utility](assets/demo_utility_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -61,7 +61,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Utility](assets/demo_utility_3.png)
+![Demo Utility](assets/demo_utility_3.jpeg)
 
 | Option             | Setting                                                                          |
 |:-------------------|:---------------------------------------------------------------------------------|

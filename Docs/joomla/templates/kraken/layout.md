@@ -8,5 +8,5 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 Layout Manager
 -----
 
-![positions](assets/outline_home.png)
+![positions](assets/outline_home.jpeg)
 

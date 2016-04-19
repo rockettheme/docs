@@ -21,7 +21,7 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/kraken.png)
+![](assets/kraken.jpeg)
 
 :   1. **FixedSide** Logo (Particle) [1%, 3%, se]
     2. **FixedSide** Social (Particle) [4%, 3%, se]
@@ -89,7 +89,7 @@ It would be a good idea for organization to name this outline something like **K
 Menu Editor
 -----
 
-![](assets/menu_1.png)
+![](assets/menu_1.jpeg)
 
 Kraken has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
@@ -98,6 +98,6 @@ You can access the Gantry Menu Editor by navigating to **Administrator > Compone
 Assignments
 -----
 
-![](assets/assignments_1.png)
+![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Kraken** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

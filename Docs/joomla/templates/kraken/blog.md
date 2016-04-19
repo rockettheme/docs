@@ -13,7 +13,7 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 Below is a brief rundown of the modules and particles used to make up the demo page.
 
-![](assets/page_blog.png)
+![](assets/page_blog.jpeg)
 
 :   1. **Header - Custom HTML (Module)** [3%, 45%, se]
     2. **Mainbar - Page Content** [6%, 22%, se]
@@ -30,7 +30,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 # Header Section
 
-![](assets/page_blog_1.png)
+![](assets/page_blog_1.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 
@@ -68,7 +68,7 @@ This area of the page is an **Info List** particle. You will find the settings u
 
 # Mainbar Section
 
-![](assets/page_blog_2.png)
+![](assets/page_blog_2.jpeg)
 
 The **Mainbar** section includes several articles assigned to the **Joomla Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** article.
 
@@ -90,7 +90,7 @@ The **Mainbar** section includes several articles assigned to the **Joomla Blog*
 
 # Aside Section
 
-![](assets/page_blog_3.png)
+![](assets/page_blog_3.jpeg)
 
 :   1. **RokAjaxSearch (Module)** [7%, 15%, se]
     2. **Custom HTML (Module)** [20%, 15%, se]
@@ -261,7 +261,7 @@ Enter the following in the **Custom Output** text editor.
 
 ## Bottom Section
 
-![](assets/page_blog_4.png)
+![](assets/page_blog_4.jpeg)
 
 This area of the page is an **Info List** particle. You will find the settings used in our demo below.
 

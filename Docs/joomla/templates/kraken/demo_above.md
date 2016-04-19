@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_5.png)
+![](assets/demo_5.jpeg)
 
 The **Above** section includes three module positions, `above-a`, `above-b`, and `above-c`. We are only using `above-a` from this section actively, so only it is rendering to the front end.
 
-![](assets/home_above.png)
+![](assets/home_above.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
@@ -20,7 +20,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 ## Section Settings
 
-![](assets/demo_above_settings.png)
+![](assets/demo_above_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -32,7 +32,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Particle Settings
 
-![Demo Above](assets/demo_above_1.png)
+![Demo Above](assets/demo_above_1.jpeg)
 
 | Option | Setting   |
 |:-------|:----------|
@@ -41,7 +41,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in this section
 
 #### Block Settings
 
-![Demo Above](assets/demo_above_2.png)
+![Demo Above](assets/demo_above_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -61,7 +61,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Above](assets/demo_above_3.png)
+![Demo Above](assets/demo_above_3.jpeg)
 
 | Option                        | Setting                         |
 |:------------------------------|:--------------------------------|

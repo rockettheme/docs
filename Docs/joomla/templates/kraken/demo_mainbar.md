@@ -7,11 +7,11 @@ breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ## Introduction
 
-![](assets/demo_7.png)
+![](assets/demo_7.jpeg)
 
 The **Mainbar** section includes three module positions, `mainbar-a`, `mainbar-b`, and `mainbar-c`. In a second row, the **Pagecontent** position has been added, inserting any article content that is assigned to the page. We are only using `mainbar-a` from this section actively, so only it is rendering to the front end.
 
-![](assets/demo_8.png)
+![](assets/demo_8.jpeg)
 
 : 1. **Icon Menu (Particle)** [3%, 8%, se]
   2. **Grid Content (Particle)** [15%, 8%, se]
@@ -20,7 +20,7 @@ The **Mainbar** section includes three module positions, `mainbar-a`, `mainbar-b
 
 The **Aside** section makes up the sidebar to the right of the **Mainbar**. This section contains a single module position, `aside`.
 
-![](assets/home_mainbar.png)
+![](assets/home_mainbar.jpeg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in front end from the **Mainbar** section:
 
@@ -39,7 +39,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in front end fr
 
 ### Container
 
-![](assets/demo_container_settings.png)
+![](assets/demo_container_settings.jpeg)
 
 | Option         | Setting   |
 |:---------------|:----------|
@@ -49,7 +49,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in front end fr
 
 ### Mainbar
 
-![](assets/demo_mainbar_settings.png)
+![](assets/demo_mainbar_settings.jpeg)
 
 | Option         | Setting |
 |:---------------|:--------|
@@ -66,7 +66,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in front end fr
 
 ### Aside
 
-![](assets/demo_aside_settings.png)
+![](assets/demo_aside_settings.jpeg)
 
 | Option         | Setting |
 |:---------------|:--------|
@@ -85,7 +85,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in front end fr
 
 #### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_1.png)
+![Demo Mainbar](assets/demo_mainbar_1.jpeg)
 
 | Option | Setting     |
 |:-------|:------------|
@@ -94,7 +94,7 @@ Here is a breakdown of the module(s) and particle(s) that appear in front end fr
 
 #### Block Settings
 
-![Demo Mainbar](assets/demo_mainbar_2.png)
+![Demo Mainbar](assets/demo_mainbar_2.jpeg)
 
 | Option         | Setting    |
 |:---------------|:-----------|
@@ -114,7 +114,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_9.png)
+![Demo Mainbar](assets/demo_mainbar_9.jpeg)
 
 | Option                                | Setting                                                                                                            |
 |:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
@@ -141,7 +141,7 @@ You will find the particle settings used in this particle below:
 
 #### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_10.png)
+![Demo Mainbar](assets/demo_mainbar_10.jpeg)
 
 | Option | Setting |
 |:-------|:--------|
@@ -150,7 +150,7 @@ You will find the particle settings used in this particle below:
 
 #### Block Settings
 
-![Demo Mainbar](assets/demo_mainbar_11.png)
+![Demo Mainbar](assets/demo_mainbar_11.jpeg)
 
 | Option         | Setting |
 |:---------------|:--------|
@@ -170,7 +170,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_12.png)
+![Demo Mainbar](assets/demo_mainbar_12.jpeg)
 
 | Option                   | Setting                     |
 |:-------------------------|:----------------------------|
@@ -192,7 +192,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_13.png)
+![Demo Mainbar](assets/demo_mainbar_13.jpeg)
 
 | Option                                | Setting                                                                                                                                                                                 |
 |:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -223,7 +223,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_14.png)
+![Demo Mainbar](assets/demo_mainbar_14.jpeg)
 
 | Option                          | Setting                                                                                                                         |
 |:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
@@ -251,7 +251,7 @@ You will find the particle settings used in this particle below:
 
 ##### Particle Settings
 
-![Demo Mainbar](assets/demo_mainbar_15.png)
+![Demo Mainbar](assets/demo_mainbar_15.jpeg)
 
 | Option                    | Setting                                                                  |
 |:--------------------------|:-------------------------------------------------------------------------|
