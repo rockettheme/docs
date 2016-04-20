@@ -65,14 +65,14 @@ Here is a breakdown of the module(s) and particle(s) that appear on the front en
 
 ![Demo Footer](demo_footer_11.jpeg)
 
-| Option             | Setting                  |
-|:-------------------|:-------------------------|
-| Particle Name      | `Horizontal Menu`        |
-| CSS Classes        | Blank                    |
-| Target Window      | New Window               |
-| Social Item 1 Name | `Gantry`                 |
-| Menu Item 1 Text   | `Gantry`                 |
-| Menu Item 1 Link   | `http://www.gantry.org/` |
+| Option               | Setting                    |
+| :------------------- | :------------------------- |
+| Particle Name        | `Horizontal Menu`          |
+| CSS Classes          | Blank                      |
+| Target Window        | New Window                 |
+| Item 1 Name          | `Gantry`                   |
+| Item 1 Text          | `Gantry`                   |
+| Item 1 Link          | `http://www.gantry.org/`   |
 
 #### Block Settings
 
