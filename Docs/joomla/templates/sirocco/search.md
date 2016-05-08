@@ -18,7 +18,8 @@ The **Search** element that appears to the right of the **Main Menu** is a **Men
 2. Under **Dropdown Menu Options**, add `hidden-phone menu-item-search` in the **Custom CSS Class** field.
 3. Set the **Menu Title** to **Search**.
 4. Under **Link Type**, toggle the **Add Menu Title** option to **On**.
-5. Set the **Status** to **Published** and assign its **Menu Location** to **Main Menu**. 
+5. Set the **Status** to **Published** and assign its **Menu Location** to **Main Menu**.
+6. In **Dropdown Menu Options** set **Child Item Type** to **Modules** and select **Menu Search** for **Child Modules**. You can do this step once you create **Menu Search** module as per the instructions given below.
 
 Now, you will need to create the **Search** module to place in the **menu-search** module position. This module will appear when the search icon is selected in the menu.
 
