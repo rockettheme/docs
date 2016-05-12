@@ -22,6 +22,7 @@ support: http://www.rockettheme.com/forum/joomla-template-topaz/
         * [Style Settings](demo_settings.md)
         * [Module and Particle Settings](demo.md#module-and-particle-settings)
             * [Navigation and Header](demo_navigation.md)
+            * [Showcase](demo_showcase.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)
