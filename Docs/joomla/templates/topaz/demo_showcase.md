@@ -13,18 +13,20 @@ breadcrumb: /joomla:Joomla/!templates:Templates/topaz:Topaz
     2. **Custom HTML (Particle)** [57%, 2%, se]
     3. **Joomla Articles (Particle)** [7%, 35%, se]
 
-The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there is a **Slideshow A** module position in the **Showcase Main** section which contains three different particles: **Grid Statistic**, **Custom HTML**, and **Joomla Articles**.
+The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there are **Showcase A** and **Showcase B** module positions in the **Showcase Main** section which contain three different particles: **Grid Statistic**, **Custom HTML**, and **Joomla Articles**.
 
-![](assets/home_showcase.png)
+![](assets/home_showcase.jpg)
 
 Here is a breakdown of the module(s) and particle(s) that appear in these sections:
 
 * [Container](#container)
     - Showcase Left
     - [Showcase Main](#showcase-main)
-        + [Grid Statistic (particle)](#grid-statistic-(particle))
-        + [Custom HTML (Particle)](#custom-html-(particle))
-        + [Joomla Articles (Particle)](#menu-(particle))
+        - [Showcase A (Module Position)](#showcase-a-(module-position))
+            - [Grid Statistic (particle)](#grid-statistic-(particle))
+            - [Custom HTML (Particle)](#custom-html-(particle))
+        - [Showcase B (Module Position)](#showcase-b-(module-position))
+            - [Joomla Articles (Particle)](#menu-(particle))
     - Showcase Right
 
 ## Container
