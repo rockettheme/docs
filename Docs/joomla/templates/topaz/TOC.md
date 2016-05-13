@@ -23,14 +23,10 @@ support: http://www.rockettheme.com/forum/joomla-template-topaz/
         * [Module and Particle Settings](demo.md#module-and-particle-settings)
             * [Navigation and Header](demo_navigation.md)
             * [Showcase](demo_showcase.md)
+            * [Slideshow](demo_slideshow.md)
         * [Front Page Layout](layout.md)
-        * Sample Pages
-            * [Sample Page Layout](default_layout.md)
-            * [Contact](contact.md)
-            * [Portfolio](portfolio.md)
-            * [About Us](aboutus.md)
-            * [Pricing](pricing.md)
-            * [Blog](blog.md)
+        * Particles
+            * [Owl Carousel](particle_owl.md)
     * [FAQ](faq.md)
 * Template Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
