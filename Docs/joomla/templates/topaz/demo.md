@@ -23,37 +23,49 @@ Below, you will find the module placement and settings for the various module po
 
 ![](assets/topaz2.png)
 
-:   1. **Navigation Left** Social (Particle) [1%, 7%, se]
-    2. **Navigation Main** Logo (Particle) [1%, 18%, se]
-    3. **Navigation Main** Menu (Particle) [1%, 55%, se]
-    4. **Navigation Right** Search (Module) [5%, 8%, se]
-    5. **Header Main** Joomla Articles (Particle) [5%, 68%, se]
-    6. **Header Main** Owl Carousel (Particle) [11%, 5% se]
-    8. **Showcase Main** Grid Statistic (Particle) [30%, 43%, se]
-    8. **Showcase Main** Custom HTML (Particle) [30%, 68%, se]
-    9. **Showcase Main** Joomla Articles (Particle) [40%, 5%, se]
-    10. **Slideshow Main** Owl Carousel (Particle) [52%, 5%, se]
-    11. **Main**  (Particle) [52%, 42%, se]
-    12. **Bottom Main**  (Particle) [65%, 40%, se]
-    13. **Bottom Main**  (Particle) [68%, 8%, se]
-    14. **Footer Main**  (Particle) [80%, 8%, se]
-    15. **Footer Main**  (Particle) [93%, 5%, se]
-    16. **Copyright Main**  (Particle) [93%, 60%, se]
-    17. **Copyright Main**  (Particle) [99%, 5%, se]
-
-
-We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
-
-1. [Navigation and Header](demo_navigation.md)
-2. [Showcase](demo_showcase.md)
-3. [Slideshow](demo_slideshow.md)
-4. [Feature](demo_featuremain.md)
-5. [Main](demo_main.md)
-6. [Bottom](demo_expanded.md)
-7. [Footer](demo_extension.md)
-8. [Copyright](demo_bottom.md)
+:   1. **Navigation Left** Social (Particle) [2%, 5%, se]
+    2. **Navigation Main** Logo (Particle) [2%, 18%, se]
+    3. **Navigation Main** Menu (Particle) [2%, 45%, se]
+    4. **Navigation Right** Search (Module) [2%, 76%, se]
+    5. **Header Main** Joomla Articles (Particle) [6%, 15%, se]
+    6. **Header Main** Owl Carousel (Particle) [6%, 60% se]
+    8. **Showcase Main** Grid Statistic (Particle) [23%, 15%, se]
+    8. **Showcase Main** Custom HTML (Particle) [33%, 15%, se]
+    9. **Showcase Main** Joomla Articles (Particle) [23%, 38%, se]
+    10. **Slideshow Main** Owl Carousel (Particle) [42%, 15%, se]
+    11. **Feature Main** BookBlock (Particle) [55%, 15%, se]
+    12. **Bottom Main** Owl Carousel (Particle) [73%, 15%, se]
+    13. **Bottom Main** Owl Carousel (Particle) [86%, 38%, se]
+    14. **Footer Main** Simple Menu (Particle) [92%, 15%, se]
+    15. **Footer Main** Social (Particle) [92%, 73%, se]
+    16. **Copyright Main** Logo (Particle) [96%, 15%, se]
+    17. **Copyright Main** Custom HTML (Particle) [96%, 27%, se]
+    18. **Copyright Main** Copyright (Particle) [99%, 27%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
+Particles
+-----
+
+Here is a list of particles that are available in Topaz, as well as links to documentation to help you get started:
+
+* [Owl Carousel](particle_owl.md)
+* [BookBlock](particle_book.md)
+* [Joomla Articles](particle_joomla.md)
+
+Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
+
+* [Logo](http://docs.gantry.org/gantry5/particles/logo)
+* [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+* [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+* [Socail](http://docs.gantry.org/gantry5/particles/social)
+* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+* [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+* [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+* [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+* [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Extensions
 -----
