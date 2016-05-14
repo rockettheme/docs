@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/topaz:Topaz
 
 ![](assets/particle_block1.jpg)
 
-The **Block Content** particle is a great way to create a clean and simple content block with images and text. Feature 
+The **Block Content** particle is a great way to create a clean and simple content block with images and text. 
 
 Here are the topics covered in this guide:
 
@@ -18,7 +18,6 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-    - [CMS Options](#cms-options)
 
 ## Layout
 
