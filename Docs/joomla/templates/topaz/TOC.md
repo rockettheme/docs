@@ -27,6 +27,7 @@ support: http://www.rockettheme.com/forum/joomla-template-topaz/
         * [Front Page Layout](layout.md)
         * Particles
             * [Owl Carousel](particle_owl.md)
+            * [BookBlock](particle_book.md)
     * [FAQ](faq.md)
 * Template Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
