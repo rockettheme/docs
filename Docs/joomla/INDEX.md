@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Topaz](templates/topaz)
 	- [Interstellar](templates/interstellar)
 	- [Photon](templates/photon)
 	- [Galatea](templates/galatea)
