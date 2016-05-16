@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Topaz](themes/topaz)
 	- [Interstellar](themes/interstellar)
 	- [Photon](themes/photon)
 	- [Galatea](themes/galatea)
