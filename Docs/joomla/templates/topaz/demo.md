@@ -91,10 +91,7 @@ Recommended Extensions
 Here is a list of RocketTheme extensions used to create the demo version of Topaz:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
-* RokCommon Library (Installed with RokSprocket)
-* [RokSprocket](http://www.rockettheme.com/joomla/extensions/roksprocket)
 * [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
 Many of these extensions are included with the Topaz RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
@@ -109,20 +106,11 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.png)
 
-In order to make it really easy to replicate the home page, we included two layout presets for the home page with the theme. The first, **Home - Particles** includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
+In order to make it really easy to replicate the home page, we included two layout presets for the home page with the theme. The first, **Home - Particles** (included in the standalone package) includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 
 The other preset is called **Home - Positions** and this is used in our demo by default in the RocketLauncher. This option creates module positions which give you a little more flexibility to swap out demo particles with standard Joomla modules. Keep in mind that this Layout Preset will not fill in the **Gantry 5 Particle** modules, only the module positions we used in the layout for the demo. We've included this documentation to help you recreate specific elements if you opt to go with this layout preset on an existing site.
 
 You can access the presets by selecting **Load** in the **Layout Manager**.
-
-Template Settings
------
-
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a **Home outline** which is commonly referred to in Joomla as a **Style Override**. This can be done by navigating to **Components > Gantry 5 Themes** and finding the theme you wish to create a new outline based in. Once you have done this, you can select the blue **Configure** button and then navigate to **Outlines**. This page gives you a quick overview of any configurations for this theme.
-
-You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an override, or **Style**. This outline can have its own layout, style, and settings preferences.
-
-It would be a good idea for organization to name this outline something like **Topaz - Home** as it would be used only for the front page of your site. In our own Demo and in the RocketLauncher we have named this Style **Topaz - Demo** instead of **Topaz - Home**.
 
 Menu Editor
 -----
