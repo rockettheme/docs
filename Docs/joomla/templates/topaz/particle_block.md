@@ -38,7 +38,7 @@ Block Content items have a simple, yet robust layout that enables you to add a l
 
 These options affect the main area of the particle, and not the individual items within. For example, if you want to display content that includes a title, headline, image, and link you can do so here, but if you want to display numerous individual items, each with their own text, images, and/or links, you can do so using the **Block Items** collection feature.
 
-![](assets/particle_block3.jpg)
+![](assets/particle_block2.jpg)
 
 | Option         | Description                                                                                                                                              |
 | :-----         | :-----                                                                                                                                                   |

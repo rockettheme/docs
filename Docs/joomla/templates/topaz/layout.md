@@ -5,8 +5,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/topaz:Topaz
 
 ---
 
-Layout Manager
------
+## Layout Manager
 
 ![positions](assets/outline_home.png)
-
