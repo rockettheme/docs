@@ -38,11 +38,11 @@ These options affect the main area of the particle, and not the individual items
 
 ![](assets/particle_simple2.jpg)
 
-| Option        | Description                                                                             |
-| :-----        | :-----                                                                                  |
-| Particle Name | Enter the name you would like to assign to the item. This only appears in the back end. |
-| CSS Classes   | Enter the CSS class(es) you want to use in the content of the particle.                 |
-| Title         | Enter a title for the particle.                                                         |
+| Option        | Description                                                                                 |
+| :-----        | :-----                                                                                      |
+| Particle Name | Enter the name you would like to assign to the particle. This only appears in the back end. |
+| CSS Classes   | Enter the CSS class(es) you want to use in the content of the particle.                     |
+| Title         | Enter a title for the particle.                                                             |
 
 
 ### Item Options

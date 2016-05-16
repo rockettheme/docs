@@ -33,6 +33,7 @@ support: http://www.rockettheme.com/forum/joomla-template-topaz/
         * [Info List](particle_info.md)
         * [Grid Statistic](particle_grid.md)
         * [Simple Content](particle_simple.md)
+        * [Image Grid](particle_image.md)
     * Core Particles 
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

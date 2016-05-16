@@ -49,9 +49,27 @@ Particles
 
 Here is a list of particles that are available in Topaz, as well as links to documentation to help you get started:
 
-* [Owl Carousel](particle_owl.md)
-* [BookBlock](particle_book.md)
-* [Joomla Articles](particle_joomla.md)
+* Template Particles
+    * [Owl Carousel](particle_owl.md)
+    * [BookBlock](particle_book.md)
+    * [Joomla Articles](particle_joomla.md)
+    * [Block Content](particle_block.md)
+    * [Info List](particle_info.md)
+    * [Grid Statistic](particle_grid.md)
+    * [Simple Content](particle_simple.md)
+    * [Image Grid](particle_image.md)
+* Core Particles 
+    * [Logo](http://docs.gantry.org/gantry5/particles/logo)
+    * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+    * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+    * [Socail](http://docs.gantry.org/gantry5/particles/social)
+    * [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+    * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+    * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+    * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+    * [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+    * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+    * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
