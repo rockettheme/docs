@@ -21,7 +21,7 @@ Here are the topics covered in this guide:
 
 ## Layout
 
-In Topaz, the **Simple Content** particle can be as simple or as complex as you need it to be, with multiple areas of support for content, titles, and more. There are even two layouts to choose from: **Standard** and **Header**. The style see in the front end example here uses the **Header** style as it serves as the header of the demo's subpages.
+In Topaz, the **Simple Content** particle can be as simple or as complex as you need it to be, with multiple areas of support for content, titles, and more. There are even two layouts to choose from: **Standard** and **Header**. The style you see in the front end example here uses the **Header** style as it serves as the header of the demo's subpages.
 
 ### Particle Content
 
