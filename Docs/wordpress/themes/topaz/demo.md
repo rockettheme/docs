@@ -91,11 +91,7 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Interstellar:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
-* RokCommon Library (Installed with RokSprocket)
-* [RokSprocket](http://www.rockettheme.com/wordpress/plugins/roksprocket)
-* [RokBooster](http://www.rockettheme.com/wordpress/plugins/rokbooster)
 
 Many of these plugins are included with the Interstellar RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
