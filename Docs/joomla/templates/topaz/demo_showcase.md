@@ -112,9 +112,9 @@ The **Grid Statistic** particle is assigned to the **Showcase A** module positio
 | Item 1 Icon           | `fa fa-newspaper-o` |
 | Item 1 Statistic Text | `New Articles`      |
 
-##### Custom HTML (Particle)demo_showcase_10
+##### Custom HTML (Particle)
 
-![](assets/.jpg)
+![](assets/demo_showcase_10.jpg)
 
 The **Custom HTML** particle is assigned to the **Showcase A** module position. This is done by creating a **Gantry 5 Particle** module and assigning it to the **showcase-a** position, then selecting **Custom HTML** as the **Particle** in the module's settings. You will find its settings below.
 
