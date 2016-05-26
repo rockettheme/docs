@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!plethora:Plethora/
 
 details: http://www.rockettheme.com/phpbb/styles/plethora
-demo: http://demo.rockettheme.com/phpbb-styles/plethora/
 download: http://www.rockettheme.com/phpbb/styles/plethora/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-plethora/
 

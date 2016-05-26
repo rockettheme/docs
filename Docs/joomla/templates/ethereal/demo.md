@@ -92,9 +92,9 @@ Menu Editor
 
 ![](assets/menu_1.jpeg)
 
-Ethereal has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
+Ethereal has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any chances made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Ethereal > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Administrator > Gantry 5 > Ethereal > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----

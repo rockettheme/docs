@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!nuance:Nuance/
 
 details: http://www.rockettheme.com/phpbb/styles/nuance
-demo: http://demo.rockettheme.com/phpbb-styles/nuance/
 download: http://www.rockettheme.com/phpbb/styles/nuance/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-nuance/
 

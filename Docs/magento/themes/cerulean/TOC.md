@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!cerulean:Cerulean/
 
 details: http://www.rockettheme.com/magento/themes/cerulean
-demo: http://demo.rockettheme.com/magento-themes/cerulean/
 download: http://www.rockettheme.com/magento/themes/cerulean/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-cerulean/
 

@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!acacia:Acacia/
 
 details: http://www.rockettheme.com/phpbb/styles/acacia
-demo: http://demo.rockettheme.com/phpbb-styles/acacia/
 download: http://www.rockettheme.com/phpbb/styles/acacia/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-acacia/
 

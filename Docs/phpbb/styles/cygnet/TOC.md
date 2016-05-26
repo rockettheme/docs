@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!cygnet:Cygnet/
 
 details: http://www.rockettheme.com/phpbb/styles/cygnet
-demo: http://demo.rockettheme.com/phpbb-styles/cygnet/
 download: http://www.rockettheme.com/phpbb/styles/cygnet/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-cygnet/
 

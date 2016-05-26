@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!callisto:Callisto/
 
 details: http://www.rockettheme.com/phpbb/styles/callisto
-demo: http://demo.rockettheme.com/phpbb-styles/callisto/
 download: http://www.rockettheme.com/phpbb/styles/callisto/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-callisto/
 

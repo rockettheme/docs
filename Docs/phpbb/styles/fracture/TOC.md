@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!fracture:Fracture/
 
 details: http://www.rockettheme.com/phpbb/styles/fracture
-demo: http://demo.rockettheme.com/phpbb-styles/fracture/
 download: http://www.rockettheme.com/phpbb/styles/fracture/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-fracture/
 

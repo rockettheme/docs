@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!sirocco:Sirocco/
 
 details: http://www.rockettheme.com/phpbb/styles/sirocco
-demo: http://demo.rockettheme.com/phpbb-styles/sirocco/
 download: http://www.rockettheme.com/phpbb/styles/sirocco/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-sirocco/
 

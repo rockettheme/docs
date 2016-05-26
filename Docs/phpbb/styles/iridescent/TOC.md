@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!iridescent:Iridescent/
 
 details: http://www.rockettheme.com/phpbb/styles/iridescent
-demo: http://demo.rockettheme.com/phpbb-styles/iridescent/
 download: http://www.rockettheme.com/phpbb/styles/iridescent/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-iridescent/
 

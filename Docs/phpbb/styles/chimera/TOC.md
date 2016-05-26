@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!chimera:Chimera/
 
 details: http://www.rockettheme.com/phpbb/styles/chimera
-demo: http://demo.rockettheme.com/phpbb-styles/chimera/
 download: http://www.rockettheme.com/phpbb/styles/chimera/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-chimera/
 

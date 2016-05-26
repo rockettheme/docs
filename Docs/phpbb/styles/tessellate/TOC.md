@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!tessellate:Tessellate/
 
 details: http://www.rockettheme.com/phpbb/styles/tessellate
-demo: http://demo.rockettheme.com/phpbb-styles/tessellate/
 download: http://www.rockettheme.com/phpbb/styles/tessellate/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-tessellate/
 

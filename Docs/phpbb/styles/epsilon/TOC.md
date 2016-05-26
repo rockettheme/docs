@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!epsilon:Epsilon/
 
 details: http://www.rockettheme.com/phpbb/styles/epsilon
-demo: http://demo.rockettheme.com/phpbb-styles/epsilon/
 download: http://www.rockettheme.com/phpbb/styles/epsilon/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-epsilon/
 

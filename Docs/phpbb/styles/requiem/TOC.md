@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!requiem:Requiem/
 
 details: http://www.rockettheme.com/phpbb/styles/requiem
-demo: http://demo.rockettheme.com/phpbb-styles/requiem/
 download: http://www.rockettheme.com/phpbb/styles/requiem/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-requiem/
 

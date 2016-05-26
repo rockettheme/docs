@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!paradigm:Paradigm/
 
 details: http://www.rockettheme.com/phpbb/styles/paradigm
-demo: http://demo.rockettheme.com/phpbb-styles/paradigm/
 download: http://www.rockettheme.com/phpbb/styles/paradigm/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-paradigm/
 

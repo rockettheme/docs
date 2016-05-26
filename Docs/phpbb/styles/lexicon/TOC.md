@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!lexicon:Lexicon/
 
 details: http://www.rockettheme.com/phpbb/styles/lexicon
-demo: http://demo.rockettheme.com/phpbb-styles/lexicon/
 download: http://www.rockettheme.com/phpbb/styles/lexicon/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-lexicon/
 

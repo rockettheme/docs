@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!hadron:Hadron/
 
 details: http://www.rockettheme.com/magento/themes/hadron
-demo: http://demo.rockettheme.com/magento-themes/hadron/
 download: http://www.rockettheme.com/magento/themes/hadron/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-hadron/
 

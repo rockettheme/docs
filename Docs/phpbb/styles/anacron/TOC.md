@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!anacron:Anacron/
 
 details: http://www.rockettheme.com/phpbb/styles/anacron
-demo: http://demo.rockettheme.com/phpbb-styles/anacron/
 download: http://www.rockettheme.com/phpbb/styles/anacron/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-anacron/
 

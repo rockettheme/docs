@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!ricochet:Ricochet/
 
 details: http://www.rockettheme.com/phpbb/styles/ricochet
-demo: http://demo.rockettheme.com/phpbb-styles/ricochet/
 download: http://www.rockettheme.com/phpbb/styles/ricochet/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-ricochet/
 
