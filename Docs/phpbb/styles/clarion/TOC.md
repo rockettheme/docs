@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!clarion:Clarion/
 
 details: http://www.rockettheme.com/phpbb/styles/clarion
-demo: http://demo.rockettheme.com/phpbb-styles/clarion/
 download: http://www.rockettheme.com/phpbb/styles/clarion/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-clarion/
 

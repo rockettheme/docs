@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!lexicon:Lexicon/
 
 details: http://www.rockettheme.com/magento/themes/lexicon
-demo: http://demo.rockettheme.com/magento-themes/lexicon/
 download: http://www.rockettheme.com/magento/themes/lexicon/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-lexicon/
 

@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!halcyon:Halcyon/
 
 details: http://www.rockettheme.com/magento/themes/halcyon
-demo: http://demo.rockettheme.com/magento-themes/halcyon/
 download: http://www.rockettheme.com/magento/themes/halcyon/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-halcyon/
 

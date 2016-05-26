@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!vermilion:Vermilion/
 
 details: http://www.rockettheme.com/phpbb/styles/vermilion
-demo: http://demo.rockettheme.com/phpbb-styles/vermilion/
 download: http://www.rockettheme.com/phpbb/styles/vermilion/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-vermilion/
 

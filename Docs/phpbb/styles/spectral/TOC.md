@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!spectral:Spectral/
 
 details: http://www.rockettheme.com/phpbb/styles/spectral
-demo: http://demo.rockettheme.com/phpbb-styles/spectral/
 download: http://www.rockettheme.com/phpbb/styles/spectral/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-spectral/
 

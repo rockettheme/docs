@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!stratos:Stratos/
 
 details: http://www.rockettheme.com/phpbb/styles/stratos
-demo: http://demo.rockettheme.com/phpbb-styles/stratos/
 download: http://www.rockettheme.com/phpbb/styles/stratos/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-stratos/
 

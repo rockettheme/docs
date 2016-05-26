@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!osmosis:Osmosis/
 
 details: http://www.rockettheme.com/phpbb/styles/osmosis
-demo: http://demo.rockettheme.com/phpbb-styles/osmosis/
 download: http://www.rockettheme.com/phpbb/styles/osmosis/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-osmosis/
 

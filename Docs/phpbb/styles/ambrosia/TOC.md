@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!ambrosia:Ambrosia/
 
 details: http://www.rockettheme.com/phpbb/styles/ambrosia
-demo: http://demo.rockettheme.com/phpbb-styles/ambrosia/
 download: http://www.rockettheme.com/phpbb/styles/ambrosia/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-ambrosia/
 

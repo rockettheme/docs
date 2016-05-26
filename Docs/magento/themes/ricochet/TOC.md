@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!ricochet:Ricochet/
 
 details: http://www.rockettheme.com/magento/themes/ricochet
-demo: http://demo.rockettheme.com/magento-themes/ricochet/
 download: http://www.rockettheme.com/magento/themes/ricochet/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-ricochet/
 

@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!audacity:Audacity/
 
 details: http://www.rockettheme.com/phpbb/styles/audacity
-demo: http://demo.rockettheme.com/phpbb-styles/audacity/
 download: http://www.rockettheme.com/phpbb/styles/audacity/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-audacity/
 

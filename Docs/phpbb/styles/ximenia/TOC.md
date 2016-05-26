@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!ximenia:Ximenia/
 
 details: http://www.rockettheme.com/phpbb/styles/ximenia
-demo: http://demo.rockettheme.com/phpbb-styles/ximenia/
 download: http://www.rockettheme.com/phpbb/styles/ximenia/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-ximenia/
 

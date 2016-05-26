@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!hexeris:Hexeris/
 
 details: http://www.rockettheme.com/magento/themes/hexeris
-demo: http://demo.rockettheme.com/magento-themes/hexeris/
 download: http://www.rockettheme.com/magento/themes/hexeris/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-hexeris/
 

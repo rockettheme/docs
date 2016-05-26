@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!nuance:Nuance/
 
 details: http://www.rockettheme.com/magento/themes/nuance
-demo: http://demo.rockettheme.com/magento-themes/nuance/
 download: http://www.rockettheme.com/magento/themes/nuance/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-nuance/
 

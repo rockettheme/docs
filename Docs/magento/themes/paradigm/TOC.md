@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!paradigm:Paradigm/
 
 details: http://www.rockettheme.com/magento/themes/paradigm
-demo: http://demo.rockettheme.com/magento-themes/paradigm/
 download: http://www.rockettheme.com/magento/themes/paradigm/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-paradigm/
 

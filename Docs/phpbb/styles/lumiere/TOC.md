@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!lumiere:Lumiere/
 
 details: http://www.rockettheme.com/phpbb/styles/lumiere
-demo: http://demo.rockettheme.com/phpbb-styles/lumiere/
 download: http://www.rockettheme.com/phpbb/styles/lumiere/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-lumiere/
 

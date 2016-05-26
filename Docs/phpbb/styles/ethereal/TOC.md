@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!ethereal:Ethereal/
 
 details: http://www.rockettheme.com/phpbb/styles/ethereal
-demo: http://demo.rockettheme.com/phpbb-styles/ethereal/
 download: http://www.rockettheme.com/phpbb/styles/ethereal/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-ethereal/
 

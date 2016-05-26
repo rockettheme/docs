@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!myriad:Myriad/
 
 details: http://www.rockettheme.com/phpbb/styles/myriad
-demo: http://demo.rockettheme.com/phpbb-styles/myriad/
 download: http://www.rockettheme.com/phpbb/styles/myriad/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-myriad/
 

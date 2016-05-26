@@ -3,7 +3,6 @@
 breadcrumb: /magento:Magento/!themes:Themes/!infuse:Infuse/
 
 details: http://www.rockettheme.com/magento/themes/infuse
-demo: http://demo.rockettheme.com/magento-themes/infuse/
 download: http://www.rockettheme.com/magento/themes/infuse/modal/downloads
 support: http://www.rockettheme.com/forum/magento-theme-infuse/
 
