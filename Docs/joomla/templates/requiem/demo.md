@@ -80,15 +80,6 @@ Recreating the Front Page
 
 The front page of the Requiem demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Requiem demo.
 
-Template Settings
------
-
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a **Home outline** which is commonly referred to in Joomla as a **Style Override**. This can be done by navigating to **Components > Gantry 5 Themes** and finding the theme you wish to create a new outline based in. Once you have done this, you can select the blue **Configure** button and then navigate to **Outlines**. This page gives you a quick overview of any configurations for this theme.
-
-You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an override, or **Style**. This outline can have its own layout, style, and settings preferences.
-
-It would be a good idea for organization to name this outline something like **Requiem - Home** as it would be used only for the front page of your site. In our own Demo and in the RocketLauncher we have named this Style **Requiem - Demo** instead of **Requiem - Home**.
-
 Menu Editor
 -----
 
