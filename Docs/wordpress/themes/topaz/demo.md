@@ -88,17 +88,17 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recommended Plugins
 -----
 
-Here is a list of RocketTheme plugins used to create the demo version of Interstellar:
+Here is a list of RocketTheme plugins used to create the demo version of Topaz:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
-Many of these plugins are included with the Interstellar RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Topaz RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Interstellar demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Interstellar demo.
+The front page of the Topaz demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Topaz demo.
 
 Home Page Layout Presets
 -----
