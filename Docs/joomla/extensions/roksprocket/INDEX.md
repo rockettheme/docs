@@ -21,6 +21,7 @@ RokSprocket has the following requirements in order to operate:
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 11+ and Edge are supported, but versions 8, 9, and 10 are no longer supported by Microsoft and while they may work, are not recommended.
+>> NOTE: Advanced Module Manager by Regular Labs is not completely compatible with RokSprocket 2.1.12 and may produce errors. The solution at this time is to uninstall Advance Module Manager.
 
 Key Features
 ------------

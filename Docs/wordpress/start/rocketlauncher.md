@@ -15,7 +15,7 @@ Requirements
 
 RocketLauncher comes complete with its own copy of WordPress and required plugins. You will need to provide the database and hosting support this installation will run on. Here is a list of our recommended requirements for any updated RocketLauncher package.
 
-* PHP version 5.2.4 or greater
+* PHP version 5.4 or greater
 * MySQL version 5.0 or greater
 
 Not all packages are the same, so we recommend checking with the theme's primary documentation to make sure your setup matches its recommended requirements.
