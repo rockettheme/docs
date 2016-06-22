@@ -92,13 +92,14 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 
 ![](assets/demo_book4.jpg)
 
-| Option            | Description                                                                     |
-| :-----            | :-----                                                                          |
-| WordPress Categories | Enter the categorie(s) you would like to appear in the particle.                |
-| Articles to Fetch | Enter the number of articles you would like to have loaded in the particle.     |
-| Intro Image       | Enable or disable the intro image appearing in the particle.                    |
-| Categories Names  | Enable or disable the category of the article in the particle.                  |
-| Article Title     | Enable or disable the title of the article appearing in the particle.           |
-| Intro Text        | Enable or disable the **Intro Text** appearing under the image in the particle. |
-| Link              | Enable or disable the read more link.                                           |
-| Link Text         | Enter the text you would like to appear in the Read More link.                  |
+| Option               | Description                                                                                                    |
+| :-----               | :-----                                                                                                         |
+| WordPress Categories | Enter the categorie(s) you would like to appear in the particle.                                               |
+| Posts to Fetch       | Enter the number of posts you would like to have loaded in the particle.                                       |
+| Featured Image       | Enable or disable the featured image appearing in the particle.                                                |
+| Categories Names     | Enable or disable the category of the article in the particle.                                                 |
+| Post Title           | Enable or disable the title of the post appearing in the particle.                                             |
+| Post Excerpt         | Enable or disable the content placed in the **Post Excerpt** area of the post to be displayed in the particle. |
+| Post Content         | Enable or disable the main content of the post appearing under the image in the particle.                      |
+| Link                 | Enable or disable the read more link.                                                                          |
+| Link Text            | Enter the text you would like to appear in the Read More link.                                                 |
