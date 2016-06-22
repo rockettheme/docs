@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Sienna](templates/sienna)
 	- [Topaz](templates/topaz)
 	- [Interstellar](templates/interstellar)
 	- [Photon](templates/photon)
