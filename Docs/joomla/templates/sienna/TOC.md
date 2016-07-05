@@ -39,7 +39,7 @@ support: http://www.rockettheme.com/forum/joomla-template-sienna/
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
         * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-        * [Socail](http://docs.gantry.org/gantry5/particles/social)
+        * [Social](http://docs.gantry.org/gantry5/particles/social)
         * [Module Positions](http://docs.gantry.org/gantry5/particles/position)
         * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
         * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
