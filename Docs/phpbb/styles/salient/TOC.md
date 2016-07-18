@@ -3,7 +3,6 @@
 breadcrumb: /phpbb:phpBB/styles:Styles/!salient:Salient/
 
 details: http://www.rockettheme.com/phpbb/styles/salient
-Widgetsalient/
 download: http://www.rockettheme.com/phpbb/styles/salient/modal/downloads
 support: http://www.rockettheme.com/forum/phpbb-style-salient/
 
