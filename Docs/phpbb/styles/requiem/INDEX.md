@@ -15,7 +15,7 @@ Requiem is an exquisitely designed style for the RokBB administration module, of
 
 Integrated styling is provided for extensions in its various layout types, such as Tabs and Headlines. Requiem is based on the RokBB Framework, and has varying other features available.
 
->> NOTE: Because Requiem is based on a Gantry 5 Joomla template, it is not compatible with RokNavMenu Exporter. This is due to the fact that Gantry 5 does not use RokNavMenu as it has its own built-in menu system. A solution for fans of this exporter is currently in progress.
+>> NOTE: Because Requiem is based on a Gantry 5 Joomla template, it is not compatible with RokNavMenu Exporter. This is due to the fact that Gantry 5 does not use RokNavMenu as it has its own built-in menu system.
 
 Features
 -----

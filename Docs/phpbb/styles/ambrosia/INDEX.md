@@ -15,7 +15,7 @@ Ambrosia is a contemporary, flat design, ideal for a content-centric forum that 
 
 Integrated styling is provided for extensions in its various layout types, such as Tabs and Headlines. Ambrosia is based on the RokBB Framework, and has varying other features available.
 
->> NOTE: Because Ambrosia is based on a Gantry 5 Joomla template, it is not compatible with RokNavMenu Exporter. This is due to the fact that Gantry 5 does not use RokNavMenu as it has its own built-in menu system. A solution for fans of this exporter is currently in progress.
+>> NOTE: Because Ambrosia is based on a Gantry 5 Joomla template, it is not compatible with RokNavMenu Exporter. This is due to the fact that Gantry 5 does not use RokNavMenu as it has its own built-in menu system.
 
 Features
 -----
