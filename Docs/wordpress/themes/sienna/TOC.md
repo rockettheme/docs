@@ -28,7 +28,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-sienna/
         * [Simple Menu](particle_simplemenu.md)
         * [Simple Weather](particle_weather.md)
         * [BookBlock](particle_book.md)
-        * [WordPress Articles](particle_wordpress.md)
+        * [WordPress Posts](particle_wordpress.md)
         * [Block Content](particle_block.md)
         * [Info List](particle_info.md)
         * [Grid Statistic](particle_grid.md)

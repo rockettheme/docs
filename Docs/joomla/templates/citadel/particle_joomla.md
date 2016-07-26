@@ -1,21 +1,19 @@
 ---
-title: Topaz: WordPress Articles Particle
-description: Your Guide to Recreating Elements of the Topaz Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/topaz:Topaz
+title: Citadel: Joomla Articles Particle
+description: Your Guide to Recreating Elements of the Citadel Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/citadel:Citadel
 
 ---
 
 ## Introduction
 
-![](assets/particle_wordpress1.jpg)
-
-The **WordPress Articles** particle gives you the ability to directly list and pull in WordPress articles directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
+The **Joomla Articles** particle gives you the ability to directly list and pull in Joomla articles directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
 ### Main Options 
 
 The particle's settings panel enables you to set exactly what content appears in the particle, and how it's presented. We have provided descriptions to the available options below.
 
-![](assets/particle_wordpress2.jpg)
+![](assets/particle_joomla2.jpg)
 
 | Option             | Description                                                                                                                                                              |
 | :-----             | :-----                                                                                                                                                                   |
