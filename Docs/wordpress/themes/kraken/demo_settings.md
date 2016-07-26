@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 Theme Style Settings
 -----
 
-One of the most important aspects of any Gantry theme is its ability to be easily customized using the settings present in the Theme Settings page. These settings can be adjusted by navigating to **Administration -> Components -> Gantry 5 Themes -> Kraken**. To replicate the demo, the styling changes are being made in the **Styles** tab.
+One of the most important aspects of any Gantry theme is its ability to be easily customized using the settings present in the Theme Settings page. These settings can be adjusted by navigating to **Administration -> Kraken Theme**. To replicate the demo, the styling changes are being made in the **Styles** tab.
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Styles** are adjusted automatically with the selection of a theme preset. You can set presets using the **Presets** options located at the top of the **Styles** admin panel.
 

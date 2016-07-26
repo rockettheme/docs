@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Citadel](themes/citadel)
 	- [Sienna](themes/sienna)
 	- [Topaz](themes/topaz)
 	- [Interstellar](themes/interstellar)
