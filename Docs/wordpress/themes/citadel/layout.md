@@ -7,4 +7,4 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/citadel:Citadel
 
 ## Layout Manager
 
-![positions](assets/outline_home.jpg)
+![positions](assets/outline_home.png)
