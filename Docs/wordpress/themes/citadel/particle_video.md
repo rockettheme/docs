@@ -46,6 +46,8 @@ These items make up the individual featured items in the particle.
 | Autoplay              | Enable of disable video autoplay.                                                                                                                                      |
 | Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube** and **Local** sources.                                                        |
 
+Since not all browsers support all video types, the **Local Video Source(s)** area enables you to select multiple videos in the particle. This will enable you to have a WebM version of the video load, and if the visitor is using a browser that doesn't support it, you can add an MP4 version of the video which will load instead. The same applies to Ogg and MOV video types.
+
 ![](assets/particle_video4.jpg)
 
 The particle has local support for any video format that can be natively embedded using HTML5. This includes: MP4, WebM, Mov, and Ogg videos. If you would like a point of reference, we used a 1280x720 h.264 video placed within a .mp4 wrapper. This is a standard video format that is commonly available as a preset in most video encoding programs.
