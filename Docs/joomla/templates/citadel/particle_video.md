@@ -50,7 +50,7 @@ Since not all browsers support all video types, the **Local Video Source(s)** ar
 
 ![](assets/particle_video4.jpg)
 
-The particle has local support for any video format that can be natively embedded using HTML5. This includes: MP4, WebM, Mov, and Ogg videos. If you would like a point of reference, we used a 1280x720 h.264 video placed within a .mp4 wrapper. This is a standard video format that is commonly available as a preset in most video encoding programs.
+The particle has local support for any video format that can be natively embedded using HTML5. This includes: MP4, WebM, Mov, and Ogg videos. If you would like a point of reference, we used a 1280x720 video in the RocketLauncher. This is a standard video format that is commonly available as a preset in most video encoding programs.
 
 Variables such as your bitrate will vary depending on the type of content in the video, as well as the frame rate of the video being presented. High action and/or high framerate video will need higher bitrates while low-action video such as screencasts and shots of a plain background with little overall movement can get by with lower bitrates.
 
