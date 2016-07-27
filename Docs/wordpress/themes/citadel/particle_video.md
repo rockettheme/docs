@@ -37,14 +37,14 @@ These items make up the individual featured items in the particle.
 
 ![](assets/particle_video3.jpeg)
 
-| Option                | Description                                                                                                                     |
-| :-----                | :-----                                                                                                                          |
-| Caption               | Enter a caption for the video.                                                                                                  |
-| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, and **Local Video**. |
-| Local Video Source(s) | When **Local Video** is selected as the **Source**, this would be the video you wish to load in the particle.                   |
-| Loop                  | Enable or disable video looping.                                                                                                |
-| Autoplay              | Enable of disable video autoplay.                                                                                               |
-| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube** and **Local** sources.                 |
+| Option                | Description                                                                                                                                                            |
+| :-----                | :-----                                                                                                                                                                 |
+| Caption               | Enter a caption for the video.                                                                                                                                         |
+| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, and **Local Video**.                                        |
+| Local Video Source(s) | When **Local Video** is selected as the **Source**, this would be the video (or videos) you wish to load in the particle. Not all videos have to have the same format. |
+| Loop                  | Enable or disable video looping.                                                                                                                                       |
+| Autoplay              | Enable of disable video autoplay.                                                                                                                                      |
+| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube** and **Local** sources.                                                        |
 
 ![](assets/particle_video4.jpg)
 
