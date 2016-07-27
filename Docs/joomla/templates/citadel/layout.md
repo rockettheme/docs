@@ -7,4 +7,4 @@ breadcrumb: /joomla:Joomla/!templates:Templates/citadel:Citadel
 
 ## Layout Manager
 
-![positions](assets/outline_home.jpg)
+![positions](assets/outline_home.png)
