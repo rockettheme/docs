@@ -16,9 +16,9 @@ The **Extension** section includes two module positions, `extension-a`, and `ext
 Here is a breakdown of the module(s) and particle(s) that appear in this section:
 
 * [Extension A (module position)](#extension-a-(module-position))
-    - [Logo (particle)](#gantry-5-particle-(logo))
+    - [Promo Content (particle)](##gantry-5-particle-(promo-content)-1)
 * [Extension B (module position)](#extension-b-(module-position))
-    - [Menu (particle)](#gantry-5-particle-(menu))
+    - [Promo Content (particle)](##gantry-5-particle-(promo-content)-2)
 
 ## Section Settings
 
