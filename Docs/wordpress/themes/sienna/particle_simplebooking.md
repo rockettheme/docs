@@ -88,4 +88,5 @@ Items in this particle are the actual individual items being filtered for and se
 | Button Label      | Enter text that appears in the button for that item. This button brings up the name/email form. |
 
 
+If you would like help customizing the email template that is sent to you whenever a visitor fills out the form, please check out our [documentation](howto_customize_email.md).
 
