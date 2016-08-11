@@ -40,15 +40,7 @@ Site licenses vary from purchase to purchase. We have outlined our current site 
 | WordPress  | Plus (12 months)      | 3             |  
 | WordPress  | Developer (12 months) | Unlimited     |  
 | Magento    | Single Theme          | 1             |  
-| Magento    | Basic (3 months)      | 1             |  
-| Magento    | Standard (6 months)   | 2             |  
-| Magento    | Plus (12 months)      | 3             |  
-| Magento    | Developer (12 months) | Unlimited     |  
 | phpBB     | Single Style          | 1             |  
-| phpBB     | Basic (3 months)      | 1             |  
-| phpBB     | Standard (6 months)   | 2             |  
-| phpBB     | Plus (12 months)      | 3             |  
-| phpBB     | Developer (12 months) | Unlimited     |  
 
 
 Common Use Scenarios
