@@ -22,7 +22,7 @@ The next thing you will want to do is select the orange button labeled **Form Se
 Here is an example of the content you can put in this field:
 
 ~~~ .html
-Hello Mr. ,
+Hello Mr. Example,
 <br />
 You received a message from {{Name}} ({{Email}}): <br />
 <b>Title</b>:  {{Title}} <br />
