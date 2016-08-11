@@ -62,6 +62,7 @@ support: http://www.rockettheme.com/forum/joomla-template-sienna/
     - [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
     - [Template Font Index](../../../technical_tips/general/font_index.md)
+    - [Customizing Simple Booking and Booking Form Email Templates](howto_customize_email.md)
 * Useful Extension Guides
     - [RokAjaxSearch](../../extensions/rokajaxsearch/)
     - [RokBooster](../../extensions/rokbooster/)
