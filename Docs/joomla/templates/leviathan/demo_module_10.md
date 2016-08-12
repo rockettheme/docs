@@ -95,7 +95,7 @@ To replace the icons, please open and edit `demo-styles.less` inside the `templa
 
 | Option              | Setting                                                                        |  
 | :------------------ | :----------------------------------------------------------------------------- |  
-| Module Class Suffix | `fp-menu title1 rt-small-sidebar-title nomargintop nopaddingtop visible-large` |  
+| Module Class Suffix | `fp-menu title1 rt-small-sidebar-title nomargintop nopaddingtop` |  
 
 [demo]: assets/demo_10.jpeg
 [demo2]: assets/quick_1.jpeg
