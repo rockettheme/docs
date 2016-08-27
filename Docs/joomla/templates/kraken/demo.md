@@ -31,7 +31,7 @@ Below, you will find the module placement and settings for the various module po
     6. **Showcase** Grid Statistic (Particle) [25%, 20%, se]
     7. **Above** Grid Content (Particle) [33%, 20%, se]
     8. **Utility** Custom HTML (Particle) [45%, 20%, se]
-    9. **Mainbar** Animated Block (Particle) [49%, 20%, se]
+    9. **Mainbar** Grid Content (Particle) [49%, 20%, se]
     10. **Aside** Icon Menu (Particle) [49%, 65%, se]
     11. **Aside** Grid Content (Particle) [54%, 65%, se]
     12. **Aside** Block Content (Particle) [64%, 65%, se]

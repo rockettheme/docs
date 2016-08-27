@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Remnant](themes/remnant)
 	- [Citadel](themes/citadel)
 	- [Sienna](themes/sienna)
 	- [Topaz](themes/topaz)

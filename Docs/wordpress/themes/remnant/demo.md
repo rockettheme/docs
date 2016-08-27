@@ -1,16 +1,16 @@
 ---
-title: Citadel: Recreating the Demo
-description: Your Guide to Recreating Elements of the Citadel Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/citadel:Citadel
+title: Remnant: Recreating the Demo
+description: Your Guide to Recreating Elements of the Remnant Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/remnant:Remnant
 
 ---
 
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Citadel can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Remnant can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Citadel Theme.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Remnant Theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
@@ -21,39 +21,47 @@ Module and Particle Settings
 
 Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/citadel2.jpeg)
+![](assets/remnant2.jpg)
 
-:   1. **Navigation Main** Logo (Particle) [1%, 15%, se]
-    2. **Navigation Main** Menu (Particle) [1%, 30%, se]
-    3. **Slideshow Main** Simple Content (Particle) [6%, 17%, se]
-    4. **Slideshow Main** Video (Particle) [4%, 10%, se]
-    5. **Header Main** Simple Content (Particle) [15%, 10%, se]
-    6. **Header Main** Info List (Particle) [20%, 10% se]
-    8. **Above Main** Owl Carousel (Particle) [28%, 10%, se]
-    8. **Above Main** Owl Carousel (Particle) [28%, 68%, se]
-    9. **Showcase Main** Simple Content (Particle) [43%, 15%, se]
-    10. **Showcase Main** Video (Particle) [39%, 15%, se]
-    11. **Showcase Main** Custom HTML (Particle) [37%, 35%, se]
-    12. **Feature Main** Owl Carousel (Particle) [52%, 13%, se]
-    13. **Feature Main** Block Content (Particle) [52%, 50%, se]
-    14. **Expanded Main** Info List (Particle) [65%, 13%, se]
-    15. **Extension Main** Info List (Particle) [75%, 13%, se]
-    16. **Footer Main** Custom HTML (Particle) [83%, 12%, se]
-    17. **Footer Main** Simple Form (Particle) [83%, 50%, se]
-    18. **Copyright Main** Logo / Image (Particle) [97%, 48%, se]
-    18. **Copyright Main** Bottom Menu (Particle) [98%, 35%, se]
-    19. **Copyright Main** Copyright (Particle) [99%, 40%, se]
+:   1. **Navigation** Logo (Particle) [1%, 15%, se]
+    2. **Navigation** Menu (Particle) [1%, 55%, se]
+    3. **Slideshow** Custom HTML (Particle) [4%, 10%, se]
+    4. **Header** Simple Content (Particle) [12%, 10%, se]
+    5. **Header** Simple Content (Particle) [12%, 50%, se]
+    6. **Header** Audio Player (Particle) [14%, 10% se]
+    7. **Header** Event List (Particle) [14%, 50%, se]
+    8. **Above** Simple Content (Particle) [25%, 10%, se]
+    9. **Above** Video Grid (Particle) [26%, 10%, se]
+    10. **Showcase** Simple Content (Particle) [34%, 30%, se]
+    11. **Showcase** Image Grid (Particle) [38%, 1%, se]
+    12. **Showcase** Image Grid (Particle) [38%, 50%, se]
+    13. **Expanded** Custom HTML (Particle) [53%, 10%, se]
+    14. **Expanded** Custom HTML (Particle) [53%, 55%, se]
+    15. **Bottom** Simple Content (Particle) [67%, 30%, se]
+    16. **Bottom** Mini Player (Particle) [71%, 15%, se]
+    17. **Footer** Simple Content (Particle) [84%, 30%, se]
+    18. **Footer** Owl Carousel (Particle) [88%, 10%, se]
+    19. **Copyright** Simple Menu (Particle) [94%, 10%, se]
+    20. **Copyright** Simple Menu (Particle) [94%, 25%, se]
+    21. **Copyright** Simple Menu (Particle) [94%, 38%, se]
+    22. **Copyright** Simple Menu (Particle) [94%, 50%, se]
+    23. **Copyright** Simple Menu (Particle) [94%, 65%, se]
+    24. **Copyright** Simple Menu (Particle) [94%, 79%, se]
+    25. **Copyright** Branding (Particle) [99%, 10%, se]
+    26. **Copyright** Social (Particle) [99%, 80%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
 Particles
 -----
 
-Here is a list of particles that are available in Citadel, as well as links to documentation to help you get started:
+Here is a list of particles that are available in Remnant, as well as links to documentation to help you get started:
 
 * Theme Particles
     * [Owl Carousel](particle_owl.md)
-    * [Video](particle_video.md)
+    * [Video Grid](particle_video.md)
+    * [Audio Player](particle_audio.md)
+    * [Mini Player](particle_mini.md)
     * [Pricing Table](particle_pricing.md)
     * [WordPress Articles](particle_wordpress.md)
     * [Block Content](particle_block.md)
@@ -61,6 +69,7 @@ Here is a list of particles that are available in Citadel, as well as links to d
     * [Grid Statistic](particle_grid.md)
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
+    * [Simple Weather](particle_weather.md)
 * Core Particles 
     * [Logo](http://docs.gantry.org/gantry5/particles/logo)
     * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -88,20 +97,20 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
-Recommended Extensions
+Recommended Plugins
 -----
 
-Here is a list of RocketTheme extensions used to create the demo version of Citadel:
+Here is a list of RocketTheme plugins used to create the demo version of Remnant:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/wordpress/extensions/rokbox)
+* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
-Many of these extensions are included with the Citadel RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Remnant RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Citadel demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Citadel demo.
+The front page of the Remnant demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Remnant demo.
 
 Home Page Layout Presets
 -----

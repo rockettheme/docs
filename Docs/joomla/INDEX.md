@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Remnant](templates/remnant)
 	- [Citadel](templates/citadel)
 	- [Sienna](templates/sienna)
 	- [Topaz](templates/topaz)
