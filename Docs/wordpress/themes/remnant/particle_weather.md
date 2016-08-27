@@ -1,11 +1,13 @@
 ---
 title: Remnant: Simple Weather Particle
-description: Your Guide to Recreating Elements of the Remnant Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/remnant:Remnant
+description: Your Guide to Recreating Elements of the Remnant Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/remnant:Remnant
 
 ---
 
 ## Introduction
+
+![](assets/particle_simpleweather1.jpg)
 
 The **Simple Weather** particle is a quick and easy way to add weather content to your website. This is a great feature for location-specific sites that serve a specific region.
 
