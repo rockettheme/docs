@@ -27,6 +27,7 @@ support: http://www.rockettheme.com/forum/joomla-template-remnant/
         * [Video Grid](particle_video.md)
         * [Audio Player](particle_audio.md)
         * [Mini Player](particle_mini.md)
+        * [Event List](particle_event.md)
         * [Pricing Table](particle_pricing.md)
         * [Joomla Articles](particle_joomla.md)
         * [Block Content](particle_block.md)
