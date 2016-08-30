@@ -62,6 +62,7 @@ Here is a list of particles that are available in Remnant, as well as links to d
     * [Video Grid](particle_video.md)
     * [Audio Player](particle_audio.md)
     * [Mini Player](particle_mini.md)
+    * [Event List](particle_event.md)
     * [Pricing Table](particle_pricing.md)
     * [Joomla Articles](particle_joomla.md)
     * [Block Content](particle_block.md)
