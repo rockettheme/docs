@@ -8,10 +8,7 @@ breadcrumb: /joomla:Joomla/!themes:Themes/remnant:Remnant
 ## Is Remnant compatible for Joomla 1.5 or 2.5?
 
 No, Remnant is only compatible with Joomla 3.4+.
-
-## What is RokSprocket?
-
-[RokSprocket][roksprocket] is a powerful content display extension for Joomla 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles.
+Theme
 
 ## What is Gantry?
 
