@@ -7,8 +7,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/remnant:Remnant
 
 ## Introduction
 
-![](assets/particle_simpleweather1.jpg)
-
 The **Simple Weather** particle is a quick and easy way to add weather content to your website. This is a great feature for location-specific sites that serve a specific region.
 
 Here are the topics covered in this guide:
