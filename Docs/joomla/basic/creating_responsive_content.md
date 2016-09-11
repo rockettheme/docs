@@ -230,7 +230,7 @@ xxx = 5 to 100
 
 blocks should generally add up to 100
 
-2 blocks 50/50 example
+2 blocks 50/50
 ~~~ .html
 <div class="g-grid">
     <div class="g-block size-50">
@@ -246,7 +246,7 @@ blocks should generally add up to 100
 </div>
 ~~~
 
-3 blocks, 60, 22, 18 example
+3 blocks, 60, 22, 18
 ~~~ .html
 <div class="g-grid">
     <div class="g-block size-60">
@@ -267,7 +267,7 @@ blocks should generally add up to 100
 </div>
 ~~~
 
-2 content blocks with a spacer in-between:
+2 content blocks with a spacer in-between
 ~~~ .html
 <div class="g-grid">
     <div class="g-block size-40">
