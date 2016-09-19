@@ -168,7 +168,7 @@ Below is the same content area as before in mobile view, demonstrating how the m
 
 ![][responsive10]
 
->> NOTE: The specific scripting noted above applies to the following RocketTheme templates: Fracture, Graffito, Metropolis, Cerulean, Leviathan, Lumiere, Chapelco, Afterburner2, Alerion, Hexeris, Oculus, Stratos, Praxis, Corvus, Acacia, Spectral, Paradigm, Hadron, Anacron, Epsilon, Lexicon, and Vermilion. All templates produced after Vermilion follow the class name scheme below.
+>> NOTE: The specific scripting noted above applies to the following RocketTheme templates: Fracture, Graffito, Metropolis, Cerulean, Leviathan, Lumiere, Chapelco, Afterburner2, Alerion, Hexeris, Oculus, Stratos, Praxis, Corvus, Acacia, Spectral, Paradigm, Hadron, Anacron, Epsilon, Lexicon, and Vermilion. All Gantry 4 templates produced after Vermilion follow the class name scheme below.
 
 Templates produced after Vermilion use Flexbox, which uses containers rather than blocks. Here is an example of the method used in these newer templates:
 
@@ -207,6 +207,86 @@ Each responsive Gantry template made by RocketTheme comes with a set of `gantry-
 As an example, if you have `gantry-width-30` and `gantry-width-70` sitting in the same content row, the first div will take up 30% of the total width while the second takes the remaining 70%. This could be different, depending on how the class is defined. 
 
 In the case of `gantry-width-33`, the `width:33.33%` setting was used in order to make it more accurate to a true third of the total page width.
+
+### Gantry 5 Grid Classes
+
+In Gantry 5 you can use the normal classes and HTML markup available in the core Gantry code which are `g-container`, `g-grid`, `g-block`, and `g-content`. The `g-block` wrapper will allow you to also set a `size-xxx` class between 5 and 100 and inside on `g-content` you can optionally set a spacer with `<div class="spacer"></div>`.
+
+As `g-container` is often already set by the Gantry 5 Section you typically would not need to use it in your custom code. `g-container` will define your max-width based on your Section settings of either Fullwidth - Boxed, Fullwidth - Flushed, or Boxed.
+
+## Examples
+
+Basic:
+~~~ .html
+<div class="g-grid">
+    <div class="g-block size-xxx">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+</div>
+~~~
+xxx = 5 to 100
+
+blocks should generally add up to 100
+
+2 blocks 50/50
+~~~ .html
+<div class="g-grid">
+    <div class="g-block size-50">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+    <div class="g-block size-50">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+</div>
+~~~
+
+3 blocks, 60, 22, 18
+~~~ .html
+<div class="g-grid">
+    <div class="g-block size-60">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+    <div class="g-block size-20">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+    <div class="g-block size-18">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+</div>
+~~~
+
+2 content blocks with a spacer in-between
+~~~ .html
+<div class="g-grid">
+    <div class="g-block size-40">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+    <div class="g-block size-20">
+          <div class="g-content">
+              <div class="spacer"></div>
+          </div>
+    </div>
+    <div class="g-block size-40">
+          <div class="g-content">
+              ...
+          </div>
+    </div>
+</div>
+~~~
 
 ### Responsive Utility Classes
 
