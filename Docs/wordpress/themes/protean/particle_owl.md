@@ -1,13 +1,13 @@
 ---
-title: Citadel: Owl Carousel Particle
-description: Your Guide to Recreating Elements of the Citadel Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/citadel:Citadel
+title: Protean: Owl Carousel Particle
+description: Your Guide to Recreating Elements of the Protean Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/protean:Protean
 
 ---
 
 ## Introduction
 
-![](assets/particle_owl1.jpeg)
+![](assets/particle_owl1.gif)
 
 The **Owl Carousel** particle is a diverse particle with multiple layouts, a wide range of features and customization options, and the ability to source content from both the CMS and custom items set up in the particle itself.
 
@@ -26,13 +26,11 @@ Here are the topics covered in this guide:
 
 ## Layouts
 
-Owl Carousel features four layouts, three of which are used in Citadel's demo. You will see examples of these layouts below.
+Owl Carousel features four layouts, several of which are used in Protean's demo. You will see examples of these layouts below.
 
 ### Standard
 
-The **Standard** layout is a great way to present written content from the CMS, as well as directly from the individual particle. You can display written content, images, or a combination of the two with ease.
-
-![](assets/particle_owl1.jpeg)
+The **Standard** layout (pictured at the top of this page) is a great way to present written content from the CMS, as well as directly from the individual particle. You can display written content, images, or a combination of the two with ease.
 
 ### NewsSlider
 
@@ -40,23 +38,21 @@ The **NewsSlider** layout is a great way to pack a lot of written content into a
 
 ### Showcase
 
-![](assets/particle_owl2.jpeg)
-
 The **Showcase** layout enables you to set up a quick and elegant series of links to important content, along with thumbnails. Great for adding a simple list of featured headlines.
 
 ### Testimonial
 
-![](assets/particle_owl3.jpeg)
+![](assets/particle_owl2.gif)
 
 The **Testimonial** layout enables you to display testimonies from customers, users, and other individuals in a simple and elegant fashion.
 
 ## Configuration
 
-The settings panel for **Owl Carousel** is filled with options, bells, and whistles you can use to configure your particle. Here is a quick breakdown of the settings you will find in this particle in Citadel.
+The settings panel for **Owl Carousel** is filled with options, bells, and whistles you can use to configure your particle. Here is a quick breakdown of the settings you will find in this particle in Protean.
 
 ### Main Options 
 
-![](assets/particle_owl4.jpeg)
+![](assets/particle_owl4.jpg)
 
 | Option          | Description                                                                                                                                  |
 | :-----          | :-----                                                                                                                                       |
@@ -82,7 +78,7 @@ The settings panel for **Owl Carousel** is filled with options, bells, and whist
 
 These items only appear on the front end if you select **Particle** as the **Content Source**.
 
-![](assets/particle_owl5.jpeg)
+![](assets/particle_owl5.jpg)
 
 | Option                           | Description                                                                                                                                                      |
 | :-----                           | :-----                                                                                                                                                           |
@@ -105,14 +101,15 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 
 ![](assets/particle_owl6.jpg)
 
-| Option            | Description                                                                                   |
-| :-----            | :-----                                                                                        |
-| WordPress Categories | Enables you to set which categories (by name) appear in the particle.                         |
-| Articles to Fetch | Sets the number of articles you want to have fetched by the particle from the CMS.            |
-| Intro Image       | Sets whether or not the particle will display the article's assigned intro image.             |
-| Categories Names  | Sets whether or not the particle will display the article's category name.                    |
-| Article Title     | Sets whether or not the particle will display the article's title.                            |
-| Intro Text        | Sets whether or not the particle will display the article's intro text.                       |
-| Author            | Sets whether or not the particle will display the article's author.                           |
-| Link              | Enables or disables direct links to the article(s) from the particle.                         |
-| Link Text         | You can use this field to enter text you would like to have appear. For example: `Read More`. |
+| Option               | Description                                                                                                    |
+| :-----               | :-----                                                                                                         |
+| WordPress Categories | Enter the categorie(s) you would like to appear in the particle.                                               |
+| Posts to Fetch       | Enter the number of posts you would like to have loaded in the particle.                                       |
+| Featured Image       | Enable or disable the featured image appearing in the particle.                                                |
+| Categories Names     | Enable or disable the category of the article in the particle.                                                 |
+| Post Title           | Enable or disable the title of the post appearing in the particle.                                             |
+| Post Excerpt         | Enable or disable the content placed in the **Post Excerpt** area of the post to be displayed in the particle. |
+| Post Content         | Enable or disable the main content of the post appearing under the image in the particle.                      |
+| Author               | Display or hide the author name appearing in the front end of the particle.                                    |
+| Link                 | Enable or disable the read more link.                                                                          |
+| Link Text            | Enter the text you would like to appear in the Read More link.                                                 |

@@ -101,7 +101,7 @@ These items only appear on the front end if you select **Particle** as the **Con
 
 These options are only useful if you select **WordPress** as the **Content Source**.
 
-![](assets/particle_owl5.jpg)
+![](assets/particle_owl6.jpg)
 
 | Option               | Description                                                                                                    |
 | :-----               | :-----                                                                                                         |
@@ -112,5 +112,6 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 | Post Title           | Enable or disable the title of the post appearing in the particle.                                             |
 | Post Excerpt         | Enable or disable the content placed in the **Post Excerpt** area of the post to be displayed in the particle. |
 | Post Content         | Enable or disable the main content of the post appearing under the image in the particle.                      |
+| Author               | Display or hide the author name appearing in the front end of the particle.                                    |
 | Link                 | Enable or disable the read more link.                                                                          |
 | Link Text            | Enter the text you would like to appear in the Read More link.                                                 |
