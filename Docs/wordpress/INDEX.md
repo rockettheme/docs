@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Protean](themes/protean)
 	- [Remnant](themes/remnant)
 	- [Citadel](themes/citadel)
 	- [Sienna](themes/sienna)
