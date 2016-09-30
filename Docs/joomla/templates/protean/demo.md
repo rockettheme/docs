@@ -25,30 +25,21 @@ Below, you will find the module placement and settings for the various module po
 
 :   1. **Navigation** Logo (Particle) [1%, 15%, se]
     2. **Navigation** Menu (Particle) [1%, 55%, se]
-    3. **Slideshow** Custom HTML (Particle) [4%, 10%, se]
-    4. **Header** Simple Content (Particle) [12%, 10%, se]
-    5. **Header** Simple Content (Particle) [12%, 50%, se]
-    6. **Header** Audio Player (Particle) [14%, 10% se]
-    7. **Header** Event List (Particle) [14%, 50%, se]
-    8. **Above** Simple Content (Particle) [25%, 10%, se]
-    9. **Above** Video Grid (Particle) [26%, 10%, se]
-    10. **Showcase** Simple Content (Particle) [34%, 30%, se]
-    11. **Showcase** Image Grid (Particle) [38%, 1%, se]
-    12. **Showcase** Image Grid (Particle) [38%, 50%, se]
-    13. **Expanded** Custom HTML (Particle) [53%, 10%, se]
-    14. **Expanded** Custom HTML (Particle) [53%, 55%, se]
-    15. **Bottom** Simple Content (Particle) [67%, 30%, se]
-    16. **Bottom** Mini Player (Particle) [71%, 15%, se]
-    17. **Footer** Simple Content (Particle) [84%, 30%, se]
-    18. **Footer** Owl Carousel (Particle) [88%, 10%, se]
-    19. **Copyright** Simple Menu (Particle) [94%, 10%, se]
-    20. **Copyright** Simple Menu (Particle) [94%, 25%, se]
-    21. **Copyright** Simple Menu (Particle) [94%, 38%, se]
-    22. **Copyright** Simple Menu (Particle) [94%, 50%, se]
-    23. **Copyright** Simple Menu (Particle) [94%, 65%, se]
-    24. **Copyright** Simple Menu (Particle) [94%, 79%, se]
-    25. **Copyright** Branding (Particle) [99%, 10%, se]
-    26. **Copyright** Social (Particle) [99%, 80%, se]
+    3. **Slideshow** Own Carousel (Particle) [4%, 10%, se]
+    4. **Above** Simple Content (Particle) [17%, 25%, se]
+    5. **Above** Content Array (Particle) [19%, 10%, se]
+    6. **Feature** Simple Content (Particle) [27%, 30% se]
+    7. **Feature** Content Tabs (Particle) [30%, 15%, se]
+    8. **Expanded** Flipster (Particle) [41%, 2%, se]
+    9. **Expanded** Info List (Particle) [53%, 10%, se]
+    10. **Extension** Owl Carousel (Particle) [62%, 15%, se]
+    11. **Bottom** Info List (Particle) [72%, 12%, se]
+    12. **Footer** Image Grid (Particle) [78%, 2%, se]
+    13. **Footer** Simple Content (Particle) [90%, 22%, se]
+    14. **Footer** Newsletter (Particle) [92%, 35%, se]
+    15. **Copyright** Simple Menu (Particle) [97%, 30%, se]
+    16. **Copyright** Branding (Particle) [98%, 50%, se]
+    17. **Copyright** Social (Particle) [98%, 85%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
@@ -59,15 +50,14 @@ Here is a list of particles that are available in Protean, as well as links to d
 
 * Template Particles
     * [Owl Carousel](particle_owl.md)
-    * [Video Grid](particle_video.md)
-    * [Audio Player](particle_audio.md)
-    * [Mini Player](particle_mini.md)
+    * [Video and Video Grid](particle_video.md)
     * [Event List](particle_event.md)
     * [Pricing Table](particle_pricing.md)
     * [Joomla Articles](particle_joomla.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Grid Statistic](particle_grid.md)
+    * [Content Tabs](particle_tabs.md)
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
     * [Simple Weather](particle_weather.md)

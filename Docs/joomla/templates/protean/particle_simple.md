@@ -13,22 +13,9 @@ The **Simple Content** particle enables you quickly and easily add one or more s
 
 Here are the topics covered in this guide:
 
-* [Layout](#layout)
-    - [Particle Content](#particle-content)
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-
-## Layout
-
-In Protean, the **Simple Content** particle can be as simple or as complex as you need it to be, with multiple areas of support for content, titles, and more. There are even two layouts to choose from: **Standard** and **Header**. The style you see in the front end example here uses the **Header** style as it serves as the header of the demo's subpages.
-
-### Particle Content
-
-![](assets/particle_simple1.jpg)
-
-:   1. **Item - Content Title** [12%, 35%, se]
-    2. **Item - Leading Content** [62%, 5%, se]
 
 ## Configuration
 

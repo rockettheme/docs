@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Protean](templates/protean)
 	- [Remnant](templates/remnant)
 	- [Citadel](templates/citadel)
 	- [Sienna](templates/sienna)

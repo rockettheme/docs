@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/protean:Protean
 
 ## Introduction
 
-![](assets/particle_event1.jpg)
-
 The **Event List** particle is a great way to provide a clean, easy-to-navigate list of upcoming events. For a band, this could be a list of stops on its upcoming tour.
 
 Here are the topics covered in this guide:

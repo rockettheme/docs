@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/protean:Protean
 
 ## Introduction
 
-![](assets/particle_owl1.jpg)
+![](assets/particle_owl1.gif)
 
 The **Owl Carousel** particle is a diverse particle with multiple layouts, a wide range of features and customization options, and the ability to source content from both the CMS and custom items set up in the particle itself.
 
@@ -26,11 +26,11 @@ Here are the topics covered in this guide:
 
 ## Layouts
 
-Owl Carousel features four layouts, three of which are used in Protean's demo. You will see examples of these layouts below.
+Owl Carousel features four layouts, several of which are used in Protean's demo. You will see examples of these layouts below.
 
 ### Standard
 
-The **Standard** layout is a great way to present written content from the CMS, as well as directly from the individual particle. You can display written content, images, or a combination of the two with ease.
+The **Standard** layout (pictured at the top of this page) is a great way to present written content from the CMS, as well as directly from the individual particle. You can display written content, images, or a combination of the two with ease.
 
 ### NewsSlider
 
@@ -42,6 +42,8 @@ The **Showcase** layout enables you to set up a quick and elegant series of link
 
 ### Testimonial
 
+![](assets/particle_owl2.gif)
+
 The **Testimonial** layout enables you to display testimonies from customers, users, and other individuals in a simple and elegant fashion.
 
 ## Configuration
@@ -50,7 +52,7 @@ The settings panel for **Owl Carousel** is filled with options, bells, and whist
 
 ### Main Options 
 
-![](assets/particle_owl4.jpeg)
+![](assets/particle_owl4.jpg)
 
 | Option          | Description                                                                                                                                  |
 | :-----          | :-----                                                                                                                                       |
@@ -76,7 +78,7 @@ The settings panel for **Owl Carousel** is filled with options, bells, and whist
 
 These items only appear on the front end if you select **Particle** as the **Content Source**.
 
-![](assets/particle_owl5.jpeg)
+![](assets/particle_owl5.jpg)
 
 | Option                           | Description                                                                                                                                                      |
 | :-----                           | :-----                                                                                                                                                           |
@@ -97,7 +99,7 @@ These items only appear on the front end if you select **Particle** as the **Con
 
 These options are only useful if you select **Joomla** as the **Content Source**.
 
-![](assets/particle_owl6.jpeg)
+![](assets/particle_owl6.jpg)
 
 | Option            | Description                                                                                   |
 | :-----            | :-----                                                                                        |
