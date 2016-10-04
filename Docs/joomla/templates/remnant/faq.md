@@ -8,7 +8,6 @@ breadcrumb: /joomla:Joomla/!themes:Themes/remnant:Remnant
 ## Is Remnant compatible for Joomla 1.5 or 2.5?
 
 No, Remnant is only compatible with Joomla 3.4+.
-Theme
 
 ## What is Gantry?
 

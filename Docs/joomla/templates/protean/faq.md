@@ -8,7 +8,6 @@ breadcrumb: /joomla:Joomla/!themes:Themes/protean:Protean
 ## Is Protean compatible for Joomla 1.5 or 2.5?
 
 No, Protean is only compatible with Joomla 3.4+.
-Theme
 
 ## What is Gantry?
 

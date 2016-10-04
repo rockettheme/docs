@@ -1,4 +1,4 @@
-s---
+---
 title: Protean: FAQ
 description: Your Guide to Using the Protean Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/protean:Protean
