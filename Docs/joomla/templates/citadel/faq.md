@@ -8,7 +8,6 @@ breadcrumb: /joomla:Joomla/!themes:Themes/citadel:Citadel
 ## Is Citadel compatible for Joomla 1.5 or 2.5?
 
 No, Citadel is only compatible with Joomla 3.4+.
-Theme
 
 ## What is Gantry?
 
