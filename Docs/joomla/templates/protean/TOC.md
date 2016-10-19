@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/joomla-template-protean/
     * [Recreate the Demo](demo.md)
         * [Extensions](demo.md#recommended-extensions)
         * [Style Settings](demo_settings.md)
-        * [Particle Settings](demo.md#particle-settings)
+        * [Home Particles](demo.md#home-particles)
         * [Front Page Layout](layout.md)
     * Template Particles
         * [Owl Carousel](particle_owl.md)
