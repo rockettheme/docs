@@ -16,10 +16,10 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Module and Particle Settings
+Home Particles
 -----
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited in the Protean - Home outline > Layout tab.
 
 ![](assets/protean2.jpg)
 
@@ -47,6 +47,8 @@ Particles
 -----
 
 Here is a list of particles that are available in Protean, as well as links to documentation to help you get started:
+
+>> NOTE: Again, all Frontpage Particles can be edited via Protean - Home outline > Layout. Any additional particles that are found in the Subpages of our Protean RocketLauncher can be located via your Joomla administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module admin), so finding these modules should prove to be simple.
 
 * Template Particles
     * [Owl Carousel](particle_owl.md)
