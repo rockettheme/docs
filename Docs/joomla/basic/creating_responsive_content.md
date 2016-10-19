@@ -208,13 +208,13 @@ As an example, if you have `gantry-width-30` and `gantry-width-70` sitting in th
 
 In the case of `gantry-width-33`, the `width:33.33%` setting was used in order to make it more accurate to a true third of the total page width.
 
-### Gantry 5 Grid Classes
+## Gantry 5 Grid Classes
 
-In Gantry 5 you can use the normal classes and HTML markup available in the core Gantry code which are `g-container`, `g-grid`, `g-block`, and `g-content`. The `g-block` wrapper will allow you to also set a `size-xxx` class between 5 and 100 and inside on `g-content` you can optionally set a spacer with `<div class="spacer"></div>`.
+In Gantry 5 you can use the normal classes and HTML markup available in the core Gantry code. These classes are `g-container`, `g-grid`, `g-block`, and `g-content`. The `g-block` wrapper will allow you to also set a specific width with the `size-xxx` class between 5 and 100. Inside of `g-content` you can optionally set a spacer with `<div class="spacer"></div>`.
 
 As `g-container` is often already set by the Gantry 5 Section you typically would not need to use it in your custom code. `g-container` will define your max-width based on your Section settings of either Fullwidth - Boxed, Fullwidth - Flushed, or Boxed.
 
-## Examples
+### Examples
 
 Basic:
 ~~~ .html
@@ -228,7 +228,7 @@ Basic:
 ~~~
 xxx = 5 to 100
 
-blocks should generally add up to 100
+blocks within a grid should generally add up to 100
 
 2 blocks 50/50
 ~~~ .html
@@ -254,7 +254,7 @@ blocks should generally add up to 100
               ...
           </div>
     </div>
-    <div class="g-block size-20">
+    <div class="g-block size-22">
           <div class="g-content">
               ...
           </div>
