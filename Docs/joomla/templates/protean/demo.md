@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited in the Protean - Home outline > Layout tab.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via Templates > Protean - Home > Layout.
 
 ![](assets/protean2.jpg)
 
@@ -48,7 +48,7 @@ Particles
 
 Here is a list of particles that are available in Protean, as well as links to documentation to help you get started:
 
->> NOTE: Again, all Frontpage Particles can be edited via Protean - Home outline > Layout. Any additional particles that are found in the Subpages of our Protean RocketLauncher can be located via your Joomla administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module admin), so finding these modules should prove to be simple.
+>> All Home Particles can be edited via Templates > Protean - Home > Layout. Any additional particles that are found in the Subpages of our Protean RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
 * Template Particles
     * [Owl Carousel](particle_owl.md)
