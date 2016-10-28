@@ -13,12 +13,10 @@ RocketTheme goes to great lengths to make sure that our Club members receive the
 
 >> Note: This guide is intended as a general reference and does not supersede our current [Terms and Conditions][terms] which are always available on our primary website.
 
-We currently offer Club memberships for four web application platforms.
+We currently offer Club memberships for two web application platforms.
 
 * Joomla!
 * WordPress
-* Magento
-* phpBB
 
 Club memberships give you complete access to our entire product catalog for the platform you are subscribed to. This includes templates and extensions we have created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 3, 6, and 12 month periods.
 
