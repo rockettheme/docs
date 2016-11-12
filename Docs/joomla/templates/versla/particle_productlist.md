@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/versla:Versla
 
 ![](assets/particle_productlist.jpeg)
 
-The **Product List** particle enables you to display your store's products in a clean way. It tabbed navigation scheme makes it easy for users to navigate through your products and find the item that they're searching for.
+The **Product List** particle enables you to display your store's products in a clean way. Its tabbed navigation scheme makes it easy for users to navigate through your products and find the item that they're searching for.
 
 Here are the topics covered in this guide:
 
@@ -71,7 +71,7 @@ This is where you can create items in the category.
 
 ![](assets/particle_productlist5.jpeg)
 
-This is where you can create custom fields or advanced product attributes. You can find a breakdown of how attributes work with Snipcart [here](http://docs.snipcart.com/configuration/product-definition).
+This is where you can create custom fields or advanced product attributes. You can find a breakdown of how attributes work with Snipcart [here](http://docs.snipcart.com/configuration/product-definition) and [here](http://docs.snipcart.com/configuration/custom-fields).
 
 | Option          | Description              |
 | :-----          | :-----                   |
