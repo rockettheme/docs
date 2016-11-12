@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Versla](templates/versla)
 	- [Protean](templates/protean)
 	- [Remnant](templates/remnant)
 	- [Citadel](templates/citadel)
