@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Versla](themes/versla)
 	- [Protean](themes/protean)
 	- [Remnant](themes/remnant)
 	- [Citadel](themes/citadel)

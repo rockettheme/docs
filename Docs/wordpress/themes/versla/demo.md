@@ -1,16 +1,16 @@
 ---
-title: Protean: Recreating the Demo
-description: Your Guide to Recreating Elements of the Protean Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/protean:Protean
+title: Versla: Recreating the Demo
+description: Your Guide to Recreating Elements of the Versla Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/versla:Versla
 
 ---
 
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Protean can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Versla can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Protean Theme.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Versla Theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
@@ -19,48 +19,47 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via Themes > Versla - Home > Layout.
 
-![](assets/protean2.jpg)
+![](assets/versla2.jpeg)
 
-:   1. **Navigation** Logo (Particle) [1%, 15%, se]
-    2. **Navigation** Menu (Particle) [1%, 55%, se]
-    3. **Slideshow** Own Carousel (Particle) [4%, 10%, se]
-    4. **Above** Simple Content (Particle) [17%, 25%, se]
-    5. **Above** Content Array (Particle) [19%, 10%, se]
-    6. **Feature** Simple Content (Particle) [27%, 30% se]
-    7. **Feature** Content Tabs (Particle) [30%, 15%, se]
-    8. **Expanded** Flipster (Particle) [41%, 2%, se]
-    9. **Expanded** Info List (Particle) [53%, 10%, se]
-    10. **Extension** Owl Carousel (Particle) [62%, 15%, se]
-    11. **Bottom** Info List (Particle) [72%, 12%, se]
-    12. **Footer** Image Grid (Particle) [78%, 2%, se]
-    13. **Footer** Simple Content (Particle) [90%, 22%, se]
-    14. **Footer** Newsletter (Particle) [92%, 35%, se]
-    15. **Copyright** Simple Menu (Particle) [97%, 30%, se]
-    16. **Copyright** Branding (Particle) [98%, 50%, se]
-    17. **Copyright** Social (Particle) [98%, 85%, se]
+:   1. **Navigation** Logo (Particle) [1%, 13%, se]
+    2. **Navigation** Menu (Particle) [1%, 27%, se]
+    3. **Navigation** Shopping Cart (Particle) [1%, 75%, se]
+    4. **Slideshow** Simple Content (Particle) [5%, 27%, se]
+    5. **Slideshow** Owl Showcase (Particle) [8%, 3%, se]
+    6. **Header** Product List (Particle) [20%, 10% se]
+    7. **Above** Info List (Particle) [50%, 15%, se]
+    8. **Feature** Owl Preview (Particle) [60%, 15%, se]
+    9. **Expanded** Simple Content (Particle) [73%, 5%, se]
+    10. **Expanded** WordPress Articles (Particle) [73%, 52%, se]
+    11. **Footer** Simple Content (Particle) [90%, 12%, se]
+    12. **Footer** Newsletter (Particle) [90%, 62%, se]
+    13. **Copyright** Bottom Menu (Particle) [95%, 10%, se]
+    14. **Copyright** Branding (Particle) [95%, 70%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
 Particles
 -----
 
-Here is a list of particles that are available in Protean, as well as links to documentation to help you get started:
+Here is a list of particles that are available in Versla, as well as links to documentation to help you get started:
+
+>> All Home Particles can be edited via Themes > Versla - Home > Layout. Any additional particles that are found in the Subpages of our Versla RocketLauncher can be located via your WordPress Administrator > Extensions > Modules. WordPress allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
 * Theme Particles
     * [Owl Carousel](particle_owl.md)
+    * [Shopping Cart](particle_shopping.md)
+    * [Product List](particle_productlist.md)
     * [Video and Video Grid](particle_video.md)
-    * [Event List](particle_event.md)
+    * [Content Tabs](particle_tabs.md)
     * [Pricing Table](particle_pricing.md)
     * [WordPress Articles](particle_wordpress.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
-    * [Grid Statistic](particle_grid.md)
-    * [Content Tabs](particle_tabs.md)
     * [Simple Content](particle_simple.md)
+    * [Simple Menu](particle_simplemenu.md)
     * [Image Grid](particle_image.md)
-    * [Simple Weather](particle_weather.md)
 * Core Particles 
     * [Logo](http://docs.gantry.org/gantry5/particles/logo)
     * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -106,7 +105,7 @@ The front page of the Remnant demo sits apart from the rest of the page layouts 
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.jpg)
+![Layout Presets](assets/layout_presets.jpeg)
 
 In order to make it really easy to replicate the home page, we included a layout preset for the home page with the theme. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 
@@ -115,7 +114,7 @@ You can access the presets by selecting **Load** in the **Layout Manager**.
 Menu Editor
 -----
 
-![](assets/menu_1.jpg)
+![](assets/menu_1.jpeg)
 
 Citadel has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
@@ -124,6 +123,6 @@ You can access the Gantry Menu Editor by navigating to **Admin > Citadel Theme >
 Assignments
 -----
 
-![](assets/assignments_1.jpg)
+![](assets/assignments_1.jpeg)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Citadel Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
