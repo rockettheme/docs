@@ -87,43 +87,42 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
-Recommended Extensions
+Recommended Plugins
 -----
 
-Here is a list of RocketTheme extensions used to create the demo version of Versla:
+Here is a list of RocketTheme plugins used to create the demo version of Remnant:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/wordpress/extensions/rokbox)
-* [RokBooster](http://www.rockettheme.com/wordpress/extensions/rokbooster)
+* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
-Many of these extensions are included with the Versla RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Remnant RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Versla demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Versla demo.
+The front page of the Remnant demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Remnant demo.
 
 Home Page Layout Presets
 -----
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-In order to make it really easy to replicate the home page, we included a convenient layout preset that enables you to load the home page as it is found in our demo. This preset is called **Home - Particles** (included in the standalone package) and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
+In order to make it really easy to replicate the home page, we included a layout preset for the home page with the theme. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 
-You can access this preset by selecting **Load** in the **Layout Manager**.
+You can access the presets by selecting **Load** in the **Layout Manager**.
 
 Menu Editor
 -----
 
 ![](assets/menu_1.jpeg)
 
-Versla has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
+Citadel has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Versla > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Admin > Citadel Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Versla** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Citadel Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

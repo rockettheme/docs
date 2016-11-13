@@ -18,7 +18,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.4+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* WordPress 3.4+
+* WordPress 4+
 
 >> NOTE: Gantry v5.3.8+ is required for Versla to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
