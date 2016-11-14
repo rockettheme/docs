@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via Themes > Versla - Home > Layout.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via Versla Theme - Home > Layout.
 
 ![](assets/versla2.jpeg)
 
@@ -44,8 +44,6 @@ Particles
 -----
 
 Here is a list of particles that are available in Versla, as well as links to documentation to help you get started:
-
->> All Home Particles can be edited via Themes > Versla - Home > Layout. Any additional particles that are found in the Subpages of our Versla RocketLauncher can be located via your WordPress Administrator > Extensions > Modules. WordPress allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
 * Theme Particles
     * [Owl Carousel](particle_owl.md)
@@ -107,7 +105,7 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-In order to make it really easy to replicate the home page, we included a layout preset for the home page with the theme. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
+While the **Home - Particles** layout is automatically loaded after installing the Versla theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access the presets by selecting **Load** in the **Layout Manager**.
 
@@ -116,13 +114,13 @@ Menu Editor
 
 ![](assets/menu_1.jpeg)
 
-Citadel has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
+Versla has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Admin > Citadel Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Admin > Versla Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Citadel Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Versla Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
