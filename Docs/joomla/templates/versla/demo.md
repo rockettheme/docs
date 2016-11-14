@@ -108,9 +108,11 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-In order to make it really easy to replicate the home page, we included a convenient layout preset that enables you to load the home page as it is found in our demo. This preset is called **Home - Particles** (included in the standalone package) and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
+If you did not choose to 'Install Sample Data' upon installing the Versla theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access this preset by selecting **Load** in the **Layout Manager**.
+
+>> Note: When loading the **Home - Particles** preset, our Content Array particle used in our demo will be replaced with a Custom HTML particle.
 
 Menu Editor
 -----
