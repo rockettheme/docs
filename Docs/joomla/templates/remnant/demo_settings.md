@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/remnant:Remnant
 Theme Style Settings
 -----
 
-One of the most important aspects of any Gantry template is its ability to be easily customized using the settings preset in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Components -> Gantry 5 Themes -> Remnant**. To replicate the demo, the styling changes are being made in the **Styles** tab.
+One of the most important aspects of any Gantry template is its ability to be easily customized using the settings presets in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Components -> Gantry 5 Themes -> Remnant**. To replicate the demo, the styling changes are being made in the **Styles** tab.
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Styles** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** options located at the top of the **Styles** admin panel.
 
