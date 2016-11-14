@@ -14,4 +14,4 @@ Most of the settings under **Styles** are adjusted automatically with the select
 
 Once you have selected a Preset, these options can be further adjusted to match the demo. Keep in mind that the Style indicated here relates to the template Style in this menu. More information about how Styles work can be found in our [Gantry documentation](http://docs.gantry.org/gantry5/configure/styles).
 
-![Style Settings](assets/style_settings.jpeg)
+![Style Settings](assets/style_settings.jpg)
