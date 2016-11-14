@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
 
 Template Settings
 -----
-One of the most important aspects of any Gantry template is its ability to be easily customized using the settings preset in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Ricochet Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs.
+One of the most important aspects of any Gantry template is its ability to be easily customized using the settings presets in the Template Settings page. These settings can be adjusted by navigating to **Administration -> Template Manager -> Ricochet Template**. To replicate the demo, the main changes being made will happen within the Style, Features, Layouts, and Advanced tabs.
 
 This table will break down the various settings you may need to adjust in order to recreate the demo. Most of the settings under **Style** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** button located next to the **Save** option at the top of the Template Settings page.
 
