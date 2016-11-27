@@ -116,7 +116,7 @@ The front page of the Remnant demo sits apart from the rest of the page layouts 
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.jpeg)
+![Layout Presets](assets/layout_presets.jpg)
 
 In order to make it really easy to replicate the home page, we included a layout preset for the home page with the theme. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 
@@ -125,7 +125,7 @@ You can access the presets by selecting **Load** in the **Layout Manager**.
 Menu Editor
 -----
 
-![](assets/menu_1.jpeg)
+![](assets/menu_1.jpg)
 
 Citadel has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
