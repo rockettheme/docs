@@ -1,9 +1,9 @@
 ---
 
-breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksocialbuttons:RokSocialButtons
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksocialbuttons:RokSocialButtons
 
-details: http://www.rockettheme.com/joomla/extensions/rokutilities
-download: http://www.rockettheme.com/joomla/extensions/rokutilities/modal/downloads
+details: http://www.rockettheme.com/wordpress/plugins/rokutilities
+download: http://www.rockettheme.com/wordpress/plugins/rokutilities/modal/downloads
 
 ---
 
