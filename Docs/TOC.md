@@ -4,11 +4,11 @@ description: Here you will find the latest and greatest documentation and inform
 
 ---
 
+* [__Grav__](grav)
+ 
 * [__Joomla__](joomla)
 
 * [__WordPress__](wordpress)
-
-* [__Grav__](grav)
 
 * [__Magento__](magento)
 
