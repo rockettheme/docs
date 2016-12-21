@@ -27,20 +27,25 @@ Site licenses vary from purchase to purchase. We have outlined our current site 
 
 ### Club Memberships
 
-| Platform   | Type                  | Site Licenses |  
-| :--------- | :-------------------- | :------------ |  
-| Joomla     | Single Template       | 1             |  
-| Joomla     | Basic (3 months)      | 1             |  
-| Joomla     | Standard (6 months)   | 2             |  
-| Joomla     | Plus (12 months)      | 3             |  
-| Joomla     | Developer (12 months) | Unlimited     |  
-| WordPress  | Single Theme          | 1             |  
-| WordPress  | Basic (3 months)      | 1             |  
-| WordPress  | Standard (6 months)   | 2             |  
-| WordPress  | Plus (12 months)      | 3             |  
-| WordPress  | Developer (12 months) | Unlimited     |  
-| Magento    | Single Theme          | 1             |  
-| phpBB     | Single Style          | 1             |  
+| Platform   | Type                  | Site Licenses |
+| :--------- | :-------------------- | :------------ |
+| Joomla     | Single Template       | 1             |
+| Joomla     | Basic (3 months)      | 1             |
+| Joomla     | Standard (6 months)   | 2             |
+| Joomla     | Plus (12 months)      | 3             |
+| Joomla     | Developer (12 months) | Unlimited     |
+| WordPress  | Single Theme          | 1             |
+| WordPress  | Basic (3 months)      | 1             |
+| WordPress  | Standard (6 months)   | 2             |
+| WordPress  | Plus (12 months)      | 3             |
+| WordPress  | Developer (12 months) | Unlimited     |
+| Grav       | Single Theme          | 1             |
+| Grav       | Basic (3 months)      | 1             |
+| Grav       | Standard (6 months)   | 2             |
+| Grav       | Plus (12 months)      | 3             |
+| Grav       | Developer (12 months) | Unlimited     |
+| Magento    | Single Theme          | 1             |
+| phpBB      | Single Style          | 1             |
 
 
 Common Use Scenarios
