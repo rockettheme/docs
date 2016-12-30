@@ -3,7 +3,7 @@
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 details: http://www.rockettheme.com/wordpress/plugins/roksprocket
-demo: http://demo.rockettheme.com/joomla/roksprocket/
+demo: http://demo.rockettheme.com/joomla-extensions/roksprocket/
 download: http://www.rockettheme.com/wordpress/plugins/roksprocket/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-plugin-roksprocket/
 
