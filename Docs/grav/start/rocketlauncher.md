@@ -22,7 +22,7 @@ Not all packages are the same, so we recommend checking with the theme's primary
 Installing RocketLauncher
 -----
 
-The first step you will want to take whenever installing a Grav RocketLauncher is to download the RocketLauncher file from [RocketTheme.com][rockettheme]. Any other source is likely to be outdated and unsupported. 
+The first step you will want to take whenever installing a Grav RocketLauncher is to download the RocketLauncher file from [RocketTheme.com][http://rockettheme.com]. Any other source is likely to be outdated and unsupported. 
 
 Once you have downloaded this ZIP file, unpack it so you have a folder containing the Grav installation files and folders. The contents of this folder will then need to be placed in your site's root directory via FTP or your host's preferred upload method. Wherever you place this folder's contents will become the root directory for your site.
 

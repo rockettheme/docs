@@ -9,7 +9,7 @@ breadcrumb: /accounts_billing:Accounts & Billing/!membership:Membership Guide/
 Introduction
 -----
 
-RocketTheme goes to great lengths to make sure that our Club members receive the best products, support, and value in the industry. It is because of this commitment that we adopted the Club membership model to ensure that you have access to the templates, extensions, and resources you need to make your Joomla, WordPress, phpBB, and/or Magento site shine.
+RocketTheme goes to great lengths to make sure that our Club members receive the best products, support, and value in the industry. It is because of this commitment that we adopted the Club membership model to ensure that you have access to the templates, extensions, and resources you need to make your Joomla, WordPress, or Grav site shine.
 
 >> Note: This guide is intended as a general reference and does not supersede our current [Terms and Conditions][terms] which are always available on our primary website.
 
@@ -17,6 +17,7 @@ We currently offer Club memberships for two web application platforms.
 
 * Joomla!
 * WordPress
+* Grav
 
 Club memberships give you complete access to our entire product catalog for the platform you are subscribed to. This includes templates and extensions we have created over the years, in addition to any we create during your subscription period. We currently make subscriptions available for 3, 6, and 12 month periods.
 
