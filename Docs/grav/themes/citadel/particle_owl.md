@@ -22,7 +22,6 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-    - [CMS Options](#cms-options)
 
 ## Layouts
 
