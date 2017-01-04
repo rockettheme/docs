@@ -22,7 +22,6 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-    - [CMS Options](#cms-options)
 
 ## Layouts
 
@@ -93,21 +92,3 @@ These items only appear on the front end if you select **Particle** as the **Con
 | Owl Carousel Item Target         | Sets how you would like the link to open. You can choose between **Self** and **New Window**. Self will open in the current tab, and new window opens a new tab. |
 | Owl Carousel Item Button Classes | This field enables you to enter a CSS class you would like to apply to the clickable link's button.                                                              |
 
-### CMS Options
-
-These options are only useful if you select **Grav** as the **Content Source**.
-
-![](assets/particle_owl6.jpg)
-
-| Option               | Description                                                                                                    |
-| :-----               | :-----                                                                                                         |
-| Grav Categories | Enter the categorie(s) you would like to appear in the particle.                                               |
-| Posts to Fetch       | Enter the number of posts you would like to have loaded in the particle.                                       |
-| Featured Image       | Enable or disable the featured image appearing in the particle.                                                |
-| Categories Names     | Enable or disable the category of the article in the particle.                                                 |
-| Post Title           | Enable or disable the title of the post appearing in the particle.                                             |
-| Post Excerpt         | Enable or disable the content placed in the **Post Excerpt** area of the post to be displayed in the particle. |
-| Post Content         | Enable or disable the main content of the post appearing under the image in the particle.                      |
-| Author               | Display or hide the author name appearing in the front end of the particle.                                    |
-| Link                 | Enable or disable the read more link.                                                                          |
-| Link Text            | Enter the text you would like to appear in the Read More link.                                                 |
