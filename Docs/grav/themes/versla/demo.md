@@ -88,14 +88,14 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recreating the Front Page
 -----
 
-The front page of the Remnant demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Remnant demo.
+The front page of the Versla demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Versla demo.
 
 Home Page Layout Presets
 -----
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-While the **Home** layout is automatically loaded after installing the Versla theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+We have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access the presets by selecting **Load** in the **Layout Manager**.
 
