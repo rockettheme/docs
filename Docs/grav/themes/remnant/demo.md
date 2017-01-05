@@ -108,7 +108,7 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-While the **Home** layout is automatically loaded after installing the Remnant theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+We have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access the presets by selecting **Load** in the **Layout Manager**.
 
