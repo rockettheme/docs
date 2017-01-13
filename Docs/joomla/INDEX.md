@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Gemini](templates/gemini)
 	- [Versla](templates/versla)
 	- [Protean](templates/protean)
 	- [Remnant](templates/remnant)
