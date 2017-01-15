@@ -37,7 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-gemini/
         + [Overlay Toggle](particle_overlay.md)
         + [Pricing Table](particle_pricing.md)
         + [Simple Content](particle_simple.md)
-        + [Simple Counter](particle_counter.md)
+        + [Simple Counter](particle_simplecounter.md)
         + [Simple Menu](particle_simplemenu.md)
         + [Video](particle_video.md)
     - Core Particles 
