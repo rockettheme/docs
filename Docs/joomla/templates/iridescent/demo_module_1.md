@@ -107,7 +107,9 @@ Choose between a flexible and extensive CSS dropdown menu system, or a static sp
 | :------------------ | :------------------------------ |
 | Module Class Suffix | `fp-slideshow fp-preset-images` |
 
->> NOTE: If you are using the a fixed slideshow position, your module class suffix will be `fp-fixedslideshow`.
+>> NOTE #1: If you are using the a fixed slideshow position, your module class suffix will be `fp-fixedslideshow`.
+
+>> NOTE #2: If you are using the RocketLauncher package, and are not wanting to display more than one preset to display your website with Iridescent, please remove the 'fp-preset-images' variation in the RokSprocket - Module Suffix field so you can simply use RokSprocket's Image field to display your image.
 
 [demo]: assets/demo_1.jpeg
 [demo2]: assets/demo_1a.jpeg
