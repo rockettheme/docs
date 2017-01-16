@@ -88,17 +88,17 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recommended Plugins
 -----
 
-Here is a list of RocketTheme plugins used to create the demo version of Remnant:
+Here is a list of RocketTheme plugins used to create the demo version of Versla:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
-Many of these plugins are included with the Remnant RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Versla RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Remnant demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Remnant demo.
+The front page of the Versla demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Versla demo.
 
 Home Page Layout Presets
 -----
