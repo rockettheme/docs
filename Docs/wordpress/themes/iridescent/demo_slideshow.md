@@ -69,3 +69,5 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 Leaving everything else at its default setting, select **Save**.
 
 The widget should now be created and ready for use on the front page of your WordPress site.
+
+>> NOTE: If you are using the RocketLauncher package, and are not wanting to display more than one preset to display your website with Iridescent, please remove the 'fp-preset-images' variation in the RokSprocket Widget - Custom Variations field so you can simply use RokSprocket's Image field to display your image.
