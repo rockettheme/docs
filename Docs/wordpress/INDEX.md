@@ -60,7 +60,7 @@ more:
 
 * Club Themes
 
-	- [Gimini](themes/gemini)
+	- [Gemini](themes/gemini)
 	- [Versla](themes/versla)
 	- [Protean](themes/protean)
 	- [Remnant](themes/remnant)
