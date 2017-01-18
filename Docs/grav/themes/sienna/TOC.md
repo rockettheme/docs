@@ -62,7 +62,4 @@ support: http://www.rockettheme.com/forum/grav-theme-sienna/
     - [Theme Font Index](../../../technical_tips/general/font_index.md)
     - [Customizing Simple Booking and Booking Form Email Templates](howto_customize_email.md)
 * Useful Plugin Guides
-    - [RokAjaxSearch](../../plugins/rokajaxsearch/)
-    - [RokBox](../../plugins/rokbox/)
-    - [RokGallery](../../plugins/rokgallery/)
-    - [RokSprocket](../../plugins/roksprocket/)
+    - [Admin](https://learn.getgrav.org/admin-panel)
