@@ -1,7 +1,7 @@
 ---
-title: Versla: FAQ
-description: Your Guide to Using the Versla Theme for Grav
-breadcrumb: /grav:Grav/!themes:Themes/versla:Versla
+title: Gemini: FAQ
+description: Your Guide to Using the Gemini Template for Grav
+breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
 
 ---
 
@@ -15,7 +15,7 @@ Can I install RocketLauncher onto an existing Grav website?
 
 No. RocketLauncher will install both Grav and the demo sample content and images, so you will need a fresh Grav installation.
 
-I installed the Versla RocketLauncher but the images are different with the demo site.
+I installed the Gemini RocketLauncher but the images are different with the demo site.
 -----
 
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.

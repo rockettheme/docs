@@ -28,6 +28,7 @@ more:
 
 * Club Themes
 
+	- [Gemini](themes/gemini)
 	- [Versla](themes/versla)
 	- [Protean](themes/protean)
 	- [Remnant](themes/remnant)

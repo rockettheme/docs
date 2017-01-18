@@ -62,7 +62,4 @@ support: http://www.rockettheme.com/forum/grav-theme-remnant/
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
     - [Theme Font Index](../../../technical_tips/general/font_index.md)
 * Useful Plugin Guides
-    - [RokAjaxSearch](../../plugins/rokajaxsearch/)
-    - [RokBox](../../plugins/rokbox/)
-    - [RokGallery](../../plugins/rokgallery/)
-    - [RokSprocket](../../plugins/roksprocket/)
+    - [Admin](https://learn.getgrav.org/admin-panel)
