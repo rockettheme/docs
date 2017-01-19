@@ -1,7 +1,7 @@
 ---
-title: Versla: WordPress Post Particle
-description: Your Guide to Recreating Elements of the Versla Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/versla:Versla
+title: Gemini: WordPress Post Particle
+description: Your Guide to Recreating Elements of the Gemini Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/gemini:Gemini
 
 ---
 

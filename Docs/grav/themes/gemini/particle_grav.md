@@ -1,7 +1,7 @@
 ---
-title: Versla: Grav Content Particle
-description: Your Guide to Recreating Elements of the Versla Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/versla:Versla
+title: Gemini: Grav Content Particle
+description: Your Guide to Recreating Elements of the Gemini Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
 
 ---
 
