@@ -59,6 +59,8 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | FlexSlider Item 1 Target               | Self                                               |
 | FlexSlider Item 1 Button Class         | `button-3`                                         |
 
+>> NOTE: Please remove 'fp-slideshow-demo' CSS class to display images via the FlexSlider settings rather than via Demo CSS.
+
 ### Block Settings
 
 ![Demo Slideshow](demo_slideshow_2.jpeg)
