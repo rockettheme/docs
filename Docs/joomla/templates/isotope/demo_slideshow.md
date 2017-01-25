@@ -88,3 +88,5 @@ Using the **Gantry 5 Particle** module, we assigned a **FlexSlider** particle to
 | FlexSlider Item 1 Link Text            | `View More`                                        |
 | FlexSlider Item 1 Target               | Self                                               |
 | FlexSlider Item 1 Button Class         | `button-3`                                         |
+
+>> NOTE: Please remove 'fp-slideshow-demo' CSS class to display images via the FlexSlider settings rather than via Demo CSS.
