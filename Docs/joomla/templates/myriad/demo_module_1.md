@@ -109,6 +109,8 @@ Animated Content Effects
 | :------------------ | :------------------------------ |
 | Module Class Suffix | `fp-slideshow fp-preset-images` |
 
+>> NOTE: If you are using the RocketLauncher package, and are not wanting to display more than one preset to display your website with Myriad, please remove the 'fp-preset-images' variation in the RokSprocket - Module Suffix field so you can simply use RokSprocket's Image field to display your image.
+
 [demo]: assets/demo_1.jpeg
 [demo2]: assets/demo_1a.jpeg
 [demo3]: assets/demo_1b.jpeg
