@@ -34,6 +34,7 @@ more:
 	- [Remnant](themes/remnant)
 	- [Citadel](themes/citadel)
 	- [Sienna](themes/sienna)
+	- [Interstellar](themes/interstellar)
 
 <!-- -->
 
