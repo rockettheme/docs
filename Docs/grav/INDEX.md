@@ -35,6 +35,7 @@ more:
 	- [Citadel](themes/citadel)
 	- [Sienna](themes/sienna)
 	- [Interstellar](themes/interstellar)
+	- [Photon](themes/photon)
 
 <!-- -->
 
