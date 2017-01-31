@@ -30,11 +30,11 @@ Key Features
 * Accordion Slider
 * Block Content
 * Content Tabs
+* Grav Content
 * Grid Content
 * Grid Statistic
 * Header Tabs
 * Image Grid
-* Joomla Articles
 * Newsletter
 * Pricing Table
 * Simple Content
@@ -43,11 +43,11 @@ Key Features
 
 ### Theme Features
 
+* Responsive Layout
 * 6 Preset Styles
 * Block Variations
 * Custom Typography
 * Unlimited Positions
-* Popup Particle
 * Custom Particles
 * Social Icons
 * Mobile Menu
@@ -64,7 +64,7 @@ Key Features
 * Off-Canvas Panel
 * Ajax Admin
 * Layout Manager
-* Theme Inheritance
+* Inheritance System
 * Fluid Width Option
 * Fixed Width Option
 * SCSS Support

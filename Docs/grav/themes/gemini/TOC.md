@@ -18,7 +18,7 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
-        * [Particle Settings](demo.md#widget-and-particle-settings)
+        * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
     - Template Particles
         + [Accordion](particle_accordion.md)
