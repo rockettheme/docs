@@ -13,7 +13,7 @@ RocketTheme goes to great lengths to make sure that our Club members receive the
 
 >> Note: This guide is intended as a general reference and does not supersede our current [Terms and Conditions][terms] which are always available on our primary website.
 
-We currently offer Club memberships for two web application platforms.
+We currently offer Club memberships for three web application platforms.
 
 * Joomla!
 * WordPress
