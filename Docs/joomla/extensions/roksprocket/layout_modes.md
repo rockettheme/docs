@@ -120,7 +120,7 @@ This ensures that your modules will look great with your template while maintain
 
 These overrides will work with any RokSprocket file, and are not limited to CSS. In our example below, we will make a change to the **index.php** file for the **Strips** layout in RokSprocket using an override. Here are the steps:
 
-* Copy the directory structure leading to the file you wish to change in the **/templates** directory rather than **/components**. For example: `/templates/(template directory)/html/roksprocket/layouts/strips/themes/default/` would be created to override files in the `/components/com_roksprocket/layouts/strips/themes/default/` directory.
+* Copy the directory structure leading to the file you wish to change in the **/templates** directory rather than **/components**. For example: `/templates/(template directory)/roksprocket/layouts/strips/themes/default/` would be created to override files in the `/components/com_roksprocket/layouts/strips/themes/default/` directory.
 * Copy the file you wish to override and paste it in the new directory. For example: `index.php`
 * Make adjustments to the new file.
 * Save your changes.
