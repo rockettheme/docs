@@ -13,9 +13,9 @@ support: http://www.rockettheme.com/forum/grav-theme-interstellar/
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
-    * [How to Install](../../start/themes.md#how-to-install)
+    * How to Install
         * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        * [RocketLauncher](../../start/rocketlauncher.md)
+        * [Installing the RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
         * Particle Settings
