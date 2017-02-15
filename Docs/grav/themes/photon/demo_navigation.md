@@ -45,7 +45,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | Image       | `gantry-media://logo/logo.svg` |
 | Link        | Checked                        |
 | SVG Code    | Blank                          |
-| Text        | `Interstellar`                 |
+| Text        | `Photon`                       |
 | CSS Classes | `g-logo`                       |
 
 ### Block Settings
