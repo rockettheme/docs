@@ -68,4 +68,4 @@ To save time and resources on page loads, you will want to encode your video at 
 
 Alternatively, YouTube compresses videos for you, and it is supported by this particle. This would be the easiest method available to you, and you save on bandwidth as you won't be serving the actual video file yourself.
 
-
+>> Interested in displaying the Video Particle in FullWidth? Please see [here](fullwidth_video.md).
