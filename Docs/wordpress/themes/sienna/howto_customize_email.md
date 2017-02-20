@@ -7,11 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/sienna:Sienna
 
 ## Introduction
 
-Whether you're using the **Simple Booking** or **Booking Form** particles, you may notice that the email you receive when a visitor sends you a message through the form includes the signature of the **Simple Form** developer, Khaja Minhajuddin.
-
-We realize not everyone will want to receive email with the developer's signature, especially in a business environment where having external emails can create confusion when they are included in replies to clients.
-
-So, here is a quick solution to help you customize your own email template using Simple Form.
+In this tutorial, we will show you how to customize your own email template using Simple Form, which is the application that is integrated into our **Simple Booking** or **Booking Form** particles.
 
 ## Customizing the Email Template
 
@@ -35,7 +31,7 @@ You received a message from {{Name}} ({{Email}}): <br />
 <b>Children</b>:  {{Children}} <br />
 ~~~
 
-You can change any aspect of this Body Template, the parts in the `{{ }}` are the areas that are generated from our particle. In doing this, it will remove the Simple Form developer's signature from the email reply. You can also adjust the email to add new information and/or customize the data as you wish.
+You can change any aspect of this Body Template, the parts in the `{{ }}` are the areas that are generated from our particle. You can also adjust the email to add new information and/or customize the data as you wish.
 
-It's also worth noting that the **Booking Form** does not use all of the items in our example. The **Title**, **Subtitle**, and **Description** fields will be blank in the email if you do not remove them from your **Body Template** or add them when doing your own customizations to the particle.
+It's also worth noting that the **Booking Form** does not use all of the items in our example. The **Title**, **Subtitle**, **Description**, and **Price** fields will be blank in the email if you do not remove them from your **Body Template** or add them when doing your own customizations to the particle.
 

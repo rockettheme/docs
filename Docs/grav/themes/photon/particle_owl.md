@@ -57,7 +57,6 @@ These items only appear on the front end if you select **Particle** as the **Con
 | Name             | Sets the name for the item in the carousel. This is only seen on the back end.                                                                                   |
 | Image            | Enables you to define an image for the item. This is the primary image that appears most prominently as the item is displayed.                                   |
 | Icon             | You can use this field to assign an icon to the item that appears with its **Title**. For example: `fa fa-cogwheel fa-fw`.                                       |
-| Icon 2           | You can use this field to assign a second icon.                                                                                                                  |
 | Title            | Enter a title for the item here.                                                                                                                                 |
 | Subtitle         | Enter the item's subtitle here. Typically displayed just below the title in a smaller font.                                                                      |
 | Description      | This is the main content body of the item. Enter any information you want to have displayed in paragraph form here.                                              |
