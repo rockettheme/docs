@@ -69,7 +69,7 @@ This is where you can create items in the category.
 
 ### Product Attributes Options
 
-Here you can create product attributes such as colors and sizes for each of your products. Create a new item and edit the title so that it displays as **item-custom1-[X]**. As an example, the [X] can be **name** or **options**:
+Here you can create product attributes such as colors and sizes for each of your products. Create a new item and edit the title so that it displays as **item-custom1-X**. As an example, the **X** can be **name** or **options**:
 
 ![](assets/particle_productlist6.jpg)
 
