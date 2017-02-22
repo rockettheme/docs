@@ -12,7 +12,6 @@ No, Photon is only compatible with Joomla 3.4+.
 ## Is There a Way to Use a Normal Menu on the Front Page?
 
 Absolutely! Just use a **Menu** particle or module in place of the Overlay Toggle particle in the Navigation section.
-Theme
 
 ## What is Gantry?
 
