@@ -209,6 +209,7 @@ As an example, if you have `gantry-width-30` and `gantry-width-70` sitting in th
 In the case of `gantry-width-33`, the `width:33.33%` setting was used in order to make it more accurate to a true third of the total page width.
 
 ## Gantry 5 Grid Classes
+See the official documentation here: http://docs.gantry.org/gantry5/advanced/responsive-content
 
 In Gantry 5 you can use the normal classes and HTML markup available in the core Gantry code. These classes are `g-container`, `g-grid`, `g-block`, and `g-content`. The `g-block` wrapper will allow you to also set a specific width with the `size-xxx` class between 5 and 100. Inside of `g-content` you can optionally set a spacer with `<div class="spacer"></div>`.
 
