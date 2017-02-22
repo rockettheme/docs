@@ -69,10 +69,16 @@ This is where you can create items in the category.
 
 ### Product Attributes Options
 
-![](assets/particle_productlist5.jpeg)
+Here you can create product attributes such as colors and sizes for each of your products. Create a new item and edit the title so that it displays as **item-custom1-X**. As an example, the **X** can be **name** or **options**:
 
-This is where you can create custom fields or advanced product attributes. You can find a breakdown of how attributes work with Snipcart [here](http://docs.snipcart.com/configuration/product-definition) and [here](http://docs.snipcart.com/configuration/custom-fields).
+![](assets/particle_productlist6.jpg)
 
-| Option          | Description              |
-| :-----          | :-----                   |
-| Attribute Value | Set the attribute value. |
+>>Note: The title of each attribute must be setup properly as explained in order for it to work.
+
+Next, you can then add the desired value for the attribute. For instance, if you want to add colors as **options** for a specific product, enter each color followed by the **|** symbol:
+
+![](assets/particle_productlist7.jpg)
+
+You can learn more about custom attributes like this [here](https://docs.snipcart.com/configuration/custom-fields).
+
+>>Note: Any attributes you add to your products will appear when the user adds the item to the shopping cart.
