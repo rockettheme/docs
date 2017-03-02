@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Acronym](templates/acronym)
 	- [Gemini](templates/gemini)
 	- [Versla](templates/versla)
 	- [Protean](templates/protean)
