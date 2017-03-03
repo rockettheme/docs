@@ -1,25 +1,25 @@
 ---
 title: Acronym: Recreating the Demo
-description: Your Guide to Recreating Elements of the Acronym Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/acronym:Acronym
+description: Your Guide to Recreating Elements of the Acronym Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/acronym:Acronym
 
 ---
 
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Acronym can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Versla can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Acronym Template.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Versla Theme.
 
-Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the Joomla back end. We have added most of these elements into the template's core files in order to make them easily accessible without having to edit any code.
+Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
 Home Particles
 -----
 
-Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Templates** > **Home** > **Layout**.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Themes** > **Home** > **Layout**.
 
 ![](assets/acronym2.jpeg)
 
@@ -36,7 +36,7 @@ Below, you will find the particles as they appear on the front page of our demo.
     11. **Feature** Logo / Image (Particle) [39%, 70%, se]
     12. **Showcase** Owl Showcase (Particle) [44%, 12%, se]
     13. **Extension** Flipping Cards (Particle) [61%, 11%, se]
-    14. **Extension** Joomla Articles (Particle) [61%, 51%, se]
+    14. **Extension** WordPress Posts (Particle) [61%, 51%, se]
     15. **Bottom** Simple Content (Particle) [83%, 40%, se]
     16. **Bottom** Newsletter (Particle) [87%, 40%, se]
     17. **Footer** Simple Menu (Particle) [92%, 30%, se]
@@ -49,9 +49,9 @@ Particles
 
 Here is a list of particles that are available in Acronym, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Templates > Acronym - Home > Layout. Any additional particles that are found in the Subpages of our Acronym RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
+>> All Home Particles can be edited via Themes > Acronym - Home > Layout. Any additional particles that are found in the Subpages of our Acronym RocketLauncher can be located via your WordPress Administrator > Extensions > Modules. WordPress allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
 
-- Template Particles
+- Theme Particles
     - [Particles](particle_particles.md)
     - [Headerlicious](particle_headerlicious.md)
     - [Flipping Cards](particle_flippingcards.md)
@@ -63,7 +63,7 @@ Here is a list of particles that are available in Acronym, as well as links to d
     - [Block Content](particle_block.md)
     - [Content Tabs](particle_tabs.md)
     - [Newsletter](particle_newsletter.md)
-    - [WordPress Postsd](particle_wordpress.md)
+    - [WordPress Posts](particle_wordpress.md)
     - [Image Grid](particle_image.md)
     - [Info List](particle_info.md)
     - [Header Tabs](particle_headertabs.md)
@@ -99,45 +99,41 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
-Recommended Extensions
+Recommended Plugins
 -----
 
-Here is a list of RocketTheme extensions used to create the demo version of Acronym:
+Here is a list of RocketTheme plugins used to create the demo version of Acronym:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
-* [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
-Many of these extensions are included with the Acronym RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Acronym RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
 
 Home Page Layout Presets
 -----
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-If you did not choose to 'Install Sample Data' upon installing the Acronym theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+While the **Home - Particles** layout is automatically loaded after installing the Acronym theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-You can access this preset by selecting **Load** in the **Layout Manager**.
-
->> Note: When loading the **Home - Particles** preset, our Content Array particle used in our demo will be replaced with a Custom HTML particle.
+You can access the presets by selecting **Load** in the **Layout Manager**.
 
 Menu Editor
 -----
 
 ![](assets/menu_1.jpeg)
 
-Acronym has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
+Acronym has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Acronym > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Admin > Acronym Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Acronym** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Acronym Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
