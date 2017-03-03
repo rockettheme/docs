@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Acronym](themes/acronym)
 	- [Gemini](themes/gemini)
 	- [Versla](themes/versla)
 	- [Protean](themes/protean)
