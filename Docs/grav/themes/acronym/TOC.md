@@ -1,35 +1,46 @@
 ---
 
-breadcrumb: /grav:Grav/!themes:Themes/!citadel:Citadel
+breadcrumb: /grav:Grav/!themes:Themes/!acronym:Acronym
 
-details: http://www.rockettheme.com/grav/themes/citadel/
-demo: http://demo.rockettheme.com/grav-themes/citadel/
-download: http://www.rockettheme.com/grav/themes/citadel/modal/downloads
-support: http://www.rockettheme.com/forum/grav-theme-citadel/
+details: http://www.rockettheme.com/grav/themes/acronym/
+demo: http://demo.rockettheme.com/grav-themes/acronym/
+download: http://www.rockettheme.com/grav/themes/acronym/modal/downloads
+support: http://www.rockettheme.com/forum/grav-theme-acronym/
 
 ---
 
-* Citadel
-    - [Introduction]()
-    - [Key Features](INDEX.md#key-features)
-    - [Requirements](INDEX.md#requirements)
-    - How to Install
-        + [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        + [Installing the RocketLauncher](../../start/rocketlauncher.md)
-    - [Recreate the Demo](demo.md)
-        + [Style Settings](demo_settings.md)
-        + [Particle Settings](demo.md#widget-and-particle-settings)
-        + [Front Page Layout](layout.md)
+* Acronym
+    * [Introduction]()
+    * [Key Features](INDEX.md#key-features)
+    * [Requirements](INDEX.md#requirements)
+    * How to Install
+        * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+        * [Installing the RocketLauncher](../../start/rocketlauncher.md)
+    * [Recreate the Demo](demo.md)
+        * [Style Settings](demo_settings.md)
+        * [Particle Settings](demo.md#widget-and-particle-settings)
+        * [Front Page Layout](layout.md)
     - Theme Particles
-        + [Owl Carousel](particle_owl.md)
+        + [Particles](particle_particles.md)
+        + [Headerlicious](particle_headerlicious.md)
+        + [Flipping Cards](particle_flippingcards.md)
+        + [Owl Cards](particle_owlcards.md)
+        + [Owl Showcase](particle_owl.md)
+        + [Simple Content](particle_simple.md)
+        + [Accordion](particle_accordion.md)
+        + [Accordion Menu](particle_accordionmenu.md)
+        + [Block Content](particle_block.md)
+        + [Content Tabs](particle_tabs.md)
+        + [Newsletter](particle_newsletter.md)
+        + [Grav Posts](particle_grav.md)
+        + [Image Grid](particle_image.md)
+        + [Info List](particle_info.md)
+        + [Header Tabs](particle_headertabs.md)
+        + [Grid Content](particle_gridcontent.md)
+        + [Grid Statistic](particle_grid.md)
         + [Video](particle_video.md)
         + [Pricing Table](particle_pricing.md)
-        + [Grav Content](particle_grav.md)
-        + [Block Content](particle_block.md)
-        + [Info List](particle_info.md)
-        + [Grid Statistic](particle_grid.md)
-        + [Simple Content](particle_simple.md)
-        + [Image Grid](particle_image.md)
+        + [Simple Menu](particle_simplemenu.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -44,7 +55,6 @@ support: http://www.rockettheme.com/forum/grav-theme-citadel/
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
     - [FAQ](faq.md)
     - Theme Tutorials
-        + [Video Particle in FullWidth](fullwidth_video.md)
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
         + [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
         + [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
