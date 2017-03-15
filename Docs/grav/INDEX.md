@@ -38,6 +38,7 @@ more:
 	- [Topaz](themes/topaz)
 	- [Interstellar](themes/interstellar)
 	- [Photon](themes/photon)
+	- [Galatea](themes/galatea)
 
 <!-- -->
 
