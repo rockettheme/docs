@@ -15,12 +15,10 @@ Galatea is a beautiful, clean design that blends foreground with background elem
 Requirements
 -----
 
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.5+ Recommended)
-* MySQL 5.1+
-* Grav 3.4+
+* PHP 5.5.9 or higher
+* Grav 1.1.9+
 
->> NOTE: Gantry v5.2.6+ is required for Galatea to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.1+ is required for Gemini to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
