@@ -39,6 +39,7 @@ more:
 	- [Interstellar](themes/interstellar)
 	- [Photon](themes/photon)
 	- [Galatea](themes/galatea)
+	- [Antares](themes/antares)
 
 <!-- -->
 
