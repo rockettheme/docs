@@ -93,19 +93,6 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 
 There is also an **FixedSide** position which contains the **FixedSide Social Icons** particle. You can find a breakdown of this position [here](demo_fixedside.md).
 
-Recommended Plugins
------
-
-Here is a list of RocketTheme plugins used to create the demo version of Antares:
-
-* [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/grav/plugins/rokajaxsearch)
-* [RokBox](http://www.rockettheme.com/grav/plugins/rokbox)
-* RokCommon Library (Installed with RokSprocket)
-* [RokSprocket](http://www.rockettheme.com/grav/plugins/roksprocket)
-
-Many of these plugins are included with the Antares RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
-
 Recreating the Front Page
 -----
 
@@ -127,7 +114,7 @@ Menu Editor
 
 Acronym has its own built-in Menu Editor which takes full advantage of Grav's menu system, taking your Grav menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Grav sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Admin > Appearance > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Admin > Gantry 5 > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
