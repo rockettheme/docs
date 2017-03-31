@@ -40,6 +40,7 @@ more:
 	- [Photon](themes/photon)
 	- [Galatea](themes/galatea)
 	- [Antares](themes/antares)
+	- [Xenon](themes/xenon)
 
 <!-- -->
 
