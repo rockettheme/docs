@@ -41,6 +41,7 @@ more:
 	- [Galatea](themes/galatea)
 	- [Antares](themes/antares)
 	- [Xenon](themes/xenon)
+	- [Isotope](themes/isotope)
 
 <!-- -->
 

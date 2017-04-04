@@ -1,7 +1,7 @@
 ---
 title: Xenon: Animated Block Particle
 description: Your Guide to Recreating Elements of the Xenon Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/citadel:Xenon
+breadcrumb: /grav:Grav/!themes:Themes/xenon:Xenon
 
 ---
 
