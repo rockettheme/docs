@@ -42,6 +42,7 @@ more:
 	- [Antares](themes/antares)
 	- [Xenon](themes/xenon)
 	- [Isotope](themes/isotope)
+	- [Requiem](themes/requiem)
 
 <!-- -->
 
