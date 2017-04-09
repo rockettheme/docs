@@ -1,7 +1,7 @@
 ---
-title: Xenon: Grid Promo Gallery Particle
-description: Your Guide to Recreating Elements of the Xenon Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/xenon:Xenon
+title: Requiem: Grid Promo Gallery Particle
+description: Your Guide to Recreating Elements of the Requiem Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/requiem:Requiem
 
 ---
 
@@ -51,4 +51,3 @@ These items make up the individual featured items in the particle. They sit apar
 | Title       | Enter a title.                                                                          |
 | Description | Enter a description.                                                                    |
 | Link        | Enter a URL link.                                                                       |
-| Target      | Choose between **Self** and **New Window** as a target.                                 |
