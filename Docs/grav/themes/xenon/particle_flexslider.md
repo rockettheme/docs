@@ -1,5 +1,5 @@
 ---
-title: Xenon: Simple Content Particle
+title: Xenon: FlexSlider Particle
 description: Your Guide to Recreating Elements of the Xenon Demo for Grav
 breadcrumb: /grav:Grav/!themes:Themes/xenon:Xenon
 
@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/xenon:Xenon
 
 ![](assets/particle_flexslider1.jpeg)
 
-The **Simple Content** particle makes it easy to create smooth, modern sliders for your website.
+The **FlexSlider** particle makes it easy to create smooth, modern sliders for your website.
 
 Here are the topics covered in this guide:
 
