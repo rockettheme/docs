@@ -40,7 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-kraken/
     - Theme Particles
         + [Block Content](particle_block.md)
         + [Content List](particle_contentlist.md)
-        + [Grav Content](particle_grav.md)
+        + [WordPress Content](particle_wordpress.md)
         + [Grid Content](particle_gridcontent.md)
         + [Grid Statistic](particle_grid.md)
         + [Icon Menu](particle_iconmenu.md)
