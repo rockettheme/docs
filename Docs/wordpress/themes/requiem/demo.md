@@ -61,6 +61,36 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 
 There is also a **FixedSide** position which contains a smaller version of the logo as well as social icons which are fixed and scroll down the page with you. This section is covered in detail [here](demo_fixedside.md).
 
+- Theme Particles
+        + [Animated Block](particle_animatedblock.md)
+        + [Block Content](particle_block.md)
+        + [Contact](particle_contact.md)
+        + [Content List](particle_contentlist.md)
+        + [WordPress Content](particle_wordpress.md)
+        + [Grid Content](particle_gridcontent.md)
+        + [Grid Promo Gallery](particle_gridpromogallery.md)
+        + [Grid Statistic](particle_grid.md)
+        + [Icon Menu](particle_iconmenu.md)
+        + [Image Grid](particle_image.md)
+        + [Info List](particle_info.md)
+        + [Newsletter](particle_newsletter.md)
+        + [Promo Content](particle_promocontent.md)
+        + [Promo Image](particle_promoimage.md)
+        + [Simple Counter](particle_simplecounter.md)
+        + [Testimonial](particle_testimonial.md)
+- Core Particles 
+        + [Logo](http://docs.gantry.org/gantry5/particles/logo)
+        + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+        + [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+        + [Social](http://docs.gantry.org/gantry5/particles/social)
+        + [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+        + [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+        + [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+        + [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+        + [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+        + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+        + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+
 Recommended Plugins
 -----
 
