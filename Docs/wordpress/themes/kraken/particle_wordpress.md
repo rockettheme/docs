@@ -1,7 +1,7 @@
 ---
-title: Requiem: WordPress Posts Particle
-description: Your Guide to Recreating Elements of the Requiem Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/requiem:Requiem
+title: Kraken: WordPress Posts Particle
+description: Your Guide to Recreating Elements of the Kraken Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 
 ---
 
