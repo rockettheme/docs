@@ -40,7 +40,7 @@ These items make up the individual featured items in the particle.
 | Option                | Description                                                                                                                                                            |
 | :-----                | :-----                                                                                                                                                                 |
 | Caption               | Enter a caption for the video.                                                                                                                                         |
-| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, and **Local Video**.                                        |
+| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, and **Local Video**. **Slideshow Preset** selects the video that is being called via your /gantry/presets.yaml file in the slideshow section for Presets 1-6.                                        |
 | Local Video Source(s) | When **Local Video** is selected as the **Source**, this would be the video (or videos) you wish to load in the particle. Not all videos have to have the same format. |
 | Loop                  | Enable or disable video looping.                                                                                                                                       |
 | Autoplay              | Enable of disable video autoplay.                                                                                                                                      |
