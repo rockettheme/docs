@@ -44,7 +44,9 @@ These items make up the individual featured items in the particle.
 | Local Video Source(s) | When **Local Video** is selected as the **Source**, this would be the video (or videos) you wish to load in the particle. Not all videos have to have the same format. |
 | Loop                  | Enable or disable video looping.                                                                                                                                       |
 | Autoplay              | Enable of disable video autoplay.                                                                                                                                      |
-| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube** and **Local** sources.                                                        |
+| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube**, **Local**, and **External** sources.                                                        |
+| Show Info         | Show or hide top info bar. This is available for **YouTube**.                                                       |
+| Muted         | Enable or disable video sound. Local / External videos must be Muted in order for Autoplay to work on Android / iOS devices.                                                       |
 
 Since not all browsers support all video types, the **Local Video Source(s)** area enables you to select multiple videos in the particle. This will enable you to have a WebM version of the video load, and if the visitor is using a browser that doesn't support it, you can add an MP4 version of the video which will load instead. The same applies to Ogg and MOV video types.
 
