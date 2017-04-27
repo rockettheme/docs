@@ -40,11 +40,14 @@ These items make up the individual featured items in the particle.
 | Option                | Description                                                                                                                                                            |
 | :-----                | :-----                                                                                                                                                                 |
 | Caption               | Enter a caption for the video.                                                                                                                                         |
-| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, and **Local Video**.                                        |
+| Source                | Enter a source (type) for the video. You can choose between: **Slideshow Preset**, **Vimeo**, **YouTube**, **Local Video**, and **External URL**. **Slideshow Preset** selects the video that is being called via your /gantry/presets.yaml file in the slideshow section for Presets 1-6.                                        |
 | Local Video Source(s) | When **Local Video** is selected as the **Source**, this would be the video (or videos) you wish to load in the particle. Not all videos have to have the same format. |
+| Poster Image                  | Select the background image to display before the video is played.                                                                                                                                       |
 | Loop                  | Enable or disable video looping.                                                                                                                                       |
 | Autoplay              | Enable of disable video autoplay.                                                                                                                                      |
-| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube** and **Local** sources.                                                        |
+| Show Controls         | Show or hide controls from the embedded video's player. This is available on **YouTube**, **Local**, and **External** sources.                                                        |
+| Show Info         | Show or hide top info bar. This is available for **YouTube**.                                                       |
+| Muted         | Enable or disable video sound. **Local** and **External** videos must be Muted in order for Autoplay to work on Android / iOS devices.                                                       |
 
 Since not all browsers support all video types, the **Local Video Source(s)** area enables you to select multiple videos in the particle. This will enable you to have a WebM version of the video load, and if the visitor is using a browser that doesn't support it, you can add an MP4 version of the video which will load instead. The same applies to Ogg and MOV video types.
 
