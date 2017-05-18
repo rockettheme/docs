@@ -41,6 +41,8 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + Slider (Coming Soon)
         + [Slideshow](particle_slideshow.md)
         + [Video](particle_video.md)
+    - Template Atoms
+        + Full Page Scroll (Coming Soon)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -53,6 +55,7 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
         + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+    - CSS Classes (Coming Soon)
     - [FAQ](faq.md)
     - Template Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
