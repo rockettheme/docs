@@ -41,10 +41,9 @@ These items make up the individual featured items in the particle. They sit apar
 
 | Option         | Description                                                                                                                      |
 | :-----         | :-----                                                                                                                           |
-| Accent Color   | Set the accent color you would like to have appear in the item.                                                                  |
-| Custom Color   | Add a custom color you would lke to have appear in the item.                                                                     |
 | CSS Classes    | Apply a CSS Class to the item in the particle.                                                                                   |
-| Ribbon Text    | Adds a ribbon with text to your item. Great for highlighting sales or other special featurelistrmation.                                 |
+| Highlight      | Choose if the item should be highlighted.                                                                                        |
+| Ribbon Text    | Adds a ribbon with text to your item. Great for highlighting sales or other special featurelistrmation.                          |
 | Icon           | Sets the primary Font Awesome icon for the item.                                                                                 |
 | Price          | Add a price to the item.                                                                                                         |
 | Period         | Add a term limit for the item.                                                                                                   |
