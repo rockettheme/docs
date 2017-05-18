@@ -37,8 +37,8 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + [Popup Grid](particle_popupgrid.md)
         + [Pricing Table](particle_pricing.md)
         + [Simple Content](particle_simple.md)
-        + Simple Counter (Coming Soon)
-        + Slider (Coming Soon)
+        + [Simple Counter](particle_simplecounter.md)
+        + [Slider](particle_slider.md)
         + [Slideshow](particle_slideshow.md)
         + [Video](particle_video.md)
     - Template Atoms
