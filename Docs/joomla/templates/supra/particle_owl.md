@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
 
 ## Introduction
 
-![](assets/particle_owl1.jpeg)
-
 The **Owl Showcase** particle is a diverse particle with multiple layouts, a wide range of features and customization options, and the ability to source content from both the CMS and custom items set up in the particle itself.
 
 The **Owl Showcase** particle is based on the open source project of the same name by [Bartosz Wojciechowski](http://www.owlcarousel.owlgraphic.com/index.html).
