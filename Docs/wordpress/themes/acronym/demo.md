@@ -8,9 +8,9 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/acronym:Acronym
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Versla can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Acronym can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Versla Theme.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Acronym Theme.
 
 Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 

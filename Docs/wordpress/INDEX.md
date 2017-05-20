@@ -60,6 +60,7 @@ more:
 
 * Club Themes
 
+	- [Supra](themes/supra)
 	- [Acronym](themes/acronym)
 	- [Gemini](themes/gemini)
 	- [Versla](themes/versla)
