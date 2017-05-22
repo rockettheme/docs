@@ -55,6 +55,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-supra/
         + [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
         + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+    - [CSS Classes](css.md)
     - [FAQ](faq.md)
     - Theme Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
