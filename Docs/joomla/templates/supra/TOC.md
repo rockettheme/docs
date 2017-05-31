@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + [Video](particle_video.md)
     - Template Atoms
         + [Full Page Scrolling](atom_fullpage.md)
+        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
