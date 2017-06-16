@@ -42,6 +42,7 @@ more:
 
 * Club Templates
 
+	- [Flux](templates/flux)
 	- [Supra](templates/supra)
 	- [Acronym](templates/acronym)
 	- [Gemini](templates/gemini)
