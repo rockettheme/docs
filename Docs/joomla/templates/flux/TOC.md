@@ -40,6 +40,8 @@ support: http://www.rockettheme.com/forum/joomla-template-flux/
         + [Slider](particle_slider.md)
         + [Testimonials](particle_testimonials.md)
         + [Video](particle_video.md)
+    - Template Atoms
+        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
