@@ -7,13 +7,13 @@ breadcrumb: /joomla:Joomla/!templates:Templates/flux:Flux
 
 ## Introduction
 
-The **Fixed Header** atom gives you the ability to fix your header to the top of your page so it follows your visitors as they scroll. This is useful for sub-pages that don't take advantage of Flux's **Full Page Scrolling** atom. 
+The **Fixed Header** atom gives you the ability to fix your header to the top of your page so it follows your visitors as they scroll.
 
 The fixed header conveniently disappears as the user scrolls down and slides down with the slightest upward scroll. This allows users to see the full scope of the page while maintaining access navigation and search without having to scroll back to the top.
 
 ## Setup
 
-![](atom_fixedheader1.jpeg)
+![](atom_fixedheader1.png)
 
 To set up the atom, simply navigate to the **Page Settings** tab in the outline you wish to apply full page scrolling to and drag-and-drop the **Fixed Header** atom into the white **Atoms** bar. This will activate the atom for the outline.
 
