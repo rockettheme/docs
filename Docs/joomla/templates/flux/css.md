@@ -16,9 +16,7 @@ breadcrumb: /joomla:Joomla/!themes:Themes/flux:Flux
 | fp-bottom                   | Class applied to the **Bottom** section in the front page of the demo.                                                  |
 | fp-extension                | Class applied to the **Extension** section in the front page of the demo.                                               |
 | fp-feature                  | Class applied to the **Feature** section in the front page of the demo.                                                 |
-| fp-feature-slider           | Applied to the **Slider** particle in the **Feature** section of the front page of the demo.                            |
 | fp-header                   | Class applied to the **Header** section in the front page of the demo.                                                  |
-| fp-noscroll                 | Add this to a section if you don't want a scroll bar to appear when **Full Page Scroll** is enabled.                    |
 | fp-slideshow                | Class applied to the **Slideshow** section in the front page of the demo.                                               |
 | g-default-showcase          |                                                                                                                         |
 | g-logo                      | Applied to the **Logo** particle in the demo.                                                                           |
