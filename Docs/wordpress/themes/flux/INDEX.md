@@ -1,7 +1,7 @@
 ---
 title: Flux
-description: Your Guide to Using the Flux Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!flux:Flux
+description: Your Guide to Using the Flux Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!flux:Flux
 
 ---
 
@@ -15,12 +15,14 @@ Flux is a brilliant theme for displaying big, beautiful images alongside modern 
 Requirements
 -----
 
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.5+ Recommended)
-* MySQL 5.1+
-* Joomla 3.4+
+* PHP 5.4+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
+* WordPress 4.8+
 
->> NOTE: Gantry v5.4.13+ is required for Flux to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry 5.4.13+ is required for Flux to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
@@ -33,7 +35,6 @@ Key Features
 * Grid Content
 * Grid Statistic
 * Image Grid
-* Joomla Articles
 * Newsletter
 * Owl Showcase
 * Pricing Table
@@ -41,18 +42,17 @@ Key Features
 * Simple Charts
 * Slider
 * Testimonials
-* Video 
+* Video
+* WordPress Posts 
 
-### Template Features
+### Theme Features
 
 * Responsive Layout
 * 5 Preset Styles
-* Block Variations
 * Custom Typography
 * Unlimited Positions
-* Popup Module
+* Popup Particle
 * Custom Particles
-* Social Icons
 * Mobile Menu
 * Coming Soon Page
 * Font Awesome Icons 
@@ -67,7 +67,7 @@ Key Features
 * Off-Canvas Panel
 * Ajax Admin
 * Layout Manager
-* Inheritance System
+* Theme Inheritance
 * Fluid Width Option
 * Fixed Width Option
 * SCSS Support
@@ -85,7 +85,7 @@ Typography is an important instrument in not only the site design, but how your 
 
 ![Responsive](ft-3.jpg)
 
-Flux is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
+Flux is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
 
 ## Inheritance
 
