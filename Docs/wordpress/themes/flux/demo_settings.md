@@ -21,4 +21,4 @@ In Flux's demo, we went with **Preset 1**.
 
 ![Style Settings](assets/style_3.jpeg)
 
-You'll notice a background behind the Slideshow section. This background is set in the **Slideshow** area of the **Style** panel.
+You'll notice a background behind the **Header**, **Above**, and **Slideshow** sections. This background is set in the section-specific areas of the **Style** panel.
