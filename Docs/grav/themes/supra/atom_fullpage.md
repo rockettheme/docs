@@ -1,7 +1,7 @@
 ---
 title: Supra: Full Page Scroll Atom
 description: Your Guide to Using the Supra Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
+breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ---
 
