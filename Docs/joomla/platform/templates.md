@@ -49,13 +49,13 @@ Here's how:
 
 ![](assets/template_install_1.jpeg)
 
-:   1. **Install Extensions** This is where you will want to go to install any extensions. [18%, 59%, se]
+:   1. **Install Extensions** This is where you will want to go to install any extensions. [80%, 5%, se]
 
 The easiest way to do this is by going to **Admin → Install Extensions** (point 1) within the Administrator area of your site. This link is accessible directly from the sidebar of the Control Panel. Alternatively, you can navigate to **Admin → Extensions → Manage → Install** using the menu at the top of the page.
 
 ![](assets/template_install_2.jpeg)
 
-:   1. **Install** Simply take the zipped template package you downloaded earlier and drag-and-drop or browse and select it from the upload space. [37%, 13%, nw]
+:   1. **Install** Simply take the zipped template package you downloaded earlier and drag-and-drop or browse and select it from the upload space. [50%, 25%, se]
 
 The next step is fairly straightforward. Simply take the zipped template package you downloaded earlier and drag-and-drop or browse and select it from the upload space.
 
