@@ -20,7 +20,7 @@ Requirements
 
 RokGallery has the following requirements in order to operate:
 
-* Joomla 2.5 or 3.x - ensure you are using the latest version.
+* Joomla 3.x - ensure you are using the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 * PHP support for the SQLite PDO driver
 * PHP support for the MySQL PDO driver

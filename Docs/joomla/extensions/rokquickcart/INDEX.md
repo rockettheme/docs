@@ -19,7 +19,7 @@ This extension enables you to rapidly set up and deploy a powerful e-commerce sy
 Requirements
 ------------
 
-* Joomla 2.5 or 3.x - ensure you are using the latest version.
+* Joomla 3.x - ensure you are using the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> Note: A version of RokQuickCart for Joomla 1.5 is available but unsupported.
