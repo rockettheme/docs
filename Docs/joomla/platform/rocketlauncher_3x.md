@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=V2b5HOkljzE
 
 One of the clear benefits to installing via a RocketLauncher is that you receive a copy of our demo site, complete with preset modules. Due to licensing restrictions, some of the images used in the demo may be replaced with a placeholder, but the settings, modules, and presets are all indicative of what you would find in the demo.
 
+>> NOTE: If you are planning to create a multilingual website, we recommend against using the multilingual set up that Joomla offers as part of the installation process. This will interfere with the template's sample content and will cause confusion. You can, of course, set up multilingual content after installation.
+
 ### Technical Requirements
 
 Before installing, you should make sure that your server meets the minimum requirements for the Joomla version associated with the RocketLauncher you wish to use. These requirements are made available on [Joomla.org](http://www.joomla.org/technical-requirements.html) and can be verified against your existing server version, PHP, and MySQL (or supported alternatives). For most users with remotely hosted sites, Cpanel provides this information on the left-hand sidebar.
