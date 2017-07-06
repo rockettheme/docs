@@ -1,6 +1,6 @@
 ---
 title: How to Create a Multilingual Site in Joomla
-description: How to create a multilingual site in Joomla 2.5 and 3.x.
+description: How to create a multilingual site in Joomla 3.x.
 breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_create_a_multilingual_site:How to Create a Multilingual Site
 
 ---
@@ -15,7 +15,7 @@ Everything written here can be applied to any of the templates provided by Rocke
 Prerequisites
 -----
 
-* Joomla 2.5.7+, Joomla 3.x
+* Joomla 3.x
 * RocketTheme Template
 * RokNavMenu Extension
 

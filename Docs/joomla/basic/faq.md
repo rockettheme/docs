@@ -19,7 +19,6 @@ Make sure you have cleared your Joomla and browser cache before refreshing your 
 
 | **Platform** | **Steps**                                              |  
 | :----------- | :----------------------------------------------------- |  
-| Joomla 2.5   | Admin -> Site -> Maintenance -> Clear Cache            |  
 | Joomla 3.x   | Admin -> System -> Clear Cache                         |  
 | Firefox      | Admin -> System -> Clear Cache                         |  
 | Chrome       | Admin -> Chrome -> Clear Browsing Data                 |  

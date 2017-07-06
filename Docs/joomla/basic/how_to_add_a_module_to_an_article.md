@@ -1,6 +1,6 @@
 ---
 title: How to Add a Module to an Article
-description: A Quick Tutorial for Adding Modules to Articles in Joomla 2.5 and 3.x
+description: A Quick Tutorial for Adding Modules to Articles in Joomla 3.x
 breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!how_to_add_a_module_to_an_article.md:How to Add a Module to an Article
 
 ---
