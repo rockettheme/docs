@@ -44,7 +44,7 @@ The first thing you will need to do is [download][download] the latest version o
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

@@ -36,7 +36,7 @@ There are several ways to install Joomla! Finding the right method for you depen
 
 #### One-Click Install
 
-Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports. Right now, version 2.5 is more common as 3.x is newer and is being updated more regularly as bugs and other minor issues are ironed out.
+Many hosting companies provide a quick and easy method known as a one-click installation. This is often provided by hosting companies as a way to install Joomla quickly and easily without having to open a separate FTP/SFTP or SSH connection to the server. Be sure to note the version of Joomla your hosting company supports.
 
 #### RocketLauncher
 RocketLauncher allows you to essentially download and install Joomla, the Gantry framework, and a copy of the demo site for any RocketTheme template you prefer. This is the easiest way to hit the ground running with Joomla and a RocketTheme template as it will give you a pre-configured site with all the required support files you need to build on.
@@ -45,7 +45,7 @@ RocketLauncher allows you to essentially download and install Joomla, the Gantry
 
 For most users, a conventional installation will work just fine. You will need to download the [Joomla! ZIP package](http://joomla.org) of your choice, and create a database which you will use to store the content and settings date for the site.
 
-Upon downloading Joomla 2.5 or 3.x, you will need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
+Upon downloading Joomla 3.x, you will need to place the ZIP file in the remote or localhost directory you wish to have your Joomla! site appear on. You can then unpack the file and access the primary installer via your browser by navigating to the root installation folder as you would if you were visiting the site normally.
 
 Joomla Web Installer for 3.x
 ----------------------------

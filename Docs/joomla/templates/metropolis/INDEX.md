@@ -40,9 +40,6 @@ Key Features
 * FF, Safari, Chrome, Opera, IE8+ Compatible
 * HTML5, CSS3, LESS CSS
 
-### Joomla 2.5 and Joomla 3.x Compatible
-Metropolis is compatible with Joomla 3.x. Our extensions included in this template, RokNavMenu, RokSprocket, RokPad, RokCandy, RokAjaxSearch, RokBox, and RokBooster have already been converted to be Joomla 3 compatible as well.
-
 ### New Dropdown Menu
 ![][dropdown]
 The Dropdown Menu is an advanced CSS driven dropdown menu system. It offers advanced structural features such as multiple columns, inline icons and text, inline modules and positions, custom column widths, item distribution and menu offsets. All of these are configurable for each menu item.

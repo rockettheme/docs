@@ -14,7 +14,7 @@ Graffito, the October 2012 template release, is a corporate themed design, perfe
 
 Integrated styling is available for RokSprocket in all its layout modes, providing a rich stylistic platform to construct a dynamic and engaging site. Standard Gantry and template features also apply, such as Fusion with MegaMenu.
 
->> NOTICE: Graffito is a Joomla 2.5.x and 3.x Template.
+>> NOTICE: Graffito is a Joomla 3.x Template.
 
 Requirements
 -----

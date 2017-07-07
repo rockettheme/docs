@@ -44,7 +44,6 @@ Key Features
 
 ### RokSprocket integrated Template
 ![][roksprocket]
-RokSprocket is a revolutionary new Joomla 2.5 only extension that has been designed to replace a variety of our existing ‘content’ modules.
 
 These include RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles. We have built our new March 2012 Joomla template to showcase this extension.
 

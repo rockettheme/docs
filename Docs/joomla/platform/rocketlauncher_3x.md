@@ -34,8 +34,6 @@ Currently, the Joomla requirements are as follows:
 | Nginx         | 1.0            | 1.1            |  
 | Microsoft IIS | 7              | 7              |  
 
-While Joomla 2.5 stands out as being longer in the tooth and more stable than 3.x, it does not offer you as much flexibility in terms of the types of SQL databases you can connect to. In addition, you may miss out on some of the newer features of Joomla 3.x which offer additional customization and enhanced usability.
-
 For users on a non-Microsoft server architecture, MSSQL will not appear under the database options during installation. Instead, you will be able to choose between PostgreSQL, MySQL, and MySQLi. MySQLi is the recommended database type for Joomla 3.x due to its native support and enhanced performance.
 
 ### Downloading and Installing

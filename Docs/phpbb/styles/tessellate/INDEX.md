@@ -48,7 +48,7 @@ Tessellate supports WebFonts based scalable vector icons. No images are used in 
 
 #### RokBridge Support
 
-RokBridge is an attempt to bring back famous component into the newest Joomla 2.5/3.0 environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing and syncing of login sessions. Newest RokBridge comes with 3 default modules: login module, latest post module, member module. Please visit RokBridge forum for support and latest news.
+RokBridge is an attempt to bring back famous component into the newest Joomla 3.x environment. RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing and syncing of login sessions. Newest RokBridge comes with 3 default modules: login module, latest post module, member module. Please visit RokBridge forum for support and latest news.
 
 #### Responsive Layout
 

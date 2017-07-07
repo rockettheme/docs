@@ -18,9 +18,6 @@ more:
 	- [How Does Joomla Work?](platform/understanding.md)
 	  Learn what the basic components of Joomla are and how they fit into your site.
 
-	- [How to install Joomla 2.5](platform/install_joomla_25.md)
-	  Step-by-step through the installation procedure for Joomla 2.5.
-
 	- [How to Install Joomla 3.x](platform/install_joomla_3x.md)
 	  Step-by-step through the installation procedure for Joomla 3.x.
 
@@ -30,10 +27,8 @@ more:
 
 	- [Introduction](platform/)
 	- [How Joomla Works](platform/understanding.md)
-	- [How to install Joomla 2.5](platform/install_joomla_25.md)
 	- [How to install Joomla 3.x](platform/install_joomla_3x.md)
-	- [How to Install a Joomla 2.5 RocketLauncher](platform/rocketlauncher_25.md)
-    - [How to Install a Joomla 3.x RocketLauncher](platform/rocketlauncher_3x.md)
+  - [How to Install a Joomla 3.x RocketLauncher](platform/rocketlauncher_3x.md)
 	- [How Joomla Extensions Work](platform/extensions.md)
 	- [How Joomla Templates Work](platform/templates.md)
 	- [How Joomla's Administration Menu Works](platform/administrator.md)
