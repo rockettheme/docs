@@ -40,7 +40,7 @@ How to install
 
 Installing RokQuickCart takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokQuickCart. The package you will download contains all the files you need to get RokQuickCart up and running. It is compatible with both Joomla 2.5.x and Joomla 3.x, and does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokQuickCart. The package you will download contains all the files you need to get RokQuickCart up and running. It is compatible with Joomla 3.x, and does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 

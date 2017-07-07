@@ -41,7 +41,7 @@ Key Features
 * HTML5, CSS3, LESS CSS
 
 ### Joomla 2.5 and Joomla 3.x Compatible
-Metropolis is compatible with both Joomla 2.5 and Joomla 3.x. Our extensions included in this template, RokNavMenu, RokSprocket, RokPad, RokCandy, RokAjaxSearch, RokBox, and RokBooster have already been converted to be Joomla 3 compatible as well.
+Metropolis is compatible with Joomla 3.x. Our extensions included in this template, RokNavMenu, RokSprocket, RokPad, RokCandy, RokAjaxSearch, RokBox, and RokBooster have already been converted to be Joomla 3 compatible as well.
 
 ### New Dropdown Menu
 ![][dropdown]

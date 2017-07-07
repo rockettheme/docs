@@ -62,7 +62,7 @@ How to install
 
 Installing RokGallery takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 

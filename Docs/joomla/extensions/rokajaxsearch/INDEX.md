@@ -36,11 +36,11 @@ How to Install
 
 Installing RokAjaxSearch takes just a matter of few minutes.
 
-The first thing you’ll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download contains everything to get RokAjaxSearch up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you’ll need to do is [download][download] the latest version of RokAjaxSearch. The package you will download contains everything to get RokAjaxSearch up and running and it is compatible with Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button
