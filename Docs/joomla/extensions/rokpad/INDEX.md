@@ -23,7 +23,7 @@ Requirements
 
 RokPad has the following requirements in order to operate:
 
-* Joomla 2.5 or Joomla 3.x - ensure you are using the latest version
+* Joomla 3.x - ensure you are using the latest version
 * Compatible Browsers: Firefox 4+, Chrome, Safari, IE9+, Opera 
 
 >> Internet Explorer 7 and before are not supported. Internet Explorer 8 has limited functionality.
@@ -55,11 +55,11 @@ How to install
 
 Installing RokPad takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokPad. The package you will download contains everything to get RokPad up and running and it is compatible with Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

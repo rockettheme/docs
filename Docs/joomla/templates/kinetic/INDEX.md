@@ -13,8 +13,6 @@ Kinetic has a versatile and flexible design, styled with scrupulous precision. T
 
 ![][theme]
 
->> NOTICE: Kinetic is a Joomla 2.5 template. Joomla 1.5 is unsupported but available for download.
-
 Requirements
 -----
 

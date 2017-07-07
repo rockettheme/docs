@@ -19,7 +19,7 @@ This extension enables you to rapidly set up and deploy a powerful e-commerce sy
 Requirements
 ------------
 
-* Joomla 2.5 or 3.x - ensure you are using the latest version.
+* Joomla 3.x - ensure you are using the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> Note: A version of RokQuickCart for Joomla 1.5 is available but unsupported.
@@ -40,11 +40,11 @@ How to install
 
 Installing RokQuickCart takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokQuickCart. The package you will download contains all the files you need to get RokQuickCart up and running. It is compatible with both Joomla 2.5.x and Joomla 3.x, and does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokQuickCart. The package you will download contains all the files you need to get RokQuickCart up and running. It is compatible with Joomla 3.x, and does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

@@ -84,17 +84,7 @@ On the positive, NGINX currently powers some of the most popular sites on the We
 Server Requirements
 --------------
 
-In order for Joomla to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are some of the server, PHP, and MySQL requirements for the two current major versions of Joomla [(source)](http://www.joomla.org/technical-requirements.html). Even if Joomla 2.5.x officially supports PHP 5.2.x many templates, frameworks and plug-ins will need at least PHP 5.3.17 in order to run properly.
-
-#### Joomla 2.5
-
-| Software      | Minimum        | Recommended |
-| :------------ | :------------- | :--------   |
-| MySQL         | 5.0.4 +        | 5.0.4 +     |
-| PHP           | 5.2.4 +        | 5.3 +       |
-| Apache        | 2.x +          | 2.x +       |
-| NGINX         | 1.0            | 1.1         |
-| Microsoft IIS | 7              | 7           |
+In order for Joomla to operate properly, there are a series of requirements that have to be met. For example, having an old version of PHP means that your server wouldn't know how to interpret some of the more modern PHP scripting commands, and this could break the site. Listed below are some of the server, PHP, and MySQL requirements for the two current major versions of Joomla [(source)](http://www.joomla.org/technical-requirements.html).
 
 #### Joomla 3.x
 

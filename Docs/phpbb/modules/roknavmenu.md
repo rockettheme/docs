@@ -1,5 +1,5 @@
 ---
-title: RokNavMenu Exporter for Joomla 2.5 / 3.x
+title: RokNavMenu Exporter for Joomla 3.x
 description: This document will guide you through the process of installing RokNavMenu Exporter for Joomla and phpBB.
 breadcrumb: /phpbb:phpBB/!modules:Modules/
 tags: [Joomla, RokNavMenu, Export, Menu, extension, module, plugin, tutorial]
@@ -20,7 +20,7 @@ Requirements
 
 The requirements for RokNavMenu are as follows:
 
-* Joomla 2.5 / 3.x (A Joomla 1.5 version is available, but no longer supported.)
+* Joomla 3.x
 * phpBB 
 * RokBB 3 / 5
 * RocketTheme Style
@@ -34,11 +34,11 @@ Installation of RokNavMenu Exporter involves making preparations on both Joomla 
 
 Before installing, you should already have RokNavMenu set up on your existing Joomla site. Otherwise, there would not be much for RokNavMenu Exporter to actually export. 
 
->> NOTE: The instructions detailed below apply to Joomla 2.5 / 3.x. RokNavMenu Exporter for Joomla 1.5 remains available, but is no longer officially supported.
+>> NOTE: The instructions detailed below apply to Joomla 3.x. RokNavMenu Exporter for Joomla 1.5 remains available, but is no longer officially supported.
 
 ### Step 1: Install RokNavMenu Exporter on Joomla
 
-You can download RokNavMenu Exporter for Joomla 2.5 / 3.x from the [RokNavMenu Downloads Page for Joomla][download] on our official website.
+You can download RokNavMenu Exporter for Joomla 3.x from the [RokNavMenu Downloads Page for Joomla][download] on our official website.
 
 To install the RokNavMenu Exporter, you will need to first log in to your Joomla site's Administrator and navigate to the **Extension Manager** by going to **Administrator -> Extensions -> Extension Manager** and selecting the **Install** tab. From here, you can choose the RokNavMenu Exporter zip file from your local directory and select **Upload and Install**. Once this is done, RokNavMenu Exporter should be installed to Joomla.
 

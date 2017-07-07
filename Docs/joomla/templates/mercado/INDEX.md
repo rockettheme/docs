@@ -13,7 +13,7 @@ Mercado is the epitome of elegant eCommerce integration, sporting three shopping
 
 ![][theme]
 
->> NOTICE: Mercado is a Joomla 2.5 and Joomla 3.x template. Joomla 1.5 is unsupported but available for download.
+>> NOTICE: Mercado is a Joomla 3.x template. Joomla 1.5 is unsupported but available for download.
 
 Requirements
 -----

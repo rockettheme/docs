@@ -20,7 +20,7 @@ Requirements
 
 RokGallery has the following requirements in order to operate:
 
-* Joomla 2.5 or 3.x - ensure you are using the latest version.
+* Joomla 3.x - ensure you are using the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 * PHP support for the SQLite PDO driver
 * PHP support for the MySQL PDO driver
@@ -62,11 +62,11 @@ How to install
 
 Installing RokGallery takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with both Joomla 2.5.x and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokGallery. The package you will download is a bundle containing all of the required plugins to get RokGallery up and running and it is compatible with Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

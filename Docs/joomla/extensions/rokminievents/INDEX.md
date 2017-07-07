@@ -31,7 +31,7 @@ Requirements
 
 RokMiniEvents has the following requirements in order to operate:
 
-* Joomla 2.5.x or Joomla 3.x - ensure you are using the latest version
+* Joomla 3.x - ensure you are using the latest version
 * Compatible Browsers: Firefox 4+, Chrome, Safari, IE9+, Opera 
 
 >> NOTICE: This extension is available for Joomla 2.5 and Joomla 3.x. Joomla 1.5 is unsupported but available for download.
@@ -41,11 +41,11 @@ How to install
 
 Installing RokMiniEvents takes just a matter of few minutes.
 
-The first thing you will need to do is [download][download] the latest version of RokMiniEvents. The package you will download contains everything to get RokMiniEvents up and running and it is compatible with both Joomla 2.5 and Joomla 3.x. It does not need to be uncompressed. 
+The first thing you will need to do is [download][download] the latest version of RokMiniEvents. The package you will download contains everything to get RokMiniEvents up and running and it is compatible with Joomla 3.x. It does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 
-From Joomla 2.5 and 3.x:
+From Joomla 3.x:
 
 * Select from the top menu: `Extensions -> Extension Manager -> Install`
 * Click on Upload Package File **Choose File** button

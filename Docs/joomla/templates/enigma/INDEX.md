@@ -32,7 +32,7 @@ For more information, visit our [Gantry documentation][gantry].
 Key Features
 -----
 
-* Joomla 1.5 (unsupported)/2.5 - 3.x versions
+* 3.x versions
 * Sophisticated 8 Preset Styles
 * RokGallery Integrated Template
 * Powerful Core Gantry Framework
@@ -50,7 +50,7 @@ Key Features
 
 ![][elegantdesign]
 
-The Enigma template is built for Joomla 2.5 and 3.x, with an unsupported version available for Joomla 1.5. The sophisticated design has 24 structural and stylistic suffixes to individualize modular content.
+The Enigma template is built for Joomla 3.x, with an unsupported version available for Joomla 1.5. The sophisticated design has 24 structural and stylistic suffixes to individualize modular content.
 
 There are 8 style variations to choose from, by default, which offer an array of diverse, rich preset styles, showing the elegant textures and artistic design of Enigma.
 

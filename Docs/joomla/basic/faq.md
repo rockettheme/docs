@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!basic:Basic Tutorials/!faq.md:Frequently Asked Quest
 
 ### How do I know which version of Gantry I have installed on my site?
 
-There are a few different ways to find out. In both **Joomla 2.5** and **3.x**, go to **Admin-> Extensions -> Template Manager** and open your tempalte. Then, you will want to click the **Overview** tab.
+There are a few different ways to find out. In Joomla **3.x**, go to **Admin-> Extensions -> Template Manager** and open your tempalte. Then, you will want to click the **Overview** tab.
 
 There should be an info box on the right-hand side that tells you which version of Gantry you are currently running, and if there is an update available.
 
