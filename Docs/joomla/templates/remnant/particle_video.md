@@ -11,6 +11,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/remnant:Remnant
 
 The **Video Grid** particle enables you quickly and easily add video content to your page.
 
+>> Note: You will need the [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox) extension installed and active to take advantage of the video popups feature.
+
 Here are the topics covered in this guide:
 
 * [Configuration](#configuration)
