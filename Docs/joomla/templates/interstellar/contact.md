@@ -27,7 +27,7 @@ Below is a brief rundown of the modules and particles used to make up the demo p
 
 ![](assets/page_contact_1.jpeg)
 
-This area of the page is an **Info List** particle. You will find the settings used in our demo below.
+This area of the page is an **Simple Content** particle. You will find the settings used in our demo below.
 
 ## Section Settings
 
@@ -42,36 +42,19 @@ This area of the page is an **Info List** particle. You will find the settings u
 | Option                   | Setting                                    |
 | :-----                   | :-----                                     |
 | Particle Name            | `Get in Touch!`                            |
-| CSS Classes              | `g-layercontent` `noborder` `center`       |
+| CSS Classes              | `center`                                   |
 | Title                    | Blank                                      |
-| Intro                    | Blank                                      |
-| Grid Column              | 1 Column                                   |
 | Item 1 Name              | `Get in Touch!`                            |
-| Item 1 Icon              | Blank                                      |
-| Item 1 Icon Location     | Left                                       |
-| Item 1 Image             | Blank                                      |
-| Item 1 Image Location    | Left                                       |
-| Item 1 Text Style        | Slideshow                                  |
-| Item 1 Image Style       | Compact                                    |
-| Item 1 Description       | `We are looking forward to hear from you.` |
-| Item 1 Tag               | Blank                                      |
-| Item 1 Sub Tag           | Blank                                      |
-| Item 1 Label             | Blank                                      |
-| Item 1 Link              | Blank                                      |
-| Item 1 Button Icon       | Blank                                      |
+| Item 1 Layout Style      | Header                                     |
+| Item 1 Created Date      | Blank                                      |
+| Item 1 Content Title     | `Get in Touch!`                            |
+| Item 1 Author            | Blank                                      |
+| Item 1 Leading Content   | `We are looking forward to hear from you.` |
+| Item 1 Main Content      | Blank                                      |
+| Item 1 Read More Label   | Blank                                      |
+| Item 1 Read More Link    | Blank                                      |
 | Item 1 Read More Classes | Blank                                      |
 | Item 1 Target            | Self                                       |
-
-## Block Settings
-
-| Option         | Setting   |
-| :-----         | :-----    |
-| CSS ID         | Blank     |
-| CSS Classes    | Blank     |
-| Variations     | Blank     |
-| Tag Attributes | Blank     |
-| Fixed Size     | Unchecked |
-| Block Size     | `100%`    |
 
 # Aside Section
 

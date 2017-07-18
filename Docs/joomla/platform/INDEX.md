@@ -48,7 +48,6 @@ One of its primary strengths is its usability. Whether you are a student just ge
 * [U.S. Federal Court of Appeals](http://www.cafc.uscourts.gov/)
 * [United Kingdom Stabilisation Unit](http://www.stabilisationunit.gov.uk/)
 * [Harvard University](http://gsas.harvard.edu/)
-* [Guggenheim](http://www.guggenheim.org/)
 * [United Nations Regional Information Centre](http://www.unric.org/en/)
 
 [graffito]: assets/wp_graffito.jpg
