@@ -1,13 +1,13 @@
 ---
-title: Gemini: Contact Form
-description: Your Guide to Using the Gemini Theme for Grav
-breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
+title: Remnant: Contact Form
+description: Your Guide to Using the Remnant Theme for Grav
+breadcrumb: /grav:Grav/!themes:Themes/remnant:Remnant
 
 ---
 
 ## Introduction
 
-![](gemini_form.png)
+![](remnant_form.png)
 
 Contact forms make it easy for visitors to reach out and contact you. In Grav, this process works a little differently than it does in other content management systems. In this guide, we'll outline how you can customize and configure a contact form for your website.
 

@@ -18,6 +18,7 @@ support: http://www.rockettheme.com/forum/grav-theme-photon/
         * [Installing the RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
+        * [Contact Form](contact.md)
         * Particle Settings
             * [Grav Content](particle_grav.md)
             * [Accordion](particle_accordion.md)

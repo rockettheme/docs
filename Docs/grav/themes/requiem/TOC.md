@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-requiem/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
+        + [Contact Form](contact.md)
     - Theme Particles
         + [Animated Block](particle_animatedblock.md)
         + [Block Content](particle_block.md)

@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-xenon/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
+        + [Contact Form](contact.md)
     - Theme Particles
         + [Block Content](particle_block.md)
         + [Chartist](particle_chartist.md)
