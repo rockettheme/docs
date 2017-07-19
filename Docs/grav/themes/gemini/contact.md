@@ -1,7 +1,7 @@
 ---
-title: Galatea: Contact Form
-description: Your Guide to Using the Galatea Theme for Grav
-breadcrumb: /grav:Grav/!themes:Themes/galatea:Galatea
+title: Gemini: Contact Form
+description: Your Guide to Using the Gemini Theme for Grav
+breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
 
 ---
 
