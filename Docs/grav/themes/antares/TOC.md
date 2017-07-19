@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-antares/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
+        + [Contact Form](contact.md)
     - Theme Particles
         + [FlexSlider](particle_flexslider.md)
         + [Promo Content](particle_promocontent.md)

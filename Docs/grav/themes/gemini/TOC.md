@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
+        * [Contact Form](contact.md)
     - Template Particles
         + [Accordion](particle_accordion.md)
         + [Accordion Menu](particle_accordionmenu.md)
