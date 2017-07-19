@@ -23,6 +23,8 @@ If you are using a RocketLauncher, there is a contact form already set up and re
 
 You can do this using the **Email from** and **Email to** fields in the **Email** plugin. Access this plugin's settings by navigating to **Admin > Plugins > Email**.
 
+You'll also want to make sure you select a **Mail Engine** as nothing will be sent if this option is set to **Disabled**. If you want your site working right out of the box, **PHP Mail** is a good place to start.
+
 ## Customizing Fields
 
 >> This guide is useful for folks using the RocketLauncher. If you want a full from-scratch tutorial on creating a contact form, check out [Grav's documentation](https://learn.getgrav.org/forms/forms/example-form).
