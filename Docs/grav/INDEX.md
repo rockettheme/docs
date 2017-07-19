@@ -28,6 +28,7 @@ more:
 
 * Club Themes
 
+	- [Flux](themes/flux)
 	- [Supra](themes/supra)
 	- [Acronym](themes/acronym)
 	- [Gemini](themes/gemini)
