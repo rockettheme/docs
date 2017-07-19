@@ -1,13 +1,13 @@
 ---
-title: Gemini: Contact Form
-description: Your Guide to Using the Gemini Theme for Grav
-breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
+title: Sienna: Contact Form
+description: Your Guide to Using the Sienna Theme for Grav
+breadcrumb: /grav:Grav/!themes:Themes/sienna:Sienna
 
 ---
 
 ## Introduction
 
-![](gemini_form.png)
+![](sienna_form.png)
 
 Contact forms make it easy for visitors to reach out and contact you. In Grav, this process works a little differently than it does in other content management systems. In this guide, we'll outline how you can customize and configure a contact form for your website.
 

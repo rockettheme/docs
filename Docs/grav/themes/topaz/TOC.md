@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-topaz/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
+        * [Contact Form](contact.md)
     * Theme Particles
         * [Owl Carousel](particle_owl.md)
         * [BookBlock](particle_book.md)
