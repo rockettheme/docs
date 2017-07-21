@@ -55,6 +55,7 @@ more:
 	- [RokBox](plugins/rokbox)
 	- [RokSprocket](plugins/roksprocket/)
 	- [RokAjaxSearch](plugins/rokajaxsearch/)
+	- [RokSocialButtons](plugins/roksocialbuttons)
 
 <!-- -->
 
