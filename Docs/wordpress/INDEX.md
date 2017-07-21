@@ -165,3 +165,5 @@ more:
 	- [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
 	- [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
 	- [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
+	- [How to Add Widgets](http://docs.gantry.org/gantry5/particles/module-instance)
+	- [How to Add Widget Positions](http://docs.gantry.org/gantry5/particles/position)
