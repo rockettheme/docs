@@ -93,7 +93,7 @@ Here is a list of particles that are available in Gemini, as well as links to do
 Recreating the Front Page
 -----
 
-The front page of the Gemini demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Gemini demo.
+The front page of the Gemini demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Gemini demo.
 
 Home Page Layout Presets
 -----
