@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Supra, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Supra RocketLauncher can be found via it's respective Outline.
+>> All Home Particles can be edited via Gantry5 > Front Page > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Supra RocketLauncher can be found via it's respective Outline.
 
 - Theme Particles
     + [Accordion](particle_accordion.md)
