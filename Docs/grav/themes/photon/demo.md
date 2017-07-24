@@ -42,7 +42,7 @@ Here is a list of particles that are available in Photon, as well as links to do
     17. **Copyright** Custom HTML (Particle) [96%, 60%, se]
 
 
-We have detailed how to recreate the individual widgets and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
+We have detailed how to recreate the individual particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
 1. [Navigation](demo_navigation.md)
 2. [Slideshow](demo_slideshow.md)
