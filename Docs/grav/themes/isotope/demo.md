@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/isotope2.jpeg)
 
