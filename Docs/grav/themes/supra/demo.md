@@ -61,7 +61,7 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recreating the Front Page
 -----
 
-The front page of the Supra demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Supra demo.
+The front page of the Supra demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Supra demo.
 
 Home Page Layout Presets
 -----
