@@ -55,7 +55,7 @@ Particles
 
 Here is a list of particles that are available in Antares, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Antares RocketLauncher can be found via it's respective Outline.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Antares RocketLauncher can be found via its respective Outline.
 
 * Theme Particles
     - [FlexSlider](particle_flexslider.md)
