@@ -25,7 +25,7 @@ Below, you will find the particle placement and settings for the various positio
 
 :   1. **FixedSide** Logo (Particle) [1%, 3%, se]
     2. **FixedSide** Social (Particle) [4%, 3%, se]
-    3. **FixedSide** Side Menu (Widget Position) [5%, 3%, se]
+    3. **FixedSide** Side Menu (Position) [5%, 3%, se]
     4. **Header** Swiper (Particle) [7%, 30%, se]
     5. **Header** Swiper (Particle) [15%, 20%, se]
     6. **Showcase** Grid Statistic (Particle) [25%, 20%, se]
@@ -39,7 +39,7 @@ Below, you will find the particle placement and settings for the various positio
     14. **Extension** Swiper (particle) [90%, 35%, se]
     15. **Footer** Logo (Particle) [97%, 15%, se]
     16. **Footer** Horizontal Menu (Particle) [97%, 40%, se]
-    17. **Footer** Social (Widget) [97%, 77%, se]
+    17. **Footer** Social (Particle) [97%, 77%, se]
     18. **Copyright** Branding (Particle) [99%, 15%, se]
     19. **Copyright** Copyright (Particle) [99%, 45%, se]
     20. **Copyright** To Top (Particle) [99%, 85%, se]
