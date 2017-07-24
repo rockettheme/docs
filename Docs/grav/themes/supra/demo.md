@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Supra, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Gantry5 > Front Page > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Supra RocketLauncher can be found via it's respective Outline.
+>> All Home Particles can be edited via Gantry5 > Front Page > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Supra RocketLauncher can be found via its respective Outline.
 
 - Theme Particles
     + [Accordion](particle_accordion.md)
@@ -44,18 +44,6 @@ Here is a list of particles that are available in Supra, as well as links to doc
     + [Video](particle_video.md)
 - Theme Atoms
     + [Full Page Scrolling](atom_fullpage.md)
-- Core Particles 
-    + [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    + [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    + [Social](http://docs.gantry.org/gantry5/particles/social)
-    + [Module Positions](http://docs.gantry.org/gantry5/particles/position)
-    + [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    + [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    + [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    + [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
-    + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
@@ -63,11 +51,10 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
 * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
 * [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
