@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Flux, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Flux - Home > Layout. Any additional particles that are found in the Subpages of our Flux RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Flux RocketLauncher can be found via it's respective Outline.
 
 * Theme Particles
     - [Accordion](particle_accordion.md)
@@ -99,4 +99,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to the Gantry 5 admin and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
