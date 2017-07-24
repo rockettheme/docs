@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/xenon2.jpeg)
 
@@ -52,7 +52,7 @@ Particles
 
 Here is a list of particles that are available in Xenon, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Gantry 5 > Home > Layout. Any additional particles that are found in the Subpages of our Xenon RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Xenon RocketLauncher can be found via it's respective Outline.
 
 * Theme Particles
     - [Block Content](particle_block.md)
@@ -96,7 +96,7 @@ There is also an **Overlay** position which appears when the **Overlay Toggle** 
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Xenon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Xenon demo.
 
 Home Page Layout Presets
 -----
