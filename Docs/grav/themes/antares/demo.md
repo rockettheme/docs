@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/antares2.png)
 
@@ -55,7 +55,7 @@ Particles
 
 Here is a list of particles that are available in Antares, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Antares - Home > Layout. Any additional particles that are found in the Subpages of our Antares RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Antares RocketLauncher can be found via it's respective Outline.
 
 * Theme Particles
     - [FlexSlider](particle_flexslider.md)
@@ -96,7 +96,7 @@ There is also an **FixedSide** position which contains the **FixedSide Social Ic
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
 
 Home Page Layout Presets
 -----
@@ -121,4 +121,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Gantry 5** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
