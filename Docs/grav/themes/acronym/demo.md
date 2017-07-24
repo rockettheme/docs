@@ -49,7 +49,7 @@ Particles
 
 Here is a list of particles that are available in Acronym, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Acronym - Home > Layout. Any additional particles that are found in the Subpages of our Acronym RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry 5 > Home > Layout. Any additional particles that are found in the Subpages of our Acronym RocketLauncher can be located via it's respective Outline.
 
 - Theme Particles
     - [Particles](particle_particles.md)
@@ -102,7 +102,7 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
 
 Home Page Layout Presets
 -----
