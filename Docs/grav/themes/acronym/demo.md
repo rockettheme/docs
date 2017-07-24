@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Themes** > **Home** > **Layout**.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Gantry 5** > **Home** > **Layout** in our RocketLauncher package.
 
 ![](assets/acronym2.jpeg)
 
@@ -127,4 +127,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to the Gantry 5 admin and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
