@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Flux, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Front Page > Layout. Any additional particles that are found in the Subpages of our Flux RocketLauncher can be located via your WordPress Administrator > Extensions > Modules. WordPress allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Flux Theme > Front Page > Layout.
 
 * Theme Particles
     - [Accordion](particle_accordion.md)
@@ -51,7 +51,7 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
 * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
 * [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Widget Positions](http://docs.gantry.org/gantry5/particles/position)
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
