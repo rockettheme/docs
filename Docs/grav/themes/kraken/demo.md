@@ -19,13 +19,13 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/kraken.jpeg)
 
 :   1. **FixedSide** Logo (Particle) [1%, 3%, se]
     2. **FixedSide** Social (Particle) [4%, 3%, se]
-    3. **FixedSide** Side Menu (Widget Position) [5%, 3%, se]
+    3. **FixedSide** Side Menu (Position) [5%, 3%, se]
     4. **Header** Swiper (Particle) [7%, 30%, se]
     5. **Header** Swiper (Particle) [15%, 20%, se]
     6. **Showcase** Grid Statistic (Particle) [25%, 20%, se]
@@ -39,7 +39,7 @@ Below, you will find the widget placement and settings for the various widget po
     14. **Extension** Swiper (particle) [90%, 35%, se]
     15. **Footer** Logo (Particle) [97%, 15%, se]
     16. **Footer** Horizontal Menu (Particle) [97%, 40%, se]
-    17. **Footer** Social (Widget) [97%, 77%, se]
+    17. **Footer** Social (Particle) [97%, 77%, se]
     18. **Copyright** Branding (Particle) [99%, 15%, se]
     19. **Copyright** Copyright (Particle) [99%, 45%, se]
     20. **Copyright** To Top (Particle) [99%, 85%, se]
@@ -49,7 +49,7 @@ Particles
 
 Here is a list of particles that are available in Kraken, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via **Gantry 5 > Home > Layout**. Any additional particles that are found in the Subpages of our Kraken RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via **Gantry 5 > Home > Layout**. Any additional particles that are found in the Subpages of our Kraken RocketLauncher can be located via its respective Outline.
 
 * Theme Particles
     - [Block Content](particle_block.md)
@@ -76,11 +76,10 @@ Here is a list of particles that are available in Kraken, as well as links to do
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
     - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
     - [Social](http://docs.gantry.org/gantry5/particles/social)
-    - [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+    - [Positions](http://docs.gantry.org/gantry5/particles/position)
     - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
     - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
     - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    - [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
@@ -89,7 +88,7 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Kraken demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Kraken demo.
 
 Home Page Layout Presets
 -----
@@ -105,7 +104,7 @@ Menu Editor
 
 ![](assets/menu_1.jpeg)
 
-Acronym has its own built-in Menu Editor which takes full advantage of Grav's menu system, taking your Grav menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Grav sees or uses it.
+Kraken has its own built-in Menu Editor which takes full advantage of Grav's menu system, taking your Grav menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Grav sees or uses it.
 
 You can access the Gantry Menu Editor by navigating to **Admin > Gantry 5 > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 

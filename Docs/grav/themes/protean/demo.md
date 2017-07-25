@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/protean2.jpg)
 
@@ -61,18 +61,6 @@ Here is a list of particles that are available in Protean, as well as links to d
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
     * [Simple Weather](particle_weather.md)
-* Core Particles 
-    * [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    * [Social](http://docs.gantry.org/gantry5/particles/social)
-    * [Module Positions](http://docs.gantry.org/gantry5/particles/position)
-    * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    * [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
-    * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
@@ -80,18 +68,17 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
 * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
 * [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recreating the Front Page
 -----
 
-The front page of the Protean demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Protean demo.
+The front page of the Protean demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Protean demo.
 
 Home Page Layout Presets
 -----
@@ -116,4 +103,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Gantry 5** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

@@ -42,7 +42,7 @@ Here is a list of particles that are available in Photon, as well as links to do
     17. **Copyright** Custom HTML (Particle) [96%, 60%, se]
 
 
-We have detailed how to recreate the individual widgets and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
+We have detailed how to recreate the individual particles pictured above in the links below, separated by sections found in the **Layout Manager**.
 
 1. [Navigation](demo_navigation.md)
 2. [Slideshow](demo_slideshow.md)
@@ -57,7 +57,7 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 Recreating the Front Page
 -----
 
-The front page of the Photon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Photon demo.
+The front page of the Photon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Photon demo.
 
 Home Page Layout Presets
 -----
@@ -82,4 +82,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Gantry 5** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

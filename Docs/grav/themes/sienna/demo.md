@@ -16,10 +16,10 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Widget and Particle Settings
+Particle Settings
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/sienna2.jpg)
 
@@ -65,18 +65,6 @@ Here is a list of particles that are available in Sienna, as well as links to do
     * [Grid Statistic](particle_grid.md)
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
-* Core Particles 
-    * [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    * [Social](http://docs.gantry.org/gantry5/particles/social)
-    * [Widget Positions](http://docs.gantry.org/gantry5/particles/position)
-    * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    * [Widget Instance](http://docs.gantry.org/gantry5/particles/widget-instance)
-    * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
@@ -84,11 +72,10 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
 * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
 * [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Widget Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Widget Instance](http://docs.gantry.org/gantry5/particles/widget-instance)
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
@@ -98,14 +85,13 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Sienna:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/grav/plugins/rokbox)
 
 Many of these plugins are included with the Sienna RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Sienna demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Sienna demo.
+The front page of the Sienna demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Sienna demo.
 
 Home Page Layout Presets
 -----
@@ -130,4 +116,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Gantry 5** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

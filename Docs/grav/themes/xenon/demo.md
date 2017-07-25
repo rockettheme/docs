@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/xenon2.jpeg)
 
@@ -52,7 +52,7 @@ Particles
 
 Here is a list of particles that are available in Xenon, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Gantry 5 > Home > Layout. Any additional particles that are found in the Subpages of our Xenon RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Xenon RocketLauncher can be found via its respective Outline.
 
 * Theme Particles
     - [Block Content](particle_block.md)
@@ -79,11 +79,10 @@ Here is a list of particles that are available in Xenon, as well as links to doc
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
     - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
     - [Social](http://docs.gantry.org/gantry5/particles/social)
-    - [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+    - [Positions](http://docs.gantry.org/gantry5/particles/position)
     - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
     - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
     - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    - [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
@@ -96,7 +95,7 @@ There is also an **Overlay** position which appears when the **Overlay Toggle** 
 Recreating the Front Page
 -----
 
-The front page of the Acronym demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Acronym demo.
+The front page of the Xenon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Xenon demo.
 
 Home Page Layout Presets
 -----
@@ -112,7 +111,7 @@ Menu Editor
 
 ![](assets/menu_1.jpeg)
 
-Acronym has its own built-in Menu Editor which takes full advantage of Grav's menu system, taking your Grav menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Grav sees or uses it.
+Xenon has its own built-in Menu Editor which takes full advantage of Grav's menu system, taking your Grav menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Grav sees or uses it.
 
 You can access the Gantry Menu Editor by navigating to **Admin > Gantry 5 > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 

@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Home Particles
 -----
 
-Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Templates** > **Home** > **Layout**.
+Below, you will find the particles as they appear on the front page of our demo. These can all be found and edited via **Templates** > **Acronym - Home** > **Layout**.
 
 ![](assets/acronym2.jpeg)
 

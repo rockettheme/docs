@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Flux, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Flux - Home > Layout. Any additional particles that are found in the Subpages of our Flux RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these widgets should prove to be simple.
+>> All Home Particles can be edited via Gantry5 > Home > Layout in the RocketLauncher package. Any additional particles that are found in the Subpages of our Flux RocketLauncher can be found via its respective Outline.
 
 * Theme Particles
     - [Accordion](particle_accordion.md)
@@ -44,18 +44,6 @@ Here is a list of particles that are available in Flux, as well as links to docu
     - [Video](particle_video.md)
 * Theme Atoms
     - [Fixed Header](atom_fixedheader.md)
-- Core Particles 
-    + [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    + [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    + [Social](http://docs.gantry.org/gantry5/particles/social)
-    + [Module Positions](http://docs.gantry.org/gantry5/particles/position)
-    + [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    + [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    + [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    + [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
-    + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
@@ -63,18 +51,17 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
 * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
 * [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recreating the Front Page
 -----
 
-The front page of the Flux demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Flux demo.
+The front page of the Flux demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Flux demo.
 
 Home Page Layout Presets
 -----
@@ -99,4 +86,4 @@ Assignments
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Appearance** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to the Gantry 5 admin and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
