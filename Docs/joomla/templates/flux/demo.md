@@ -42,18 +42,6 @@ Here is a list of particles that are available in Flux, as well as links to docu
     - [Slider](particle_slider.md)
     - [Testimonials](particle_testimonials.md)
     - [Video](particle_video.md)
-* Core Particles 
-    - [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    - [Social](http://docs.gantry.org/gantry5/particles/social)
-    - [Module Positions](http://docs.gantry.org/gantry5/particles/position)
-    - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    - [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
-    - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 
