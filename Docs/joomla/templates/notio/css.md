@@ -9,22 +9,14 @@ breadcrumb: /joomla:Joomla/!themes:Themes/notio:Notio
 
 | CSS Class                   | Description                                                                                                             |
 | :-----                      | :-----                                                                                                                  |
-| date                        |                                                                                                                         |
-| flush                       |                                                                                                                         |
-| flush-mobile                |                                                                                                                         |
-| fp-above                    | Class applied to the **Above** section in the front page of the demo.                                                   |
-| fp-bottom                   | Class applied to the **Bottom** section in the front page of the demo.                                                  |
-| fp-extension                | Class applied to the **Extension** section in the front page of the demo.                                               |
-| fp-feature                  | Class applied to the **Feature** section in the front page of the demo.                                                 |
-| fp-header                   | Class applied to the **Header** section in the front page of the demo.                                                  |
+| flush                       | Removes margins and paddings.                                                                                           |
+| flush-mobile                | Removes margins and paddings in mobile view                                                                             |
 | fp-slideshow                | Class applied to the **Slideshow** section in the front page of the demo.                                               |
-| g-default-showcase          |                                                                                                                         |
+| fp-showcase                 | Class applied to the **Showcase** section in the front page of the demo.                                                 |                                                                                                  
 | g-logo                      | Applied to the **Logo** particle in the demo.                                                                           |
-| g-totop                     |                                                                                                                         |
 | nomarginbottom              | Removes the bottom margin.                                                                                              |
 | nopaddingbottom             | Removes the bottom padding.                                                                                             |
 | section-horizontal-paddings | Adds horizontal padding.                                                                                                |
 | section-vertical-paddings   | Adds vertical padding.                                                                                                  |
-| g-blockcontent-spacing      | Adds additional spacing between items in a **Block Content** particle.                                                  |
 
 >> Note: This list is in progress and may have items added or removed over time.
