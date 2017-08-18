@@ -37,6 +37,7 @@ more:
 
 * Club Templates
 
+	- [Notio](templates/notio)
 	- [Flux](templates/flux)
 	- [Supra](templates/supra)
 	- [Acronym](templates/acronym)
