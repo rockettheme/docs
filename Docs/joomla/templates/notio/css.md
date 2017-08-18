@@ -9,8 +9,8 @@ breadcrumb: /joomla:Joomla/!themes:Themes/notio:Notio
 
 | CSS Class                   | Description                                                                                                             |
 | :-----                      | :-----                                                                                                                  |
-| flush                       | Removes margins and paddings.                                                                                           |
-| flush-mobile                | Removes margins and paddings in mobile view                                                                             |
+| flush                       | Removes margins.                                                                                           |
+| flush-mobile                | Removes margins in mobile view.                                                                          |
 | fp-slideshow                | Class applied to the **Slideshow** section in the front page of the demo.                                               |
 | fp-showcase                 | Class applied to the **Showcase** section in the front page of the demo.                                                 |                                                                                                  
 | g-logo                      | Applied to the **Logo** particle in the demo.                                                                           |
