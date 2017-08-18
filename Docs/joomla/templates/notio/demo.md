@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/notio:Notio
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Notio can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Notio can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Notio Template.
 
@@ -68,7 +68,6 @@ Recommended Extensions
 Here is a list of RocketTheme extensions used to create the demo version of Notio:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
 * [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
 Many of these extensions are included with the Notio RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
@@ -85,7 +84,7 @@ Home Page Layout Presets
 
 If you did not choose to 'Install Sample Data' upon installing the Notio theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-You can access this preset by selecting **Load** in the **Layout Manager**.
+You can access this preset by selecting **Load** in the **Layout Manager**. Make sure to uncheck the "Keep the current Particles while changing Preset" checkbox to start fresh with any of our presets.
 
 >> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
 
