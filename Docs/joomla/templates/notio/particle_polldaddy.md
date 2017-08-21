@@ -35,7 +35,7 @@ Here are the topics covered in this guide:
 
 ### Polldaddy Setup
 
-Setting up a poll in Polldaddy is simple. First, you'll need to sign up for the service, and you can do this with a [WordPress.com](http://wordpress.com) account or sign up with via [Polldaddy.com]](https://polldaddy.com/pricing/).
+Setting up a poll in Polldaddy is simple. First, you'll need to sign up for the service, and you can do this with a [WordPress.com](http://wordpress.com) account or sign up with via [Polldaddy.com](https://polldaddy.com/pricing/).
 
 ![](assets/particle_polldaddy4.jpeg)
 
