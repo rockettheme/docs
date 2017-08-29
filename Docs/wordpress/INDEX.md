@@ -61,6 +61,7 @@ more:
 
 * Club Themes
 
+	- [Notio](themes/notio)
 	- [Flux](themes/flux)
 	- [Supra](themes/supra)
 	- [Acronym](themes/acronym)
