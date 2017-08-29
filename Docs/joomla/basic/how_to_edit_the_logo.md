@@ -34,7 +34,7 @@ To accomplish this, you will want to follow these steps:
 
 Your logo should now be replaced by the image you have selected.
 
->> Note: Some templates have this option under the **Features** tab rather than **Style**.
+>> Note: Some templates have this option under the **Style** tab rather than **Features**.
 
 ### Manual Logo Change
 
