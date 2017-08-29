@@ -19,8 +19,6 @@ To set up the atom, simply navigate to the **Page Settings** tab in the outline 
 
 Next, you can access the atom's settings by selecting the cogwheel icon.
 
-![](atom_fixedheader2.jpeg)
-
 | Setting           | Description                                                                               |
 | :-----            | :-----                                                                                    |
 | Section           | Define the ID or class of the section that you want to set as fixed.                      |
