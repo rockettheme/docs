@@ -45,17 +45,21 @@ more:
 
 * Free Plugins
 
+	- [RokBox](plugins/rokbox)
+	- [RokSprocket](plugins/roksprocket/)
+	- [RokAjaxSearch](plugins/rokajaxsearch/)
+	- [RokGallery](plugins/rokgallery/)
+	- [RokSocialButtons](plugins/roksocialbuttons)
+
+<!-- -->
+
+* Legacy Plugins
 
 	- [RokFeatureTable](plugins/rokfeaturetable/)
-	- [RokGallery](plugins/rokgallery/)
 	- [RokWeather](plugins/rokweather/)
 	- [RokStock](plugins/rokstock/)
 	- [RokIntroScroller](plugins/rokintroscroller)
 	- [RokMicroNews](plugins/rokmicronews)
-	- [RokBox](plugins/rokbox)
-	- [RokSprocket](plugins/roksprocket/)
-	- [RokAjaxSearch](plugins/rokajaxsearch/)
-	- [RokSocialButtons](plugins/roksocialbuttons)
 
 <!-- -->
 

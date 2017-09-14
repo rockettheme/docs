@@ -2,9 +2,8 @@
 
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokstock:RokStock
 
-details: http://www.rockettheme.com/wordpress/plugins/rokstock
-demo: http://demo.rockettheme.com/joomla/rokstock/
-download: http://www.rockettheme.com/wordpress/plugins/rokstock/modal/downloads
+details: http://www.rockettheme.com/wordpress/plugins/roklegacy
+download: http://www.rockettheme.com/wordpress/plugins/roklegacy/modal/downloads
 support: http://www.rockettheme.com/forum/wordpress-plugin-rokstock/
 
 ---
