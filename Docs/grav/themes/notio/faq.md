@@ -15,7 +15,7 @@ Can I install RocketLauncher onto an existing Grav website?
 
 No. RocketLauncher will install both Grav and the demo sample content and images, so you will need a fresh Grav installation.
 
-I installed the Remnant RocketLauncher but the images are different with the demo site.
+I installed the Notio RocketLauncher but the images are different with the demo site.
 -----
 
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
