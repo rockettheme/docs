@@ -2,9 +2,8 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/rokweather:RokWeather
 
-details: http://www.rockettheme.com/joomla/extensions/rokweather
-demo: http://demo.rockettheme.com/joomla-extensions/
-download: http://www.rockettheme.com/joomla/extensions/rokweather/modal/downloads
+details: http://www.rockettheme.com/joomla/extensions/roklegacy
+download: http://www.rockettheme.com/joomla/extensions/roklegacy/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokweather/
 
 ---

@@ -125,7 +125,6 @@ more:
 	- [Dominion](templates/dominion)
 	- [Reaction](templates/reaction)
 
-
 <!-- -->
 
 * Extensions
@@ -133,17 +132,12 @@ more:
 	- [RokBox](extensions/rokbox/)
 	- [RokFeatureTable](extensions/rokfeaturetable/)
 	- [RokGallery](extensions/rokgallery/)
-	- [RokWeather](extensions/rokweather/)
-	- [RokStock](extensions/rokstock/)
-	- [RokMiniEvents](extensions/rokminievents/)
 	- [RokPad](extensions/rokpad/)
 	- [RokSprocket](extensions/roksprocket/)
 	- [RokNavMenu](extensions/roknavmenu/)
 	- [RokBooster](extensions/rokbooster/)
-	- [RokQuickCart](extensions/rokquickcart/)
 	- [RokAjaxSearch](extensions/rokajaxsearch/)
 	- [RokCandy](extensions/rokcandy/)
-	- [RokComments](extensions/rokcomments/)
 	- [RokSocialButtons](extensions/roksocialbuttons)
 
 <!-- -->
@@ -206,3 +200,13 @@ more:
 	- [Afterburner2](templates/afterburner2)
 	- [Grunge](templates/grunge)
 	- [Quasar](templates/quasar)
+
+<!-- -->
+
+* Legacy Extensions
+
+	- [RokWeather](extensions/rokweather/)
+	- [RokStock](extensions/rokstock/)
+	- [RokQuickCart](extensions/rokquickcart/)
+	- [RokComments](extensions/rokcomments/)
+	- [RokMiniEvents](extensions/rokminievents/)
