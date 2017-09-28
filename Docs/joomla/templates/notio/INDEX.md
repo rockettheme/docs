@@ -30,21 +30,25 @@ Key Features
 * Accordion
 * Article Tabs
 * Authors List
+* Block Content
 * Cards
 * Carousel
 * Content Showcase
 * Content Tabs
+* Date
 * Grid Content
 * Grid Statistic
 * Image Grid
+* Info List
 * Joomla Articles
 * Newsletter
 * News Slider
 * News Tabs
 * Polldaddy Voting
+* Popup Module
 * Pricing Table
+* Simple Content
 * Simple Counter
-* Simple Charts
 * Video
 * Video Carousel
 
