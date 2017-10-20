@@ -37,6 +37,7 @@ more:
 
 * Club Templates
 
+	- [Aurora](templates/aurora)
 	- [Notio](templates/notio)
 	- [Flux](templates/flux)
 	- [Supra](templates/supra)
