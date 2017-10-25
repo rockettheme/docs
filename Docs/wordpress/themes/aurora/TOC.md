@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!aurora:Aurora
+breadcrumb: /wordpress:WordPress/!themes:Themes/!aurora:Aurora
 
-details: http://www.rockettheme.com/joomla/templates/aurora/
-demo: http://demo.rockettheme.com/joomla-templates/aurora/
-download: http://www.rockettheme.com/joomla/templates/aurora/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-aurora/
+details: http://www.rockettheme.com/wordpress/themes/aurora/
+demo: http://demo.rockettheme.com/wordpress-themes/aurora/
+download: http://www.rockettheme.com/wordpress/themes/aurora/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-aurora/
 
 ---
 
@@ -13,15 +13,15 @@ support: http://www.rockettheme.com/forum/joomla-template-aurora/
     - [Introduction]()
     - [Key Features](INDEX.md#key-features)
     - [Requirements](INDEX.md#requirements)
-    - [How to Install](../../platform/templates.md#how-to-install)
-        + [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        + [RocketLauncher (3.x)](../../platform/rocketlauncher_3x.md)
-        + [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
+    - [How to Install](../../start/themes.md#how-to-install)
+        + [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+        + [RocketLauncher](../../start/rocketlauncher.md)
     - [Recreate the Demo](demo.md)
-        + [Extensions](demo.md#recommended-extensions)
+        + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
-        + [Front Page Layout](demo.md#home-page-layout-presets)
-    - Template Particles
+        + [Particle Settings](demo.md#particles)
+        + [Front Page Layout](demo.md#recreating-the-front-page)
+    - Theme Particles
         + [Block Content](particle_block.md)
         + [Carousel](particle_carousel.md)
         + [Case Studies](particle_case.md)
@@ -38,7 +38,7 @@ support: http://www.rockettheme.com/forum/joomla-template-aurora/
         + [Testimonials](particle_testimonials.md)
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
-    - Template Atoms
+    - Theme Atoms
         + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
@@ -54,7 +54,7 @@ support: http://www.rockettheme.com/forum/joomla-template-aurora/
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
     - [CSS Classes](css.md)
     - [FAQ](faq.md)
-    - Template Tutorials
+    - Theme Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
         + [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
         + [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
@@ -67,4 +67,9 @@ support: http://www.rockettheme.com/forum/joomla-template-aurora/
         + [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
         + [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
         + [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
-        + [Template Font Index](../../../technical_tips/general/font_index.md)
+        + [Theme Font Index](../../../technical_tips/general/font_index.md)
+    - Useful Plugin Guides
+        + [RokAjaxSearch](../../plugins/rokajaxsearch/)
+        + [RokBox](../../plugins/rokbox/)
+        + [RokGallery](../../plugins/rokgallery/)
+        + [RokSprocket](../../plugins/roksprocket/)
