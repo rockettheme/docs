@@ -49,6 +49,7 @@ more:
 	- [Kraken](themes/kraken)
 	- [Requiem](themes/requiem)
 	- [Salient](themes/salient)
+	- [Callisto](themes/callisto)
 
 <!-- -->
 
