@@ -34,6 +34,7 @@ support: http://www.rockettheme.com/forum/grav-theme-flux/
         + [Info List](particle_info.md)
         + [Grav Posts](particle_grav.md)
         + [Pricing Table](particle_pricing.md)
+        + [Search](particle_search.md)
         + [Simple Charts](particle_simplecharts.md)
         + [Simple Content](particle_simple.md)
         + [Simple Counter](particle_simplecounter.md)
