@@ -1,7 +1,7 @@
 ---
 title: Flux: Search Particle
 description: Your Guide to Recreating Elements of the Flux Demo for Grav
-breadcrumb: /grav:Grav/!templates:Templates/flux:Flux
+breadcrumb: /grav:Grav/!themes:Themes/flux:Flux
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Notio: Search Particle
 description: Your Guide to Recreating Elements of the Notio Demo for Grav
-breadcrumb: /grav:Grav/!templates:Templates/notio:Notio
+breadcrumb: /grav:Grav/!themes:Themes/notio:Notio
 
 ---
 

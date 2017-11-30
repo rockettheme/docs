@@ -1,7 +1,7 @@
 ---
 title: Kraken: Grid Promo Gallery Particle
-description: Your Guide to Recreating Elements of the Kraken Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/kraken:Kraken
+description: Your Guide to Recreating Elements of the Kraken Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 
 ---
 
