@@ -1,7 +1,7 @@
 ---
 title: Supra: Owl Cards Particle
 description: Your Guide to Recreating Elements of the Supra Demo for Grav
-breadcrumb: /grav:Grav/!templates:Templates/supra:Supra
+breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ---
 

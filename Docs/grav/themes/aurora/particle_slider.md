@@ -1,7 +1,7 @@
 ---
 title: Aurora: Slider Particle
 description: Your Guide to Recreating Elements of the Aurora Demo for Grav
-breadcrumb: /grav:Grav/!templates:Templates/aurora:Aurora
+breadcrumb: /grav:Grav/!themes:Themes/aurora:Aurora
 
 ---
 

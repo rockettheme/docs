@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-notio/
         + [Newsletter](particle_newsletter.md)
         + [Polldaddy Voting](particle_polldaddy.md)
         + [Pricing Table](particle_pricing.md)
+        + [Search](particle_search.md)
         + [Simple Content](particle_simple.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Video](particle_video.md)
