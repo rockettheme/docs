@@ -28,6 +28,7 @@ more:
 
 * Club Themes
 
+	- [Fluent](themes/fluent)
 	- [Aurora](themes/aurora)
 	- [Notio](themes/notio)
 	- [Flux](themes/flux)

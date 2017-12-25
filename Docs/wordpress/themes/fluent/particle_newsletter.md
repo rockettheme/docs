@@ -1,7 +1,7 @@
 ---
 title: Fluent: Newsletter Particle
-description: Your Guide to Recreating Elements of the Fluent Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/fluent:Fluent
+description: Your Guide to Recreating Elements of the Fluent Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/fluent:Fluent
 
 ---
 

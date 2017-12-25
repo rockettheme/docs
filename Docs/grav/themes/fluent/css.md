@@ -1,7 +1,7 @@
 ---
 title: Fluent: CSS Classes
-description: Your Guide to Using the Fluent Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/fluent:Fluent
+description: Your Guide to Using the Fluent Theme for Grav
+breadcrumb: /grav:Grav/!themes:Themes/fluent:Fluent
 
 ---
 
