@@ -55,23 +55,23 @@ These items make up the individual featured items in the particle. Items in this
 | Category Name | Enter a name to display as a category for the item.              |
 | Category Link | Enter a URL you would like the category name to link to.         |
 
-### Articles
+### Posts
 
 ![](assets/particle_newsslider5.jpeg)
 
-| Option             | Description                                                                                                     |
-| :-----             | :-----                                                                                                          |
-| Categories         | Select the categories of articles this particle will display.                                                   |
-| Articles           | Select the number of articles you would like the particle to fetch.                                             |
-| Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of articles to display.                                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                    |
-| Order By           | Choose the type of factor to order by.                                                                          |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                                 |
+| Option             | Description                                                                                  |
+| :-----             | :-----                                                                                       |
+| Categories         | Select the categories of posts this particle will display.                                   |
+| Posts              | Select the number of posts you would like the particle to fetch.                             |
+| Sticky Posts       | Choose how Sticky Posts should be filtered. Choose between **Show** or **Hide**.             |
+| Number of Posts    | Enter the maximum number of posts to display.                                                |
+| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Order By           | Choose the type of factor to order by.                                                       |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_newsslider6.jpeg)
 
