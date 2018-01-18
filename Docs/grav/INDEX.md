@@ -50,6 +50,7 @@ more:
 	- [Kraken](themes/kraken)
 	- [Requiem](themes/requiem)
 	- [Salient](themes/salient)
+	- [Ethereal](themes/ethereal)
 	- [Callisto](themes/callisto)
 
 <!-- -->
