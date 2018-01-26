@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-isotope/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
-        + [Contact Form](../../start/contact.md/contact.md)
+        + [Contact Form](../../start/contact.md)
     - Theme Particles
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)
