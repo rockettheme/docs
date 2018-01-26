@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-galatea/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
-        * [Contact Form](contact.md)
+        * [Contact Form](../../start/contact.md/contact.md)
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
         * [Home Particles](demo.md#home-particles)
