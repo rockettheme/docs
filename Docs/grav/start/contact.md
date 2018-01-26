@@ -17,13 +17,6 @@ We do recommend using a RocketLauncher to start with. We've done a lot of the in
 
 If you are using a RocketLauncher, there is a contact form already set up and ready to go. You just need to edit the email address you'd like to have submissions sent to.
 
-Configuring Email
------
-
-By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Engine** setting to **SMTP** and configuring your preferred email provider.
-
-We have provided detailed guides for numerous major email providers in the **Email** [plugin documentation](https://github.com/getgrav/grav-plugin-email/blob/develop/README.md). However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
-
 Customizing Fields
 -----
 
@@ -79,6 +72,10 @@ Everything you need to concentrate on takes place within the fields area of this
 
 Setting Up Mail
 -----
+
+By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Engine** setting to **SMTP** and configuring your preferred email provider.
+
+We have provided detailed guides for numerous major email providers in the **Email** [plugin documentation](https://github.com/getgrav/grav-plugin-email/blob/develop/README.md). However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
 
 ### Google Email
 
