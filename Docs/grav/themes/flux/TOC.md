@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-flux/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
-        * [Contact Form](contact.md)
+        * [Contact Form](../../start/contact.md/contact.md)
     - Theme Particles
         + [Accordion](particle_accordion.md)
         + [Block Content](particle_block.md)

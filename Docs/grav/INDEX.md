@@ -24,6 +24,9 @@ more:
 	- [How to Install a RocketLauncher](start/rocketlauncher.md)
 	  Learn how to install a RocketTheme RocketLauncher for Grav in our guide.
 
+	- [How to Configure Contact Forms](start/contact.md)
+		Learn how to configure contact forms on RocketTheme Themes for Grav.
+
 <!-- -->
 
 * Club Themes

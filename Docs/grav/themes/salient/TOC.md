@@ -19,7 +19,7 @@ support: http://www.rockettheme.com/forum/grav-theme-salient/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
-        * [Contact Form](contact.md)
+        * [Contact Form](../../start/contact.md/contact.md)
     - Theme Particles
         + [Animated Block](particle_animatedblock.md)
         + [Block Content](particle_block.md)

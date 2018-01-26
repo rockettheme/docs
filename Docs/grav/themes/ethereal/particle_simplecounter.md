@@ -7,7 +7,7 @@ breadcrumb: /grav:Grav/!themes:Themes/ethereal:Ethereal
 
 ## Introduction
 
-![](assets/particle_simplecounter1.png)
+![](assets/particle_simplecounter1.jpeg)
 
 The **Simple Counter** particle gives you the ability to add a simple countdown timer to your website. This is especially useful for coming soon pages, limited-time events, and more.
 
@@ -22,7 +22,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_simplecounter2.png)
+![](assets/particle_simplecounter2.jpeg)
 
 | Option        | Description                                                                                 |
 | :-----        | :-----                                                                                      |
