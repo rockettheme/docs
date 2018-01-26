@@ -19,7 +19,7 @@ support: http://www.rockettheme.com/forum/grav-theme-callisto/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
-        * [Contact Form](../../start/contact.md/contact.md)
+        * [Contact Form](../../start/contact.md)
     * Theme Particles
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
