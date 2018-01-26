@@ -27,7 +27,7 @@ You'll also want to make sure you select a **Mail Engine** as nothing will be se
 Customizing Fields
 -----
 
-!!! This guide is useful for folks using the RocketLauncher. If you want a full from-scratch tutorial on creating a contact form, check out [Grav's documentation](https://learn.getgrav.org/forms/forms/example-form).
+>> This guide is useful for folks using the RocketLauncher. If you want a full from-scratch tutorial on creating a contact form, check out [Grav's documentation](https://learn.getgrav.org/forms/forms/example-form).
 
 If you would like to customize the fields that appear in your form, you can do so by navigating to Admin > Pages > Form > Contact Form and selecting Expert in the administrator. Here, you'll see the YAML breakdown of the contact form. It will look similar to the fields below.
 
@@ -92,7 +92,7 @@ A popular option for sending email is to simply use your Google Accounts SMTP se
 2.  Enable Less secure apps in your [user account settings](https://myaccount.google.com/lesssecureapps).
 3.  If you have 2-factor authentication, you will need to create a unique application password to use rather than your personal password
 
-!!! If you attempt to send a message before turning less secure apps on in your [user account settings](https://myaccount.google.com/lesssecureapps), you will need to manually remove your server from the blocked list in your [security dashboard](https://myaccount.google.com/security).
+>> If you attempt to send a message before turning less secure apps on in your [user account settings](https://myaccount.google.com/lesssecureapps), you will need to manually remove your server from the blocked list in your [security dashboard](https://myaccount.google.com/security).
 
 Then configure the **Email** plugin:
 
@@ -100,7 +100,7 @@ Then configure the **Email** plugin:
 
 The first option is doing this through the tools available in the administrator. Simply navigate to **Plugins > Email** and do the following:
 
-![](/assets/gmail_2.jpg)
+![](assets/gmail_2.jpg)
 
 * Switch the **Mail Engine** setting to **SMTP**.
 * Scroll down to **SMTP Server** and enter `smtp.gmail.com`.
@@ -109,7 +109,7 @@ The first option is doing this through the tools available in the administrator.
 * Enter your login name (typically your email address) in the **SMTP Login Name** field.
 * Enter your Google Mail password in the **SMTP Password** field.
 
-![](/assets/gmail_1.jpg)
+![](assets/gmail_1.jpg)
 
 #### YAML
 
@@ -126,7 +126,7 @@ mailer:
     password: 'YOUR_GOOGLE_PASSWORD'
 ~~~
 
-!!! NOTE: Check your email sending limits: [https://support.google.com/a/answer/166852?hl=en](https://support.google.com/a/answer/166852?hl=en)
+>> NOTE: Check your email sending limits: [https://support.google.com/a/answer/166852?hl=en](https://support.google.com/a/answer/166852?hl=en)>
 
 Troubleshooting
 -----
