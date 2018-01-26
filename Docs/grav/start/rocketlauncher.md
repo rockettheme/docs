@@ -1,7 +1,7 @@
 ---
 title: RocketLauncher for Grav
 description: Your Guide to Installing and Setting Up RocketLauncher for Grav
-breadcrumb: /grav:Grav/start:Start/!rocketlauncher:RocketLauncher
+breadcrumb: /grav:Grav/!start:Start/!rocketlauncher:RocketLauncher
 
 ---
 
