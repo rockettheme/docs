@@ -22,7 +22,7 @@ Configuring Email
 
 By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Engine** setting to **SMTP** and configuring your preferred email provider.
 
-We have provided detailed guides for numerous major email providers in the **Email** plugin documentation. However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
+We have provided detailed guides for numerous major email providers in the **Email** [plugin documentation](https://github.com/getgrav/grav-plugin-email/blob/develop/README.md). However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
 
 Customizing Fields
 -----
