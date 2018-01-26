@@ -20,9 +20,9 @@ If you are using a RocketLauncher, there is a contact form already set up and re
 Configuring Email
 -----
 
-You can do this using the **Email from** and **Email to** fields in the **Email** plugin. Access this plugin's settings by navigating to **Admin > Plugins > Email**.
+By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Engine** setting to **SMTP** and configuring your preferred email provider.
 
-You'll also want to make sure you select a **Mail Engine** as nothing will be sent if this option is set to **Disabled**. If you want your site working right out of the box, **PHP Mail** is a good place to start.
+We have provided detailed guides for numerous major email providers in the **Email** plugin documentation. However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
 
 Customizing Fields
 -----
@@ -79,10 +79,6 @@ Everything you need to concentrate on takes place within the fields area of this
 
 Setting Up Mail
 -----
-
-By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Enging** setting to **SMTP** and configuring your preferred email provider.
-
-We have provided detailed guides for numerous major email providers in the **Email** plugin documentation. However, for simplicity, we'll go over setting up Google's email (gmail) in this plugin.
 
 ### Google Email
 
