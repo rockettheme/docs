@@ -1,7 +1,7 @@
 ---
 title: Callisto: FAQ
 description: Your Guide to Using the Callisto Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/callisto:Callisto
+breadcrumb: /joomla:Joomla/!templates:Templates/callisto:Callisto
 
 ---
 

@@ -57,6 +57,38 @@ We have detailed how to recreate the individual widgets and particles pictured a
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
+### Theme Particles
+
++ [Blog Content](particle_blogcontent.md)
++ [Contact](particle_contact.md)
++ [Content List](particle_contentlist.md)
++ [Ethereal Block](particle_block.md)
++ [WordPress Content](particle_wordpress.md)
++ [Icon Headline](particle_iconheadline.md)
++ [Image Block](particle_imageblock.md)
++ [Image Grid](particle_image.md)
++ [Image Overlay](particle_imageoverlay.md)
++ [Info List](particle_info.md)
++ [Newsletter](particle_newsletter.md)
++ [Number Headline](particle_numberheadline.md)
++ [Promo Image](particle_promoimage.md)
++ [Simple Counter](particle_simplecounter.md)
++ [Slideshow](particle_slideshow.md)
++ [Swiper](particle_swiper.md)
+
+### Core Particles 
+
++ [Logo](http://docs.gantry.org/gantry5/particles/logo)
++ [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
++ [To Top](http://docs.gantry.org/gantry5/particles/to-top)
++ [Social](http://docs.gantry.org/gantry5/particles/social)
++ [Positions](http://docs.gantry.org/gantry5/particles/position)
++ [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
++ [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
++ [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
++ [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
++ [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+
 Recommended Plugins
 -----
 
