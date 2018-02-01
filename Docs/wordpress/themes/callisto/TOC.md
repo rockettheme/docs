@@ -44,7 +44,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-callisto/
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
-        - [Grav Content](particle_grav.md)
+        - [WordPress Content](particle_wordpress.md)
         - [Headlines](particle_headlines.md)
         - [Icon Menu](particle_iconmenu.md)
         - [Image Grid](particle_image.md)
