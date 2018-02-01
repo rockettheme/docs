@@ -320,7 +320,7 @@ We utilized the **Simple** Content Provider, linking each item in the RokSprocke
 <div>
     <span>Gantry 5 utilizes Twig - a <span class="hidden-tablet">flexible,
     fast, and secure</span> template engine for PHP <span class=
-    "visible-large">- to make creating powerful, dynamic themes quick and
+    "visible-large">- to make creating powerful, dynamic templates quick and
     easy</span>.</span>
 </div>
 ~~~

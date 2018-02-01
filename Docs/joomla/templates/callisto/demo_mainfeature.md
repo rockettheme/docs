@@ -48,7 +48,7 @@ Settings used in the demo for the particle used in this section can be found bel
 | Content List Item 1 Link  | `#`                                                                                                  |
 | Content List Item 2 Title | `List Item 2`                                                                                        |
 | Content List Item 2 Icon  | `fa fa-file-text-o fa-fw`                                                                            |
-| Content List Item 2 Text  | `Multiple layouts and themes for diverse content possibilities`                                      |
+| Content List Item 2 Text  | `Multiple layouts and templates for diverse content possibilities`                                      |
 | Content List Item 2 Link  | `#`                                                                                                  |
 | Content List Item 3 Title | `List Item 3`                                                                                        |
 | Content List Item 3 Icon  | `fa fa-file-text-o fa-fw`                                                                            |
@@ -69,7 +69,7 @@ Settings used in the demo for the particle used in this section can be found bel
 
 **Description**
 ~~~ .html
-RokSprocket is a powerful, content switchblade extension, that brings a vast portfolio of different layouts and themes into a single extension and UI.
+RokSprocket is a powerful, content switchblade extension, that brings a vast portfolio of different layouts and templates into a single extension and UI.
 ~~~
 
 ### Block Settings
