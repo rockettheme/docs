@@ -15,6 +15,8 @@ While K2 might not completely replace Joomla's integrated article system for eve
 
 Below, we will detail exactly how we set up each of our Gantry-powered template demos using K2.
 
+>> NOTE: This guide only applied to templates created on the Gantry 4 framework.
+
 ### Installing K2
 K2 is installed the same way any other Joomla extension would be installed. We recommend downloading it directly from the [official K2 site][k2] so you have the most updated copy.
 
