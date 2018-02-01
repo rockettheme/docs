@@ -57,31 +57,34 @@ We have detailed how to recreate the individual widgets and particles pictured a
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
-* Theme Particles
-    - [Contact](particle_contact.md)
-    - [Content List](particle_contentlist.md)
-    - [Content Tabs](particle_contenttabs.md)
-    - [Features Slider](particle_featuresslider.md)
-    - [WordPress Content](particle_wordpress.md)
-    - [Headlines](particle_headlines.md)
-    - [Icon Menu](particle_iconmenu.md)
-    - [Image Grid](particle_image.md)
-    - [Info List](particle_info.md)
-    - [Lists](particle_lists.md)
-    - [Newsletter](particle_newsletter.md)
-    - [Promo Image](particle_promoimage.md)
-* Core Particles 
-    - [Logo](http://docs.gantry.org/gantry5/particles/logo)
-    - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-    - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-    - [Social](http://docs.gantry.org/gantry5/particles/social)
-    - [Positions](http://docs.gantry.org/gantry5/particles/position)
-    - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-    - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-    - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-    - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
-    * [Front Page Layout](layout.md)
+### Theme Particles
+
+* [Contact](particle_contact.md)
+* [Content List](particle_contentlist.md)
+* [Content Tabs](particle_contenttabs.md)
+* [Features Slider](particle_featuresslider.md)
+* [WordPress Content](particle_wordpress.md)
+* [Headlines](particle_headlines.md)
+* [Icon Menu](particle_iconmenu.md)
+* [Image Grid](particle_image.md)
+* [Info List](particle_info.md)
+* [Lists](particle_lists.md)
+* [Newsletter](particle_newsletter.md)
+* [Promo Image](particle_promoimage.md)
+
+### Core Particles 
+
+- [Logo](http://docs.gantry.org/gantry5/particles/logo)
+- [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+- [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+- [Social](http://docs.gantry.org/gantry5/particles/social)
+- [Positions](http://docs.gantry.org/gantry5/particles/position)
+- [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+- [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+- [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+- [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+- [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+* [Front Page Layout](layout.md)
 
 Recommended Plugins
 -----
