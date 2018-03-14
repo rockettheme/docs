@@ -27,6 +27,9 @@ more:
 	- [WordPress Plugins](start/plugins.md)
 	  Discover how RocketTheme WordPress plugins help you to create a powerful site.
 
+  - [Gantry 5 Particle Theme Matrix](start/assets/particles_list.pdf)
+	  List of particles that appear in Gantry 5 themes.
+
 <!-- -->
 
 * Basic Tutorials

@@ -21,6 +21,9 @@ more:
 	- [How to Install Joomla 3.x](platform/install_joomla_3x.md)
 	  Step-by-step through the installation procedure for Joomla 3.x.
 
+  - [Gantry 5 Particle Theme Matrix](platform/assets/particles_list.pdf)
+	  List of particles that appear in Gantry 5 templates.
+
 <!-- -->
 
 * About Joomla

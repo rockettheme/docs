@@ -27,6 +27,9 @@ more:
 	- [How to Configure Contact Forms](start/contact.md)
 		Learn how to configure contact forms on RocketTheme Themes for Grav.
 
+	- [Gantry 5 Particle Theme Matrix](start/assets/particles_list.pdf)
+	  List of particles that appear in Gantry 5 themes.
+
 <!-- -->
 
 * Club Themes
