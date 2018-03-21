@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Denali](templates/denali)
 	- [Fluent](templates/fluent)
 	- [Aurora](templates/aurora)
 	- [Notio](templates/notio)
