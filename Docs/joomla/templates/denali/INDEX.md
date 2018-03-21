@@ -89,18 +89,18 @@ Key Features
 
 ## Typography
 
-![Typography](ft-2.jpg)
+![Typography](assets/ft-2.jpg)
 
 Typography is an important instrument in not only the site design, but how your content is portrayed and utilized by your visitors. Therefore, Denali offers a rich selection of elegant typography to provide focus to varying content types.
 
 ## Responsive
 
-![Responsive](ft-3.jpg)
+![Responsive](assets/ft-3.jpg)
 
 Denali is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
 
 ## Inheritance
 
-![Inheritance](ft-4.jpg)
+![Inheritance](assets/ft-4.jpg)
 
 Denali takes full advantage of Gantry’s new inheritance system, making it easier than ever to configure and manage your website through synced particles, atoms, sections, and layouts. Save time by using inheritance to avoid repetitive changes!
