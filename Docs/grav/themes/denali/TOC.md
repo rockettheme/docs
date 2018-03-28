@@ -1,25 +1,25 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!themes:Themes/!denali:Denali
-details: http://www.rockettheme.com/wordpress/themes/denali/
-demo: http://demo.rockettheme.com/wordpress-themes/denali/
-download: http://www.rockettheme.com/wordpress/themes/denali/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-theme-denali/
+breadcrumb: /grav:Grav/!themes:Themes/!denali:Denali
+
+details: http://www.rockettheme.com/grav/themes/denali/
+demo: http://demo.rockettheme.com/grav-themes/denali/
+download: http://www.rockettheme.com/grav/themes/denali/modal/downloads
+support: http://www.rockettheme.com/forum/grav-theme-denali/
 
 ---
 
 * Denali
-    - [Introduction]()
-    - [Key Features](INDEX.md#key-features)
-    - [Requirements](INDEX.md#requirements)
-    - [How to Install](../../start/themes.md#how-to-install)
-        + [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        + [RocketLauncher](../../start/rocketlauncher.md)
-    - [Recreate the Demo](demo.md)
-        + [Plugins](demo.md#recommended-plugins)
-        + [Style Settings](demo_settings.md)
-        + [Particle Settings](demo.md#particles)
-        + [Front Page Layout](demo.md#recreating-the-front-page)
+    * [Introduction]()
+    * [Key Features](INDEX.md#key-features)
+    * [Requirements](INDEX.md#requirements)
+    * How to Install
+        * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+        * [Installing the RocketLauncher](../../start/rocketlauncher.md)
+    * [Recreate the Demo](demo.md)
+        * [Style Settings](demo_settings.md)
+        * [Particle Settings](demo.md#widget-and-particle-settings)
+        * [Contact Form](../../start/contact.md)
     - Theme Particles
         * [Block Content](particle_block.md)
         * [Carousel](particle_carousel.md)
@@ -27,9 +27,9 @@ support: http://www.rockettheme.com/forum/wordpress-theme-denali/
         * [Event List](particle_event.md)
         * [Grid Statistics](particle_grid.md)
         * [Image Grid](particle_image.md)
-        * [Info List](particle_info.md)
+        * [Info List](particle_info.md)E
         * [Pricing Table](particle_pricing.md)
-        * [WordPress Posts](particle_wordpress.md)
+        * [Grav Pages](particle_grav.md)
         * [Newsletter](particle_newsletter.md)
         * [Search](particle_search.md)
         * [Showcase Slider](particle_showcase.md)
@@ -70,7 +70,4 @@ support: http://www.rockettheme.com/forum/wordpress-theme-denali/
         + [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
         + [Theme Font Index](../../../technical_tips/general/font_index.md)
     - Useful Plugin Guides
-        + [RokAjaxSearch](../../plugins/rokajaxsearch/)
-        + [RokBox](../../plugins/rokbox/)
-        + [RokGallery](../../plugins/rokgallery/)
-        + [RokSprocket](../../plugins/roksprocket/)
+        + [Admin](https://learn.getgrav.org/admin-panel)
