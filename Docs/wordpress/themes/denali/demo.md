@@ -32,7 +32,7 @@ Here is a list of particles that are available in Denali, as well as links to do
     + [Image Grid](particle_image.md)
     + [Info List](particle_info.md)
     + [Pricing Table](particle_pricing.md)
-    + [Joomla Articles](particle_joomla.md)
+    + [WordPress Posts](particle_wordpress.md)
     + [Newsletter](particle_newsletter.md)
     + [Search](particle_search.md)
     + [Showcase Slider](particle_showcase.md)

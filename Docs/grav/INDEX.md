@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Denali](themes/denali)
 	- [Fluent](themes/fluent)
 	- [Aurora](themes/aurora)
 	- [Notio](themes/notio)
