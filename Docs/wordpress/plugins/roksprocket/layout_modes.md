@@ -51,7 +51,7 @@ In this directory, you will find folders with the names of overridden **Layout M
 
 ##### How to Create New Overrides
 
-If you want to create overrides of your own, simply copy the theme's folder found by going to **/site/wp-content/wp_roksprocket/layouts/(mode name)/(theme name)** and paste it to **/site/wp-content/themes/(theme folder)/roksprocket/(mode name)/**. From here, you can edit its contents to meet your new theme's unique needs. 
+If you want to create overrides of your own, simply copy the theme's folder found by going to **/site/wp-content/wp_roksprocket/layouts/(layout name)/themes/(theme name)** and paste it into **/site/wp-content/themes/(theme folder)/roksprocket/(layout name)/themes/**. From here, you can edit its contents to meet your new theme's unique needs. 
 
 Content Providers
 -----
