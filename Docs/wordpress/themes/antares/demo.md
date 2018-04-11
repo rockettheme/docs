@@ -16,7 +16,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Widget and Particle Settings
+Particle Settings
 -----
 
 Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
@@ -48,26 +48,39 @@ Below, you will find the widget placement and settings for the various widget po
     23. **Copyright** Horizontal Menu (Particle) [97%, 70%, se]
     23. **Copyright** To Top (Particle) [99%, 40%, se]
 
-We have detailed how to recreate the individual modules and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
-
-1. [Navigation](demo_navigation.md)
-2. [Slideshow](demo_slideshow.md)
-3. [Above](demo_above.md)
-4. [Header](demo_header.md)
-4. [Showcase](demo_showcase.md)
-5. [Utility](demo_utility.md)
-6. [Feature](demo_feature.md)
-7. [Expanded](demo_expanded.md)
-8. [Extension](demo_extension.md)
-9. [Bottom](demo_bottom.md)
-10. [Footer](demo_footer.md)
-11. [Copyright](demo_copyright.md)
-
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
-![FixedSide](fixedside.png)
+### Theme Particles
 
-There is also an **FixedSide** position which contains the **FixedSide Social Icons** particle. You can find a breakdown of this position [here](demo_fixedside.md).
+* [FlexSlider](particle_flexslider.md)
+* [Promo Content](particle_promocontent.md)
+* [Block Content](particle_block.md)
+* [Grid Promo Gallery](particle_gridpromogallery.md)
+* [Content Tabs](particle_tabs.md)
+* [Animated Block](particle_animatedblock.md)
+* [Info List](particle_info.md)
+* [Newsletter](particle_newsletter.md)
+* [Image Grid](particle_image.md)
+* [Contact](particle_contact.md)
+* [Pricing Table](particle_pricing.md)
+* [Content List](particle_contentlist.md)
+* [Grid Content](particle_gridcontent.md)
+* [Promo Image](particle_promoimage.md)
+* [Simple Counter](particle_simplecounter.md)
+
+### Core Particles 
+
+* [Logo](http://docs.gantry.org/gantry5/particles/logo)
+* [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+* [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+* [Social](http://docs.gantry.org/gantry5/particles/social)
+* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+* [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+* [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+* [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+* [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Plugins
 -----
