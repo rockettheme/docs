@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!start:Start
     * [What is WordPress?](INDEX.md)
     	* [Features](INDEX.md#features)
     * [How to Install a Theme](themes.md)
-    	* [Theme Files](themes.md#theme-files)
+    	* [Theme Files](themes.md#downloading-the-theme-files)
     	* [RocketLauncher](themes.md#rocketlauncher)
     * [Plugins Guide](plugins.md)
     	* [How to Install a Plugin](plugins.md#how-to-install-a-plugin)
