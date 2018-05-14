@@ -1,7 +1,7 @@
 ---
-title: Gemini: Grav Content Particle
-description: Your Guide to Recreating Elements of the Gemini Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
+title: Topaz: Grav Content Particle
+description: Your Guide to Recreating Elements of the Topaz Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/topaz:Topaz
 
 ---
 
