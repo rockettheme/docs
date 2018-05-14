@@ -18,7 +18,7 @@ Requirements
 * PHP 5.5.9 or higher
 * Grav 1.1.9+
 
->> NOTE: Gantry v5.4.1+ is required for Gemini to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.1+ is required for Galatea to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

@@ -1,7 +1,7 @@
 ---
-title: Gemini: Newsletter Particle
-description: Your Guide to Recreating Elements of the Gemini Demo for Grav
-breadcrumb: /grav:Grav/!themes:Templates/gemini:Gemini
+title: Photon: Newsletter Particle
+description: Your Guide to Recreating Elements of the Photon Demo for Grav
+breadcrumb: /grav:Grav/!themes:Templates/photon:Photon
 
 ---
 
