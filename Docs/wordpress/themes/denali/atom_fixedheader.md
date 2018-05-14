@@ -2,8 +2,6 @@
 title: Denali: Fixed Header Atom
 description: Your Guide to Using the Denali Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/
-denali:
-Denali
 
 ---
 
