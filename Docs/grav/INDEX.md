@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Myriad](themes/myriad)
 	- [Denali](themes/denali)
 	- [Fluent](themes/fluent)
 	- [Aurora](themes/aurora)
