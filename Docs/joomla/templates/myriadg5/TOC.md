@@ -1,32 +1,32 @@
 ---
 
-breadcrumb: /grav:Grav/!themes:Themes/!myriad:Myriad
+breadcrumb: /joomla:Joomla/!templates:Templates/!myriad:Myriad
 
-details: http://www.rockettheme.com/grav/themes/myriad/
-demo: http://demo.rockettheme.com/grav-themes/myriad/
-download: http://www.rockettheme.com/grav/themes/myriad/modal/downloads
-support: http://www.rockettheme.com/forum/grav-theme-myriad/
+details: http://www.rockettemplate.com/joomla/templates/myriad/
+demo: http://demo.rockettemplate.com/joomla-templates/myriad/
+download: http://www.rockettemplate.com/joomla/templates/myriad/modal/downloads
+support: http://www.rockettemplate.com/forum/joomla-template-myriad/
 
 ---
 
-* Myriad
+* Myriad (Gantry 5 Edition)
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
-    * [How to Install](../../start/themes.md#how-to-install)
-        * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+    * [How to Install](../../start/templates.md#how-to-install)
+        * [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-template)
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-    * Theme Particles
+    * Template Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
-        - [Grav Content](particle_grav.md)
+        - [Joomla Articles](particle_joomla.md)
         - [Headlines](particle_headlines.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle_info.md)
@@ -49,7 +49,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
         - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
     * [FAQ](faq.md)
-* Theme Tutorials
+* Template Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
     - [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
@@ -59,7 +59,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
     - [Using the Icon Picker](http://docs.gantry.org/gantry5/tutorials/using-the-icon-picker)
     - [Creating a New Particle](http://docs.gantry.org/gantry5/advanced/creating-a-new-particle)
     - [Particle YAML Field Types](http://docs.gantry.org/gantry5/advanced/particle-yaml-field-types)
-    - [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
+    - [Customizing Template Files](http://docs.gantry.org/gantry5/advanced/customizing-template-files)
     - [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
-    - [Theme Font Index](../../../technical_tips/general/font_index.md)
+    - [Template Font Index](../../../technical_tips/general/font_index.md)

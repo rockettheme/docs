@@ -1,6 +1,6 @@
 ---
-title: Myriad
-description: Your Guide to Using the Myriad Template for Joomla
+title: Myriad (Gantry 4)
+description: Your Guide to Using the Myriad (Gantry 4) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!myriad:Myriad
 
 ---
@@ -11,6 +11,8 @@ Introduction
 Myriad is a clean, modern and minimalistic theme showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
 
 ![][template]
+
+>> This documentation is for the Gantry 4 version of the Myriad template. Myriad for Gantry 5 can be found [here](../myriadg5).
 
 Requirements
 -----

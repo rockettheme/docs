@@ -1,7 +1,7 @@
 ---
 title: Myriad: Headlines Particle
-description: Your Guide to Using Particles in Myriad for Grav
-breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
+description: Your Guide to Using Particles in Myriad (Gantry 5 Edition) for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
 
