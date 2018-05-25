@@ -1,6 +1,6 @@
 ---
 title: Myriad: FAQ
-description: Your Guide to Using the Myriad Template for Joomla
+description: Your Guide to Using the Myriad (Gantry 4) Template for Joomla
 breadcrumb: /joomla:Joomla/!themes:Themes/myriad:Myriad
 
 ---
