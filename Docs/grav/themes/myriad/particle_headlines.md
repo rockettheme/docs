@@ -7,7 +7,7 @@ breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
 
 ## Introduction
 
-The **Headlines** 
+The **Headlines** particle displays headlines in a cool way.
 
 Here are the topics covered in this guide:
 
