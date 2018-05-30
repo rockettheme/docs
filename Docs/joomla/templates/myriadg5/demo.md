@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Myriad, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Templates > Myriad - Home > Layout. Any additional particles that are found in the Subpages of our Myriad RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
+>> All Home Particles can be edited via Templates > Myriad - Home - Particles > Layout. Any additional particles that are found in the Subpages of our Myriad RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
 * Template Particles
     - [Case Studies](particle_case.md)
@@ -62,7 +62,7 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-If you did not choose to 'Install Sample Data' upon installing the Myriad theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+If you did not choose to 'Install Sample Data' upon installing the Myriad theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access this preset by selecting **Load** in the **Layout Manager**.
 
