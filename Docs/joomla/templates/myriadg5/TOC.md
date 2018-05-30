@@ -19,7 +19,6 @@ support: http://www.rockettemplate.com/forum/joomla-template-myriad/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
-        * [Contact Form](../../start/contact.md)
     * Template Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
