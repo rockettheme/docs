@@ -40,7 +40,7 @@ more:
 
 * Club Templates
 
-	- [Myriad (Gantry 5)](templates/myriadg5)
+	- [Myriad (Gantry 5)](templates/myriad)
 	- [Denali](templates/denali)
 	- [Fluent](templates/fluent)
 	- [Aurora](templates/aurora)
@@ -71,7 +71,7 @@ more:
 	- [Audacity](templates/audacity)
 	- [Sirocco](templates/sirocco)
 	- [Iridescent](templates/iridescent)
-	- [Myriad (Gantry 4)](templates/myriad)
+	- [Myriad (Gantry 4)](templates/myriad-g4)
 	- [Ricochet](templates/ricochet)
 	- [Chimera](templates/chimera)
 	- [Nuance](templates/nuance)
