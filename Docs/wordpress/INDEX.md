@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Myriad (Gantry 5)](themes/myriad)
 	- [Denali](themes/denali)
 	- [Fluent](themes/fluent)
 	- [Aurora](themes/aurora)
@@ -98,7 +99,7 @@ more:
 	- [Audacity](themes/audacity)
 	- [Sirocco](themes/sirocco)
 	- [Iridescent](themes/iridescent)
-	- [Myriad](themes/myriad)
+	- [Myriad (Gantry 4)](themes/myriad-g4)
 	- [Ricochet](themes/ricochet)
 	- [Chimera](themes/chimera)
 	- [Nuance](themes/nuance)
