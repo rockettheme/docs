@@ -1,5 +1,5 @@
 ---
-title: Myriad
+title: Myriad (Gantry 5 Edition)
 description: Your Guide to Using the Myriad Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!myriad:Myriad
 
@@ -8,56 +8,100 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!myriad:Myriad
 Introduction
 -----
 
-![Myriad](assets/myriad.jpeg)
+![](assets/myriad.jpeg)
 
 Myriad centers around photography, providing an elegantly designed, visual space for the display of full width gallery items and slideshows. The structure allows for the promotion of images, whilst maintaining a refined style for more conservative appearances.
 
 Requirements
 -----
+* PHP 5.5.9+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
 
-* Apache 2.x or Microsoft IIS 7
-* PHP 5.4+
-* MySQL 5.0.4 or higher
-* WordPress 3.2+, 4.0+
-* Gantry Framework
-
->> NOTE: Gantry v4.1.2+ is required for Myriad to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
+>> NOTE: Gantry v5.4.19+ is required for Myriad to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
+
+### Included Particles
+
+* Branding
+* Case Studies
+* Contact
+* Contact Form
+* Content List
+* Copyright
+* Custom HTML
+* Features Slider
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Lists
+* Login Form
+* Logo
+* Menu
+* Mobile Menu
+* Newsletter
+* Promo Image
+* Search
+* Simple Counter
+* Social
+* Strips Slider
+* Tab Image
+* Testimonials
+* To Top
+* WordPress Posts 
+
+### Theme Features
+
 * Responsive Layout
 * 6 Preset Styles
-* Content Animations
-* 90 Widget Positions
-* 1200 Fixed Option
-* 8 Styled Widget Variations
-* Structural Widget Variations
-* 960 Fixed Option
-* Dropdown-Menu and Split-Menu
+* Block Variations
 * Custom Typography
-* Custom Logo Option
+* Unlimited Positions
+* Popup Module
+* Custom Particles
+* Social Icons
 * Mobile Menu
-* Social Buttons Option
-* Chart.js
 * Coming Soon Page
+* Font Awesome Icons
+* Chart.js 
 
-### Responsive Layout
+### Gantry Core Features
 
-A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Inheritance System
+* Fluid Width Option
+* Fixed Width Option
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-| Label                  | Description                                | Layout Width     | Column Width |
-| :----------            | :----------                                | :----------      | :----------  |
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |
+## Content Animations
 
-### Animation
+![Layout Manager](ft-2.jpg)
 
-The animated elements that trigger as you scroll down the page are handled via classes applied to widgets. These classes are either included in the **Custom Variations** field or in-line in the content.
+The theme makes uses of animated effects to add depth and character to content, without compromising on usability and professionalism. A series of bounce and slide effects are built into Myriad, as triggered by scroll events, with an option to disable them.
 
-You can find a visual example as well as the class names of classes that are supported by Myriad [on the Animate.css project site](http://daneden.github.io/animate.css/).
+## Color Chooser
 
-The element that triggers this animation during scrolling is explained in greater detail in the [WOW.js Documentation](http://mynameismatthieu.com/WOW/docs.html).
+![Style Settings](ft-3.jpg)
+
+Myriad has an extensive Color Chooser in the theme manager to provide intricate controls for each section, inclusive of overlay type, text color, background color, as well as accent colors. Edit preexisting or create new presets.
+
+## Responsive
+
+![Responsive](ft-4.jpg)
+
+Myriad is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
