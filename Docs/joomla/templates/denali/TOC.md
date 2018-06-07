@@ -40,8 +40,6 @@ support: http://www.rockettheme.com/forum/joomla-template-denali/
         * [Slider](particle_slider.md)
         * [Social](particle_social.md)
         * [Video](particle_video.md)
-    - Template Atoms
-        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
