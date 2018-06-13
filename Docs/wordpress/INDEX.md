@@ -99,7 +99,7 @@ more:
 	- [Audacity](themes/audacity)
 	- [Sirocco](themes/sirocco)
 	- [Iridescent](themes/iridescent)
-	- [Myriad (Gantry 4)](themes/g4myriad)
+	- [Myriad (Gantry 4)](themes/myriad-g4)
 	- [Ricochet](themes/ricochet)
 	- [Chimera](themes/chimera)
 	- [Nuance](themes/nuance)
