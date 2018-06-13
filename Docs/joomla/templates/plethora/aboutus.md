@@ -135,6 +135,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-row">
+<div class="gantry-width-container">
     <div class="gantry-width-50">
         <div class="gantry-width-spacer">
             <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-01.jpg" alt="image" /></span>
@@ -150,6 +151,7 @@ Below is a brief rundown of the modules used to make up the demo page.
             </div>
         </div>
     </div>
+</div>
 </div>
 <div class="clear"></div>
 ~~~
@@ -185,6 +187,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 ~~~ .html
 <div class="gantry-row">
+<div class="gantry-width-container">
     <div class="gantry-width-33">
         <div class="gantry-width-spacer">
             <span class="rt-image"><img src="images/rocketlauncher/pages/about-us/img-02.jpg" alt="image" /></span>
@@ -206,6 +209,7 @@ Below is a brief rundown of the modules used to make up the demo page.
             <p>Engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric outside the box thinking.</p>
         </div>
     </div>
+</div>
 </div>
 <div class="clear"></div>
 ~~~

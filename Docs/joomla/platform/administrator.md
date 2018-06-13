@@ -22,7 +22,7 @@ Joomla version 2.5 (above) and 3.x (below) have very different default user inte
 
 Along the top of the administrator area of the site is the Admin Menu. This menu, along with **Quick Icons** on your main **Control Panel**, makes it easy to get from one area of the administrative site to another.
 
-This menu is split into seven main categories. Each category plays host to several different submenus, with each submenu having potentially several pages within. Below, we will take a look at the Admin Menu and how it can Hyou get more done while you are in the backend of your site.
+This menu is split into seven main categories. Each category plays host to several different submenus, with each submenu having potentially several pages within. Below, we will take a look at the Admin Menu and how it can help get more done while you are in the backend of your site.
 
 Admin Menu
 -----
