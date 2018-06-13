@@ -71,7 +71,7 @@ more:
 	- [Audacity](templates/audacity)
 	- [Sirocco](templates/sirocco)
 	- [Iridescent](templates/iridescent)
-	- [Myriad (Gantry 4)](templates/g4myriad)
+	- [Myriad (Gantry 4)](templates/myriad-g4)
 	- [Ricochet](templates/ricochet)
 	- [Chimera](templates/chimera)
 	- [Nuance](templates/nuance)
