@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Calla](templates/calla)
 	- [Myriad (Gantry 5)](templates/myriad)
 	- [Denali](templates/denali)
 	- [Fluent](templates/fluent)
