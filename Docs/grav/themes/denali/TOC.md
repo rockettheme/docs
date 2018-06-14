@@ -27,7 +27,7 @@ support: http://www.rockettheme.com/forum/grav-theme-denali/
         * [Event List](particle_event.md)
         * [Grid Statistics](particle_grid.md)
         * [Image Grid](particle_image.md)
-        * [Info List](particle_info.md)E
+        * [Info List](particle_info.md)
         * [Pricing Table](particle_pricing.md)
         * [Grav Pages](particle_grav.md)
         * [Newsletter](particle_newsletter.md)
