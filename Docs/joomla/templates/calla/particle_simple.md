@@ -7,6 +7,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
 
 ## Introduction
 
+![](assets/particle_simple1.jpeg)
+
 The **Simple Content** particle enables you quickly and easily add one or more simple blocks of content to your page. The image above shows four Simple Content particles. One sitting in a row above the other three.
 
 Here are the topics covered in this guide:
