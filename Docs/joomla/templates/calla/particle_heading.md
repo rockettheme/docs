@@ -7,6 +7,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
 
 ## Introduction
 
+![](assets/particle_heading1.jpeg)
+
 The **Heading** particle creates fun, design-forward headings for your website's sections.
 
 Here are the topics covered in this guide:
@@ -18,7 +20,7 @@ Here are the topics covered in this guide:
 
 ### Main Options 
 
-![](assets/particle_grid2.jpeg)
+![](assets/particle_heading2.jpeg)
 
 | Option        | Description                                                                                 |
 | :-----        | :-----                                                                                      |
