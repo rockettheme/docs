@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
 
 ## Introduction
 
-![](assets/particle_info1.jpeg)
+![](assets/particle_info1.png)
 
 The **Info List** particle is an excellent choice for any situation where you want to create a content block that lists features and other tidbits of information.
 
