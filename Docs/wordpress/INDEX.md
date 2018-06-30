@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Calla](themes/calla)
 	- [Myriad (Gantry 5)](themes/myriad)
 	- [Denali](themes/denali)
 	- [Fluent](themes/fluent)
