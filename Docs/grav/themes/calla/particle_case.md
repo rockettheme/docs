@@ -1,7 +1,7 @@
 ---
 title: Calla: Case Studies Particle
-description: Your Guide to Recreating Elements of the Calla Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/calla:Calla
+description: Your Guide to Recreating Elements of the Calla Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/calla:Calla
 
 ---
 
@@ -16,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Posts](#posts)
+    - [Pages](#pages)
     - [Display](#display)
 
 ## Configuration
@@ -30,7 +30,7 @@ These options affect the main area of the particle, and not the individual items
 | Option            | Description                                                                                             |
 | :-----            | :-----                                                                                                  |
 | Particle Name     | This is the name of the particle used for back end management. It does not appear on the front end.     |
-| Content Source    | Choose between **Particle** and **WordPress** as the Content Source.                                    |
+| Content Source    | Choose between **Particle** and **Grav** as the Content Source.                                    |
 | Demo Mode         | **Enables** or **Disables** Demo Mode. If enabled the preset number will be synced with the set number. |
 | CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                                         |
 | Title             | Enter a title for the particle. This will appear on the front end.                                      |
@@ -58,16 +58,14 @@ These items make up the individual featured items in the particle. Items in this
 | Description | Enter a text description to appear with the item.                     |
 | URL         | Enter a URL for the item to link to.                                  |
 
-### Posts
+### Pages
 
 ![](assets/particle_casestudies6.jpeg)
 
 | Option             | Description                                                                            |
 | :-----             | :-----                                                                                 |
-| Categories         | Select the categories of posts this particle will display.                             |
-| Posts              | Select the number of posts you would like the particle to fetch.                       |
-| Sticky Posts       | Choose how Sticky Posts should be displayed. Choose between **Hide** or **Show**.      |
-| Number of Posts    | Enter the maximum number of posts to display.                                          |
+| Categories         | Select the categories of pages this particle will display.                             |
+| Number of Pages    | Select the number of pages you would like the particle to fetch.                       |
 | Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                 |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.           |
@@ -86,6 +84,8 @@ This section configures how posts are displayed.
 | Content Formatting | Choose between **HTML** and **Plain Text** formatting for the post's text.                         |
 | Title              | **Show** or **Hide** the post's title.                                                             |
 | Title Limit        | Enter the maximum number of characters in the title to display.                                    |
+| Date               | Choose to show the **Created**, **Published**, **Modified**, or to **Hide** the date.              |
+| Date Format        | Select the format you wish to have the date displayed in.                                          |
 | Read More          | **Show** or **Hide** the Read More link.                                                           |
 | Read More Label    | Enter a text label to appear as the read more link                                                 |
 | Target             | Set a target window for the read more link.                                                        |
