@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Calla](themes/calla)
 	- [Myriad](themes/myriad)
 	- [Denali](themes/denali)
 	- [Fluent](themes/fluent)

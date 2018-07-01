@@ -1,7 +1,7 @@
 ---
-title: Denali: WordPress Posts Particle
-description: Your Guide to Recreating Elements of the Denali Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/denali:Denali
+title: Calla: WordPress Posts Particle
+description: Your Guide to Recreating Elements of the Calla Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/calla:Calla
 
 ---
 
