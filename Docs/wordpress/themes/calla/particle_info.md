@@ -1,7 +1,7 @@
 ---
 title: Calla: Info List Particle
-description: Your Guide to Recreating Elements of the Calla Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
+description: Your Guide to Recreating Elements of the Calla Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/calla:Calla
 
 ---
 

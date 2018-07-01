@@ -1,13 +1,11 @@
 ---
 title: Calla: Newsletter Particle
-description: Your Guide to Recreating Elements of the Calla Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
+description: Your Guide to Recreating Elements of the Calla Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/calla:Calla
 
 ---
 
 ## Introduction
-
-![](assets/particle_newsletter1.jpeg)
 
 The **Newsletter** particle enables users to sign up for your newsletter. This particle is powered by [MailChimp](http://mailchimp.com/).
 
