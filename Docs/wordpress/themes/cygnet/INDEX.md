@@ -21,7 +21,7 @@ Requirements
 * WordPress 3.2+, 4.0+
 * Gantry Framework
 
->> NOTE: Gantry v4.1.2+ is required for Cygnet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
+>> NOTE: Gantry v4.1.15 is required for Cygnet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
 
 Key Features
 -----

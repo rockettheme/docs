@@ -23,7 +23,7 @@ Requirements
 * WordPress 3.2+, 4.0+
 * Gantry Framework
 
->> NOTE: Gantry v4.0.8+ is required for Stratos to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v4.1.15 is required for Stratos to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
 
 Key Features
 -----
