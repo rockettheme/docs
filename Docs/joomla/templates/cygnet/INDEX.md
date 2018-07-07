@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 3.4+
 
->> NOTE: Gantry v4.1.27+ is required for Cygnet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v4.1.35 is required for Cygnet to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
