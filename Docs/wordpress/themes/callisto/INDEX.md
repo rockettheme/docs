@@ -33,7 +33,6 @@ Key Features
 * Custom Particles
 * Dropdown Menu
 * Icon Menu
-* RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page

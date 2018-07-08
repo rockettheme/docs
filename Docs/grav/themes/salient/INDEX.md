@@ -31,7 +31,6 @@ Key Features
 * Unlimited Positions
 * Custom Particles
 * Dropdown Menu
-* RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page
