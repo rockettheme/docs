@@ -10,11 +10,6 @@ Is Callisto compatible for Joomla 1.5 or 2.5?
 
 No, Callisto is only compatible with Joomla 3.4+.
 
-What is RokSprocket?
------
-
-[RokSprocket][roksprocket] is a powerful content display extension for Joomla 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays articles.
-
 What is Gantry?
 -----
 
@@ -32,4 +27,3 @@ To avoid image license copyright issues, all sample content images shown in our 
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/joomla-template-callisto
-[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

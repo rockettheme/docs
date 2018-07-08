@@ -19,7 +19,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 3.4
 
->> NOTE: Gantry v4.1.24+ is required for Tessellate to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
+>> NOTE: Gantry v4.1.35 is required for Tessellate to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
 
 Key Features
 -----

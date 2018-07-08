@@ -86,4 +86,3 @@ support: http://www.rockettheme.com/forum/joomla-template-callisto/
     - [RokBox](../../extensions/rokbox/)
     - [RokGallery](../../extensions/rokgallery/)
     - [RokPad](../../extensions/rokpad/)
-    - [RokSprocket](../../extensions/roksprocket/)

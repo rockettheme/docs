@@ -21,42 +21,6 @@ Widget and Particle Settings
 
 Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/callisto2.jpeg)
-
-:   1. **Header - Logo** [5%, 12%, se]
-    2. **Header - Icon Menu** [5%, 55%, se]
-    3. **Navigation - Menu** [8%, 12%, se]
-    4. **Navigation - Social** [9%, 80%, se]
-    5. **Showcase - Widget Position (showcase)** [12%, 13%, se]
-    6. **Mainfeature - Content List** [25%, 12%, se]
-    7. **Sidefeature - Widget Position (sidefeature-a)** [25%, 65%, se]
-    8. **Sidefeature - Widget Position (sidefeature-b)** [30%, 65%, se]
-    9. **Main - Content List** [42%, 12%, se]
-    10. **Main - Custom HTML** [42%, 63%, se]
-    11. **Extension - Widget Position (plugin-a)** [51%, 12%, se]
-    12. **Extension - Widget Position (plugin-b)** [55%, 12%, se]
-    13. **Extension - Promo Image** [70%, 12%, se]
-    14. **Extension - Widget Position (plugin-c)** [70%, 38%, se]
-    15. **Extension - Image Grid** [70%, 65%, se]
-    16. **Footer - Info List** [80%, 12%, se]
-    17. **Footer - Custom HTML** [80%, 38%, se]
-    18. **Footer - Contact** [80%, 63%, se]
-    19. **Copyright - Copyright** [91%, 38%, se]
-
-We have detailed how to recreate the individual widgets and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
-
-1. [Header](demo_header.md)
-2. [Navigation](demo_navigation.md)
-3. [Showcase](demo_showcase.md)
-4. [Mainfeature](demo_mainfeature.md)
-5. [Sidefeature](demo_sidefeature.md)
-6. [Main](demo_main.md)
-7. [Extension](demo_extension.md)
-8. [Footer](demo_footer.md)
-9. [Copyright](demo_copyright.md)
-
-Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
-
 ### Theme Particles
 
 * [Contact](particle_contact.md)
@@ -94,8 +58,6 @@ Here is a list of RocketTheme plugins used to create the demo version of Callist
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
-* [RokSprocket](http://www.rockettheme.com/wordpress/plugins/roksprocket)
-* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 
 Several of these plugins may be included with the Callisto RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
