@@ -98,6 +98,10 @@ No. We only count live sites for site licenses, not development areas. A develop
 
 Therefore, the site licenses become active once it goes live.
 
+### What if I move my website to a new domain?
+
+Your site license is yours to use on a single live site. If the site's domain changes, but it's still a single website and not two separate websites, the license still counts as one. This also goes for websites with multiple domain names at a time.
+
 ### Do site licenses count for Intranet sites?
 
 Yes. Even if only on a local organization network. However, if the Intranet site is being used for development or test purposes, it does not count, as defined above.
