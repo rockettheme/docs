@@ -160,6 +160,7 @@ more:
 	- [Crystalline](themes/crystalline)
 	- [Dominion](themes/dominion)
 	- [Reaction](themes/reaction)
+	- [Grunge](themes/grunge)
 
 <!-- -->
 
