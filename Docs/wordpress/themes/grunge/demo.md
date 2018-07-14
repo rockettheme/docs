@@ -38,7 +38,7 @@ Widget Settings
 
 Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/grunge2.jpeg)
+![](assets/grunge.jpg)
 
 :   1. **FP Showcase A**  [11%, 33%, se]
     2. **RokStories Info**  [25%, 62%, se]
