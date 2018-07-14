@@ -44,7 +44,7 @@ Below, you will find the widget placement and settings for the various widget po
     2. **RokStories Info**  [25%, 62%, se]
     3. **Site Search**  [37%, 62%, se]
     4. **Main Menu** [42%, 62%, se]
-    5. **Who's Online** [66%, 62%, se]
+    5. **Login** [66%, 62%, se]
     6. **Customize the Design** [73%, 18%, se]
     7. **Demo Information** [85%, 18%, se] 
     8. **Grunge Free/GPL Theme** [25%, 18%, se]
