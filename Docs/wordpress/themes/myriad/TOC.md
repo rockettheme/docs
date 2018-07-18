@@ -26,7 +26,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
         - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
         - [WordPress Posts](particle_wordpress.md)
-        - [Headlines](particle_headlines.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle_info.md)
         - [Lists](particle_lists.md)
