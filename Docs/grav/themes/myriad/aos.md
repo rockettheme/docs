@@ -1,7 +1,7 @@
 ---
 title: Myriad: Animation on Scroll
 description: Your Guide to Using Animation on Scroll
-breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
+breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
 
 ---
 

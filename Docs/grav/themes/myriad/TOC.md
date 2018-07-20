@@ -19,6 +19,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
+        * [Animation on Scroll](aos.md)         
         * [Contact Form](../../start/contact.md)
     * Theme Particles
         - [Case Studies](particle_case.md)

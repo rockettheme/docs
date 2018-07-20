@@ -19,6 +19,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
+        * [Animation on Scroll](aos.md)        
     * Theme Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
