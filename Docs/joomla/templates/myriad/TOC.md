@@ -19,6 +19,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
+        * [Animation on Scroll](aos.md)
     * Template Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
