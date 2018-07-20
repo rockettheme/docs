@@ -7,7 +7,7 @@ breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
 
 AOS Atom
 ---------
-Starting with Myriad 2.1.0+, we have implemented the <a href="https://michalsnik.github.io/aos/">Animation on Scroll</a> (AOS) library to allow animations to be used within the Myriad theme.
+Starting with Myriad 2.1.0, we have implemented the <a href="https://michalsnik.github.io/aos/">Animation on Scroll</a> (AOS) library to allow animations to be used within the Myriad theme.
 
 To initialize the library, go to your Base Outline > Page Settings and drag the Animate on Scroll atom into the dock. You can then save the Page Settings.
 
