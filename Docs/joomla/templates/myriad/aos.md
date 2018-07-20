@@ -22,14 +22,23 @@ AOS Tags
 Once the atom is in place, you can now use attributes within any of your HTML tags as shown here:
 
 ~~~ .html
-<span data-aos="fade-up" data-aos-delay="500">Photo Centric Theme</span>
+<div data-aos="fade-up">Photo Centric Theme</div>
 ~~~
 
-You can also use the animation within a Section / Block as shown here via the Tag Attribute option:
+You can also set each elements duration, easing, and if it should delay as shown here here:
+
+~~~ .html
+<div data-aos="fade-up" data-aos-delay="500" data-aos-duration="500" data-aos-easing="ease-in-out">Focus</div>
+~~~
+
+The animation attributes can also be used within a Section / Block as shown here via the Tag Attribute option:
 
 ![](assets/aos_tag.jpg)
 
-The list of predefined options for animations are the following:
+Predefined Options
+---------
+
+Here is a list of predefined options for animations:
 
 Fade animations:
 
