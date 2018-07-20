@@ -17,7 +17,7 @@ By clicking on the atom, you will find the Global settings to be used for your A
 
 ![](assets/aos_settings.jpg)
 
-AOS Tags
+AOS Attributes
 ---------
 Once the atom is in place, you can now use attributes within any of your HTML tags as shown here:
 
