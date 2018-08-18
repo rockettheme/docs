@@ -19,6 +19,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
+        * [Animation on Scroll](aos.md)
     * Template Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
@@ -26,7 +27,6 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
         - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
         - [Joomla Articles](particle_joomla.md)
-        - [Headlines](particle_headlines.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle_info.md)
         - [Lists](particle_lists.md)
