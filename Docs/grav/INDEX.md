@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Anacron](themes/anacron)
 	- [Calla](themes/calla)
 	- [Myriad](themes/myriad)
 	- [Denali](themes/denali)
