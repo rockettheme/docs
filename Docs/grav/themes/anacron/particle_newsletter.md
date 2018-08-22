@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/anacron:Anacron
 
 ![](assets/particle_newsletter1.jpeg)
 
-The **Newsletter** particle enables users to sign up for your newsletter. It is powered by [Feedburner](http://feedburner.google.com/).
+The **Newsletter** particle enables users to sign up for your newsletter. It is powered by [Feedburner](https://mailchimp.com/).
 
 Here are the topics covered in this guide:
 
