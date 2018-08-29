@@ -73,7 +73,9 @@ You can utilize any background via the Styles -> Showcase Colors -> Background I
 
 ![](assets/showcase2.gif)
 
-If you are looking to turn the Showcase particle into a Slideshow as shown above, simply change the section layout to Fullwidth (Flushed Content) as shown here:
+If you are looking to turn the Showcase particle into a Slideshow as shown above, start by adding an Image to each of your Showcase particle items. 
+
+Then simply change the section layout to Fullwidth (Flushed Content) as shown here:
 
 ![](assets/particle_showcase6.jpeg)
 
