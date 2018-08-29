@@ -18,12 +18,14 @@ support: http://www.rockettheme.com/forum/grav-theme-anacron/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
-        * [Style Settings](demo_settings.md)
+        * [Style Settings](demo_settings.md)    
         * [Contact Form](../../start/contact.md)
-    * Theme Particles
+    * Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md) 
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
+        - [Fixed Header](atom_fixedheader.md)
         - [Grav Content](particle_grav.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle.info.md)
