@@ -16,8 +16,8 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-* [Animated Background](#background)
-* [Slideshow with Multiple Backgrounds](#imagebackground)   
+* [Animated Background](#animated-background)
+* [Slideshow](#slideshow)   
 
 ## Configuration
 
