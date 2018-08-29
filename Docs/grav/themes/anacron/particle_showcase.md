@@ -17,7 +17,7 @@ Here are the topics covered in this guide:
     - [Main Options](#main-options)
     - [Item Options](#item-options)
 * [Animated Background](#animated-background)
-* [Slideshow](#slideshow)   
+* [Fullwidth Slideshow](#fullwidth-slideshow)   
 
 ## Configuration
 
@@ -69,11 +69,11 @@ You can utilize any background via the Styles -> Showcase Colors -> Background I
 
 ![](assets/particle_showcase5.jpeg)
 
-## Slideshow
+## Fullwidth Slideshow
 
 ![](assets/showcase2.gif)
 
-If you are looking to turn the Showcase particle into a Slideshow as shown above, start by adding an Image to each of your Showcase particle items. 
+If you are looking to turn the Showcase particle into a Fullwidth Slideshow as shown above, start by adding an Image to each of your Showcase particle items. 
 
 Then simply change the section layout to Fullwidth (Flushed Content) as shown here:
 
