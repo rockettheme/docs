@@ -1,7 +1,7 @@
 ---
-title: Myriad: Animation on Scroll
+title: Anacron: Animation on Scroll
 description: Your Guide to Using Animation on Scroll
-breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
+breadcrumb: /grav:Grav/!themes:Themes/anacron:Anacron
 
 ---
 

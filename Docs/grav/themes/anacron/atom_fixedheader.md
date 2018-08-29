@@ -13,13 +13,13 @@ The fixed header conveniently disappears as the user scrolls down and slides dow
 
 ## Setup
 
-![](atom_fixedheader1.jpeg)
+![](assets/atom_fixedheader1.jpeg)
 
 To set up the atom, simply navigate to the **Page Settings** tab in the outline you wish to apply full page scrolling to and drag-and-drop the **Fixed Header** atom into the white **Atoms** bar. This will activate the atom for the outline.
 
 Next, you can access the atom's settings by selecting the cogwheel icon.
 
-![](atom_fixedheader2.jpeg)
+![](assets/atom_fixedheader2.jpeg)
 
 | Setting           | Description                                                                               |
 | :-----            | :-----                                                                                    |

@@ -16,8 +16,8 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-* [Animated Background](#background)
-* [Slideshow with Multiple Backgrounds](#imagebackground)   
+* [Animated Background](#animated-background)
+* [Slideshow](#slideshow)   
 
 ## Configuration
 
@@ -59,7 +59,7 @@ These items make up the individual featured items in the particle.
 
 ## Animated Background
 
-![](assets/particle_showcase.gif)
+![](assets/showcase.gif)
 
 To create an animated background (where background rotates with a click of navigation or pagination), place the Showcase particle in the Showcase section. Then add either **top-to-bottom** or **left-to-right** to the CSS Classes field in the Showcase section settings:
 
@@ -71,9 +71,11 @@ You can utilize any background via the Styles -> Showcase Colors -> Background I
 
 ## Slideshow
 
-![](assets/particle_showcase.gif)
+![](assets/showcase2.gif)
 
-If you are looking to turn the Showcase particle into a Slideshow as shown above, simply change the section layout to Fullwidth (Flushed Content) as shown here:
+If you are looking to turn the Showcase particle into a Slideshow as shown above, start by adding an Image to each of your Showcase particle items. 
+
+Then simply change the section layout to Fullwidth (Flushed Content) as shown here:
 
 ![](assets/particle_showcase6.jpeg)
 
