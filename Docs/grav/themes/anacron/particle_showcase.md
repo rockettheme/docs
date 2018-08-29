@@ -16,6 +16,8 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
+* [Animated Background](#background)
+* [Slideshow with Multiple Backgrounds](#imagebackground)   
 
 ## Configuration
 
@@ -54,3 +56,28 @@ These items make up the individual featured items in the particle.
 | Link        | Enter a link for the item.                                        |
 | Link Text   | Enter text that appears as the link for the item.                 |
 | Target      | Select between **Self** and **New Window** for the link's target. |
+
+## Animated Background
+
+![](assets/particle_showcase.gif)
+
+To create an animated background (where background rotates with a click of navigation or pagination), place the Showcase particle in the Showcase section. Then add either **top-to-bottom** or **left-to-right** to the CSS Classes field in the Showcase section settings:
+
+![](assets/particle_showcase4.jpeg)
+
+You can utilize any background via the Styles -> Showcase Colors -> Background Image field:
+
+![](assets/particle_showcase5.jpeg)
+
+## Slideshow
+
+![](assets/particle_showcase.gif)
+
+If you are looking to turn the Showcase particle into a Slideshow as shown above, simply change the section layout to Fullwidth (Flushed Content) as shown here:
+
+![](assets/particle_showcase6.jpeg)
+
+If you are working off of our Home outline or layout, you will also need to remove the fp-showcase class from the Block settings of the Showcase particle:
+
+![](assets/particle_showcase7.jpeg)
+
