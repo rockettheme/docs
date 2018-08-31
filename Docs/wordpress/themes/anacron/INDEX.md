@@ -8,59 +8,99 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!anacron:Anacron
 Introduction
 -----
 
-![][Anacron]
+![](assets/anacron.jpeg)
 
 Anacron is a vibrant, highly adaptable and engaging theme, ideal for a vast selection of possible sites, from community to business. Subtle visual elements in the sectioned design, add character and division to the page, without compromising on content focus.
 
 Requirements
 -----
 
-* Apache 2.x or Microsoft IIS 7
-* PHP 5.4+
-* MySQL 5.0.4 or higher
-* WordPress 3.2+, 4.0+
-* Gantry Framework
+* PHP 5.6+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
 
->> NOTE: Gantry v4.1.15 is required for Anacron to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry 5.4.19+ is required for Fluent to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
-* Responsive Layout  
-* 8 Preset Styles  
-* 89 Widget Positions  
-* 1200 Fixed Option  
-* 8 Styled Widget Variations  
-* Structural Widget Variations  
-* 960 Fixed Option  
-* Dropdown-Menu and Split-Menu  
-* Custom Typography  
-* Custom Logo Option  
-* Mobile Menu  
-* Fixed Header  
-* Social Buttons Option  
-* Chart.js  
+### Included Particles
+
+* Animate on Scroll
+* Branding
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* Fixed Header
+* WordPress Content
+* Image Grid
+* Info List
+* Lists
+* Login
+* Logo / Image
+* Menu
+* Mobile Menu
+* Mosaic
+* Newsletter
+* Pricing Table
+* Promo Image
+* Search
+* Showcase
+* Simple Counter
+* Social
+* Strips Slider
+* Tab Image
+* Testimonials
+* To Top
+* Video 
+
+### Theme Features
+
+* Responsive Layout
+* 8 Preset Styles
+* Fixed / Dynamic Header
+* Custom Typography
+* Unlimited Positions
+* Custom Particles
+* Mobile Menu
 * Coming Soon Page
+* Font Awesome Icons 
 
-### Responsive Layout
+### Gantry Core Features
 
-A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Theme Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-| Label                  | Description                                | Layout Width     | Column Width |  
-| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
+## Dynamic Header
 
-[gantry]: http://gantry.org/
-[gantry_install]: ../../start/gantry.md
-[Anacron]: assets/anacron.jpeg
-[chart]: assets/chart.jpeg
-[roksprocket]: assets/roksprocket.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[colorchooser]: assets/colorchooser.jpg
-[icondriven]: assets/icondriven.jpg
-[dropdownmenu]: assets/dropdownmenu.jpg
+![Layout Manager](ft-2.jpg)
+
+The Dynamic, Scrolling Header, is a custom design feature that adds an animation effect the header, where the logo and menu are contained, whereby the header elegantly collapses upon downward scroll and smoothly reappears on upward scroll.
+
+## Color Chooser
+
+![Style Settings](ft-3.jpg)
+
+Anacron has an extensive Color Chooser in the template manager to provide intricate controls for each section of Anacron, inclusive of overlay type, text color, background color, as well as background images. Edit preexisting or create new presets
+
+## Responsive
+
+![Responsive](ft-4.jpg)
+
+Anacron is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
