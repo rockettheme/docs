@@ -1,14 +1,14 @@
 ---
 title: Anacron: Recreating the Demo
 description: Your Guide to Recreating Elements of the Anacron Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/Anacron:Anacron
+breadcrumb: /joomla:Joomla/!themes:Themes/anacron:Anacron
 
 ---
 
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Anacron can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+Recreating features of the demo site used to show off some of the more interesting aspects of Anacron can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Anacron Template.
 
@@ -16,59 +16,46 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Module Settings
+Particles
 -----
 
+Here is a list of particles that are available in Anacron, as well as links to documentation to help you get started:
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+>> All Home Particles can be edited via Templates > Anacron - Home > Layout.
 
-![][anacron2]
-
-:   1. **FP RokSprocket Showcase**  [8%, 15%, se]
-    2. **Welcome to Anacron**  [17%, 15%, se]
-    3. **FP RokSprocket Mosaic**  [21%, 15%, se]
-    4. **Dynamic, Scrolling Header**  [33%, 15%, se]
-    5. **Pay as You Grow Pricing**  [42%, 15%, se]
-    6. **FP RokSprocket Tabs**  [61%, 15%, se]
-    7. **Why Anacron**  [61%, 62%, se]
-    8. **What Our Clients Say**  [70%, 15%, se]
-    9. **FP Extension**  [76%, 15%, se]
-    10. **Versatile, Flexible Features**  [79%, 15%, se]
-    11. **FP Footer A**  [84%, 25%, se]
-    12. **FP Footer B**  [84%, 48%, se]
-    13. **Latest News**  [91%, 40%, ne]
-    14. **Newsletter**  [91%, 62%, ne]
-
-We have detailed how to recreate the individual modules pictured above in the links below.
-
-1. [FP RokSprocket Showcase][module1]
-2. [Welcome to Anacron][module2]
-3. [FP RokSprocket Mosaic][module3]
-4. [Dynamic, Scrolling Header][module4]
-5. [Pay as You Grow Pricing][module5]
-6. [FP RokSprocket Tabs][module6]
-7. [Why Anacron][module7]
-8. [What Our Clients Say][module8]
-9. [FP Extension][module9]
-10. [Versatile, Flexible Features][module10]
-11. [FP Footer A][module11]
-12. [FP Footer B][module12]
-13. [Latest News][module13]
-14. [Newsletter][module14]
-
-Recommended Extensions
------
+* Theme Particles
+    - [Case Studies](particle_case.md)
+    * [Contact](particle_contact.md)
+    * [Content List](particle_contentlist.md)
+    * [Content Tabs](particle_contenttabs.md)
+    * [Features Slider](particle_featuresslider.md)
+    * [Joomla Content](particle_joomla.md)
+    * [Headlines](particle_headlines.md)
+    * [Image Grid](particle_image.md)
+    * [Info List](particle_info.md)
+    * [Lists](particle_lists.md)
+    * [Newsletter](particle_newsletter.md)
+    * [Promo Image](particle_promoimage.md)
+    * [Simple Counter](particle_simplecounter.md)
+    * [Strips Slider](particle_stripsslider.md)
+    * [Tab Image](particle_tabimage.md)
+    * [Testimonial](particle_testimonial.md)
+* Core Particles 
+    - [Logo](http://docs.gantry.org/gantry5/particles/logo)
+    - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+    - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+    - [Social](http://docs.gantry.org/gantry5/particles/social)
+    - [Positions](http://docs.gantry.org/gantry5/particles/position)
+    - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+    - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+    - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+    - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+    - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Here is a list of RocketTheme extensions used to create the demo version of Anacron:
 
-* [Gantry Template Framework][gantry]
-* [RokAjaxSearch][rokajaxsearch]
-* [RokBox][rokbox]
-* RokCommon Library (Installed with RokSprocket)
-* [RokSprocket][roksprocket]
-* [RokCandy][rokcandy]
-* [RokNavMenu][roknavmenu]
-* [RokBooster][rokbooster]
+* [Gantry 5 Theme Framework](http://gantry.org/)
+* [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
 Many of these extensions are included with the Anacron RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
@@ -77,64 +64,29 @@ Recreating the Front Page
 
 The front page of the Anacron demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Anacron demo.
 
-Template Settings
+Home Page Layout Presets
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a style override. This can be done by navigating to **Administrator -> Extensions -> Template Manager** and selecting the template you wish to change.  Once you have checked the box next to the template, you can click the **Duplicate** button to create a second copy of the template. This will become the Override while the primary copy of the template remains the designated Master.
+![Layout Presets](assets/layout_presets.jpeg)
 
-Only options that are different from the Master copy will take hold on the menu items you have assigned to the override. In this case, you will be assigning the front page to the override as we have in the demo.
+If you did not choose to 'Install Sample Data' upon installing the Anacron theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-It would be a good idea for organization to name this override something like **Anacron - Home** as it would be used only for the front page of your site.
+You can access this preset by selecting **Load** in the **Layout Manager**. Make sure to uncheck the "Keep the current Particles while changing Preset" checkbox to start fresh with any of our presets.
 
-#### Assignments
+>> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
 
-The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. 
-
-You will need to start by navigating to **Admin > Extensions > Template Manager > (Your Home Override)** and select the **Assignments** tab. Under the **Main Menu** list, you will want to select **Home**.
-
-Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
-
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
-
-Menu Settings
+Menu Editor
 -----
 
-![][mainmenu]
+![](assets/menu_1.jpeg)
 
-In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
+Anacron has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
-You can find these settings by navigating to **Admin > Menus > Main Menu > Home**. Once there, you will want to select the **Page Display** tab.
+You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Anacron > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
-You will need to change the **Page Class** setting under the Home menu item to ` feb14-home`.
+Assignments
+-----
 
-The icons that appear at the top-level menu area are configured under the individual menu item's **Dropdown Menu Options**, and are set in the **Menu Icon** option.
+![](assets/assignments_1.jpeg)
 
-For example, the **Pages** menu icon is set to `icon-file-text`. For a full list of icons you can choose from, check out [this list by Font Awesome][icons].
-
-[gantry]: http://gantry.org/downloads
-[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
-[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[anacron2]: assets/anacron2.jpeg
-[demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
-[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
-[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
-[module1]: demo_module_1.md
-[module2]: demo_module_2.md
-[module3]: demo_module_3.md
-[module4]: demo_module_4.md
-[module5]: demo_module_5.md
-[module6]: demo_module_6.md
-[module7]: demo_module_7.md
-[module8]: demo_module_8.md
-[module9]: demo_module_9.md
-[module10]: demo_module_10.md
-[module11]: demo_module_11.md
-[module12]: demo_module_12.md
-[module13]: demo_module_13.md
-[module14]: demo_module_14.md
-[mainmenu]: assets/menu_1.jpeg
-[icons]: http://fortawesome.github.io/Font-Awesome/icons/
-[article]: assets/article.jpg
-[demo11]: assets/demo_10.jpeg
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Anacron** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
