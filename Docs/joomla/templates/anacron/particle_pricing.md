@@ -1,7 +1,7 @@
 ---
 title: Anacron: Pricing Table Particle
 description: Your Guide to Recreating Elements of the Anacron Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
 
 ---
 

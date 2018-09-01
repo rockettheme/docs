@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!themes:Themes/!anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/!anacron:Anacron
 
-details: http://www.rockettheme.com/joomla/themes/anacron/
-demo: http://demo.rockettheme.com/joomla-themes/anacron/
-download: http://www.rockettheme.com/joomla/themes/anacron/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-theme-anacron/
+details: http://www.rockettheme.com/joomla/templates/anacron/
+demo: http://demo.rockettheme.com/joomla-templates/anacron/
+download: http://www.rockettheme.com/joomla/templates/anacron/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-anacron/
 
 ---
 
@@ -21,10 +21,12 @@ support: http://www.rockettheme.com/forum/joomla-theme-anacron/
         + [Extensions](demo.md#recommended-extensions)
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
-    * Theme Particles
+    * Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)    
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
+        - [Fixed Header](atom_fixedheader.md)        
         - [Joomla Articles](particle_joomla.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle.info.md)
