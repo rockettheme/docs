@@ -1,6 +1,6 @@
 ---
 title: Anacron: Fixed Header Atom
-description: Your Guide to Using the Anacron Template for Grav
+description: Your Guide to Using the Fixed Header Atom
 breadcrumb: /grav:Grav/!themes:Themes/anacron:Anacron
 
 ---

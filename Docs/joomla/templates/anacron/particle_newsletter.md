@@ -1,7 +1,7 @@
 ---
 title: Anacron: Newsletter Particle
 description: Your Guide to Using Particles in Anacron for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
 
 ---
 

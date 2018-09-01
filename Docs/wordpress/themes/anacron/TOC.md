@@ -20,10 +20,12 @@ support: http://www.rockettheme.com/forum/wordpress-theme-anacron/
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-    * Theme Particles
+    * Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)    
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
+        - [Fixed Header](atom_fixedheader.md)        
         - [WordPress Posts](particle_wordpress.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle.info.md)

@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Anacron (Gantry 5)](templates/anacron)
 	- [Calla](templates/calla)
 	- [Myriad (Gantry 5)](templates/myriad)
 	- [Denali](templates/denali)
@@ -82,8 +83,7 @@ more:
 	- [Vermilion](templates/vermilion)
 	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
-	- [Anacron G5](templates/anacron)
-	- [Anacron G4](templates/g4anacron)
+	- [Anacron (Gantry 4)](templates/g4anacron)
 	- [Hadron](templates/hadron)
 	- [Paradigm](templates/paradigm)
 	- [Spectral](templates/spectral)

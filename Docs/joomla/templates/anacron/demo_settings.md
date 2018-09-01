@@ -1,7 +1,7 @@
 ---
 title: Anacron: Recreating the Demo - Theme Settings
 description: Your Guide to Recreating Elements of the Anacron Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
 
 ---
 

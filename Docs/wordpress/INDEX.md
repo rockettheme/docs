@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Anacron (Gantry 5)](themes/anacron)
 	- [Calla](themes/calla)
 	- [Myriad (Gantry 5)](themes/myriad)
 	- [Denali](themes/denali)
@@ -110,8 +111,7 @@ more:
 	- [Vermilion](themes/vermilion)
 	- [Lexicon](themes/lexicon)
 	- [Epsilon](themes/epsilon)
-	- [Anacron G5](themes/anacron)
-	- [Anacron G4](themes/g4anacron)
+	- [Anacron (Gantry 4)](themes/g4anacron)
 	- [Hadron](themes/hadron)
 	- [Paradigm](themes/paradigm)
 	- [Spectral](themes/spectral)
