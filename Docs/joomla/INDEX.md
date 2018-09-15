@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Reiko](templates/reiko)
 	- [Anacron (Gantry 5)](templates/anacron)
 	- [Calla](templates/calla)
 	- [Myriad (Gantry 5)](templates/myriad)
