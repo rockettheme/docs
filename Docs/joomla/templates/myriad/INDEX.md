@@ -26,6 +26,7 @@ Key Features
 
 ### Included Particles
 
+* Animate on Scroll
 * Branding
 * Case Studies
 * Contact
@@ -33,6 +34,7 @@ Key Features
 * Copyright
 * Custom HTML
 * Date
+* Fixed Header
 * Features Slider
 * Joomla Content
 * Headlines
@@ -53,6 +55,7 @@ Key Features
 * Tab Image
 * Testimonials
 * To Top 
+* Video
 
 ### Template Features
 

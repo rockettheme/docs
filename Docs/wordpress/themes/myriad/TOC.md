@@ -25,6 +25,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
+        - [Fixed Header](atom_fixedheader.md)        
         - [Features Slider](particle_featuresslider.md)
         - [WordPress Posts](particle_wordpress.md)
         - [Image Grid](particle_image.md)
@@ -36,6 +37,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
+        - [Video](particle_video.md)        
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -27,6 +27,7 @@ Key Features
 
 ### Included Particles
 
+* Animate on Scroll
 * Branding
 * Case Studies
 * Contact
@@ -35,6 +36,7 @@ Key Features
 * Copyright
 * Custom HTML
 * Features Slider
+* Fixed Header
 * Headlines
 * Horizontal Menu
 * Image Grid
@@ -54,6 +56,7 @@ Key Features
 * Testimonials
 * To Top
 * WordPress Posts 
+* Video
 
 ### Theme Features
 

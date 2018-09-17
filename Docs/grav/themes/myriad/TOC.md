@@ -27,6 +27,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
+        - [Fixed Header](atom_fixedheader.md)        
         - [Grav Content](particle_grav.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle_info.md)
@@ -37,6 +38,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
+        - [Video](particle_video.md)        
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
