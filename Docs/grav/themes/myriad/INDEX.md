@@ -26,6 +26,7 @@ Key Features
 
 ### Included Particles
 
+* Animate on Scroll
 * Branding
 * Case Studies
 * Contact
@@ -34,6 +35,7 @@ Key Features
 * Custom HTML
 * Date
 * Features Slider
+* Fixed Header
 * Grav Content
 * Headlines
 * Horizontal Menu
@@ -53,6 +55,7 @@ Key Features
 * Tab Image
 * Testimonials
 * To Top 
+* Video
 
 ### Theme Features
 
