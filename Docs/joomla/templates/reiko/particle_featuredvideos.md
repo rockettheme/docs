@@ -50,7 +50,7 @@ These items make up the individual featured items in the particle. Items in this
 | Item Name     | This is the name of the item. This appears as the item's title on the front end. |
 | Image         | Set an image to appear as the video thumbnail.                                   |
 | Alt Attribute | Set an alternative attribute for the item.                                       |
-| Link          | Set a URL for the item to take visitors to (Youtube requires /embed/ url).       |
+| Link          | Set a URL for the item to take visitors to (YouTube requires /embed/ url).       |
 | Link Target   | Set the target for the URL to open in.                                           |
 
 ### Articles
