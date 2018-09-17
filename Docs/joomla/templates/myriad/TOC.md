@@ -37,7 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
-        - [Video](particle_video.md
+        - [Video](particle_video.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
