@@ -18,9 +18,9 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 5.4+ (PHP 5.5+ Recommended)
 * MySQL 5.1+
-* Joomla 3.4+
+* Joomla 3.8+
 
->> NOTE: Gantry v5.4.19+ is required for Reiko to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.26+ is required for Reiko to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
