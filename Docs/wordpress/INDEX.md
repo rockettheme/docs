@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Reiko](themes/reiko)
 	- [Anacron (Gantry 5)](themes/anacron)
 	- [Calla](themes/calla)
 	- [Myriad (Gantry 5)](themes/myriad)

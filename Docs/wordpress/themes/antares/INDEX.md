@@ -14,12 +14,13 @@ Antares is a theme bolstered with bold and impressive visual elements, to add de
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.4+ Recommended)
-* MySQL 5.1+
-* WordPress 4.3+
 
->> NOTE: Gantry v5.2.6+ is required for Antares to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org). On WordPress, [Timber](https://wordpress.org/plugins/timber-library/) is also required for the Gantry Framework's Twig to be read by WordPress.
+* PHP 5.4+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
+* Gantry 5 Framework (Latest)
 
 Key Features
 -----
