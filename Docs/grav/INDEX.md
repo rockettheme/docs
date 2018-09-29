@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Reiko](themes/reiko)
 	- [Anacron](themes/anacron)
 	- [Calla](themes/calla)
 	- [Myriad](themes/myriad)
