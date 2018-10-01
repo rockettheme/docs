@@ -19,7 +19,7 @@ support: http://www.rockettheme.com/forum/joomla-template-callisto/
         * [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
     * [Recreate the Demo](demo.md)
         * [Extensions](demo.md#recommended-extensions)
-        * [Style Settings](demo_settings.md)
+        * [Style Settings](#style-settings)
         * [Module and Particle Settings](demo.md#module-and-particle-settings)
         * [Front Page Layout](layout.md)
         * Sample Pages

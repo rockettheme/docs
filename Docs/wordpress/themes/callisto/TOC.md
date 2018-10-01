@@ -18,7 +18,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-callisto/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Plugins](demo.md#recommended-plugins)
-        * [Style Settings](demo_settings.md)
+        * [Style Settings](#style-settings)
         * [Widget and Particle Settings](demo.md#widget-and-particle-settings)
     + Sample Pages
         + [Contact](contact.md)
