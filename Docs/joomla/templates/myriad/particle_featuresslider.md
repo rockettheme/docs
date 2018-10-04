@@ -11,7 +11,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 The **Features Slider** particle makes it easy to create smooth, modern sliders for your website.
 
->> NOTE: The **Features Slider** particle should be placed in the Slideshow position.
+>> NOTE: The **Features Slider** particle should be placed in the **Slideshow** section.
 
 Here are the topics covered in this guide:
 
