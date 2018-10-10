@@ -87,3 +87,5 @@ This section configures how posts are displayed.
 | Read More Label    | Enter a text label to appear as the read more link                                   |
 | Target             | Set a target window for the read more link.                                          |
 | Button CSS Classes | Enter any CSS Class(es) to apply to the items.                                       |
+
+>> Note: When using Grav Content source, images can utilize the **Photo** and **Photo Large** layouts by creating a new Tag such as **photo** or **photo-large** for the Page(s) you are displaying.

@@ -75,3 +75,5 @@ This section configures how posts are displayed.
 | Image       | Select which image in an article should be displayed.          |
 | Title       | Choose whether or not the title of an article should be shown. |
 | Title Limit | Set a character limit for titles.                              |
+
+>> Note: When using Grav Content source, images can utilize the **Width** and **Height** options by creating a new Tag such as **width-2** and/or **height-2** for the Page(s) you are displaying.
