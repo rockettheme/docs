@@ -76,4 +76,4 @@ This section configures how articles are displayed.
 | Title       | Choose whether or not the title of an article should be shown. |
 | Title Limit | Set a character limit for titles.                              |
 
->> Note: When using Joomla Content source, images can utilize **Width** and **Height** options by adding, for example, **width-2** and/or **height-2** to the ALT field in either the Intro or Full image of the Article(s) you are displaying.
+>> Note: When using Joomla Content source, images can utilize **Width** and **Height** options by adding, for example, **width-2** and/or **height-2** to the **Alt Text** field in either the Intro or Full image of the Article(s) you are displaying.
