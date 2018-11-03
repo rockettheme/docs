@@ -54,7 +54,7 @@ Here is a list of RocketTheme extensions we recommend using with Quantive:
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Installed with RokGallery)
+* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
 * [RokGallery][rokgallery]
 * [RokCandy][rokcandy]
 * [RokNavMenu][roknavmenu]
