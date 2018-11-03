@@ -69,7 +69,7 @@ Here is a list of RocketTheme extensions used to create the demo version of Cygn
 * [Gantry Template Framework](http://gantry.org/downloads)
 * [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
 * [RokSprocket](http://www.rockettheme.com/joomla/extensions/roksprocket)
 * [RokCandy](http://www.rockettheme.com/joomla/extensions/rokcandy)
 * [RokNavMenu](http://www.rockettheme.com/joomla/extensions/roknavmenu)

@@ -62,7 +62,7 @@ Here is a list of RocketTheme extensions used to create the demo version of Lumi
 * [Gantry Template Framework][gantry]
 * [RokAjaxSearch][rokajaxsearch]
 * [RokBox][rokbox]
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
 * [RokSprocket][roksprocket]
 * [RokCandy][rokcandy]
 * [RokNavMenu][roknavmenu]

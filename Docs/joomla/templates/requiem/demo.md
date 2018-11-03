@@ -69,7 +69,7 @@ Here is a list of RocketTheme extensions used to create the demo version of Requ
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/joomla/extensions/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/joomla/extensions/rokbox)
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
 * [RokSprocket](http://www.rockettheme.com/joomla/extensions/roksprocket)
 * [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 

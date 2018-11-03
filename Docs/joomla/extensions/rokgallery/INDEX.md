@@ -81,6 +81,9 @@ Once installation is complete, a message highlighted in green should indicate it
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
+>> NOTE: [RokCommon](https://rockettheme.com/joomla/extensions/rokutilities) is no longer included with RokGallery's package. You will need to download it individually in order to have it available to support RokGallery.
+
+
 RokBox
 -----
 

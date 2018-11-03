@@ -50,7 +50,7 @@ Recommended Extensions
 Here is a list of RocketTheme extensions used to create the demo version of Afterburner2:
 
 * [Gantry Template Framework][gantry]
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
 * [RokNavMenu][roknavmenu]
 * [RokBooster][rokbooster]
 

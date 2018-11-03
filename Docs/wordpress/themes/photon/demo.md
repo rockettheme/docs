@@ -62,7 +62,7 @@ Here is a list of RocketTheme widgets used to create the demo version of Photon:
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/wordpress/widgets/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/wordpress/widgets/rokbox)
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/wordpress/plugins/rokutilities)
 * [RokSprocket](http://www.rockettheme.com/wordpress/widgets/roksprocket)
 * [RokBooster](http://www.rockettheme.com/wordpress/widgets/rokbooster)
 
@@ -76,7 +76,7 @@ Here is a list of RocketTheme plugins used to create the demo version of Galatea
 * [Gantry 5 Theme Framework](http://gantry.org/)
 * [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
 * [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
-* RokCommon Library (Installed with RokSprocket)
+* [RokCommon Library](https://rockettheme.com/wordpress/plugins/rokutilities)
 * [RokSprocket](http://www.rockettheme.com/wordpress/plugins/roksprocket)
 
 Many of these plugins are included with the Galatea RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
