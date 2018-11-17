@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Chimera](themes/chimera)
 	- [Reiko](themes/reiko)
 	- [Anacron](themes/anacron)
 	- [Calla](themes/calla)
