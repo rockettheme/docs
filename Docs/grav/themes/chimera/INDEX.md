@@ -10,7 +10,7 @@ Introduction
 
 ![](assets/chimera.png)
 
-Chimera is the first RocketTheme Club theme to be ported from Gantry 4 to Gantry 5. Chimera centers around photography, providing an elegantly designed, visual space for the display of full width gallery items and slideshows. The structure allows for the promotion of images, whilst maintaining a refined style for more conservative appearances.
+Chimera is a clean, modern and minimalistic theme showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
 
 Requirements
 -----
