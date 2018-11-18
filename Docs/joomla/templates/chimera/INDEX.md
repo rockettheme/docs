@@ -1,5 +1,5 @@
 ---
-title: Chimera
+title: Chimera (Gantry 5 Edition)
 description: Your Guide to Using the Chimera Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!chimera:Chimera
 
@@ -8,54 +8,105 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!chimera:Chimera
 Introduction
 -----
 
-Chimera is a clean, modern and minimalistic theme showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
+![](assets/chimera.png)
 
-![][template]
+Chimera is a clean, modern and minimalistic template showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.5+ Recommended)
-* MySQL 5.1+
-* Joomla 3.x
+* PHP 5.5.9+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
 
->> NOTE: Gantry v4.1.35 is required for Chimera to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
+>> NOTE: Gantry v5.4.26+ is required for Chimera to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
+### Included Particles & Atoms
+
+* Animate on Scroll
+* Audio Player
+* Block Content
+* Branding
+* Breadcrumbs
+* Calendar
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* Fixed Header
+* Joomla Content
+* Horizontal Menu
+* Icon List
+* Image Grid
+* Info List
+* Lists
+* Login
+* Logo
+* Menu
+* Mobile Menu
+* Mosaic
+* Newsletter
+* Pricing Table
+* Progress Bar
+* Promo Image
+* Search
+* Simple Counter
+* Slider
+* Slideshow
+* Social
+* Strips Slider
+* Tab Image
+* Testimonials
+* To Top
+* Video 
+
+### Template Features
+
 * Responsive Layout
 * 6 Preset Styles
-* Content Animations
-* 89 Module Positions
-* 1200 Fixed Option
-* 8 Styled Module Suffixes
-* Structural Module Suffixes
-* 960 Fixed Option
-* Dropdown-Menu and Split-Menu
+* Fixed / Dynamic Header
 * Custom Typography
-* Custom Logo Option
+* Unlimited Positions
+* Custom Particles
 * Mobile Menu
-* Social Buttons Option
-* Chart.js
 * Coming Soon Page
+* Font Awesome Icons 
 
-### Responsive Layout
+### Gantry Core Features
+
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Template Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
+
+## Animated
+
+![Layout Manager](ft-2.png)
+
+The template makes uses of animated effects to add depth and character to content, without compromising on usability and professionalism. A series of introductory bounce and slide effects are built into Chimera, as triggered by scroll events.
+
+## Dynamic Header
+
+![Style Settings](ft-3.png)
+
+The Dynamic, Scrolling Header, is a custom design feature that adds an animation effect the header, where the logo and menu are contained, whereby the header elegantly collapses upon downward scroll and smoothly reappears on upward scroll.
+
+## Responsive
+
+![Responsive](ft-4.png)
 
 A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
-
-| Label                  | Description                                | Layout Width     | Column Width |  
-| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
-
-[gantry]: http://gantry.org
-[template]: assets/chimera.jpeg
-[responsive]: assets/responsive.jpg
-[chart]: assets/chart.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[chooser]: assets/chooser.jpg
