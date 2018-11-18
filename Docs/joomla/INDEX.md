@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Chimera (Gantry 5)](templates/chimera)
 	- [Reiko](templates/reiko)
 	- [Anacron (Gantry 5)](templates/anacron)
 	- [Calla](templates/calla)
@@ -76,7 +77,7 @@ more:
 	- [Iridescent](templates/iridescent)
 	- [Myriad (Gantry 4)](templates/g4myriad)
 	- [Ricochet](templates/ricochet)
-	- [Chimera](templates/chimera)
+	- [Chimera (Gantry 4)](templates/g4chimera)
 	- [Nuance](templates/nuance)
 	- [Tessellate](templates/tessellate)
 	- [Plethora](templates/plethora)
