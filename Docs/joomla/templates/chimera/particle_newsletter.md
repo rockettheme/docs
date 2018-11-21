@@ -1,15 +1,13 @@
 ---
-title: Anacron: Newsletter Particle
-description: Your Guide to Using Particles in Anacron for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
+title: Chimera: Newsletter Particle
+description: Your Guide to Using the Newsletter Particle
+breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ---
 
 ## Introduction
 
-![](assets/particle_newsletter1.jpeg)
-
-The **Newsletter** particle enables users to sign up for your newsletter. It is powered by [Feedburner](http://feedburner.google.com/).
+The **Newsletter** particle enables users to sign up for your newsletter. You need to create an account on <a href="https://mailchimp.com/" target="_blank">MailChimp.com</a> and copy the form embed action url into the particle's Form Action URL input field.
 
 Here are the topics covered in this guide:
 
@@ -20,7 +18,7 @@ Here are the topics covered in this guide:
 
 ### Main Options 
 
-![](assets/particle_newsletter2.jpeg)
+![](assets/particle_newsletter2.png)
 
 | Option          | Description                                                                             |
 | :-----          | :-----                                                                                  |
