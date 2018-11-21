@@ -1,7 +1,7 @@
 ---
-title: Anacron: Fixed Header Atom
+title: Chimera: Fixed Header Atom
 description: Your Guide to Using the Fixed Header Atom
-breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ---
 
@@ -13,13 +13,13 @@ The fixed header conveniently disappears as the user scrolls down and slides dow
 
 ## Setup
 
-![](assets/atom_fixedheader1.png)
+![](assets/atom_fixedheader1.jpeg)
 
 To set up the atom, simply navigate to the **Page Settings** tab in the outline you wish to apply full page scrolling to and drag-and-drop the **Fixed Header** atom into the white **Atoms** bar. This will activate the atom for the outline.
 
 Next, you can access the atom's settings by selecting the cogwheel icon.
 
-![](assets/atom_fixedheader2.png)
+![](assets/atom_fixedheader2.jpeg)
 
 | Setting           | Description                                                                               |
 | :-----            | :-----                                                                                    |
