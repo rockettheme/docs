@@ -1,21 +1,22 @@
 ---
-title: Chimera: Animation on Scroll
+title: Anacron: Animation on Scroll
 description: Your Guide to Using Animation on Scroll
-breadcrumb: /grav:Grav/!themes:Themes/chimera:Chimera
+breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ---
 
 AOS Atom
 ---------
-Starting with Chimera 2.1.0, we have implemented the <a href="https://michalsnik.github.io/aos/">Animation on Scroll</a> (AOS) library to allow animations to be used within the Chimera theme.
+
+<a href="https://michalsnik.github.io/aos/">Animation on Scroll</a> (AOS) is a small JS library that allows you to animate elements on your page as you scroll.
 
 To initialize the library, go to your Base Outline > Page Settings and drag the Animate on Scroll atom into the dock. You can then save the Page Settings.
 
-![](assets/aos_atom.png)
+![](assets/aos_atom.jpg)
 
 By clicking on the atom, you will find the Global settings to be used for your AOS elements:
 
-![](assets/aos_settings.png)
+![](assets/aos_settings.jpg)
 
 AOS Attributes
 ---------
