@@ -95,18 +95,18 @@ Key Features
 
 ## Animated
 
-![Layout Manager](ft-2.png)
+![Layout Manager](ft-2.jpg)
 
 The template makes uses of animated effects to add depth and character to content, without compromising on usability and professionalism. A series of introductory bounce and slide effects are built into Chimera, as triggered by scroll events.
 
 ## Dynamic Header
 
-![Style Settings](ft-3.png)
+![Style Settings](ft-3.jpg)
 
 The Dynamic, Scrolling Header, is a custom design feature that adds an animation effect the header, where the logo and menu are contained, whereby the header elegantly collapses upon downward scroll and smoothly reappears on upward scroll.
 
 ## Responsive
 
-![Responsive](ft-4.png)
+![Responsive](ft-4.jpg)
 
 A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
