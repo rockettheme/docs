@@ -23,11 +23,13 @@ Here is a list of particles that are available in Chimera, as well as links to d
 
 >> All Home Particles can be edited via Templates > Chimera - Home > Layout.
 
-* Template Particles
-    - [Block Content](particle_block.md)
+* Template Particles / Atoms
+    * [Animation on Scroll](atom_aos.md)
+    * [Block Content](particle_block.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
     * [Content Tabs](particle_contenttabs.md)
+    * [Fixed Header](atom_fixedheader.md) 
     * [Joomla Content](particle_joomla.md)
     * [Icon List](particle_iconlist.md)
     * [Image Grid](particle_image.md)

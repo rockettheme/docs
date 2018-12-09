@@ -19,11 +19,13 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Particles
 ----- 
 
-* Theme Particles
-    - [Block Content](particle_block.md)
+* Theme Particles / Atoms
+    * [Animation on Scroll](atom_aos.md)
+    * [Block Content](particle_block.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
     * [Content Tabs](particle_contenttabs.md)
+    * [Fixed Header](atom_fixedheader.md)
     * [Grav Content](particle_grav.md)
     * [Icon List](particle_iconlist.md)
     * [Image Grid](particle_image.md)

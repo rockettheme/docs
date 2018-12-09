@@ -1,7 +1,7 @@
 ---
-title: Anacron: Video Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/anacron:Anacron
+title: Chimera: Video Particle
+description: Your Guide to Recreating Elements of the Chimera Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/chimera:Chimera
 
 ---
 

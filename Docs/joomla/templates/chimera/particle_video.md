@@ -1,7 +1,7 @@
 ---
-title: Anacron: Video Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
+title: Chimera: Video Particle
+description: Your Guide to Recreating Elements of the Chimera Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ---
 

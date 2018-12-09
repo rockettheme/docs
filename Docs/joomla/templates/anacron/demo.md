@@ -23,12 +23,13 @@ Here is a list of particles that are available in Anacron, as well as links to d
 
 >> All Home Particles can be edited via Templates > Anacron - Home > Layout.
 
-* Theme Particles
-    - [Case Studies](particle_case.md)
+* Template Particles / Atoms
+    * [Animation on Scroll](atom_aos.md)
+    * [Block Content](particle_block.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
     * [Content Tabs](particle_contenttabs.md)
-    * [Features Slider](particle_featuresslider.md)
+    * [Fixed Header](atom_fixedheader.md) 
     * [Joomla Content](particle_joomla.md)
     * [Headlines](particle_headlines.md)
     * [Image Grid](particle_image.md)
@@ -36,10 +37,12 @@ Here is a list of particles that are available in Anacron, as well as links to d
     * [Lists](particle_lists.md)
     * [Newsletter](particle_newsletter.md)
     * [Promo Image](particle_promoimage.md)
+    * [Showcase](particle_showcase.md)
     * [Simple Counter](particle_simplecounter.md)
     * [Strips Slider](particle_stripsslider.md)
     * [Tab Image](particle_tabimage.md)
     * [Testimonial](particle_testimonial.md)
+    * [Video](particle_video.md)
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -55,7 +58,6 @@ Here is a list of particles that are available in Anacron, as well as links to d
 Here is a list of RocketTheme extensions used to create the demo version of Anacron:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
 Many of these extensions are included with the Anacron RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
