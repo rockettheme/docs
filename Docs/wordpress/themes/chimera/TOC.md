@@ -21,11 +21,13 @@ support: http://www.rockettheme.com/forum/wordpress-theme-chimera/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](demo.md#recreating-the-front-page)
-    * Theme Particles
+    * Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         - [Block Content](particle_block.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
+        - [Fixed Header](atom_fixedheader.md)
         - [WordPress Content](particle_wordpress.md)
         - [Icon List](particle_iconlist.md)
         - [Image Grid](particle_image.md)
