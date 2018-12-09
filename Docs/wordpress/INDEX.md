@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Chimera (Gantry 5)](themes/chimera)
 	- [Reiko](themes/reiko)
 	- [Anacron (Gantry 5)](themes/anacron)
 	- [Calla](themes/calla)
@@ -104,7 +105,7 @@ more:
 	- [Iridescent](themes/iridescent)
 	- [Myriad (Gantry 4)](themes/g4myriad)
 	- [Ricochet](themes/ricochet)
-	- [Chimera](themes/chimera)
+	- [Chimera](themes/g4chimera)
 	- [Nuance](themes/nuance)
 	- [Tessellate](themes/tessellate)
 	- [Plethora](themes/plethora)
