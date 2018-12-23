@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Koleti](templates/koleti)
 	- [Chimera (Gantry 5)](templates/chimera)
 	- [Reiko](templates/reiko)
 	- [Anacron (Gantry 5)](templates/anacron)
