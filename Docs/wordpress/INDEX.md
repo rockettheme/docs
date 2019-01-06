@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Koleti](themes/koleti)
 	- [Chimera (Gantry 5)](themes/chimera)
 	- [Reiko](themes/reiko)
 	- [Anacron (Gantry 5)](themes/anacron)
