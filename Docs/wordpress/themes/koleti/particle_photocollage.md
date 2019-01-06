@@ -7,6 +7,8 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ## Introduction
 
+![](assets/particle_photocollage1.png)
+
 The **Photo Collage** particle displays images in a fun, modern collage.
 
 Here are the topics covered in this guide:
@@ -14,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Articles](#articles)
+    - [Posts](#posts)
     - [Display](#display)
 
 ## Configuration
@@ -48,23 +50,23 @@ These items make up the individual featured items in the particle.
 | Photo        | Select a photo to display as the item.                        |
 | Icon         | Set an icon to appear when you hover over the image.          |
 
-### Articles
+### Posts
 
 ![](assets/particle_photocollage6.png)
 
-| Option             | Description                                                                                                     |
-| :-----             | :-----                                                                                                          |
-| Categories         | Select the categories of articles this particle will display.                                                   |
-| Articles           | Select the number of articles you would like the particle to fetch.                                             |
-| Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of articles to display.                                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                    |
-| Order By           | Choose the type of factor to order by.                                                                          |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                                 |
+| Option             | Description                                                                                  |
+| :-----             | :-----                                                                                       |
+| Categories         | Select the categories of posts this particle will display.                                   |
+| Posts              | Select the number of posts you would like the particle to fetch.                             |
+| Sticky Posts       | **Hide** or **Show** **Sticky** posts.                                                       |
+| Number of Posts    | Enter the maximum number of posts to display.                                                |
+| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Order By           | Choose the type of factor to order by.                                                       |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_photocollage7.png)
 
@@ -74,4 +76,4 @@ This section configures how articles are displayed.
 | Title       | Choose whether or not the title of an article should be shown. |
 | Title Limit | Set a character limit for titles.                              |
 
->> Note: When using WordPress Content source, images can utilize **Width** and **Height** options by adding, for example, **width-2** and/or **height-2** to the **Alt Text** field for either the Intro or Full image of the Article(s) you are displaying.
+>> Note: When using WordPress Content source, images can utilize the **Width** and **Height** options by creating a new Tag such as **width-2** and/or **height-2** for the Post(s) you are displaying.
