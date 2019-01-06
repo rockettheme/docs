@@ -1,7 +1,7 @@
 ---
 title: Koleti: Logos Particle
-description: Your Guide to Recreating Elements of the Koleti Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/koleti:Koleti
+description: Your Guide to Recreating Elements of the Koleti Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ---
 
