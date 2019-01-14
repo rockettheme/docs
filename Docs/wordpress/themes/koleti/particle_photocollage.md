@@ -7,8 +7,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ## Introduction
 
-![](assets/particle_photocollage1.png)
-
 The **Photo Collage** particle displays images in a fun, modern collage.
 
 Here are the topics covered in this guide:
