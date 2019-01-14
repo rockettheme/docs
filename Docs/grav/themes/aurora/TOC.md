@@ -39,8 +39,6 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Testimonials](particle_testimonials.md)
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
-    - Theme Atoms
-        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
