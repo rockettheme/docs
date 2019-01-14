@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-xenon/
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Block Content](particle_block.md)
         + [Chartist](particle_chartist.md)
         + [Contact](particle_contact.md)

@@ -20,7 +20,8 @@ support: http://www.rockettheme.com/forum/grav-theme-salient/
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Animated Block](particle_animatedblock.md)
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)

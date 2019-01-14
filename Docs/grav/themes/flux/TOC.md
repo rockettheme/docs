@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-flux/
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Accordion](particle_accordion.md)
         + [Block Content](particle_block.md)
         + [Calendar](particle_calendar.md)
@@ -41,8 +42,6 @@ support: http://www.rockettheme.com/forum/grav-theme-flux/
         + [Slider](particle_slider.md)
         + [Testimonials](particle_testimonials.md)
         + [Video](particle_video.md)
-    - Theme Atoms
-        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    - Template Particles
+    - Theme Particles / Atoms
+        + [Animation on Scroll](atom_aos.md)
         + [Accordion](particle_accordion.md)
         + [Accordion Menu](particle_accordionmenu.md)
         + [Accordion Slider](particle_accordionslider.md)

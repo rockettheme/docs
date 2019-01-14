@@ -21,7 +21,9 @@ support: http://www.rockettheme.com/forum/grav-theme-antares/
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
+        - [Fixed Header](atom_fixedheader.md)
         + [FlexSlider](particle_flexslider.md)
         + [Promo Content](particle_promocontent.md)
         + [Block Content](particle_block.md)

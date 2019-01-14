@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-koleti/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Audio Player](particle_audio.md)
         + [Block Content](particle_block.md)
         + [Calendar](particle_calendar.md)

@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-versla/
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    * Theme Particles
+    * Theme Particles / Atoms
+        * [Animation on Scroll](atom_aos.md)
         * [Owl Carousel](particle_owl.md)
         * [Shopping Cart](particle_shopping.md)
         * [Product List](particle_productlist.md)

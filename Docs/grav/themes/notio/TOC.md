@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-notio/
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Accordion](particle_accordion.md)
         + [Article Tabs](particle_articletabs.md)
         + [Authors List](particle_authors.md)
@@ -45,8 +46,6 @@ support: http://www.rockettheme.com/forum/grav-theme-notio/
         + [Simple Counter](particle_simplecounter.md)
         + [Video](particle_video.md)
         + [Video Carousel](particle_videocarousel.md)
-    - Theme Atoms
-        + [Fixed Header](atom_fixedheader.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-acronym/
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Particles](particle_particles.md)
         + [Headerlicious](particle_headerlicious.md)
         + [Flipping Cards](particle_flippingcards.md)

@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-requiem/
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Animated Block](particle_animatedblock.md)
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)

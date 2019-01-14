@@ -18,8 +18,7 @@ support: http://www.rockettheme.com/forum/grav-theme-chimera/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
-        * [Style Settings](demo_settings.md)
-        * [Animation on Scroll](aos.md)         
+        * [Style Settings](demo_settings.md)        
         * [Contact Form](../../start/contact.md)
     * Theme Particles / Atoms
         - [Animation on Scroll](atom_aos.md)   

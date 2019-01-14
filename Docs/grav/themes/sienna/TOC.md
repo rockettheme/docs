@@ -20,7 +20,8 @@ support: http://www.rockettheme.com/forum/grav-theme-sienna/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
-    * Theme Particles
+    * Theme Particles / Atoms
+        * [Animation on Scroll](atom_aos.md)
         * [Owl Carousel](particle_owl.md)
         * [Booking Form](particle_booking.md)
         * [Simple Booking](particle_simplebooking.md)

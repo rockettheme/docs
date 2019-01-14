@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-calla/
         + [Extensions](demo.md#recommended-extensions)
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         * [Block Content](particle_block.md)
         * [Carousel](particle_carousel.md)
         * [Case Studies](particle_case.md)

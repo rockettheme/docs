@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-isotope/
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)
         + [Content List](particle_contentlist.md)

@@ -21,7 +21,8 @@ support: http://www.rockettheme.com/forum/grav-theme-topaz/
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    * Theme Particles
+    * Theme Particles / Atoms
+        * [Animation on Scroll](atom_aos.md)
         * [Owl Carousel](particle_owl.md)
         * [BookBlock](particle_book.md)
         * [Grav Content](particle_grav.md)

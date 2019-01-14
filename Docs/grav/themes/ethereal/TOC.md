@@ -20,7 +20,8 @@ support: http://www.rockettheme.com/forum/grav-theme-ethereal/
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         + [Blog Content](particle_blogcontent.md)
         + [Contact](particle_contact.md)
         + [Content List](particle_contentlist.md)

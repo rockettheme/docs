@@ -20,7 +20,8 @@ support: http://www.rockettheme.com/forum/grav-theme-fluent/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles
+    - Theme Particles / Atoms
+        - [Animation on Scroll](atom_aos.md)
         * [Block Content](particle_block.md)
         * [Case Studies](particle_case.md)
         * [Grid Content](particle_gridcontent.md)
