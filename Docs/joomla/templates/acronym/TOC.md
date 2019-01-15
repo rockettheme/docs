@@ -43,6 +43,8 @@ support: http://www.rockettheme.com/forum/joomla-template-acronym/
         + [Video](particle_video.md)
         + [Pricing Table](particle_pricing.md)
         + [Simple Menu](particle_simplemenu.md)
+    - Template Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -25,10 +25,10 @@ Once the atom is in place, you can now use the data-aos attributes within any of
 <div data-aos="fade-up">Photo Centric Theme</div>
 ~~~
 
-You can also set each elements duration, easing, and delay as shown here:
+You can also set each elements duration and delay as shown here:
 
 ~~~ .html
-<div data-aos="fade-up" data-aos-delay="500" data-aos-duration="500" data-aos-easing="ease-in-out">Focus</div>
+<div data-aos="fade-up" data-aos-delay="500" data-aos-duration="500">Focus</div>
 ~~~
 
 The animation attributes can also be used within a Section / Block via the Tag Attribute option:

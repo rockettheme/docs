@@ -34,6 +34,8 @@ support: http://www.rockettheme.com/forum/joomla-template-antares/
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
             * [FixedSide](demo_fixedside.md)
+        * Template Atoms
+            * [Animation on Scroll](atom_aos.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)
