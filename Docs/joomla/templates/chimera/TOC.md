@@ -22,13 +22,11 @@ support: http://www.rockettemplate.com/forum/joomla-template-chimera/
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
         * [Animation on Scroll](aos.md)         
-    * Template Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)   
+    * Template Particles  
         - [Block Content](particle_block.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
-        - [Fixed Header](atom_fixedheader.md)
         - [Joomla Content](particle_joomla.md)
         - [Icon List](particle_iconlist.md)
         - [Image Grid](particle_image.md)
@@ -45,6 +43,9 @@ support: http://www.rockettemplate.com/forum/joomla-template-chimera/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Video](particle_video.md)
+    * Template Atoms
+        - [Animation on Scroll](atom_aos.md)
+        - [Fixed Header](atom_fixedheader.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

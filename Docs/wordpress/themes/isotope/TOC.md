@@ -57,6 +57,8 @@ support: http://www.rockettheme.com/forum/wordpress-theme-isotope/
         + [Promo Image](particle_promoimage.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Testimonial](particle_testimonial.md)
+    - Theme Atoms
+        - [Animation on Scroll](atom_aos.md) 
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

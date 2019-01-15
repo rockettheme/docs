@@ -40,6 +40,8 @@ support: http://www.rockettheme.com/forum/wordpress-theme-salient/
             * [Pricing](pricing.md)
             * [Blog](blog.md)
             * [Coming Soon](comingsoon.md)
+    * Theme Atoms
+        - [Animation on Scroll](atom_aos.md) 
     * [FAQ](faq.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)

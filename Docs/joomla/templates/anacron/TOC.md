@@ -21,12 +21,10 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
         + [Extensions](demo.md#recommended-extensions)
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
-    * Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)    
+    * Template Particles   
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
-        - [Content Tabs](particle_contenttabs.md)
-        - [Fixed Header](atom_fixedheader.md)        
+        - [Content Tabs](particle_contenttabs.md)        
         - [Joomla Articles](particle_joomla.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle.info.md)
@@ -42,6 +40,9 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
         - [Tab Image](particle_tabimage.md)
         - [Testimonials](particle_testimonial.md)
         - [Video](particle_video.md)
+    * Template Atoms
+        - [Animation on Scroll](atom_aos.md) 
+        - [Fixed Header](atom_fixedheader.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
