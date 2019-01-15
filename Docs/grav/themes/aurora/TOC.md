@@ -20,8 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         + [Block Content](particle_block.md)
         + [Carousel](particle_carousel.md)
         + [Case Studies](particle_case.md)
@@ -29,7 +28,6 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Grid Statistic](particle_grid.md)
         + [Image Grid](particle_image.md)
         + [Info List](particle_info.md)
-        + [Joomla Articles](particle_joomla.md)
         + [Newsletter](particle_newsletter.md)
         + [Panel Slider](particle_panel.md)
         + [Pricing Table](particle_pricing.md)
@@ -39,6 +37,8 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Testimonials](particle_testimonials.md)
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

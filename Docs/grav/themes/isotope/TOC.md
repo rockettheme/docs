@@ -21,8 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-isotope/
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)
         + [Content List](particle_contentlist.md)
@@ -39,6 +38,8 @@ support: http://www.rockettheme.com/forum/grav-theme-isotope/
         + [Promo Image](particle_promoimage.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Testimonial](particle_testimonial.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

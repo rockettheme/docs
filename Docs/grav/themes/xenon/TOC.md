@@ -21,8 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-xenon/
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         + [Block Content](particle_block.md)
         + [Chartist](particle_chartist.md)
         + [Contact](particle_contact.md)
@@ -42,6 +41,8 @@ support: http://www.rockettheme.com/forum/grav-theme-xenon/
         + [Promo Image](particle_promoimage.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Testimonial](particle_testimonial.md)
+    - Theme Atoms
+        - [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -20,8 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-sienna/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Front Page Layout](layout.md)
-    * Theme Particles / Atoms
-        * [Animation on Scroll](atom_aos.md)
+    * Theme Particles
         * [Owl Carousel](particle_owl.md)
         * [Booking Form](particle_booking.md)
         * [Simple Booking](particle_simplebooking.md)
@@ -34,6 +33,8 @@ support: http://www.rockettheme.com/forum/grav-theme-sienna/
         * [Grid Statistic](particle_grid.md)
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
+    * Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     * Core Particles 
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

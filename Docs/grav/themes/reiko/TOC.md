@@ -21,8 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-reiko/
         + [Particle Settings](demo.md#widget-and-particle-settings)
         + [Front Page Layout](layout.md)
         + [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         * [Block Content](particle_block.md)
         * [Featured Videos](particle_featuredvideos.md)
         * [Grid Statistic](particle_grid.md)
@@ -45,6 +44,8 @@ support: http://www.rockettheme.com/forum/grav-theme-reiko/
         * [Table Tabs](particle_tabletabs.md)
         * [Team](particle_team.md)
         * [Video](particle_video.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

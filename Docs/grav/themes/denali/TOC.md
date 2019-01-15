@@ -20,8 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-denali/
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         * [Block Content](particle_block.md)
         * [Carousel](particle_carousel.md)
         * [Case Studies](particle_case.md)
@@ -40,6 +39,8 @@ support: http://www.rockettheme.com/forum/grav-theme-denali/
         * [Slider](particle_slider.md)
         * [Social](particle_social.md)
         * [Video](particle_video.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

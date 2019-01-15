@@ -21,8 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         * [Particle Settings](demo.md#home-particles)
         * [Front Page Layout](layout.md)
         * [Contact Form](../../start/contact.md)
-    - Theme Particles / Atoms
-        + [Animation on Scroll](atom_aos.md)
+    - Theme Particles
         + [Accordion](particle_accordion.md)
         + [Accordion Menu](particle_accordionmenu.md)
         + [Accordion Slider](particle_accordionslider.md)
@@ -40,6 +39,8 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         + [Simple Counter](particle_simplecounter.md)
         + [Simple Menu](particle_simplemenu.md)
         + [Video](particle_video.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
