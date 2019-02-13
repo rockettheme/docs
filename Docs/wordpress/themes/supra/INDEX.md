@@ -35,7 +35,6 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Newsletter
-* Owl Showcase
 * Panel Slider
 * Popup Grid
 * Pricing Table

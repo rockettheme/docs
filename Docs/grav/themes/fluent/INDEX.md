@@ -16,7 +16,7 @@ Fluent is a clean design with modern, transparent elements and powerful sliders.
 Requirements
 -----
 
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

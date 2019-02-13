@@ -15,7 +15,7 @@ Acronym is the integration of modern design and a next-generation framework in o
 Requirements
 -----
 
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

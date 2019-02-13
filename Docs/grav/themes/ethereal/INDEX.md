@@ -14,7 +14,7 @@ Ethereal is an exquisitely designed theme, bursting with elegance, sharpness and
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

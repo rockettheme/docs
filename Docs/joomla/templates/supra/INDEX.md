@@ -35,7 +35,6 @@ Key Features
 * Image Grid
 * Joomla Articles
 * Newsletter
-* Owl Showcase
 * Panel Slider
 * Popup Grid
 * Pricing Table
