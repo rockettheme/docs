@@ -14,7 +14,7 @@ Anacron is a vibrant, highly adaptable and engaging theme, ideal for a vast sele
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

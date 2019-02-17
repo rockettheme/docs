@@ -18,14 +18,12 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
-        * [Style Settings](demo_settings.md)
-        * [Animation on Scroll](aos.md)        
+        * [Style Settings](demo_settings.md)      
     * Theme Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
-        - [Content Tabs](particle_contenttabs.md)
-        - [Fixed Header](atom_fixedheader.md)        
+        - [Content Tabs](particle_contenttabs.md)      
         - [Features Slider](particle_featuresslider.md)
         - [WordPress Posts](particle_wordpress.md)
         - [Image Grid](particle_image.md)
@@ -37,7 +35,9 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
-        - [Video](particle_video.md)        
+        - [Video](particle_video.md)  
+    * Theme Atoms        
+        * [Animation on Scroll](aos.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

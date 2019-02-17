@@ -15,7 +15,7 @@ Flux is the integration of modern design and a next-generation framework in one 
 Requirements
 -----
 
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support
@@ -35,7 +35,6 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Newsletter
-* Owl Showcase
 * Pricing Table
 * Simple Counter
 * Simple Charts

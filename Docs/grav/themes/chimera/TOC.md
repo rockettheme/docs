@@ -18,16 +18,13 @@ support: http://www.rockettheme.com/forum/grav-theme-chimera/
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
         * [Particles](demo.md#particles)
-        * [Style Settings](demo_settings.md)
-        * [Animation on Scroll](aos.md)         
+        * [Style Settings](demo_settings.md)        
         * [Contact Form](../../start/contact.md)
-    * Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)   
+    * Theme Particles  
         - [Block Content](particle_block.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
-        - [Fixed Header](atom_fixedheader.md) 
         - [Grav Content](particle_grav.md)
         - [Icon List](particle_iconlist.md)
         - [Image Grid](particle_image.md)
@@ -44,6 +41,9 @@ support: http://www.rockettheme.com/forum/grav-theme-chimera/
         - [Strips Slider](particle_stripsslider.md)
         - [Tab Image](particle_tabimage.md)
         - [Video](particle_video.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
+        * [Fixed Header](atom_fixedheader.md) 
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -16,7 +16,7 @@ Denali is a flexible and exclusive design built on the powerful, state-of-the-ar
 Requirements
 -----
 
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

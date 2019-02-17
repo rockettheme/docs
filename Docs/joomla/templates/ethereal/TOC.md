@@ -29,6 +29,8 @@ support: http://www.rockettheme.com/forum/joomla-template-ethereal/
             * [Extension](demo_extension.md)
             * [Bottom](demo_bottom.md)
             * [Copyright](demo_copyright.md)
+        * Template Atoms
+            * [Animation on Scroll](atom_aos.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md) 

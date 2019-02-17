@@ -15,7 +15,7 @@ Koleti brings a new generation of web design to your campus. From video tours to
 Requirements
 -----
 
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

@@ -36,6 +36,8 @@ support: http://www.rockettheme.com/forum/joomla-template-remnant/
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
         * [Simple Weather](particle_weather.md)
+    * Template Atoms
+        * [Animation on Scroll](atom_aos.md)
     * Core Particles 
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

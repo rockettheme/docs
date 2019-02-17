@@ -28,7 +28,6 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Grid Statistic](particle_grid.md)
         + [Image Grid](particle_image.md)
         + [Info List](particle_info.md)
-        + [Joomla Articles](particle_joomla.md)
         + [Newsletter](particle_newsletter.md)
         + [Panel Slider](particle_panel.md)
         + [Pricing Table](particle_pricing.md)
@@ -39,7 +38,7 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
     - Theme Atoms
-        + [Fixed Header](atom_fixedheader.md)
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

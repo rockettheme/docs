@@ -63,6 +63,7 @@ more:
 	- [Kraken](themes/kraken)
 	- [Requiem](themes/requiem)
 	- [Salient](themes/salient)
+	- [Vermilion](themes/vermilion)
 	- [Ambrosia](themes/ambrosia)
 	- [Ethereal](themes/ethereal)
 	- [Callisto](themes/callisto)

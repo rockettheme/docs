@@ -14,7 +14,7 @@ Salient is an admirable, clean design with a fresh approach for the ever-changin
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

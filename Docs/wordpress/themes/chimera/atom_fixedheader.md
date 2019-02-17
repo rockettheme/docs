@@ -24,8 +24,8 @@ Next, you can access the atom's settings by selecting the cogwheel icon.
 | Setting           | Description                                                                               |
 | :-----            | :-----                                                                                    |
 | Section           | Define the ID or class of the section that you want to set as fixed.                      |
-| Background to Use | Choose between the section's color and a custom color to use when the header is unpinned. |
-| Custom Background | Choose a custom background color for the fixed header once unpinned.                      |
+| Background to Use | Choose between the section's color and a custom color. 									|
+| Custom Background | Choose a custom background color for the fixed header.                      |
 | Autohide          | Choose if the fixed header autohides on scroll or stays visible.                          |
 | Display        	| Enabled Mobile, Disable Mobile, or Hide on Slideshow                        				|
 | Offset            | Vertical offset in pixels before the element is unpinned.                                 |

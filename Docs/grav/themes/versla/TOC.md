@@ -34,6 +34,8 @@ support: http://www.rockettheme.com/forum/grav-theme-versla/
         * [Simple Content](particle_simple.md)
         * [Simple Menu](particle_simplemenu.md)
         * [Image Grid](particle_image.md)
+    * Theme Atoms
+        - [Animation on Scroll](atom_aos.md)
     * Core Particles 
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

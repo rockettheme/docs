@@ -50,6 +50,8 @@ support: http://www.rockettheme.com/forum/wordpress-theme-kraken/
         + [Promo Image](particle_promoimage.md)
         + [Swiper](particle_swiper.md)
         + [Simple Counter](particle_simplecounter.md)
+    - Theme Atoms
+        - [Animation on Scroll](atom_aos.md) 
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

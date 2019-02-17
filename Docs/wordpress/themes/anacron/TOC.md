@@ -20,12 +20,10 @@ support: http://www.rockettheme.com/forum/wordpress-theme-anacron/
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-    * Theme Particles / Atoms
-        - [Animation on Scroll](atom_aos.md)    
+    * Theme Particles
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Content Tabs](particle_contenttabs.md)
-        - [Fixed Header](atom_fixedheader.md)        
         - [WordPress Posts](particle_wordpress.md)
         - [Image Grid](particle_image.md)
         - [Info List](particle.info.md)
@@ -41,6 +39,9 @@ support: http://www.rockettheme.com/forum/wordpress-theme-anacron/
         - [Tab Image](particle_tabimage.md)
         - [Testimonials](particle_testimonial.md)
         - [Video](particle_video.md)
+    * Theme Atoms
+        - [Animation on Scroll](atom_aos.md) 
+        - [Fixed Header](atom_fixedheader.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -19,7 +19,8 @@ support: http://www.rockettheme.com/forum/grav-theme-photon/
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
-        * Particle Settings
+        * Particle / Atom Settings
+            * [Animation on Scroll](atom_aos.md)
             * [Grav Content](particle_grav.md)
             * [Accordion](particle_accordion.md)
             * [Owl Carousel](particle_owl.md)

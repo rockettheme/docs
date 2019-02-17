@@ -23,6 +23,7 @@ support: http://www.rockettheme.com/forum/joomla-template-protean/
         * [Home Particles](demo.md#home-particles)
         * [Front Page Layout](layout.md)
     * Template Particles
+        * [Animation on Scroll](atom_aos.md)
         * [Owl Carousel](particle_owl.md)
         * [Video and Video Grid](particle_video.md)
         * [Flipster Cover Flow](particle_flip.md)

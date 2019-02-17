@@ -36,7 +36,6 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Newsletter
-* Owl Showcase
 * Pricing Table
 * Simple Counter
 * Simple Charts

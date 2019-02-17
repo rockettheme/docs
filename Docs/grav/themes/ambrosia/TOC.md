@@ -32,6 +32,8 @@ support: http://www.rockettheme.com/forum/grav-theme-ambrosia/
         + [Newsletter](particle_newsletter.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Stripes Slider](particle_stripeslider.md)
+    - Theme Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

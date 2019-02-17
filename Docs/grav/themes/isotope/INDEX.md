@@ -14,7 +14,7 @@ Isotope is a theme bolstered with bold and impressive visual elements, to add de
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.2+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

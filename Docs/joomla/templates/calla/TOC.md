@@ -39,6 +39,8 @@ support: http://www.rockettheme.com/forum/joomla-template-calla/
         * [Social](particle_social.md)
         * [Springboard](particle_springboard.md)
         * [Video](particle_video.md)
+    - Template Atoms
+        * [Animation on Scroll](atom_aos.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -46,7 +46,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-notio/
         + [Video](particle_video.md)
         + [Video Carousel](particle_videocarousel.md)
     - Theme Atoms
-        + [Fixed Header](atom_fixedheader.md)
+        - [Animation on Scroll](atom_aos.md) 
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
