@@ -22,7 +22,7 @@ Particles
 * Theme Particles
     * [Showcase](particle_showcase.md)
     * [Headlines](particle_headlines.md)
-    * [Feature Blocks](particle_featureblock.md)
+    * [Feature Blocks](particle_featureblocks.md)
     * [Strips Slider](particle_stripsslider.md)
     * [MailChimp](particle_mailchimp.md)
     * [Lists](particle_lists.md)
@@ -33,7 +33,6 @@ Particles
     * [Block Content](particle_block.md)
     * [Testimonial](particle_testimonial.md)
     * [Image Grid](particle_image.md)
-    * [Calendar](particle_calendar.md)
     * [Simple Counter](particle_simplecounter.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
