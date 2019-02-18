@@ -7,7 +7,7 @@ breadcrumb: /grav:Grav/!themes:Themes/vermilion:Vermilion
 
 ## Introduction
 
-![](assets/particle_showcase1.jpeg)
+![](assets/particle_showcase1.png)
 
 The **Showcase** particle introduces your brand to new visitors in a bold, revealing content block.
 
@@ -23,7 +23,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_showcase2.jpeg)
+![](assets/particle_showcase2.png)
 
 | Option        | Description                                                                                         |
 | :-----        | :-----                                                                                              |
