@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Vermilion](themes/vermilion)
 	- [Koleti](themes/koleti)
 	- [Chimera](themes/chimera)
 	- [Reiko](themes/reiko)
