@@ -19,7 +19,7 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 Particles
 ----- 
 
-* Theme Particles / Atoms
+* Theme Particles
     * [Showcase](particle_showcase.md)
     * [Headlines](particle_headlines.md)
     * [Feature Blocks](particle_featureblock.md)
