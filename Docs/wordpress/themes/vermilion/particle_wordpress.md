@@ -1,7 +1,7 @@
 ---
-title: Anacron: WordPress Posts Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/anacron:Anacron
+title: Vermilion: WordPress Posts Particle
+description: Your Guide to Recreating Elements of the Vermilion Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/vermilion:Vermilion
 
 ---
 

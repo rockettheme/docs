@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Vermilion (Gantry 5)](themes/vermilion)
 	- [Koleti](themes/koleti)
 	- [Chimera (Gantry 5)](themes/chimera)
 	- [Reiko](themes/reiko)
@@ -111,7 +112,7 @@ more:
 	- [Tessellate](themes/tessellate)
 	- [Plethora](themes/plethora)
 	- [Osmosis](themes/osmosis)
-	- [Vermilion](themes/vermilion)
+	- [Vermilion (Gantry 4)](themes/g4vermilion)
 	- [Lexicon](themes/lexicon)
 	- [Epsilon](themes/epsilon)
 	- [Anacron (Gantry 4)](themes/g4anacron)
