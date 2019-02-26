@@ -33,7 +33,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-vermilion/
         - [Audio Player](particle_audio.md)
         - [Block Content](particle_block.md)
         - [Testimonial](particle_testimonial.md)
-        - [Image Grid](particle_image.md))
+        - [Image Grid](particle_image.md)
         - [Simple Counter](particle_simplecounter.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
