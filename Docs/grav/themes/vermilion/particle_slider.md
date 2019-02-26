@@ -53,9 +53,6 @@ These items make up the individual featured items in the particle.
 | Image              | Set an image for the item.                                        |
 | Title              | Enter a title for the item.                                       |
 | Description        | Enter a description for the item.                                 |
-| Author Image       | Select an image for the author's byline.                          |
-| Author Name        | Enter the name of the author.                                     |
-| Author AOS Display | Set the Animation On Scroll for the author.                       |
 | Link               | Enter a link for the item.                                        |
 | Link Text          | Enter text that appears as the link for the item.                 |
 | Target             | Select between **Self** and **New Window** for the link's target. |

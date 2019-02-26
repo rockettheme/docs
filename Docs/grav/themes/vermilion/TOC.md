@@ -23,7 +23,7 @@ support: http://www.rockettheme.com/forum/grav-theme-vermilion/
     * Theme Particles
         - [Showcase](particle_showcase.md)
         - [Headlines](particle_headlines.md)
-        - [Feature Blocks](particle_featureblock.md)
+        - [Feature Blocks](particle_featureblocks.md)
         - [Strips Slider](particle_stripsslider.md)
         - [MailChimp](particle_mailchimp.md)
         - [Lists](particle_lists.md)
@@ -33,8 +33,7 @@ support: http://www.rockettheme.com/forum/grav-theme-vermilion/
         - [Audio Player](particle_audio.md)
         - [Block Content](particle_block.md)
         - [Testimonial](particle_testimonial.md)
-        - [Image Grid](particle_image.md)
-        - [Calendar](particle_calendar.md)
+        - [Image Grid](particle_image.md))
         - [Simple Counter](particle_simplecounter.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
@@ -47,7 +46,6 @@ support: http://www.rockettheme.com/forum/grav-theme-vermilion/
         - [Video](particle_video.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
-        * [Fixed Header](atom_fixedheader.md) 
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

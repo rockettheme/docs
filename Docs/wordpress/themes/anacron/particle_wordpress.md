@@ -1,7 +1,7 @@
 ---
-title: Calla: WordPress Posts Particle
-description: Your Guide to Recreating Elements of the Calla Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/calla:Calla
+title: Anacron: WordPress Posts Particle
+description: Your Guide to Recreating Elements of the Anacron Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/anacron:Anacron
 
 ---
 
