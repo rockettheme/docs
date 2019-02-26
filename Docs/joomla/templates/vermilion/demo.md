@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/vermilion:Vermilion
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Vermilion can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site. 
+Recreating features of the demo site used to show off some of the more interesting aspects of Vermilion can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Vermilion Template.
 
@@ -16,56 +16,56 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Module Settings
+Particles
 -----
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Here is a list of particles that are available in Vermilion, as well as links to documentation to help you get started:
 
-![][Vermilion2]
+>> All Home Particles can be edited via Templates > Vermilion - Home > Layout. Any additional particles that are found in the Subpages of our Vermilion RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
-:   1. **FP Showcase**  [12%, 19%, se]
-    2. **FP Utility**  [9%, 40%, sw]
-    3. **FP RokSprocket Headlines**  [19%, 19%, se]
-    4. **FP Feature**  [23%, 19%, se]
-    5. **FP MainTop**  [34%, 19%, se]
-    6. **FP ExpandedTop**  [42%, 19%, se]
-    7. **FP RokSprocket Strips**  [50%, 19%, se]
-    8. **FP RokSprocket Slideshow**  [60%, 19%, se]
-    9. **FP RokSprocket Tabs**  [72%, 19%, se]
-    10. **More Features**  [72%, 51%, se]
-    11. **More Details** [84%, 45%, se]
-    12. **Demo Info** [87%, 19%, se]
-    13. **Sample Pages** [87%, 52%, se]
-
-We have detailed how to recreate the individual modules pictured above in the links below.
-
-1. [FP Showcase][module1]
-2. [FP Utility][module2]
-3. [FP RokSprocket Headlines][module3]
-4. [FP Feature][module4]
-5. [FP MainTop][module5]
-6. [FP ExpandedTop][module6]
-7. [FP RokSprocket Strips][module7]
-8. [FP RokSprocket Slideshow][module8]
-9. [FP RokSprocket Tabs][module9]
-10. [More Features][module10]
-11. [More Details][module11]
-12. [Demo Info][module12]
-13. [Sample Pages][module13]
+* Template Particles
+    * [Showcase](particle_showcase.md)
+    * [Headlines](particle_headlines.md)
+    * [Feature Blocks](particle_featureblocks.md)
+    * [Strips Slider](particle_stripsslider.md)
+    * [MailChimp](particle_mailchimp.md)
+    * [Lists](particle_lists.md)
+    * [Mosaic](particle_mosaic.md)
+    * [Pricing Table](particle_pricing.md)
+    * [Joomla Content](particle_joomla.md)
+    * [Audio Player](particle_audio.md)
+    * [Block Content](particle_block.md)
+    * [Testimonial](particle_testimonial.md)
+    * [Image Grid](particle_image.md)
+    * [Simple Counter](particle_simplecounter.md)
+    * [Contact](particle_contact.md)
+    * [Content List](particle_contentlist.md)
+    * [Content Tabs](particle_contenttabs.md)
+    * [Info List](particle_info.md)
+    * [Progress Bar](particle_progressbar.md)
+    * [Promo Image](particle_promoimage.md)
+    * [Slider](particle_slider.md)
+    * [Tab Image](particle_tabimage.md)
+    * [Video](particle_video.md)
+* Core Particles 
+    - [Logo](http://docs.gantry.org/gantry5/particles/logo)
+    - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+    - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+    - [Social](http://docs.gantry.org/gantry5/particles/social)
+    - [Positions](http://docs.gantry.org/gantry5/particles/position)
+    - [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+    - [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+    - [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+    - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+    - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Extensions
 -----
 
 Here is a list of RocketTheme extensions used to create the demo version of Vermilion:
 
-* [Gantry Template Framework][gantry]
-* [RokAjaxSearch][rokajaxsearch]
-* [RokBox][rokbox]
-* [RokCommon Library](https://rockettheme.com/joomla/extensions/rokutilities)
-* [RokSprocket][roksprocket]
-* [RokCandy][rokcandy]
-* [RokNavMenu][roknavmenu]
-* [RokBooster][rokbooster]
+* [Gantry 5 Theme Framework](http://gantry.org/)
+* [RokBooster](http://www.rockettheme.com/joomla/extensions/rokbooster)
 
 Many of these extensions are included with the Vermilion RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
@@ -74,61 +74,30 @@ Recreating the Front Page
 
 The front page of the Vermilion demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Vermilion demo.
 
-Template Settings
+Home Page Layout Presets
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a style override. This can be done by navigating to **Administrator -> Extensions -> Template Manager** and selecting the template you wish to change.  Once you have checked the box next to the template, you can click the **Duplicate** button to create a second copy of the template. This will become the Override while the primary copy of the template remains the designated Master.
+![Layout Presets](assets/layout_presets.png)
 
-Only options that are different from the Master copy will take hold on the menu items you have assigned to the override. In this case, you will be assigning the front page to the override as we have in the demo.
+If you did not choose to 'Install Sample Data' upon installing the Vermilion theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-It would be a good idea for organization to name this override something like **Vermilion - Home** as it would be used only for the front page of your site.
+You can access this preset by selecting **Load** in the **Layout Manager**. Make sure to uncheck the "Keep the current Particles while changing Preset" checkbox to start fresh with any of our presets.
 
-#### Assignments
+>> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
 
-The next step you will need to take in creating your Template Settings override is to assign the Front Page style to the site's home page. 
-
-You will need to start by navigating to **Admin > Extensions > Template Manager > (Your Home Override)** and select the **Assignments** tab. Under the **Main Menu** list, you will want to select **Home**.
-
-Doing this will assign the style to the home page. This will allow the style to cover all access scenarios that would lead a user to your site's main home page.
-
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [template style portion][demooverride] of this tutorial.
-
-Menu Settings
+Menu Editor
 -----
 
-![][mainmenu]
+![](assets/menu_1.png)
 
-In your site's main menu, you will want to make a couple of key changes in order for your home page to appear as it does in our demo.
+Vermilion has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
-You can find these settings by navigating to **Admin > Menus > Main Menu > Home**. Once there, you will want to select the **Page Display** tab.
+You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Vermilion > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
-You will need to change the **Page Class** setting under the Home menu item to ` may14-home`.
+Assignments
+-----
 
-[gantry]: http://gantry.org/downloads
-[rokajaxsearch]: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/joomla/extensions/rokbox
-[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
-[Vermilion2]: assets/vermilion2.jpeg
-[demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/joomla/extensions/roknavmenu
-[rokbooster]: http://www.rockettheme.com/joomla/extensions/rokbooster
-[rokcandy]: http://www.rockettheme.com/joomla/extensions/rokcandy
-[module1]: demo_module_1.md
-[module2]: demo_module_2.md
-[module3]: demo_module_3.md
-[module4]: demo_module_4.md
-[module5]: demo_module_5.md
-[module6]: demo_module_6.md
-[module7]: demo_module_7.md
-[module8]: demo_module_8.md
-[module9]: demo_module_9.md
-[module10]: demo_module_10.md
-[module11]: demo_module_11.md
-[module12]: demo_module_12.md
-[module13]: demo_module_13.md
-[module14]: demo_module_14.md
-[mainmenu]: assets/menu_1.jpeg
-[article]: assets/article.jpg
-[demo11]: assets/demo_10.jpeg
-[mobile]: assets/mobilemenu.jpeg
-[mobile2]: mobilemenu.md
+![](assets/assignments_1.png)
+
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Vermilion** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+

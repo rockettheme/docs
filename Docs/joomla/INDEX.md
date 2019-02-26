@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Vermilion (Gantry 5)](templates/vermilion)
 	- [Koleti](templates/koleti)
 	- [Chimera (Gantry 5)](templates/chimera)
 	- [Reiko](templates/reiko)
@@ -83,7 +84,7 @@ more:
 	- [Tessellate](templates/tessellate)
 	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
-	- [Vermilion](templates/vermilion)
+	- [Vermilion (Gantry 4)](templates/g4vermilion)
 	- [Lexicon](templates/lexicon)
 	- [Epsilon](templates/epsilon)
 	- [Anacron (Gantry 4)](templates/g4anacron)
