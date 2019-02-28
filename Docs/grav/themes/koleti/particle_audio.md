@@ -7,8 +7,6 @@ breadcrumb: /grav:Grav/!themes:Themes/koleti:Koleti
 
 ## Introduction
 
-![](assets/particle_audio1.jpg)
-
 The **Audio Player** particle enables you quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
