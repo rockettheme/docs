@@ -47,6 +47,7 @@ support: http://www.rockettemplate.com/forum/joomla-template-vermilion/
         * [Video](particle_video.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)
+        * [Parallax](atom_parallax.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
