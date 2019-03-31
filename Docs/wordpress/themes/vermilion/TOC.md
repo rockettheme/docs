@@ -33,7 +33,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-vermilion/
         - [Audio Player](particle_audio.md)
         - [Block Content](particle_block.md)
         - [Testimonial](particle_testimonial.md)
-        - [Image Grid](particle_image.md))
+        - [Image Grid](particle_image.md)
         - [Simple Counter](particle_simplecounter.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
@@ -46,6 +46,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-vermilion/
         - [Video](particle_video.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
+        * [Parallax](atom_parallax.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
