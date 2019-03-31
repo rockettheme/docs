@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
 	- [Koleti](templates/koleti)
 	- [Chimera (Gantry 5)](templates/chimera)
