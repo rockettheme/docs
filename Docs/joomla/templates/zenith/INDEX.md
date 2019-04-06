@@ -43,7 +43,8 @@ Key Features
 * Joomla Articles
 * Latest News
 * Logo / Image
-* LogosMenu
+* Logos
+* Menu
 * Mobile Menu
 * Newsletter
 * Photo Collage

@@ -27,7 +27,7 @@ support: http://www.rockettheme.com/forum/joomla-template-zenith/
         + [Slideshow](particle_slideshow.md)
         + [Testimonials](particle_testimonials.md)
         + [Timeline](particle_timeline.md)
-        + [BookBlock](particle_bookblock.md)
+        + [BookBlock](particle_book.md)
         + [Grid Statistic](particle_grid.md)
         + [Logos](particle_logos.md)
         + [Photo Collage](particle_photocollage.md)
