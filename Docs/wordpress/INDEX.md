@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Zenith](themes/zenith)
 	- [Vermilion (Gantry 5)](themes/vermilion)
 	- [Koleti](themes/koleti)
 	- [Chimera (Gantry 5)](themes/chimera)
