@@ -48,9 +48,10 @@ From Joomla 3.x:
 
 >> RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
-How to Publish to the Frontend
+How to Publish to the Backend
 -----
 
-Publishing RokCheck to the frontend of your site is an easy process. You do this by adding `{socialbuttons}` in the content body of an article or module you wish to have social sharing buttons appear from the site. These buttons make it easy to share the page URL the user is accessing the content from to their social networks.
+Publishing RokCheck to the backend of your site is an easy process. You do this by going to Joomla Module Manager and changing the module type dropdown from "site" to "administrator". Then, click on "NEW" to create a new module and choose the "rokcheck" module. Assign the module to the "cPanel" module position and give the module a title of "RocketTheme template checks", then SAVE the module. IF you now visit the Joomla control panel you will see the rokcheck module on this page.
 
-You can alternatively set it to appear at the top of articles in a specific category, set of categories, or in all categories at either the top or bottom of the main article content body.
+>> NOTE: You can easily change the order in which the modules (including rokcheck) appear on the control panel by visiting Joomla module manager again, filtering on the "cpanel" postion, clicking on "order" column and then dragging the cpanel modules into the order that you want.
+
