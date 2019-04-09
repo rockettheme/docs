@@ -51,7 +51,9 @@ From Joomla 3.x:
 How to Publish to the Backend
 -----
 
-Publishing RokCheck to the backend of your site is an easy process. You do this by going to Joomla Module Manager and changing the module type dropdown from "site" to "administrator". Then, click on "NEW" to create a new module and choose the "rokcheck" module. Assign the module to the "cPanel" module position and give the module a title of "RocketTheme template checks", then SAVE the module. IF you now visit the Joomla control panel you will see the rokcheck module on this page.
+Publishing RokCheck to the backend of your site is an easy process. You do this by going to Joomla Module Manager and changing the module type dropdown from "site" to "administrator". Then, click on "NEW" to create a new module and choose the "rokcheck" module. Assign the module to the "cPanel" module position and give the module a title of "RocketTheme template checks", then SAVE the module. IF you now visit the Joomla control panel you will see the rokcheck module on this page. 
+
+To view our initial setup tutorial with screenshots, please [click here](https://rockettheme.com/docs/joomla/extensions/rokcheck/setup.md).
 
 >> NOTE: You can easily change the order in which the modules (including rokcheck) appear on the control panel by visiting Joomla module manager again, filtering on the "cpanel" postion, clicking on "order" column and then dragging the cpanel modules into the order that you want.
 
