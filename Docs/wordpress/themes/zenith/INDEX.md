@@ -47,7 +47,7 @@ Key Features
 * Mobile Menu
 * Newsletter
 * Photo Collage
-* Popup Module
+* Popup Widget
 * Pricing Table
 * PromoSearch
 * Simple Content

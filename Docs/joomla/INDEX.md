@@ -143,6 +143,7 @@ more:
 
 * Extensions
 
+	- [RokCheck](extensions/rokcheck/)
 	- [RokBox](extensions/rokbox/)
 	- [RokFeatureTable](extensions/rokfeaturetable/)
 	- [RokGallery](extensions/rokgallery/)
