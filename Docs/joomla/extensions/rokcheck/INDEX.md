@@ -10,7 +10,7 @@ Introduction
 
 ![](assets/rokcheck.png)
 
-RokCheck is a simple backend plugin that checks the template versions of any RocketTheme templates against the latest stable release to determine if an update is available.
+RokCheck is a simple backend plugin that checks the template versions of any RocketTheme templates against the latest stable release to determine if an update is available. Credit to Mark Taylor [(MrT)](https://rockettheme.com/forum/profile/76563-mrt).
 
 RokCheck is a member of the RokUtilities family of extensions.
 
