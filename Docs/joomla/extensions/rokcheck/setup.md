@@ -1,7 +1,7 @@
 ---
 title: RokCheck - Setup Guide
 description: Your Guide to Using RokCheck for Joomla
-breadcrumb: /joomla:Joomla/!extensions:Extensions/roksocialbuttons:RokCheck
+breadcrumb: /joomla:Joomla/!extensions:Extensions/rokcheck:RokCheck
 
 ---
 
