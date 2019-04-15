@@ -5,10 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ---
 
-## Is Koleti compatible for WordPress 1.5 or 2.5?
-
-No, Koleti is only compatible with WordPress 3.4+.
-
 ## What is Gantry?
 
 [Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme theme. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.

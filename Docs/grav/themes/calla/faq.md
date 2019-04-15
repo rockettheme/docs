@@ -5,10 +5,6 @@ breadcrumb: /grav:Grav/!themes:Themes/calla:Calla
 
 ---
 
-## Is Calla compatible for Grav 1.5 or 2.5?
-
-No, Calla is only compatible with Grav 3.4+.
-
 ## What is Gantry?
 
 [Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme theme. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Grav.
