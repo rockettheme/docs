@@ -21,6 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-zenith/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](demo.md#home-page-layout-presets)
+        + [Contact Form](../../start/contact.md)
     - Theme Particles
         + [Audio Player](particle_audio.md)
         + [Block Content](particle_block.md)

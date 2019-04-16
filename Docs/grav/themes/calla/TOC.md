@@ -21,6 +21,7 @@ support: http://www.rockettheme.com/forum/grav-theme-calla/
         + [Extensions](demo.md#recommended-extensions)
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
+        + [Contact Form](../../start/contact.md)
     - Theme Particles
         * [Block Content](particle_block.md)
         * [Carousel](particle_carousel.md)
