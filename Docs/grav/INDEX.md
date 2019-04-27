@@ -34,6 +34,8 @@ more:
 
 * Club Themes
 
+	- [Lexicon](themes/lexicon)
+	- [Zenith](themes/zenith)
 	- [Vermilion](themes/vermilion)
 	- [Koleti](themes/koleti)
 	- [Chimera](themes/chimera)

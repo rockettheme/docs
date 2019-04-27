@@ -5,20 +5,17 @@ breadcrumb: /grav:Grav/!start:Start/!contact:Contact
 
 ---
 
-Introduction
------
+## Introduction
 
 Contact forms make it easy for visitors to reach out and contact you. In Grav, this process works a little differently than it does in other content management systems. In this guide, we'll outline how you can customize and configure a contact form for your website.
 
-Getting Started
------
+## Getting Started
 
 We do recommend using a RocketLauncher to start with. We've done a lot of the initial setup work for you and all you need to do is plug in your email address, and if you'd like, customize the fields you'd like your contact form to have.
 
 If you are using a RocketLauncher, there is a contact form already set up and ready to go. You just need to edit the email address you'd like to have submissions sent to.
 
-Customizing Fields
------
+## Customizing Fields
 
 >> This guide is useful for folks using the RocketLauncher. If you want a full from-scratch tutorial on creating a contact form, check out [Grav's documentation](https://learn.getgrav.org/forms/forms/example-form).
 
@@ -70,8 +67,7 @@ form:
 
 Everything you need to concentrate on takes place within the fields area of this text. You can add or remove fields here. You can find a complete guide on doing this in [Grav's documentation](https://learn.getgrav.org/forms/forms/example-form).
 
-Setting Up Mail
------
+## Setting Up Mail
 
 By default the **Email** plugin uses `Sendmail` or PHP Mail to send email. This doesn't work in all cases. You would be better served by switching the **Mail Engine** setting to **SMTP** and configuring your preferred email provider.
 
@@ -81,9 +77,9 @@ We have provided detailed guides for numerous major email providers in the **Ema
 
 A popular option for sending email is to simply use your Google Accounts SMTP server. To set this up you will need to do 2 things first:
 
-1.  Enable IMAP in your **Gmail Settings** -> **Forwarding and POP/IMAP** -> **IMAP Access**
-2.  Enable Less secure apps in your [user account settings](https://myaccount.google.com/lesssecureapps).
-3.  If you have 2-factor authentication, you will need to create a unique application password to use rather than your personal password
+1. Enable IMAP in your **Gmail Settings** -> **Forwarding and POP/IMAP** -> **IMAP Access**
+2. Enable Less secure apps in your [user account settings](https://myaccount.google.com/lesssecureapps).
+3. If you have 2-factor authentication, you will need to create a unique application password to use rather than your personal password
 
 >> If you attempt to send a message before turning less secure apps on in your [user account settings](https://myaccount.google.com/lesssecureapps), you will need to manually remove your server from the blocked list in your [security dashboard](https://myaccount.google.com/security).
 
@@ -93,7 +89,7 @@ Then configure the **Email** plugin:
 
 The first option is doing this through the tools available in the administrator. Simply navigate to **Plugins > Email** and do the following:
 
-![](assets/gmail_2.jpg)
+![Gmail](assets/gmail_2.jpg)
 
 * Switch the **Mail Engine** setting to **SMTP**.
 * Scroll down to **SMTP Server** and enter `smtp.gmail.com`.
@@ -102,7 +98,7 @@ The first option is doing this through the tools available in the administrator.
 * Enter your login name (typically your email address) in the **SMTP Login Name** field.
 * Enter your Google Mail password in the **SMTP Password** field.
 
-![](assets/gmail_1.jpg)
+![Gmail](assets/gmail_1.jpg)
 
 #### YAML
 
@@ -121,8 +117,7 @@ mailer:
 
 >> NOTE: Check your email sending limits: [https://support.google.com/a/answer/166852?hl=en](https://support.google.com/a/answer/166852?hl=en)>
 
-Troubleshooting
------
+## Troubleshooting
 
 ### Emails are not sent
 
@@ -146,8 +141,8 @@ If you get an exception when sending email but you cannot see what the error is,
 
 ~~~ .yaml
 errors:
-  display: 1                                    
-  log: true 
+  display: 1
+  log: true
 ~~~
 
 #### Configuration Issues

@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksocialbuttons:RokCheck
+breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokcheck:RokCheck
 
 details: http://www.rockettheme.com/joomla/extensions/rokutilities
 download: http://www.rockettheme.com/joomla/extensions/rokutilities/modal/downloads
