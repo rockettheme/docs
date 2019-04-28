@@ -25,7 +25,7 @@ Particles
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
     * [Content Tabs](particle_contenttabs.md)
-    * [WordPress Content](particle_wordpress.md)
+    * [WordPress Posts](particle_wordpress.md)
     * [Fixed Header](atom_fixedheader.md)
     * [Icon List](particle_iconlist.md)
     * [Image Grid](particle_image.md)

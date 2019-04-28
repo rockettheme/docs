@@ -8,59 +8,108 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!lexicon:Lexicon
 Introduction
 -----
 
-![][Lexicon]
+![](assets/lexicon.png)
 
-Lexicon is a vibrant, highly adaptable and engaging theme, ideal for a vast selection of possible sites, from community to business. Subtle visual elements in the sectioned design, add character and division to the page, without compromising on content focus.
+Lexicon is centered around a flat design approach, spruced by professional and engaging color schemes to create presence for site content without distracting from it. Ideal for showcasing product details in a vibrant but elegant fashion.
 
 Requirements
 -----
 
-* Apache 2.x or Microsoft IIS 7
 * PHP 5.4+
-* MySQL 5.0.4 or higher
-* WordPress 3.2+, 4.0+
-* Gantry Framework
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
 
->> NOTE: Gantry v4.1.15 is required for Lexicon to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v5.4.26+ is required for Chimera to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
+### Included Particles/ Atoms
+
+* Animation on Scroll
+* Audio Player
+* Block Content
+* Branding
+* Breadcrumbs
+* Calendar
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* WordPress Content
+* Headlines
+* Horizontal Menu
+* Icon List
+* Image Grid
+* Info List
+* Lists
+* Login
+* Logo / Image
+* MailChimp
+* Menu
+* Mobile Menu
+* Mosaic
+* Parallax
+* Pricing Table
+* Progress Bar
+* Promo Image
+* Search
+* Showcase Tabs
+* Simple Counter
+* Slider
+* Social
+* Strips Slider
+* Tab Image
+* Testimonials
+* To Top
+* Vertical Menu
+* Video 
+
+### Theme Features
+
 * Responsive Layout
 * 6 Preset Styles
-* 89 Widget Positions
-* 1200 Fixed Option
-* 8 Styled Widget Variations
-* Structural Widget Variations
-* 960 Fixed Option
-* Dropdown-Menu and Split-Menu
 * Custom Typography
-* Custom Logo Option
+* Unlimited Positions
+* Custom Particles
 * Mobile Menu
-* Fixed Header
-* Social Buttons Option
-* Chart.js
 * Coming Soon Page
+* Font Awesome Icons 
 
-### Responsive Layout
+### Gantry Core Features
 
-A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Theme Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-| Label                  | Description                                | Layout Width     | Column Width |
-| :----------            | :----------                                | :----------      | :----------  |
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |
+## Color Chooser
 
-[gantry]: http://gantry.org/
-[gantry_install]: ../../start/gantry.md
-[Lexicon]: assets/lexicon.jpeg
-[chart]: assets/chart.png
-[roksprocket]: assets/roksprocket.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[colorchooser]: assets/colorchooser.jpg
-[icondriven]: assets/icondriven.jpg
-[dropdownmenu]: assets/dropdownmenu.jpg
+![Color Chooser](ft-2.jpg)
+
+Lexicon has an extensive Color Chooser in the theme manager to provide intricate controls for each section of Lexicon, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
+
+## Dropdown Menu
+
+![Dropdown Menu](ft-3.jpg)
+
+The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, particles, custom column widths and number, as well as control over how menu items are distributed between columns.
+
+## Responsive
+
+![Responsive](ft-4.jpg)
+
+Lexicon is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.

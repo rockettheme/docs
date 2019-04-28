@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Lexicon (Gantry 5)](templates/lexicon)
 	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
 	- [Koleti](templates/koleti)
@@ -86,7 +87,7 @@ more:
 	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
 	- [Vermilion (Gantry 4)](templates/g4vermilion)
-	- [Lexicon](templates/lexicon)
+	- [Lexicon (Gantry 4)](templates/g4lexicon)
 	- [Epsilon](templates/epsilon)
 	- [Anacron (Gantry 4)](templates/g4anacron)
 	- [Hadron](templates/hadron)
