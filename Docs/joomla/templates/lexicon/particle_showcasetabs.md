@@ -30,15 +30,8 @@ These options affect the main area of the particle, and not the individual items
 | Particle Name   | The name of the particle for organizational use in the backend.       |
 | CSS Classes     | CSS Class(es) you would like to have apply to the particle's content. |
 | Title           | Title of the particle as it will appear on the front end.             |
-| Description     | A text description to appear on the front end for the particle.       |
-| Display at Once | Set the number of items to display at a given time.                   |
-| Scroll Template    | **Enable** or **Disable** the scroll template.                           |
-| Prev Next       | Enable or Disable the Prev/Next Buttons.                              |
-| Dots            | Enable or Disable navigation dots.                                    |
-| Loop            | Enable or Disable looping of slides.                                  |
-| Autoplay        | **Enable** or **Disable** autoplay for the particle.                  |
-| Autoplay Speed  | Set the speed (in milliseconds) of the particle's animation.          |
-| Pause on Hover  | **Enable** or **Disable** the pause-on-hover effect for the particle. |
+| Layout     	  | Customize the particle layout.       								  |
+| Tabs Items      | Tabs item to display                   								  |
 
 ### Item Options
 
