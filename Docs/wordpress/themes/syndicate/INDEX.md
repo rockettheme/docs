@@ -18,7 +18,7 @@ Requirements
 * Gantry 4 Framework
 * FF, Safari, Chrome, Opera, IE8+
 * PHP 5.4+
-* WordPress 3.2+, 4.0+
+* WordPress 5.x
 
 > > NOTE: An updated version of RokCommon is required for Syndicate to work properly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://www.gantry.org/).
 
