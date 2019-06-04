@@ -36,7 +36,7 @@ How to install
 
 Installing RokSocialButtons takes just a matter of few minutes.
 
-The first thing you will need to do is [download](http://www.rockettheme.com/wordpress/plugins/rokutilities/) the latest version of RokSocialButtons. The package you will download contains all the files you need to get RokSocialButtons up and running. It is compatible with both WordPress 2.5.x and WordPress 3.x, and does not need to be uncompressed. 
+The first thing you will need to do is [download](http://www.rockettheme.com/wordpress/plugins/rokutilities/) the latest version of RokSocialButtons. The package you will download contains all the files you need to get RokSocialButtons up and running. It is compatible with both WordPress 2.5.x and WordPress 5.x, and does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the WordPress Administrator and:
 
