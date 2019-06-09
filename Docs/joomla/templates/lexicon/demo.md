@@ -47,7 +47,7 @@ Here is a list of particles that are available in Lexicon, as well as links to d
   * [Slider](particle_slider.md)
   * [Tab Image](particle_tabimage.md)
   * [Video](particle_video.md)
-* Core Particles 
+* Core Particles
   * [Logo](http://docs.gantry.org/gantry5/particles/logo)
   * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
   * [To Top](http://docs.gantry.org/gantry5/particles/to-top)

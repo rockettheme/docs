@@ -1,7 +1,7 @@
 ---
-title: Lexicon: Joomla Articles Particle
-description: Your Guide to Recreating Elements of the Lexicon Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/lexicon:Lexicon
+title: Hadron: Joomla Articles Particle
+description: Your Guide to Recreating Elements of the Hadron Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/hadron:Hadron
 
 ---
 
