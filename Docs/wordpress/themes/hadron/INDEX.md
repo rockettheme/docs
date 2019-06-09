@@ -8,66 +8,103 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!hadron:Hadron
 Introduction
 -----
 
-![][Hadron]
+![](assets/hadron.png)
 
-Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the theme, providing a modern, corporate approach to theme construction. Presets offer a full background of color diversity.
+Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the template, providing a modern, corporate approach to template construction. Presets offer a full background of color diversity.
 
 Requirements
 -----
-
-* Apache 2.x or Microsoft IIS 7
 * PHP 5.4+
-* MySQL 5.0.4 or higher
-* WordPress 5.x
-* Gantry Framework
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
 
->> NOTE: Gantry v4.1.15 is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].
+>> NOTE: Gantry v5.4.26+ is required for Chimera to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
-* Responsive Layout  
-* 8 Preset Styles  
-* 89 Widget Positions  
-* 1200 Fixed Option  
-* 8 Styled 
-* Widget Variations  
-* Structural Widget Variations  
-* 960 Fixed Option  
-* Dropdown-Menu and Split-Menu  
-* Custom Typography  
-* Custom Logo Option  
-* Mobile Menu  
-* Fixed Header  
-* Social Buttons Option  
-* Chart.js  
+
+## Included Particles / Atoms
+
+* Animate on Scroll
+* Audio Player
+* Block Content
+* Branding
+* Calendar
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* WordPress Posts
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Lists
+* Login
+* Logo / Image
+* MailChimp
+* Menu
+* Mobile Menu
+* Mosaic
+* Pricing Table
+* Progress Bar
+* Promo Image
+* Search
+* Simple Counter
+* Slider
+* Social
+* Strips Slider
+* Tab Image
+* To Top
+* Vertical Menu
+* Video
+
+## Theme Features
+
+* Responsive Layout
+* 8 Preset Styles
+* Custom Typography
+* Unlimited Positions
+* Custom Particles
+* Mobile Menu
 * Coming Soon Page
+* Font Awesome Icons
 
-### Color Chooser
+## Gantry Core Features
 
-![][colorchooser]
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Theme Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-Hadron has an extensive Color Chooser in the theme settings to provide intricate controls for each section of Hadron, inclusive of overlay type, text color and background color, as well as accent and button controls. Edit preexisting or create new presets.
+## Color Chooser
 
-### Icon Buttons
+![Color Chooser](ft-2.jpg)
 
-![][icondriven]
+Hadron has an extensive Color Chooser in the template manager to provide intricate controls for each section of Hadron, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
 
-Configure up to 6 icons with FontAwesome icons and links, for social integration. Each icon has colored hover and smooth animation effects. The search icon reveals via smooth transition RokAjaxSearch, above the social buttons.
+## Icon Buttons
 
-### Dropdown Menu
+![Dropdown Menu](ft-3.jpg)
 
-![][dropdownmenu]
+Configure up to 6 icons with FontAwesome icons and links, for social integration. Each icon has colored hover and smooth animation effects. The search icon reveals via smooth transition Search particle, above the social buttons.
 
-The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, multiple columns, custom column widths as well as control over how menu items are distributed between columns.
+## Responsive
 
-[gantry]: http://gantry.org/
-[gantry_install]: ../../start/gantry.md
-[Hadron]: assets/hadron.jpeg
-[chart]: assets/chart.jpeg
-[roksprocket]: assets/roksprocket.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[colorchooser]: assets/colorchooser.jpg
-[icondriven]: assets/icondriven.jpg
-[dropdownmenu]: assets/dropdownmenu.jpg
+![Responsive](ft-4.jpg)
+
+The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, particles, custom column widths and number, as well as control over how menu items are distributed between columns.

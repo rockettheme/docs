@@ -1,7 +1,7 @@
 ---
-title: Lexicon: WordPress Posts Particle
-description: Your Guide to Recreating Elements of the Lexicon Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/lexicon:Lexicon
+title: Hadron: WordPress Posts Particle
+description: Your Guide to Recreating Elements of the Hadron Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/hadron:Hadron
 
 ---
 
