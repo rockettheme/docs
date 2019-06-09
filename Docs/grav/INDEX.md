@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Hadron](themes/hadron)
 	- [Lexicon](themes/lexicon)
 	- [Zenith](themes/zenith)
 	- [Vermilion](themes/vermilion)
