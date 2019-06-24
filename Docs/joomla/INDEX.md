@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Manticore](templates/manticore)
 	- [Lexicon (Gantry 5)](templates/lexicon)
 	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
