@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ## Introduction
 
-![](assets/particle_video1.png)
+![](assets/particle_featuredvideo1.png)
 
 The **Featured Video** particle enable you quickly and easily add video content to your page attributed to your site's content creators.
 
@@ -35,7 +35,7 @@ These options affect the main area of the particle, and not the individual items
 | Google API Key       | Enter the Google API Key.                                                                   |
 | Description          | Enter a text description for your featured videos particle.                                 |
 
-!! Enable or disable YouTube likes counts. Please note that you need Google API Key with YouTube Data API v3 service enabled for Featured Videos particle counts to work. Obtaining public key is free. After registration, enter your key in field below.
+>> Enable or disable YouTube likes counts. Please note that you need [Google API Key](https://console.developers.google.com/apis/credentials) with YouTube Data API v3 service enabled for Featured Videos particle counts to work. Obtaining public key is free. After registration, enter your key in field below.
 
 ### Item Options
 

@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ## Introduction
 
-![](assets/particle_logos1.png)
-
 The **Logos** particle displays images in a beautiful grid, complete with URL links.
 
 Here are the topics covered in this guide:

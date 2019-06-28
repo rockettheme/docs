@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ## Introduction
 
-![](assets/particle_promo1.png)
-
 The **Promo** particle is a great way to create a simple, promotional image and text content block on your site.
 
 Here are the topics covered in this guide:

@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ## Introduction
 
-![](assets/particle_testimonials1.png)
-
 The **Testimonials** particle displays testimonials in an elegant, east-to-read way. You can manually input testimonial content, or pull it from your CMS.
 
 Here are the topics covered in this guide:
