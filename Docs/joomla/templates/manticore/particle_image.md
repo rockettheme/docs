@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ![](assets/particle_image1.png)
 
-The **Image Grid** particle gives you the ability to quickly set up a clean, organized grid of images. This particle is perfect for image portfolios and galleries. 
+The **Image Grid** particle gives you the ability to quickly set up a clean, organized grid of images. This particle is perfect for image portfolios and galleries.
 
 Here are the topics covered in this guide:
 
@@ -21,7 +21,7 @@ Here are the topics covered in this guide:
 
 ## Configuration
 
-### Main Options 
+### Main Options
 
 These options affect the main area of the particle, and not the individual items within.
 
@@ -41,11 +41,8 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_image4.png)
+![](assets/particle_image3.png)
 
 | Option      | Description                                                         |
 | :-----      | :-----                                                              |
 | Promo Image | Point the item to the image you wish to have featured in this item. |
-
-
-
