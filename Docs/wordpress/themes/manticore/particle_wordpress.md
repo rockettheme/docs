@@ -1,7 +1,7 @@
 ---
-title: Koleti: WordPress Post Particle
-description: Your Guide to Recreating Elements of the Koleti Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
+title: Manticore: WordPress Post Particle
+description: Your Guide to Recreating Elements of the Manticore Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/manticore:Manticore
 
 ---
 

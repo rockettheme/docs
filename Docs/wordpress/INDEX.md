@@ -68,7 +68,8 @@ more:
 
 * Club Themes
 
-	- [Lexicon (Gantry 5)](themes/lexicon)
+	- [Manticore](themes/manticore)
+  - [Lexicon (Gantry 5)](themes/lexicon)
 	- [Zenith](themes/zenith)
 	- [Vermilion (Gantry 5)](themes/vermilion)
 	- [Koleti](themes/koleti)
