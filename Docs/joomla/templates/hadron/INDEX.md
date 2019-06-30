@@ -1,71 +1,110 @@
 ---
 title: Hadron
-description: Your Guide to Using the Hadron Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!hadron:Hadron
+description: Your Guide to Using the Hadron Theme for Joomla
+breadcrumb: /joomla:Joomla/!themes:Themes/!hadron:Hadron
 
 ---
 
 Introduction
 -----
 
-Hadron, is a contemporary and flat design approach with rich animations. The flat visuals are the central design feature of the template, providing a modern, corporate approach to template construction.
+![](assets/hadron.png)
 
-![][Hadron]
-
-The template is built with the Gantry 4 Framework, which provides many features such as an advanced administrator, alongside other features such as integrated RokSprocket styling and a Dropdown CSS menu system.
+Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the template, providing a modern, corporate approach to template construction. Presets offer a full background of color diversity.
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.5+ Recommended)
-* MySQL 5.1+
-* Joomla 3.4
+* PHP 5.4+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
 
->> NOTE: Gantry v4.1.35 is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
+>> NOTE: Gantry v5.4.26+ is required for Chimera to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
-* Joomla 3.x Compatible
+
+## Included Particles / Atoms
+
+* Animate on Scroll
+* Audio Player
+* Block Content
+* Branding
+* Calendar
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* Joomla Posts
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Lists
+* Login
+* Logo / Image
+* MailChimp
+* Menu
+* Mobile Menu
+* Mosaic
+* Pricing Table
+* Progress Bar
+* Promo Image
+* Search
+* Simple Counter
+* Slider
+* Social
+* Strips Slider
+* Tab Image
+* To Top
+* Vertical Menu
+* Video
+
+## Theme Features
+
 * Responsive Layout
 * 8 Preset Styles
-* 88 Module Positions
-* 8 Styled & Numerous Structural Module Suffixes
-* RokSprocket Integrated Styling
-* Optimized for RokBooster
-* HTML5 Canvas Charts (Modern browsers & IE9+)
-* Powerful Gantry 4 Framework
-* DropDown Menu & Splitmenu
-* Custom Content Typography
-* FF, Safari, Chrome, Opera, IE8+ Compatible
-* HTML5, CSS3, LESS CSS
+* Custom Typography
+* Unlimited Positions
+* Custom Particles
+* Mobile Menu
+* Coming Soon Page
+* Font Awesome Icons
 
-### Responsive Layout
+## Gantry Core Features
 
-![][responsive]
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Theme Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-Hadron's responsive grid system is designed for desktop, tablet and smartphone systems, each with minor modifications to ensure compatibility in each mode.
+## Color Chooser
 
-The table below shows the breakdown of screen resolutions and associated devices, and which layout characters are then applied to each.
+![Color Chooser](ft-2.jpg)
 
-| Label                  | Description                                | Layout Width     | Column Width |  
-| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
+Hadron has an extensive Color Chooser in the template manager to provide intricate controls for each section of Hadron, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
 
-### HTML5 Canvas Charts
+## Icon Buttons
 
-![][chart]
+![Dropdown Menu](ft-3.jpg)
 
-Hadron uses Chart.js and HTML5 canvas to display beautiful graphs and exquisite typography. This only works on modern browsers like IE9+.
+Configure up to 6 icons with FontAwesome icons and links, for social integration. Each icon has colored hover and smooth animation effects. The search icon reveals via smooth transition Search particle, above the social buttons.
 
-[gantry]: http://gantry.org
-[Hadron]: assets/hadron.jpeg
-[responsive]: assets/responsive.jpg
-[chart]: assets/chart.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[chooser]: assets/chooser.jpg
+## Responsive
+
+![Responsive](ft-4.jpg)
+
+The Dropdown Menu is an advanced, CSS based menu system, which offers a wide range of per menu options, such as: inline subtext, icons, particles, custom column widths and number, as well as control over how menu items are distributed between columns.

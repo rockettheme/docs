@@ -1,7 +1,7 @@
 ---
-title: Reiko: WordPress Post Particle
-description: Your Guide to Recreating Elements of the Reiko Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/reiko:Reiko
+title: Koleti: WordPress Post Particle
+description: Your Guide to Recreating Elements of the Koleti Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ---
 
@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/reiko:Reiko
 
 The **WordPress Post** particle (Also known as `contentarray`) gives you the ability to directly list and pull in WordPress posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
-### Main Options 
+### Main Options
 
 The particle's settings panel enables you to set exactly what content appears in the particle, and how it's presented. We have provided descriptions to the available options below.
 

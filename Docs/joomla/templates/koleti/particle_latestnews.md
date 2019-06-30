@@ -89,4 +89,4 @@ This section configures how articles are displayed.
 | Target             | Set a target window for the read more link.                                                           |
 | Button CSS Classes | Enter any CSS Class(es) to apply to the items.                                                        |
 
->> Note: When using Joomla Content source, images can utilize **Photo** and **Photo Large** layouts by adding **photo** or **photo-large** to the **Alt Text** field for either the Intro or Full image of the Article(s) you are displaying.
+>> Note: When using Joomla Content source, images can utilize the **Photo Large** layout by adding **photo-large** to the **Alt Text** field for either the Intro or Full image of the Article(s) you are displaying.

@@ -19,7 +19,7 @@ Requirements
 * Apache 2.x or Microsoft IIS 7
 * PHP 5.4+
 * MySQL 5.0.4 or higher
-* WordPress 3.2+, 4.0+
+* WordPress 5.x
 * Gantry Framework
 
 >> NOTE: Gantry v4.0.7+ is required for Chapelco to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website][gantry].

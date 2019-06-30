@@ -26,7 +26,7 @@ Requirements
 
 RokIntroScroller has the following requirements in order to operate:
 
-* WordPress 3.x - Ensure you have the latest version.
+* WordPress 5.x - Ensure you have the latest version.
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
 >> NOTE: Internet Explorer 11+ and Edge are supported, but versions 8, 9, and 10 are no longer supported by Microsoft and while they may work, are not recommended.
@@ -40,7 +40,7 @@ The first thing you will need to do is [download][download] the latest version o
 
 Once you have downloaded the package, go into the WordPress Administrator and:
 
-From WordPress 3.x:
+From WordPress 5.x:
 
 * Select from the top menu: `wp-admin -> Plugins -> Add New -> Upload`
 * Click on the **Choose File** button

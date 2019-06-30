@@ -8,14 +8,14 @@ breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 Introduction
 -----
 
-RokSprocket is a revolutionary new extension for WordPress 3.x designed to give you an incredible level of control over how you present your content. Sophisticated content filters, robust layout modes and options, integration with multiple content providers, and a streamlined no-nonsense interface all contribute to a powerful yet user friendly experience from start to finish.
+RokSprocket is a revolutionary new extension for WordPress 5.x designed to give you an incredible level of control over how you present your content. Sophisticated content filters, robust layout modes and options, integration with multiple content providers, and a streamlined no-nonsense interface all contribute to a powerful yet user friendly experience from start to finish.
 
 Requirements
 ------------
 
 RokSprocket has the following requirements in order to operate:
 
-* WordPress 3.x - Ensure that you are using the latest version.
+* WordPress 5.x - Ensure that you are using the latest version.
 * PHP 5.4 and above
 * Compatible Browsers: Firefox, Chrome, Safari, IE8+, Opera.
 
@@ -43,7 +43,7 @@ The first thing you will need to do is [download][download] the latest version o
 
 Once you have downloaded the package, go into the WordPress Administrator and:
 
-From WordPress 3.x:
+From WordPress 5.x:
 
 * Select from the top menu: `wp-admin -> Plugins -> Add New -> Upload`
 * Click on the **Choose File** button

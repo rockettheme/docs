@@ -40,6 +40,8 @@ more:
 
 * Club Templates
 
+	- [Manticore](templates/manticore)
+	- [Lexicon (Gantry 5)](templates/lexicon)
 	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
 	- [Koleti](templates/koleti)
@@ -86,10 +88,11 @@ more:
 	- [Plethora](templates/plethora)
 	- [Osmosis](templates/osmosis)
 	- [Vermilion (Gantry 4)](templates/g4vermilion)
-	- [Lexicon](templates/lexicon)
+	- [Lexicon (Gantry 4)](templates/g4lexicon)
 	- [Epsilon](templates/epsilon)
 	- [Anacron (Gantry 4)](templates/g4anacron)
-	- [Hadron](templates/hadron)
+	- [Hadron (Gantry 4)](templates/g4hadron)
+	- [Hadron (Gantry 5)](templates/hadron)
 	- [Paradigm](templates/paradigm)
 	- [Spectral](templates/spectral)
 	- [Acacia](templates/acacia)
@@ -170,7 +173,7 @@ more:
 	- [How to Add Modules to Articles](basic/how_to_add_a_module_to_an_article.md)
 	- [How to Edit Template Text](basic/how_to_edit_template_text.md)
 	- [How to Set Up a RokBox Member Login](basic/how_to_set_up_a_rokbox_member_login.md)
-	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)	
+	- [How to Use the Popup Module](basic/how_to_use_popup_module.md)
 	- [Frequently Asked Questions](basic/faq.md)
 	- [How to Identify an Existing Module](basic/module_identification.md)
 	- [How to Create a Multilingual Site](basic/how_to_create_a_multilingual_site.md)

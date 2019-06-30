@@ -87,3 +87,5 @@ This section configures how posts are displayed.
 | Date Format        | Set the format that dates will be displayed in.                                                               |
 | Link               | **Show** or **Hide** the Read More link.                                                                      |
 | Target             | Set a target window for the read more link.                                                                   |
+
+>> Note: When using WordPress Content source, images can utilize the **Photo Large** layout by creating the Tag **photo-large** for the Post(s) you are displaying.

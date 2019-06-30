@@ -1,106 +1,100 @@
 ---
 title: Lexicon: Recreating the Demo
-description: Your Guide to Recreating Elements of the Lexicon Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/Lexicon:Lexicon
+description: Your Guide to Recreating Elements of the Lexicon Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/lexicon:Lexicon
 
 ---
 
 Introduction
 -----
 
-![][Lexicon]
+Recreating features of the demo site used to show off some of the more interesting aspects of Lexicon can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Lexicon can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Lexicon Theme.
 
-Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Lexicon theme.
+Keep in mind that a lot of the detail that makes our demos look so good is the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
 
-Keep in mind that a lot of the detail that makes our demos look so good are the result of many hours of hard work by our team, and some of them will require a moderate level of experience working with the WordPress back end. We have added most of these elements into the theme's core files in order to make them easily accessible without having to edit any code.
+>> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
+
+Particles
+-----
+
+Here is a list of particles that are available in Lexicon, as well as links to documentation to help you get started:
+
+>> All Home Particles can be edited via Themes > Lexicon - Home > Layout.
+
+* Theme Particles
+  * [Showcase](particle_showcase.md)
+  * [Headlines](particle_headlines.md)
+  * [Feature Blocks](particle_featureblocks.md)
+  * [Strips Slider](particle_stripsslider.md)
+  * [MailChimp](particle_mailchimp.md)
+  * [Lists](particle_lists.md)
+  * [Mosaic](particle_mosaic.md)
+  * [Pricing Table](particle_pricing.md)
+  * [WordPress Posts](particle_wordpress.md)
+  * [Audio Player](particle_audio.md)
+  * [Block Content](particle_block.md)
+  * [Testimonial](particle_testimonial.md)
+  * [Image Grid](particle_image.md)
+  * [Simple Counter](particle_simplecounter.md)
+  * [Contact](particle_contact.md)
+  * [Content List](particle_contentlist.md)
+  * [Content Tabs](particle_contenttabs.md)
+  * [Info List](particle_info.md)
+  * [Progress Bar](particle_progressbar.md)
+  * [Promo Image](particle_promoimage.md)
+  * [Slider](particle_slider.md)
+  * [Tab Image](particle_tabimage.md)
+  * [Video](particle_video.md)
+* Core Particles
+  * [Logo](http://docs.gantry.org/gantry5/particles/logo)
+  * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+  * [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+  * [Social](http://docs.gantry.org/gantry5/particles/social)
+  * [Positions](http://docs.gantry.org/gantry5/particles/position)
+  * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+  * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+  * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+  * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+  * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Plugins
 -----
 
 Here is a list of RocketTheme plugins used to create the demo version of Lexicon:
 
-* [Gantry Framework][gantry]
-* [RokAjaxSearch][rokajaxsearch]
-* [RokBox][rokbox]
-* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
-* [RokSprocket][roksprocket]
+* [Gantry 5 Theme Framework](http://gantry.org/)
 
-All of these plugins are included with the Lexicon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Lexicon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Lexicon demo sits apart from the rest of the page layouts in that it features the latest and greatest features used in the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Lexicon theme.
+The front page of the Lexicon demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Lexicon demo.
 
-Theme Settings
+Home Page Layout Presets
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting override. This can be done by navigating to **Administrative Dashboard -> Lexicon Theme** and selecting the **+** icon located just above the **Style** settings tab.
+![Layout Presets](assets/layout_presets.png)
 
-It would be a good idea for organization to name this layout override something like **Front Page** as it would be used only for the front page of your site.
+While the **Home - Particles** layout is automatically loaded after installing the Lexicon theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-#### Assignments
+You can access the presets by selecting **Load** in the **Layout Manager**.
 
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the page you wish to use as the home page. Under the **Template Page Types** list, you will want to select your desired page.
-
-Doing this will assign the override to this page. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
-
-You can find more information about the entire override breakdown for both the front page and our default settings in the demo by visiting the [override portion][demooverride] of this tutorial.
-
-Widget Settings
+Menu Editor
 -----
 
-![][theme]
+![](assets/menu_1.png)
 
-:   1. **Header - Gantry Logo** [7%, 17%, se]
-    2. **Header - Gantry Menu** [7%, 34%, se]
-    3. **Showcase - RokSprocket (Tabs)**  [10%, 17%, se]
-    4. **Sidebar - Text** [27%, 17%, se]
-    5. **Sidebar - Text**  [40%, 17%, se]
-    6. **Content Top - Text**  [27%, 34%, se]
-    7. **Content Top - Text**  [41%, 34%, se]
-    8. **Content Top - RokSprocket**  [53%, 34%, se]
-    9. **Content Bottom - RokSprocket (Headlines)**  [69%, 34%, se]
-    10. **Content Bottom - Text**  [72%, 34%, se]
-    11. **Footer - Text**  [84%, 17%, se]
-    12. **Footer - Text**  [84%, 40%, se]
-    13. **Footer - Text**  [84%, 63%, se]
 
-Like any Gantry theme, Lexicon utilizes widget overrides to allow different widget placements for various areas of your WordPress site. This makes it possible to not only utilize the full power of the Gantry framework, but to make each area of your site uniquely suited to meet your user's needs.
+Lexicon has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
-Below, you will find the widget placement and settings for the various widget positions as they appear in the Front Page widget override. Not all of these positions were overwritten. Some positions (such as the Header section) are often set in the primary default widget setting.
+You can access the Gantry Menu Editor by navigating to **Admin > Lexicon Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
-One important thing to note here is that many of the widget sections included in our demo are split up using a **Gantry Divider** widget. This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section. You will see the Gantry Divider in any widget section breakdowns as they are included in the demo.
+Assignments
+-----
 
-### Widget Sections
+![](assets/assignments_1.png)
 
-* [Header][header]
-* [Showcase][showcase]
-* [Sidebar][sidebar]
-* [Content Top][contenttop]
-* [Content Bottom][contentbottom]
-* [Footer][footer]
-
-[gantry]: http://gantry.org/downloads
-[rokajaxsearch]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch
-[rokbox]: http://www.rockettheme.com/wordpress/plugins/rokbox
-[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
-[Lexicon]: assets/lexicon.jpeg
-[roksprocket]: ../../plugins/roksprocket/
-[faq]: faq.md
-[menu]: ../../start/menu.md
-[override]: http://docs.gantry.org/gantry4/configure
-[header]: demo_header.md
-[showcase]: demo_showcase.md
-[sidebar]: demo_sidebar.md
-[contenttop]: demo_contenttop.md
-[contentbottom]: demo_contentbottom.md
-[expandedtop]: demo_expandedtop.md
-[maintop]: demo_maintop.md
-[extension]: demo_extension.md
-[footer]: demo_footer.md
-[demooverride]: demo_override.md
-[theme]: assets/lexicon2.jpeg
-[scroll]: assets/scrollwidget.jpg
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Lexicon Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

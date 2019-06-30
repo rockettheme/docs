@@ -83,3 +83,5 @@ This section configures how posts are displayed.
 | Title Limit     | Enter the maximum number of characters in the title to display.                                                         |
 | Link            | **Show** or **Hide** the Read More link.                                                                                |
 | Target          | Set a target window for the read more link.                                                                             |
+
+>> Note: When using Grav Content source, images can utilize the **Photo Large** layout by creating the Tag **photo-large** for the Page(s) you are displaying.
