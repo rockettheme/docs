@@ -14,7 +14,7 @@ Kraken is a theme bolstered with bold and impressive visual elements, to add dep
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

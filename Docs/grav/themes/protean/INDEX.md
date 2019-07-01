@@ -15,7 +15,7 @@ Protean is an exclusive, modern design suited for product showcases, company pro
 Requirements
 -----
 
-* PHP 5.5.9 or higher
+* PHP 7.1 or higher
 * Grav 1.1.9+
 
 >> NOTE: Gantry v5.4.1+ is required for Protean to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).

@@ -14,7 +14,7 @@ Hadron is a contemporary and flat design approach with rich animations. Flat vis
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

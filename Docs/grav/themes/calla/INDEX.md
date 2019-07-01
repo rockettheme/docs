@@ -15,7 +15,7 @@ Calla is a fresh, bold design built on the powerful, state-of-the-art Gantry 5 f
 Requirements
 -----
 
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

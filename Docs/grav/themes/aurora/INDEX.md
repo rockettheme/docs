@@ -16,7 +16,7 @@ Aurora is a masterfully crafted theme created for business, professional, and co
 Requirements
 -----
 
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

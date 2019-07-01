@@ -16,7 +16,7 @@ Notio is a beautifully-designed theme for magazines, news, and other content-ric
 Requirements
 -----
 
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support
