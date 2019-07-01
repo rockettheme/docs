@@ -15,7 +15,7 @@ Supra is a powerhouse template loaded with features and uncompromising in its ve
 Requirements
 -----
 
-* PHP 5.4+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

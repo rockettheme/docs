@@ -15,7 +15,7 @@ Flux is a brilliant theme for displaying big, beautiful images alongside modern 
 Requirements
 -----
 
-* PHP 5.4+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

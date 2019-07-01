@@ -15,7 +15,7 @@ Chimera is a clean, modern and minimalistic theme showcasing the beauty of your 
 Requirements
 -----
 
-* PHP 5.4+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

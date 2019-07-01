@@ -16,7 +16,7 @@ Callisto is the first RocketTheme WordPress Club theme to be released on the new
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.4+ Recommended)
+* PHP 7.1+ 
 * MySQL 5.1+
 * WordPress 4.2.1+
 
