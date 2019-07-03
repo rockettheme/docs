@@ -14,7 +14,7 @@ Myriad centers around photography, providing an elegantly designed, visual space
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

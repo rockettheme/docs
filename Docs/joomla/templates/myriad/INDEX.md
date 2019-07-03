@@ -14,7 +14,7 @@ Myriad is the first Club template to be ported from Gantry 4 to Gantry 5. Myriad
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

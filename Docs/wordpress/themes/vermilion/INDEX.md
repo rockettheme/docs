@@ -15,7 +15,7 @@ Vermilion adopts a business or commercial centric visual model, with corporate b
 Requirements
 -----
 
-* PHP 5.6+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

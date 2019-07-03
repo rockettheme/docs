@@ -14,7 +14,7 @@ Chimera is a clean, modern and minimalistic template showcasing the beauty of yo
 
 Requirements
 -----
-* PHP 5.5.9+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support
