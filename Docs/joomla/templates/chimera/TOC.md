@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!chimera:Chimera
 
-details: http://www.rockettemplate.com/joomla/templates/chimera/
-demo: http://demo.rockettemplate.com/joomla-templates/chimera/
-download: http://www.rockettemplate.com/joomla/templates/chimera/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-chimera/
+details: http://www.rockettheme.com/joomla/templates/chimera/
+demo: http://demo.rockettheme.com/joomla-templates/chimera/
+download: http://www.rockettheme.com/joomla/templates/chimera/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-chimera/
 
 ---
 
@@ -46,7 +46,7 @@ support: http://www.rockettemplate.com/forum/joomla-template-chimera/
   + Template Atoms
     + [Animation on Scroll](atom_aos.md)
     + [Fixed Header](atom_fixedheader.md)
-  + Core Particles 
+  + Core Particles
     + [Logo](http://docs.gantry.org/gantry5/particles/logo)
     + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
     + [To Top](http://docs.gantry.org/gantry5/particles/to-top)
