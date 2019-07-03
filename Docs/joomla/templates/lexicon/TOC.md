@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!lexicon:Lexicon
 
-details: http://www.rockettemplate.com/joomla/templates/lexicon/
-demo: http://demo.rockettemplate.com/joomla-templates/lexicon/
-download: http://www.rockettemplate.com/joomla/templates/lexicon/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-lexicon/
+details: http://www.rockettheme.com/joomla/templates/lexicon/
+demo: http://demo.rockettheme.com/joomla-templates/lexicon/
+download: http://www.rockettheme.com/joomla/templates/lexicon/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-lexicon/
 
 ---
 

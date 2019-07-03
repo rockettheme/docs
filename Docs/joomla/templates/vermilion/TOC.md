@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!vermilion:Vermilion
 
-details: http://www.rockettemplate.com/joomla/templates/vermilion/
-demo: http://demo.rockettemplate.com/joomla-templates/vermilion/
-download: http://www.rockettemplate.com/joomla/templates/vermilion/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-vermilion/
+details: http://www.rockettheme.com/joomla/templates/vermilion/
+demo: http://demo.rockettheme.com/joomla-templates/vermilion/
+download: http://www.rockettheme.com/joomla/templates/vermilion/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-vermilion/
 
 ---
 
