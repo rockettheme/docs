@@ -15,7 +15,7 @@ Reiko is the new sports-themed design from RocketTheme. Keep score with its excl
 Requirements
 -----
 
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

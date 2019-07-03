@@ -15,7 +15,7 @@ Ambrosia is a contemporary, flat design, ideal for a content-centric site that f
 
 Requirements
 -----
-* PHP 5.4+ (PHP 5.5+ Recommended)
+* PHP 7.1+ 
 * MySQL 5.1+
 * WordPress 4.2+
 

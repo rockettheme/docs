@@ -14,7 +14,7 @@ Myriad is the first RocketTheme Club theme to be ported from Gantry 4 to Gantry 
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

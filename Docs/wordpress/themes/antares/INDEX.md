@@ -15,7 +15,7 @@ Antares is a theme bolstered with bold and impressive visual elements, to add de
 Requirements
 -----
 
-* PHP 5.4+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

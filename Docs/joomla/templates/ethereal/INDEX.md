@@ -16,7 +16,7 @@ Ethereal is an exquisitely designed template, bursting with elegance, sharpness 
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.4+ Recommended)
+* PHP 7.1+
 * MySQL 5.1+
 * Joomla 3.4+
 

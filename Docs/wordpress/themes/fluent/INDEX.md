@@ -15,7 +15,7 @@ Fluent is a beautifully-designed theme for magazines, news, and other content-ri
 Requirements
 -----
 
-* PHP 5.4+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

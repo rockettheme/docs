@@ -16,7 +16,7 @@ Requirements
 -----
 
 * Apache 2.2+ or Microsoft IIS 7
-* PHP 5.4+ (PHP 5.5+ Recommended)
+* PHP 7.1+ 
 * MySQL 5.1+
 * WordPress 3.4+
 

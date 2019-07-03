@@ -14,7 +14,7 @@ Ambrosia is a contemporary, flat design, ideal for a content-centric site that f
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

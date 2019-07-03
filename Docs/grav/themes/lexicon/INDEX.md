@@ -14,7 +14,7 @@ Lexicon is centered around a flat design approach, spruced by professional and e
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support

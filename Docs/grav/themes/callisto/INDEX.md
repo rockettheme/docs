@@ -14,7 +14,7 @@ Callisto is the first RocketTheme Club theme to be released on the new Gantry 5 
 
 Requirements
 -----
-* PHP 7.2+
+* PHP 7.1+
 * Curl
 * OpenSSL Libraries
 * Multibyte String Support
