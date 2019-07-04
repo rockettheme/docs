@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Anacron, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Anacron Theme > Front Page > Layout.
+>> All Home Particles can be edited via Anacron Theme > Home > Layout.
 
 * Theme Particles
     - [Case Studies](particle_case.md)

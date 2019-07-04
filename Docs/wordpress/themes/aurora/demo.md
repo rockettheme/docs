@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Aurora, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Aurora Theme > Front Page > Layout.
+>> All Home Particles can be edited via Aurora Theme > Home > Layout.
 
 - Theme Particles
     - [Block Content](particle_block.md)
@@ -31,7 +31,7 @@ Here is a list of particles that are available in Aurora, as well as links to do
     - [Grid Statistic](particle_grid.md)
     - [Image Grid](particle_image.md)
     - [Info List](particle_info.md)
-    - [Joomla Articles](particle_joomla.md)
+    - [WordPress Posts](particle_wordpress.md)
     - [Newsletter](particle_newsletter.md)
     - [Panel Slider](particle_panel.md)
     - [Pricing Table](particle_pricing.md)

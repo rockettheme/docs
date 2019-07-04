@@ -17,7 +17,7 @@ Here is the widget breakdown for the Main Top section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<h4>Learn about the latest projects and techniques as well as recent news with these informative articles and posts</h4>
+<h4>Learn about the latest projects and techniques as well as recent news with these informative posts and posts</h4>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

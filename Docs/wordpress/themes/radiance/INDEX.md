@@ -44,4 +44,4 @@ The Color Chooser system in Radiance benefits from a Background Picker, an admin
 
 ![](assets/font.jpg)
 
-The richness of Radiance is composited in part from its prolific use of custom fonts for varying title elements, ranging from content articles to widget titles and textual elements in the various extensions such as RokGallery; which adds character and uniqueness.
+The richness of Radiance is composited in part from its prolific use of custom fonts for varying title elements, ranging from content posts to widget titles and textual elements in the various extensions such as RokGallery; which adds character and uniqueness.

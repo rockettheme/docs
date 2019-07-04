@@ -14,7 +14,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#particle-items)
-    - [Articles](#articles)
+    - [Posts](#posts)
     - [Articles Display](#display)
 
 ## Configuration
@@ -58,33 +58,33 @@ These items make up the individual featured items in the particle. They sit apar
 | Person Position     | Enter a title or position for the author of the testimonial.                       |
 | Person Photo        | The image file can be linked here.                                                 |
 
-### Articles
+### Posts
 
 ![](assets/particle_testimonials5.png)
 
 | Option             | Description                                                                                                     |
 | :-----             | :-----                                                                                                          |
-| Categories         | Select the categories of articles this particle will display.                                                   |
-| Articles           | Select the number of articles you would like the particle to fetch.                                             |
+| Categories         | Select the categories of posts this particle will display.                                                   |
+| Articles           | Select the number of posts you would like the particle to fetch.                                             |
 | Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of articles to display.                                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                    |
+| Number of Articles | Enter the maximum number of posts to display.                                                                |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).                    |
 | Order By           | Choose the type of factor to order by.                                                                          |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                                 |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                                 |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_testimonials6.png)
 
 | Option          | Description                                                                                                                                              |
 | :-----          | :-----                                                                                                                                                   |
-| Image           | Select which image in an article should be displayed.                                                                                                    |
-| Title           | Choose whether or not the title of an article should be shown.                                                                                           |
+| Image           | Select which image in an post should be displayed.                                                                                                    |
+| Title           | Choose whether or not the title of an post should be shown.                                                                                           |
 | Title Limit     | Set a character limit for titles.                                                                                                                        |
 | Article Text    | Choose between showing the **Introduction** or **Full Article** text to display. You can also **Hide** text.                                             |
-| Text Limit      | Set a limit (in characters) of the article's text to appear.                                                                                             |
+| Text Limit      | Set a limit (in characters) of the post's text to appear.                                                                                             |
 | Text Formatting | Select between **Plain Text** and **HTML** text formatting.                                                                                              |
 | Button Label    | Enter the text you would like to have appear as the button link.                                                                                         |
 | Button Link     | Enter the url you want that link to go to.                                                                                                               |

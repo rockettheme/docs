@@ -7,6 +7,8 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/manticore:Manticore
 
 ## Introduction
 
+![](assets/particle_particles1.png)
+
 The **Particles** particle displays moving particles that sit in the background of your content.
 
 Here are the topics covered in this guide:

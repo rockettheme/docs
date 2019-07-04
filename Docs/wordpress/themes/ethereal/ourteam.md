@@ -159,7 +159,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_ourteam_3.jpeg)
 
-The **Mainbar** section includes the **Our Team** article, displayed through the **Page Content** particle. Here are the settings found in the **Our Team** article.
+The **Mainbar** section includes the **Our Team** post, displayed through the **Page Content** particle. Here are the settings found in the **Our Team** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

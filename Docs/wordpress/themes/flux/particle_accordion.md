@@ -44,11 +44,11 @@ This tab is where you configure how WordPress content appears as items in the pa
 
 | Option               | Description                                                        |
 | :-----               | :-----                                                             |
-| WordPress Categories | Select the categories of articles this particle will display.      |
+| WordPress Categories | Select the categories of posts this particle will display.      |
 | Posts to Fetch       | Select the number of posts you would like the particle to fetch.   |
 | Content Type         | Choose between **Content** and **Excerpt** for the item's content. |
 | Display Content      | **Enable** or **Disable** the display of content.                  |
-| Link                 | **Enable** or **Disable** the linking of the article(s).           |
+| Link                 | **Enable** or **Disable** the linking of the post(s).           |
 | Link Text            | Enter the text you wish to have displayed as the read more link.   |
 | Target               | Select **Self** or **New Window** as the target for the link.      |
 

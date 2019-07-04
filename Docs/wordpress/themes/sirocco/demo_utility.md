@@ -22,7 +22,7 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 ##### Simple Provider
 
-We used the **Simple Provider** to enable us to create custom headline text without having to create separate articles or pages to do so. Here are the details of one of the items in the **Featured Article List**.
+We used the **Simple Provider** to enable us to create custom headline text without having to create separate posts or pages to do so. Here are the details of one of the items in the **Featured Article List**.
 
 | Option      | Setting                                                                               |
 | :---------- | :----------                                                                           |

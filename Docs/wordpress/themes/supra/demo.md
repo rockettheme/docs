@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Supra, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Supra Theme > Front Page > Layout.
+>> All Home Particles can be edited via Supra Theme > Home > Layout.
 
 * Theme Particles
     - [Accordion](particle_accordion.md)

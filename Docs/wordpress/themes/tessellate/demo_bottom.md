@@ -95,7 +95,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p>Subscribe to our newsletter in order to receive the latest news &amp; articles. We promise we won't spam your inbox!</p>
+<p>Subscribe to our newsletter in order to receive the latest news &amp; posts. We promise we won't spam your inbox!</p>
 
 <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=rocketthemeblog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" class="rt-form-horizontal">
 	<input type="text" placeholder="Your Email" class="inputbox" name="email" />

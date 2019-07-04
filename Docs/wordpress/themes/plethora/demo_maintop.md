@@ -30,7 +30,7 @@ First, you will need to create the RokSprocket widget. You can do this by naviga
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
-We used the **WordPress** provider, pulling information directly from articles. The default link has been set to `#` and the images are custom set for each item in the **Filtered Article List**.
+We used the **WordPress** provider, pulling information directly from posts. The default link has been set to `#` and the images are custom set for each item in the **Filtered Article List**.
 
 Here is a look at the **Lists Layout Options** for this widget.
 
@@ -48,7 +48,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5                    |
 | Image Resize        | Disable              |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
@@ -121,7 +121,7 @@ First, you will need to create the RokSprocket widget. You can do this by naviga
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation][roksprocket].
 
-We used the **WordPress** provider, pulling information directly from articles. The default link has been set to `#` and custom icons are custom set for each item in the **Filtered Article List**. Here is a quick list of the icons used in our demo:
+We used the **WordPress** provider, pulling information directly from posts. The default link has been set to `#` and custom icons are custom set for each item in the **Filtered Article List**. Here is a quick list of the icons used in our demo:
 
 * fa fa-cloud-download
 * fa fa-tasks
@@ -146,7 +146,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5                    |
 | Image Resize        | Disable              |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 

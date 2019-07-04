@@ -21,7 +21,7 @@ Particles
 
 Here is a list of particles that are available in Manticore, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Manticore Theme > Front Page > Layout.
+>> All Home Particles can be edited via Manticore Theme > Home > Layout.
 
 Theme Particles
 

@@ -69,9 +69,9 @@ These items make up the individual featured items in the particle. Items in this
 | Posts              | Select the number of posts you would like the particle to fetch.                             |
 | Sticky Posts       | Choose how Sticky Posts should be filtered. Choose between **Show** and **Hide**.            |
 | Number of Posts    | Enter the maximum number of posts to display.                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
@@ -81,6 +81,6 @@ This section configures how posts are displayed.
 
 | Option      | Description                                                                  |
 | :-----      | :-----                                                                       |
-| Image       | Display the image assigned to the article's **Intro**, **Full** or **None**. |
-| Title       | **Show** or **Hide** the article's title.                                    |
+| Image       | Display the image assigned to the post's **Intro**, **Full** or **None**. |
+| Title       | **Show** or **Hide** the post's title.                                    |
 | Title Limit | Enter the maximum number of characters in the title to display.              |

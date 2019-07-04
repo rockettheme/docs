@@ -16,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Articles](#articles)
+    - [Posts](#posts)
     - [Display](#display)
 
 ## Configuration
@@ -66,27 +66,27 @@ These items make up the individual featured items in the particle. Items in this
 
 | Option             | Description                                                                                  |
 | :-----             | :-----                                                                                       |
-| Categories         | Select the categories of articles this particle will display.                                |
-| Posts              | Select the number of articles you would like the particle to fetch.                          |
+| Categories         | Select the categories of posts this particle will display.                                |
+| Posts              | Select the number of posts you would like the particle to fetch.                          |
 | Sticky Posts       | Choose to **Show** or **Hide** sticky posts.                                                 |
-| Number of Posts    | Enter the maximum number of articles to display.                                             |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Number of Posts    | Enter the maximum number of posts to display.                                             |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_vertical6.jpeg)
 
 | Option             | Description                                                                                          |
 | :-----             | :-----                                                                                               |
-| Image              | Display the image assigned to the article's **Intro**, **Full** or **None**.                         |
-| Content Type       | Choose which text to pull from the article. Choices include: **Content**, **Excerpt**, and **Hide**. |
+| Image              | Display the image assigned to the post's **Intro**, **Full** or **None**.                         |
+| Content Type       | Choose which text to pull from the post. Choices include: **Content**, **Excerpt**, and **Hide**. |
 | Content Limit      | Set a limit (in characters) of the text to appear in the item.                                       |
 | Content Formatting | Choose between plain text and HTML as the text format.                                               |
-| Title              | **Show** or **Hide** the article's title.                                                            |
+| Title              | **Show** or **Hide** the post's title.                                                            |
 | Title Limit        | Enter the maximum number of characters in the title to display.                                      |
 | Read More          | **Show** or **Hide** the read more link.                                                             |
 | Read More Label    | Add a text label for the read more link.                                                             |

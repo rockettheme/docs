@@ -53,7 +53,7 @@ These items make up the individual featured items in the particle. Items in this
 |:----------- |:---------------------------------------------------------------------------------------- |
 | Item Name   | This is the name of the item. This appears as the item's title on the front end.         |
 | Layout      | Choose between **Photo**, **Photo Large**, and **Text** as the layout type for the item. |
-| Date        | Enter a date for the article.                                                            |
+| Date        | Enter a date for the post.                                                            |
 | Image       | Set an image to appear in the item.                                                      |
 | Description | Enter a text description for the item.                                                   |
 | URL         | Enter a URL you would like the item to link to.                                          |
@@ -69,9 +69,9 @@ These items make up the individual featured items in the particle. Items in this
 | Posts              | Select the number of posts you would like the particle to fetch.                                           |
 | Sticky Posts       | Choose how Sticky Posts should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
 | Number of Posts    | Enter the maximum number of posts to display.                                                              |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).               |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).               |
 | Order By           | Choose the type of factor to order by.                                                                     |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                            |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                            |
 
 ### Display
 
@@ -81,13 +81,13 @@ This section configures how posts are displayed.
 
 | Option             | Description                                                                                           |
 | :-----             | :-----                                                                                                |
-| Image              | Display the image assigned to the article's **Intro**, **Full** or **None**.                          |
-| Article Text       | Choose between **Introduction**, **Hide**, and **Full Article** for the article text to be displayed. |
-| Text Limit         | Set a limit (in characters) for the article text displayed.                                           |
-| Text Formatting    | Choose between **HTML** and **Plain Text** formatting for the article's text.                         |
-| Title              | **Show** or **Hide** the article's title.                                                             |
+| Image              | Display the image assigned to the post's **Intro**, **Full** or **None**.                          |
+| Article Text       | Choose between **Introduction**, **Hide**, and **Full Article** for the post text to be displayed. |
+| Text Limit         | Set a limit (in characters) for the post text displayed.                                           |
+| Text Formatting    | Choose between **HTML** and **Plain Text** formatting for the post's text.                         |
+| Title              | **Show** or **Hide** the post's title.                                                             |
 | Title Limit        | Enter the maximum number of characters in the title to display.                                       |
-| Date               | **Show** or **Hide** article dates.                                                                   |
+| Date               | **Show** or **Hide** post dates.                                                                   |
 | Date Format        | Set the format that dates will be displayed in.                                                       |
 | Read More          | **Show** or **Hide** the Read More link.                                                              |
 | Read More Label    | Enter a text label to appear as the read more link                                                    |

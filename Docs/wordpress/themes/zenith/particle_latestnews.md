@@ -62,7 +62,7 @@ These items make up the individual featured items in the particle. Items in this
 | Posts              | Select the number of posts you would like the particle to fetch.                          |
 | Sticky Posts       | Choose whether to **Hide** or **Show** Sticky Posts.                                      |
 | Number of Posts    | Enter the maximum number of posts to display.                                             |
-| Start From         | Enter offset specifying the first post to return. The default is '0' (the first article). |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                    |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
@@ -74,13 +74,13 @@ This section configures how posts are displayed.
 
 | Option             | Description                                                                             |
 | :-----             | :-----                                                                                  |
-| Image              | Display the image assigned to the article's **Intro**, **Full** or **None**.            |
+| Image              | Display the image assigned to the post's **Intro**, **Full** or **None**.            |
 | Content Type       | Choose between **Content**, **Exerpt**, and **Hide** for the post text to be displayed. |
 | Content Limit      | Set a limit (in characters) for the post text displayed.                                |
-| Content Formatting | Choose between **HTML** and **Plain Text** formatting for the article's text.           |
+| Content Formatting | Choose between **HTML** and **Plain Text** formatting for the post's text.           |
 | Date               | **Show** or **Hide** post dates.                                                        |
 | Date Format        | Set the format that dates will be displayed in.                                         |
-| Title              | **Show** or **Hide** the article's title.                                               |
+| Title              | **Show** or **Hide** the post's title.                                               |
 | Title Limit        | Enter the maximum number of characters in the title to display.                         |
 | Read More          | **Show** or **Hide** the Read More link.                                                |
 | Read More Label    | Enter a text label to appear as the read more link                                      |

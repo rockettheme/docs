@@ -84,7 +84,7 @@ This section configures how posts are displayed.
 | :-----             | :-----                                                                                             |
 | Image              | Display the image assigned to the post's **Featured Image**. Choose between **Hide** and **Show**. |
 | Content Type       | Choose between **Content**, **Exerpt**, and **Hide**.                                              |
-| Content Limit      | Set a limit (in characters) for the article text displayed.                                        |
+| Content Limit      | Set a limit (in characters) for the post text displayed.                                        |
 | Content Formatting | Choose between **HTML** and **Plain Text** formatting for the post's text.                         |
 | Title              | **Show** or **Hide** the post's title.                                                             |
 | Title Limit        | Enter the maximum number of characters in the title to display.                                    |

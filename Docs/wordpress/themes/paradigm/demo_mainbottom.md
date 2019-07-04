@@ -62,7 +62,7 @@ Here is a look at the **Strips Layout Options** for this widget.
 | Autoplay Delay    |            5 |
 | Image Resize      |      Disable |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
@@ -104,7 +104,7 @@ When you have done this, you will need to complete the following.
 
 #### Featured Article
 
-The article featured in the **Gantry NewsFlash** widget is set to the **Front Page** category. Below, you will find the **Title** and **Content Body** used in the demo.
+The post featured in the **Gantry NewsFlash** widget is set to the **Front Page** category. Below, you will find the **Title** and **Content Body** used in the demo.
 
 **Title**
 

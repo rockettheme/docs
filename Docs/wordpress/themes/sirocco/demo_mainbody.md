@@ -10,13 +10,13 @@ MainBody Section
 
 ![](assets/demo_11.jpeg)
 
-This area of the front page is the mainbody. It allows you to display featured articles on the front page. There are a couple things that have to be in order in order to see these articles populated in the MainBody section of the page.
+This area of the front page is the mainbody. It allows you to display featured posts on the front page. There are a couple things that have to be in order in order to see these posts populated in the MainBody section of the page.
 
 ![](assets/setadvanced.jpeg)
 
 First, you will need to have the **Display Mainbody** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Momentum Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Momentum Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
+By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Momentum Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
 
 Also in the **Blog View** tab are three fields for **Post Display**. In this case, the **Leading Posts** is set to `0`, **Intro Posts** to `3`, and the **Columns** to `1`.
 
@@ -30,7 +30,7 @@ Below, we have listed the settings of the post titled **RokGallery Theme Integra
 | Featured Image | Blank                                                                  |
 
 
-Most of the magic takes place in the article content:
+Most of the magic takes place in the post content:
 
 ~~~ .html
 <p class="rt-lead">An advanced multimedia presentation plugin.</p>

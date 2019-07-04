@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/notio:Notio
 
 ![](assets/particle_newsslider1.jpeg)
 
-The **News Slider** particle is an excellent way to showcase featured articles and content on your site.
+The **News Slider** particle is an excellent way to showcase featured posts and content on your site.
 
 Here are the topics covered in this guide:
 
@@ -60,23 +60,23 @@ These items make up the individual featured items in the particle. Items in this
 
 | Option               | Description                                                                                                  |
 | :-----               | :-----                                                                                                       |
-| WordPress Categories | Select the categories of articles this particle will display.                                                |
-| Posts                | Select the number of articles you would like the particle to fetch.                                          |
-| Number of Posts      | Enter the maximum number of articles to display.                                                             |
-| Start From           | Enter offset specifying the first article to return. The default is '0' (the first article).                 |
+| WordPress Categories | Select the categories of posts this particle will display.                                                |
+| Posts                | Select the number of posts you would like the particle to fetch.                                          |
+| Number of Posts      | Enter the maximum number of posts to display.                                                             |
+| Start From           | Enter offset specifying the first post to return. The default is '0' (the first post).                 |
 | Order By             | Choose the type of factor to order by.                                                                       |
-| Ordering Direction   | Choose between **Ascending** and **Descending** as the article ordering method.                              |
+| Ordering Direction   | Choose between **Ascending** and **Descending** as the post ordering method.                              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_newsslider6.jpeg)
 
 | Option          | Description                                                                  |
 | :-----          | :-----                                                                       |
-| Image           | Display the image assigned to the article's **Intro**, **Full** or **None**. |
-| Title           | **Show** or **Hide** the article's title.                                    |
+| Image           | Display the image assigned to the post's **Intro**, **Full** or **None**. |
+| Title           | **Show** or **Hide** the post's title.                                    |
 | Title Limit     | Enter the maximum number of characters in the title to display.              |
 | Date            | Enter a date for the item.                                                   |
 | Date Format     | Select the format you want the date to be displayed in.                      |
@@ -87,6 +87,6 @@ This section configures how articles are displayed.
 
 | Option   | Description                                                                  |
 | :-----   | :-----                                                                       |
-| Image    | Display the image assigned to the article's **Intro**, **Full** or **None**. |
+| Image    | Display the image assigned to the post's **Intro**, **Full** or **None**. |
 | Author   | **Show** or **Hide** author information.                                     |
-| Category | Choose to **Show**, **Show With Link**, or **Hide** article categories.      |
+| Category | Choose to **Show**, **Show With Link**, or **Hide** post categories.      |

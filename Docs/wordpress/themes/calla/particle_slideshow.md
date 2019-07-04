@@ -72,7 +72,7 @@ These items make up the individual featured items in the particle. Items in this
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_slideshow6.jpeg)
 

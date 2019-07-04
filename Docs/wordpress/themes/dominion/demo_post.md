@@ -10,13 +10,13 @@ Featured Posts Section
 
 ![][demo]
 
-This area of the front page is the mainbody. It allows you to display featured articles on the front page. There are a couple things that have to be in order in order to see these articles populated in the MainBody section of the page.
+This area of the front page is the mainbody. It allows you to display featured posts on the front page. There are a couple things that have to be in order in order to see these posts populated in the MainBody section of the page.
 
 ![][mainbody]
 
 First, you will need to have the **Content** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Dominion Theme -> Advanced -> Content**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Dominion Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
+By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Dominion Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
 
 Below, we have listed the settings of the post titled **RTL Theme Support**.
 
@@ -28,7 +28,7 @@ Below, we have listed the settings of the post titled **RTL Theme Support**.
 | Featured Image | Blank               |
 
 
-Most of the magic takes place in the article content:
+Most of the magic takes place in the post content:
 
 ~~~ .html
 <p class="demo-img"><img class="rt-image" alt="demo image" src="http://demo.rockettheme.com/live/wordpress/dominion/wp-content/rockettheme/rt_dominion_wp/frontpage/mb-2.jpg" border="0" /></p>

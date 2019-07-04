@@ -27,7 +27,7 @@ support: http://www.rockettheme.com/forum/grav-theme-fluent/
         * [Grid Statistics](particle_grid.md)
         * [Image Grid](particle_image.md)
         * [Info List](particle_info.md)
-        * [Joomla Articles](particle_joomla.md)
+        * [Grav Pages](particle_grav.md)
         * [News Slider](particle_newsslider.md)
         * [Pricing Table](particle_pricing.md)
         * [Simple Content](particle_simple.md)

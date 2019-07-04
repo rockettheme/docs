@@ -23,7 +23,7 @@ Even though there are widget and particle sections placed in the layout, as ther
 
 ![](assets/page_blog_1.jpeg)
 
-The **Mainbar** section includes several articles assigned to the **WordPress Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Gantry 5 Framework is the powerhouse behind the Galatea theme** article.
+The **Mainbar** section includes several posts assigned to the **WordPress Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Gantry 5 Framework is the powerhouse behind the Galatea theme** post.
 
 | Option     | Setting                                                                            |
 | :--------- | :--------------------------------------------------------------------------------- |

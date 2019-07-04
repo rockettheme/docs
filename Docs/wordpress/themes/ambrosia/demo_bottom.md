@@ -58,7 +58,7 @@ Settings used in our demo for each of these particles can be found below.
 
 We used a **RokSprocket** widget with the **Strips** layout to make up this area of the front page. You will find the settings used in our demo below.
 
-We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an post. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
 ### Details
 

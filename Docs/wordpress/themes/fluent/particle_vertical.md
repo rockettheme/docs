@@ -70,13 +70,13 @@ These items make up the individual featured items in the particle. Items in this
 | Posts              | Select the number of posts you would like the particle to fetch.                             |
 | Sticky Posts       | Choose how Sticky Posts should be filtered. Choose between **Show** or **Hide**.             |
 | Number of Posts    | Enter the maximum number of posts to display.                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_vertical6.jpeg)
 

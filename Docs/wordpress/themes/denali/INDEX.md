@@ -39,7 +39,7 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Info List
-* Joomla Articles
+* WordPress Posts
 * Logo / Image
 * Menu
 * Mobile Menu

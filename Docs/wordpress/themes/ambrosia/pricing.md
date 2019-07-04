@@ -184,7 +184,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_pricing_3.jpeg)
 
-The **Mainbar** section includes the **Pricing** article, displayed through the **Page Content** particle. Here are the settings found in the **Pricing** article.
+The **Mainbar** section includes the **Pricing** post, displayed through the **Page Content** particle. Here are the settings found in the **Pricing** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

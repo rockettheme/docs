@@ -12,13 +12,13 @@ Featured Post Section
 
 :   1. **Featured Posts** [27%, 6%, se]
 
-This area of the front page is the mainbody. It allows you to display featured articles on the front page. There are a couple things that have to be in order in order to see these articles populated in the MainBody section of the page.
+This area of the front page is the mainbody. It allows you to display featured posts on the front page. There are a couple things that have to be in order in order to see these posts populated in the MainBody section of the page.
 
 ![][mainbody]
 
 First, you will need to have the **Display Mainbody** and **Display Content** options set to **On** in your template settings. You can find these options by navigating to **Admin -> Entropy Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Entropy Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
+By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Entropy Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
 
 Below, we have listed the settings of the post titled **Fusion with MegaMenu**.
 
@@ -30,7 +30,7 @@ Below, we have listed the settings of the post titled **Fusion with MegaMenu**.
 | Featured Image | Blank                  |
 
 
-Most of the magic takes place in the article content:
+Most of the magic takes place in the post content:
 
 ~~~ .html
 <p><strong>Fusion</strong> is a javascript enhanced CSS dropdown menu system, that is fully <em>crawlable</em> by search engines. Mootools adds <a href="#">transitions and animations</a> to the dropdown, providing a smooth and dynamic interface for the navigational structure. <strong>MegaMenu</strong> features include a vast assortment, such as <a href="#">multiple columns</a>, grouped child items, <strong>dropdown widths</strong> and item distribution. These provide for <a href="#">individual control</a> over each specific dropdown menu item or column.</p>

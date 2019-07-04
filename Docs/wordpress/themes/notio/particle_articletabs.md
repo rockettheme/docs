@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/notio:Notio
 
 ![](assets/particle_articletabs1.jpeg)
 
-The **Article Tabs** particle displays articles in elegant, easy-to-navigate tabs.
+The **Article Tabs** particle displays posts in elegant, easy-to-navigate tabs.
 
 Here are the topics covered in this guide:
 
@@ -58,26 +58,26 @@ These items make up the individual featured items in the particle. Items in this
 
 | Option             | Description                                                                                                  |
 | :-----             | :-----                                                                                                       |
-| Categories         | Select the categories of articles this particle will display.                                                |
-| Posts              | Select the number of articles you would like the particle to fetch.                                          |
-| Number of Posts    | Enter the maximum number of articles to display.                                                             |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                 |
+| Categories         | Select the categories of posts this particle will display.                                                |
+| Posts              | Select the number of posts you would like the particle to fetch.                                          |
+| Number of Posts    | Enter the maximum number of posts to display.                                                             |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).                 |
 | Order By           | Choose the type of factor to order by.                                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                              |
 
 ### Display First Post
 
-This section sets what appears in the first article.
+This section sets what appears in the first post.
 
 ![](assets/particle_articletabs6.jpeg)
 
 | Option          | Description                                                                                  |
 | :-----          | :-----                                                                                       |
-| Image           | Display the image assigned to the article's **Intro**, **Full** or **None**.                 |
+| Image           | Display the image assigned to the post's **Intro**, **Full** or **None**.                 |
 | Content Type    | Choose between **Content**, **Excerpt**, and **Hide** as the source of content for the item. |
 | Text Limit      | Enter the maximum number of characters in the text to display.                               |
 | Text Formatting | Choose between **Plain Text** and **HTML** text formatting.                                  |
-| Title           | **Show** or **Hide** the article's title.                                                    |
+| Title           | **Show** or **Hide** the post's title.                                                    |
 | Title Limit     | Enter the maximum number of characters in the title to display.                              |
 | Date            | Enter a date for the item.                                                                   |
 | Date Format     | Select the format you want the date to be displayed in.                                      |
@@ -85,17 +85,17 @@ This section sets what appears in the first article.
 
 ### Display
 
-This section configures how articles other than the first one are displayed.
+This section configures how posts other than the first one are displayed.
 
 ![](assets/particle_articletabs7.jpeg)
 
 | Option          | Description                                                                                  |
 | :-----          | :-----                                                                                       |
-| Image           | Display the image assigned to the article's **Intro**, **Full** or **None**.                 |
+| Image           | Display the image assigned to the post's **Intro**, **Full** or **None**.                 |
 | Content Type    | Choose between **Content**, **Excerpt**, and **Hide** as the source of content for the item. |
 | Text Limit      | Enter the maximum number of characters in the text to display.                               |
 | Text Formatting | Choose between **Plain Text** and **HTML** text formatting.                                  |
-| Title           | **Show** or **Hide** the article's title.                                                    |
+| Title           | **Show** or **Hide** the post's title.                                                    |
 | Title Limit     | Enter the maximum number of characters in the title to display.                              |
 | Date            | Enter a date for the item.                                                                   |
 | Date Format     | Select the format you want the date to be displayed in.                                      |

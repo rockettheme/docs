@@ -59,7 +59,7 @@ These items make up the individual featured items in the particle. Items in this
 | Link      | Enter a URL you would like the item to link to.                  |
 | Target    | Choose the target tab you would like the URL to open to.         |
 
-### Articles
+### Posts
 
 ![](assets/particle_carousel5.jpeg)
 
@@ -69,9 +69,9 @@ These items make up the individual featured items in the particle. Items in this
 | Posts              | Select the number of posts you would like the particle to fetch.                             |
 | Sticky Posts       | Choose to **Show** or **Hide** sticky posts.                                                 |
 | Number of Posts    | Enter the maximum number of posts to display.                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 

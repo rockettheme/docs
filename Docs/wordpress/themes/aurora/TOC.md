@@ -29,7 +29,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-aurora/
         + [Grid Statistic](particle_grid.md)
         + [Image Grid](particle_image.md)
         + [Info List](particle_info.md)
-        + [Joomla Articles](particle_joomla.md)
+        + [WordPress Posts](particle_wordpress.md)
         + [Newsletter](particle_newsletter.md)
         + [Panel Slider](particle_panel.md)
         + [Pricing Table](particle_pricing.md)

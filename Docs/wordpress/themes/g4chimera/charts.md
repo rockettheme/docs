@@ -19,7 +19,7 @@ Chart.js Support
 
 Chimera introduces built-in support for [Chart.js][chartjs]. This element allows you to quickly and easily create dynamic graphs that display information in a variety of ways.
 
-You can toggle this feature on and off by navigating to **Administrator -> Chimera Theme -> Gizmos -> Chart** and toggling the option there. If you have a Custom HTML and/or article with the Chart.js code present, and this option is off, nothing will appear in its place and your browser may indicate a JavaScript error.
+You can toggle this feature on and off by navigating to **Administrator -> Chimera Theme -> Gizmos -> Chart** and toggling the option there. If you have a Custom HTML and/or post with the Chart.js code present, and this option is off, nothing will appear in its place and your browser may indicate a JavaScript error.
 
 ![][chart_1]
 

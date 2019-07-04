@@ -36,7 +36,7 @@ Key Features
 * Grid Statistic
 * Header Tabs
 * Image Grid
-* Joomla Articles
+* WordPress Posts
 * Newsletter
 * Pricing Table
 * Simple Content

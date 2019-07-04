@@ -67,7 +67,7 @@ There is an important aspect of this widget position used in our demo you should
 
 The `RokSprocket Tabs Feature` widget position is host to a single **RokSprocket** widget.
 
-We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an post. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
 #### RokSprocket Settings
 
@@ -183,7 +183,7 @@ In this section, we will cover one of the embedded particles that appear in the 
 
 The `feature-b` widget position is host to a single **RokSprocket** widget.
 
-We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an post. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
 #### RokSprocket Settings
 

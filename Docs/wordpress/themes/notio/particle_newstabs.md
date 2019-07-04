@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/notio:Notio
 
 ![](assets/particle_newstabs1.jpeg)
 
-The **News Tabs** particle displays article titles in elegant, easy-to-navigate tabs.
+The **News Tabs** particle displays post titles in elegant, easy-to-navigate tabs.
 
 Here are the topics covered in this guide:
 
@@ -37,7 +37,7 @@ These options affect the main area of the particle, and not the individual items
 
 ### Tabs
 
-Each tab acts like a category, giving you the ability to create lists of articles in multiple different sections in the particle.
+Each tab acts like a category, giving you the ability to create lists of posts in multiple different sections in the particle.
 
 ### Particle Items
 
@@ -60,27 +60,27 @@ Each tab acts like a category, giving you the ability to create lists of article
 
 | Option               | Description                                                                                  |
 | :-----               | :-----                                                                                       |
-| WordPress Categories | Select the categories of articles this particle will display.                                |
-| Posts                | Select the number of articles you would like the particle to fetch.                          |
-| Number of Posts      | Enter the maximum number of articles to display.                                             |
-| Start From           | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| WordPress Categories | Select the categories of posts this particle will display.                                |
+| Posts                | Select the number of posts you would like the particle to fetch.                          |
+| Number of Posts      | Enter the maximum number of posts to display.                                             |
+| Start From           | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Pagination           | **Hide** or **Show** pagination.                                                             |
 | Order By             | Choose the type of factor to order by.                                                       |
-| Ordering Direction   | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction   | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
-This section configures how articles other than the first one are displayed.
+This section configures how posts other than the first one are displayed.
 
 ![](assets/particle_newstabs6.jpeg)
 
 | Option          | Description                                                                  |
 | :-----          | :-----                                                                       |
-| Image           | Display the image assigned to the article's **Intro**, **Full** or **None**. |
-| Article Text    | **Show** or **Hide** article text.                                           |
+| Image           | Display the image assigned to the post's **Intro**, **Full** or **None**. |
+| Article Text    | **Show** or **Hide** post text.                                           |
 | Text Limit      | Enter the maximum number of characters in the text to display.               |
 | Text Formatting | Choose between **Plain Text** and **HTML** text formatting.                  |
-| Title           | **Show** or **Hide** the article's title.                                    |
+| Title           | **Show** or **Hide** the post's title.                                    |
 | Title Limit     | Enter the maximum number of characters in the title to display.              |
 | Date            | Enter a date for the item.                                                   |
 | Date Format     | Select the format you want the date to be displayed in.                      |

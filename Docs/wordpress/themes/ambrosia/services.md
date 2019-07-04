@@ -165,7 +165,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_services_4.jpeg)
 
-The **Mainbar** section includes the **Services** article, displayed through the **Page Content** particle. Here are the settings found in the **Services** article.
+The **Mainbar** section includes the **Services** post, displayed through the **Page Content** particle. Here are the settings found in the **Services** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

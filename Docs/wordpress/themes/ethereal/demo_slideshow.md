@@ -113,7 +113,7 @@ The first thing you will want to do is add a **Widget Position** particle to the
 
 The `slideshow` widget position is host to a single **RokSprocket** widget.
 
-We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an article. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
+We utilized the **Simple** Content Provider, linking each item in the RokSprocket widget to an post. You can find examples of the **Simple** items used in this widget in the **Filtered Article List** section below.
 
 ### Details
 

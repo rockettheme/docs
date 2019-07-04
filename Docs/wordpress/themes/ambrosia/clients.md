@@ -75,7 +75,7 @@ Enter the following in the **Custom Output** text editor.
 
 ![](assets/page_clients_2.jpeg)
 
-The **Mainbar** section includes the **Clients** article, displayed through the **Page Content** particle. Here are the settings found in the **Clients** article.
+The **Mainbar** section includes the **Clients** post, displayed through the **Page Content** particle. Here are the settings found in the **Clients** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

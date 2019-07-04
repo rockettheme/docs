@@ -70,7 +70,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_blog_2.png)
 
-The **Mainbar** section includes several articles assigned to the **WordPress Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** article.
+The **Mainbar** section includes several posts assigned to the **WordPress Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **Dramatically visualize customer directed convergence without revolutionary ROI** post.
 
 | Option   | Setting                                                                          |
 | :-----   | :-----                                                                           |

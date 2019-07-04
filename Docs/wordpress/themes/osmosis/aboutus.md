@@ -24,7 +24,7 @@ Mainbody
 
 ![][aboutuspage8]
 
-The page's content body is set in the **About Us** article. You will find the content used in the article below.
+The page's content body is set in the **About Us** post. You will find the content used in the post below.
 
 ~~~ .html
 <h3>Osmosis, the Powerful Theme</h3>

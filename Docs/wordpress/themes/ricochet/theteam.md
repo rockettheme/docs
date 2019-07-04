@@ -24,7 +24,7 @@ Mainbody
 
 ![Mainbody](page_theteam_7.jpeg)
 
-The page's content body is set in the **The Team** article. You will find the content used in the article below.
+The page's content body is set in the **The Team** post. You will find the content used in the post below.
 
 ~~~ .html
 <h3>Our Passion for Design</h3>

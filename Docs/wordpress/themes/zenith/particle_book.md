@@ -78,8 +78,8 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 | Option                   | Description                                                                                       |
 | :-----                   | :-----                                                                                            |
 | Image                    | **Enable** or **Disable** the image appearing in the particle.                                    |
-| Categories Names         | **Enable** or **Disable** the category of the article in the particle.                            |
-| Title                    | **Enable** or **Disable** the title of the article appearing in the particle.                     |
+| Categories Names         | **Enable** or **Disable** the category of the post in the particle.                            |
+| Title                    | **Enable** or **Disable** the title of the post appearing in the particle.                     |
 | Title Limit              | Set the limit (in characters) for the title being displayed.                                      |
 | Content Type             | Choose between showing the **Content** or **Exerpt** text to display. You can also **Hide** text. |
 | Content Limit Limit      | Set a limit of text (in characters) appearing in the item.                                        |

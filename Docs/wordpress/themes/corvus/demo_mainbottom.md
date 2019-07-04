@@ -79,7 +79,7 @@ Here is a look at the **Strips Layout Options** for this widget.
 
 **Article Item**
 
-We did a little customization to each article item that appears in this area of the page. Below are the settings we used for one of these items.
+We did a little customization to each post item that appears in this area of the page. Below are the settings we used for one of these items.
 
 | Option                   | Setting   |  
 | :----------------------- | :-------- |  
@@ -94,7 +94,7 @@ Description
 <span class="hidden-tablet">A selection of ten configuration style<span class="visible-large"> variation</span>s.</span><span class="visible-tablet">10 preset styles.</span>
 ~~~
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 

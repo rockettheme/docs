@@ -49,7 +49,7 @@ Particles
 
 Here is a list of particles that are available in Acronym, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Acronym Theme > Front Page > Layout.
+>> All Home Particles can be edited via Acronym Theme > Home > Layout.
 
 - Theme Particles
     - [Particles](particle_particles.md)

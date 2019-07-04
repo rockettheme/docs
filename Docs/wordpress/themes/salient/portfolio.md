@@ -173,7 +173,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_portfolio_3.png)
 
-The **Mainbar** section includes the **Portfolio** article, displayed through the **Page Content** particle. Here are the settings found in the **Portfolio** article.
+The **Mainbar** section includes the **Portfolio** post, displayed through the **Page Content** particle. Here are the settings found in the **Portfolio** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

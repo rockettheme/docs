@@ -30,7 +30,7 @@ Here is a list of particles that are available in Fluent, as well as links to do
     + [Grid Statistics](particle_grid.md)
     + [Image Grid](particle_image.md)
     + [Info List](particle_info.md)
-    + [Joomla Articles](particle_joomla.md)
+    + [Grav Pages](particle_grav.md)
     + [News Slider](particle_newsslider.md)
     + [Pricing Table](particle_pricing.md)
     + [Simple Content](particle_simple.md)

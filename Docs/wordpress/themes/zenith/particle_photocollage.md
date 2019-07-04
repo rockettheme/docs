@@ -60,9 +60,9 @@ These items make up the individual featured items in the particle.
 | Posts              | Select the number of posts you would like the particle to fetch.                             |
 | Sticky Posts       | Choose whether to **Hide** or **Show** Sticky Posts.                                         |
 | Number of Posts    | Enter the maximum number of posts to display.                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
@@ -72,8 +72,8 @@ This section configures how posts are displayed.
 
 | Option      | Description                                                    |
 | :-----      | :-----                                                         |
-| Image       | Select which image in an article should be displayed.          |
-| Title       | Choose whether or not the title of an article should be shown. |
+| Image       | Select which image in an post should be displayed.          |
+| Title       | Choose whether or not the title of an post should be shown. |
 | Title Limit | Set a character limit for titles.                              |
 
 >> Note: When using WordPress Content source, images can utilize **Width** and **Height** options by adding, for example, **width-2** and/or **height-2** to the **Alt Text** field for either the Intro or Full image of the Article(s) you are displaying.

@@ -104,7 +104,7 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 | WordPress Categories | Enter the categorie(s) you would like to appear in the particle.                                               |
 | Posts to Fetch       | Enter the number of posts you would like to have loaded in the particle.                                       |
 | Featured Image       | Enable or disable the featured image appearing in the particle.                                                |
-| Categories Names     | Enable or disable the category of the article in the particle.                                                 |
+| Categories Names     | Enable or disable the category of the post in the particle.                                                 |
 | Post Title           | Enable or disable the title of the post appearing in the particle.                                             |
 | Post Excerpt         | Enable or disable the content placed in the **Post Excerpt** area of the post to be displayed in the particle. |
 | Post Content         | Enable or disable the main content of the post appearing under the image in the particle.                      |

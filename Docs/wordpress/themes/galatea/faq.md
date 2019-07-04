@@ -15,7 +15,7 @@ Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggl
 
 ## What is RokSprocket?
 
-[RokSprocket][roksprocket] is a powerful content display extension for WordPress 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays articles.
+[RokSprocket][roksprocket] is a powerful content display extension for WordPress 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts.
 
 ## What is Gantry?
 

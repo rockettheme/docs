@@ -108,11 +108,11 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 | Option            | Description                                                                                   |
 | :-----            | :-----                                                                                        |
 | WordPress Categories | Enables you to set which categories (by name) appear in the particle.                         |
-| Articles to Fetch | Sets the number of articles you want to have fetched by the particle from the CMS.            |
-| Intro Image       | Sets whether or not the particle will display the article's assigned intro image.             |
-| Categories Names  | Sets whether or not the particle will display the article's category name.                    |
-| Article Title     | Sets whether or not the particle will display the article's title.                            |
-| Intro Text        | Sets whether or not the particle will display the article's intro text.                       |
-| Author            | Sets whether or not the particle will display the article's author.                           |
-| Link              | Enables or disables direct links to the article(s) from the particle.                         |
+| Articles to Fetch | Sets the number of posts you want to have fetched by the particle from the CMS.            |
+| Intro Image       | Sets whether or not the particle will display the post's assigned intro image.             |
+| Categories Names  | Sets whether or not the particle will display the post's category name.                    |
+| Article Title     | Sets whether or not the particle will display the post's title.                            |
+| Intro Text        | Sets whether or not the particle will display the post's intro text.                       |
+| Author            | Sets whether or not the particle will display the post's author.                           |
+| Link              | Enables or disables direct links to the post(s) from the particle.                         |
 | Link Text         | You can use this field to enter text you would like to have appear. For example: `Read More`. |

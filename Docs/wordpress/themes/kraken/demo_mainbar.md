@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 
 ![](assets/demo_7.jpeg)
 
-The **Mainbar** section includes three widget positions, `mainbar-a`, `mainbar-b`, and `mainbar-c`. In a second row, the **Pagecontent** position has been added, inserting any article content that is assigned to the page. We are only using `mainbar-a` from this section actively, so only it is rendering to the front end.
+The **Mainbar** section includes three widget positions, `mainbar-a`, `mainbar-b`, and `mainbar-c`. In a second row, the **Pagecontent** position has been added, inserting any post content that is assigned to the page. We are only using `mainbar-a` from this section actively, so only it is rendering to the front end.
 
 ![](assets/demo_8.jpeg)
 

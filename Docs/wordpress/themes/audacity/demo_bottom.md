@@ -32,7 +32,7 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 ##### Simple Provider
 
-We used the **Simple Provider** to enable us to create custom RokSprocket content without having to create separate articles or pages to do so. Here are the details of one of the **Simple Items** in the **Featured Article List**.
+We used the **Simple Provider** to enable us to create custom RokSprocket content without having to create separate posts or pages to do so. Here are the details of one of the **Simple Items** in the **Featured Article List**.
 
 | Option | Setting                                      |
 | :----- | :------------------------------------------- |
@@ -66,7 +66,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5       |
 | Image Resize        | Disable |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to return to the Widgets settings and fill them out as noted below:
 
@@ -92,7 +92,7 @@ You can find out more about RokSprocket and how to set up and modify widgets by 
 
 ##### Simple Provider
 
-We used the **Simple Provider** to enable us to create custom RokSprocket content without having to create separate articles or pages to do so. Here are the details of one of the **Simple Items** in the **Featured Article List**.
+We used the **Simple Provider** to enable us to create custom RokSprocket content without having to create separate posts or pages to do so. Here are the details of one of the **Simple Items** in the **Featured Article List**.
 
 | Option | Setting                                      |
 | :----- | :------------------------------------------- |
@@ -130,7 +130,7 @@ Here is a look at the **Features Layout Options** for this widget.
 
 >> The **Showcase Style 2** theme is unique to Audacity and was created to give the RokSprocket mode a certain set of attributes that enables it to look the way it does in this template. You can find more information about overriding themes [here](../../plugins/roksprocket/layout_modes.md#custom-layout-theme-overrides).
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to return to the Widgets settings and fill them out as noted below:
 

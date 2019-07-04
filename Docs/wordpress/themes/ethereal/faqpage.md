@@ -127,7 +127,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_faqpage_3.jpeg)
 
-The **Mainbar** section includes the **Frequently Asked Questions** article, displayed through the **Page Content** particle. Here are the settings found in the **Frequently Asked Questions** article.
+The **Mainbar** section includes the **Frequently Asked Questions** post, displayed through the **Page Content** particle. Here are the settings found in the **Frequently Asked Questions** post.
 
 | Option   | Setting                      |
 | :-----   | :-----                       |

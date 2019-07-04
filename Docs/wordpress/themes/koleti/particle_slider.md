@@ -16,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Articles](#articles)
+    - [Posts](#posts)
     - [Display](#display)
 
 ## Configuration
@@ -55,33 +55,33 @@ These items make up the individual featured items in the particle. Items in this
 | Link                   | Enter a URL you would like the item to link to.              |
 | Target                 | Choose the target tab you would like the URL to open to.     |
 
-### Articles
+### Posts
 
 ![](assets/particle_slider5.jpeg)
 
 | Option             | Description                                                                                                     |
 | :-----             | :-----                                                                                                          |
-| Categories         | Select the categories of articles this particle will display.                                                   |
-| Articles           | Select the number of articles you would like the particle to fetch.                                             |
+| Categories         | Select the categories of posts this particle will display.                                                   |
+| Articles           | Select the number of posts you would like the particle to fetch.                                             |
 | Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of articles to display.                                                                |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                    |
+| Number of Articles | Enter the maximum number of posts to display.                                                                |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).                    |
 | Order By           | Choose the type of factor to order by.                                                                          |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                                 |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                                 |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_slider6.jpeg)
 
 | Option          | Description                                                                  |
 | :-----          | :-----                                                                       |
-| Image           | Display the image assigned to the article's **Intro**, **Full** or **None**.        |
+| Image           | Display the image assigned to the post's **Intro**, **Full** or **None**.        |
 | Article Text    | Choose whether to display the **Introduction**, **Full Title**, or **Hide** (none). |
 | Text Limit      | Enter the number of characters you wish to limit the text displayed to.             |
 | Text Formatting | Choose between plain text and HTML.                                                 |
-| Title           | **Show** or **Hide** the article's title.                                           |
+| Title           | **Show** or **Hide** the post's title.                                           |
 | Title Limit     | Enter the maximum number of characters in the title to display.                     |
 | Date            | Enter a date for the item.                                                          |
 | Date Format     | Select the format you want the date to be displayed in.                             |

@@ -74,7 +74,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Preview Length  | ∞              |
 | Strip HTML Tags | No             |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 
@@ -127,7 +127,7 @@ Here is a look at the **Lists Layout Options** for this widget.
 | Autoplay            | 5       |
 | Image Resize        | Disable |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Once you have created this widget, you can add it via the Widgets menu by clicking **RokSprocket** and dragging it to the appropriate section. When you have done this, you will need to complete the following.
 

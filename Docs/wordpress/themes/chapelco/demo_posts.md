@@ -10,13 +10,13 @@ Featured Posts Section
 
 ![][demo]
 
-This area of the front page is the mainbody. It allows you to display featured articles on the front page. There are a couple things that have to be in order in order to see these articles populated in the MainBody section of the page.
+This area of the front page is the mainbody. It allows you to display featured posts on the front page. There are a couple things that have to be in order in order to see these posts populated in the MainBody section of the page.
 
 ![][mainbody]
 
 First, you will need to have the **Display Mainbody** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Chapelco Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
-By default, WordPress displays the most recent articles in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Chapelco Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
+By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Chapelco Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
 
 Below, we have listed the settings of the post titled **Top Template of the Year**.
 
@@ -28,7 +28,7 @@ Below, we have listed the settings of the post titled **Top Template of the Year
 | Featured Image | Blank                      |
 
 
-Most of the magic takes place in the article content:
+Most of the magic takes place in the post content:
 
 ~~~ .html
 <div class="rt-block title1 title3 title4 icon-star fp-featured-title">
@@ -57,7 +57,7 @@ First, you will need to create the RokSprocket Widget. You can do this by naviga
 
 ![](assets/posts_1.png)
 
-We used the **WordPress** Content Provider which pulls article information from WordPress. This requires a set of articles to replicate exactly, and we recommend downloading a RocketLauncher version of Chapelco to get a good look at how these articles are set up if you want to replicate them exactly. Otherwise, any articles you place in the filtered category (or categories) will load.
+We used the **WordPress** Content Provider which pulls post information from WordPress. This requires a set of posts to replicate exactly, and we recommend downloading a RocketLauncher version of Chapelco to get a good look at how these posts are set up if you want to replicate them exactly. Otherwise, any posts you place in the filtered category (or categories) will load.
 
 Here is a look at the **Tabs Layout Options** for this widget.
 
@@ -75,7 +75,7 @@ Here is a look at the **Tabs Layout Options** for this widget.
 | Preview Length  | 0              |
 | Strip HTML Tags | No             |
 
-You can set the RokSprocket filters to include any category, specific articles, or otherwise you would like to have featured in this widget.
+You can set the RokSprocket filters to include any category, specific posts, or otherwise you would like to have featured in this widget.
 
 Leaving everything else at its default setting, select **Save**.
 

@@ -25,7 +25,7 @@ Below, you will find the module placement and settings for the various module po
 
 :   1. **Navigation** Logo (Particle) [1%, 15%, se]
     2. **Navigation** Menu (Particle) [1%, 55%, se]
-    3. **Slideshow** Joomla Articles (Particle) [4%, 10%, se]
+    3. **Slideshow** WordPress Posts (Particle) [4%, 10%, se]
     4. **Header** Simple Content (Particle) [12%, 10%, se]
     5. **Header** Simple Content (Particle) [12%, 50%, se]
     6. **Header** Audio Player (Particle) [14%, 10% se]

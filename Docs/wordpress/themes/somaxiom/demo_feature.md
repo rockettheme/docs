@@ -81,7 +81,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <p>Functional showcase widget for displaying content items and their accompanying images.</p>
 
 <em class="rt-typoblock">RokNewsPager - Article Previewer</em>
-<p>RokNewsPager is an article previewer and rotator in a summarised form and, using Mootools.</p>
+<p>RokNewsPager is an post previewer and rotator in a summarised form and, using Mootools.</p>
 
 <a class="readon" href="#"><span>Read More</span></a>
 <div class="clear"></div>                           <div class="clear"></div>

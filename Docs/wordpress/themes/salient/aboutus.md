@@ -120,7 +120,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
 
 ![](assets/page_aboutus_3.png)
 
-The **Mainbar** section includes the **About Us** article, displayed through the **Page Content** particle. Here are the settings found in the **About Us** article.
+The **Mainbar** section includes the **About Us** post, displayed through the **Page Content** particle. Here are the settings found in the **About Us** post.
 
 | Option   | Setting        |
 | :-----   | :-----         |

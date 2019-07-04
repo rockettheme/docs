@@ -24,7 +24,7 @@ Mainbody
 
 ![][blogpage3]
 
-The page's content body is set to display posts in the **Blog** category. The first post is the **Powered by Gantry Framework** article. You will find the content used in the post below.
+The page's content body is set to display posts in the **Blog** category. The first post is the **Powered by Gantry Framework** post. You will find the content used in the post below.
 
 ~~~ .html
 <p><span class="rt-image"><img src="http://demo.rockettheme.com/live/wordpress/plethora/wp-content/rockettheme/rt_plethora_wp/pages/blog/img-01.jpg" alt="image" /></span></p>

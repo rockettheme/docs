@@ -60,23 +60,23 @@ These items make up the individual featured items in the particle. Items in this
 
 | Option             | Description                                                                                  |
 | :-----             | :-----                                                                                       |
-| Categories         | Select the categories of articles this particle will display.                                |
-| Posts              | Select the number of articles you would like the particle to fetch.                          |
+| Categories         | Select the categories of posts this particle will display.                                |
+| Posts              | Select the number of posts you would like the particle to fetch.                          |
 | Sticky Posts       | Choose to **Show** or **Hide** sticky posts.                                                 |
-| Number of Posts    | Enter the maximum number of articles to display.                                             |
-| Start From         | Enter offset specifying the first article to return. The default is '0' (the first article). |
+| Number of Posts    | Enter the maximum number of posts to display.                                             |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                       |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.              |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
 
 ### Display
 
-This section configures how articles are displayed.
+This section configures how posts are displayed.
 
 ![](assets/particle_slideshow6.png)
 
 | Option       | Description                                              |
 | :-----       | :-----                                                   |
-| Image        | Choose to **Show** or **Hide** the article's image.      |
+| Image        | Choose to **Show** or **Hide** the post's image.      |
 | Title        | Choose to **Show** or **Hide** the title.                |
 | Title Limit  | Enter a limit (characters) for the title.                |
 | Button Link  | Choose to **Show** or **Hide** the button link.          |
