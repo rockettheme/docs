@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Manticore](themes/manticore)
 	- [Hadron](themes/hadron)
 	- [Lexicon](themes/lexicon)
 	- [Zenith](themes/zenith)
