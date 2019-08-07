@@ -171,5 +171,5 @@ If you have purchased a single template, rather than a Club membership, you can 
 [help]: http://www.rockettheme.com/help
 [rockettheme]: http://www.rockettheme.com
 [demo]: http://demo.rockettheme.com
-[join]: http://www.rockettheme.com/join-a-club
+[join]: http://www.rockettheme.com/join
 [licenses]: http://www.rockettheme.com/legal/license.php
