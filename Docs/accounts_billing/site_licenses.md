@@ -172,4 +172,4 @@ If you have purchased a single template, rather than a Club membership, you can 
 [rockettheme]: http://www.rockettheme.com
 [demo]: http://demo.rockettheme.com
 [join]: http://www.rockettheme.com/join
-[licenses]: http://www.rockettheme.com/legal/license.php
+[licenses]: http://rockettheme.com/legal/93-rockettheme-licenses?tmpl=component&type=raw
