@@ -58,7 +58,7 @@ The table below shows the breakdown of screen resolutions and associated devices
 ![][downloops2]
 Lumiere uses HTML5 support for displaying stunning videos and images in the header. The stunning videos for each preset are generously provided by Downloops.com.
 
-At [Downloops.com][downloops] you can download [200 artistic videos][videos] for reasonable price, as well as the [royalty-free][free] video loop backgrounds. They are designed to work great with video, on stage, in clubs and bars.
+At [Downloops.com][downloops] you can download [200 artistic videos][videos] for reasonable price, as well as royalty-free video loop backgrounds. They are designed to work great with video, on stage, in clubs and bars.
 
 ![][html5]
 
@@ -83,6 +83,5 @@ K2 is the popular powerful content extension for Joomla! with CCK-like features.
 [downloops]: http://www.downloops.com/
 [downloops2]: assets/downloops.jpg
 [html5]: assets/html5.jpg
-[videos]: http://www.downloops.com/all-video-loops
-[free]: http://www.downloops.com/free-video-loops
-[michael]: http://www.downloops.com/contacts/
+[videos]: https://downloops.com/loops-library/
+[michael]: https://downloops.com/contact/
