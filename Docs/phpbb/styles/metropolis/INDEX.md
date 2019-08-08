@@ -43,7 +43,7 @@ NOTE: **RokBB 5+** is required for Metropolis to work correctly. For more detail
 
 ![][suffix]
 
-Similar to the Joomla version of Cerulean, there are 10 stylistic module class suffixes that add a unique style variation to the modules. These include: **box1-5** and **title1-4**
+Similar to the Joomla version of Metropolis, there are 10 stylistic module class suffixes that add a unique style variation to the modules. These include: **box1-5** and **title1-4**
 
 Additionally, there are 25 structural suffixes which affect the layout and metrics of the modules. You can apply variations using RokBB framework. Suffixes can be applied to the forum categories list, forum topics list, forum posts list and various modules. 
 
