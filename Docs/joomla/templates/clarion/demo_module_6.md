@@ -13,7 +13,7 @@ Member Access
 
 The Header Login module makes it easy for your site's users to log in and take advantage of any extra benefits your site offers them. Setup for this module is actually pretty basic.
 
-This module is a basic **Login** module coupled with a module class suffix that allows it to fit the look of Cerulean.
+This module is a basic **Login** module coupled with a module class suffix that allows it to fit the look of Clarion.
 
 Here are the details:
 
