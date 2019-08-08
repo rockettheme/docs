@@ -11,7 +11,7 @@ Top Menu
 
 :   1. **mod_menu** [40%, 40%, se]
 
-This area of the site is a **mod_menu** module. A Module Class Suffix is used to make its look match the theme of the Ximenia template.
+This area of the site is a **mod_menu** module. A Module Class Suffix is used to make its look match the theme of the Fresco template.
 
 ### Details
 ![][demo2]
