@@ -37,7 +37,7 @@ NOTE: **RokBB 5+** is required for Fracture to work correctly. For more details 
 
 ### Rocket Launcher
 
-RocketLauncher packages allow you to quickly and easily deploy the Graffito style, including custom configuration and settings that have been professionally tuned to look their best. This gives you a similar install to the RocketTheme demo as seen on the RocketTheme demo server.
+RocketLauncher packages allow you to quickly and easily deploy the Fracture style, including custom configuration and settings that have been professionally tuned to look their best. This gives you a similar install to the RocketTheme demo as seen on the RocketTheme demo server.
 
 ### Responsive Layout
 
