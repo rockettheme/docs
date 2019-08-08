@@ -33,7 +33,7 @@ Key Features
 * [IntenseDebate][id]
 * [Facebook][fb]
 * [Disqus][dq]
-* [Livefyre][lf]
+* Livefyre
 * JS-Kit **DEPRECATED**
 
 ### Typical Comment System Features
@@ -79,6 +79,5 @@ Once installation is complete, a message highlighted in green should indicate it
 [id]: http://www.intensedebate.com
 [fb]: http://developers.facebook.com
 [dq]: http://www.disqus.com
-[lf]: http://www.livefyre.com
 [jk]: http://js-kit.com/comments/
 [install]: ../../platform/extensions.md
