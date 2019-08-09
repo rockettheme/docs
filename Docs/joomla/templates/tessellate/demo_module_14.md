@@ -15,7 +15,7 @@ This area of the front page is an article. Articles appear within the **Mainbody
 Turning on Mainbody Content
 -----
 
-This content appears on the front page because the **Display Component** and **Display Mainbody** options have been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Osmosis -> Advanced**.
+This content appears on the front page because the **Display Component** and **Display Mainbody** options have been turned on in the template settings. You can find these settings by navigating to **Administrator -> Extensions -> Templates Manager -> Tessellate -> Advanced**.
 
 ![][advanced]
 
