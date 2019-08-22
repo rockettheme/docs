@@ -42,7 +42,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle. They sit apart from the particle's title, headline, image, and description. Each item can have its own properties, including images and written content.
 
-![](assets/particle_block3.jpg)
+![](assets/particle_block3.jpeg)
 
 | Option         | Description                                                                                                                                              |
 | :-----         | :-----                                                                                                                                                   |
