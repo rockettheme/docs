@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/koleti:Koleti
 
 ## Introduction
 
-![](assets/particle_slider1.jpeg)
+![](assets/particle_slider1.png)
 
 The **Slider** particle is a great way to display images in your website.
 
@@ -25,7 +25,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_slider2.jpeg)
+![](assets/particle_slider2.png)
 
 | Option               | Description                                                                                         |
 | :-----               | :-----                                                                                              |
@@ -42,9 +42,9 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle. Items in this section will only appear if **Particle** is selected as the **Content Source**.
 
-![](assets/particle_slider3.jpeg)
+![](assets/particle_slider3.png)
 
-![](assets/particle_slider4.jpeg)
+![](assets/particle_slider4.png)
 
 | Option                 | Description                                                  |
 | :-----                 | :-----                                                       |
@@ -57,7 +57,7 @@ These items make up the individual featured items in the particle. Items in this
 
 ### Articles
 
-![](assets/particle_slider5.jpeg)
+![](assets/particle_slider5.png)
 
 | Option             | Description                                                                                                     |
 | :-----             | :-----                                                                                                          |
@@ -73,7 +73,7 @@ These items make up the individual featured items in the particle. Items in this
 
 This section configures how articles are displayed.
 
-![](assets/particle_slider6.jpeg)
+![](assets/particle_slider6.png)
 
 | Option          | Description                                                                  |
 | :-----          | :-----                                                                       |
