@@ -7,6 +7,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/koleti:Koleti
 
 ## Introduction
 
+![](assets/particle_grid1.png)
+
 The **Grid Statistic** particle enables you to display animated, well-organized numbers and statistics on your site.
 
 Here are the topics covered in this guide:
