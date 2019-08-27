@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/koleti:Koleti
 
 ## Introduction
 
-![](assets/particle_slidingmenu1.jpeg)
+![](assets/particle_slidingmenu1.png)
 
 The **Sliding Menu** particle initiates a from-the-side menu - even on desktop environments. It's a mobile-first approach to web design that keeps your website looking clean with a focus on content.
 
@@ -23,7 +23,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_slidingmenu2.jpeg)
+![](assets/particle_slidingmenu2.png)
 
 | Option                 | Description                                                                                 |
 | :-----                 | :-----                                                                                      |
