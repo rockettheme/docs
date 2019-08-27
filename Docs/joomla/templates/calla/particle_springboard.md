@@ -36,7 +36,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_springboard4.jpeg)
+![](assets/particle_springboard3.jpeg)
 
 | Option        | Description                                                         |
 | :-----        | :-----                                                              |
