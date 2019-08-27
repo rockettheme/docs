@@ -41,7 +41,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_image4.jpeg)
+![](assets/particle_image3.jpeg)
 
 | Option      | Description                                                         |
 | :-----      | :-----                                                              |
