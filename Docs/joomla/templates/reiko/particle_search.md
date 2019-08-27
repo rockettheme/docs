@@ -20,7 +20,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_search1.jpeg)
+![](assets/particle_search1.png)
 
 | Option        | Description                                                                                 |
 | :-----        | :-----                                                                                      |
