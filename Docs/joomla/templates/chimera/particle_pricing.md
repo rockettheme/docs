@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ## Introduction
 
-![](assets/particle_pricing1.jpeg)
+![](assets/particle_pricing1.png)
 
 The **Pricing Table** particle is a simple particle that enables you to create clean, organized comparison tables. This is a perfect addition to any website featuring tiered products and/or services.
 
@@ -24,7 +24,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_pricing2.jpeg)
+![](assets/particle_pricing2.png)
 
 | Option        | Description                                                                               |
 | :-----        | :-----                                                                                    |
@@ -40,7 +40,7 @@ These options affect the main area of the particle, and not the individual items
 
 Items in this particle are the actual individual columns. Any subitems you assign to these items are represented as rows in this column.
 
-![](assets/particle_pricing3.jpeg)
+![](assets/particle_pricing3.png)
 
 | Option         | Description                                                                        |
 | :-----         | :-----                                                                             |
@@ -59,7 +59,7 @@ Items in this particle are the actual individual columns. Any subitems you assig
 
 These options appear in the sub-items assigned to the columns. These are individual line items for the column.
 
-![](assets/particle_pricing4.jpeg)
+![](assets/particle_pricing4.png)
 
 | Option | Description                       |
 | :----- | :-----                            |
