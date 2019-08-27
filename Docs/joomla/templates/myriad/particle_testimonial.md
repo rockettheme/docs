@@ -7,6 +7,8 @@ breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ## Introduction
 
+![](assets/particle_testimonial1.jpeg)
+
 The **Testimonial** particle gives you the ability to display testimonials for your brand in a clean, modern way. This includes an author, title, image, and quote.
 
 Here are the topics covered in this guide:
@@ -21,7 +23,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_testimonial2.png)
+![](assets/particle_testimonial2.jpeg)
 
 | Option         | Description                                                                                 |
 | :-----         | :-----                                                                                      |
@@ -44,7 +46,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_testimonial3.png)
+![](assets/particle_testimonial3.jpeg)
 
 | Option            | Description                                                                                       |
 | :-----            | :-----                                                                                            |
