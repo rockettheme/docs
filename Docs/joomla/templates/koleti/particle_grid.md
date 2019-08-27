@@ -21,7 +21,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within. For example, if you want to display content that includes a title, headline, image, and link you can do so here, but if you want to display numerous individual items, each with their own text, images, and/or links, you can do so using the **Block Items** collection feature.
 
-![](assets/particle_grid2.jpeg)
+![](assets/particle_grid2.png)
 
 | Option             | Description                                                                                 |
 | :-----             | :-----                                                                                      |
@@ -39,7 +39,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle. They sit apart from the particle's title, headline, image, and description. Each item can have its own properties, including images and written content.
 
-![](assets/particle_grid3.jpeg)
+![](assets/particle_grid3.png)
 
 | Option           | Description                                                                             |
 | :-----           | :-----                                                                                  |
