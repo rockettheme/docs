@@ -21,7 +21,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_mosaic2.jpeg) 
+![](assets/particle_mosaic2.png) 
 
 | Option        | Setting                                                               |
 | :-----        | :-----                                                                |
@@ -34,9 +34,9 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_mosaic3.jpeg)
+![](assets/particle_mosaic3.png)
 
-![](assets/particle_mosaic4.jpeg)
+![](assets/particle_mosaic4.png)
 
 | Option    | Description                                                |
 | :-----    | :-----                                                     |
