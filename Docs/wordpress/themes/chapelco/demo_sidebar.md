@@ -1,7 +1,7 @@
 ---
-title: Cerulean: Recreating the Demo - Sidebar
-description: Your Guide to Recreating Elements of the Cerulean Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/cerulean:Cerulean
+title: Chapelco: Recreating the Demo - Sidebar
+description: Your Guide to Recreating Elements of the Chapelco Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/chapelco:Chapelco
 
 ---
 
