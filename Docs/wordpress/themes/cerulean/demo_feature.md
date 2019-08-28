@@ -1,7 +1,7 @@
 ---
-title: Graffito: Recreating the Demo - Feature
-description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
+title: Cerulean: Recreating the Demo - Feature
+description: Your Guide to Recreating Elements of the Cerulean Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/cerulean:Cerulean
 
 ---
 
@@ -44,4 +44,4 @@ Once you have created this widget, you can add it via the Widgets menu by clicki
 
 The widget should now be created and ready for use on the front page of your WordPress site.
 
-[demo3]: assets/wp_graffito_demo_3.jpeg
+[demo3]: assets/wp_cerulean_demo_3.jpeg
