@@ -1,7 +1,7 @@
 ---
-title: Anacron: Video Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/anacron:Anacron
+title: Myriad: Video Particle
+description: Your Guide to Recreating Elements of the Myriad Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/myriad:Myriad
 
 ---
 
