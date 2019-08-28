@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/joomla-template-quantive
 
 ---
 
-* Juxta
+* Quantive
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
