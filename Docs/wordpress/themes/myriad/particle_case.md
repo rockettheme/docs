@@ -23,7 +23,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within. You can set the title of the particle, as well as give it an introductory paragraph here.
 
-![](assets/particle_casestudies2.jpg)
+![](assets/particle_casestudies2.jpeg)
 
 | Option            | Description                                                                                             |
 | :-----            | :-----                                                                                                  |
