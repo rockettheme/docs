@@ -1,7 +1,7 @@
 ---
-title: Anacron: Video Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/anacron:Anacron
+title: Myriad: Video Particle
+description: Your Guide to Recreating Elements of the Myriad Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
 
