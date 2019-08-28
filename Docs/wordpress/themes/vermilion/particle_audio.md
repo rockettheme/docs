@@ -21,7 +21,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_audio2.jpg)
+![](assets/particle_audio2.png)
 
 | Option               | Description                                                                                 |
 | :-----               | :-----                                                                                      |
@@ -39,7 +39,7 @@ You can get a SoundCloud Client ID [here](http://soundcloud.com/you/apps/new).
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_audio3.jpg)
+![](assets/particle_audio3.png)
 
 | Option            | Description                                                                                                       |
 | :-----            | :-----                                                                                                            |
