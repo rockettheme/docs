@@ -1,7 +1,7 @@
 ---
-title: Anacron: Video Particle
-description: Your Guide to Recreating Elements of the Anacron Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/anacron:Anacron
+title: Myriad: Video Particle
+description: Your Guide to Recreating Elements of the Myriad Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/myriad:Myriad
 
 ---
 
