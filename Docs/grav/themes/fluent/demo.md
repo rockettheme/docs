@@ -57,11 +57,11 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 Recommended Plugins
 -----
 
-Here is a list of RocketTheme plugins used to create the demo version of Zenith:
+Here is a list of RocketTheme plugins used to create the demo version of Fluent:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
 
-Many of these plugins are included with the Zenith RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Fluent RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
