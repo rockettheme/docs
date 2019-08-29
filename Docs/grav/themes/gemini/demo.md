@@ -89,6 +89,15 @@ Here is a list of particles that are available in Gemini, as well as links to do
     - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Gemini:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Gemini RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Recreating the Front Page
 -----
 
