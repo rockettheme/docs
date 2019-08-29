@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/joomla-template-chimera/
     * [Recreate the Demo](demo.md)
         * [Style Settings](demo_settings.md)
         * [Front Page Layout](demo.md#home-page-layout-presets)
-        - [Animation on Scroll](aos.md)         
+        - [Animation on Scroll](atom_aos.md)         
     + Template Particles  
         + [Block Content](particle_block.md)
         + [Contact](particle_contact.md)
