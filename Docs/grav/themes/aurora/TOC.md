@@ -17,6 +17,7 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
         * [Installing the RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
+        + [Plugins](demo.md#recommended-plugins)
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
         * [Contact Form](../../start/contact.md)
