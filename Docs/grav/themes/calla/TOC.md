@@ -18,6 +18,7 @@ support: http://www.rockettheme.com/forum/grav-theme-calla/
         + [RocketLauncher (3.x)](../../platform/rocketlauncher_3x.md)
         + [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
     - [Recreate the Demo](demo.md)
+        + [Plugins](demo.md#recommended-plugins)
         + [Extensions](demo.md#recommended-extensions)
         + [Style Settings](demo_settings.md)
         + [Front Page Layout](demo.md#home-page-layout-presets)
