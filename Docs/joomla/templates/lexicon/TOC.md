@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/joomla-template-lexicon/
     * [Recreate the Demo](demo.md)
       * [Style Settings](demo_settings.md)
       * [Front Page Layout](demo.md#home-page-layout-presets)
-      * [Animation on Scroll](aos.md)      
+      * [Animation on Scroll](atom_aos.md)      
     * Template Particles
       * [Audio Player](particle_audio.md)
       * [Block Content](particle_block.md)
