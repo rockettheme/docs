@@ -17,6 +17,7 @@ support: http://www.rockettheme.com/forum/grav-theme-ambrosia/
         * [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
         * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
+        * [Plugins](demo.md#recommended-plugins)
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
