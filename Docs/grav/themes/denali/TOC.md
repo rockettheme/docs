@@ -20,6 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-denali/
         + [Plugins](demo.md#recommended-plugins)
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
+        * [Front Page Layout](demo.md#home-page-layout-presets)
         * [Contact Form](../../start/contact.md)
     - Theme Particles
         * [Block Content](particle_block.md)
