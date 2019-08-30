@@ -78,7 +78,7 @@ The front page of the Koleti demo sits apart from the rest of the page layouts i
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.jpeg)
+![Layout Presets](assets/layout_presets.png)
 
 While the **Home - Particles** layout is automatically loaded after installing the Koleti theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
@@ -87,7 +87,7 @@ You can access the presets by selecting **Load** in the **Layout Manager**.
 Menu Editor
 -----
 
-![](assets/menu_1.jpeg)
+![](assets/menu_1.png)
 
 
 Koleti has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
@@ -97,6 +97,6 @@ You can access the Gantry Menu Editor by navigating to **Admin > Koleti Theme > 
 Assignments
 -----
 
-![](assets/assignments_1.jpeg)
+![](assets/assignments_1.png)
 
 Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Koleti Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
