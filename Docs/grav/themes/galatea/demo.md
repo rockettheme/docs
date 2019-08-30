@@ -58,6 +58,15 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 
 There is also an **Offsidebar** position which contains the **Menu** particle. You can find a breakdown of this position [here](demo_offsidebar.md).
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Galatea:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Galatea RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Recreating the Front Page
 -----
 
