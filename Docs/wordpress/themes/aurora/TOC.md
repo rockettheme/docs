@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-aurora/
         + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
-        + [Front Page Layout](demo.md#recreating-the-front-page)
+        + [Front Page Layout](demo.md#home-page-layout-presets)
     - Theme Particles
         + [Block Content](particle_block.md)
         + [Carousel](particle_carousel.md)
