@@ -92,6 +92,15 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
 
 There is also an **Overlay** position which appears when the **Overlay Toggle** particle is activated on the front end.
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Xenon:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Xenon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Recreating the Front Page
 -----
 
