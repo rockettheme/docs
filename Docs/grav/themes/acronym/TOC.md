@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/grav-theme-acronym/
         * [Plugins](demo.md#recommended-plugins)
         * [Style Settings](demo_settings.md)
         * [Particle Settings](demo.md#widget-and-particle-settings)
-        * [Front Page Layout](layout.md)
+        * [Front Page Layout](demo.md#home-page-layout-presets)
         * [Contact Form](../../start/contact.md)
     - Theme Particles
         + [Particles](particle_particles.md)
