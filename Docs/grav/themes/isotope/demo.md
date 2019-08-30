@@ -75,6 +75,15 @@ Particles
     - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Isotope:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Isotope RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Recreating the Front Page
 -----
 
