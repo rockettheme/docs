@@ -54,6 +54,15 @@ We have detailed how to recreate the individual particles pictured above in the 
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Photon:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Photon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Recreating the Front Page
 -----
 
