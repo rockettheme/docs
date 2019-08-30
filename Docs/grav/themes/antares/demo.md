@@ -50,6 +50,15 @@ Below, you will find the particle placement and settings for the various positio
     25. **Copyright** Horizontal Menu (Particle) [97%, 70%, se]
     26. **Copyright** To Top (Particle) [99%, 40%, se]
 
+Recommended Plugins
+-----
+
+Here is a list of RocketTheme plugins used to create the demo version of Antares:
+
+* [Gantry 5 Theme Framework](http://gantry.org/)
+
+Many of these plugins are included with the Antares RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+
 Particles
 -----
 
