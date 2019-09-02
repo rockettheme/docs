@@ -68,7 +68,8 @@ more:
 
 * Club Themes
 
-	- [Manticore](themes/manticore)
+	- [Epsilon (Gantry 5)](themes/epsilon)
+  - [Manticore](themes/manticore)
   - [Lexicon (Gantry 5)](themes/lexicon)
 	- [Zenith](themes/zenith)
 	- [Vermilion (Gantry 5)](themes/vermilion)
@@ -117,7 +118,7 @@ more:
 	- [Osmosis](themes/osmosis)
 	- [Vermilion (Gantry 4)](themes/g4vermilion)
 	- [Lexicon (Gantry 4)](themes/g4lexicon)
-	- [Epsilon](themes/epsilon)
+	- [Epsilon (Gantry 4)](themes/g4epsilon)
 	- [Anacron (Gantry 4)](themes/g4anacron)
 	- [Hadron (Gantry 4)](themes/g4hadron)
 	- [Hadron (Gantry 5)](themes/hadron)
