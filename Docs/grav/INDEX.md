@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Epsilon](themes/epsilon)
 	- [Manticore](themes/manticore)
 	- [Hadron](themes/hadron)
 	- [Lexicon](themes/lexicon)
