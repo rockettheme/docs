@@ -8,52 +8,103 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!epsilon:Epsilon
 Introduction
 -----
 
-Epsilon is a vibrant, highly adaptable and engaging template, ideal for a vast selection of possible sites, from community to business. Subtle visual elements in the sectioned design, add character and division to the page, without compromising on content focus.
+![](assets/epsilon.png)
 
-![][Epsilon]
+Epsilon is a modern, sectioned based design, with a diverse infusion of background textures and patterns. These enrich and differentiate your site whilst maintaining an overall conservative approach, for flexible site application.
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 5.3.10+ (PHP 5.5+ Recommended)
-* MySQL 5.1+
-* Joomla 3.4
+* PHP 7.1+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
 
->> NOTE: Gantry v4.1.35 is required for Epsilon to work correctly. For more details on the Gantry Framework, please visit its [dedicated website](http://gantry.org).
+>> NOTE: Gantry v5.4.29+ is required for Epsilon to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
 
-* Joomla 3.x Compatible
+### Included Particles / Atoms
+
+* Animate on Scroll
+* Audio Player
+* Block Content
+* Branding
+* Calendar
+* Contact
+* Content List
+* Content Tabs
+* Copyright
+* Custom HTML
+* Date
+* Joomla Articles
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Link Tabs
+* Lists
+* Login
+* Logo / Image
+* MailChimp
+* Menu
+* Mobile Menu
+* Mosaic
+* Pricing Table
+* Progress Bar
+* Promo Image
+* Search
+* Simple Counter
+* Slider
+* Slideshow
+* Social
+* Strips Slider
+* Tab Image
+* To Top
+* Vertical Menu
+* Video
+
+### Template Features
+
 * Responsive Layout
 * 6 Preset Styles
-* 92 Module Positions
-* 8 Styled & Numerous Structural Module Suffixes
-* RokSprocket Integrated Styling
-* Optimized for RokBooster
-* HTML5 Canvas Charts (Modern browsers & IE9+)
-* Powerful Gantry 4 Framework
-* DropDown Menu & Splitmenu
-* Custom Content Typography
-* FF, Safari, Chrome, Opera, IE8+ Compatible
-* HTML5, CSS3, LESS CSS
+* Custom Typography
+* Unlimited Positions
+* Custom Particles
+* Mobile Menu
+* Coming Soon Page
+* Font Awesome Icons
 
-### Responsive Layout
+### Gantry Core Features
 
-A responsive layout adapts automatically to the viewing device's width, such as mobile, tablet or desktop, without the need for a separate layout or content. Mobile modes have a unique menu to aid usability. 960px and 1200px fixed layout options are also available.
+* YAML-based Configuration
+* Twig Templating
+* Powerful Particle System
+* Visual Menu Editor
+* MegaMenu Support
+* Off-Canvas Panel
+* Ajax Admin
+* Layout Manager
+* Template Inheritance
+* SCSS Support
+* Sophisticated Fields
+* Unlimited Undo/Redo
+* Styles Panel
 
-| Label                  | Description                                | Layout Width     | Column Width |  
-| :--------------------- | :----------------------------------------- | :--------------- | :----------- |  
-| Smartphones            | Standard smartphones                       | 480px and below  | 100% fluid   |  
-| Smartphones to Tablets | Larger smartphones and small tablets       | 767px and below  | 100% fluid   |  
-| Tablets                | Larger tablets                             | 768px and above  | 64px         |  
-| Desktop                | Standard desktops and laptops              | 960px and above  | 80px         |  
-| Large Display          | Large desktops and high-resolution laptops | 1200px and above | 100px        |  
+## Slideshow
 
-[gantry]: http://gantry.org
-[Epsilon]: assets/epsilon.jpeg
-[responsive]: assets/responsive.jpg
-[chart]: assets/chart.jpg
-[filezilla]: https://filezilla-project.org
-[launcher]: ../../start/rocketlauncher.md
-[chooser]: assets/chooser.jpg
+![Slideshow](ft-2.jpg)
+
+Epsilon provides for full width, custom, transitional background images, in the slideshow position, a full width container, specifically designed for the Slideshow particle. It also has separate options for background and content images.
+
+## Custom Animation
+
+![Custom Animation](ft-3.jpg)
+
+Animation provides an extended layout of visual flair as well as smooth interaction for your visitors, to facilitate the seamless experience of using your site. The Slideshow particle benefits from a custom array of up to 16 animation types.
+
+## Responsive
+
+![Responsive](ft-4.jpg)
+
+Epsilon is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.

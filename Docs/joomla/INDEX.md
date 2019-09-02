@@ -40,7 +40,8 @@ more:
 
 * Club Templates
 
-	- [Manticore](templates/manticore)
+	- [Epsilon (Gantry 5)](templates/epsilon)
+  - [Manticore](templates/manticore)
 	- [Lexicon (Gantry 5)](templates/lexicon)
 	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
@@ -89,7 +90,7 @@ more:
 	- [Osmosis](templates/osmosis)
 	- [Vermilion (Gantry 4)](templates/g4vermilion)
 	- [Lexicon (Gantry 4)](templates/g4lexicon)
-	- [Epsilon](templates/epsilon)
+	- [Epsilon (Gantry 4)](templates/g4epsilon)
 	- [Anacron (Gantry 4)](templates/g4anacron)
 	- [Hadron (Gantry 4)](templates/g4hadron)
 	- [Hadron (Gantry 5)](templates/hadron)
