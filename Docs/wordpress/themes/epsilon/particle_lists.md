@@ -7,8 +7,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/epsilon:Epsilon
 
 ## Introduction
 
-![](assets/particle_lists1.png)
-
 The **Lists** particle makes it easy to create smooth, modern sliders for your website.
 
 Here are the topics covered in this guide:

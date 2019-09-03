@@ -31,8 +31,7 @@ support: http://www.rockettheme.com/forum/grav-theme-epsilon/
       * [Headlines](particle_headlines.md)
       * [Image Grid](particle_image.md)
       * [Info List](particle_info.md)
-      * [Link Tabs](particle_linktabs.md)
-      * [Lists](particle_lists.md)
+      * [Link Tabs](particle_linktabs.md))
       * [MailChimp](particle_mailchimp.md)
       * [Testimonial](particle_testimonial.md)
       * [Tab Image](particle_tabimage.md)
@@ -47,7 +46,7 @@ support: http://www.rockettheme.com/forum/grav-theme-epsilon/
       * [Strips Slider](particle_stripsslider.md)
       * [Content Tabs](particle_contenttabs.md)
       * [Lists](particle_lists.md)
-      * [Mosaic](particle_mosaid.md)
+      * [Mosaic](particle_mosaic.md)
     * Theme Atoms
       * [Animation on Scroll](atom_aos.md)
     * Core Particles

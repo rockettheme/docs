@@ -1,4 +1,4 @@
----
+ ---
 title: Epsilon: Lists Particle
 description: Your Guide to Using Particles in Epsilon for Grav
 breadcrumb: /grav:Grav/!themes:Themes/epsilon:Epsilon
@@ -6,8 +6,6 @@ breadcrumb: /grav:Grav/!themes:Themes/epsilon:Epsilon
 ---
 
 ## Introduction
-
-![](assets/particle_lists1.png)
 
 The **Lists** particle makes it easy to create smooth, modern sliders for your website.
 
