@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
 
 ---
 
-* Anacron
+* Anacron (Gantry 4 Edition)
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
