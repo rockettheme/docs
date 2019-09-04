@@ -1,6 +1,6 @@
 ---
-title: Myriad (Gantry 4)
-description: Your Guide to Using the Myriad (Gantry 4) Template for Joomla
+title: Myriad (Gantry 4 Edition)
+description: Your Guide to Using the Myriad (Gantry 4 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!myriad:Myriad
 
 ---
