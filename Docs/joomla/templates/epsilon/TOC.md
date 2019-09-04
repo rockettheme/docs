@@ -9,7 +9,7 @@ support: http://www.rockettemplate.com/forum/joomla-template-epsilon/
 
 ---
 
-* Epsilon
+* Epsilon (Gantry 5 Edition)
     * [Introduction](INDEX.md)
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
