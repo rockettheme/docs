@@ -1,6 +1,6 @@
 ---
-title: Vermilion
-description: Your Guide to Using the Vermilion Theme for WordPress
+title: Vermilion (Gantry 5 Edition)
+description: Your Guide to Using the Vermilion (Gantry 5 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!vermilion:Vermilion
 
 ---
