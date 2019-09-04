@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-vermilion
 
 ---
 
-* Vermilion
+* Vermilion (Gantry 4 Edition)
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
