@@ -1,5 +1,5 @@
 ---
-title: Anacron
+title: Anacron (Gantry 5 Edition)
 description: Your Guide to Using the Anacron Theme for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!anacron:Anacron
 
