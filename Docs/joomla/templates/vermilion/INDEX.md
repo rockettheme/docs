@@ -1,5 +1,5 @@
 ---
-title: Vermilion
+title: Vermilion (Gantry 5 Edition)
 description: Your Guide to Using the Vermilion Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!vermilion:Vermilion
 
