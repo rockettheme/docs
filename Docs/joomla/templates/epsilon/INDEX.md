@@ -1,6 +1,6 @@
 ---
 title: Epsilon (Gantry 5 Edition)
-description: Your Guide to Using the Epsilon Template for Joomla
+description: Your Guide to Using the Epsilon (Gantry 5 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!epsilon:Epsilon
 
 ---
