@@ -1,6 +1,6 @@
 ---
-title: Anacron
-description: Your Guide to Using the Anacron Template for Joomla
+title: Anacron (Gantry 4 Edition)
+description: Your Guide to Using the Anacron (Gantry 4 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!anacron:Anacron
 
 ---
