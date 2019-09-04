@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-anacron/
 
 ---
 
-* Anacron
+* Anacron (Gantry 5 Edition)
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
