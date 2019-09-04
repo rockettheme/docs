@@ -1,6 +1,6 @@
 ---
-title: Chimera
-description: Your Guide to Using the Chimera Theme for WordPress
+title: Chimera (Gantry 4 Edition)
+description: Your Guide to Using the Chimera (Gantry 4 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!chimera:Chimera
 
 ---
