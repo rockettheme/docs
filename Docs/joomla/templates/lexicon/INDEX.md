@@ -1,5 +1,5 @@
 ---
-title: Lexicon
+title: Lexicon (Gantry 5 Edition)
 description: Your Guide to Using the Lexicon Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!lexicon:Lexicon
 
