@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!epsilon:Epsilon
 
-details: http://www.rockettemplate.com/joomla/templates/epsilon/
-demo: http://demo.rockettemplate.com/joomla-templates/epsilon/
-download: http://www.rockettemplate.com/joomla/templates/epsilon/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-epsilon/
+details: http://www.rockettheme.com/joomla/templates/epsilon/
+demo: http://demo.rockettheme.com/joomla-templates/epsilon/
+download: http://www.rockettheme.com/joomla/templates/epsilon/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-epsilon/
 
 ---
 

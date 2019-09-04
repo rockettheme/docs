@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 What is Gantry?
 -----
 
-[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTemplate template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
+[Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a rockettheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
 
 Can I install RocketLauncher onto an existing Joomla website?
 -----
