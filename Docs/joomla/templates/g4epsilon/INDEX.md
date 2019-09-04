@@ -1,5 +1,5 @@
 ---
-title: Epsilon
+title: Epsilon (Gantry 4 Edition)
 description: Your Guide to Using the Epsilon Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!epsilon:Epsilon
 
