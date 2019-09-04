@@ -1,6 +1,6 @@
 ---
-title: Chimera
-description: Your Guide to Using the Chimera Template for Joomla
+title: Chimera (Gantry 4 Edition)
+description: Your Guide to Using the Chimera (Gantry 4 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!chimera:Chimera
 
 ---
