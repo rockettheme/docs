@@ -1,6 +1,6 @@
 ---
 title: Myriad (Gantry 5 Edition)
-description: Your Guide to Using the Myriad Theme for WordPress
+description: Your Guide to Using the Myriad (Gantry 5 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!myriad:Myriad
 
 ---
