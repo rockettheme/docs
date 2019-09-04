@@ -1,6 +1,6 @@
 ---
 title: Hadron (Gantry 5 Edition)
-description: Your Guide to Using the Hadron (Gantry 4 Edition) Template for Joomla
+description: Your Guide to Using the Hadron (Gantry 5 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!themes:Themes/!hadron:Hadron
 
 ---
