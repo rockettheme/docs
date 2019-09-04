@@ -1,6 +1,6 @@
 ---
-title: Lexicon
-description: Your Guide to Using the Lexicon Theme for WordPress
+title: Lexicon (Gantry 5 Edition)
+description: Your Guide to Using the Lexicon (Gantry 5 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!lexicon:Lexicon
 
 ---
