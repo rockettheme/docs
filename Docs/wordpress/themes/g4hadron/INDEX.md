@@ -1,6 +1,6 @@
 ---
-title: Hadron
-description: Your Guide to Using the Hadron Theme for WordPress
+title: Hadron (Gantry 4 Edition)
+description: Your Guide to Using the Hadron (Gantry 4 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!hadron:Hadron
 
 ---
