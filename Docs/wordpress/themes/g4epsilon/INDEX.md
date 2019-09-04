@@ -1,6 +1,6 @@
 ---
-title: Epsilon
-description: Your Guide to Using the Epsilon Theme for WordPress
+title: Epsilon (Gantry 4 Edition)
+description: Your Guide to Using the Epsilon (Gantry 4 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!epsilon:Epsilon
 
 ---
