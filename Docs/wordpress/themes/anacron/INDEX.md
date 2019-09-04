@@ -1,6 +1,6 @@
 ---
-title: Anacron
-description: Your Guide to Using the Anacron Theme for WordPress
+title: Anacron (Gantry 5 Edition)
+description: Your Guide to Using the Anacron (Gantry 5 Edition) Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/!anacron:Anacron
 
 ---
