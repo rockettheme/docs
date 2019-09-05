@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/topaz:Topaz
 
 ![](assets/demo_3.jpg)
 
-The **Slideshow** area of the page is made up of three columned sections wrapped in a **Container**. **Slideshow Left** and **Slideshow Right** do not appear on the front end as they have no assigned content. However, there is a **Slideshow A** widget position in the **Slideshow Main** section which contains three different particles: **Grid Statistic**, **Custom HTML**, and **WordPress Articles**.
+The **Slideshow** area of the page is made up of three columned sections wrapped in a **Container**. **Slideshow Left** and **Slideshow Right** do not appear on the front end as they have no assigned content. However, there is a **Slideshow A** widget position in the **Slideshow Main** section which contains three different particles: **Grid Statistic**, **Custom HTML**, and **WordPress Posts**.
 
 ![](assets/home_slideshow.jpg)
 

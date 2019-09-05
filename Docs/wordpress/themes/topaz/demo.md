@@ -27,11 +27,11 @@ Below, you will find the widget placement and settings for the various widget po
     2. **Navigation Main** Logo (Particle) [2%, 18%, se]
     3. **Navigation Main** Menu (Particle) [2%, 45%, se]
     4. **Navigation Right** Search (Widget) [2%, 76%, se]
-    5. **Header Main** WordPress Articles (Particle) [6%, 15%, se]
+    5. **Header Main** WordPress Posts (Particle) [6%, 15%, se]
     6. **Header Main** Owl Carousel (Particle) [6%, 60% se]
     8. **Showcase Main** Grid Statistic (Particle) [23%, 15%, se]
     8. **Showcase Main** Custom HTML (Particle) [33%, 15%, se]
-    9. **Showcase Main** WordPress Articles (Particle) [23%, 38%, se]
+    9. **Showcase Main** WordPress Posts (Particle) [23%, 38%, se]
     10. **Slideshow Main** Owl Carousel (Particle) [42%, 15%, se]
     11. **Feature Main** BookBlock (Particle) [55%, 15%, se]
     12. **Bottom Main** Owl Carousel (Particle) [73%, 15%, se]
@@ -52,7 +52,7 @@ Here is a list of particles that are available in Topaz, as well as links to doc
 * Theme Particles
     * [Owl Carousel](particle_owl.md)
     * [BookBlock](particle_book.md)
-    * [WordPress Articles](particle_wordpress.md)
+    * [WordPress Posts](particle_wordpress.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Grid Statistic](particle_grid.md)

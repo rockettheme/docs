@@ -11,9 +11,9 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/topaz:Topaz
 
 :   1. **Grid Statistic (Particle)** [7%, 2%, se]
     2. **Custom HTML (Particle)** [57%, 2%, se]
-    3. **WordPress Articles (Particle)** [7%, 35%, se]
+    3. **WordPress Posts (Particle)** [7%, 35%, se]
 
-The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there are **Showcase A** and **Showcase B** widget positions in the **Showcase Main** section which contain three different particles: **Grid Statistic**, **Custom HTML**, and **WordPress Articles**.
+The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there are **Showcase A** and **Showcase B** widget positions in the **Showcase Main** section which contain three different particles: **Grid Statistic**, **Custom HTML**, and **WordPress Posts**.
 
 ![](assets/home_showcase.jpg)
 
@@ -26,7 +26,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in these sectio
             - [Grid Statistic (particle)](#grid-statistic-(particle))
             - [Custom HTML (Particle)](#custom-html-(particle))
         - [Showcase B (Widget Position)](#showcase-b-(widget-position))
-            - [WordPress Articles (Particle)](#menu-(particle))
+            - [WordPress Posts (Particle)](#menu-(particle))
     - Showcase Right
 
 ## Container
@@ -43,7 +43,7 @@ The container wrapping the **Showcase** sections enables the three sections to e
 
 ## Showcase Main
 
-The **Showcase Main** section hosts the **Grid Statistic**, **Custom HTML**, and **WordPress Articles** particles on the front page. You will find the settings used in the section below.
+The **Showcase Main** section hosts the **Grid Statistic**, **Custom HTML**, and **WordPress Posts** particles on the front page. You will find the settings used in the section below.
 
 ### Section Settings
 
@@ -161,11 +161,11 @@ The **Custom HTML** particle is assigned to the **Showcase A** widget position. 
 | Fixed Size     | Unchecked           |
 | Block Size     | `70%`               |
 
-##### WordPress Articles (Particle)
+##### WordPress Posts (Particle)
 
 ![](assets/demo_showcase_9.jpg)
 
-The **WordPress Articles** particle is assigned to the **Showcase B** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **showcase-b** position, then selecting **WordPress Articles** as the **Particle** in the widget's settings. You will find its settings below.
+The **WordPress Posts** particle is assigned to the **Showcase B** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **showcase-b** position, then selecting **WordPress Posts** as the **Particle** in the widget's settings. You will find its settings below.
 
 | Option             | Setting                   |
 | :-----             | :-----                    |

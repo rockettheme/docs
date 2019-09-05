@@ -13,7 +13,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/topaz:Topaz
     2. **Social (Particle)** [7%, 16%, se]
     3. **Menu (Particle)** [7%, 45%, se]
     4. **Search (Widget)** [7%, 78%, se]
-    5. **WordPress Articles (Particle)** [30%, 15%, se]
+    5. **WordPress Posts (Particle)** [30%, 15%, se]
     6. **Owl Carousel (Particle)** [30%, 63%, se]
 
 The **Navigation** and **Header** sections are both wrapped in the same **Container**. This is done to support the unique design that encompasses both of these sections on the front page.
@@ -34,7 +34,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in these sectio
             * [Search (Widget)](#search-(widget))
     - [Header Main](#header-main)
         + [Header A (Widget Position)](#header-a-(widget-position))
-            * [WordPress Articles (Particle)](#wordpress-articles-(particle))
+            * [WordPress Posts (Particle)](#wordpress-articles-(particle))
         + [Header B (Widget Position)](#header-b-(widget-position))
             * [Owl Carousel (Particle)](#owl-carousel-(particle))
 
@@ -271,7 +271,7 @@ The **Search** widget is assigned to the **Navigation A** widget position. You w
 
 ![](assets/demo_navigation_19.jpg)
 
-The **Header Main** section hosts a **WordPress Articles** particle, as well as an **Owl Carousel** particle, each within individual **Header A** and **Header B** widget positions. You will find the settings used in the section below.
+The **Header Main** section hosts a **WordPress Posts** particle, as well as an **Owl Carousel** particle, each within individual **Header A** and **Header B** widget positions. You will find the settings used in the section below.
 
 ![](assets/demo_navigation_19b.jpg)
 
@@ -323,11 +323,11 @@ The **Header Main** section sits between the **Header Left** and **Header Right*
 | Fixed Size     | Unchecked |
 | Block Size     | `70%`     |
 
-##### WordPress Articles (Particle)
+##### WordPress Posts (Particle)
 
 ![](assets/demo_navigation_30.jpg)
 
-The **WordPress Articles** particle is assigned to the **Header A** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **header-a** position, then selecting **WordPress Articles** as the **Particle** in the widget's settings. You will find its settings below.
+The **WordPress Posts** particle is assigned to the **Header A** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **header-a** position, then selecting **WordPress Posts** as the **Particle** in the widget's settings. You will find its settings below.
 
 ![](assets/demo_navigation_24.jpg)
 

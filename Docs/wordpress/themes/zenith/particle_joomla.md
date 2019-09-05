@@ -1,5 +1,5 @@
 ---
-title: Zenith: WordPress Articles Particle
+title: Zenith: WordPress Posts Particle
 description: Your Guide to Recreating Elements of the Zenith Demo for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/zenith:Zenith
 
@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/zenith:Zenith
 
 ## Introduction
 
-The **WordPress Articles** particle gives you the ability to directly list and pull in WordPress posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any post content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
+The **WordPress Posts** particle gives you the ability to directly list and pull in WordPress posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any post content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
 ### Main Options 
 
@@ -18,8 +18,8 @@ The particle's settings panel enables you to set exactly what content appears in
 | Option             | Description                                                                                                                                                              |
 | :-----             | :-----                                                                                                                                                                   |
 | Categories         | Select the categories posts that appear in this particle should be sourced from.                                                                                      |
-| Featured Articles  | Select how Featured Articles should be displayed. You can choose to include them, exclude them, or show only them.                                                       |
-| Number of Articles | Select the maximum number of posts to display.                                                                                                                        |
+| Featured Posts  | Select how Featured Posts should be displayed. You can choose to include them, exclude them, or show only them.                                                       |
+| Number of Posts | Select the maximum number of posts to display.                                                                                                                           |
 | Number of Columns  | Select the number of columns you wish to have the posts displayed in.                                                                                                 |
 | Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).                                                                             |
 | Order By           | Select how the posts should be ordered. This includes **Publish**, **Create**, and **Last Modified** dates, **Title**, **Ordering**, **Hits**, **ID**, and **Alias**. |

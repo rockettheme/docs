@@ -1,5 +1,5 @@
 ---
-title: Supra: WordPress Articles Particle
+title: Supra: WordPress Posts Particle
 description: Your Guide to Recreating Elements of the Supra Demo for WordPress
 breadcrumb: /wordpress:WordPress/!templates:Templates/supra:Supra
 
@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!templates:Templates/supra:Supra
 
 ## Introduction
 
-The **WordPress Articles** particle gives you the ability to directly list and pull in WordPress posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any post content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
+The **WordPress Posts** particle gives you the ability to directly list and pull in WordPress posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any post content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
 ### Main Options 
 

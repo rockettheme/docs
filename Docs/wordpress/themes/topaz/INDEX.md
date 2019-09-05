@@ -55,7 +55,7 @@ Key Features
 
 ![Particles](ft-2.jpg)
 
-This theme features a versatile and diverse catalog of particles, to enrich your site content. Besides adding the brandnew BookBlock and WordPress Articles particles, we have also restyled some of our existing particles, such as the Grid Statistic.
+This theme features a versatile and diverse catalog of particles, to enrich your site content. Besides adding the brandnew BookBlock and WordPress Posts particles, we have also restyled some of our existing particles, such as the Grid Statistic.
 
 ## Typography
 

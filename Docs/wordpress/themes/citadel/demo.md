@@ -55,7 +55,7 @@ Here is a list of particles that are available in Citadel, as well as links to d
     * [Owl Carousel](particle_owl.md)
     * [Video](particle_video.md)
     * [Pricing Table](particle_pricing.md)
-    * [WordPress Articles](particle_wordpress.md)
+    * [WordPress Posts](particle_wordpress.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Grid Statistic](particle_grid.md)

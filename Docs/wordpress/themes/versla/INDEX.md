@@ -34,7 +34,7 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Info List
-* WordPress Articles
+* WordPress Posts
 * Newsletter
 * Owl Showcase
 * Pricing Table
