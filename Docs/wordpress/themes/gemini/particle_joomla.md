@@ -13,7 +13,7 @@ The **WordPress Articles** particle gives you the ability to directly list and p
 
 The particle's settings panel enables you to set exactly what content appears in the particle, and how it's presented. We have provided descriptions to the available options below.
 
-![](assets/particle_wordpress2.jpg)
+![](assets/particle_wordpress2.jpeg)
 
 | Option             | Description                                                                                                                                                              |
 | :-----             | :-----                                                                                                                                                                   |
