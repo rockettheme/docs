@@ -16,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Articles](#posts)
+    - [Pages](#posts)
     - [Display](#display)
 
 ## Configuration
@@ -59,7 +59,7 @@ These items make up the individual featured items in the particle. Items in this
 | Link      | Enter a URL you would like the item to link to.                  |
 | Target    | Choose the target tab you would like the URL to open to.         |
 
-### Articles
+### Pages
 
 ![](assets/particle_carousel5.jpeg)
 

@@ -45,7 +45,7 @@ This tab is where you configure how Grav content appears as items in the particl
 | Option            | Description                                                                 |
 | :-----            | :-----                                                                      |
 | Grav Categories | Select the categories of articles this particle will display.               |
-| Articles to Fetch | Select the number of articles you would like the particle to fetch.         |
+| Pages to Fetch | Select the number of articles you would like the particle to fetch.         |
 | Intro Image       | **Enable** or **Disable** the display of the article(s) featured image.     |
 | Intro Text        | **Enable** or **Disable** the display of the article(s) intro text.         |
 | Display Content   | **Enable** or **Disable** the display of the article(s) content or excerpt. |

@@ -53,7 +53,7 @@ Here is a list of particles that are available in Protean, as well as links to d
     * [Video and Video Grid](particle_video.md)
     * [Event List](particle_event.md)
     * [Pricing Table](particle_pricing.md)
-    * [Grav Articles](particle_grav.md)
+    * [Grav Pages](particle_grav.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Grid Statistic](particle_grid.md)

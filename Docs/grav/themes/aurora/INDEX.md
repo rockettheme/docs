@@ -34,7 +34,7 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Info List
-* Grav Articles
+* Grav Pages
 * Newsletter
 * Panel Slider
 * Popup Module

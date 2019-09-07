@@ -32,7 +32,7 @@ Key Features
 * Grid Statistic
 * Image Grid
 * Info List
-* Grav Articles
+* Grav Pages
 * Newsletter
 * Owl Showcase
 * Pricing Table

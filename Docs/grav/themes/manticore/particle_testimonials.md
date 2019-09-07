@@ -15,7 +15,7 @@ Here are the topics covered in this guide:
     - [Main Options](#main-options)
     - [Item Options](#particle-items)
     - [Pages](#pages)
-    - [Articles Display](#display)
+    - [Pages Display](#display)
 
 ## Configuration
 

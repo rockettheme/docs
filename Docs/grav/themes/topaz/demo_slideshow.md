@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/topaz:Topaz
 
 ![](assets/demo_3.jpg)
 
-The **Slideshow** area of the page is made up of three columned sections wrapped in a **Container**. **Slideshow Left** and **Slideshow Right** do not appear on the front end as they have no assigned content. However, there is a **Slideshow A** widget position in the **Slideshow Main** section which contains three different particles: **Grid Statistic**, **Custom HTML**, and **Grav Articles**.
+The **Slideshow** area of the page is made up of three columned sections wrapped in a **Container**. **Slideshow Left** and **Slideshow Right** do not appear on the front end as they have no assigned content. However, there is a **Slideshow A** widget position in the **Slideshow Main** section which contains three different particles: **Grid Statistic**, **Custom HTML**, and **Grav Pages**.
 
 ![](assets/home_slideshow.jpg)
 
@@ -126,7 +126,7 @@ The **Owl Carousel** particle is assigned to the **Slideshow A** widget position
 | Option            | Setting     |
 | :-----            | :-----      |
 | Grav Categories | Blank       |
-| Articles to Fetch | `1`         |
+| Pages to Fetch | `1`         |
 | Intro Image       | Enable      |
 | Categories Names  | Enable      |
 | Article Title     | Enable      |

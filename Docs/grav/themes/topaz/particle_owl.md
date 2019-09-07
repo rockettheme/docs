@@ -106,7 +106,7 @@ These options are only useful if you select **Grav** as the **Content Source**.
 | Option            | Description                                                                                   |
 | :-----            | :-----                                                                                        |
 | Grav Categories | Enables you to set which categories (by name) appear in the particle.                         |
-| Articles to Fetch | Sets the number of articles you want to have fetched by the particle from the CMS.            |
+| Pages to Fetch | Sets the number of articles you want to have fetched by the particle from the CMS.            |
 | Intro Image       | Sets whether or not the particle will display the article's assigned intro image.             |
 | Categories Names  | Sets whether or not the particle will display the article's category name.                    |
 | Article Title     | Sets whether or not the particle will display the article's title.                            |

@@ -1,5 +1,5 @@
 ---
-title: Supra: Grav Articles Particle
+title: Supra: Grav Pages Particle
 description: Your Guide to Recreating Elements of the Supra Demo for Grav
 breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
@@ -7,7 +7,7 @@ breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ## Introduction
 
-The **Grav Articles** particle gives you the ability to directly list and pull in Grav articles directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
+The **Grav Pages** particle gives you the ability to directly list and pull in Grav articles directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
 ### Main Options 
 
@@ -18,8 +18,8 @@ The particle's settings panel enables you to set exactly what content appears in
 | Option             | Description                                                                                                                                                              |
 | :-----             | :-----                                                                                                                                                                   |
 | Categories         | Select the categories articles that appear in this particle should be sourced from.                                                                                      |
-| Featured Articles  | Select how Featured Articles should be displayed. You can choose to include them, exclude them, or show only them.                                                       |
-| Number of Articles | Select the maximum number of articles to display.                                                                                                                        |
+| Featured Pages  | Select how Featured Pages should be displayed. You can choose to include them, exclude them, or show only them.                                                       |
+| Number of Pages | Select the maximum number of articles to display.                                                                                                                        |
 | Number of Columns  | Select the number of columns you wish to have the articles displayed in.                                                                                                 |
 | Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                                                                             |
 | Order By           | Select how the articles should be ordered. This includes **Publish**, **Create**, and **Last Modified** dates, **Title**, **Ordering**, **Hits**, **ID**, and **Alias**. |

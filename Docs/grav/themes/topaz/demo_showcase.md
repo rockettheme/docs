@@ -11,9 +11,9 @@ breadcrumb: /grav:Grav/!themes:Themes/topaz:Topaz
 
 :   1. **Grid Statistic (Particle)** [7%, 2%, se]
     2. **Custom HTML (Particle)** [57%, 2%, se]
-    3. **Grav Articles (Particle)** [7%, 35%, se]
+    3. **Grav Pages (Particle)** [7%, 35%, se]
 
-The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there are **Showcase A** and **Showcase B** widget positions in the **Showcase Main** section which contain three different particles: **Grid Statistic**, **Custom HTML**, and **Grav Articles**.
+The **Showcase** area of the page is made up of three columned sections wrapped in a **Container**. **Showcase Left** and **Showcase Right** do not appear on the front end as they have no assigned content. However, there are **Showcase A** and **Showcase B** widget positions in the **Showcase Main** section which contain three different particles: **Grid Statistic**, **Custom HTML**, and **Grav Pages**.
 
 ![](assets/home_showcase.jpg)
 
@@ -26,7 +26,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in these sectio
             - [Grid Statistic (particle)](#grid-statistic-(particle))
             - [Custom HTML (Particle)](#custom-html-(particle))
         - [Showcase B (Widget Position)](#showcase-b-(widget-position))
-            - [Grav Articles (Particle)](#menu-(particle))
+            - [Grav Pages (Particle)](#menu-(particle))
     - Showcase Right
 
 ## Container
@@ -43,7 +43,7 @@ The container wrapping the **Showcase** sections enables the three sections to e
 
 ## Showcase Main
 
-The **Showcase Main** section hosts the **Grid Statistic**, **Custom HTML**, and **Grav Articles** particles on the front page. You will find the settings used in the section below.
+The **Showcase Main** section hosts the **Grid Statistic**, **Custom HTML**, and **Grav Pages** particles on the front page. You will find the settings used in the section below.
 
 ### Section Settings
 
@@ -110,7 +110,7 @@ The **Grid Statistic** particle is assigned to the **Showcase A** widget positio
 | Item 1 Name           | `New item`          |
 | Item 1 Static Number  | `32`                |
 | Item 1 Icon           | `fa fa-newspaper-o` |
-| Item 1 Statistic Text | `New Articles`      |
+| Item 1 Statistic Text | `New Pages`      |
 
 ##### Custom HTML (Particle)demo_showcase_10
 
@@ -161,17 +161,17 @@ The **Custom HTML** particle is assigned to the **Showcase A** widget position. 
 | Fixed Size     | Unchecked           |
 | Block Size     | `70%`               |
 
-##### Grav Articles (Particle)
+##### Grav Pages (Particle)
 
 ![](assets/demo_showcase_9.jpg)
 
-The **Grav Articles** particle is assigned to the **Showcase B** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **showcase-b** position, then selecting **Grav Articles** as the **Particle** in the widget's settings. You will find its settings below.
+The **Grav Pages** particle is assigned to the **Showcase B** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **showcase-b** position, then selecting **Grav Pages** as the **Particle** in the widget's settings. You will find its settings below.
 
 | Option             | Setting                   |
 | :-----             | :-----                    |
 | Categories         | `Blog`                    |
-| Featured Articles  | Include Featured          |
-| Number of Articles | `3`                       |
+| Featured Pages  | Include Featured          |
+| Number of Pages | `3`                       |
 | Number of Columns  | 1                         |
 | Start From         | `0`                       |
 | Order By           | Published Date            |

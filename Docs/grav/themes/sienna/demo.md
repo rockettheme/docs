@@ -59,7 +59,7 @@ Here is a list of particles that are available in Sienna, as well as links to do
     * [Simple Menu](particle_simplemenu.md)
     * [Simple Weather](particle_weather.md)
     * [BookBlock](particle_book.md)
-    * [Grav Articles](particle_grav.md)
+    * [Grav Pages](particle_grav.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Grid Statistic](particle_grid.md)

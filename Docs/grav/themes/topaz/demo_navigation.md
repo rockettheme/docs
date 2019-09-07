@@ -13,7 +13,7 @@ breadcrumb: /grav:Grav/!themes:Themes/topaz:Topaz
     2. **Social (Particle)** [7%, 16%, se]
     3. **Menu (Particle)** [7%, 45%, se]
     4. **Search (Widget)** [7%, 78%, se]
-    5. **Grav Articles (Particle)** [30%, 15%, se]
+    5. **Grav Pages (Particle)** [30%, 15%, se]
     6. **Owl Carousel (Particle)** [30%, 63%, se]
 
 The **Navigation** and **Header** sections are both wrapped in the same **Container**. This is done to support the unique design that encompasses both of these sections on the front page.
@@ -34,7 +34,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in these sectio
             * [Search (Widget)](#search-(widget))
     - [Header Main](#header-main)
         + [Header A (Widget Position)](#header-a-(widget-position))
-            * [Grav Articles (Particle)](#grav-articles-(particle))
+            * [Grav Pages (Particle)](#grav-articles-(particle))
         + [Header B (Widget Position)](#header-b-(widget-position))
             * [Owl Carousel (Particle)](#owl-carousel-(particle))
 
@@ -271,7 +271,7 @@ The **Search** widget is assigned to the **Navigation A** widget position. You w
 
 ![](assets/demo_navigation_19.jpg)
 
-The **Header Main** section hosts a **Grav Articles** particle, as well as an **Owl Carousel** particle, each within individual **Header A** and **Header B** widget positions. You will find the settings used in the section below.
+The **Header Main** section hosts a **Grav Pages** particle, as well as an **Owl Carousel** particle, each within individual **Header A** and **Header B** widget positions. You will find the settings used in the section below.
 
 ![](assets/demo_navigation_19b.jpg)
 
@@ -323,20 +323,20 @@ The **Header Main** section sits between the **Header Left** and **Header Right*
 | Fixed Size     | Unchecked |
 | Block Size     | `70%`     |
 
-##### Grav Articles (Particle)
+##### Grav Pages (Particle)
 
 ![](assets/demo_navigation_30.jpg)
 
-The **Grav Articles** particle is assigned to the **Header A** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **header-a** position, then selecting **Grav Articles** as the **Particle** in the widget's settings. You will find its settings below.
+The **Grav Pages** particle is assigned to the **Header A** widget position. This is done by creating a **Gantry 5 Particle** widget and assigning it to the **header-a** position, then selecting **Grav Pages** as the **Particle** in the widget's settings. You will find its settings below.
 
 ![](assets/demo_navigation_24.jpg)
 
 
 | Option             | Setting                      |
 | :-----             | :-----                       |
-| Categories         | `Header Articles`            |
-| Featured Articles  | Include Featured             |
-| Number of Articles | `1`                          |
+| Categories         | `Header Pages`            |
+| Featured Pages  | Include Featured             |
+| Number of Pages | `1`                          |
 | Number of Columns  | 1                            |
 | Start From         | `0`                          |
 | Order By           | Published Date               |
@@ -427,7 +427,7 @@ The **Owl Carousel** particle is assigned to the **Header B** widget position. T
 | Option            | Setting     |
 | :-----            | :-----      |
 | Grav Categories | Blank       |
-| Articles to Fetch | `1`         |
+| Pages to Fetch | `1`         |
 | Intro Image       | Enable      |
 | Categories Names  | Enable      |
 | Article Title     | Enable      |

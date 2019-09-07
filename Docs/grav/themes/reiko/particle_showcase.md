@@ -16,7 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#settings)
     - [Item Options](#particle-item-options)
-    - [Articles](#articles)
+    - [Pages](#articles)
     - [Display](#display)
 
 ## Configuration
@@ -57,7 +57,7 @@ You'll notice in our demo that each slide is a series of four items. The first t
 | Target         | Choose the target tab you would like the URL to open to.         |
 | Button Classes | Enter any CSS class(es) you wish to have apply to the button.    |
 
-### Articles
+### Pages
 
 This area determines how Article Content is discovered and selected by the particle if **Grav** is selected as the **Content Source**.
 
@@ -66,9 +66,9 @@ This area determines how Article Content is discovered and selected by the parti
 | Option             | Description                                                                                                     |
 | :-----             | :-----                                                                                                          |
 | Categories         | Select the categories of articles this particle will display.                                                   |
-| Articles           | Select the number of articles you would like the particle to fetch.                                             |
-| Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of articles to display.                                                                |
+| Pages           | Select the number of articles you would like the particle to fetch.                                             |
+| Featured Pages  | Choose how Featured Pages should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
+| Number of Pages | Enter the maximum number of articles to display.                                                                |
 | Start From         | Enter offset specifying the first article to return. The default is '0' (the first article).                    |
 | Order By           | Choose the type of factor to order by.                                                                          |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the article ordering method.                                 |

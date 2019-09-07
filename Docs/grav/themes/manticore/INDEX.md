@@ -37,7 +37,7 @@ Key Features
 * Heading
 * Image Grid
 * Info List
-* Grav Articles
+* Grav Pages
 * Latest News
 * Logo / Image
 * Logos

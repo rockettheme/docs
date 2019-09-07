@@ -32,7 +32,7 @@ Below, you will find the particles as they appear on the front page of our demo.
     7. **Above** Info List (Particle) [50%, 15%, se]
     8. **Feature** Owl Preview (Particle) [60%, 15%, se]
     9. **Expanded** Simple Content (Particle) [73%, 5%, se]
-    10. **Expanded** Grav Articles (Particle) [73%, 52%, se]
+    10. **Expanded** Grav Pages (Particle) [73%, 52%, se]
     11. **Footer** Simple Content (Particle) [90%, 12%, se]
     12. **Footer** Newsletter (Particle) [90%, 62%, se]
     13. **Copyright** Bottom Menu (Particle) [95%, 10%, se]
@@ -52,7 +52,7 @@ Here is a list of particles that are available in Versla, as well as links to do
     * [Video and Video Grid](particle_video.md)
     * [Content Tabs](particle_tabs.md)
     * [Pricing Table](particle_pricing.md)
-    * [Grav Articles](particle_grav.md)
+    * [Grav Pages](particle_grav.md)
     * [Block Content](particle_block.md)
     * [Info List](particle_info.md)
     * [Simple Content](particle_simple.md)

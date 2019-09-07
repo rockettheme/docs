@@ -47,7 +47,7 @@ Key Features
 * Simple Charts
 * Video
 * Video Carousel
-* Grav Articles 
+* Grav Pages 
 
 ### Theme Features
 
