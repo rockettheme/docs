@@ -12,7 +12,7 @@ Myriad is a clean, modern and minimalistic theme showcasing the beauty of your c
 
 ![][template]
 
->> This documentation is for the Gantry 4 version of the Myriad template. Myriad for Gantry 5 can be found [here](../myriadg5).
+>> This documentation is for the Gantry 4 version of the Myriad template. Myriad for Gantry 5 can be found [here](../myriad).
 
 Requirements
 -----
