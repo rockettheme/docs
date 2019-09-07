@@ -59,7 +59,7 @@ The settings panel for **Owl Carousel** is filled with options, bells, and whist
 | Option          | Description                                                                                                                                  |
 | :-----          | :-----                                                                                                                                       |
 | CSS Classes     | Sets the CSS class for the content of the particle.                                                                                          |
-| Content Source  | Select **Particle** or **WordPress** to determine where particle content is pulled from.                                                        |
+| Content Source  | Select **Particle** or **WordPress** to determine where particle content is pulled from.                                                     |
 | Display at Once | Determines how many items are displayed at a given time in the particle.                                                                     |
 | Title           | Sets the title of the particle, as it will appear on the front end.                                                                          |
 | Description     | s you to enter a description for the particle. This is independent of individual item descriptions.                                          |
@@ -91,7 +91,7 @@ These items only appear on the front end if you select **Particle** as the **Con
 | Owl Carousel Item Subtitle       | Enter the item's subtitle here. Typically displayed just below the title in a smaller font.                                                                      |
 | Owl Carousel Item Author         | Enter the author of the item here. Great for attributing authors of written content linked by the item.                                                          |
 | Owl Carousel Item Author Image   | This image field enables you to add a smaller thumbnail image for the author. Displayed typically next to the author's name.                                     |
-| Owl Carousel Item Description    | This is the main content body of the item. Enter any information you want to have displayed in paragraph form here.                                              |
+| Owl Carousel Item Description    | This is the main content body of the item. Enter any information you want to have displayed in paragraph form  here.                                             |
 | Owl Carousel Item Link           | This is where you would enter a link you want the item to send visitors to when clicked.                                                                         |
 | Owl Carousel Item Link Text      | This text is what the visitor would click to activate the link.                                                                                                  |
 | Owl Carousel Item Target         | Sets how you would like the link to open. You can choose between **Self** and **New Window**. Self will open in the current tab, and new window opens a new tab. |
@@ -103,14 +103,14 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 
 ![](assets/demo_navigation_28.jpg)
 
-| Option            | Description                                                                                   |
-| :-----            | :-----                                                                                        |
+| Option               | Description                                                                                   |
+| :-----               | :-----                                                                                        |
 | WordPress Categories | Enables you to set which categories (by name) appear in the particle.                         |
-| Articles to Fetch | Sets the number of posts you want to have fetched by the particle from the CMS.            |
-| Intro Image       | Sets whether or not the particle will display the post's assigned intro image.             |
-| Categories Names  | Sets whether or not the particle will display the post's category name.                    |
-| Article Title     | Sets whether or not the particle will display the post's title.                            |
-| Intro Text        | Sets whether or not the particle will display the post's intro text.                       |
-| Author            | Sets whether or not the particle will display the post's author.                           |
-| Link              | Enables or disables direct links to the post(s) from the particle.                         |
-| Link Text         | You can use this field to enter text you would like to have appear. For example: `Read More`. |
+| Posts to Fetch       | Sets the number of posts you want to have fetched by the particle from the CMS.               |
+| Intro Image          | Sets whether or not the particle will display the post's assigned intro image.                |
+| Categories Names     | Sets whether or not the particle will display the post's category name.                       |
+| Post Title           | Sets whether or not the particle will display the post's title.                               |
+| Intro Text           | Sets whether or not the particle will display the post's intro text.                          |
+| Author               | Sets whether or not the particle will display the post's author.                              |
+| Link                 | Enables or disables direct links to the post(s) from the particle.                            |
+| Link Text            | You can use this field to enter text you would like to have appear. For example: `Read More`. |

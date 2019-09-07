@@ -123,14 +123,14 @@ The **Owl Carousel** particle is assigned to the **Slideshow A** widget position
 
 ![](assets/demo_slideshow_7.jpg)
 
-| Option            | Setting     |
-| :-----            | :-----      |
+| Option               | Setting     |
+| :-----               | :-----      |
 | WordPress Categories | Blank       |
-| Articles to Fetch | `1`         |
-| Intro Image       | Enable      |
-| Categories Names  | Enable      |
-| Article Title     | Enable      |
-| Intro Text        | Enable      |
-| Author            | Enable      |
-| Link              | Enable      |
-| Link Text         | `Read More` |
+| Posts to Fetch       | `1`         |
+| Intro Image          | Enable      |
+| Categories Names     | Enable      |
+| Post Title           | Enable      |
+| Intro Text           | Enable      |
+| Author               | Enable      |
+| Link                 | Enable      |
+| Link Text            | `Read More` |

@@ -427,7 +427,7 @@ The **Owl Carousel** particle is assigned to the **Header B** widget position. T
 | Option            | Setting     |
 | :-----            | :-----      |
 | WordPress Categories | Blank       |
-| Articles to Fetch | `1`         |
+| Posts to Fetch | `1`         |
 | Intro Image       | Enable      |
 | Categories Names  | Enable      |
 | Article Title     | Enable      |

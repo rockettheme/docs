@@ -105,14 +105,14 @@ These options are only useful if you select **WordPress** as the **Content Sourc
 
 ![](assets/particle_owl6.jpg)
 
-| Option            | Description                                                                                   |
-| :-----            | :-----                                                                                        |
+| Option               | Description                                                                                   |
+| :-----               | :-----                                                                                        |
 | WordPress Categories | Enables you to set which categories (by name) appear in the particle.                         |
-| Articles to Fetch | Sets the number of posts you want to have fetched by the particle from the CMS.            |
-| Intro Image       | Sets whether or not the particle will display the post's assigned intro image.             |
-| Categories Names  | Sets whether or not the particle will display the post's category name.                    |
-| Article Title     | Sets whether or not the particle will display the post's title.                            |
-| Intro Text        | Sets whether or not the particle will display the post's intro text.                       |
-| Author            | Sets whether or not the particle will display the post's author.                           |
-| Link              | Enables or disables direct links to the post(s) from the particle.                         |
-| Link Text         | You can use this field to enter text you would like to have appear. For example: `Read More`. |
+| Posts to Fetch       | Sets the number of posts you want to have fetched by the particle from the CMS.               |
+| Intro Image          | Sets whether or not the particle will display the post's assigned intro image.                |
+| Categories Names     | Sets whether or not the particle will display the post's category name.                       |
+| Post Title           | Sets whether or not the particle will display the post's title.                               |
+| Intro Text           | Sets whether or not the particle will display the post's intro text.                          |
+| Author               | Sets whether or not the particle will display the post's author.                              |
+| Link                 | Enables or disables direct links to the post(s) from the particle.                            |
+| Link Text            | You can use this field to enter text you would like to have appear. For example: `Read More`. |

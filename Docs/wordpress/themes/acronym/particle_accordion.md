@@ -22,7 +22,7 @@ Here are the topics covered in this guide:
 
 #### Tab A - Particle Settings
 
-![](assets/particle_accordion2.jpeg)
+![](assets/particle_accordion2.png)
 
 | Option         | Description                                                           |
 | :-----         | :-----                                                                |
@@ -34,30 +34,13 @@ Here are the topics covered in this guide:
 
 This tab enables you to create items that appear in the particle. It is useful if you choose the **Particle** content source.
 
-![](assets/particle_accordion3.jpeg)
-
-#### Tab C - WordPress Content
-
-This tab is where you configure how WordPress content appears as items in the particle. It is useful if you choose the **WordPress** content source.
-
-![](assets/particle_accordion4.jpeg)
-
-| Option            | Description                                                                 |
-| :-----            | :-----                                                                      |
-| WordPress Categories | Select the categories of posts this particle will display.               |
-| Articles to Fetch | Select the number of posts you would like the particle to fetch.         |
-| Intro Image       | **Enable** or **Disable** the display of the post(s) featured image.     |
-| Intro Text        | **Enable** or **Disable** the display of the post(s) intro text.         |
-| Display Content   | **Enable** or **Disable** the display of the post(s) content or excerpt. |
-| Link              | **Enable** or **Disable** the linking of the post(s).                    |
-| Link Text         | Enter the text you wish to have displayed as the read more link.            |
-| Target            | Select **Self** or **New Window** as the target for the link.               |
+![](assets/particle_accordion3.png)
 
 ### Item Options
 
 These items only appear on the front end if you select **Particle** as the **Content Source**.
 
-![](assets/particle_accordion5.jpeg)
+![](assets/particle_accordion4.png)
 
 | Option         | Description                                                               |
 | :-----         | :-----                                                                    |
@@ -66,3 +49,21 @@ These items only appear on the front end if you select **Particle** as the **Con
 | Button Link    | Set a link you would like the item to connect to.                         |
 | Target         | Choose a target (self or new window) for the link.                        |
 | Button Classes | Enter any CSS class(es) you would like to have apply to the button link.  |
+
+
+#### Tab C - WordPress Content
+
+This tab is where you configure how WordPress content appears as items in the particle. It is useful if you choose the **WordPress** content source.
+
+![](assets/particle_accordion5.png)
+
+| Option               | Description                                                                                         |
+| :-----               | :-----                                                                                              |
+| WordPress Categories | Select the categories of posts this particle will display.                                          |
+| Posts to Fetch       | Select the number of posts you would like the particle to fetch.                                    |
+| Content Type         | Select the type of content to display in the particle. Options include: **Content** and **Exerpt**. |
+| Display Content      | **Enable** or **Disable** the display of the post(s) content or excerpt.                            |
+| Link                 | **Enable** or **Disable** the linking of the post(s).                                               |
+| Link Text            | Enter the text you wish to have displayed as the read more link.                                    |
+| Target               | Select **Self** or **New Window** as the target for the link.                                       |
+

@@ -15,7 +15,7 @@ Here are the topics covered in this guide:
     - [Main Options](#main-options)
     - [Item Options](#particle-items)
     - [Posts](#posts)
-    - [Articles Display](#display)
+    - [Posts Display](#display)
 
 ## Configuration
 
@@ -28,7 +28,7 @@ These options affect the main area of the particle, and not the individual items
 | Option         | Description                                                                                         |
 | :-----         | :-----                                                                                              |
 | Particle Name  | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Content Source | Choose between **Particle** and **WordPress** as the content source.                                   |
+| Content Source | Choose between **Particle** and **WordPress** as the content source.                                |
 | CSS Classes    | Enter any CSS class(es) you wish to have apply to the particle.                                     |
 | Title          | Enter a title for the particle. This will appear on the front end.                                  |
 | Subtitle       | enter a subtitle for the particle.                                                                  |
@@ -62,15 +62,15 @@ These items make up the individual featured items in the particle. They sit apar
 
 ![](assets/particle_testimonials5.png)
 
-| Option             | Description                                                                                                     |
-| :-----             | :-----                                                                                                          |
-| Categories         | Select the categories of posts this particle will display.                                                   |
-| Articles           | Select the number of posts you would like the particle to fetch.                                             |
-| Featured Articles  | Choose how Featured Articles should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Articles | Enter the maximum number of posts to display.                                                                |
-| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).                    |
-| Order By           | Choose the type of factor to order by.                                                                          |
-| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                                 |
+| Option             | Description                                                                            |
+| :-----             | :-----                                                                                 |
+| Categories         | Select the categories of posts this particle will display.                             |
+| Posts              | Select the number of posts you would like the particle to fetch.                       |
+| Sticky Posts       | Choose to **Show** or **Hide** sticky posts.                                           |
+| Number of Posts    | Enter the maximum number of posts to display.                                          |
+| Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
+| Order By           | Choose the type of factor to order by.                                                 |
+| Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.           |
 
 ### Display
 
@@ -78,14 +78,13 @@ This section configures how posts are displayed.
 
 ![](assets/particle_testimonials6.png)
 
-| Option          | Description                                                                                                                                              |
-| :-----          | :-----                                                                                                                                                   |
-| Image           | Select which image in an post should be displayed.                                                                                                    |
-| Title           | Choose whether or not the title of an post should be shown.                                                                                           |
-| Title Limit     | Set a character limit for titles.                                                                                                                        |
-| Article Text    | Choose between showing the **Introduction** or **Full Article** text to display. You can also **Hide** text.                                             |
-| Text Limit      | Set a limit (in characters) of the post's text to appear.                                                                                             |
-| Text Formatting | Select between **Plain Text** and **HTML** text formatting.                                                                                              |
-| Button Label    | Enter the text you would like to have appear as the button link.                                                                                         |
-| Button Link     | Enter the url you want that link to go to.                                                                                                               |
-| Link Target     | Set the target for the button. You can choose between **Self** which opens the link in the current tab or **New Window** which opens links in a new tab. |
+| Option             | Description                                                                                                                                              |
+| :-----             | :-----                                                                                                                                                   |
+| Image              | Select which image in an post should be displayed.                                                                                                       |
+| Content Type       | Select the type of content displayed in the particle. Options include: **Content**, **Exerpt**, and **Hide**.                                            |
+| Content Limit      | Set a limit (in characters) of the post's text to appear.                                                                                                |
+| Content Formatting | Select between **Plain Text** and **HTML** text formatting.                                                                                              |
+| Author             | **Show** or **Hide** the Author information.                                                                                                             |
+| Button Label       | Enter the text you would like to have appear as the button link.                                                                                         |
+| Button Link        | Enter the url you want that link to go to.                                                                                                               |
+| Link Target        | Set the target for the button. You can choose between **Self** which opens the link in the current tab or **New Window** which opens links in a new tab. |
