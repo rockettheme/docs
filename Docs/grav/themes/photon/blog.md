@@ -13,9 +13,9 @@ The **Blog** example page demonstrates how you can create a beautiful page with 
 
 ![](assets/page_blog.jpeg)
 
-The bulk if this page is made up of **Page Content** generated in the **Mainbar** section. Pages (posts) are assigned to the Blog page using the **Blog List** tab in the main **Blog** page's settings. `'@taxonomy.category': 'Joomla Blog'` is listed in the **Items** field.
+The bulk if this page is made up of **Page Content** generated in the **Mainbar** section. Pages (posts) are assigned to the Blog page using the **Blog List** tab in the main **Blog** page's settings. `@self.children` is listed in the **Items** field.
 
-![](assets/page_blog_mainbar.jpeg)
+![](assets/page_blog_mainbar.png)
 
 Even though there are widget and particle sections placed in the layout, as there are no other elements assigned to this page, only the content in the **Page Content** particle are displayed.
 
