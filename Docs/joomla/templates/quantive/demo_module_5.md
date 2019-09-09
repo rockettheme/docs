@@ -1,7 +1,7 @@
 ---
-title: Juxta: Recreating the Demo - Connect with Us
-description: Your Guide to Recreating Elements of the Juxta Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/juxta:Juxta
+title: Quantive: Recreating the Demo - Connect with Us
+description: Your Guide to Recreating Elements of the Quantive Demo for Joomla
+breadcrumb: /joomla:Joomla/!templates:Templates/quantive:Quantive
 
 ---
 
