@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Akuatik](templates/akuatik)
 	- [Epsilon (Gantry 5)](templates/epsilon)
   - [Manticore](templates/manticore)
 	- [Lexicon (Gantry 5)](templates/lexicon)
