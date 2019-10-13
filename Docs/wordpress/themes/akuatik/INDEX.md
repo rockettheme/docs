@@ -1,7 +1,7 @@
 ---
 title: Akuatik
-description: Your Guide to Using the Akuatik Template for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/!akuatik:Akuatik
+description: Your Guide to Using the Akuatik Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!akuatik:Akuatik
 
 ---
 
@@ -15,10 +15,12 @@ Akuatik is a stylishly modern, professional theme that approaches web design fro
 Requirements
 -----
 
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 7.1+ 
-* MySQL 5.1+
-* Joomla 3.8+
+* PHP 7.1+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+* MySQL
+* WordPress 4.7+
 
 >> NOTE: Gantry v5.4.26+ is required for Akuatik to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
@@ -39,7 +41,7 @@ Key Features
 * Heading
 * Image Grid
 * Info List
-* Joomla Articles
+* WordPress Articles
 * Latest News
 * Logo / Image
 * Logos
@@ -62,7 +64,7 @@ Key Features
 * Topic List
 * Video 
 
-### Template Features
+### Theme Features
 
 * Responsive Layout
 * 3 Preset Styles
@@ -105,7 +107,7 @@ Typography is an important instrument in not only the site design, but how your 
 
 ![Responsive](assets/ft-3.jpg)
 
-Akuatik is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
+Akuatik is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
 
 ## Inheritance
 

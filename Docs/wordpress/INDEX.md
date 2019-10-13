@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	- [Akuatik](themes/akuatik)
 	- [Epsilon (Gantry 5)](themes/epsilon)
   - [Manticore](themes/manticore)
   - [Lexicon (Gantry 5)](themes/lexicon)
