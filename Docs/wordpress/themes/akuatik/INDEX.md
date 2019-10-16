@@ -41,7 +41,7 @@ Key Features
 * Heading
 * Image Grid
 * Info List
-* WordPress Articles
+* WordPress Posts
 * Latest News
 * Logo / Image
 * Logos
