@@ -40,7 +40,7 @@ Template Particles
 * [Simple Counter](particle_simplecounter.md)
 * [Newsletter](particle_newsletter.md)
 * [Simple Menu](particle_simplemenu.md)
-* [Image Grid](particle_imagegrid.md)
+* [Image Grid](particle_image.md)
 * [Social](particle_social.md)
 * [Joomla Articles](particle_joomla.md)
 * [Grid Statistic](particle_grid.md)

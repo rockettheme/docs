@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!akuatik:Akuatik
+breadcrumb: /grav:Grav/!themes:Themes/!akuatik:Akuatik
 
-details: http://www.rockettheme.com/joomla/templates/akuatik/
-demo: http://demo.rockettheme.com/joomla-templates/akuatik/
-download: http://www.rockettheme.com/joomla/templates/akuatik/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-akuatik/
+details: http://www.rockettheme.com/grav/themes/akuatik/
+demo: http://demo.rockettheme.com/grav-themes/akuatik/
+download: http://www.rockettheme.com/grav/themes/akuatik/modal/downloads
+support: http://www.rockettheme.com/forum/grav-theme-akuatik/
 
 ---
 
@@ -13,14 +13,14 @@ support: http://www.rockettheme.com/forum/joomla-template-akuatik/
     - [Introduction]()
     - [Key Features](INDEX.md#key-features)
     - [Requirements](INDEX.md#requirements)
-    - [How to Install](../../platform/templates.md#how-to-install)
-        + [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        + [RocketLauncher (3.x)](../../platform/rocketlauncher_3x.md)
-        + [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
+    - [How to Install](../../start/themes.md#how-to-install)
+        + [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+        + [RocketLauncher](../../start/rocketlauncher.md)
     - [Recreate the Demo](demo.md)
-        + [Extensions](demo.md#recommended-extensions)
+        + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
-    - Template Particles
+        + [Particle Settings](demo.md#particles)
+    - Theme Particles
         - [Slideshow](particle_slideshow.md)
         - [Info List](particle_info.md)
         - [Testimonials](particle_testimonials.md)
@@ -38,13 +38,13 @@ support: http://www.rockettheme.com/forum/joomla-template-akuatik/
         - [Simple Menu](particle_simplemenu.md)
         - [Image Grid](particle_image.md)
         - [Social](particle_social.md)
-        - [Joomla Articles](particle_joomla.md)
+        - [Grav Pages](particle_grav.md)
         - [Grid Statistic](particle_grid.md)
         - [Heading](particle_heading.md)
         - [Particles](particle_particles.md)
         - [Promo](particle_promo.md)
         - [Video](particle_video.md)
-    - Template Atoms
+    - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
     - Core Particles
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
@@ -60,7 +60,7 @@ support: http://www.rockettheme.com/forum/joomla-template-akuatik/
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
     - [CSS Classes](css.md)
     - [FAQ](faq.md)
-    - Template Tutorials
+    - Theme Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
         + [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
         + [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
@@ -73,4 +73,4 @@ support: http://www.rockettheme.com/forum/joomla-template-akuatik/
         + [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
         + [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
         + [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
-        + [Template Font Index](../../../technical_tips/general/font_index.md)
+        + [Theme Font Index](../../../technical_tips/general/font_index.md)

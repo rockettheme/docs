@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Akuatik](themes/akuatik)
 	- [Epsilon](themes/epsilon)
 	- [Manticore](themes/manticore)
 	- [Hadron](themes/hadron)

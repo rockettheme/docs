@@ -20,7 +20,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-akuatik/
         + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
-        + [Front Page Layout](layout.md)
     - Theme Particles
         - [Slideshow](particle_slideshow.md)
         - [Info List](particle_info.md)
@@ -37,7 +36,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-akuatik/
         - [Simple Counter](particle_simplecounter.md)
         - [Newsletter](particle_newsletter.md)
         - [Simple Menu](particle_simplemenu.md)
-        - [Image Grid](particle_imagegrid.md)
+        - [Image Grid](particle_image.md)
         - [Social](particle_social.md)
         - [WordPress Posts](particle_wordpress.md)
         - [Grid Statistic](particle_grid.md)
