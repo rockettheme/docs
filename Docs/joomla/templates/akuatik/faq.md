@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!themes:Themes/akuatik:Akuatik
 
 ![](assets/tilt.jpg)
 
-Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the *tilt* class.
+Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the **tilt** class.
 
 ## Is Akuatik compatible for Joomla 1.5 or 2.5?
 

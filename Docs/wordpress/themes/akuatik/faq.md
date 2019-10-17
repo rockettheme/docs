@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/akuatik:Akuatik
 
 ![](assets/tilt.jpg)
 
-Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the *tilt* class.
+Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the **tilt** class.
 
 ## What is Gantry?
 
