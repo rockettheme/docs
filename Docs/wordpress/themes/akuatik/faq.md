@@ -5,9 +5,11 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/akuatik:Akuatik
 
 ---
 
-## Is Akuatik compatible for WordPress 1.5 or 2.5?
+## How do I remove the angle / tilt from Akuatik?
 
-No, Akuatik is only compatible with WordPress 3.4+.
+![](assets/tilt.jpg)
+
+Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the *tilt* class.
 
 ## What is Gantry?
 

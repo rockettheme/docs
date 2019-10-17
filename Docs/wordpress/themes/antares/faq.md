@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 
 ---
 
-Is Antares compatible for WordPress 1.5 or 2.5?
------
-
-No, Antares is only compatible with WordPress 3.4+.
-
 Is There a Way to Use a Normal Menu on the Front Page?
 ----
 

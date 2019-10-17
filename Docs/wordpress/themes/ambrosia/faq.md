@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
-Is Ambrosia compatible for WordPress 1.5 or 2.5?
------
-
-No, Ambrosia is only compatible with WordPress 3.4+.
-
 What is RokSprocket?
 -----
 

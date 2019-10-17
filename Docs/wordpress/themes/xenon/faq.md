@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/xenon:Xenon
 
 ---
 
-Is Xenon compatible for WordPress 1.5 or 2.5?
------
-
-No, Xenon is only compatible with WordPress 3.4+.
-
 What is RokSprocket?
 -----
 

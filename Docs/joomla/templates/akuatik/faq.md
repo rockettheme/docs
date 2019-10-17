@@ -5,6 +5,12 @@ breadcrumb: /joomla:Joomla/!themes:Themes/akuatik:Akuatik
 
 ---
 
+## How do I remove the angle / tilt from Akuatik?
+
+![](assets/tilt.jpg)
+
+Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the *tilt* class.
+
 ## Is Akuatik compatible for Joomla 1.5 or 2.5?
 
 No, Akuatik is only compatible with Joomla 3.4+.

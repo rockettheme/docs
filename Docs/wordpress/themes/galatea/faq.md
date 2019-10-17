@@ -5,10 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/galatea:Galatea
 
 ---
 
-## Is Galatea compatible for WordPress 1.5 or 2.5?
-
-No, Galatea is only compatible with WordPress 3.4+.
-
 ## Is There a Way to Use a Normal Menu on the Front Page?
 
 Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggle particle in the Navigation section.

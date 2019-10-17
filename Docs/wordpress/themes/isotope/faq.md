@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ---
 
-Is Isotope compatible for WordPress 1.5 or 2.5?
------
-
-No, Isotope is only compatible with WordPress 3.4+.
-
 What is RokSprocket?
 -----
 
