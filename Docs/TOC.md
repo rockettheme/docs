@@ -10,9 +10,7 @@ description: Here you will find the latest and greatest documentation and inform
 
 * [__WordPress__](wordpress)
 
-* [__Magento__](magento)
-
-* [__phpBB__](phpbb)
+* [__Gantry Framework__](http://docs.gantry.org)
 
 * [__Accounts & Billing__](accounts_billing)
 
@@ -20,5 +18,7 @@ description: Here you will find the latest and greatest documentation and inform
 
 * [__Technical Tips__](technical_tips)
 
-* [__Gantry Framework__](gantry)
+* [__Magento__](magento)
+
+* [__phpBB__](phpbb)
 
