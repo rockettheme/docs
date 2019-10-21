@@ -89,7 +89,6 @@ This section configures how pages are displayed.
 | :------------ | :-------------------------------------------------------------------------------------------------- |
 | Image         | **Show** or **Hide** the post's featured image.                                                     |
 | Author        | **Show** or **Hide** the article's author.                                                          |
-| Author Image  | Choose between the **Intro**, **Full**, or no image to display as the author image with each item.  |
 | Article Text  | Choose between **Introduction**, **Full Article**, and **Hide** article content.                    |
 | Text Limit    | Enter a limit (in characters) of article text to display with each item.                            |
 | Category      | **Show** or **Hide** the article's category.                                                        |
