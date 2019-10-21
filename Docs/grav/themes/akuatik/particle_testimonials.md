@@ -54,7 +54,7 @@ These items make up the individual featured items in the particle. They sit apar
 | :-----              | :-----                                                                             |
 | Item Name           | This is the name of the item. This becomes the name that appears on the front end. |
 | Testimonial Content | Descriptive text goes here. This is the bulk of the item's content.                |
-| Testimony Author    | Enter the name of the person giving the testimonial.                               |
+| Testimonial Author    | Enter the name of the person giving the testimonial.                               |
 | Person Position     | Enter a title or position for the author of the testimonial.                       |
 | Person Photo        | The image file can be linked here.                                                 |
 | Alt Tag             | Enter an alternative text for the photo.                                           |
