@@ -38,7 +38,7 @@ support: http://www.rockettheme.com/forum/grav-theme-akuatik/
         - [Simple Menu](particle_simplemenu.md)
         - [Image Grid](particle_image.md)
         - [Social](particle_social.md)
-        - [Grav Pages](particle_grav.md)
+        - [Grav Content](particle_grav.md)
         - [Grid Statistic](particle_grid.md)
         - [Heading](particle_heading.md)
         - [Particles](particle_particles.md)
