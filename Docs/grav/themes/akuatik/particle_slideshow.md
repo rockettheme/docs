@@ -63,7 +63,6 @@ These items make up the individual featured items in the particle. Items in this
 | Description                       | Enter a text description to appear in the particle.                                     |
 | Title Link                        | Enter a URL the button will send users to.                                              |
 | Title Link Target                 | Enter a target window for the link.                                                     |
-| Author Image                      | Select an image to display in the author section of the item.                           |
 | Author Text                       | Enter the name of the author.                                                           |
 | Author Link                       | Enter the URL the author's name will link to.                                           |
 | Author Link Target                | Enter the target window for the author link to open in.                                 |
