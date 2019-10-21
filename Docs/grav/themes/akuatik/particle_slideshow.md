@@ -32,8 +32,8 @@ These options affect the main area of the particle, and not the individual items
 | Particle Name     | This is the name of the particle used for back end management. It does not appear on the front end.       |
 | Content Source    | Choose between **Particle** and **Grav** as the content source for the particle.                     |
 | Slide Height      | Set the height of each slide (in pixels)                                                                  |
-| Thumbnail         | **Enable** or **Disable** the use of thumbnails for slideshow navigation.                                 |
 | Progress Bar      | **Enable** or **Disable** the progress bar navigation tool.                                               |
+| Arrows            | **Enable** or **Disable** the use of arrows for slideshow navigation.                                 |
 | Autoplay          | **Enable** or **Disable** autoplay for the particle.                                                      |
 | Autoplay Timeout  | Set the time (in milliseconds) between slides in autoplay mode.                                           |
 | Loop              | **Enable** or **Disable** looping slides.                                                                 |
