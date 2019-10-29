@@ -19,9 +19,6 @@ Here are the topics covered in this guide:
     - [Main Options](#main-options)
     - [Item Options](#item-options)
 
-
->> Note: You will need the [RokBox](http://www.rockettheme.com/grav/plugins/rokbox) plugin installed and active to take advantage of the click-to-view feature.
-
 ## Layout
 
 In Topaz, the **Image Grid** particle is a beautiful way to display image. It has a sleek, simple layout. Clicking on an image brings up a popup with the full-size image and a simple left-right navigation.
