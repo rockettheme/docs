@@ -401,7 +401,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 | Item 1 Title        | `Introduction`                                                          |
 | Item 1 Icon         | Blank                                                                   |
 | Item 1 Image        | Custom                                                                  |
-| Item 1 RokBox Image | Blank                                                                   |
+| Item 1 Lightcase Image | Blank                                                                   |
 | Item 1 Caption      | Blank                                                                   |
 | Item 1 Subtitle     | Blank                                                                   |
 | Item 1 Description  | Blank                                                                   |
