@@ -81,7 +81,7 @@ Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
 * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
 * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Widget Instance](http://docs.gantry.org/gantry5/particles/widget-instance)
+* [Widget Instance](http://docs.gantry.org/gantry5/particles/module-instance)
 * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
 * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
