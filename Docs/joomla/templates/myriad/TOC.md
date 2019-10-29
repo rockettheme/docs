@@ -61,7 +61,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
     - [Using the Icon Picker](http://docs.gantry.org/gantry5/tutorials/using-the-icon-picker)
     - [Creating a New Particle](http://docs.gantry.org/gantry5/advanced/creating-a-new-particle)
     - [Particle YAML Field Types](http://docs.gantry.org/gantry5/advanced/particle-yaml-field-types)
-    - [Customizing Template Files](http://docs.gantry.org/gantry5/advanced/customizing-template-files)
+    - [Customizing Template Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
     - [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
     - [Template Font Index](../../../technical_tips/general/font_index.md)
