@@ -51,4 +51,4 @@ Praxis's responsive grid system is designed for desktops, tablets, and smartphon
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/praxis.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
