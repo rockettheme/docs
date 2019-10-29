@@ -47,7 +47,7 @@ For example: Installing matching language imagesets is not needed as we removed 
 
 RokBridge is a non-invasive, bi-directional bridge for Joomla and the forum platform phpBB. 
 
-By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page](http://www.rockettheme.com/extensions-joomla/rokbridge) for support and latest news.
+By following a few simple steps, you can easily integrate the two platforms, providing registration, user syncing, and syncing of login sessions. RokBridge comes with three default modules: Login, Latest Post, and Member. Please visit the [RokBridge product page](http://www.rockettheme.com/extensions-joomla/roklegacy) for support and latest news.
 
 ### Responsive Layout
 
