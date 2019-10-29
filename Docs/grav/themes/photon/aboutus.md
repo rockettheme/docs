@@ -455,7 +455,7 @@ This area of the page is a **Block Content** particle. You will find the setting
 | Item 1 Title        | `Sophisticated`                                                                            |
 | Item 1 Icon         | `fa fa-align-right`                                                                        |
 | Item 1 Image        | Blank                                                                                      |
-| Item 1 RokBox Image | Blank                                                                                      |
+| Item 1 Lightcase Image | Blank                                                                                      |
 | Item 1 Caption      | Blank                                                                                      |
 | Item 1 Subtitle     | Blank                                                                                      |
 | Item 1 Description  | `Dynamically procrastinate B2C users after installed base benefits.`                       |
