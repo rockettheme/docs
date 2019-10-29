@@ -80,7 +80,7 @@ The **Promo Content** particle is a **Gantry 5 Particle** widget placed within t
 | Item 1 Title          | `Gantry 5`                                                                                                          |
 | Item 1 Icon           | `fa fa-heartbeat fa-fw fa-3x`                                                                                       |
 | Item 1 Image          | Blank                                                                                                               |
-| Item 1 RokBox Image   | Blank                                                                                                               |
+| Item 1 Lightcase Image   | Blank                                                                                                               |
 | Item 1 Caption        | Blank                                                                                                               |
 | Item 1 Sub Title      | Blank                                                                                                               |
 | Item 1 Description    | `Gantry 5 is an advanced, versatile and multi-platform theme framework, perfectly designed for the modern web. ` |
