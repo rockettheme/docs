@@ -49,7 +49,7 @@ These items make up the individual featured items in the particle. They sit apar
 | Title          | Enter the title for the block item.                                                                                                                      |
 | Icon           | Select the icon you would like to have appear with the title area in the block item.                                                                     |
 | Image          | Select the image you would like to have displayed with the item.                                                                                         |
-| RokBox Image   | If you would like to have a popup appear with a larger version of the image when the image is clicked, this is where you assign the larger image.        |
+| Lightcase Image   | If you would like to have a popup appear with a larger version of the image when the image is clicked, this is where you assign the larger image.        |
 | Caption        | Add a caption for the image here.                                                                                                                        |
 | Subtitle       | Add a subtitle for the item here.                                                                                                                        |
 | Description    | Enter a description for the item here, appears as paragraphed text.                                                                                      |
