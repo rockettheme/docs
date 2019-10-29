@@ -45,4 +45,4 @@ There are also 25 structural suffixes which affect the layout and metrics of the
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/ximenia.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
