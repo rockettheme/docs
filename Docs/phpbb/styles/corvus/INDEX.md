@@ -51,4 +51,4 @@ Corvus' responsive grid system is designed for desktops, tablets, and smartphone
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/corvus.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
