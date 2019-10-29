@@ -60,7 +60,7 @@ For example: Installing matching language imagesets is not needed as we removed 
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/epsilon.jpg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
 [flat]: assets/flat.jpg
 [webfonts]: assets/webfonts.jpg
 [rokbridge]: assets/rokbridge.jpg
