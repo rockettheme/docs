@@ -51,5 +51,5 @@ Extensive CSS styling gives user an ability to completely redesign the forum loo
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/metropolis.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
 [suffix]: assets/suffixes.png
