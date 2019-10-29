@@ -54,4 +54,4 @@ By following a few simple steps, you can easily integrate the two platforms, pro
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/paradigm.jpg
 [imageset]: imageset.jpg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
