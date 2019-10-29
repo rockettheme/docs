@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/manticore:Manticore
 
 ![](assets/particle_featuredvideo1.png)
 
-The **Featured Video** particle enable you quickly and easily add video content to your page attributed to your site's content creators.
+The **Featured Video** particle enables you to quickly and easily add video content to your page attributed to your site's content creators.
 
 Here are the topics covered in this guide:
 
