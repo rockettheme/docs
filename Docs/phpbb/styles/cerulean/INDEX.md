@@ -49,4 +49,4 @@ Additionally, there are 25 structural suffixes which affect the layout and metri
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/cerulean.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokleacy
