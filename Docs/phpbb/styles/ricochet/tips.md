@@ -44,4 +44,4 @@ You can configure the SideSlider's text, background color, and set it to either 
 [sideslider1]: assets/sideslider_1.png
 [animation1]: assets/animation_1.jpeg
 [sideslider2]: assets/sideslider_2.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
