@@ -61,4 +61,4 @@ Ricochet's responsive grid system is designed for desktops, tablets, and smartph
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/ricochet.png
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: https://rockettheme.com/joomla/extensions/roklegacy
