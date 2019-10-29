@@ -50,4 +50,4 @@ Lumiere's responsive grid system is designed for desktops, tablets, and smartpho
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/lumiere.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
