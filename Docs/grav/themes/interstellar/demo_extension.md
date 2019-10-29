@@ -93,7 +93,7 @@ Use the RocketLauncher package to create a copy of our demo.
 | Item 1 Title          | `Jack Red`      |
 | Item 1 Icon           | Blank           |
 | Item 1 Image          | Custom          |
-| Item 1 RokBox Image   | Blank           |
+| Item 1 Lightcase Image   | Blank           |
 | Item 1 Caption        | Blank           |
 | Item 1 Subtitle       | Blank           |
 | Item 1 CSS Classes    | Blank           |
