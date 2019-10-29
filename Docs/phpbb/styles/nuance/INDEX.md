@@ -57,4 +57,4 @@ Nuance supports Imageset Editor for previously implemented FontAwesome based sca
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/nuance.png
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
