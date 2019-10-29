@@ -48,4 +48,4 @@ If you want to customize the image that appears in the **Slideshow** position, y
 [slideshow1]: assets/slideshow1.jpeg
 [animation1]: assets/animation1.jpeg
 [slideshow2]: assets/slideshow2.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
