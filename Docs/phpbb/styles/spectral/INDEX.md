@@ -53,4 +53,4 @@ Spectral's responsive grid system is designed for desktop, tablet and smartphone
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/spectral.jpg
 [imageset]: imageset.jpg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
