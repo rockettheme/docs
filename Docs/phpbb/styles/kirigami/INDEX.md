@@ -44,4 +44,4 @@ We base our responsive layout on Twitter's Bootstrap Framework, with its collect
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/kirigami.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
