@@ -45,4 +45,4 @@ Fresco offers a wide array of layout configurations for displaying your content.
 
 [adminguide]: ../../start/styles.md#installing-administrative-modules
 [style]: assets/ionosphere.jpeg
-[rokbridge]: http://www.rockettheme.com/extensions-joomla/rokbridge
+[rokbridge]: http://www.rockettheme.com/extensions-joomla/roklegacy
