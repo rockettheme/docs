@@ -16,9 +16,7 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
     - [Item Options](#item-options)
-
->> Note: You will need the [RokBox](http://www.rockettheme.com/grav/extensions/rokbox) extension installed and active to take advantage of the click-to-view feature.
-
+    
 ## Configuration
 
 ### Main Options
