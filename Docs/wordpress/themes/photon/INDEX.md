@@ -20,7 +20,7 @@ Requirements
 * MySQL 5.1+
 * WordPress 3.4+
 
->> NOTE: Gantry v5.2.6+ is required for Galatea to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.2.6+ is required for Photon to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
