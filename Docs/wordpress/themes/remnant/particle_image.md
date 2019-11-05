@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/remnant:Remnant
 
 ## Introduction
 
-![](assets/particle_image1.jpeg)
+![](assets/particle_image1.jpg)
 
 The **Image Grid** particle gives you the ability to quickly set up a clean, organized grid of images. This particle is perfect for image portfolios and galleries. 
 
@@ -25,7 +25,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_image2.jpeg)
+![](assets/particle_image2.jpg)
 
 | Option        | Description                                                                                 |
 | :-----        | :-----                                                                                      |
@@ -42,7 +42,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_image3.jpeg)
+![](assets/particle_image3.jpg)
 
 | Option      | Description                                                                                   |
 | :-----      | :-----                                                                                        |
