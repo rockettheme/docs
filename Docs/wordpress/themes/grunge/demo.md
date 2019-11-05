@@ -74,7 +74,6 @@ Here is a list of RocketTheme extensions used to create the demo version of Grun
 * [Gantry Theme Framework][gantry]
 * [RokCommon Library](https://rockettheme.com/wordpress/plugins/rokutilities)
 * [RokNavMenu][roknavmenu]
-* [RokBooster][rokbooster]
 * [RokCandy][rokcandy]
 
 Many of these extensions are included with the Grunge RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
