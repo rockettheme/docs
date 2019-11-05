@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-galatea/
 
 ---
 
-* Antares
+* Galatea
     * [Introduction]()
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
