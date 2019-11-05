@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/photon:Photon
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Galatea can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Photon can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Galatea Theme.
 
