@@ -240,7 +240,7 @@ Below, you will find the module settings we used in the demo:
 
 ### Newsletter (Particle)
 
-The **Newsletter** particle here was placed in the **Bottom B** widget position. The widget position is created within the layout manager by using a **Particle Position** particle. The particle is assigned `bottom-b` as a key and `gantry` as its Chrome.
+The **Newsletter** particle here was placed in the **Bottom B** module position. The module position is created within the layout manager by using a **Particle Position** particle. The particle is assigned `bottom-b` as a key and `gantry` as its Chrome.
 
 Below, you will find the particle settings we used in the demo:
 
