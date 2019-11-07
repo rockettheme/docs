@@ -1,6 +1,6 @@
 ---
 title: Supra: Full Page Scroll Atom
-description: Your Guide to Using the Supra Template for Joomla
+description: Your Guide to Using the Supra Template for Grav
 breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ---
