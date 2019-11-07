@@ -248,7 +248,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 | Item 1 Title          | `Introdocution`                                                         |
 | Item 1 Icon           | Blank                                                                   |
 | Item 1 Image          | Custom                                                                  |
-| Item 1 RokBo Image    | Blank                                                                   |
+| Item 1 Lightcase Image    | Blank                                                                   |
 | Item 1 Caption        | Blank                                                                   |
 | Item 1 Subtitle       | Blank                                                                   |
 | Item 1 Description    | Blank                                                                   |
@@ -301,7 +301,7 @@ This area of the page is an **Block Content** particle. You will find the settin
 | Item 1 Title          | `Sophisticated`                                                                            |
 | Item 1 Icon           | `fa fa-align-right`                                                                        |
 | Item 1 Image          | Custom                                                                                     |
-| Item 1 RokBo Image    | Blank                                                                                      |
+| Item 1 Lightcase Image    | Blank                                                                                      |
 | Item 1 Caption        | Blank                                                                                      |
 | Item 1 Subtitle       | Blank                                                                                      |
 | Item 1 Description    | `Dynamically procrastinate B2C users after installed base benefits.`                       |
