@@ -180,7 +180,7 @@ This area of the page features three particles: **Info List**, **Image Grid**, a
 | Item 1 Title          | `Milka`         |
 | Item 1 Icon           | Blank           |
 | Item 1 Image          | Custom          |
-| Item 1 RokBo Image    | Blank           |
+| Item 1 Lightcase Image    | Blank           |
 | Item 1 Caption        | Blank           |
 | Item 1 Subtitle       | Blank           |
 | Item 1 Description    | Blank           |
