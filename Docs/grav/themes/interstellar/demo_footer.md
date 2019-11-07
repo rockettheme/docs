@@ -1,7 +1,7 @@
 ---
 title: Interstellar: Recreating the Demo - Footer Section
-description: Your Guide to Recreating Elements of the Interstellar Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/interstellar:Interstellar
+description: Your Guide to Recreating Elements of the Interstellar Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/interstellar:Interstellar
 
 ---
 
