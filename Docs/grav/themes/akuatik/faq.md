@@ -25,4 +25,3 @@ To avoid image license copyright issues, all sample content images shown in our 
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/grav-theme-akuatik
-[roksprocket]: http://www.rockettheme.com/grav/extensions/roksprocket
