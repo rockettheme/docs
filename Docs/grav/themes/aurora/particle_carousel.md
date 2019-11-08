@@ -66,8 +66,6 @@ These items make up the individual featured items in the particle. Items in this
 | Option             | Description                                                                            |
 | :-----             | :-----                                                                                 |
 | Categories         | Select the categories of pages this particle will display.                             |
-| Pages              | Select the number of pages you would like the particle to fetch.                       |
-| Sticky Pages       | Choose to **Show** or **Hide** sticky pages.                                           |
 | Number of Pages    | Enter the maximum number of pages to display.                                          |
 | Start From         | Enter offset specifying the first page to return. The default is '0' (the first page). |
 | Order By           | Choose the type of factor to order by.                                                 |
