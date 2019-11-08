@@ -74,7 +74,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | Widget            | `Meta`         |
 | Guest Button Icon | `fa fa-unlock` |
 | Guest Text        | `Site Meta`    |
-| Guest button Icon | `fa fa-lock`   |
+| User Button Icon | `fa fa-lock`   |
 | User Text         | `Site Meta`    |
 | Button Classes    | `button-2`     |
 
