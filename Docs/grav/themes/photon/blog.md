@@ -23,7 +23,7 @@ Even though there are widget and particle sections placed in the layout, as ther
 
 ![](assets/page_blog_1.jpeg)
 
-The **Mainbar** section includes several pages assigned to the **Joomla Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **The Layout Manager allows for complex structures to be created easily** article.
+The **Mainbar** section includes several pages assigned to the **Blog** category, displayed through the **Page Content** particle. Here are the settings found in the **The Layout Manager allows for complex structures to be created easily** article.
 
 | Option     | Setting                                                                            |
 | :--------- | :--------------------------------------------------------------------------------- |
