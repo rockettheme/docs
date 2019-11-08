@@ -103,7 +103,7 @@ The **Popup Module** particle is a **Gantry 5 Particle** module placed within th
 | Module ID         | `428`                |
 | Guest Button Icon | `fa fa-unlock fa-fw` |
 | Guest Text        | `Login`              |
-| Guest button Icon | `fa fa-lock fa-fw`   |
+| User Button Icon | `fa fa-lock fa-fw`   |
 | User Text         | `Logout`             |
 | Button Classes    | `button-2`           |
 
