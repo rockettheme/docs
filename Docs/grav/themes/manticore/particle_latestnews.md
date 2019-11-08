@@ -66,9 +66,7 @@ These items make up the individual featured items in the particle. Items in this
 | Option             | Description                                                                                                |
 |:------------------ |:---------------------------------------------------------------------------------------------------------- |
 | Categories         | Select the categories of posts this particle will display.                                                 |
-| Posts              | Select the number of posts you would like the particle to fetch.                                           |
-| Sticky Posts       | Choose how Sticky Posts should be filtered. Choose between **Include**, **Exclude**, or **Only Featured**. |
-| Number of Posts    | Enter the maximum number of posts to display.                                                              |
+| Number of Pages    | Enter the number of pages that you would like the particle to fetch.                                       |
 | Start From         | Enter offset specifying the first post to return. The default is '0' (the first post).               |
 | Order By           | Choose the type of factor to order by.                                                                     |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.                            |
