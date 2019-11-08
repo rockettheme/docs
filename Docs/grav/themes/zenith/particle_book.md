@@ -62,9 +62,7 @@ These options are only useful if you select **Grav** as the **Content Source**.
 | Option             | Description                                                                         |
 | :-----             | :-----                                                                              |
 | Categories         | Enter the categorie(s) you would like to appear in the particle.                    |
-| Posts              | Select the number of posts you would like the particle to fetch.                    |
-| Sticky Posts       | Choose whether to **Hide** or **Show** Sticky Posts.                                |
-| Number of Posts    | Set the number of posts to appear as items in the particle.                         |
+| Number of Pages    | Select the number of pages you would like the particle to fetch.                    |
 | Start From         | Set a starting count for the first item.                                            |
 | Order by           | Choose how posts are ordered. You can set it to everything from Publish Date to ID. |
 | Ordering Direction | Set **Ascending** or **Descending** ordering.                                       |
