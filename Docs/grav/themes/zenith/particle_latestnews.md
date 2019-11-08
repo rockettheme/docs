@@ -59,9 +59,7 @@ These items make up the individual featured items in the particle. Items in this
 | Option             | Description                                                                               |
 | :-----             | :-----                                                                                    |
 | Categories         | Select the categories of pages this particle will display.                                |
-| Pages              | Select the number of pages you would like the particle to fetch.                          |
-| Sticky Pages       | Choose whether to **Hide** or **Show** Sticky Pages.                                      |
-| Number of Pages    | Enter the maximum number of pages to display.                                             |
+| Number of Pages    | Select the number of pages you would like the particle to fetch.                          |
 | Start From         | Enter offset specifying the first post to return. The default is '0' (the first article). |
 | Order By           | Choose the type of factor to order by.                                                    |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.              |
