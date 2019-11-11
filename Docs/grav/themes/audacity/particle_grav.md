@@ -13,7 +13,7 @@ The **Grav Content** particle (Also known as `contentarray`) gives you the abili
 
 The particle's settings panel enables you to set exactly what content appears in the particle, and how it's presented. We have provided descriptions to the available options below.
 
-![](assets/particle_grav2.png)
+![](assets/particle_grav2.jpeg)
 
 | Option             | Description                                                                                                                                 |
 | :-----             | :-----                                                                                                                                      |
@@ -26,7 +26,7 @@ The particle's settings panel enables you to set exactly what content appears in
 | CSS Classes        | Enter any CSS classes you want to apply to the particle.                                                                                    |
 | Tag Attributes     | Enables you to apply extra tag attributes to the particle.                                                                                  |
 
-![](assets/particle_grav3.png)
+![](assets/particle_grav3.jpeg)
 
 | Option       | Description                                                                                                                      |
 | :-----       | :-----                                                                                                                           |
@@ -39,7 +39,7 @@ The particle's settings panel enables you to set exactly what content appears in
 | Date         | Select which date (if any) to show in the particle. You can choose: **Hide**, **Created**, **Last Modified**, and **Published**. |
 | Date Format  | Select the format by which you want the date to appear.                                                                          |
 
-![](assets/particle_grav4.png)
+![](assets/particle_grav4.jpeg)
 
 | Option             | Description                                                        |
 | :-----             | :-----                                                             |
@@ -47,7 +47,7 @@ The particle's settings panel enables you to set exactly what content appears in
 | Read More Label    | Enter the text you want to appear as the read more link.           |
 | Button CSS Classes | Enter any CSS classes you want to apply to the read more button.   |
 
-![](assets/particle_grav5.png)
+![](assets/particle_grav5.jpeg)
 
 | Option         | Description                                                            |
 | :-----         | :-----                                                                 |
