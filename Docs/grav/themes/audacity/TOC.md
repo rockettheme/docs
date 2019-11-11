@@ -51,14 +51,8 @@ support: http://www.rockettheme.com/forum/grav-theme-audacity/
       * [Testimonial](particle_testimonial.md)
       * [Tab Image](particle_tabimage.md)
       * [Vertical Menu](particle_verticalmenu.md)
-      * 
-      * 
-      * 
-      * 
       * [Video](particle_video.md)
-      * 
       * [Showcase](particle_showcase.md)
-      * 
       * [Slideshow](particle_slideshow.md)
       * [Strips Slider](particle_stripsslider.md)
       * [Content Tabs](particle_contenttabs.md)
