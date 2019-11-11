@@ -45,9 +45,6 @@ support: http://www.rockettheme.com/forum/grav-theme-audacity/
       * [Simple Counter](particle_simplecounter.md)
       * [Slider](particle_slider.md)
       * [Social](particle_social.md)
-
-
-
       * [Testimonial](particle_testimonial.md)
       * [Tab Image](particle_tabimage.md)
       * [Vertical Menu](particle_verticalmenu.md)
