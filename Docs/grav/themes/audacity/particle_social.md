@@ -1,7 +1,7 @@
 ---
-title: Akuatik: Social Particle
-description: Your Guide to Recreating Elements of the Akuatik Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/akuatik:Akuatik
+title: Audacity: Social Particle
+description: Your Guide to Recreating Elements of the Audacity Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/audacity:Audacity
 
 ---
 
