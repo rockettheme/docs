@@ -34,8 +34,6 @@ These options affect the main area of the particle, and not the individual items
 | In Animation   | Select an animation for items to move in with.                                              |
 | Out Animation  | Select an animation for items to move out with.                                             |
 | Prev / Next    | Prev/next navigation.                                                                       |
-| Prev Text      | Text for the previous navigation.                                                           |
-| Next Text      | Text for the next navigation.                                                               |
 | Dots           | Dots-style navigation.                                                                      |
 | Loop           | **Enable** or **Disable** looping.                                                          |
 | Autoplay       | **Enable** or **Disable** autoplay.                                                         |
@@ -50,12 +48,9 @@ These items make up the individual featured items in the particle.
 
 | Option            | Description                                                                                       |
 | :-----            | :-----                                                                                            |
-| Item Name         | Enter the name you would like to assign to the item. This only appears in the back end.           |
-| Testimonial Style | Select between two different styles of testimonial display: **Standard** and **Alternative**.     |
-| Image             | Select an image to appear next to the testimony. This is generally a profile photo of its author. |
-| Content           | Enter the quote of the testimony.                                                                 |
-| Author            | The name of the author goes here.                                                                 |
-| Company           | The name of the company or author's job title goes here.                                          |
-| Link              | A link to the author's website or social media link can go here.                                  |
-
-
+| Title             | Enter the title you would like to assign to the item.                                             |
+| Description       | Enter the description for the testimonial item.                                                   |
+| Link              | Enter a link.                                                                                     |
+| Link Text         | Enter the text that you would like to act as a link.                                              |
+| Target            | Select a target for the link, you can select **Self** or **New Window**.                          |
+| Button Class      | Enter the desired button class here.                                                              |
