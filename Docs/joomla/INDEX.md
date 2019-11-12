@@ -40,9 +40,10 @@ more:
 
 * Club Templates
 
+	- [Audacity](templates/audacity)
 	- [Akuatik](templates/akuatik)
 	- [Epsilon (Gantry 5)](templates/epsilon)
-  - [Manticore](templates/manticore)
+    - [Manticore](templates/manticore)
 	- [Lexicon (Gantry 5)](templates/lexicon)
 	- [Zenith](templates/zenith)
 	- [Vermilion (Gantry 5)](templates/vermilion)
@@ -80,7 +81,7 @@ more:
 	- [Ethereal](templates/ethereal)
 	- [Callisto](templates/callisto)
 	- [Cygnet](templates/cygnet)
-	- [Audacity](templates/audacity)
+	- [Audacity (Gantry 4)](templates/g4audacity)
 	- [Sirocco](templates/sirocco)
 	- [Iridescent](templates/iridescent)
 	- [Myriad (Gantry 4)](templates/g4myriad)
