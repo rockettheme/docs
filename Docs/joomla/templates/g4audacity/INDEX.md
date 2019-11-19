@@ -1,6 +1,6 @@
 ---
-title: Audacity
-description: Your Guide to Using the Audacity Template for Joomla
+title: Audacity (Gantry 4 Edition)
+description: Your Guide to Using the Audacity (Gantry 4 Edition) Template for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/!g4audacity:Audacity
 
 ---
