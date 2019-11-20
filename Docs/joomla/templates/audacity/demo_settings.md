@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/audacity:Audacity
 Template Style Settings
 -----
 
-One of the most important aspects of any Gantry template is its ability to be easily customized using the settings presets in the Styles tab within the Gantry 5 administrator. These settings can be adjusted by navigating to **Administration -> Audacity Template**. To replicate the demo, the styling changes are being made in the **Styles** tab.
+One of the most important aspects of any Gantry template is its ability to be easily customized using the settings presets in the Styles tab within the Gantry 5 administrator. These settings can be adjusted by navigating to **Administration -> Components -> Gantry 5 Themes -> Audacity Template**. To replicate the demo, the styling changes are being made in the **Styles** tab.
 
 Most of the settings under **Styles** are adjusted automatically with the selection of a template preset. You can set presets using the **Presets** options located at the top of the **Styles** admin panel.
 
