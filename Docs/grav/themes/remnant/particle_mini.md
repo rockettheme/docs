@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/remnant:Remnant
 
 ![](assets/particle_mini1.jpg)
 
-The **Mini Player** particle enables you quickly and easily add embedded audio content to your page.
+The **Mini Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
 
