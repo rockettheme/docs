@@ -26,7 +26,7 @@ Here are the topics covered in this guide:
 | Option                  | Description                                                               |
 | :-----                  | :-----                                                                    |
 | CSS Classes             | Set the CSS class(es) you would like to have apply at the particle level. |
-| Initial Breadcrumb Text | Enter the text to appear as the initial item in the breadcrumb.           |
+| Title                   | Enter the title of your menu.                                             |
 
 ### Item Options
 
