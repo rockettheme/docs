@@ -31,7 +31,6 @@ These options affect the main area of the particle, and not the individual items
 | CSS Classes   | Enter the CSS class(es) you want to use in the content of the particle.                     |
 | Title         | Enter a title for the particle.                                                             |
 | Target        | Choose the target window you want any link(s) to go to.                                     |
-| Display       | Choose to display only icons, text, or both.                                                |
 
 
 ### Item Options
