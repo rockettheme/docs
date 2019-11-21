@@ -29,7 +29,6 @@ These options affect the main area of the particle, and not the individual items
 |:-------------- |:------------------------------------------------------------------------------- |
 | CSS Classes    | Set the CSS class(es) you would like to have apply at the particle level.       |
 | Title          | Enter the title of the particle you would like to have appear on the front end. |
-| Minimum Height | Set a minimum height for the particle. `600px` sets 600 pixels.                                                                                |
 | Animation Type | Set the type of animation that plays when tabs are switched.                    |
 
 ### Item Options
