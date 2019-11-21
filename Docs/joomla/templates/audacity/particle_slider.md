@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/audacity:Audacity
 
 ![](assets/particle_slider1.jpg)
 
-The **Slider** particle makes it easy to create smooth, modern sliders for your website. We use in Audacity's home page demo to call attention to the most important information on the site.
+The **Slider** particle makes it easy to create smooth, modern sliders for your website. We use it in Audacity's home page demo to call attention to the most important information on the site.
 
 Here are the topics covered in this guide:
 
