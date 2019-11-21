@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/protean:Protean
 
 ![](assets/particle_simple1.jpg)
 
-The **Simple Content** particle enables you quickly and easily add one or more simple blocks of content to your page.
+The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page.
 
 Here are the topics covered in this guide:
 
