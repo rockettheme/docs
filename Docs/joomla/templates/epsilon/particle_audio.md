@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/epsilon:Epsilon
 
 ## Introduction
 
-The **Audio Player** particle enables you quickly and easily add embedded audio content to your page.
+The **Audio Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
 
