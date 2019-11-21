@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/flux:Flux
 
 ![](assets/particle_simple1.jpeg)
 
-The **Simple Content** particle enables you quickly and easily add one or more simple blocks of content to your page.
+The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page.
 
 Here are the topics covered in this guide:
 
