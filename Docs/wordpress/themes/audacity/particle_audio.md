@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/audacity:Audacity
 
 ## Introduction
 
-The **Audio Player** particle enables you quickly and easily add embedded audio content to your page.
+The **Audio Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
 
