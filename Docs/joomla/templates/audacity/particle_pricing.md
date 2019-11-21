@@ -47,6 +47,7 @@ Items in this particle are the actual individual columns. Any subitems you assig
 | CSS Classes    | Enter any CSS class(es) you wish to apply to the column here.                      |
 | Plan Name      | Set a name for the column.                                                         |
 | Price          | Set a price for the product or service represented by this column.                 |
+| Decimal        | Customize the decimal.                                                             |
 | Time Period    | Enter a period for the column. This could be something like `monthly` or `weekly`. |
 | Description    | Enter a description for the product or service represented by the column.          |
 | Button Label   | Enter a button label.                                                              |
