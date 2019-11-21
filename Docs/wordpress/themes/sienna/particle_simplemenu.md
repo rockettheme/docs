@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/sienna:Sienna
 
 ![](assets/particle_simplemenu1.jpg)
 
-The **Simple Menu** particle enables you quickly and easily add one or more simple blocks of menu-style content to your page.
+The **Simple Menu** particle enables you to quickly and easily add one or more simple blocks of menu-style content to your page.
 
 Here are the topics covered in this guide:
 
