@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!themes:Themes/hadron:Hadron
 
 ![](assets/particle_slider1.png)
 
-The **Slider** particle makes it easy to create smooth, modern sliders for your website. We use in Hadron's home page demo to call attention to the most important information on the site.
+The **Slider** particle makes it easy to create smooth, modern sliders for your website. We use it in Hadron's home page demo to call attention to the most important information on the site.
 
 Here are the topics covered in this guide:
 
