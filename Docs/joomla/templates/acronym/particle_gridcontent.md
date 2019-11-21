@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/acronym:Acronym
 
 ## Introduction
 
-The **Grid Content** particle enables you quickly and easily add one or more simple blocks of content to your page.
+The **Grid Content** particle enables you to quickly and easily add one or more simple blocks of content to your page.
 
 Here are the topics covered in this guide:
 
