@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/denali:Denali
 
 ![](assets/particle_simple1.jpeg)
 
-The **Simple Content** particle enables you quickly and easily add one or more simple blocks of content to your page. The image above shows four Simple Content particles. One sitting in a row above the other three.
+The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page. The image above shows four Simple Content particles. One sitting in a row above the other three.
 
 Here are the topics covered in this guide:
 
