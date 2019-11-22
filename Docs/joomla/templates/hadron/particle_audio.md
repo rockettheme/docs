@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!themes:Themes/hadron:Hadron
 
 ![Particle](assets/particle_audio.png)
 
-The **Audio Player** particle enables you quickly and easily add embedded audio content to your page.
+The **Audio Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
 
