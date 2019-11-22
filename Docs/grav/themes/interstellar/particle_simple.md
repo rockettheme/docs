@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/interstellar:Interstellar
 
 ![](assets/particle_simple1.jpeg)
 
-The **Simple Content** particle enables you quickly and easily add one or more simple blocks of content to your page.
+The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page.
 
 In Interstellar, the **Simple Content** particle can be as simple or as complex as you need it to be, with multiple areas of support for content, titles, and more. There are even two layouts to choose from: **Standard** and **Header**. The style you see in the front end example here uses the **Header** style as it serves as the header of the demo's subpages.
 
