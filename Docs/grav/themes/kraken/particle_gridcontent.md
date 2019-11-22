@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/kraken:Kraken
 
 ![](assets/particle_gridcontent1.jpeg)
 
-The **Grid Content** particle enables you quickly and easily add one or more simple blocks of content to your page.
+The **Grid Content** particle enables you to quickly and easily add one or more simple blocks of content to your page.
 
 Here are the topics covered in this guide:
 
