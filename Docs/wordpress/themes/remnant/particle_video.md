@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/remnant:Remnant
 
 ![](assets/particle_video1.jpg)
 
-The **Video Grid** particle enables you quickly and easily add video content to your page.
+The **Video Grid** particle enables you to quickly and easily add video content to your page.
 
 Here are the topics covered in this guide:
 
