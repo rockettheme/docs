@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Templates/gemini:Gemini
 
 ## Introduction
 
-The **Video** particle enable you quickly and easily add video content to your page. This particle has support for Vimeo, YouTube, and local video sources. The main difference between them is how they display this content.
+The **Video** particle enable you to quickly and easily add video content to your page. This particle has support for Vimeo, YouTube, and local video sources. The main difference between them is how they display this content.
 
 Here are the topics covered in this guide:
 
