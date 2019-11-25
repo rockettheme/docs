@@ -13,7 +13,7 @@ support: http://www.rockettheme.com/forum/joomla-template-epsilon/
     * [Introduction](INDEX.md)
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
-    * [How to Install](../../start/templates.md#how-to-install)
+    * [How to Install](../../platform/templates.md#how-to-install)
       * [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-template)
       * [RocketLauncher](../../start/rocketlauncher.md)
     * [Recreate the Demo](demo.md)
