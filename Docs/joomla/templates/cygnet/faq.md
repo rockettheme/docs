@@ -1,7 +1,7 @@
 ---
 title: Cygnet: FAQ
 description: Your Guide to Using the Cygnet Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/cygnet:Cygnet
+breadcrumb: /joomla:Joomla/!templates:Templates/cygnet:Cygnet
 
 ---
 
