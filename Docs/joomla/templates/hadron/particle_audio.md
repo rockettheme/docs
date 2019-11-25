@@ -1,7 +1,7 @@
 ---
 title: Hadron: Audio Player Particle
 description: Your Guide to Recreating Elements of the Hadron Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/hadron:Hadron
+breadcrumb: /joomla:Joomla/!templates:Templates/hadron:Hadron
 
 ---
 
