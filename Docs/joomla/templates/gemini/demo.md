@@ -79,7 +79,7 @@ Here is a list of particles that are available in Gemini, as well as links to do
     - [Simple Counter](particle_simplecounter.md)
     - [Simple Menu](particle_simplemenu.md)
     - [Video](particle_video.md)
-* Core Particles 
+* Core Particles (Documented on [Gantry's Website](http://gantry.org)):
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
     - [To Top](http://docs.gantry.org/gantry5/particles/to-top)
@@ -91,20 +91,6 @@ Here is a list of particles that are available in Gemini, as well as links to do
     - [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     - [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     - [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
-
-Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
-
-* [Logo](http://docs.gantry.org/gantry5/particles/logo)
-* [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-* [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-* [Social](http://docs.gantry.org/gantry5/particles/social)
-* [Module Positions](http://docs.gantry.org/gantry5/particles/position)
-* [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-* [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-* [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-* [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
-* [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-* [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Extensions
 -----
