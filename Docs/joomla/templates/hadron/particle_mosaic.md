@@ -1,7 +1,7 @@
 ---
 title: Hadron: Mosaic Particle
 description: Your Guide to Using Particles in Hadron for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/hadron:Hadron
+breadcrumb: /joomla:Joomla/!templates:Templates/hadron:Hadron
 
 ---
 
