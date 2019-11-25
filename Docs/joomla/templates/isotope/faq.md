@@ -1,7 +1,7 @@
 ---
 title: Isotope: FAQ
 description: Your Guide to Using the Isotope Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/isotope:Isotope
+breadcrumb: /joomla:Joomla/!templates:Templates/isotope:Isotope
 
 ---
 
