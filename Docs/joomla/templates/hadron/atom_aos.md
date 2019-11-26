@@ -1,7 +1,7 @@
 ---
 title: Hadron: Animation on Scroll
 description: Your Guide to Using Animation on Scroll
-breadcrumb: /joomla:Joomla/!themes:Themes/Hadron:Hadron
+breadcrumb: /joomla:Joomla/!templates:Templates/Hadron:Hadron
 
 ---
 
