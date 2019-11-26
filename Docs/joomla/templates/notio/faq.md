@@ -1,7 +1,7 @@
 ---
 title: Notio: FAQ
 description: Your Guide to Using the Notio Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/notio:Notio
+breadcrumb: /joomla:Joomla/!templates:Templates/notio:Notio
 
 ---
 
