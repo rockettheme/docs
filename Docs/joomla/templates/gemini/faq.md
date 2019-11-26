@@ -1,7 +1,7 @@
 ---
 title: Gemini: FAQ
 description: Your Guide to Using the Gemini Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/gemini:Gemini
+breadcrumb: /joomla:Joomla/!templates:Templates/gemini:Gemini
 
 ---
 
