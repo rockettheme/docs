@@ -1,7 +1,7 @@
 ---
 title: Galatea: FAQ
 description: Your Guide to Using the Galatea Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/galatea:Galatea
+breadcrumb: /joomla:Joomla/!templates:Templates/galatea:Galatea
 
 ---
 
