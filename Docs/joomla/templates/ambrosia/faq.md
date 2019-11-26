@@ -1,7 +1,7 @@
 ---
 title: Ambrosia: FAQ
 description: Your Guide to Using the Ambrosia Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/ambrosia:Ambrosia
+breadcrumb: /joomla:Joomla/!templates:Templates/ambrosia:Ambrosia
 
 ---
 
