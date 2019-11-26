@@ -1,7 +1,7 @@
 ---
 title: Kraken: FAQ
 description: Your Guide to Using the Kraken Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/kraken:Kraken
+breadcrumb: /joomla:Joomla/!templates:Templates/kraken:Kraken
 
 ---
 
