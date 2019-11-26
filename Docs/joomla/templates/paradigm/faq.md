@@ -1,7 +1,7 @@
 ---
 title: Paradigm: FAQ
 description: Your Guide to Using the Paradigm Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/paradigm:Paradigm
+breadcrumb: /joomla:Joomla/!templates:Templates/paradigm:Paradigm
 
 ---
 
