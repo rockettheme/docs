@@ -1,7 +1,7 @@
 ---
 title: Hadron: FAQ
 description: Your Guide to Using the Hadron Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/hadron:Hadron
+breadcrumb: /joomla:Joomla/!templates:Templates/hadron:Hadron
 
 ---
 
