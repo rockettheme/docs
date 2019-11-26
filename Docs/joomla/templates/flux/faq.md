@@ -1,7 +1,7 @@
 ---
 title: Flux: FAQ
 description: Your Guide to Using the Flux Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/flux:Flux
+breadcrumb: /joomla:Joomla/!templates:Templates/flux:Flux
 
 ---
 
