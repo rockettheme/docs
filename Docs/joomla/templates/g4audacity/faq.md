@@ -1,7 +1,7 @@
 ---
 title: Audacity: FAQ
 description: Your Guide to Using the Audacity Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/audacity:Audacity
+breadcrumb: /joomla:Joomla/!templates:Templates/audacity:Audacity
 
 ---
 
