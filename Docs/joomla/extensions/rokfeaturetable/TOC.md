@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokfeaturetable:RokFeatureTable
+breadcrumb: /joomla:Joomla/plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
 details: http://www.rockettheme.com/joomla/extensions/rokfeaturetable
 demo: http://demo.rockettheme.com/joomla-extensions/rokfeaturetable/
