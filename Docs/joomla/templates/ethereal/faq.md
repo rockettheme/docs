@@ -1,7 +1,7 @@
 ---
 title: Ethereal: FAQ
 description: Your Guide to Using the Ethereal Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/ethereal:Ethereal
+breadcrumb: /joomla:Joomla/!templates:Templates/ethereal:Ethereal
 
 ---
 
