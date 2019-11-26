@@ -1,7 +1,7 @@
 ---
 title: Calla: CSS Classes
 description: Your Guide to Using the Calla Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/calla:Calla
+breadcrumb: /joomla:Joomla/!templates:Templates/calla:Calla
 
 ---
 
