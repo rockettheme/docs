@@ -1,7 +1,7 @@
 ---
 title: Protean: FAQ
 description: Your Guide to Using the Protean Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/protean:Protean
+breadcrumb: /joomla:Joomla/!templates:Templates/protean:Protean
 
 ---
 
