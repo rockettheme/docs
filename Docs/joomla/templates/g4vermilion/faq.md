@@ -1,7 +1,7 @@
 ---
 title: Vermilion: FAQ
 description: Your Guide to Using the Vermilion Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/vermilion:Vermilion
+breadcrumb: /joomla:Joomla/!templates:Templates/vermilion:Vermilion
 
 ---
 
