@@ -1,7 +1,7 @@
 ---
 title: Requiem: FAQ
 description: Your Guide to Using the Requiem Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/requiem:Requiem
+breadcrumb: /joomla:Joomla/!templates:Templates/requiem:Requiem
 
 ---
 
