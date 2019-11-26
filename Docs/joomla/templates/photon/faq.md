@@ -1,7 +1,7 @@
 ---
 title: Photon: FAQ
 description: Your Guide to Using the Photon Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/photon:Photon
+breadcrumb: /joomla:Joomla/!templates:Templates/photon:Photon
 
 ---
 
