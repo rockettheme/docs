@@ -1,7 +1,7 @@
 ---
 title: Iridescent: FAQ
 description: Your Guide to Using the Iridescent Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/iridescent:Iridescent
+breadcrumb: /joomla:Joomla/!templates:Templates/iridescent:Iridescent
 
 ---
 
