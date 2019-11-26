@@ -1,7 +1,7 @@
 ---
 title: Plethora: FAQ
 description: Your Guide to Using the Plethora Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/plethora:Plethora
+breadcrumb: /joomla:Joomla/!templates:Templates/plethora:Plethora
 
 ---
 
