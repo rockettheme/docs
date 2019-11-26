@@ -63,7 +63,7 @@ Here is a list of particles that are available in Acronym, as well as links to d
     - [Block Content](particle_block.md)
     - [Content Tabs](particle_tabs.md)
     - [Newsletter](particle_newsletter.md)
-    - [WordPress Postsd](particle_wordpress.md)
+    - [Joomla Articles](particle_joomla.md)
     - [Image Grid](particle_image.md)
     - [Info List](particle_info.md)
     - [Header Tabs](particle_headertabs.md)
