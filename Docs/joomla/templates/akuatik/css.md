@@ -1,7 +1,7 @@
 ---
 title: Akuatik: CSS Classes
 description: Your Guide to Using the Akuatik Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/akuatik:Akuatik
+breadcrumb: /joomla:Joomla/!templates:Templates/akuatik:Akuatik
 
 ---
 
