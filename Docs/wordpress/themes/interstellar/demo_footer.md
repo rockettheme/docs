@@ -1,7 +1,7 @@
 ---
 title: Interstellar: Recreating the Demo - Footer Section
-description: Your Guide to Recreating Elements of the Interstellar Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/interstellar:Interstellar
+description: Your Guide to Recreating Elements of the Interstellar Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/interstellar:Interstellar
 
 ---
 
@@ -16,7 +16,7 @@ The **Footer** section includes two particles: **Custom HTML** and **Newsletter*
 
 ![](assets/home_footer.jpeg)
 
-Here is a breakdown of the module(s) and particle(s) that appear in this section:
+Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
 * [Custom HTML (particle)](#custom-html-(particle))
 * [Newsletter (particle)](#newsletter-(particle))
