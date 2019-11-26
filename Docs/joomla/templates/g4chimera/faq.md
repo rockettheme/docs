@@ -1,7 +1,7 @@
 ---
 title: Chimera: FAQ
 description: Your Guide to Using the Chimera Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/chimera:Chimera
+breadcrumb: /joomla:Joomla/!templates:Templates/chimera:Chimera
 
 ---
 
