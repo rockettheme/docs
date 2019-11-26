@@ -1,7 +1,7 @@
 ---
 title: Xenon: FAQ
 description: Your Guide to Using the Xenon Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/xenon:Xenon
+breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
 
 ---
 
