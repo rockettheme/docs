@@ -23,7 +23,6 @@ support: http://www.rockettheme.com/forum/joomla-template-syndicate
         * [Module Settings](demo.md#module-settings)
             * [RokAjaxSearch](demo_module_1.md)
             * [Weekly Forecast](demo_module_2.md)
-            * [FP RokStock](demo_module_3.md)
             * [FP Content Top A Banners](demo_module_4.md)
             * [Contact us](demo_module_5.md)
             * [Demo Inforamtion](demo_module_6.md)
