@@ -1,7 +1,7 @@
 ---
 title: Reiko: FAQ
 description: Your Guide to Using the Reiko Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/reiko:Reiko
+breadcrumb: /joomla:Joomla/!templates:Templates/reiko:Reiko
 
 ---
 
