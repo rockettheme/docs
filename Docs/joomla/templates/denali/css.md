@@ -1,7 +1,7 @@
 ---
 title: Denali: CSS Classes
 description: Your Guide to Using the Denali Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/denali:Denali
+breadcrumb: /joomla:Joomla/!templates:Templates/denali:Denali
 
 ---
 
