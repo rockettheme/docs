@@ -1,7 +1,7 @@
 ---
 title: Lexicon: FAQ
 description: Your Guide to Using the Lexicon Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/lexicon:Lexicon
+breadcrumb: /joomla:Joomla/!templates:Templates/lexicon:Lexicon
 
 ---
 
