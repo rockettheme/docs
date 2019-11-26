@@ -1,7 +1,7 @@
 ---
 title: Nuance: FAQ
 description: Your Guide to Using the Nuance Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/nuance:Nuance
+breadcrumb: /joomla:Joomla/!templates:Templates/nuance:Nuance
 
 ---
 
