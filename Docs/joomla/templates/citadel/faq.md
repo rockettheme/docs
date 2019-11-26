@@ -1,7 +1,7 @@
 ---
 title: Citadel: FAQ
 description: Your Guide to Using the Citadel Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/citadel:Citadel
+breadcrumb: /joomla:Joomla/!templates:Templates/citadel:Citadel
 
 ---
 
