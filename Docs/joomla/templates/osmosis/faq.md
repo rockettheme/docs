@@ -1,7 +1,7 @@
 ---
 title: Osmosis: FAQ
 description: Your Guide to Using the Osmosis Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/osmosis:Osmosis
+breadcrumb: /joomla:Joomla/!templates:Templates/osmosis:Osmosis
 
 ---
 
