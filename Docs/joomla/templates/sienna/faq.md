@@ -1,7 +1,7 @@
 ---
 title: Sienna: FAQ
 description: Your Guide to Using the Sienna Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/sienna:Sienna
+breadcrumb: /joomla:Joomla/!templates:Templates/sienna:Sienna
 
 ---
 
