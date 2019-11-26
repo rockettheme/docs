@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/plugins:Plugins/!rokstock:RokStock
+breadcrumb: /joomla:Joomla/plugins:Plugins/!rokstock:RokStock
 
 details: http://www.rockettheme.com/joomla/extensions/roklegacy
 download: http://www.rockettheme.com/joomla/extensions/roklegacy/modal/downloads
