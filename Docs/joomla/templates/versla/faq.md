@@ -1,7 +1,7 @@
 ---
 title: Versla: FAQ
 description: Your Guide to Using the Versla Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/versla:Versla
+breadcrumb: /joomla:Joomla/!templates:Templates/versla:Versla
 
 ---
 
