@@ -1,7 +1,7 @@
 ---
 title: Salient: FAQ
 description: Your Guide to Using the Salient Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/salient:Salient
+breadcrumb: /joomla:Joomla/!templates:Templates/salient:Salient
 
 ---
 
