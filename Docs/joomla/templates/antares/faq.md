@@ -1,7 +1,7 @@
 ---
 title: Antares: FAQ
 description: Your Guide to Using the Antares Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/antares:Antares
+breadcrumb: /joomla:Joomla/!templates:Templates/antares:Antares
 
 ---
 
