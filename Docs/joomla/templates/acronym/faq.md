@@ -1,7 +1,7 @@
 ---
 title: Acronym: FAQ
 description: Your Guide to Using the Acronym Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/acronym:Acronym
+breadcrumb: /joomla:Joomla/!templates:Templates/acronym:Acronym
 
 ---
 
