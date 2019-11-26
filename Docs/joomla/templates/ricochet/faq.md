@@ -1,7 +1,7 @@
 ---
 title: Ricochet: FAQ
 description: Your Guide to Using the Ricochet Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/ricochet:Ricochet
+breadcrumb: /joomla:Joomla/!templates:Templates/ricochet:Ricochet
 
 ---
 
