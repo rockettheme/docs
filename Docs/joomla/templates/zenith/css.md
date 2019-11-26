@@ -1,7 +1,7 @@
 ---
 title: Zenith: CSS Classes
 description: Your Guide to Using the Zenith Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/zenith:Zenith
+breadcrumb: /joomla:Joomla/!templates:Templates/zenith:Zenith
 
 ---
 
