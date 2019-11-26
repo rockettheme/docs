@@ -1,7 +1,7 @@
 ---
 title: Aurora: FAQ
 description: Your Guide to Using the Aurora Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/aurora:Aurora
+breadcrumb: /joomla:Joomla/!templates:Templates/aurora:Aurora
 
 ---
 
