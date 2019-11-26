@@ -1,7 +1,7 @@
 ---
 title: Topaz: FAQ
 description: Your Guide to Using the Topaz Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/topaz:Topaz
+breadcrumb: /joomla:Joomla/!templates:Templates/topaz:Topaz
 
 ---
 
