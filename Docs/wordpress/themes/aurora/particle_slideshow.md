@@ -1,7 +1,7 @@
 ---
 title: Aurora: Slideshow Particle
 description: Your Guide to Recreating Elements of the Aurora Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/aurora:Aurora
+breadcrumb: /wordpress:WordPress/!themes:Themes/aurora:Aurora
 
 ---
 
