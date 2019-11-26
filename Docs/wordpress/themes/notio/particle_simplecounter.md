@@ -1,7 +1,7 @@
 ---
 title: Notio: Simple Counter Particle
 description: Your Guide to Recreating Elements of the Notio Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/notio:Notio
+breadcrumb: /wordpress:WordPress/!themes:Themes/notio:Notio
 
 ---
 
