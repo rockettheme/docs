@@ -1,7 +1,7 @@
 ---
 title: Manticore: FAQ
 description: Your Guide to Using the Manticore Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/manticore:Manticore
+breadcrumb: /joomla:Joomla/!templates:Templates/manticore:Manticore
 
 ---
 
