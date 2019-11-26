@@ -1,7 +1,7 @@
 ---
 title: Fluent: FAQ
 description: Your Guide to Using the Fluent Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/fluent:Fluent
+breadcrumb: /joomla:Joomla/!templates:Templates/fluent:Fluent
 
 ---
 
