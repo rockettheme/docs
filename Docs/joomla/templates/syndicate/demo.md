@@ -29,7 +29,6 @@ Below, you will find the module placement and settings for the various module po
 
 :   1. **RokAjaxSearch**  [10%, 85%, sw]
     2. **Weekly Forecast** [22%, 85%, sw]
-    3. **FP RokStock** [29%, 85%, sw]
     4. **FP Content Top A Banners** [49%, 14%, se]
     5. **Contact Us**  [53%, 50%, se]
     6. **Demo Information** [62%, 50%, se]
@@ -44,7 +43,6 @@ We have detailed how to recreate the individual modules pictured above in the li
 
 1. [RokAjaxSearch][module1]
 2. [Weekly Forecast][module2]
-3. [FP RokStock][module3]
 4. [FP Content Top A Banners][module4]
 5. [Contact Us][module5]
 6. [Demo Information][module6]
