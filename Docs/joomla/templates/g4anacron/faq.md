@@ -1,7 +1,7 @@
 ---
 title: Anacron: FAQ
 description: Your Guide to Using the Anacron Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/Anacron:Anacron
+breadcrumb: /joomla:Joomla/!templates:Templates/Anacron:Anacron
 
 ---
 
