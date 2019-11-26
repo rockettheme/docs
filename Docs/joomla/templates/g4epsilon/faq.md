@@ -1,7 +1,7 @@
 ---
 title: Epsilon: FAQ
 description: Your Guide to Using the Epsilon Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/epsilon:Epsilon
+breadcrumb: /joomla:Joomla/!templates:Templates/epsilon:Epsilon
 
 ---
 
