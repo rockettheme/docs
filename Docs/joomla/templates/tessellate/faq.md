@@ -1,7 +1,7 @@
 ---
 title: Tessellate: FAQ
 description: Your Guide to Using the Tessellate Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/tessellate:Tessellate
+breadcrumb: /joomla:Joomla/!templates:Templates/tessellate:Tessellate
 
 ---
 
