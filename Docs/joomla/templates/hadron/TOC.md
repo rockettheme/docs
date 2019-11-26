@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!themes:Themes/!hadron:Hadron
+breadcrumb: /joomla:Joomla/!templates:Templates/!hadron:Hadron
 
-details: http://www.rockettheme.com/joomla/themes/hadron/
-demo: http://demo.rockettheme.com/joomla-themes/hadron/
-download: http://www.rockettheme.com/joomla/themes/hadron/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-theme-hadron/
+details: http://www.rockettheme.com/joomla/templates/hadron/
+demo: http://demo.rockettheme.com/joomla-templates/hadron/
+download: http://www.rockettheme.com/joomla/templates/hadron/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-hadron/
 
 ---
 
