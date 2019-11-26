@@ -1,7 +1,7 @@
 ---
 title: Interstellar: Recreating the Demo - Header Section
-description: Your Guide to Recreating Elements of the Interstellar Demo for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/interstellar:Interstellar
+description: Your Guide to Recreating Elements of the Interstellar Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/interstellar:Interstellar
 
 ---
 
@@ -16,7 +16,7 @@ The **Header** section includes two **Custom HTML** particles.
 
 ![](assets/home_header.jpeg)
 
-Here is a breakdown of the module(s) and particle(s) that appear in this section:
+Here is a breakdown of the widget(s) and particle(s) that appear in this section:
 
 * [Custom HTML (particle)](#custom-html-(particle))
 * [Custom HTML (particle)](#custom-html-(particle)-2)
