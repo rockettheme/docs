@@ -1,7 +1,7 @@
 ---
 title: Supra: Image Grid Particle
 description: Your Guide to Recreating Elements of the Supra Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/supra:Supra
+breadcrumb: /wordpress:WordPress/!themes:Themes/supra:Supra
 
 ---
 
