@@ -1,7 +1,7 @@
 ---
 title: Koleti: CSS Classes
 description: Your Guide to Using the Koleti Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/koleti:Koleti
+breadcrumb: /joomla:Joomla/!templates/Templates/koleti:Koleti
 
 ---
 
