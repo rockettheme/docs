@@ -1,7 +1,7 @@
 ---
 title: Supra: CSS Classes
 description: Your Guide to Using the Supra Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/supra:Supra
+breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
 
 ---
 
