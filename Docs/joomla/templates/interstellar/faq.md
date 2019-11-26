@@ -1,7 +1,7 @@
 ---
 title: Interstellar: FAQ
 description: Your Guide to Using the Interstellar Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/interstellar:Interstellar
+breadcrumb: /joomla:Joomla/!templates:Templates/interstellar:Interstellar
 
 ---
 
