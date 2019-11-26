@@ -1,7 +1,7 @@
 ---
 title: Sirocco: FAQ
 description: Your Guide to Using the Sirocco Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/sirocco:Sirocco
+breadcrumb: /joomla:Joomla/!templates:Templates/sirocco:Sirocco
 
 ---
 
