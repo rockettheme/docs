@@ -1,7 +1,7 @@
 ---
 title: Remnant: FAQ
 description: Your Guide to Using the Remnant Template for Joomla
-breadcrumb: /joomla:Joomla/!themes:Themes/remnant:Remnant
+breadcrumb: /joomla:Joomla/!templates:Templates/remnant:Remnant
 
 ---
 
