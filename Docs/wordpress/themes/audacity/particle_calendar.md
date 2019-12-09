@@ -7,7 +7,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/audacity:Audacity
 
 ## Introduction
 
-The **Calendar** particle handled displaying dated events on your website. From activity calendars to test times, this particle is a powerful way to keep your visitors in the know.
+The **Calendar** particle handles displaying dated events on your website. From activity calendars to test times, this particle is a powerful way to keep your visitors in the know.
 
 Here are the topics covered in this guide:
 
