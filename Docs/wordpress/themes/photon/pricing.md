@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/photon:Photon
 
 The **Pricing** example page demonstrates how you can create a beautiful page with the Photon theme. Here is some information to help you replicate this page as it appears in the demo.
 
-## Modules and Particles
+## Widgets and Particles
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 

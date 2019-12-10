@@ -20,7 +20,7 @@ First, you will need to create the RokSprocket Widget. You can do this by naviga
 
 You can find out more about RokSprocket and how to set up and modify widgets by visiting our [RokSprocket documentation](../../plugins/roksprocket).
 
->> NOTE: If you are using the the RocketLauncher, there are some special instructions concerning the handling of the preset images for this module. If you notice your images aren't changing as expected, or if you would like more information on how this was set up, you can find it [here](demo.md#roksprocket-and-rocketlauncher-settings).
+>> NOTE: If you are using the the RocketLauncher, there are some special instructions concerning the handling of the preset images for this widget. If you notice your images aren't changing as expected, or if you would like more information on how this was set up, you can find it [here](demo.md#roksprocket-and-rocketlauncher-settings).
 
 ##### Simple Provider
 

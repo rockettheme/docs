@@ -16,10 +16,10 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Module and Particle Settings
+Widget and Particle Settings
 -----
 
-Below, you will find the module placement and settings for the various module positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
 ![](assets/citadel2.jpeg)
 
@@ -70,7 +70,7 @@ Here is a list of particles that are available in Citadel, as well as links to d
     * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
     * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
     * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    * [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+    * [Widget Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 

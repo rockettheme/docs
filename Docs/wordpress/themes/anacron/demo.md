@@ -64,7 +64,7 @@ Many of these plugins are included with the Anacron RocketLauncher, and can be d
 Recreating the Front Page
 -----
 
-The front page of the Anacron demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Anacron demo.
+The front page of the Anacron demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Anacron demo.
 
 Home Page Layout Presets
 -----

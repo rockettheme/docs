@@ -1,6 +1,6 @@
 ---
 title: Supra: Front Page Layout
-description: Your Guide to Module Positions in the Supra Theme for WordPress
+description: Your Guide to Widget Positions in the Supra Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/supra:Supra
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gemini: Front Page Layout
-description: Your Guide to Module Positions in the Gemini Template for WordPress
+description: Your Guide to Widget Positions in the Gemini Template for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Templates/gemini:Gemini
 
 ---

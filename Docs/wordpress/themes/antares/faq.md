@@ -8,12 +8,12 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 Is There a Way to Use a Normal Menu on the Front Page?
 ----
 
-Absolutely! Just use a **Menu** particle or module in place of the Overlay Toggle particle in the Navigation section.
+Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggle particle in the Navigation section.
 
 What is RokSprocket?
 -----
 
-[RokSprocket][roksprocket] is a powerful content display extension for WordPress 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any module in the RT arsenal that manipulates and displays posts.
+[RokSprocket][roksprocket] is a powerful content display extension for WordPress 3.x. It was designed as the successor to our legacy content extensions: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts.
 
 What is Gantry?
 -----

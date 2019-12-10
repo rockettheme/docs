@@ -31,7 +31,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 The **Pricing Table** particle is a **Gantry 5 Particle** widget placed within the **feature-a** widget position. Adding a particle to a widget position can be done by creating a **Gantry 5 Particle** widget, adding the particle using the settings found in the section below, and assigning it to the position.
 
-### Module Position Particle Settings
+### Widget Position Particle Settings
 
 #### Particle Settings
 

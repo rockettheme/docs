@@ -15,7 +15,7 @@ SideSlider Section
     3. **SideSlider - RokSprocket (Tabs)** [26%, 21%, se]
     4. **Text** [51%, 21%, se]
 
-The **SideSlider** module position enables you to add modules to the page that get out of the way of the content, but are available to visitors with a simple click. We used four modules in our demo, all of which are listed below along with their details.
+The **SideSlider** widget position enables you to add widgets to the page that get out of the way of the content, but are available to visitors with a simple click. We used four widgets in our demo, all of which are listed below along with their details.
 
 1. [Search](demo_sideslider.md#search)
 2. [Menu](demo_sideslider.md#menu)

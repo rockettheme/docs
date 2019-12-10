@@ -304,7 +304,7 @@ The **Text** widget here was placed in the **Bottom A** widget position. The wid
 
 Below, you will find the widget settings we used in the demo:
 
-### Module Settings
+### Widget Settings
 
 | Field                        | Setting                                                                                                                                |
 | :-----                       | :-----                                                                                                                                 |
@@ -338,7 +338,7 @@ The **Text** widget here was placed in the **Bottom C** widget position. The wid
 
 Below, you will find the widget settings we used in the demo:
 
-### Module Settings
+### Widget Settings
 
 | Field                        | Setting          |
 | :-----                       | :-----           |

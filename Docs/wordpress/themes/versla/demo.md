@@ -67,7 +67,7 @@ Here is a list of particles that are available in Versla, as well as links to do
     * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
     * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
     * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    * [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+    * [Widget Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
@@ -84,7 +84,7 @@ Many of these plugins are included with the Versla RocketLauncher, and can be do
 Recreating the Front Page
 -----
 
-The front page of the Versla demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Versla demo.
+The front page of the Versla demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Versla demo.
 
 Home Page Layout Presets
 -----

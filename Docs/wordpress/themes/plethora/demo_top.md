@@ -21,7 +21,7 @@ Here is the widget breakdown for the Top section:
 * Gantry Divider
 * Gantry Social Buttons
 
-The **Gantry Breadcrumbs** module is invisible on the front page because that is considered home. However, as you navigate around the demo site, you will see the breadcrumbs appear. The **Top** module position is set in the default widget settings so it remains consistent throughout the site.
+The **Gantry Breadcrumbs** widget is invisible on the front page because that is considered home. However, as you navigate around the demo site, you will see the breadcrumbs appear. The **Top** widget position is set in the default widget settings so it remains consistent throughout the site.
 
 #### Gantry Breadcrumbs
 
