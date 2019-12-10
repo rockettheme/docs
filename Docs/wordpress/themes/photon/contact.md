@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/photon:Photon
 
 The **Contact** example page demonstrates how you can create a beautiful page with the Photon theme. Here is some information to help you replicate this page as it appears in the demo.
 
-## Modules and Particles
+## Widgets and Particles
 
 Below is a brief rundown of the widgets and particles used to make up the demo page.
 
@@ -131,7 +131,7 @@ This area of the page is a **Custom HTML** particle and a **Custom HTML** widget
 | Fixed Size     | Unchecked      |
 | Block Size     | `100%`         |
 
-## Custom HTML (Module)
+## Custom HTML (Widget)
 
 The **Custom HTML** widget was assigned to the **aside-a** widget position, placed in the **Aside** section. Here is the content body of the **Custom HTML** widget.
 

@@ -1,6 +1,6 @@
 ---
 title: Antares: Sample Page Layout
-description: Your Guide to Module and Particle Positions in the Antares Theme for WordPress
+description: Your Guide to Widget and Particle Positions in the Antares Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 
 ---

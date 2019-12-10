@@ -1,6 +1,6 @@
 ---
 title: Photon: Sample Page Layout
-description: Your Guide to Module and Particle Positions in the Photon Theme for WordPress
+description: Your Guide to Widget and Particle Positions in the Photon Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/photon:Photon
 
 ---

@@ -50,7 +50,7 @@ Here is a breakdown of the settings you can configure in this particle:
 | Second Text  | Sets the text that appears describing a single second                                                                                             |
 | Seconds Text | Sets the text that appears describing multiple seconds                                                                                            |
 
-Once you have configured your countdown timer, everything else on the page is pretty straightforward. Arrange modules and/or particles as you see fit. You will also want to configure your WordPress permissions settings to ensure that only logged-in folks have access to the rest of the site.
+Once you have configured your countdown timer, everything else on the page is pretty straightforward. Arrange widgets and/or particles as you see fit. You will also want to configure your WordPress permissions settings to ensure that only logged-in folks have access to the rest of the site.
 
 ## Assign the Coming Soon Outline to Your Desired Pages
 

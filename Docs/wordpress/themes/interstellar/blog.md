@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/interstellar:Interstellar
 
 The **Blog** example page demonstrates how you can create a beautiful page with the Photon theme. Here is some information to help you replicate this page as it appears in the demo.
 
-# Modules and Particles
+# Widgets and Particles
 
 ![](assets/page_blog.jpeg)
 

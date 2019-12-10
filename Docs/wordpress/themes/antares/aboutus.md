@@ -9,9 +9,9 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 
 The **About Us** example page demonstrates how you can create a beautiful page with the Antares theme. Here is some information to help you replicate this page as it appears in the demo.
 
-## Modules and Particles
+## Widgets and Particles
 
-Below is a brief rundown of the modules and particles used to make up the demo page.
+Below is a brief rundown of the widgets and particles used to make up the demo page.
 
 ![](assets/page_aboutus.png)
 
@@ -251,7 +251,7 @@ The **Text** widget here was placed in the **Bottom A** widget position. The wid
 
 Below, you will find the widget settings we used in the demo:
 
-### Module Settings
+### Widget Settings
 
 | Field                        | Setting                                                                                                                                |
 | :-----                       | :-----                                                                                                                                 |
@@ -285,7 +285,7 @@ The **Text** widget here was placed in the **Bottom C** widget position. The wid
 
 Below, you will find the widget settings we used in the demo:
 
-### Module Settings
+### Widget Settings
 
 | Field                        | Setting          |
 | :-----                       | :-----           |
