@@ -44,7 +44,7 @@ Key Features
 * Menu
 * Mobile Menu
 * Newsletter
-* Popup Module
+* Popup Widget
 * Pricing Table
 * Search
 * Showcase Slider
@@ -61,7 +61,7 @@ Key Features
 * 5 Preset Styles
 * Custom Typography
 * Unlimited Positions
-* Popup Particle
+* Popup Widget
 * Custom Particles
 * Mobile Menu
 * Coming Soon Page

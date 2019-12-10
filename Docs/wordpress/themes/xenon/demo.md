@@ -27,7 +27,7 @@ Below, you will find the widget placement and settings for the various widget po
     2. **Top** Overlay Toggle (Particle) [1%, 62%, se]
     3. **Top** Social (Particle) [1%, 85%, se]
     4. **Navigation** Menu (Particle) [3%, 7%, se]
-    5. **Navigation** Popup Module (Particle) [3%, 85% se]
+    5. **Navigation** Popup Widget (Particle) [3%, 85% se]
     6. **Header** FlexSlider (Particle) [7%, 25%, se]
     7. **Above** News Ticker (Particle) [13%, 7%, se]
     8. **Showcase** Popup Grid (Particle) [15%, 7%, se]

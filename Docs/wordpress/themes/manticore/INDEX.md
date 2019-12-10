@@ -47,7 +47,7 @@ Key Features
 * Mobile Menu
 * Newsletter
 * Particles
-* Popup Module
+* Popup Widget
 * Pricing Table
 * Promo
 * Recent Reviews
@@ -71,7 +71,7 @@ Key Features
 * Block Variations
 * Custom Typography
 * Unlimited Positions
-* Popup Module
+* Popup Widget
 * Custom Particles
 * Social Icons
 * Mobile Menu

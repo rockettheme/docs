@@ -31,7 +31,7 @@ Key Features
 * Block Variations
 * Custom Typography
 * Unlimited Positions
-* Popup Module
+* Popup Widget
 * Custom Particles
 * Social Icons
 * Mobile Menu
