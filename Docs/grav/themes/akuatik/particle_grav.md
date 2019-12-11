@@ -7,8 +7,6 @@ breadcrumb: /grav:Grav/!themes:Themes/akuatik:Akuatik
 
 ## Introduction
 
-![](assets/particle_grav1.jpeg)
-
 The **Grav Content** particle (Also known as `contentarray`) gives you the ability to directly list and pull in Grav posts directly from the CMS and present them in a clean, organized way. It's important to note this does not take the place of the **Page Content** particle which essentially displays any article content assigned to the page. This is a controlled, organized particle perfect for showcasing content.
 
 ### Main Options 
