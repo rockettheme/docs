@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-zenith/
         + [Heading](particle_heading.md)
         + [Image Grid](particle_image.md)
         + [Newsletter](particle_newsletter.md)
+        + [Simple Content](particle_simple.md)         
         + [Simple Counter](particle_simplecounter.md)
         + [Search](particle_search.md)
         + [Video](particle_video.md)
