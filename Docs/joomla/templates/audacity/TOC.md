@@ -50,7 +50,6 @@ support: http://www.rockettheme.com/forum/joomla-template-audacity/
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)
       * [Showcase](particle_showcase.md)
-      * [Slideshow](particle_slideshow.md)
       * [Strips Slider](particle_stripsslider.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)

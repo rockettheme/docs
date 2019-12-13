@@ -50,7 +50,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-audacity/
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)
       * [Showcase](particle_showcase.md)
-      * [Slideshow](particle_slideshow.md)
       * [Strips Slider](particle_stripsslider.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
