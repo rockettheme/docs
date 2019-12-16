@@ -7,7 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/lexicon:Lexicon
 
 ## Introduction
 
-![Calendar](assets/particle_calendar1.png)
 
 The **Calendar** particle handles displaying dated events on your website. From activity calendars to test times, this particle is a powerful way to keep your visitors in the know.
 
