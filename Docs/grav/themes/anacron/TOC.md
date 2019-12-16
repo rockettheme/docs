@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/grav-theme-anacron/
         - [Content Tabs](particle_contenttabs.md)
         - [Grav Content](particle_grav.md)
         - [Image Grid](particle_image.md)
-        - [Info List](particle.info.md)
+        - [Info List](particle_info.md)
         - [Lists](particle_lists.md)
         - [Mosaic](particle_mosaic.md)
         - [Newsletter](particle_newsletter.md)

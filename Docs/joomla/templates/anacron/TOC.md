@@ -26,7 +26,7 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
         - [Content Tabs](particle_contenttabs.md)        
         - [Joomla Articles](particle_joomla.md)
         - [Image Grid](particle_image.md)
-        - [Info List](particle.info.md)
+        - [Info List](particle_info.md)
         - [Lists](particle_lists.md)
         - [Mosaic](particle_mosaic.md)
         - [Newsletter](particle_newsletter.md)
