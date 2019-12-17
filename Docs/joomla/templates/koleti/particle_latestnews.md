@@ -49,7 +49,7 @@ These items make up the individual featured items in the particle. Items in this
 | Option      | Description                                                                              |
 | :-----      | :-----                                                                                   |
 | Item Name   | This is the name of the item. This appears as the item's title on the front end.         |
-| Layout      | Choose between **Photo**, **Photo Large**, and **Text** as the layout type for the item. |
+| Layout      | Choose between **Photo**, **Quote**, and **Text** as the layout type for the item. |
 | Image       | Set an image to appear in the item.                                                      |
 | Description | Enter a text description for the item.                                                   |
 | URL         | Enter a URL you would like the item to link to.                                          |
