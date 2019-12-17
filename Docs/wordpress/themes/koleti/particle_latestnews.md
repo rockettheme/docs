@@ -30,13 +30,10 @@ These options affect the main area of the particle, and not the individual items
 | Option            | Description                                                                                         |
 | :-----            | :-----                                                                                              |
 | Particle Name     | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Content Source    | Choose between **Particle** and **WordPress** as the Content Source.                                |
-| Margin Top Value  | Set the value for the margin-top for the particle's content. (example: `-7rem`)                     |
-| CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                                     |
-| Title             | Set a title for the particle.                                                                       |
-| Upper Title       | Set an upper title that appears over the main title.                                                |
-| "All Items" Label | Enter a label for all items.                                                                        |
-| Grid Column       | Set the number of columns items appear in.                                                          |
+| Content Source    | Choose between **Particle** and **Joomla** as the Content Source.               |
+| CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                 |
+| Margin Top Value  | Set the value for the margin-top for the particle's content. (example: `-7rem`) |
+| Grid Column       | Set the number of columns items appear in.                                      |
 
 ### Particle Item Options
 
@@ -52,7 +49,9 @@ These items make up the individual featured items in the particle. Items in this
 | Layout      | Choose between **Photo**, **Photo Large**, and **Text** as the layout type for the item. |
 | Image       | Set an image to appear in the item.                                                      |
 | Description | Enter a text description for the item.                                                   |
+| Link Label  | Enter a text for the Read More link.                                                     |
 | URL         | Enter a URL you would like the item to link to.                                          |
+| Target      | Set a target window for the read more link.                                              |
 
 ### Posts
 
@@ -61,9 +60,9 @@ These items make up the individual featured items in the particle. Items in this
 | Option             | Description                                                                            |
 | :-----             | :-----                                                                                 |
 | Categories         | Enter the categories of posts this particle will display.                              |
-| Posts              | Enter the number of posts you would like the particle to fetch.                        |
-| Sticky Posts       | Choose to **Show** or **Hide** sticky posts.                                           |
-| Number of Posts    | Enter the maximum number of posts to display.                                       |
+| Posts              | Enter the maximum number of posts to display.                                          |
+| Sticky Posts       | Choose to **Show** or **Hide** sticky posts. |
+| Number of Posts    | Enter the maximum number of posts to display.                                          |
 | Start From         | Enter offset specifying the first post to return. The default is '0' (the first post). |
 | Order By           | Choose the type of factor to order by.                                                 |
 | Ordering Direction | Choose between **Ascending** and **Descending** as the post ordering method.           |

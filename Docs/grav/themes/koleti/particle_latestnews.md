@@ -30,13 +30,10 @@ These options affect the main area of the particle, and not the individual items
 | Option            | Description                                                                                         |
 | :-----            | :-----                                                                                              |
 | Particle Name     | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Content Source    | Choose between **Particle** and **Grav** as the Content Source.                                |
-| Margin Top Value  | Set the value for the margin-top for the particle's content. (example: `-7rem`)                     |
-| CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                                     |
-| Title             | Set a title for the particle.                                                                       |
-| Upper Title       | Set an upper title that appears over the main title.                                                |
-| "All Items" Label | Enter a label for all items.                                                                        |
-| Grid Column       | Set the number of columns items appear in.                                                          |
+| Content Source    | Choose between **Particle** and **Joomla** as the Content Source.               |
+| CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                 |
+| Margin Top Value  | Set the value for the margin-top for the particle's content. (example: `-7rem`) |
+| Grid Column       | Set the number of columns items appear in.                                      |
 
 ### Particle Item Options
 
@@ -53,6 +50,7 @@ These items make up the individual featured items in the particle. Items in this
 | Image       | Set an image to appear in the item.                                                      |
 | Description | Enter a text description for the item.                                                   |
 | URL         | Enter a URL you would like the item to link to.                                          |
+| Target      | Set a target window for the read more link.                                              |
 
 ### Posts
 
