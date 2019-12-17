@@ -42,19 +42,10 @@ These items make up the individual featured items in the particle.
 
 ![](assets/particle_team5.png)
 
-| Option          | Description                                                                                                                                              |
-| :-----          | :-----                                                                                                                                                   |
-| Item Name       | The item name becomes the title of the content team item.                                                                                                |
-| Accent          | Select an accent color used for the item.                                                                                                                |
-| Icon            | Select the icon you would like to have appear with the title area in the team item.                                                                      |
-| Image           | Select the image you would like to have displayed with the item.                                                                                         |
-| Lightcase Image | If you would like to have a popup appear with a larger version of the image when the image is clicked, this is where you assign the larger image.        |
-| Caption         | Add a caption for the image here.                                                                                                                        |
-| Subtitle        | Add a subtitle for the item here.                                                                                                                        |
-| Description     | Enter a description for the item here, appears as paragraphed text.                                                                                      |
-| CSS Classes     | Enter any CSS classes you would like to have apply just to this item.                                                                                    |
-| Button Label    | Enter the text you would like to have appear as the button link.                                                                                         |
-| Button Link     | Enter the url you want that link to go to.                                                                                                               |
-| Button Classes  | Enter any CSS classes you want to have apply just to the button.                                                                                         |
-| Target          | Set the target for the button. You can choose between **Self** which opens the link in the current tab or **New Window** which opens links in a new tab. |
-
+| Option            | Description                                                                         |
+| :-----            | :-----                                                                              |
+| Item Name         | The item name becomes the title of the content team item.                           |
+| Image             | Select the image you would like to have displayed with the item.                    |
+| Icon              | Select the icon you would like to have appear with the title area in the team item. |
+| URL               | Enter the url you want that link to go to.                                          |
+| Target            | Set the target for the button. You can choose between **Self** which opens the link in the current tab or **New Window** which opens links in a new tab. |
