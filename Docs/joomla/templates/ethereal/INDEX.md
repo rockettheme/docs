@@ -10,8 +10,17 @@ Introduction
 
 Ethereal is an exquisitely designed template, bursting with elegance, sharpness and bold, but complementary visuals; achieved via a subtle color scheme with dashes of vibrancy, within a rich framework of emphasized typography and iconography.
 
-
 ![](assets/ethereal.jpeg)
+
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would our [dedicated Gantry documentation](http://docs.gantry.org).
+
+As a Joomla user, you are most likely accustomed to editing modules when working with our Gantry 4 templates. While our RocketLauncher package contains modules for our subpages, the Home page content is specifically found in the template's Layout. This can be found via your Joomla administrator -> Extensions -> Templates - > Home -> Layout. Click on any of the cog icons on the Particles to edit the content.
+
+![Home](home.jpg)
+
+To understand more how the Layout manager works, please [click here](http://docs.gantry.org/gantry5/configure/layout-manager).
 
 Requirements
 -----
