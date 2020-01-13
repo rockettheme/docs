@@ -12,6 +12,10 @@ Put your products on center stage with the new Versla theme from RocketTheme. Ve
 
 ![](assets/versla.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

@@ -10,8 +10,11 @@ Introduction
 
 Fluent is a clean design with modern, transparent elements and powerful sliders. It features exclusive particles that make creating a gorgeous, responsive website a breeze. The perfect template for startups and bloggers.
 
-
 ![](assets/fluent.jpeg)
+
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
 
 Requirements
 -----

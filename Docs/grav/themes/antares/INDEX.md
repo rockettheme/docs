@@ -12,6 +12,10 @@ Antares is a theme bolstered with bold and impressive visual elements, to add de
 
 ![](assets/antares.png)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * PHP 7.1+

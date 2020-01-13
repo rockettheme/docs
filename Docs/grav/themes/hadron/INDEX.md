@@ -12,6 +12,10 @@ Introduction
 
 Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the template, providing a modern, corporate approach to template construction. Presets offer a full background of color diversity.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * PHP 7.1+

@@ -12,6 +12,10 @@ Introduction
 
 Ethereal is an exquisitely designed theme, bursting with elegance, sharpness and bold, but complementary visuals; achieved via a subtle color scheme with dashes of vibrancy, within a rich framework of emphasized typography and iconography.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * PHP 7.1+

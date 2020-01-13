@@ -10,8 +10,11 @@ Introduction
 
 Aurora is a masterfully crafted theme created for business, professional, and corporate websites. It features an abundance of versatile particles that make creating an exceptional website quick and easy.
 
-
 ![](assets/aurora.jpeg)
+
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
 
 Requirements
 -----

@@ -10,8 +10,11 @@ Introduction
 
 Notio is a beautifully-designed theme for magazines, news, and other content-rich websites. Featuring a variety of dynamic particles that enable you to easily create custom items or pull content directly from the CMS.
 
-
 ![](assets/notio.jpeg)
+
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
 
 Requirements
 -----

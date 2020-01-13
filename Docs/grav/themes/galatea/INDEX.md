@@ -12,6 +12,10 @@ Galatea is a beautiful, clean design that blends foreground with background elem
 
 ![](assets/galatea.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

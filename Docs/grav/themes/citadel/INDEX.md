@@ -12,6 +12,10 @@ Citadel brings your site to life with integrated support for YouTube, Vimeo, and
 
 ![](assets/citadel.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

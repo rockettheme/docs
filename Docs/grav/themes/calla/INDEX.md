@@ -12,6 +12,10 @@ Calla is a fresh, bold design built on the powerful, state-of-the-art Gantry 5 f
 
 ![](assets/calla.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 
