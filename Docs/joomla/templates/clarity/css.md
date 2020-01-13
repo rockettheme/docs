@@ -13,7 +13,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/clarity:Clarity
 | flush-mobile                | Removes margins in mobile view.                                           |
 | fp-slideshow                | Class applied to the **Slideshow** section in the front page of the demo. |
 | fp-showcase                 | Class applied to the **Showcase** section in the front page of the demo.  |
-| menu-absolute               | Class applied to the **Navigation** section to keep the menu in the absolue position.  |
+| menu-absolute               | Class applied to the **Navigation** section to keep the menu in the absolute position.  |
 | g-logo                      | Applied to the **Logo** particle in the demo.                             |
 | nomarginbottom              | Removes the bottom margin.                                                |
 | nopaddingbottom             | Removes the bottom padding.                                               |
