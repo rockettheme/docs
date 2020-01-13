@@ -12,6 +12,10 @@ Introduction
 
 Lexicon is centered around a flat design approach, spruced by professional and engaging color schemes to create presence for site content without distracting from it. Ideal for showcasing product details in a vibrant but elegant fashion.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

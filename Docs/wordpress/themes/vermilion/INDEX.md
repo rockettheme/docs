@@ -12,6 +12,10 @@ Introduction
 
 Vermilion adopts a business or commercial centric visual model, with corporate background shades interwoven with configurable, vibrant or brand colors, allowing for an equilibrium between professionalism and artistic allure.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

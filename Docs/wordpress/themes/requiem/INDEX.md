@@ -12,6 +12,10 @@ Requiem is an exquisitely designed theme for the Gantry 5 theme framework, offer
 
 ![](assets/requiem.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7

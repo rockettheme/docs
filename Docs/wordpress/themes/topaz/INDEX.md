@@ -12,6 +12,10 @@ Topaz is a modern, professional theme that combines simplicity and elegance. It 
 
 ![](assets/topaz.png)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

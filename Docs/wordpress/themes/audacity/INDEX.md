@@ -12,6 +12,10 @@ Introduction
 
 Audacity is a modern, sectioned based design, with a diverse infusion of background textures and patterns. These enrich and differentiate your site whilst maintaining an overall conservative approach, for flexible site application.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * PHP 7.1+

@@ -12,6 +12,10 @@ Sienna is a beautiful theme, perfect for a wide range of sites from travel agenc
 
 ![](assets/sienna.jpg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

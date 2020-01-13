@@ -12,6 +12,10 @@ Manticore is a fresh new take on news and magazine-style design for the world of
 
 ![](assets/manticore.png)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

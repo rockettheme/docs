@@ -12,6 +12,10 @@ Aurora is a beautifully-designed theme for magazines, news, and other content-ri
 
 ![](assets/aurora.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 

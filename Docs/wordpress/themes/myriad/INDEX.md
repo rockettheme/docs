@@ -12,6 +12,10 @@ Introduction
 
 Myriad centers around photography, providing an elegantly designed, visual space for the display of full width gallery items and slideshows. The structure allows for the promotion of images, whilst maintaining a refined style for more conservative appearances.
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * PHP 7.1+

@@ -13,6 +13,10 @@ Callisto is the first RocketTheme WordPress Club theme to be released on the new
 
 ![](assets/callisto.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 * Apache 2.2+ or Microsoft IIS 7

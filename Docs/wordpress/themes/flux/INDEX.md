@@ -12,6 +12,10 @@ Flux is a brilliant theme for displaying big, beautiful images alongside modern 
 
 ![](assets/flux.jpeg)
 
+New to Gantry 5?
+-----
+If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
+
 Requirements
 -----
 
