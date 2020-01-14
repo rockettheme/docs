@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/joomla-template-koleti/
         * [Slideshow](particle_slideshow.md)
         * [Slider](particle_slider.md)
         * [Sliding Menu](particle_slidingmenu.md)
+        * [Social](particle_social.md)        
         * [Table Tabs](particle_tabletabs.md)
         * [Team](particle_team.md)
         * [Video](particle_video.md)
