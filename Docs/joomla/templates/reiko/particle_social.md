@@ -7,7 +7,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/reiko:Reiko
 
 ## Introduction
 
-![](assets/particle_social3.png)
+![](assets/particle_social1.png)
 
 The **Social** particle displays social media links, along with icons, in a simple and easy-to-use way.
 
