@@ -44,6 +44,7 @@ support: http://www.rockettheme.com/forum/grav-theme-zenith/
         + [Simple Content](particle_simple.md)        
         + [Simple Counter](particle_simplecounter.md)
         + [Search](particle_search.md)
+        + [Social](particle_social.md)
         + [Video](particle_video.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
