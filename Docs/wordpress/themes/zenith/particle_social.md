@@ -7,6 +7,8 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/zenith:Zenith
 
 ## Introduction
 
+![](assets/particle_social1.png)
+
 The **Social** particle displays social media links, along with icons, in a simple and easy-to-use way.
 
 Here are the topics covered in this guide:
@@ -21,7 +23,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_social2.jpeg)
+![](assets/particle_social2.png)
 
 | Option        | Description                                                                                 |
 | :-----        | :-----                                                                                      |
@@ -36,7 +38,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_social3.jpeg)
+![](assets/particle_social3.png)
 
 | Option    | Description                                                                             |
 | :-----    | :-----                                                                                  |
