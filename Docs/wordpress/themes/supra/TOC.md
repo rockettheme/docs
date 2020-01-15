@@ -32,7 +32,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-supra/
         + [Info List](particle_info.md)
         + [WordPress Posts](particle_wordpress.md)
         + [Newsletter](particle_newsletter.md)
-        + [Owl Showcase](particle_owl.md)
         + [Panel Slider](particle_panel.md)
         + [Popup Grid](particle_popupgrid.md)
         + [Pricing Table](particle_pricing.md)

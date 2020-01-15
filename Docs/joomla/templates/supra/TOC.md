@@ -32,7 +32,6 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + [Info List](particle_info.md)
         + [Joomla Articles](particle_joomla.md)
         + [Newsletter](particle_newsletter.md)
-        + [Owl Showcase](particle_owl.md)
         + [Panel Slider](particle_panel.md)
         + [Popup Grid](particle_popupgrid.md)
         + [Pricing Table](particle_pricing.md)
