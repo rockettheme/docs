@@ -28,7 +28,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-reiko/
         * [Heading](particle_heading.md)
         * [Image Grid](particle_image.md)
         * [Info List](particle_info.md)
-        * [WordPress Posts](particle_wordpress.md)
         * [Latest News](particle_latestnews.md)
         * [Logos](particle_logos.md)
         * [Media Quotes](particle_mediaquotes.md)
@@ -44,6 +43,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-reiko/
         * [Table Tabs](particle_tabletabs.md)
         * [Team](particle_team.md)
         * [Video](particle_video.md)
+        * [WordPress Posts](particle_wordpress.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
     - Core Particles 
