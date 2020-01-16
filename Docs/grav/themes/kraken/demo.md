@@ -65,7 +65,6 @@ Here is a list of particles that are available in Kraken, as well as links to do
     - [Newsletter](particle_newsletter.md)
     - [News Slider](particle_newsslider.md)
     - [Overlay Toggle](particle_overlay.md)
-    - [Popup Grid](particle_popupgrid.md)
     - [Promo Content](particle_promocontent.md)
     - [Pricing Table](particle_pricing.md)
     - [Promo Image](particle_promoimage.md)
