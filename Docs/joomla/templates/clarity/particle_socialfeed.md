@@ -36,9 +36,13 @@ These options affect the main area of the particle, and not the individual items
 | Content Source              | Choose between **Particle** and **Instagram** as the content source for the particle.                                                      |
 | Title                       | Enter a title for the particle.                                                                                                            |
 | Instagram User ID           | If **Instagram** is selected as the content source, enter your user ID here.                                                               |
-| Instagram User Access Token | If **Instagram is selected as the content source, enter the [user access token](https://www.instagram.com/developer/authentication/) here. |
+| Instagram User Access Token | If **Instagram** is selected as the content source, enter the [user access token](https://www.instagram.com/developer/authentication/) here. |
 | Grid Column                 | Enter the number of columns for images to display in.                                                                                      |
 
+Please view the following documentation for setting up the content with Instagram:
+
+1) [Getting Started Guide - Token](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started)
+2) [Obtain Long Lived Access Token](https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens)
 
 ### Item Options
 
