@@ -45,7 +45,6 @@ Template Particles
 * [Joomla Articles](particle_joomla.md)
 * [Grid Statistic](particle_grid.md)
 * [Heading](particle_heading.md)
-* [Particles](particle_particles.md)
 * [Promo](particle_promo.md)
 * [Video](particle_video.md)
 
