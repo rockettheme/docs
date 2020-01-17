@@ -41,8 +41,8 @@ These options affect the main area of the particle, and not the individual items
 
 Please view the following documentation for setting up the content with Instagram:
 
-1) [Getting Started Guide - Token](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started)
-2) [Obtain Long Lived Access Token](https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens)
+* [Getting Started Guide - Token](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started)
+* [Obtain Long Lived Access Token](https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens)
 
 ### Item Options
 
