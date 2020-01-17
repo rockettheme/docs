@@ -45,6 +45,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-callisto/
         - [Promo Image](particle_promoimage.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Fixed Header](atom_fixedheader.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

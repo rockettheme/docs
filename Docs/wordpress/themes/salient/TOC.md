@@ -42,6 +42,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-salient/
             * [Coming Soon](comingsoon.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Fixed Header](atom_fixedheader.md)
     * [FAQ](faq.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)

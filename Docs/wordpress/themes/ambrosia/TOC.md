@@ -30,6 +30,8 @@ support: http://www.rockettheme.com/forum/wordpress-theme-ambrosia/
             * [Bottom](demo_bottom.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
+            * [Fixed Header](atom_fixedheader.md)
+            * [Animation on Scroll](atom_aos.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Contact](contact.md)
