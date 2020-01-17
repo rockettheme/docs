@@ -1,7 +1,7 @@
 ---
-title: Clarity: Fixed Header Atom
+title: Supra: Fixed Header Atom
 description: Your Guide to Using the Fixed Header Atom
-breadcrumb: /joomla:Joomla/!templates:Templates/clarity:Clarity
+breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
 
 ---
 
