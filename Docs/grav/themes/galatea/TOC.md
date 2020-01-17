@@ -45,6 +45,7 @@ support: http://www.rockettheme.com/forum/grav-theme-galatea/
             * [Coming Soon](comingsoon.md)
     * [FAQ](faq.md)
     * [Animation on Scroll](atom_aos.md)
+    * [Fixed Header](atom_fixedheader.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)

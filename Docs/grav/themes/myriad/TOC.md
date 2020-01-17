@@ -38,7 +38,8 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Testimonial](particle_testimonial.md)
         - [Video](particle_video.md) 
     * Theme Atoms
-        * [Animation on Scroll](aos.md)       
+        * [Animation on Scroll](aos.md)     
+        * [Fixed Header](atom_fixedheader.md)  
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

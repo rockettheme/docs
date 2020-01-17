@@ -22,6 +22,7 @@ support: http://www.rockettheme.com/forum/grav-theme-interstellar/
         * [Contact Form](../../start/contact.md)
         * Particle / Atom Settings
             * [Animation on Scroll](atom_aos.md)
+            * [Fixed Header](atom_fixedheader.md)
             * [Grav Content](particle_grav.md)
             * [Owl Carousel](particle_owl.md)
             * [Simple Content](particle_simple.md)
