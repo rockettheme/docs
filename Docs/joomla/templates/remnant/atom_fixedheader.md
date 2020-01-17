@@ -1,5 +1,5 @@
 ---
-title: Clarity: Fixed Header Atom
+title: Remnant: Fixed Header Atom
 description: Your Guide to Using the Fixed Header Atom
 breadcrumb: /joomla:Joomla/!templates:Templates/clarity:Clarity
 
