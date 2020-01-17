@@ -35,6 +35,7 @@ support: http://www.rockettheme.com/forum/joomla-template-isotope/
             * [Overlay](demo_overlay.md)
         * Template Atoms
             * [Animation on Scroll](atom_aos.md)
+            * [Fixed Header](atom_fixedheader.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)
