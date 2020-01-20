@@ -68,6 +68,7 @@ more:
 
 * Club Themes
 
+	* [Clarity](themes/clarity)
 	* [Audacity (Gantry 5)](themes/audacity)
 	* [Akuatik](themes/akuatik)
 	* [Epsilon (Gantry 5)](themes/epsilon)

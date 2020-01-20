@@ -5,11 +5,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/clarity:Clarity
 
 ---
 
-## How do I remove the angle / tilt from Clarity?
-
-![](assets/tilt.jpg)
-
-Go to your Base Outline -> Page Settings -> Body Attributes -> Body Classes and remove the **tilt** class.
 
 ## Is Clarity compatible for Joomla 1.5 or 2.5?
 
