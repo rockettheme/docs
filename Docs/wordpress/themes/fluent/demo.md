@@ -33,7 +33,6 @@ Here is a list of particles that are available in Fluent, as well as links to do
     - [Info List](particle_info.md)
     - [WordPress Posts](particle_wordpress.md)
     - [Newsletter](particle_newsletter.md)
-    - [Panel Slider](particle_panel.md)
     - [Pricing Table](particle_pricing.md)
     - [Simple Content](particle_simple.md)
     - [Simple Counter](particle_simplecounter.md)
