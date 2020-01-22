@@ -36,6 +36,7 @@ support: http://www.rockettheme.com/forum/grav-theme-aurora/
         + [Search](particle_search.md)
         + [Simple Content](particle_simple.md)
         + [Simple Counter](particle_simplecounter.md)
+        + [Social](particle_social.md)
         + [Testimonials](particle_testimonials.md)
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
