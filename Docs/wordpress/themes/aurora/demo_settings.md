@@ -17,8 +17,3 @@ Once you have selected a Preset, these options can be further adjusted to match 
 ![Style Settings](assets/style_1.jpeg)
 
 In Aurora's demo, we went with **Preset 1**. 
-
-
-![Style Settings](assets/style_3.jpeg)
-
-You'll notice a background behind the **Header**, **Above**, and **Slideshow** sections. This background is set in the section-specific areas of the **Style** panel.
