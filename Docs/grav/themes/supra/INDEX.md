@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!supra:Supra
 Introduction
 -----
 
-Supra is the integration of modern design and a next-generation framework in one seamless experience. This professional theme is perfect for a wide range of websites including: design firms, architects, data science, finance, & more.
+Supra is a powerhouse template loaded with features and uncompromising in its versatility. Build beautiful background slideshows in seconds, and customize your site with over 25 powerful particles that make setting up a complete website a snap.
 
 ![](assets/supra.jpeg)
 
