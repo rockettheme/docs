@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!acronym:Acronym
 Introduction
 -----
 
-Acronym is the integration of modern design and a next-generation framework in one seamless experience. This professional theme is perfect for a wide range of websites including: design firms, architects, data science, finance, & more.
+Acronym is a template straight out of the future. Featuring a customizable animated background, beautifully bold Headerlicious particle, and the exclusive Owl Cards. This is the perfect theme for artists, photographers, blogs, and more.
 
 ![](assets/acronym.jpeg)
 
