@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!notio:Notio
 Introduction
 -----
 
-Notio is a brilliant theme for displaying big, beautiful images alongside modern charts and text. It features several new premium particles that make it easy to create easy-to-read charts, calendars, content blocks, and more.
+Notio is a beautifully-designed theme for magazines, news, and other content-rich websites. Featuring a variety of dynamic particles that enable you to easily create custom items or pull content directly from the CMS.
 
 ![](assets/notio.jpeg)
 
