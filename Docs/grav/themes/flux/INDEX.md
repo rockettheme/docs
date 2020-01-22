@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!flux:Flux
 Introduction
 -----
 
-Flux is the integration of modern design and a next-generation framework in one seamless experience. This professional theme is perfect for a wide range of websites including: design firms, architects, data science, finance, & more.
+Flux is a brilliant theme for displaying big, beautiful images alongside modern charts and text. It features several new premium particles that make it easy to create easy-to-read charts, calendars, content blocks, and more.
 
 ![](assets/flux.jpeg)
 
