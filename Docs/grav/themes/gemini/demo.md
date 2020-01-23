@@ -1,7 +1,7 @@
 ---
 title: Gemini: Recreating the Demo
 description: Your Guide to Recreating Elements of the Gemini Demo for Grav
-breadcrumb: /grav:Grav/!themes:Templates/gemini:Gemini
+breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
 
 ---
 

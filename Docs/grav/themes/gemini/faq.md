@@ -1,6 +1,6 @@
 ---
 title: Gemini: FAQ
-description: Your Guide to Using the Gemini Template for Grav
+description: Your Guide to Using the Gemini Theme for Grav
 breadcrumb: /grav:Grav/!themes:Themes/gemini:Gemini
 
 ---

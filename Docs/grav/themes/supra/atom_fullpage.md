@@ -1,13 +1,13 @@
 ---
 title: Supra: Full Page Scroll Atom
-description: Your Guide to Using the Supra Template for Grav
+description: Your Guide to Using the Supra Theme for Grav
 breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ---
 
 ## Introduction
 
-One of the most requested features by the RocketTheme community for a new template has been full page scrolling. With this feature, you can modify your visitor's experience with your content by enabling or disabling a full-page section-by-section scroll.
+One of the most requested features by the RocketTheme community for a new theme has been full page scrolling. With this feature, you can modify your visitor's experience with your content by enabling or disabling a full-page section-by-section scroll.
 
 The real beauty behind the Full Page Scrolling atom is that it enables you to set a breakpoint where scrolling goes from a normal smooth scroll to the full page experience. That way, mobile users can still experience a natural user environment while desktop users enjoy the visual experience this atom has to offer.
 

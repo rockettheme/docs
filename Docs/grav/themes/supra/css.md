@@ -1,6 +1,6 @@
 ---
 title: Supra: CSS Classes
-description: Your Guide to Using the Supra Template for Grav
+description: Your Guide to Using the Supra Theme for Grav
 breadcrumb: /grav:Grav/!themes:Themes/supra:Supra
 
 ---
