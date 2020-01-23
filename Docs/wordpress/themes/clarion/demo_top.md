@@ -24,7 +24,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~
 <div class="custom">
-    <span>A Professional Business Template</span>
+    <span>A Professional Business Theme</span>
 </div>
 ~~~
 

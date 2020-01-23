@@ -119,7 +119,7 @@ Description:
 "rt-image-b"><img alt="image" src=
 "http://demo.rockettheme.com/wordpress-themes/wp_corvus/wp-content/rockettheme/rt_corvus_wp/frontpage/sidebar-b/img2.jpg"></span></a></p>
 
-<p><span class="hidden-tablet">A single template that a</span><span class=
+<p><span class="hidden-tablet">A single theme that a</span><span class=
 "rt-displayinline visible-tablet">A</span>dapts to different viewing
 devices<span class="rt-displayinline visible-large">, such as
 mobile</span>.</p><span class="readon-wrapper"><a class="readon2" href=

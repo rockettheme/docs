@@ -17,7 +17,7 @@ Here is the widget breakdown for the Utility section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
-<p>Flat visuals are the central design feature of Hadron, providing a modern, corporate approach to template construction.</p>
+<p>Flat visuals are the central design feature of Hadron, providing a modern, corporate approach to theme construction.</p>
 
 <div class="rt-readon-group">
     <a href="http://demo.rockettheme.com/live/wordpress/hadron/features/" class="readon">Purchase Now</a>

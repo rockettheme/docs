@@ -23,7 +23,7 @@ The SidePanel position can be home to any widget type. Any widgets you assign to
 
 ![][sidepanelsettings]
 
-You can turn the SidePanel on and off via the template settings menu. You can reach these settings by navigating to **Admin > Osmosis > Style** and toggling the **SidePanel Style** setting.
+You can turn the SidePanel on and off via the theme settings menu. You can reach these settings by navigating to **Admin > Osmosis > Style** and toggling the **SidePanel Style** setting.
 
 The **Gantry Side Panel Logo** and **Gantry Menu** widgets appear dynamically as you scroll while the two **Text** widgets are always displayed. The **Gantry Side Panel Logo** widget is made specifically for this case and needs to be in place in order for the logo to appear as you scroll. The **Gantry Menu** widget uses a **Custom Chrome** setting to make it appear dynamically.
 

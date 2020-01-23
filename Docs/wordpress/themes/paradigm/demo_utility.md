@@ -49,7 +49,7 @@ This section of the page is a standard text widget. You will need to enter the f
 ~~~
 <span class="rt-icon"><span class="icon-thumbs-up title"></span></span>
 <h1 class="title rt-capitalize">Top-Notch Coding</h1>
-<p>The Gantry Framework forms the core of the template, providing a rich selection, such as an intuitive administrator.</p>
+<p>The Gantry Framework forms the core of the theme, providing a rich selection, such as an intuitive administrator.</p>
 <a class="readon2" href="http://demo.rockettheme.com/live/wordpress/paradigm/features/">Read More</a>
 ~~~
 
