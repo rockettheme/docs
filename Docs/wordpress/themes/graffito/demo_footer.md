@@ -63,7 +63,7 @@ The second Text widget in the section is made a lot like the others. You will ne
     <span class="icon-home largemarginbottom largepaddingbottom"></span>
 </div>
 <div class="gantry-width-90 gantry-width-block">
-    <a href="#"><em class="bold"><strong>Graffito Template LLC</strong></em></a><br />
+    <a href="#"><em class="bold"><strong>Graffito Theme LLC</strong></em></a><br />
   <em class="bold nobold">
     123 Joomla! Boulevard<br />
     Seattle, WA 00000, USA 

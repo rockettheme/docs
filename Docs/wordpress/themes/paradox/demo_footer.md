@@ -45,7 +45,7 @@ This widget tells WordPress to start a new widget column beginning with the widg
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p>Accompanied with the template are the <a href="javascript:void(0);">Adobe?? Fireworks</a> PNG Image Sources that we use to build the template, allowing for swift and simple <strong>modification</strong>. Documentation below.</p>
+<p>Accompanied with the theme are the <a href="javascript:void(0);">Adobe?? Fireworks</a> PNG Image Sources that we use to build the theme, allowing for swift and simple <strong>modification</strong>. Documentation below.</p>
 <a href="#" class="readon"><span>More Information</span></a>
 <div class="clear"></div>
 ~~~

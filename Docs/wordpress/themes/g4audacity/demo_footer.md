@@ -69,7 +69,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <ul>
-    <li><a href="#">Template</a></li>
+    <li><a href="#">Themes</a></li>
     <li><a href="#">Design</a></li>
     <li><a href="#">Pattern</a></li>
     <li><a href="#">Overlay</a></li>

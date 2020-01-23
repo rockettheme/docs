@@ -51,7 +51,7 @@ RocketLauncher</a> to install an equivalent of the demo.</p>
         </ul>
         <h3><a href="http://unsplash.com">Unsplash</a></h3>
         <p>The following images are used in the demo and/or distributed with
-        the template, and are freely available:</p>
+        the theme, and are freely available:</p>
         <ul>
             <li><a href=
             "https://s3.amazonaws.com/ooomf-com-files/wjNV6gWuQkqeuH8txHc9_sylwiabartyzel_unsplash_tatry_03.jpg">

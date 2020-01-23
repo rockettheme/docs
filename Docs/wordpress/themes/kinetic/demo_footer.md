@@ -51,7 +51,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <ul class="bullet-9">
-    <li>Kinetic Web Template Inc.</li>
+    <li>Kinetic Web Theme Inc.</li>
     <li>133 Hydrax Business Estate</li>
     <li>Seattle, WA, 54868</li>
     <li>United States of America</li>

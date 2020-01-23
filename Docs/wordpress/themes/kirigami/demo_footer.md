@@ -84,7 +84,7 @@ The fourth Text widget in the section is made a lot like the others. You will ne
 
 <img class="rt-floatleft" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/wp-content/rockettheme/rt_kirigami_wp/frontpage/general/fp-footer-icon2.png" />
 <em class="bold">
-  <strong>Kirigami Template LLC</strong><br />
+  <strong>Kirigami Theme LLC</strong><br />
 </em>
 <em class="bold nobold">
   123 WordPress! Boulevard<br />

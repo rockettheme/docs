@@ -47,7 +47,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p>Panacea Template LLC<br>
+<p>Panacea Theme LLC<br>
 173 Cyrian Drive,<br>
 Houston, TX, 34900, USA<br>
 <strong>Tel: (555) 555-55555</strong></p>

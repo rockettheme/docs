@@ -69,7 +69,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <ul class="bullet-check">
 	<li class="medmarginbottom"><strong>18 Widget Variations:</strong> 12 stylistic, and 6 structural widget variations, to add individual form to widgetized content.</li>
 	<li class="medmarginbottom"><strong>68 Widget Positions:</strong> Inclusive of 63 positions in Gantry rows for quick &amp; easy width allocation and distribution.</li>
-	<li><strong>Javascript Input Styling:</strong> Template scripts to allow styling of form elements, such as those in the Polls module.</li>
+	<li><strong>Javascript Input Styling:</strong> Theme scripts to allow styling of form elements, such as those in the Polls module.</li>
 </ul>
 ~~~
 

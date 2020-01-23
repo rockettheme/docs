@@ -82,7 +82,7 @@ The third Text widget in the section is made a lot like the others. You will nee
   <span class="icon-home largemarginbottom largepaddingbottom"></span>
 </div>
 <div class="rt-demo-width-90">
-  <a href="#"><em class="bold"><strong>Fracture Template LLC</strong></em></a><br />
+  <a href="#"><em class="bold"><strong>Fracture Theme LLC</strong></em></a><br />
   <em class="bold nobold">
     123 WordPress Boulevard<br />
     Seattle, WA 00000<br />

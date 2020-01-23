@@ -50,7 +50,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <p>All demo content is for sample purposes only, intended to represent a live
-site. Template images are generously provided by <a href=
+site. Themes images are generously provided by <a href=
 "http://www.sxc.hu/profile/michaelaw" target="_blank">michaelaw</a>, <a href=
 "http://www.sxc.hu/profile/Mariankaas" target="_blank">Mariankaas</a>, <a href=
 "http://www.sxc.hu/profile/kovik">kovik</a> and <a href=
