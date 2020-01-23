@@ -1,6 +1,6 @@
 ---
 title: RokGallery: Editing and Managing Image Files
-description: Your Guide to Working with Images Using RokGallery for Joomla
+description: Your Guide to Working with Images Using RokGallery for WordPress
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokgallery:RokGallery
 
 ---

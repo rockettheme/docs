@@ -30,7 +30,7 @@ These options affect the main area of the particle, and not the individual items
 | Option            | Description                                                                                         |
 | :-----            | :-----                                                                                              |
 | Particle Name     | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Content Source    | Choose between **Particle** and **Joomla** as the Content Source.               |
+| Content Source    | Choose between **Particle** and **WordPress** as the Content Source.               |
 | CSS Classes       | Enter any CSS class(es) you wish to have apply to the particle.                 |
 | Margin Top Value  | Set the value for the margin-top for the particle's content. (example: `-7rem`) |
 | Grid Column       | Set the number of columns items appear in.                                      |

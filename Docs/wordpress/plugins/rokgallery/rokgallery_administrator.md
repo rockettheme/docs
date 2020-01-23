@@ -118,7 +118,7 @@ You can also opt to adjust the ordering of images within a gallery, publish all 
 
 2. The **Upload** button initiates the upload process for selected files. You will see the upload status update during upload.
 
-Uploading images to RokGallery using the built-in file uploader is the best way to get images into RokGallery. The standard media uploader included in Joomla will add files to the media folders, but won't actually include them in RokGallery's directory.
+Uploading images to RokGallery using the built-in file uploader is the best way to get images into RokGallery. The standard media uploader included in WordPress will add files to the media folders, but won't actually include them in RokGallery's directory.
 
 [rokgallery_jobs_manager]: assets/rokgallery_jobs_manager.jpeg
 [rokgallery_tags]: assets/rokgallery_tags.jpeg

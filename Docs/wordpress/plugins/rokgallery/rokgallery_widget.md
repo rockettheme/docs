@@ -1,6 +1,6 @@
 ---
 title: RokGallery: Widget Guide
-description: Your Guide to Setting Up and Using RokGallery Widgets for Joomla
+description: Your Guide to Setting Up and Using RokGallery Widgets for WordPress
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/rokgallery:RokGallery
 
 ---
