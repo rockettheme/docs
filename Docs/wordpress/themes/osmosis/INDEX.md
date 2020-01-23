@@ -10,7 +10,7 @@ Introduction
 
 ![][osmosis]
 
-Osmosis follows a vibrant, but elegant design direction, allowing for full width beautiful backgrounds in the header, fixing them as the site's focal point. An excellent method of making the template unique with a few simple steps.
+Osmosis follows a vibrant, but elegant design direction, allowing for full width beautiful backgrounds in the header, fixing them as the site's focal point. An excellent method of making the theme unique with a few simple steps.
 
 Requirements
 -----

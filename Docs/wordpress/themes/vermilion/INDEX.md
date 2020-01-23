@@ -116,4 +116,4 @@ Parallax is the apparent motion of a 3D object as based against your perspective
 
 ![Responsive](ft-4.jpg)
 
-The template features the Font Awesome library. Font Awesome offers over 350 icons, which are fully scalable and easy to integrate into the design of the template and/or content, from widget titles to inside content items themselves.
+The theme features the Font Awesome library. Font Awesome offers over 350 icons, which are fully scalable and easy to integrate into the design of the theme and/or content, from widget titles to inside content items themselves.

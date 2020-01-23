@@ -10,7 +10,7 @@ Introduction
 
 ![](assets/hadron.png)
 
-Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the template, providing a modern, corporate approach to template construction. Presets offer a full background of color diversity.
+Hadron is a contemporary and flat design approach with rich animations. Flat visuals are the central design feature of the theme, providing a modern, corporate approach to theme construction. Presets offer a full background of color diversity.
 
 New to Gantry 5?
 -----
@@ -99,7 +99,7 @@ Key Features
 
 ![Color Chooser](ft-2.jpg)
 
-Hadron has an extensive Color Chooser in the template manager to provide intricate controls for each section of Hadron, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
+Hadron has an extensive Color Chooser in the theme manager to provide intricate controls for each section of Hadron, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
 
 ## Icon Buttons
 

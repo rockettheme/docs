@@ -53,7 +53,7 @@ Paradigm has an extensive, administrative Color Chooser to provide intricate con
 
 ![][icondriven]
 
-The template supports content-based icons through the FontAwesome font with its 300+ icon library. The icons can be used in widget titles, but are also used as focal points in frontpage widgets, via Text widget, and for titles for WordPress content.
+The theme supports content-based icons through the FontAwesome font with its 300+ icon library. The icons can be used in widget titles, but are also used as focal points in frontpage widgets, via Text widget, and for titles for WordPress content.
 
 ### Dropdown Menu
 

@@ -101,7 +101,7 @@ The Dynamic, Scrolling Header, is a custom design feature that adds an animation
 
 ![Style Settings](ft-3.jpg)
 
-Anacron has an extensive Color Chooser in the template manager to provide intricate controls for each section of Anacron, inclusive of overlay type, text color, background color, as well as background images. Edit preexisting or create new presets
+Anacron has an extensive Color Chooser in the theme manager to provide intricate controls for each section of Anacron, inclusive of overlay type, text color, background color, as well as background images. Edit preexisting or create new presets
 
 ## Responsive
 

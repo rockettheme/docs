@@ -10,9 +10,9 @@ Introduction
 
 ![][corvus]
 
-Corvus is a content centric template, built with rich media and text blocks, on a foundation of detailed design elements. The template spruces up your site with easily configurable items.
+Corvus is a content centric theme, built with rich media and text blocks, on a foundation of detailed design elements. The theme spruces up your site with easily configurable items.
 
-Integrated styling is provided for RokSprocket in its various layout types, such as Strips and Tabs. The template is based on the Gantry Framework and has varying other features available.
+Integrated styling is provided for RokSprocket in its various layout types, such as Strips and Tabs. The theme is based on the Gantry Framework and has varying other features available.
 
 Requirements
 -----

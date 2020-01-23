@@ -1,6 +1,6 @@
 ---
 title: Gemini: FAQ
-description: Your Guide to Using the Gemini Template for WordPress
+description: Your Guide to Using the Gemini Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/gemini:Gemini
 
 ---

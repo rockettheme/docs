@@ -1,6 +1,6 @@
 ---
 title: Callisto: FAQ
-description: Your Guide to Using the Callisto Template for WordPress
+description: Your Guide to Using the Callisto Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Gemini
-description: Your Guide to Using the Gemini Template for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/!gemini:Gemini
+description: Your Guide to Using the Gemini Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/!gemini:Gemini
 
 ---
 

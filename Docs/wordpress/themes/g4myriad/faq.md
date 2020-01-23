@@ -14,7 +14,7 @@ Where can I find theme settings
 How to Change the Logo as it Appears in the Main Menu
 -----
 
-The Myriad template features a text logo, with some accents (such as the white underlined) defined in CSS. You can make changes to this to meet your individual needs.
+The Myriad theme features a text logo, with some accents (such as the white underlined) defined in CSS. You can make changes to this to meet your individual needs.
 
 #### Step 1: Create a New Logo File
 

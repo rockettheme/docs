@@ -10,7 +10,7 @@ Introduction
 
 ![](assets/chimera.png)
 
-Chimera is a clean, modern and minimalistic theme showcasing the beauty of your content. The template uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
+Chimera is a clean, modern and minimalistic theme showcasing the beauty of your content. The theme uses flat elements, streamlined custom fonts, and extensive iconography to maintain a balance of simplicity with style and elegance.
 
 New to Gantry 5?
 -----
@@ -103,7 +103,7 @@ Key Features
 
 ![Layout Manager](ft-2.jpg)
 
-The template makes uses of animated effects to add depth and character to content, without compromising on usability and professionalism. A series of introductory bounce and slide effects are built into Chimera, as triggered by scroll events.
+The theme makes uses of animated effects to add depth and character to content, without compromising on usability and professionalism. A series of introductory bounce and slide effects are built into Chimera, as triggered by scroll events.
 
 ## Dynamic Header
 
