@@ -56,7 +56,7 @@ In this instance, we did not do a whole lot to customize the simple items. We di
         powerful, underlying interactive and configurable features, to maximize
         the versatility and engagement of your site.</p>
         <div class="visible-large">
-            <p>The Gantry Framework is the foundation of the template,
+            <p>The Gantry Framework is the foundation of the theme,
             providing the base for all major features and functions, such as
             the intuitive administrative interface.</p>
         </div><a class="readon largemargintop" href=

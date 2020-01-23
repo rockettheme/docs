@@ -32,5 +32,5 @@ Enter the following in the **Custom Output** text editor.
 
 ~~~ .html
 <p>The theme has 68 collapsible positions, allowing for a multitude of many different layout options.</p>
-<p><a class="readon" href="/free/grunge/features/template-positions"><span>Read More</span></a></p>
+<p><a class="readon" href="/free/grunge/features/theme-positions"><span>Read More</span></a></p>
 ~~~

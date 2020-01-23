@@ -14,7 +14,7 @@ This area of the front page is the mainbody. It allows you to display featured p
 
 ![Settings](assets/setadvanced.jpeg)
 
-First, you will need to have the **Display Mainbody** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Ricochet Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
+First, you will need to have the **Display Mainbody** option set to **On** in your theme settings. You can find this option by navigating to **Admin -> Ricochet Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
 By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Ricochet Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear.
 

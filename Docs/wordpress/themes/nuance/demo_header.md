@@ -57,7 +57,7 @@ This section of the page is a standard text widget. You will need to enter the f
 <span class="rt-floatleft"><img src="http://demo.rockettheme.com/live/wordpress/nuance/wp-content/rockettheme/rt_nuance_wp/home/fp-header/img-01.jpg" alt="image"></span>
 <span class="rt-floatright hidden-tablet"><i class="fa fa-chevron-down"></i></span>
 <span>
-    <small><span class="hidden-tablet">Template by</span><span class="visible-tablet">By</span></small><br />
+    <small><span class="hidden-tablet">Theme by</span><span class="visible-tablet">By</span></small><br />
     <span>RocketTheme<span class="hidden-tablet"> LLC</span></span>
 </span> 
 <div class="clear"></div>

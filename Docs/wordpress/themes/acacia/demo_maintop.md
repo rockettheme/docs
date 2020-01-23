@@ -19,7 +19,7 @@ Here is the widget breakdown for the Main Top section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
-<p class="rt-intro-text rt-center"><a href="#">Gantry 4</a> rests at the core of the Acacia template and provides a range of features, such as dynamic module grids, expandable features and an intuitive administrative interface.</p>
+<p class="rt-intro-text rt-center"><a href="#">Gantry 4</a> rests at the core of the Acacia theme and provides a range of features, such as dynamic module grids, expandable features and an intuitive administrative interface.</p>
 
 <br />
 

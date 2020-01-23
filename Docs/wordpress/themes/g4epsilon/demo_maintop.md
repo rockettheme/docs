@@ -33,7 +33,7 @@ Custom Shapes
 **Description**
 
 ~~~ .html
-<h5 class="rt-uppercase">Quick, Easy &amp; Visually Effective</h5><p class="rt-small-text hidden-tablet">Epsilon uses a combination of custom template images, overlays and SVG masks to proliferate hexagons throughout the theme.</p>
+<h5 class="rt-uppercase">Quick, Easy &amp; Visually Effective</h5><p class="rt-small-text hidden-tablet">Epsilon uses a combination of custom theme images, overlays and SVG masks to proliferate hexagons throughout the theme.</p>
 ~~~
 
 | Option     | Setting                                                    |

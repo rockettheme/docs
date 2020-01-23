@@ -29,7 +29,7 @@ This section of the page is a standard text widget. You will need to enter the f
 		<img src="http://(your url)/wordpress/tessellate2/wp-content/rockettheme/rt_tessellate_wp/home/fp-maintop/img-01.jpg" alt="image" />
 		<div class="fp-maintop-img-desc">
 			<h6 class="nomargintop smallmarginbottom">Information</h6>
-			<p>Gantry is a template framework for Joomla and Wordpress<span class="hidden-tablet">, by RocketTheme, providing a standardized product core</span>.</p>
+			<p>Gantry is a theme framework for Joomla and Wordpress<span class="hidden-tablet">, by RocketTheme, providing a standardized product core</span>.</p>
 		</div>
 	</div>
 	<div class="gantry-width-50 fp-maintop-col2">

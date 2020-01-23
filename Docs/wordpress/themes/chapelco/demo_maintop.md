@@ -97,7 +97,7 @@ You will need to enter the following in the main text field to create this text 
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Enter `Template Overview` as the **Title** of the widget.
+* Enter `Theme Overview` as the **Title** of the widget.
 * Set the **Title Variation** option to **Title 5**.
 * Enter `icon-star featuretitle fp-maintop hidden-phone` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
