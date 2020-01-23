@@ -1,7 +1,7 @@
 ---
 title: Interstellar: Newsletter Particle
 description: Your Guide to Recreating Elements of the Interstellar Demo for Grav
-breadcrumb: /grav:Grav/!themes:Templates/interstellar:Interstellar
+breadcrumb: /grav:Grav/!themes:Themes/interstellar:Interstellar
 
 ---
 
