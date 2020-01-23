@@ -1,7 +1,7 @@
 ---
 title: Photon: Accordion Particle
 description: Your Guide to Recreating Elements of the Photon Demo for Grav
-breadcrumb: /grav:Grav/!themes:Templates/photon:Photon
+breadcrumb: /grav:Grav/!themes:Themes/photon:Photon
 
 ---
 

@@ -75,5 +75,5 @@ These items are each part of the whole particle. Essentially, a single item is a
 | Minimum Value | Only used for **Number Input** item types, this enables you to set a minimum value for the number spinner.                                |
 | Maximum Value | Only used for **Number Input** item types, this enables you to set a maximum value for the number spinner.                                |
 
-If you would like help customizing the email template that is sent to you whenever a visitor fills out the form, please check out our [documentation](howto_customize_email.md).
+If you would like help customizing the email theme that is sent to you whenever a visitor fills out the form, please check out our [documentation](howto_customize_email.md).
 
