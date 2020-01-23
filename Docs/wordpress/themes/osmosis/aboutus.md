@@ -1,14 +1,14 @@
 ---
 title: Osmosis: Recreating the Demo - About Us Page
 description: Your Guide to Recreating Elements of the Osmosis Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/osmosis:Osmosis
+breadcrumb: /wordpress:WordPress/!themes:Themes/osmosis:Osmosis
 
 ---
 
 Introduction
 -----
 
-The **About Us** example page demonstrates how you can create a beautiful page with the Osmosis template. Here is some information to help you replicate this page as it appears in the demo.
+The **About Us** example page demonstrates how you can create a beautiful page with the Osmosis theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----
@@ -235,7 +235,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <p>Utilized with Versatile and Flexible Features Powered by the Gantry Framework.</p>
-<p><a href="http://www.rockettheme.com/joomla/templates/osmosis" class="readon largemargintop">Download Osmosis</a></p>
+<p><a href="http://www.rockettheme.com/wordpress/themes/osmosis" class="readon largemargintop">Download Osmosis</a></p>
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

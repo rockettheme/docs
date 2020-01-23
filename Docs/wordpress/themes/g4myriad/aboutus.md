@@ -1,14 +1,14 @@
 ---
 title: Myriad: Recreating the Demo - About Us Page
 description: Your Guide to Recreating Elements of the Myriad Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/myriad:Myriad
+breadcrumb: /wordpress:WordPress/!themes:Themes/myriad:Myriad
 
 ---
 
 Introduction
 -----
 
-The **About Us** example page demonstrates how you can create a beautiful page with the Myriad template. Here is some information to help you replicate this page as it appears in the demo.
+The **About Us** example page demonstrates how you can create a beautiful page with the Myriad theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

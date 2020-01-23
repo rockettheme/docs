@@ -1,7 +1,7 @@
 ---
 title: Chimera: Recreating the Demo - About Us Page
 description: Your Guide to Recreating Elements of the Chimera Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/chimera:Chimera
+breadcrumb: /wordpress:WordPress/!themes:Themes/chimera:Chimera
 
 ---
 

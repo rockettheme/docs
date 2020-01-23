@@ -1,7 +1,7 @@
 ---
 title: Sirocco: Recreating the Demo - About Us Page
 description: Your Guide to Recreating Elements of the Sirocco Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/sirocco:Sirocco
+breadcrumb: /wordpress:WordPress/!themes:Themes/sirocco:Sirocco
 
 ---
 
