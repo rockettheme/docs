@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/osmosis:Osmosis
 Introduction
 -----
 
-The **Blog** example page demonstrates how you can create a beautiful page with the Osmosis template. Here is some information to help you replicate this page as it appears in the demo.
+The **Blog** example page demonstrates how you can create a beautiful page with the Osmosis theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

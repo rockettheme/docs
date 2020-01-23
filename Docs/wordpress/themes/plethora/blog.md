@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/plethora:Plethora
 Introduction
 -----
 
-The **Blog** example page demonstrates how you can create a beautiful page with the Plethora template. Here is some information to help you replicate this page as it appears in the demo.
+The **Blog** example page demonstrates how you can create a beautiful page with the Plethora theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----
