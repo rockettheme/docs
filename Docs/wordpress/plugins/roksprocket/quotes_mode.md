@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Quotes Layout Mode
 description: Your Guide to the Quotes RokSprocket Layout Mode for WordPress
-breadcrumb: /wordpress:WordPress/!extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 

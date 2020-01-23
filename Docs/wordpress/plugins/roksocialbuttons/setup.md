@@ -1,7 +1,7 @@
 ---
 title: RokSocialButtons - Setup Guide
 description: Your Guide to Using RokSocialButtons for WordPress
-breadcrumb: /wordpess:WordPress/!extensions:Extensions/roksocialbuttons:RokSocialButtons
+breadcrumb: /wordpess:WordPress/!plugins:Plugins/roksocialbuttons:RokSocialButtons
 
 ---
 

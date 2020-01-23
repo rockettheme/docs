@@ -1,7 +1,7 @@
 ---
 title: RokBox: FAQ
 description: Your Guide to Using RokBox for WordPress
-breadcrumb: /wordpress:WordPress/!extensions:Extensions/!rokbox:RokBox
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokbox:RokBox
 
 ---
 

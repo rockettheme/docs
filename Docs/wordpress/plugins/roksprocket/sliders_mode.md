@@ -1,7 +1,7 @@
 ---
 title: RokSprocket: Sliders Layout Mode
 description: Your Guide to the Sliders RokSprocket Layout Mode for WordPress
-breadcrumb: /wordpress:WordPress/!extensions:Extensions/!roksprocket:RokSprocket
+breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksprocket:RokSprocket
 
 ---
 
