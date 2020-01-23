@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /joomla:Joomla/!plugins:Plugins/!rokgallery:RokGallery
+breadcrumb: /wordpess:WordPress/!plugins:Plugins/!rokgallery:RokGallery
 
 details: http://www.rockettheme.com/wordpress/plugins/rokgallery
 demo: http://demo.rockettheme.com/joomla/rokgallery/

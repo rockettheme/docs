@@ -1,7 +1,7 @@
 ---
 title: Xenon: Recreating the Demo - Feature Section
 description: Your Guide to Recreating Elements of the Xenon Demo for WordPress
-breadcrumb: /joomla:Joomla/!themes:Themes/xenon:Xenon
+breadcrumb: /wordpess:WordPress/!themes:Themes/xenon:Xenon
 
 ---
 

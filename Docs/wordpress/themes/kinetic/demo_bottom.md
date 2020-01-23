@@ -56,7 +56,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <p><em class="bold2">A full and installable copy of the Kinetic demo</em></p>
-<p>Download our RocketLauncher pack to install an exact copy of this Joomla demo on your server.</p>
+<p>Download our RocketLauncher pack to install an exact copy of this WordPress demo on your server.</p>
 <p><a href="#" class="readon"><span>Read More</span></a></p>
 ~~~
 

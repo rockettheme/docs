@@ -64,7 +64,7 @@ The third Text widget in the section is made a lot like the others. You will nee
 <img src="http://demo.rockettheme.com/wordpress-themes/wp_ionosphere/wp-content/rockettheme/rt_ionosphere_wp/frontpage/fp-footer-icon3.png" alt="image" class="largepaddingleft floatleft smallpaddingright largemarginbottom largepaddingbottom" />
 <em class="bold2 nobold">
     Ionosphere Theme LLC<br />
-  123 Joomla! Boulevard<br />
+  123 WordPress! Boulevard<br />
   Seattle, WA 00000, USA
 </em>
 <div class="clear largemarginbottom">&nbsp;</div>

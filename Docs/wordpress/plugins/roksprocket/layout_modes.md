@@ -21,7 +21,7 @@ Below, you will see each layout mode listed along with the settings which are av
 
 :   1. **Title** You need to assign a title to the widget in order to continue past the first setup page. [15%, 13%, se]
     2. **Layout** The layout determines how the widget will appear on the frontend. [30%, 39%, se]
-    3. **Content Provider** This option allows you select from any available content providers on your Joomla site. [58%, 35%, se]
+    3. **Content Provider** This option allows you select from any available content providers on your WordPress site. [58%, 35%, se]
     4. **Continue** Selecting this will create the widget and take you to the next step in the setup process. Once this is clicked, the widget's content provider and layout can not be changed. [84%, 46%, se]
 
 Once you have selected to create a new RokSprocket widget, you will be taken to a page where you can pick a **Content Provider** and a **Layout**. Once you have done this, and given the widget a **Title** you can click **Continue** to begin refining the widget on the next page.
