@@ -8,14 +8,14 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/cygnet:Cygnet
 Introduction
 -----
 
-The **Contact Us** example page demonstrates how you can create a beautiful contact page with the Cygnet template. Here is some information to help you replicate this page as it appears in the demo.
+The **Contact Us** example page demonstrates how you can create a beautiful contact page with the Cygnet theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Mainbody
 -----
 
 ![Mainbody](page_contactus_5.png)
 
-The **Contact Us** page is a common WordPress page. The page's content is blank. The contact form is loaded as the result of setting the **Template** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `template-contact.php` file located in the theme's directory.
+The **Contact Us** page is a common WordPress page. The page's content is blank. The contact form is loaded as the result of setting the **Template** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `theme-contact.php` file located in the theme's directory.
 
 Widgets
 -----

@@ -1,6 +1,6 @@
 ---
 title: Supra: CSS Classes
-description: Your Guide to Using the Supra Template for WordPress
+description: Your Guide to Using the Supra Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/supra:Supra
 
 ---
