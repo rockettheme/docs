@@ -1,14 +1,14 @@
 ---
 title: Osmosis: Recreating the Demo - Services Page
 description: Your Guide to Recreating Elements of the Osmosis Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/osmosis:Osmosis
+breadcrumb: /wordpress:WordPress/!themes:Themes/osmosis:Osmosis
 
 ---
 
 Introduction
 -----
 
-The **Services** example page demonstrates how you can create a beautiful page with the Osmosis template. Here is some information to help you replicate this page as it appears in the demo.
+The **Services** example page demonstrates how you can create a beautiful page with the Osmosis theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

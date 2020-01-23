@@ -1,14 +1,14 @@
 ---
 title: Chimera: Recreating the Demo - Services Page
 description: Your Guide to Recreating Elements of the Chimera Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/chimera:Chimera
+breadcrumb: /wordpress:WordPress/!themes:Themes/chimera:Chimera
 
 ---
 
 Introduction
 -----
 
-The **Services** example page demonstrates how you can create a beautiful page with the Chimera template. Here is some information to help you replicate this page as it appears in the demo.
+The **Services** example page demonstrates how you can create a beautiful page with the Chimera theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

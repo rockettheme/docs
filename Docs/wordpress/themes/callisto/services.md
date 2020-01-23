@@ -466,7 +466,7 @@ Efficiently unleash cross-media information without cross-media value. Quickly m
 | Info Lists Item 2 Title       | `Security`                                                             |
 | Info Lists Item 2 Link        | `#`                                                                  |
 | Info Lists Item 2 Description | `Dynamically procrastinate B2C users after installed base benefits.` |
-| Info Lists Item 3 Title       | `Template`                                                           |
+| Info Lists Item 3 Title       | `Theme`                                                           |
 | Info Lists Item 3 Link        | `#`                                                                  |
 | Info Lists Item 3 Description | `Dynamically procrastinate B2C users after installed base benefits.` |
 

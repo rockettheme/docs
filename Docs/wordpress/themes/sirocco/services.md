@@ -1,14 +1,14 @@
 ---
 title: Sirocco: Recreating the Demo - Services Page
 description: Your Guide to Recreating Elements of the Sirocco Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/sirocco:Sirocco
+breadcrumb: /wordpress:WordPress/!themes:Themes/sirocco:Sirocco
 
 ---
 
 Introduction
 -----
 
-The **Services** example page demonstrates how you can create a beautiful page with the Sirocco template. Here is some information to help you replicate this page as it appears in the demo.
+The **Services** example page demonstrates how you can create a beautiful page with the Sirocco theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

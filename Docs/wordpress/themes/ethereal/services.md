@@ -289,7 +289,7 @@ This area of the page is a **Custom HTML** particle. You will find the settings 
         <div class="g-infolist-item">
           <div class="g-infolist-item-text">
             <div class="g-infolist-item-title">
-              <a href="#">Template</a>
+              <a href="#">Theme</a>
             </div>
             <div class="g-infolist-item-desc">
               Dynamically procrastinate B2C users after installed base benefits.
