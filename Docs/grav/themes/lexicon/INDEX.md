@@ -102,7 +102,7 @@ Key Features
 
 ![Color Chooser](ft-2.jpg)
 
-Lexicon has an extensive Color Chooser in the template manager to provide intricate controls for each section of Lexicon, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
+Lexicon has an extensive Color Chooser in the theme manager to provide intricate controls for each section of Lexicon, inclusive of text color, background color and image, as well as page surrounds. Edit preexisting or create new presets
 
 ## Dropdown Menu
 

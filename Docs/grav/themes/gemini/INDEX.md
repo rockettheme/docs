@@ -1,7 +1,7 @@
 ---
 title: Gemini
-description: Your Guide to Using the Gemini Template for Grav
-breadcrumb: /grav:Grav/!themes:Templates/!gemini:Gemini
+description: Your Guide to Using the Gemini Theme for Grav
+breadcrumb: /grav:Grav/!themes:Theme/!gemini:Gemini
 
 ---
 

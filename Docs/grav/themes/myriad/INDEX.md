@@ -100,10 +100,10 @@ The theme makes uses of animated effects to add depth and character to content, 
 
 ![Style Settings](ft-3.jpg)
 
-Myriad has an extensive Color Chooser in the template manager to provide intricate controls for each section, inclusive of overlay type, text color, background color, as well as accent colors. Edit preexisting or create new presets.
+Myriad has an extensive Color Chooser in the theme manager to provide intricate controls for each section, inclusive of overlay type, text color, background color, as well as accent colors. Edit preexisting or create new presets.
 
 ## Responsive
 
 ![Responsive](ft-4.jpg)
 
-Myriad is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
+Myriad is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.

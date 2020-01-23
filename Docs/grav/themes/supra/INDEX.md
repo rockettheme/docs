@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!supra:Supra
 Introduction
 -----
 
-Supra is a powerhouse template loaded with features and uncompromising in its versatility. Build beautiful background slideshows in seconds, and customize your site with over 25 powerful particles that make setting up a complete website a snap.
+Supra is a powerhouse theme loaded with features and uncompromising in its versatility. Build beautiful background slideshows in seconds, and customize your site with over 25 powerful particles that make setting up a complete website a snap.
 
 ![](assets/supra.jpeg)
 

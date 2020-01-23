@@ -50,7 +50,7 @@ Key Features
 * Vertical Slider
 * Video 
 
-### Template Features
+### Theme Features
 
 * Responsive Layout
 * 5 Preset Styles

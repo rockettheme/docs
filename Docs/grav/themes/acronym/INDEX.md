@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!acronym:Acronym
 Introduction
 -----
 
-Acronym is a template straight out of the future. Featuring a customizable animated background, beautifully bold Headerlicious particle, and the exclusive Owl Cards. This is the perfect theme for artists, photographers, blogs, and more.
+Acronym is a theme straight out of the future. Featuring a customizable animated background, beautifully bold Headerlicious particle, and the exclusive Owl Cards. This is the perfect theme for artists, photographers, blogs, and more.
 
 ![](assets/acronym.jpeg)
 

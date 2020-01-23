@@ -8,7 +8,7 @@ breadcrumb: /grav:Grav/!themes:Themes/!fluent:Fluent
 Introduction
 -----
 
-Fluent is a clean design with modern, transparent elements and powerful sliders. It features exclusive particles that make creating a gorgeous, responsive website a breeze. The perfect template for startups and bloggers.
+Fluent is a clean design with modern, transparent elements and powerful sliders. It features exclusive particles that make creating a gorgeous, responsive website a breeze. The perfect theme for startups and bloggers.
 
 ![](assets/fluent.jpeg)
 
