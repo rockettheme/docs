@@ -1,7 +1,7 @@
 ---
 title: Gemini: Simple Menu Particle
 description: Your Guide to Recreating Elements of the Gemini Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/gemini:Gemini
+breadcrumb: /wordpress:WordPress/!themes:Themes/gemini:Gemini
 
 ---
 

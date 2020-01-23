@@ -1,14 +1,14 @@
 ---
 title: Iridescent: Recreating the Demo - Portfolio Page
 description: Your Guide to Recreating Elements of the Iridescent Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/iridescent:Iridescent
+breadcrumb: /wordpress:WordPress/!themes:Themes/iridescent:Iridescent
 
 ---
 
 Introduction
 -----
 
-The **Portfolio** example page demonstrates how you can create a beautiful page with the Iridescent template. Here is some information to help you replicate this page as it appears in the demo.
+The **Portfolio** example page demonstrates how you can create a beautiful page with the Iridescent theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----
