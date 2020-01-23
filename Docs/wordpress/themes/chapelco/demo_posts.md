@@ -14,15 +14,15 @@ This area of the front page is the mainbody. It allows you to display featured p
 
 ![][mainbody]
 
-First, you will need to have the **Display Mainbody** option set to **On** in your template settings. You can find this option by navigating to **Admin -> Chapelco Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
+First, you will need to have the **Display Mainbody** option set to **On** in your theme settings. You can find this option by navigating to **Admin -> Chapelco Theme -> Advanced -> Display Mainbody**. You will also want to make sure that the posts you want to display are set in the published status.
 
 By default, WordPress displays the most recent posts in this area of the page. You can assign specific categories to the blog view by navigating to **Admin -> Chapelco Theme -> Content -> Blog View -> Blog Category** and entering (comma separated) category IDs. If the field is left blank, the most recent posts will appear. 
 
-Below, we have listed the settings of the post titled **Top Template of the Year**.
+Below, we have listed the settings of the post titled **Top Theme of the Year**.
 
 | Option         | Settings                   |
 | :------------- | :-----------------         |
-| Title          | `Top Template of the Year` |
+| Title          | `Top Theme of the Year` |
 | Status         | Published                  |
 | Tags           | Blank                      |
 | Featured Image | Blank                      |
@@ -34,7 +34,7 @@ Most of the magic takes place in the post content:
 <div class="rt-block title1 title3 title4 icon-star fp-featured-title">
     <div class="module-title">
         <h2 class="title">
-            <span>Top Template <span class="hidden-phone">of the Year</span></span>             
+            <span>Top Theme <span class="hidden-phone">of the Year</span></span>             
         </h2>
     </div>
 </div>
