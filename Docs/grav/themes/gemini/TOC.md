@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /grav:Grav/!themes:Templates/!gemini:Gemini
+breadcrumb: /grav:Grav/!themes:Themes/!gemini:Gemini
 
 details: http://www.rockettheme.com/grav/themes/gemini/
 demo: http://demo.rockettheme.com/grav-themes/gemini/
