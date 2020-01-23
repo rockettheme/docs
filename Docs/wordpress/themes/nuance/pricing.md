@@ -1,14 +1,14 @@
 ---
 title: Nuance: Recreating the Demo - Pricing Tables Page
 description: Your Guide to Recreating Elements of the Nuance Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/nuance:Nuance
+breadcrumb: /wordpress:WordPress/!themes:Themes/nuance:Nuance
 
 ---
 
 Introduction
 -----
 
-The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Nuance template. Here is some information to help you replicate this page as it appears in the demo.
+The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Nuance theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

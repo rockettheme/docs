@@ -1,14 +1,14 @@
 ---
 title: Tessellate: Recreating the Demo - Pricing Tables Page
 description: Your Guide to Recreating Elements of the Tessellate Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/tessellate:Tessellate
+breadcrumb: /wordpress:WordPress/!themes:Themes/tessellate:Tessellate
 
 ---
 
 Introduction
 -----
 
-The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Tessellate template. Here is some information to help you replicate this page as it appears in the demo.
+The **Pricing Tables** example page demonstrates how you can create a beautiful page with the Tessellate theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----
