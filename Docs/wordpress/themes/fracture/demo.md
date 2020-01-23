@@ -46,7 +46,7 @@ It would be a good idea for organization to name this layout override something 
 We do not display any pages or posts on the front page of our demo, except through RokSprocket widgets. Because of this, we will need to cancel out the main content area while preserving our sidebar positions. To do this, you will want to select the **Display Content** field and turn this off.
 
 #### Assignments
-The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Template Page Types** list, you will want to select both **Home Page** and **Front Page**.
+The next step you will need to take in creating your Theme Settings override is to assign the Front Page override to the site's home page. Under the **Theme Page Types** list, you will want to select both **Home Page** and **Front Page**.
 
 Doing this will assign the override to these two page types. This will allow the override to cover all access scenarios that would lead a user to your site's main home page.
 
