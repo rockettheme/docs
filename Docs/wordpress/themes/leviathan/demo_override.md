@@ -69,7 +69,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 ### Assignments
 | Override   | Option              | Setting               |  
 | :--------- | :------------------ | :-------------------- |  
-| Front Page | Template Page Types | Home Page, Front Page |    
+| Front Page | Theme Page Types | Home Page, Front Page |    
 
 [menu]: ../../start/menu.md
 [override]: http://docs.gantry.org/gantry4/configure

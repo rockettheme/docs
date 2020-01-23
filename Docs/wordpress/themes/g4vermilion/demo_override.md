@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override |         Option         |                  Setting                   |
 | :------- | :--------------------- | :----------------------------------------- |
-| Default  | Logo                   | Type: Vermilion Template                   |
+| Default  | Logo                   | Type: Vermilion Theme                   |
 | Default  | Main Menu Animation    | Enable: On                                 |
 | Default  | Featured Image Size    | Width: 750, Height: 297, Position: None    |
 | Default  | Font Settings          | Font Family: Vermilion, Font Size: Default |
@@ -94,8 +94,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |  Override  |       Option       |  Setting   |
 | :--------- | :----------------- | :--------- |
-| Front Page | Template Page Type | Front Page |
-| Front Page | Template Page Type | Home Page  |
+| Front Page | Theme Page Type | Front Page |
+| Front Page | Theme Page Type | Home Page  |
 
 [demo]: assets/vermilion2.jpeg
 [menu]: ../../start/menu.md

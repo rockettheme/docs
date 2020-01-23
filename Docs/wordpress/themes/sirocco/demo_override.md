@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style   | Option                 | Setting                                                                        |
 | :------ | :--------------------- | :----------------------------------------------------------------------------- |
-| Default | Logo                   | Type: Sirocco Template                                                         |
+| Default | Logo                   | Type: Sirocco Theme                                                         |
 | Default | Accent Style           | Accent 1 Color: `#ea3e5c`, Accent 2 Color: `#00acba`                           |
 | Default | Top Style              | Text Color: `#000000`, Background Color: `#f6f6f6`                             |
 | Default | Header Style           | Text Color: `#000000`, Background Color: `#ffffff`                             |
@@ -108,5 +108,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |

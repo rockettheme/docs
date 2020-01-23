@@ -18,7 +18,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override   | Option                 | Setting                                    |  
 | :--------- | :--------------------- | :----------------------------------------- |  
-| Default    | Logo                   | Spectral Template                          |  
+| Default    | Logo                   | Spectral Theme                          |  
 | Default    | Fixed Header           | Off                                        |  
 | Default    | MainBody Overlap       | Off                                        |  
 | Default    | Responsive Menu        | Panel                                      |  

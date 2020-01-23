@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Style      | Option                 | Setting                                                                           |
 | :--------- | :--------------------- | :-------------------------------------------------------------------------------- |
-| Default    | Logo                   | Show: On, Type: Ricochet Template                                                 |
+| Default    | Logo                   | Show: On, Type: Ricochet Theme                                                 |
 | Default    | Accent Style           | Accent 1 Color: `#66bdbb`, Accent 2 Color: `#80c294`, Accent 3 Color: `#fefcd0`   |
 | Default    | Demo Style             |                                                                                   |
 | Default    | SideSlider Style       | Text Color: `#7a7a7a`, Background Color: `#f6f6f6`                                |
@@ -112,8 +112,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |
 
 [demo]: assets/ricochet2.jpeg
 [menu]: ../../start/menu.md

@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |  Override  |         Option         |                                                  Setting                                                   |
 | :--------- | :--------------------- | :--------------------------------------------------------------------------------------------------------- |
-| Default    | Logo                   | Type: Osmosis Template                                                                                     |
+| Default    | Logo                   | Type: Osmosis Theme                                                                                     |
 | Default    | Accent Style           | Accent 1 Color: `#4BA5AD`, Accent 2 Color: `#3a949f`, Accent 3 Color: `#318499`, Accent 4 Color: `#2c7799` |
 | Default    | Demo Style             | Preset 1                                                                                                   |
 | Default    | Main Menu Automation   | Enable: On                                                                                                 |
@@ -107,8 +107,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |  Override  |       Option       |  Setting   |
 | :--------- | :----------------- | :--------- |
-| Front Page | Template Page Type | Front Page |
-| Front Page | Template Page Type | Home Page  |
+| Front Page | Theme Page Type | Front Page |
+| Front Page | Theme Page Type | Home Page  |
 
 [demo]: assets/osmosis2.jpeg
 [menu]: ../../start/menu.md

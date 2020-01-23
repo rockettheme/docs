@@ -116,5 +116,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |

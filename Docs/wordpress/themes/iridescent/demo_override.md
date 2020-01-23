@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |  Style  |         Option         |                                    Setting                                     |
 | :------ | :--------------------- | :----------------------------------------------------------------------------- |
-| Default | Logo                   | Type: Iridescent Template                                                      |
+| Default | Logo                   | Type: Iridescent Theme                                                      |
 | Default | Demo Body Class        | Preset 1                                                                       |
 | Default | Accent Style           | Accent 1 Color: `#df172e`, Accent 2 Color: `#f66e7e`                           |
 | Default | PageSurround Style     | Background Color: `#e8e8e8`                                                    |
@@ -108,5 +108,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |

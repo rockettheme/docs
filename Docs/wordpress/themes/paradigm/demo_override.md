@@ -18,7 +18,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override   | Option                 | Setting                                    |  
 | :--------- | :--------------------- | :----------------------------------------- |  
-| Default    | Logo                   | Paradigm Template                          |   
+| Default    | Logo                   | Paradigm Theme                          |   
 | Default    | Responsive Menu        | Panel                                      |  
 | Default    | Featured Image Size    | Width: 750, Height: 280, Position: Left    |  
 | Default    | Font Settings          | Font Family: Paradigm, Font Size: Default  |  

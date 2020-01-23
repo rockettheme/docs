@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override | Option                 | Setting                                    |
 | :------- | :--------------------- | :----------------------------------------- |
-| Default  | Logo                   | Epsilon Template                           |
+| Default  | Logo                   | Epsilon Theme                           |
 | Default  | Demo RokSprocket       | Preset 1                                   |
 | Default  | MainBody Style         | Overlay: Light                             |
 | Default  | Responsive Menu        | Panel                                      |
@@ -96,8 +96,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override   | Option             | Setting    |  
 | :--------- | :----------------- | :--------- |  
-| Front Page | Template Page Type | Front Page |  
-| Front Page | Template Page Type | Home Page  |  
+| Front Page | Theme Page Type | Front Page |  
+| Front Page | Theme Page Type | Home Page  |  
 
 [demo]: assets/epsilon2.jpeg
 [menu]: ../../start/menu.md

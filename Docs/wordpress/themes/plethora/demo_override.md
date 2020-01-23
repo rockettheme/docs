@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option                 | Setting                                                      |
 | :---------- | :----------            | :----------                                                  |
-| Default     | Logo                   | Type: Plethora Template                                      |
+| Default     | Logo                   | Type: Plethora Theme                                      |
 | Default     | Accent Style           | Accent 1 Color: `#e35614`, Accent 2 Color: `#338de0`         |
 | Default     | Demo Style             | Preset 1                                                     |
 | Default     | Main Menu Automation   | Enable: On                                                   |
@@ -105,8 +105,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |
 
 [demo]: assets/plethora2.jpeg
 [menu]: ../../start/menu.md

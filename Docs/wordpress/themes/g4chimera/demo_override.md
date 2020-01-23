@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |   Style    |         Option         |                                      Setting                                      |
 | :--------- | :--------------------- | :-------------------------------------------------------------------------------- |
-| Default    | Logo                   | Show: On, Type: Chimera Template                                                  |
+| Default    | Logo                   | Show: On, Type: Chimera Theme                                                  |
 | Default    | Accent Style           | Accent 1 Color: `#b17e15`, Accent 2 Color: `#b2301a`                              |
 | Default    | Demo Style             |                                                                                   |
 | Default    | Slideshow Style        | Text Color: `#ffffff`, Background Color: `#975820`                                |
@@ -109,8 +109,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |
 
 [demo]: assets/chimera2.jpeg
 [menu]: ../../start/menu.md

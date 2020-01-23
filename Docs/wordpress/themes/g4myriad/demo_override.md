@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 |   Style    |         Option         |                                      Setting                                      |
 | :--------- | :--------------------- | :-------------------------------------------------------------------------------- |
-| Default    | Logo                   | Type: Myriad Template                                                             |
+| Default    | Logo                   | Type: Myriad Theme                                                             |
 | Default    | Accent Style           | Accent 1 Color: `#0085f6`, Accent 2 Color: `#34a1fc`                              |
 | Default    | Demo Style             | Preset 1                                                                          |
 | Default    | Body Style             | Light                                                                             |
@@ -108,5 +108,5 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |

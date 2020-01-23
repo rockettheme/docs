@@ -20,7 +20,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override   | Option                   | Setting                                                                                                    |
 | :--------- | :----------------------- | :--------------------------------------------------------------------------------------------------------- |
-| Default    | Logo                     | Show: On, Type: Nuance Template                                                                            |
+| Default    | Logo                     | Show: On, Type: Nuance Theme                                                                            |
 | Default    | Accent Style             | Accent 1 Color: `#00afe9`, Accent 2 Color: `#766396`                                                       |
 | Default    | Page Surround Style      | Background Color Top: `#746496`, Background Color Middle: `#6c7db4`, Background Color Bottom: `#32306e`    |
 | Default    | Header Surround Style    | Background Color: `#09053f`, Type: Preset 1                                                                |
@@ -104,8 +104,8 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option             | Setting     |
 | :---------- | :----------        | :---------- |
-| Front Page  | Template Page Type | Front Page  |
-| Front Page  | Template Page Type | Home Page   |
+| Front Page  | Theme Page Type | Front Page  |
+| Front Page  | Theme Page Type | Home Page   |
 
 [demo]: assets/nuance2.jpeg
 [menu]: ../../start/menu.md

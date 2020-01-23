@@ -101,7 +101,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 
 | Override    | Option              | Setting               |
 | :---------- | :----------         | :----------           |
-| Front Page  | Template Page Types | Home Page, Front Page |
+| Front Page  | Theme Page Types | Home Page, Front Page |
 
 [override]: http://docs.gantry.org/gantry4/configure
 [advanced]: assets/setadvanced.jpeg
