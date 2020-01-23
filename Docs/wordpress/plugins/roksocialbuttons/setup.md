@@ -1,6 +1,6 @@
 ---
 title: RokSocialButtons - Setup Guide
-description: Your Guide to Using RokSocialButtons for Joomla
+description: Your Guide to Using RokSocialButtons for WordPress
 breadcrumb: /wordpess:WordPress/!extensions:Extensions/roksocialbuttons:RokSocialButtons
 
 ---
