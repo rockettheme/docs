@@ -37,7 +37,7 @@ Setup
     2. **Filtered Article List Options** Gives you access to item-specific settings for the articles title, description, image, and link. [55%, 52%, sw]
     3. **Content Filter Rules** Sets the content filter rules for the widget. [54%, 83%, sw]
 
-1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more template integrated look. The **Position** field right below it gives you the ability to set the position within the template's layout the widget should appear in.
+1. The **Title** field gives you the ability to set a title for the widget itself. Every widget has to have a title, though you can opt to hide it from public view for a cleaner, more theme integrated look. The **Position** field right below it gives you the ability to set the position within the theme's layout the widget should appear in.
 
 2. The **Filtered Article List** gives you access to item-specific settings including:
 

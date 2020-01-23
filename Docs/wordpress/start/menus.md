@@ -12,7 +12,7 @@ WordPress has a powerful built-in menu system that makes it easy to create and m
 
 The menus you create using the menu editor determine the menu's content. The widget that links to the menu determines where and how that information will be presented.
 
-For the purpose of this guide, we are using a site built with the Gantry template as an example. Not all of the options present in this guide will be available on a core WordPress installation.
+For the purpose of this guide, we are using a site built with the Gantry theme as an example. Not all of the options present in this guide will be available on a core WordPress installation.
 
 How to Create a Menu
 -----

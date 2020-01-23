@@ -1,6 +1,6 @@
 ---
 title: Callisto: Front Page Layout
-description: Your Guide to Widget Positions in the Callisto Template for WordPress
+description: Your Guide to Widget Positions in the Callisto Theme for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/callisto:Callisto
 
 ---
