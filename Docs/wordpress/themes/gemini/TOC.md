@@ -1,6 +1,6 @@
 ---
 
-breadcrumb: /wordpress:WordPress/!themes:Templates/!gemini:Gemini
+breadcrumb: /wordpress:WordPress/!themes:Themes/!gemini:Gemini
 
 details: http://www.rockettheme.com/wordpress/themes/gemini/
 demo: http://demo.rockettheme.com/wordpress-themes/gemini/
@@ -21,7 +21,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-gemini/
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](layout.md)
-    - Template Particles
+    - Theme Particles
         + [Accordion](particle_accordion.md)
         + [Accordion Menu](particle_accordionmenu.md)
         + [Accordion Slider](particle_accordionslider.md)

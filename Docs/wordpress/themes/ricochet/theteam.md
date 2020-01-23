@@ -1,14 +1,14 @@
 ---
 title: Ricochet: Recreating the Demo - The Team Page
 description: Your Guide to Recreating Elements of the Ricochet Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/ricochet:Ricochet
+breadcrumb: /wordpress:WordPress/!themes:Themes/ricochet:Ricochet
 
 ---
 
 Introduction
 -----
 
-The **The Team** example page demonstrates how you can create a beautiful page with the Ricochet template. Here is some information to help you replicate this page as it appears in the demo.
+The **The Team** example page demonstrates how you can create a beautiful page with the Ricochet theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

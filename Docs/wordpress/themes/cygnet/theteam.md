@@ -1,14 +1,14 @@
 ---
 title: Cygnet: Recreating the Demo - The Team Page
 description: Your Guide to Recreating Elements of the Cygnet Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/cygnet:Cygnet
+breadcrumb: /wordpress:WordPress/!themes:Themes/cygnet:Cygnet
 
 ---
 
 Introduction
 -----
 
-The **The Team** example page demonstrates how you can create a beautiful page with the Cygnet template. Here is some information to help you replicate this page as it appears in the demo.
+The **The Team** example page demonstrates how you can create a beautiful page with the Cygnet theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----

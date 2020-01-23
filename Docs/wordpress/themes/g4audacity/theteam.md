@@ -1,14 +1,14 @@
 ---
 title: Audacity: Recreating the Demo - The Team Page
 description: Your Guide to Recreating Elements of the Audacity Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Templates/audacity:Audacity
+breadcrumb: /wordpress:WordPress/!themes:Themes/audacity:Audacity
 
 ---
 
 Introduction
 -----
 
-The **The Team** example page demonstrates how you can create a beautiful page with the Audacity template. Here is some information to help you replicate this page as it appears in the demo.
+The **The Team** example page demonstrates how you can create a beautiful page with the Audacity theme. Here is some information to help you replicate this page as it appears in the demo.
 
 Theme Override Options
 -----
