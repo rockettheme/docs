@@ -37,7 +37,7 @@ This section of the page is a standard text widget. You will need to enter the f
 			<div class="gantry-width-spacer">
 				<p><img class="rt-img-rounded" alt="image" src="http://demo.rockettheme.com/wordpress-themes/wp_praxis/wp-content/rockettheme/rt_praxis_wp/frontpage/feature/img2.jpg" /></p>
 				<h3 class="rt-dark-text">Site <strong>Performance</strong></h3>
-				<p><strong>Optimized</strong> images and compressed CSS files, through usage of the LESS, improve overall template performance.</p>
+				<p><strong>Optimized</strong> images and compressed CSS files, through usage of the LESS, improve overall theme performance.</p>
 			</div>
 		</div>
 

@@ -20,7 +20,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~
 <div class="module-title">
-  <h2 class="title">Template Features<span class="rt-title-tag">Paradigm provides the tools you need to setup your website with ease.</span></h2>
+  <h2 class="title">Theme Features<span class="rt-title-tag">Paradigm provides the tools you need to setup your website with ease.</span></h2>
 </div>
 
 <div class="gantry-width-block gantry-width-33">

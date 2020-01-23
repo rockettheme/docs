@@ -25,7 +25,7 @@ This section of the page is a standard text widget. The main text field is left 
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Set the **Title** to `Core Template Features`.
+* Set the **Title** to `Core Theme Features`.
 * Switch the **Widget Variations** option to **Ribbon 1**.
 * Leaving everything else at its default setting, select **Save**.
 

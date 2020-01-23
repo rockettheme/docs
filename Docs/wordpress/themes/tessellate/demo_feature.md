@@ -40,7 +40,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 <h3 class="largemargintop largepaddingtop">A web font based solution for adding icons, allowing them to be extensively styled via CSS</h3>
 
-<p class="smallmarginbottom">The theme features an updated library for Font Awesome with version 4+. This offers over 350 icons, which are fully scalable and easy to integrate into the design of the template and/or content, from widget titles to inside content items themselves.</p>
+<p class="smallmarginbottom">The theme features an updated library for Font Awesome with version 4+. This offers over 350 icons, which are fully scalable and easy to integrate into the design of the theme and/or content, from widget titles to inside content items themselves.</p>
 
 <a href="http://(your url)/wordpress/tessellate2/typography/" class="readon4">Read More</a>
 ~~~

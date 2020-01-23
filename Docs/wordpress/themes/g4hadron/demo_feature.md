@@ -23,7 +23,7 @@ Here is the widget breakdown for the Feature section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~
-<p class="fp-feature-content">The template also supports a simple coming soon or offline style page with a time counter.</p>
+<p class="fp-feature-content">The theme also supports a simple coming soon or offline style page with a time counter.</p>
 <p class="fp-feature-content">It has been specifically styled to match Hadron.</p>
 ~~~
 

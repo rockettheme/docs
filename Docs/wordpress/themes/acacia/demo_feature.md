@@ -38,7 +38,7 @@ This section of the page is a standard text widget. You will need to enter the f
             <div class="canvas-graph" data-canvas-graph='{"icon":"icon-inbox","iconSize":80,"radius":110,"size":15,"start":50}'><div class="longshadow"></div></div>
             <h3 class="title">Coming Soon</h3>
         </div>      
-        <p>The template also supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match Acacia.</p>
+        <p>The theme also supports a simple coming soon or offline style page with a time counter. It has been specifically styled to match Acacia.</p>
         <div class="rt-center">
             <a href="http://demo.rockettheme.com/live/wordpress/acacia/?tmpl=comingsoon" class="readon">Read More</a>
         </div>
