@@ -15,7 +15,7 @@ Mainbody
 
 ![Mainbody](page_contactus_5.png)
 
-The **Contact Us** page is a common WordPress page. The page's content is blank. The contact form is loaded as the result of setting the **Template** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `theme-contact.php` file located in the theme's directory.
+The **Contact Us** page is a common WordPress page. The page's content is blank. The contact form is loaded as the result of setting the **Theme** in the **Page Attributes** section of the sidebar to **Contact Form**. This form is loaded from the `theme-contact.php` file located in the theme's directory.
 
 Widgets
 -----

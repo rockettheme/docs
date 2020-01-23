@@ -65,7 +65,7 @@ Here is a breakdown of options changes you will want to make to match the demo.
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p><strong>Gantry Framework:</strong> An extensive foundation for all our templates. It provides the base for a series of advanced features and functions, as well as being completely adaptable, allowing templates to be as extensive as creatively possible. The override and layout features of Gantry give its true versatility, above and beyond its ranged core advantages.</p>
+<p><strong>Gantry Framework:</strong> An extensive foundation for all our themes. It provides the base for a series of advanced features and functions, as well as being completely adaptable, allowing themes to be as extensive as creatively possible. The override and layout features of Gantry give its true versatility, above and beyond its ranged core advantages.</p>
 <div class="clear"></div>
 ~~~
 

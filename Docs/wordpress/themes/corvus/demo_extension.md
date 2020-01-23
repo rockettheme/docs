@@ -46,7 +46,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Set the **Title** to `Popular [span class=\"hidden-tablet\"]Templates[/span]`.
+* Set the **Title** to `Popular [span class=\"hidden-tablet\"]Themes[/span]`.
 * Switch the **Box Variation** option to **Box 6**.
 * Enter `fp-extension horiztitle` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.

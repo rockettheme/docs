@@ -41,7 +41,7 @@ You will need to enter the following in the main text field.
     <a href="#" data-rokbox data-rokbox-element="#rt-image-copyright">Image Copyright &amp; Attribution</a>
     <div class="hidden">
         <div id="rt-image-copyright">
-            <p>Images used in the template backgrounds and for the frontpage content have been acquired from Flickr under the Creative Commons license, which requires attribution for use. A list of all the images in use and their respective authors is listed below. In addition, images used on the Pages items are copyrighted to <a href="http://www.shutterstock.com">Shutterstock</a>.</p>
+            <p>Images used in the theme backgrounds and for the frontpage content have been acquired from Flickr under the Creative Commons license, which requires attribution for use. A list of all the images in use and their respective authors is listed below. In addition, images used on the Pages items are copyrighted to <a href="http://www.shutterstock.com">Shutterstock</a>.</p>
             <ul>
                 <li><a href="http://www.flickr.com/photos/leshaines123/8747316385/">http://www.flickr.com/photos/leshaines123/8747316385/</a>
                 <br />

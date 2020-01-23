@@ -1,7 +1,7 @@
 ---
 title: Xenon: Recreating the Demo - Expanded Section
 description: Your Guide to Recreating Elements of the Xenon Demo for WordPress
-breadcrumb: /joomla:Joomla/!templates:Templates/xenon:Xenon
+breadcrumb: /joomla:Joomla/!themes:Themes/xenon:Xenon
 
 ---
 
@@ -39,7 +39,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 | CSS Classes               | Blank                                                                                                                                                                                                                                                         |
 | Title                     | Blank                                                                                                                                                                                                                                                         |
 | Height                    | `500px`                                                                                                                                                                                                                                                       |
-| Item 1 Name               | `The Gantry 5 Framework is the powerhouse behind the Xenon template`                                                                                                                                                                                          |
+| Item 1 Name               | `The Gantry 5 Framework is the powerhouse behind the Xenon theme`                                                                                                                                                                                          |
 | Item 1 Subtitle           | `For Joomla & WordPress`                                                                                                                                                                                                                                      |
 | Item 1 Header Description | `The latest version of the framework is a ground-up rewrite, focusing on performance and intuitive features`                                                                                                                                                  |
 | Item 1 Description        | `Gantry 5 offers several new features, for both end users and developers, such as the drag & drop interface for both the Layout Manager and Menu Editor. Alongside are powerful development features, such as Twig, YAML, SASS and extensive overridability.` |

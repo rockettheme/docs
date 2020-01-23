@@ -27,7 +27,7 @@ Here is the widget breakdown for the Bottom section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<span>Radiance Template, Inc.</span><br/>
+<span>Radiance Theme, Inc.</span><br/>
 <span>7001 Saint Thomas Av.</span><br/>
 <span>Seattle, WA, 00000, USA</span>
 ~~~

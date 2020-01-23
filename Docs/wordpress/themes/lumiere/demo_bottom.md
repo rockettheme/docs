@@ -18,7 +18,7 @@ You will need to enter the following in the main text field to create this text 
 <div class="gantry-width-block demo-width-100 nomarginbottom">
   <div class="gantry-width-30 gantry-width-block">
       <div class="gantry-width-spacer">
-  		<p class="promo-title title fp-popular-theme">Popular Templates</p>
+  		<p class="promo-title title fp-popular-theme">Popular Themes</p>
 	</div>   	 	
   </div>
   <div class="gantry-width-70 gantry-width-block">

@@ -80,7 +80,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <p><em class="bold">Validate Crystalline Live</em></p>
-<p>The template is fully compliant with the <strong>XHTML 1.0 Transitional</strong> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fdemo.rockettheme.com%2Fwordpress%2Fwp_crystalline&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;lang=en" target="_blank">CSS3 standards</a>, as set by the World Wide Web Consortium.</p>
+<p>The theme is fully compliant with the <strong>XHTML 1.0 Transitional</strong> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fdemo.rockettheme.com%2Fwordpress%2Fwp_crystalline&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;lang=en" target="_blank">CSS3 standards</a>, as set by the World Wide Web Consortium.</p>
 <a class="readon" href="http://validator.w3.org/check?uri=http://demo.rockettheme.com/live/wordpress/crystalline/"><span>Validate (HTML)</span></a>
 ~~~
 

@@ -54,7 +54,7 @@ how the demo is constructed.</p>
 </div>
 <h2 class="title"><a href="#">Documentation</a></h2>
 <p>In addition, Vermilion has free online guides to assist in setting up the
-template on your site.</p>
+theme on your site.</p>
 <p><a class="readon3" href=
 "http://www.rockettheme.com/docs/wordpress/themes/vermilion">Read More</a></p>
 <div class="clear"></div>

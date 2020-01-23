@@ -39,7 +39,7 @@ You will need to enter the following in the main text field to create this text 
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Enter `[span class="hidden-phone"]Additional Template [/span]Features` as the **Title**.
+* Enter `[span class="hidden-phone"]Additional Theme [/span]Features` as the **Title**.
 * Set the **Title Variation** to **Title 4**.
 * Enter `fp-bottom-a jaggedtitle` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.

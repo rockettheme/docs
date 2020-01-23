@@ -24,7 +24,7 @@ Here is the widget breakdown for the Content Bottom section:
 This section of the page is a standard text widget. You will need to enter the following in the main text field.
 
 ~~~ .html
-<p>Choose from an array of <strong>RocketTheme Plugins</strong>, which have integrated template styling support, such as <em>RokNewsPager</em>, <em>RokStories</em>, <em>RokTabs</em> or <em>RokGallery</em>.</p>
+<p>Choose from an array of <strong>RocketTheme Plugins</strong>, which have integrated theme styling support, such as <em>RokNewsPager</em>, <em>RokStories</em>, <em>RokTabs</em> or <em>RokGallery</em>.</p>
 <a href="http://demo.rockettheme.com/live/wordpress/momentum/plugins/" class="readon"><span>Read More</span></a>
 ~~~
 

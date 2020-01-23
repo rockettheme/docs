@@ -25,7 +25,7 @@ This section of the page is a standard text widget. You will need to enter the f
 
 ~~~ .html
 <a href="http://buddypress.org" target="_blank"><img width="185" height="60" alt="image" src="http://demo.rockettheme.com/live/wordpress/tachyon/wp-content/rockettheme/rt_tachyon_wp/general/ext-buddypress.png" /></a><br />
-Template specific styling for the popular <strong>social networking</strong> plugin. BuddyPress is a free plugin, and can be downloaded from the WordPress plugins directory or the official <a href="http://buddypress.org" target="_blank"><strong>BuddyPress</strong></a> site.
+Theme specific styling for the popular <strong>social networking</strong> plugin. BuddyPress is a free plugin, and can be downloaded from the WordPress plugins directory or the official <a href="http://buddypress.org" target="_blank"><strong>BuddyPress</strong></a> site.
 ~~~
 
 Here is a breakdown of options changes you will want to make to match the demo.

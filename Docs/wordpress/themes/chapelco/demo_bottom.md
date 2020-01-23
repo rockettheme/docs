@@ -22,7 +22,7 @@ You will need to enter the following in the main text field to create this text 
 
 Here is a breakdown of options changes you will want to make to match the demo.
 
-* Set the **Title** to `Popular [span class=\"hidden-tablet\"]Templates[/span]`.
+* Set the **Title** to `Popular [span class=\"hidden-tablet\"]Themes[/span]`.
 * Enter `horiztitle fp-popular hidden-phone` in the **Custom Variations** field.
 * Leaving everything else at its default setting, select **Save**.
 
