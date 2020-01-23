@@ -55,7 +55,7 @@ Here is the content body of the post.
 
 <div class="gantry-width-60 gantry-width-block visible-large">
   <div class="gantry-width-spacer largepaddingleft">
-    <p><strong>Graffito</strong>, the May 2013 template release, is a corporate-esque design, perfect for many sites with its contrast of visual character with subtlety.</p> 
+    <p><strong>Graffito</strong>, the May 2013 theme release, is a corporate-esque design, perfect for many sites with its contrast of visual character with subtlety.</p> 
 
     <p>Built with the <strong>Gantry4</strong> Framework, it features a responsive layout and LESS CSS support  for dynamic behaviours within stylesheets.</p>
 

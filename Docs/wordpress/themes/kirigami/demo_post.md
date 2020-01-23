@@ -37,7 +37,7 @@ Here is the content body of the post.
   <div class="rt-demo-spacer nomargintop">
     <p>The main focus of the <strong>Kirigami</strong> release, is its Responsive Layout. <span class="hidden-tablet"><strong>Responsive</strong> effectively means a design that will adapt automatically to match whatever device or window size is loading it.</span></p> 
 
-    <p>Therefore, you can have one template that will adjust itself to a <strong>mobile</strong>, tablet or desktop, without necessarily needing to load a separate layout with different content.</p>
+    <p>Therefore, you can have one theme that will adjust itself to a <strong>mobile</strong>, tablet or desktop, without necessarily needing to load a separate layout with different content.</p>
 
     <a class="readon" href="http://demo.rockettheme.com/wordpress-themes/wp_kirigami/features/"><span>See More</span></a>
   </div>
