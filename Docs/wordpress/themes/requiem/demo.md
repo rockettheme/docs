@@ -97,7 +97,6 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Requiem:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
 
 Many of these plugins are included with the Requiem RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 

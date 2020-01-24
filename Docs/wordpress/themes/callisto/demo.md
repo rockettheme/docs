@@ -56,8 +56,6 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Callisto:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
-* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
 Several of these plugins may be included with the Callisto RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 

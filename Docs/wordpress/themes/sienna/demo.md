@@ -84,7 +84,6 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Sienna:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
 Many of these plugins are included with the Sienna RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 

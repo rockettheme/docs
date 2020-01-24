@@ -95,10 +95,6 @@ Recommended Plugins
 Here is a list of RocketTheme plugins we recommend using with Ethereal:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
-* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
-* [RokSprocket](http://www.rockettheme.com/wordpress/plugins/roksprocket)
-* [RokCommon Library](http://www.rockettheme.com/wordpress/plugins/rokutilities) (Should be Installed and Activated Before RokGallery and/or RokSprocket)
 
 Many of these plugins are included with the Ethereal RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 

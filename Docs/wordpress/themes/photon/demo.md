@@ -60,8 +60,6 @@ Recommended Widgets
 Here is a list of RocketTheme widgets used to create the demo version of Photon:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/widgets/rokajaxsearch)
-* [RokBox](http://www.rockettheme.com/wordpress/widgets/rokbox)
 
 Many of these widgets are included with the Photon RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 

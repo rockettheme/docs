@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Antares can be done fairly easily. All you need is the right plugins and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Antares can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Antares Theme.
 
@@ -88,10 +88,6 @@ Recommended Plugins
 Here is a list of RocketTheme plugins used to create the demo version of Antares:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokAjaxSearch](http://www.rockettheme.com/wordpress/plugins/rokajaxsearch)
-* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
-* [RokCommon Library](https://rockettheme.com/wordpress/plugins/rokutilities)
-* [RokSprocket](http://www.rockettheme.com/wordpress/plugins/roksprocket)
 
 Many of these plugins are included with the Antares RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
