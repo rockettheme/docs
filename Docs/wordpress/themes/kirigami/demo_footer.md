@@ -87,7 +87,7 @@ The fourth Text widget in the section is made a lot like the others. You will ne
   <strong>Kirigami Theme LLC</strong><br />
 </em>
 <em class="bold nobold">
-  123 WordPress! Boulevard<br />
+  123 WordPress Boulevard<br />
   Seattle, WA 00000<br />
   United States of America
 </em>

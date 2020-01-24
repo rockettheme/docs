@@ -78,7 +78,7 @@ The third Text widget in the section is made a lot like the others. You will nee
   <strong>Ximenia Theme LLC</strong><br />
 </em>
 <em class="bold nobold">
-  123 WordPress! Boulevard<br />
+  123 WordPress Boulevard<br />
   Seattle, WA 00000<br />
   United States of America
 </em>

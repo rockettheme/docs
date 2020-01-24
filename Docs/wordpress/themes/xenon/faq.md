@@ -18,7 +18,7 @@ What is Gantry?
 Can I install RocketLauncher onto an existing WordPress website?
 -----
 
-No. RocketLauncher will install both WordPress and the demo sample content and images, so you will need a fresh WordPress! installation.
+No. RocketLauncher will install both WordPress and the demo sample content and images, so you will need a fresh WordPress installation.
 
 I installed Xenon RocketLauncher but the images are different with the demo site.
 -----

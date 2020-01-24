@@ -13,9 +13,9 @@ Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggl
 
 [Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme theme. It is an advanced platform for dramatically extending the capabilities of the entire theming system of WordPress.
 
-## Can I install RocketLauncher onto an existing WordPress! website?
+## Can I install RocketLauncher onto an existing WordPress website?
 
-No. RocketLauncher will install both WordPress and the demo sample content and images, so you will need a fresh WordPress! installation.
+No. RocketLauncher will install both WordPress and the demo sample content and images, so you will need a fresh WordPress installation.
 
 ## I installed Galatea RocketLauncher but the images are different with the demo site.
 
