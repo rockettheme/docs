@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/antares:Antares
 
 ---
 
-Is There a Way to Use a Normal Menu on the Front Page?
-----
-
-Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggle particle in the Navigation section.
-
 What is Gantry?
 -----
 

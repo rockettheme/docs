@@ -9,10 +9,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/antares:Antares
 
 No, Antares is only compatible with Joomla 3.4+.
 
-## Is There a Way to Use a Normal Menu on the Front Page?
-
-Absolutely! Just use a **Menu** particle or module in place of the Overlay Toggle particle in the Navigation section.
-
 ## What is Gantry?
 
 [Gantry][gantry] is, as a basic definition, a framework used for assembling, building and maintaining a RocketTheme template. It is an advanced platform for dramatically extending the capabilities of the entire theming system of Joomla.
@@ -37,4 +33,3 @@ Simply navigate to this tab, scroll down to the **Atoms** section, and select th
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/joomla-template-antares
-[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket

@@ -35,4 +35,3 @@ Simply navigate to this tab, scroll down to the **Atoms** section, and select th
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/joomla-template-galatea
-[roksprocket]: http://www.rockettheme.com/joomla/extensions/roksprocket
