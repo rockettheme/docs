@@ -8,7 +8,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/citadel:Citadel
 Introduction
 -----
 
-Recreating features of the demo site used to show off some of the more interesting aspects of Citadel can be done fairly easily. All you need is the right extensions and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
+Recreating features of the demo site used to show off some of the more interesting aspects of Citadel can be done fairly easily. All you need is the right particles and settings, and you should be able to reproduce most (if not all) of the elements found in our demo site.
 
 Below, we will break down some of these elements and give you the information you need to know to recreate them on your own site using the Citadel Theme.
 
@@ -74,15 +74,15 @@ Here is a list of particles that are available in Citadel, as well as links to d
     * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
-Recommended Extensions
+Recommended Plugins
 -----
 
-Here is a list of RocketTheme extensions used to create the demo version of Citadel:
+Here is a list of RocketTheme plugins used to create the demo version of Citadel:
 
 * [Gantry 5 Theme Framework](http://gantry.org/)
-* [RokBox](http://www.rockettheme.com/wordpress/extensions/rokbox)
+* [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox)
 
-Many of these extensions are included with the Citadel RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Citadel RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----

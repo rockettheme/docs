@@ -66,25 +66,25 @@ Below, you will find the widget placement and settings for the various widget po
 
 One important thing to note here is that many of the widget sections included in our demo are split up using a **Gantry Divider** widget. This widget tells WordPress to start a new widget column beginning with the widget placed directly below the divider in the section. You will see the Gantry Divider in any widget section breakdowns as they are included in the demo.
 
-Recommended Extensions
+Recommended Plugins
 -----
 
-Here is a list of RocketTheme extensions used to create the demo version of Grunge:
+Here is a list of RocketTheme plugins used to create the demo version of Grunge:
 
 * [Gantry Theme Framework][gantry]
 * [RokCommon Library](https://rockettheme.com/wordpress/plugins/rokutilities)
 * [RokNavMenu][roknavmenu]
 * [RokCandy][rokcandy]
 
-Many of these extensions are included with the Grunge RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Grunge RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 [gantry]: http://gantry.org/downloads
 [Grunge]: assets/grunge2.jpeg
 [Grunge2]: assets/grunge.jpg
 [demooverride]: demo_override.md
-[roknavmenu]: http://www.rockettheme.com/wordpress/extensions/roknavmenu
-[rokbooster]: http://www.rockettheme.com/wordpress/extensions/rokbooster
-[rokcandy]: http://www.rockettheme.com/wordpress/extensions/rokcandy
+[roknavmenu]: http://www.rockettheme.com/wordpress/plugins/roknavmenu
+[rokbooster]: http://www.rockettheme.com/wordpress/plugins/rokbooster
+[rokcandy]: http://www.rockettheme.com/wordpress/plugins/rokcandy
 [widget1]: demo_module_1.md
 [widget2]: demo_module_2.md
 [widget3]: demo_module_3.md
