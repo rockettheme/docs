@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/kraken:Kraken
 
 ---
 
-What is RokSprocket?
------
-
-[RokSprocket][roksprocket] is a powerful content display plugin for WordPress 2.5 and above. It was designed as the successor to our legacy content plugins: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts.
-
 What is Gantry?
 -----
 
@@ -27,4 +22,3 @@ To avoid image license copyright issues, all sample content images shown in our 
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/wordpress-theme-kraken
-[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket

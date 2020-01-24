@@ -10,11 +10,6 @@ Is There a Way to Use a Normal Menu on the Front Page?
 
 Absolutely! Just use a **Menu** particle or widget in place of the Overlay Toggle particle in the Navigation section.
 
-What is RokSprocket?
------
-
-[RokSprocket][roksprocket] is a powerful content display plugin for WordPress 3.x. It was designed as the successor to our legacy content plugins: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts.
-
 What is Gantry?
 -----
 
@@ -42,4 +37,3 @@ Simply navigate to this tab, scroll down to the **Atoms** section, and select th
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/wordpress-theme-antares
-[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket

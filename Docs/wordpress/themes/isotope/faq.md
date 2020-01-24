@@ -5,11 +5,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/isotope:Isotope
 
 ---
 
-What is RokSprocket?
------
-
-[RokSprocket][roksprocket] is a powerful content display plugin for WordPress 2.5 and above. It was designed as the successor to our legacy content plugins: RokStories, RokTabs, RokNewsPager, RokNewsflash, RokMicronews, and basically any widget in the RT arsenal that manipulates and displays posts.
-
 What is Gantry?
 -----
 
@@ -47,4 +42,3 @@ Adjusting the parallax effect in a section is also pretty straightforward. To do
 
 [gantry]: http://gantry.org/
 [forum]: http://www.rockettheme.com/forum/wordpress-theme-isotope
-[roksprocket]: http://www.rockettheme.com/wordpress/plugins/roksprocket
