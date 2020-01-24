@@ -19,6 +19,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-calla/
     - [Recreate the Demo](demo.md)
         + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
+        + [Particle Settings](demo.md#particles)
         + [Front Page Layout](demo.md#home-page-layout-presets)
     - Theme Particles
         * [Block Content](particle_block.md)
