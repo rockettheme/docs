@@ -18,5 +18,3 @@ No. RocketLauncher will install both WordPress and the demo sample content and i
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry.org/
-[forum]: http://www.rockettheme.com/forum/wordpress-theme-manticore
-[roksprocket]: http://www.rockettheme.com/wordpress/extensions/roksprocket
