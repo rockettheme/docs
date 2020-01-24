@@ -64,8 +64,3 @@ support: http://www.rockettheme.com/forum/wordpress-theme-sienna/
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
     - [Theme Font Index](../../../technical_tips/general/font_index.md)
     - [Customizing Simple Booking and Booking Form Email Templates](howto_customize_email.md)
-* Useful Plugin Guides
-    - [RokAjaxSearch](../../plugins/rokajaxsearch/)
-    - [RokBox](../../plugins/rokbox/)
-    - [RokGallery](../../plugins/rokgallery/)
-    - [RokSprocket](../../plugins/roksprocket/)
