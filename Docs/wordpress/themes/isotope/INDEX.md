@@ -38,7 +38,6 @@ Key Features
 * Fixed Side Position
 * Animated Side Menu
 * Horizontal Menu
-* RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page
