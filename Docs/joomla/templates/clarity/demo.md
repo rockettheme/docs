@@ -29,7 +29,6 @@ Template Particles
 * [Info List](particle_info.md)
 * [Testimonials](particle_testimonials.md)
 * [Category List](particle_categorylist.md)
-* [Topic List](particle_topiclist.md)
 * [Pricing Table](particle_pricing.md)
 * [Team](particle_team.md)
 * [Latest News](particle_latestnews.md)
