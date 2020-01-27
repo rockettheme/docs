@@ -109,7 +109,7 @@ Typography is an important instrument in not only the site design, but how your 
 
 ![Responsive](assets/ft-3.jpg)
 
-Clarity is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
+Clarity is a responsive theme which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
 
 ## Inheritance
 
