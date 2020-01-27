@@ -30,7 +30,6 @@ Theme Particles
 * [Testimonials](particle_testimonials.md)
 * [Category List](particle_categorylist.md)
 * [Pricing Table](particle_pricing.md)
-* [Team](particle_team.md)
 * [Latest News](particle_latestnews.md)
 * [Block Content](particle_block.md)
 * [Button](particle_button.md)
