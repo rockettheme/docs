@@ -34,7 +34,6 @@ Theme Particles
 * [Block Content](particle_block.md)
 * [Button](particle_button.md)
 * [Social](particle_social.md)
-* [Featured Video](particle_featuredvideo.md)
 * [Simple Counter](particle_simplecounter.md)
 * [Newsletter](particle_newsletter.md)
 * [Simple Menu](particle_simplemenu.md)
