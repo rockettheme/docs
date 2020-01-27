@@ -32,7 +32,6 @@ Template Particles
 * [Pricing Table](particle_pricing.md)
 * [Latest News](particle_latestnews.md)
 * [Block Content](particle_block.md)
-* [Button](particle_button.md)
 * [Social](particle_social.md)
 * [Simple Counter](particle_simplecounter.md)
 * [Newsletter](particle_newsletter.md)
