@@ -28,7 +28,6 @@ Theme Particles
 * [Slideshow](particle_slideshow.md)
 * [Info List](particle_info.md)
 * [Testimonials](particle_testimonials.md)
-* [Category List](particle_categorylist.md)
 * [Pricing Table](particle_pricing.md)
 * [Latest News](particle_latestnews.md)
 * [Block Content](particle_block.md)
