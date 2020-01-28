@@ -13,12 +13,9 @@ Here are the topics covered in this guide:
 
 * [Configuration](#configuration)
     - [Main Options](#main-options)
-        + [Particle Settings](#particle-settings)
     - [Item Options](#item-options)
 
 ### Main Options 
-
-#### Particle Settings
 
 ![](assets/particle_accordion1.png)
 
