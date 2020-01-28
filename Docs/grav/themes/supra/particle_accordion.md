@@ -20,7 +20,7 @@ Here are the topics covered in this guide:
 
 #### Tab A - Particle Settings
 
-![](assets/particle_accordion2.jpeg)
+![](assets/particle_accordion1.png)
 
 | Option         | Description                                                           |
 | :-----         | :-----                                                                |
