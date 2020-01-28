@@ -27,7 +27,6 @@ Here is a list of particles that are available in Supra, as well as links to doc
     + [Accordion](particle_accordion.md)
     + [Block Content](particle_block.md)
     + [Content Tabs](particle_tabs.md)
-    + [Feature List](particle_featurelist.md)
     + [Grid Content](particle_gridcontent.md)
     + [Grid Statistic](particle_grid.md)
     + [Image Grid](particle_image.md)

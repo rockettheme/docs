@@ -26,7 +26,6 @@ support: http://www.rockettheme.com/forum/grav-theme-supra/
         + [Accordion](particle_accordion.md)
         + [Block Content](particle_block.md)
         + [Content Tabs](particle_tabs.md)
-        + [Feature List](particle_featurelist.md)
         + [Grid Content](particle_gridcontent.md)
         + [Grid Statistic](particle_grid.md)
         + [Image Grid](particle_image.md)
