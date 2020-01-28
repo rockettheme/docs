@@ -14,7 +14,6 @@ Here are the topics covered in this guide:
 * [Configuration](#configuration)
     - [Main Options](#main-options)
         + [Particle Settings](#tab-a---particle-settings)
-        + [Particle Items](#tab-b---particle-items)
     - [Item Options](#item-options)
 
 ### Main Options 
