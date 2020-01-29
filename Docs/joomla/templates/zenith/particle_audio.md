@@ -33,9 +33,6 @@ These options affect the main area of the particle, and not the individual items
 | Now Playing Label    | Enter a label for the **Now Playing** section of the player.                                |
 | Playlist Layout      | Choose whether or not you wish to have a scrollbar appear in the playlist.                  |
 | Overflow Height      | Sets the overflow size (in pixels) for the playlist with the scrollbar.                     |
-| SoundCloud Client ID | In order to play SoundCloud files, you will need to have a SoundCloud ID. Enter it here.    |
-
-You can get a SoundCloud Client ID [here](http://soundcloud.com/you/apps/new).
 
 ### Item Options
 
