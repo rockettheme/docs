@@ -1,7 +1,7 @@
 ---
-title: Graffito: Recreating the Demo - Feature
-description: Your Guide to Recreating Elements of the Graffito Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/graffito:Graffito
+title: Enigma: Recreating the Demo - Feature
+description: Your Guide to Recreating Elements of the Enigma Theme for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/enigma:Enigma
 
 ---
 
