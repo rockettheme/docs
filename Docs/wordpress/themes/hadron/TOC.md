@@ -9,7 +9,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-hadron/
 
 ---
 
-* Hadron
+* Hadron (Gantry 5 Edition)
     * [Introduction](INDEX.md)
     * [Key Features](INDEX.md#key-features)
     * [Requirements](INDEX.md#requirements)
