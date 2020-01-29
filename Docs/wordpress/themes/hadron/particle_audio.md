@@ -7,8 +7,6 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/hadron:Hadron
 
 ## Introduction
 
-![Particle](assets/particle_audio.png)
-
 The **Audio Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
@@ -33,9 +31,6 @@ These options affect the main area of the particle, and not the individual items
 | Now Playing Label    | Enter a label for the **Now Playing** section of the player.                                |
 | Playlist Layout      | Choose whether or not you wish to have a scrollbar appear in the playlist.                  |
 | Overflow Height      | Sets the overflow size (in pixels) for the playlist with the scrollbar.                     |
-| SoundCloud Client ID | In order to play SoundCloud files, you will need to have a SoundCloud ID. Enter it here.    |
-
-You can get a SoundCloud Client ID [here](http://soundcloud.com/you/apps/new).
 
 ### Item Options
 
@@ -52,7 +47,5 @@ These items make up the individual featured items in the particle.
 | Audio Source      | Enables you to select a SoundCloud track, external URL, or local audio file as the audio for the track.           |
 | External URL      | If **External URL** is selected as the **Audio Source**, this is where you enter that URL.                        |
 | Local Audio       | If **Local Audio** is selected as the **Audio Source**, this is where you enter the file's location or select it. |
-| SoundCloud Track  | If **SoundCloud Track** is selected as the **Audio Source**, this is where you enter the track number.            |
-| SoundCloud Artist | Enables or disables the display of the artist's SoundCloud info in the track listing.                             |
 
 The particle has local support for any audio format that can be natively embedded using HTML5. This includes: mp3, ogg, and wav.
