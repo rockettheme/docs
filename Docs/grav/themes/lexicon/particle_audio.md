@@ -7,8 +7,6 @@ breadcrumb: /grav:Grav/!themes:Themes/lexicon:Lexicon
 
 ## Introduction
 
-![Particle](assets/particle_audio.png)
-
 The **Audio Player** particle enables you to quickly and easily add embedded audio content to your page.
 
 Here are the topics covered in this guide:
@@ -46,7 +44,7 @@ These items make up the individual featured items in the particle.
 | Artist            | Enter an artist name that will be displayed with the item.                                                        |
 | Track Title       | Enter a title for the track.                                                                                      |
 | Album Cover       | Add cover art for the album that will be displayed along with the track in the particle.                          |
-| Audio Source      | Enables you to select a SoundCloud track, external URL, or local audio file as the audio for the track.           |
+| Audio Source      | Enables you to select an external URL, or local audio file as the audio for the track.           |
 | External URL      | If **External URL** is selected as the **Audio Source**, this is where you enter that URL.                        |
 | Local Audio       | If **Local Audio** is selected as the **Audio Source**, this is where you enter the file's location or select it. |
 
