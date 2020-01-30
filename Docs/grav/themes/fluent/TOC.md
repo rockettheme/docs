@@ -36,7 +36,6 @@ support: http://www.rockettheme.com/forum/grav-theme-fluent/
         * [Simple Counter](particle_simplecounter.md)
         * [Social](particle_social.md)
         * [Testimonial Slider](particle_testimonialslider.md)
-        * [Testimonials](particle_testimonials.md)
         * [Vertical Slider](particle_vertical.md)
         * [Video](particle_video.md)
     - Theme Atoms
