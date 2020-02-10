@@ -22,8 +22,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-myriad/
     * Theme Particles
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
-        - [Content List](particle_contentlist.md)
-        - [Content Tabs](particle_contenttabs.md)      
+        - [Content List](particle_contentlist.md)     
         - [Features Slider](particle_featuresslider.md)
         - [WordPress Posts](particle_wordpress.md)
         - [Image Grid](particle_image.md)

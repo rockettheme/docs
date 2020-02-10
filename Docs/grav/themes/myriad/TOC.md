@@ -24,7 +24,6 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
-        - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)       
         - [Grav Content](particle_grav.md)
         - [Image Grid](particle_image.md)

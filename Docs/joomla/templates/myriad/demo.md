@@ -27,7 +27,6 @@ Here is a list of particles that are available in Myriad, as well as links to do
     - [Case Studies](particle_case.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
-    * [Content Tabs](particle_contenttabs.md)
     * [Features Slider](particle_featuresslider.md)
     * [Joomla Articles](particle_joomla.md)
     * [Headlines](particle_headlines.md)

@@ -24,7 +24,6 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
-        - [Content Tabs](particle_contenttabs.md)
         - [Features Slider](particle_featuresslider.md)
         - [Joomla Articles](particle_joomla.md)
         - [Image Grid](particle_image.md)

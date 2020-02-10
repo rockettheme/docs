@@ -23,7 +23,6 @@ Particles
     - [Case Studies](particle_case.md)
     * [Contact](particle_contact.md)
     * [Content List](particle_contentlist.md)
-    * [Content Tabs](particle_contenttabs.md)
     * [Features Slider](particle_featuresslider.md)
     * [Grav Content](particle_grav.md)
     * [Headlines](particle_headlines.md)
