@@ -80,7 +80,7 @@ Here is a list of particles that are available in Remnant, as well as links to d
     * [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
     * [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
     * [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-    * [Module Instance](http://docs.gantry.org/gantry5/particles/module-instance)
+    * [Widget Instance](http://docs.gantry.org/gantry5/particles/module-instance)
     * [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
     * [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
