@@ -33,7 +33,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-manticore/
         - [Newsletter](particle_newsletter.md)
         - [Particles](particle_particles.md)
         - [Pricing Table](particle_pricing.md)
-        - [Promo](particle_promo.md)
         - [Recent Reviews](particle_recentreviews.md)
         - [Simple Content](particle_simple.md)
         - [Simple Counter](particle_simplecounter.md)

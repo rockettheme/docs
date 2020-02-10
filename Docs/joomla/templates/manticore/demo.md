@@ -43,7 +43,6 @@ Template Particles
 * [Testimonials](particle_testimonials.md)
 * [Logos](particle_logos.md)
 * [Joomla Articles](particle_joomla.md)
-* [Promo](particle_promo.md)
 * [Grid Statistic](particle_grid.md)
 * [Heading](particle_heading.md)
 

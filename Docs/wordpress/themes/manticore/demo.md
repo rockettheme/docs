@@ -43,7 +43,6 @@ Theme Particles
 * [Testimonials](particle_testimonials.md)
 * [Logos](particle_logos.md)
 * [WordPress Posts](particle_wordpress.md)
-* [Promo](particle_promo.md)
 * [Grid Statistic](particle_grid.md)
 * [Heading](particle_heading.md)
 
