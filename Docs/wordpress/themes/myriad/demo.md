@@ -32,7 +32,6 @@ Here is a list of particles that are available in Myriad, as well as links to do
     * [WordPress Posts](particle_wordpress.md)
     * [Headlines](particle_headlines.md)
     * [Image Grid](particle_image.md)
-    * [Info List](particle_info.md)
     * [Lists](particle_lists.md)
     * [Newsletter](particle_newsletter.md)
     * [Promo Image](particle_promoimage.md)

@@ -28,7 +28,6 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Features Slider](particle_featuresslider.md)       
         - [Grav Content](particle_grav.md)
         - [Image Grid](particle_image.md)
-        - [Info List](particle_info.md)
         - [Lists](particle_lists.md)
         - [Newsletter](particle_newsletter.md)
         - [Promo Image](particle_promoimage.md)
