@@ -25,7 +25,6 @@ support: http://www.rockettheme.com/forum/joomla-template-audacity/
       * [Block Content](particle_block.md)
       * [Calendar](particle_calendar.md)
       * [Contact](particle_contact.md)
-      * [Content List](particle_contentlist.md)
       * [Content Tabs](particle_contenttabs.md)
       * [Feature Tabs](particle_featuretabs.md)
       * [Joomla Content](particle_joomla.md)
