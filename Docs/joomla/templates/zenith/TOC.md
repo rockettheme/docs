@@ -43,7 +43,8 @@ support: http://www.rockettheme.com/forum/joomla-template-zenith/
         + [Search](particle_search.md)
         + [Social](particle_social.md)
         + [Testimonials](particle_testimonials.md)
-        + [Timeline](particle_timeline.md)        
+        + [Timeline](particle_timeline.md)
+        + [Vertical Menu](particle_verticalmenu.md)        
         + [Video](particle_video.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)

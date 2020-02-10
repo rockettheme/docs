@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-zenith/
         + [Social](particle_social.md)
         + [Testimonials](particle_testimonials.md)
         + [Timeline](particle_timeline.md)
+        + [Vertical Menu](particle_verticalmenu.md)
         + [Video](particle_video.md)
         + [WordPress Posts](particle_wordpress.md)
     - Theme Atoms

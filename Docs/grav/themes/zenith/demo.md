@@ -45,6 +45,7 @@ Theme Particles
 + [Newsletter](particle_newsletter.md)
 + [Simple Counter](particle_simplecounter.md)
 + [Search](particle_search.md)
++ [Vertical Menu](particle_verticalmenu.md)
 + [Video](particle_video.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
