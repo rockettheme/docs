@@ -23,7 +23,7 @@ Below, you will find the particle placement and settings for the various positio
 
 ![](assets/akuatik2.png)
 
-:   1. **Navigation** Logo (Particle) [1%, 5%, se]
+:   1. **Navigation** Logo (Particle) [1%, 1%, se]
     2. **Navigation** Menu (Particle) [1%, 27%, se]
     3. **Navigation** Button (Particle) [1%, 83%, se]
     4. **Slideshow** Slideshow (Particle) [3%, 5%, se]
@@ -36,10 +36,10 @@ Below, you will find the particle placement and settings for the various positio
     11. **Expanded** Team (Particle) [62%, 20%, se]
     12. **Extension** Latest News (Particle) [72%, 8%, se]
     13. **Bottom** Block Content (Particle) [86%, 17%, se]
-    14. **Footer** Simple Menu (Particle) [91%, 33%, se]
+    14. **Footer** Simple Menu (Particle) [92%, 33%, se]
     15. **Footer** Newsletter (Particle) [96%, 50%, se]
     16. **Copyright** Copyright (Particle) [98%, 50%, se]
-    17. **Copyright** Particles (Particle) [92%, 5%, se]
+    17. **Copyright** Particles (Particle) [94%, 9%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
