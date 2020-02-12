@@ -21,7 +21,7 @@ Home Particles
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/akuatik.png)
+![](assets/akuatik2.png)
 
 :   1. **Navigation** Logo (Particle) [1%, 15%, se]
     2. **Navigation** Menu (Particle) [1%, 30%, se]
