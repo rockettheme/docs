@@ -19,7 +19,7 @@ support: http://www.rockettheme.com/forum/grav-theme-fluent/
     * [Recreate the Demo](demo.md)
         + [Plugins](demo.md#recommended-plugins)
         * [Style Settings](demo_settings.md)
-        * [Particle Settings](demo.md#widget-and-particle-settings)
+        * [Particle Settings](demo.md#particles)
         * [Front Page Layout](demo.md#home-page-layout-presets)
         * [Contact Form](../../start/contact.md)
     - Theme Particles
