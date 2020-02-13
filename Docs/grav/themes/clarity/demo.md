@@ -39,7 +39,7 @@ Below, you will find the particle placement and settings for the various positio
     14. **Expanded** Social Feed (Particle) [80%, 50%, se]
     15. **Footer** Newsletter (Particle) [88%, 50%, se]
     16. **Footer** Simple Menu (Particle) [94%, 50%, se]
-    17. **Copyright** Copyright (Particle) [98.5%, 50%, se]
+    17. **Copyright** Copyright (Particle) [99%, 50%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
