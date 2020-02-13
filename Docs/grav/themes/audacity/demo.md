@@ -21,6 +21,8 @@ Home Particles
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
+![](assets/audacity2.png)
+
 :   1. **Navigation** Logo (Particle) [1%, 5%, se]
     2. **Navigation** Social (Particle) [1%, 17%, se]
     3. **Navigation** Menu (Particle) [1%, 51%, se]
