@@ -29,17 +29,17 @@ Below, you will find the particle placement and settings for the various positio
     4. **Header** Logo/Image (Particle) [13%, 8%, se]
     5. **Header** Simple Content (Particle) [13%, 55%, se]    
     6. **Above** Simple Content (Particle) [22%, 50% se]
-    7. **Above** Simple Content (Particle) [24%, 25%, se]
+    7. **Above** Simple Content (Particle) [25%, 25%, se]
     8. **Above** Logo/Image (Particle) [25%, 50% se]
-    9. **Above** Simple Content (Particle) [24%, 75%, se]
+    9. **Above** Simple Content (Particle) [25%, 75%, se]
     10. **Feature** Simple Content (Particle) [35%, 12%, se]
     11. **Feature** Vertical Slideshow (Particle) [35%, 82%, se]
-    12. **Showcase** Latest News (Particle) [46%, 50%, se]
+    12. **Showcase** Latest News (Particle) [47%, 50%, se]
     13. **Utility** Testimonials (Particle) [71%, 12%, se]
     14. **Expanded** Social Feed (Particle) [80%, 50%, se]
     15. **Footer** Newsletter (Particle) [88%, 50%, se]
-    16. **Footer** Simple Menu (Particle) [93%, 50%, se]
-    17. **Copyright** Copyright (Particle) [98%, 50%, se]
+    16. **Footer** Simple Menu (Particle) [94%, 50%, se]
+    17. **Copyright** Copyright (Particle) [99%, 50%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
