@@ -24,7 +24,7 @@ Below, you will find the particle placement and settings for the various positio
 ![](assets/audacity2.png)
 
 :   1. **Navigation** Logo (Particle) [1%, 6%, se]
-    2. **Navigation** Social (Particle) [1%, 27%, se]
+    2. **Navigation** Social (Particle) [1%, 30%, se]
     3. **Navigation** Menu (Particle) [1%, 51%, se]
     4. **Navigation** Search (Particle) [1%, 91%, se]
     5. **Showcase** Slider (Particle) [6%, 50%, se]
