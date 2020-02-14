@@ -40,9 +40,9 @@ Below, you will find the particle placement and settings for the various positio
     15. **Bottom** Image Grid (Particle) [72%, 67%, se]
     16. **Footer A** Custom HTML (Particle) [90%, 47%, se]
     17. **Footer B** Social (Particle) [90%, 92%, se]
-    18. **Footer B** MailChimp (Particle) [93%, 92%, se]
-    19. **Copyright** Branding (Particle) [99%, 5%, se]
-    20. **Copyright** Custom HTML (Particle) [99%, 37%, se]
+    18. **Footer B** MailChimp (Particle) [94%, 92%, se]
+    19. **Copyright** Branding (Particle) [99%, 6%, se]
+    20. **Copyright** Custom HTML (Particle) [99%, 38%, se]
     21. **Copyright** To Top (Particle) [99%, 92%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
