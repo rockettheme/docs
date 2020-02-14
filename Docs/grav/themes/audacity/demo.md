@@ -24,7 +24,7 @@ Below, you will find the particle placement and settings for the various positio
 ![](assets/audacity2.png)
 
 :   1. **Navigation** Logo (Particle) [1%, 6%, se]
-    2. **Navigation** Social (Particle) [1%, 17%, se]
+    2. **Navigation** Social (Particle) [1%, 27%, se]
     3. **Navigation** Menu (Particle) [1%, 51%, se]
     4. **Navigation** Search (Particle) [1%, 91%, se]
     5. **Showcase** Slider (Particle) [6%, 50%, se]
@@ -39,11 +39,11 @@ Below, you will find the particle placement and settings for the various positio
     14. **Bottom** Image Slider (Particle) [72%, 50%, se]
     15. **Bottom** Image Grid (Particle) [72%, 67%, se]
     16. **Footer A** Custom HTML (Particle) [90%, 47%, se]
-    17. **Footer B** Social (Particle) [90%, 90%, se]
-    18. **Footer B** MailChimp (Particle) [93%, 90%, se]
+    17. **Footer B** Social (Particle) [90%, 92%, se]
+    18. **Footer B** MailChimp (Particle) [93%, 92%, se]
     19. **Copyright** Branding (Particle) [99%, 5%, se]
     20. **Copyright** Custom HTML (Particle) [99%, 37%, se]
-    21. **Copyright** To Top (Particle) [99%, 89%, se]
+    21. **Copyright** To Top (Particle) [99%, 92%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
