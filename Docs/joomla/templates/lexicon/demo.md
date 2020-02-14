@@ -16,6 +16,29 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
+Home Particles
+-----
+
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![](assets/lexicon2.png)
+
+:   1. **Navigation** Logo (Particle) [2%, 12%, se]
+    2. **Navigation** Menu (Particle) [2%, 29%, se]
+    3. **Showcase** Showcase Tabs (Particle) [17%, 32%, se]
+    4. **Sidebar** Vertical Menu (Particle) [31%, 6%, se]
+    5. **Sidebar** Custom HTML (Particle) [43%, 6%, se]
+    6. **Mainbody** Icon List (Particle) [31%, 61%, se]
+    7. **Mainbody** Block Content (Particle) [35%, 61%, se]
+    8. **Mainbody** Content Tabs (Particle) [44%, 61%, se]
+    9. **Mainbody** Headlines (Particle) [74%, 61%, se]
+    10. **Mainbody** Custom HTML (Particle) [78%, 61%, se]
+    11. **Footer A** Custom HTML (Particle) [90%, 35%, se]
+    12. **Footer B** Custom HTML (Particle) [90%, 67%, se]
+    13. **Footer B** MailChimp (Particle) [95%, 67%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
 Particles
 -----
 
