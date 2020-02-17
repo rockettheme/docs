@@ -16,6 +16,34 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
+Home Particles
+-----
+
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![](assets/vermilion2.png)
+
+:   1. **Navigation** Logo (Particle) [1%, 5%, se]
+    2. **Navigation** Menu (Particle) [1%, 57%, se]
+    3. **Utility** Custom HTML (Particle) [4%, 6%, se]
+    4. **Utility** Social (Particle) [4%, 76%, se]
+    5. **Showcase** Showcase (Particle) [8%, 9%, se]
+    6. **Feature** Headlines Articles (Particle) [16%, 6%, se]
+    7. **Feature** Feature Blocks (Particle) [18%, 9%, se]
+    8. **Maintop** Custom HTML (Particle) [33%, 9%, se]
+    9. **Expandedtop** Custom HTML (Particle) [43%, 9%, se]
+    10. **Expandedbottom** Strips Slider (Particle) [52%, 44%, se]
+    11. **Mainbottom** Slider (Particle) [64%, 50%, se]
+    12. **Extension** Content Tabs (Particle) [76%, 9%, se]
+    13. **Extension** Lists (Particle) [76%, 53%, se]
+    14. **Bottom** Custom HTML (Particle) [89%, 44%, se]
+    15. **Footer** Custom HTML (Particle) [93%, 9%, se]
+    16. **Footer** MailChimp (Particle) [93%, 51%, se]
+    17. **Copyright** Branding (Particle) [99%, 6%, se]
+    18. **Copyright** To Top (Particle) [99%, 88%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
 Particles
 -----
 
