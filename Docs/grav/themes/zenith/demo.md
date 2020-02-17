@@ -28,7 +28,7 @@ Below, you will find the particle placement and settings for the various positio
     3. **Body Sidebar** Vertical Menu (Particle) [4%, 5%, se]    
     4. **Slideshow** Slideshow (Particle) [1%, 32%, se]
     5. **Header** Block Content (Particle) [11%, 23%, se]
-    6. **Above** Testimonials (Particle) [17%, 25%, se]
+    6. **Above** Testimonials (Particle) [17%, 23%, se]
     6. **Feature** Recent Articles (Particle) [27%, 22%, se]
     7. **Extended** Timeline (Particle) [41%, 22%, se]
     8. **Showcase** BookBlock (Particle) [49%, 22%, se]
