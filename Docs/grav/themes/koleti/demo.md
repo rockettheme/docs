@@ -23,9 +23,9 @@ Below, you will find the particle placement and settings for the various positio
 
 ![](assets/koleti2.png)
 
-:   1. **Navigation** Logo (Particle) [0%, 10%, se]
-    2. **Navigation** Simple Content (Particle) [0%, 35%, se]
-    3. **Navigation** Sliding Menu (Particle) [0%, 85%, se]
+:   1. **Navigation** Logo (Particle) [1%, 9%, se]
+    2. **Navigation** Simple Content (Particle) [1%, 34%, se]
+    3. **Navigation** Sliding Menu (Particle) [1%, 84%, se]
     4. **Slideshow** Slideshow (Particle) [5%, 50%, se]
     5. **Header** Latest News (Particle) [12%, 14%, se]
     6. **Above** Simple Content  (Particle) [31%, 14%, se]
