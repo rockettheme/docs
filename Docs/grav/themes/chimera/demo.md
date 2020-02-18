@@ -36,7 +36,7 @@ Below, you will find the particle placement and settings for the various positio
     11. **FullWidth** Slider (Particle) [64%, 50%, se]
     12. **Extension** Pricing Table  (Particle) [74%, 9%, se]
     13. **Extension** Custom (Particle) [74%, 61%, se]
-    14. **Bottom** Custom HTML (Particle) [87%, 7%, se]
+    14. **Bottom** Custom HTML (Particle) [87%, 6%, se]
     15. **Footer** Custom HTML (Particle) [92%, 6%, se]
     16. **Footer** Custom HTML (Particle) [92%, 28%, se]
     17. **Footer** Custom HTML (Particle) [92%, 51%, se]
