@@ -21,6 +21,34 @@ Home Particles
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
+![](assets/koleti2.png)
+
+:   1. **Navigation** Logo (Particle) [0%, 10%, se]
+    2. **Navigation** Simple Content (Particle) [0%, 35%, se]
+    3. **Navigation** Sliding Menu (Particle) [0%, 85%, se]
+    4. **Slideshow** Slideshow (Particle) [5%, 50%, se]
+    5. **Header** Latest News (Particle) [12%, 14%, se]
+    6. **Above** Simple Content  (Particle) [31%, 14%, se]
+    7. **Above** Logo/Image (Particle) [31%, 53%, se]
+    8. **Feature** Slider (Particle) [44%, 50%, se]    
+    9. **Showcase** Calendar (Particle) [60%, 12%, se]
+    10. **Utility** Simple Content (Particle) [66%, 50%, se]
+    11. **Utility** Video (Particle) [70%, 50%, se]
+    12. **Expanded** Team (Particle) [82%, 50%, se]
+    13. **Footer** Simple Content (Particle) [94%, 12%, se]
+    14. **Footer** Simple Menu (Particle) [94%, 27%, se]
+    15. **Copyright** Copyright (Particle) [99%, 12%, se]
+    16. **Copyright** Social (Particle) [99%, 56%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
+Particles
+-----
+
+Here is a list of particles that are available in Koleti, as well as links to documentation to help you get started:
+
+>> All Home Particles can be edited via Zenith Theme > Front Page > Layout.
+
 Theme Particles
 
 * [Audio Player](particle_audio.md)
