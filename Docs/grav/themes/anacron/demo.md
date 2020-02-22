@@ -30,7 +30,7 @@ Below, you will find the particle placement and settings for the various positio
     5. **Utility** Mosaic (Particle) [19%, 50%, se]
     6. **Feature** Custom HTML (Particle) [31%, 32%, se]
     7. **Feature** Custom HTML (Particle) [35%, 8%, se]
-    8. **Expandedtop** Pricing Table (Particle) [41%, 39%, se]
+    8. **Expandedtop** Pricing Table (Particle) [41%, 50%, se]
     9. **Expandedbottom** Custom HTML (Particle) [58%, 50%, se]    
     10. **Mainbottom** Content Tabs (Particle) [63%, 7%, se] 
     11. **Mainbottom** Lists (Particle) [63%, 66%, se] 
