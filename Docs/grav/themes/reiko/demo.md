@@ -21,17 +21,12 @@ Home Particles
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-Home Particles
------
-
-Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
-
 ![](assets/reiko2.png)
 
 :   1. **Navigation** Logo/Image (Particle) [1%, 11%, se]
     2. **Navigation** Menu (Particle) [1%, 30%, se]
     3. **Navigation** Social (Particle) [1%, 75%, se]
-    4. **Slideshow** Slideshow (Particle) [3%, 10%, se]
+    4. **Slideshow** Slideshow (Particle) [3%, 11%, se]
     5. **Header** Score Block (Particle) [13%, 7%, se]
     6. **Above** Team (Particle) [17%, 11%, se]
     7. **Feature** Profile (Particle) [22%, 15%, se]
@@ -39,7 +34,7 @@ Below, you will find the particle placement and settings for the various positio
     9. **Showcase** Latest News (Particle) [44%, 12%, se]
     10. **Utility** Featured Videos (Particle) [53%, 12%, se]
     11. **Expanded** Media Quotes (Particle) [63%, 12%, se]
-    12. **Extension** Photo Collage (Particle) [72%, 50%, se]
+    12. **Extension** Photo Collage (Particle) [72%, 5%, se]
     13. **Footer** Simple Menu (Particle) [89%, 50%, se]
     14. **Footer** Logos (Particle) [93%, 50%, se]
     15. **Copyright** Copyright (Particle) [98%, 50%, se]
