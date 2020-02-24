@@ -16,6 +16,35 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
+Home Particles
+-----
+
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![](assets/myriad2.png)
+
+:   1. **Navigation** Menu (Particle) [1%, 21%, se]
+    2. **Slideshow** Features Slider (Particle) [7%, 50%, se]
+    3. **Fullstrip** Strips Slider (Particle) [21%, 50%, se]
+    4. **Firstfullwidth** Features Slider (Particle) [29%, 50%, se]
+    5. **Feature-a** Custom HTML (Particle) [45%, 8%, se]
+    6. **Feature-b** Custom HTML (Particle) [45%, 49%, se]
+    7. **Utility** Custom HTML (Particle) [59%, 37%, se]
+    8. **Secondfullwidth** Strips Slider (Particle) [61%, 50%, se]
+    9. **Maintop** Custom HTML (Particle) [73%, 41%, se]
+    10. **Mainbody** Custom HTML (Particle) [76%, 7%, se]
+    11. **Sidebar** Lists (Particle) [76%, 64%, se]    
+    12. **Extension** Custom HTML (Particle) [85%, 50%, se]
+    13. **Bottom** Custom HTML (Particle) [93%, 7%, se]
+    14. **Bottom** Custom HTML (Particle) [93%, 36%, se]
+    15. **Bottom** Custom HTML (Particle) [93%, 65%, se]
+    16. **Footer** Horizontal Menu (Particle) [98%, 28%, se]
+    17. **Copyright** Branding (Particle) [99%, 5%, se]
+    18. **Copyright** Copyright (Particle) [99%, 42%, se]
+    19. **Copyright** ToTop (Particle) [99%, 91%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
 Particles
 ----- 
 
