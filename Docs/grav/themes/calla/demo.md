@@ -28,7 +28,7 @@ Below, you will find the particle placement and settings for the various positio
     3. **Header** Heading (Particle) [20%, 3%, se]
     4. **Header** Slider (Particle) [24%, 3%, se]
     5. **Above** Promo (Particle) [32%, 3%, se]
-    6. **Above** Logo/Image (Particle) [32%, 27%, se]
+    6. **Above** Logo/Image (Particle) [32%, 28%, se]
     7. **Above** Platform Content (Particle) [32%, 43%, se]
     8. **Feature** Slideshow (Particle) [45%, 5%, se]
     9. **Showcase** Case Studies (Particle) [59%, 11%, se]
