@@ -32,7 +32,7 @@ Below, you will find the particle placement and settings for the various positio
     7. **Header** Simple Content (Particle) [17%, 37%, se]
     8. **Header** Simple Content (Particle) [17%, 64%, se]
     9. **Above** Showcase Slider (Particle) [21%, 55%, se]
-    10. **Feature** Simple Content (Particle) [33%, 16%, se]
+    10. **Feature** Simple Content (Particle) [33%, 18%, se]
     11. **Feature** Simple Content (Particle) [33%, 42%, se]
     12. **Showcase** Eventlist (Particle) [41%, 56%, se]
     13. **Extension** Case Studies (Particle) [58%, 50%, se]
