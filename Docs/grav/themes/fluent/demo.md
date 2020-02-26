@@ -31,10 +31,10 @@ Below, you will find the particle placement and settings for the various positio
     6. **Header** Case Studies (Particle) [18%, 8%, se]
     7. **Expanded** Info List (Particle) [31%, 8%, se]
     8. **Expanded** Testimonial Slider (Particle) [31%, 55%, se]
-    9. **Extension** Vertical Slider (Particle) [51%, 13%, se]
+    9. **Extension** Vertical Slider (Particle) [51%, 8%, se]
     10. **Bottom** Pricing Table (Particle) [66%, 38%, se]
     11. **Footer** Newsletter (Particle) [86%, 21%, se]
-    12. **Footer** Simple Menu (Particle) [91%, 29%, se]
+    12. **Footer** Simple Menu (Particle) [91%, 20%, se]
     13. **Copyright** Branding (Particle) [97%, 37%, se]
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
