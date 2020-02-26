@@ -42,6 +42,7 @@ support: http://www.rockettheme.com/forum/grav-theme-koleti/
         * [Slider](particle_slider.md)
         * [Sliding Menu](particle_slidingmenu.md)
         * [Social](particle_social.md)
+        * [Swiper](particle_swiper.md)
         * [Table Tabs](particle_tabletabs.md)
         * [Team](particle_team.md)
         * [Video](particle_video.md)
