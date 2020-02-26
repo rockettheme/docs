@@ -96,6 +96,7 @@ These options are for configuring amount of Thumbs to display and the space betw
 | :------------      | :-----------------------------------------------------------------                             |
 | Thumbs             | **Enable** or **Disable** thumbs.                                                              |
 | Thumbs Nav         | **Enable** or **Disable** thumbs navigation.                                                   |
+| Thumbs Layout      | Display Thumbs on either **Top** or **Bottom** of slider.                                      |
 | Thumbs Per View    | Number of thumbs per view.                                                                     |
 | Space Between      | Amount of space between each thumb (px).                                                       |
 
