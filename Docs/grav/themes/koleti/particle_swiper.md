@@ -18,7 +18,7 @@ Here are the topics covered in this guide:
     - [Item Options](#particle-item-options)
     - [Slide Options](#slides-options)
     - [Thumb Options](#thumbs-options)
-    - [Posts](#posts)
+    - [Pages](#pages)
     - [Display](#display)
 
 ## Configuration
