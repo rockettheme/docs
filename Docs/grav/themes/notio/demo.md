@@ -26,24 +26,17 @@ Below, you will find the particle placement and settings for the various positio
 :   1. **Navigation** Logo (Particle) [2%, 2%, se]
 	2. **Navigation** Menu (Particle) [2%, 49%, se]
 	3. **Navigation** Search (Particle) [1%, 95%, se]
-
     4. **Sidebar Top** Cards (Particle) [6%, 2%, se]
-
     5. **Slideshow** News Slider (Particle) [6%, 40%, se]
-
     6. **Sidebar** Newsletter (Particle) [27%, 2%, se]
-    9. **Sidebar** Video Carousel (Particle) [38%, 2%, se]
-    12. **Sidebar** News Tabs (Particle) [57%, 2%, se]    
-
     7. **Header** Article Tabs (Particle) [27%, 32%, se]
-    11. **Showcase** Content Showcase (Particle) [50%, 35%, se]
-    14. **Bottom** Image Grid (Particle) [73%, 33%, se]
-
-
     8. **Aside** Authors List (Particle) [27%, 82%, se]
+    9. **Sidebar** Video Carousel (Particle) [38%, 2%, se]
     10. **Aside** Polldaddy Voting (Particle) [47%, 82%, se]
+    11. **Showcase** Content Showcase (Particle) [50%, 35%, se]
+    12. **Sidebar** News Tabs (Particle) [57%, 2%, se]    
     13. **Aside** Logo (Particle) [67%, 82%, se]
-
+    14. **Bottom** Image Grid (Particle) [73%, 33%, se]
     15. **Footer** Simple Menu (Particle) [82%, 6%, se]
     16. **Footer** Branding (Particle) [82%, 82%, se]
 
