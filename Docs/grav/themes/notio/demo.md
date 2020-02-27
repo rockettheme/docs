@@ -25,7 +25,7 @@ Below, you will find the particle placement and settings for the various positio
 
 :   1. **Navigation** Logo (Particle) [2%, 2%, se]
 	2. **Navigation** Menu (Particle) [2%, 49%, se]
-	3. **Navigation** Search (Particle) [1%, 95%, se]
+	3. **Navigation** Search (Particle) 21%, 95%, se]
     4. **Sidebar Top** Cards (Particle) [6%, 2%, se]
     5. **Slideshow** News Slider (Particle) [6%, 40%, se]
     6. **Sidebar** Newsletter (Particle) [27%, 2%, se]
