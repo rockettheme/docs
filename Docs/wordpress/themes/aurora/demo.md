@@ -16,6 +16,40 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
+Home Particles
+-----
+
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![](assets/aurora2.png)
+
+:   1. **Navigation** Logo (Particle) [1%, 2%, se]
+	2. **Navigation** Menu (Particle) [1%, 17%, se]
+	3. **Navigation** Social (Particle) [1%, 92%, se]
+    4. **Slideshow** Vertical Slider (Particle) [6%, 12%, se]
+    5. **Header** Logo - SVG Pattern (Particle) [17%, 4%, se]
+    6. **Header** Simple Content (Particle) [17%, 12%, se]
+    7. **Header** Simple Content (Particle) [17%, 60%, se]
+    8. **Above** Image Grid (Particle) [22%, 5%, se]
+    9. **Above** Custom HTML (Particle) [33%, 11%, se]
+    10. **Above** Custom HTML (Particle) [33%, 74%, se]
+    11. **Feature** Custom HTML (Particle) [35%, 12%, se]
+    12. **Feature** Testimonials (Particle) [35%, 47%, se]
+    13. **Showcase** Logo - SVG Pattern (Particle) [40%, 4%, se]
+    14. **Showcase** Case Studies (Particle) [44%, 6%, se]
+    15. **Utility** Carousel (Particle) [60%, 16%, se]
+    16. **Bottom** Logo - SVG Pattern (Particle) [72%, 4%, se]
+    17. **Bottom** Panel Slider (Particle) [76%, 21%, se]
+    18. **Bottom** Logo - SVG Pattern (Particle) [89%, 4%, se]
+    19. **Footer Sidebar** Simple Content (Particle) [92%, 11%, se]
+    20. **Footer Sidebar** Social (Particle) [94%, 11%, se]
+    21. **Footer Main** Simple Menu (Particle) [92%, 38%, se]
+    22. **Footer Aside** Simple Content (Particle) [92%, 67%, se]
+    23. **Footer Aside** Newsletter (Particle) [95%, 67%, se]
+    24. **Copyright** Branding (Particle) [98%, 37%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
 Particles
 -----
 
