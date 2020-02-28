@@ -16,6 +16,38 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
+Home Particles
+-----
+
+Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+
+![](assets/flux2.png)
+
+:   1. **Navigation** Logo (Particle) [0%, 2%, se]
+	2. **Navigation** Search (Particle) [0%, 12%, se]
+	3. **Navigation** Menu (Particle) [0%, 56%, se]
+    4. **Slideshow** Slider (Particle) [3%, 50%, se]
+    5. **Header** Simple Content (Particle) [15%, 12%, se]
+    6. **Header** Simple Content (Particle) [15%, 51%, se]    	
+    7. **Header** Video (Particle) [19%, 50%, se]
+    8. **Header** Custom (Particle) [29%, 50%, se]
+    9. **Above** Simple Content (Particle) [33%, 50%, se]
+    10. **Above** Charts (Particle) [36%, 50%, se]
+    11. **Feature** Simple Content (Particle) [44%, 12%, se]
+    12. **Feature** Cards (Particle) [44%, 57%, se]
+    13. **Showcase** Logo (Particle) [56%, 12%, se]
+    14. **Showcase** Info List (Particle) [55%, 47%, se]    
+    15. **Showcase** Newsletter (Particle) [66%, 12%, se]
+    16. **Expanded** Testimonials (Particle) [69%, 12%, se]  
+    17. **Utility** Simple Content (Particle) [77%, 12%, se]      
+    18. **Utility** Calendar (Particle) [77%, 51%, se]
+    19. **Bottom** Carousel (Particle) [86%, 50%, se]
+    20. **Footer** Bottom Menu (Particle) [94%, 16%, se]
+    21. **Footer** Social (Particle) [94%, 66%, se]
+    22. **Footer** Branding (Particle) [98%, 38%, se]
+
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+
 Particles
 -----
 
