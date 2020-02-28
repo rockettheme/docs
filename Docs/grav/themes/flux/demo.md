@@ -21,7 +21,7 @@ Home Particles
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/flux2.png)
+![](assets/flux2.jpg)
 
 :   1. **Navigation** Logo (Particle) [0%, 2%, se]
 	2. **Navigation** Search (Particle) [0%, 12%, se]
@@ -36,7 +36,7 @@ Below, you will find the particle placement and settings for the various positio
     11. **Feature** Simple Content (Particle) [44%, 12%, se]
     12. **Feature** Cards (Particle) [44%, 57%, se]
     13. **Showcase** Logo (Particle) [56%, 12%, se]
-    14. **Showcase** Info List (Particle) [55%, 47%, se]    
+    14. **Showcase** Info List (Particle) [56%, 47%, se]    
     15. **Showcase** Newsletter (Particle) [66%, 12%, se]
     16. **Expanded** Testimonials (Particle) [69%, 12%, se]  
     17. **Utility** Simple Content (Particle) [77%, 12%, se]      
