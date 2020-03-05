@@ -42,6 +42,7 @@ support: http://www.rockettheme.com/forum/grav-theme-reiko/
         * [Simple Content](particle_simple.md)
         * [Slideshow](particle_slideshow.md)
         * [Social](particle_social.md)
+        * [Swiper](particle_swiper.md)
         * [Table Tabs](particle_tabletabs.md)
         * [Team](particle_team.md)
         * [Video](particle_video.md)

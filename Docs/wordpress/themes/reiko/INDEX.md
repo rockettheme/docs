@@ -58,6 +58,7 @@ Key Features
 * Simple Menu
 * Slideshow
 * Social
+* Swiper
 * Table tabs
 * Team
 * To Top
