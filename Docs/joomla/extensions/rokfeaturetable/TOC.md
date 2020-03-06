@@ -2,9 +2,8 @@
 
 breadcrumb: /joomla:Joomla/plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
-details: http://www.rockettheme.com/joomla/extensions/rokfeaturetable
-demo: http://demo.rockettheme.com/joomla-extensions/rokfeaturetable/
-download: http://www.rockettheme.com/joomla/extensions/rokfeaturetable/modal/downloads
+details: https://rockettheme.com/joomla/extensions/roklegacy
+download: https://rockettheme.com/joomla/extensions/roklegacy/modal/downloads
 support: http://www.rockettheme.com/forum/joomla-extension-rokfeaturetable/
 
 ---
