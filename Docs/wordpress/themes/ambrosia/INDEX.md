@@ -8,9 +8,9 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/!ambrosia:Ambrosia
 Introduction
 -----
 
-Ambrosia is a contemporary, flat design, ideal for a content-centric site that features high text volumes, such as for a Magazine or Newspaper. There is a collection of complementary typography to enhance and add sharpness to content elements.
+![](assets/ambrosia.jpeg)
 
-![](assets/ambrosia.png)
+Ambrosia is a contemporary, flat design, ideal for a content-centric site that features high text volumes, such as for a Magazine or Newspaper. There is a collection of complementary typography to enhance and add sharpness to content elements.
 
 New to Gantry 5?
 -----
@@ -18,14 +18,39 @@ If you are new to Gantry 5, a good place to start would be our [dedicated Gantry
 
 Requirements
 -----
-* PHP 7.1+ 
-* MySQL 5.1+
-* WordPress 4.2+
 
->> NOTE: Gantry v5.1.5+ is required for Ambrosia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+* PHP 7.1+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
+
+>> NOTE: Gantry v5.4.26+ is required for Akuatik to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
+
+### Included Particles
+
+* Branding
+* Contact
+* Content List
+* Content Tabs
+* Custom HTML
+* Feature Slider
+* WordPress Posts
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Lists
+* Mobile Menu
+* Newsletter
+* Promo Image
+* Simple Counter
+* Strips Slider
+* Tab Image 
+
+### Theme Features
 
 * Responsive Layout
 * 6 Preset Styles
@@ -34,12 +59,14 @@ Key Features
 * Unlimited Positions
 * Custom Particles
 * Dropdown Menu
-* RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page
 * Offline Page
-* Font Awesome Icons
+* Font Awesome Icons 
+
+### Gantry Core Features
+
 * YAML-based Configuration
 * Twig Templating
 * Powerful Particle System

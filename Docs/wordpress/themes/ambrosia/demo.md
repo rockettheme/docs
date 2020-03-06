@@ -16,80 +16,80 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-Widget and Particle Settings
------
+Particles
+----
 
-Below, you will find the widget placement and settings for the various widget positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
+### Theme Particles
 
-![](assets/ambrosia2.jpeg)
+* [Audio Player](particle_audio.md)
+* [Block Content](particle_block.md)
+* [Calendar](particle_calendar.md)
+* [Contact](particle_contact.md)
+* [Content List](particle_contentlist.md)
+* [Content Tabs](particle_tabs.md)
+* [Features Slider](particle_featureslider.md)
+* [WordPress Posts](particle_wordpress.md)
+* [Headlines](particle_headlines.md)
+* [Image Grid](particle_image.md)
+* [Info List](particle_info.md)
+* [Lists](particle_list.md)
+* [Newsletter](particle_newsletter.md)
+* [Promo Image](particle_promoimage.md)
+* [Search](particle_search.md)
+* [Simple Counter](particle_simplecounter.md)
+* [Social](particle_social.md)
+* [Stripes Slider](particle_stripeslider.md)
+* [Tab Image](particle_tabimage.md)
 
-:   1. **Header - Logo (Particle)** [5%, 12%, se]
-    2. **Header - Horizontal Menu (Particle)** [5%, 65%, se]
-    3. **Navigation - Menu (Particle)** [8%, 12%, ne]
-    4. **Slideshow - RokSprocket (Features)** [14%, 25%, se]
-    5. **Feature - RokSprocket (Tabs)** [30%, 12%, se]
-    6. **Feature - RokSprocket (Headlines)** [42%, 12%, se]
-    7. **Mainbar - RokSprocket (Tabs)** [45%, 12%, se]
-    8. **Mainbar - RokSprocket (Headlines)** [59%, 12%, se]
-    9. **Mainbar - RokSprocket (Tabs)** [59%, 33%, se]
-    10. **Sidebar - Sidebar Image (Particle)** [45%, 65%, se]
-    11. **Sidebar - RokSprocket (Lists)** [59%, 65%, se]
-    12. **Sidebar - Newsletter (Particle)** [68%, 65%, se]
-    13. **Bottom - RokSprocket (Strips)** [73%, 12%, se]
-    14. **Footer - Info List (Particle)** [83%, 12%, se]
-    15. **Footer - Custom HTML (Particle)** [83%, 45%, se]
-    16. **Footer - Social (Particle)** [83%, 75%, se]
-    17. **Copyright - Copyright (Particle)** [92%, 40%, se]
-
-We have detailed how to recreate the individual widgets and particles pictured above in the links below, separated by sections found in the **Layout Manager**.
-
-1. [Header](demo_header.md)
-2. [Navigation](demo_navigation.md)
-3. [Slideshow](demo_slideshow.md)
-4. [Feature](demo_feature.md)
-5. [Mainbar](demo_main.md)
-6. [Sidebar](demo_sidebar.md) 
-7. [Bottom](demo_bottom.md)
-8. [Footer](demo_footer.md)
-9. [Copyright](demo_copyright.md)
-
-Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
+### Core Particles
+ 
+* [Logo](http://docs.gantry.org/gantry5/particles/logo)
+* [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+* [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+* [Social](http://docs.gantry.org/gantry5/particles/social)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+* [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+* [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+* [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+* [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Plugins
 -----
 
-Here is a list of RocketTheme plugins used to create the demo version of Ambrosia:
+Here is a list of RocketTheme plugins used to create the demo version of Akuatik:
 
-* [Gantry Theme Framework](http://gantry.org/)
+* [Gantry 5 Theme Framework](http://gantry.org/)
 
-Many of these plugins are included with the Ambrosia RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
+Many of these plugins are included with the Akuatik RocketLauncher, and can be downloaded and installed individually by going to the RocketTheme website.
 
 Recreating the Front Page
 -----
 
-The front page of the Ambrosia demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Ambrosia demo.
+The front page of the Akuatik demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the theme. It is because of this that several widget and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Akuatik demo.
 
-Theme Settings
+Home Page Layout Presets
 -----
 
-The first thing you will need to do in order to set your front page apart as it appears in the demo is to create a setting outline. This can be done by navigating to **Admin -> Ambrosia Theme -> Outlines** and selecting the **+** icon.
+![Layout Presets](assets/layout_presets.png)
 
-You can then simply find the default outline and select the dark blue **Duplicate** button to create a new one based on the default outline used by your site. This will create an outline, or **Style**. This outline can have its own layout, style, and settings preferences.
+While the **Home - Particles** layout is automatically loaded after installing the Akuatik theme, we have included a layout preset for the home page within the theme if needed. The **Home - Particles** preset includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
-It would be a good idea for organization to name this outline something like **Ambrosia - Home** as it would be used only for the front page of your site.
+You can access the presets by selecting **Load** in the **Layout Manager**.
 
 Menu Editor
 -----
 
-![](assets/menu_1.jpeg)
+![](assets/menu_1.png)
 
-Ambrosia has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Admin > Ambrosia Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+Akuatik has its own built-in Menu Editor which takes full advantage of WordPress's menu system, taking your WordPress menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way WordPress sees or uses it.
+
+You can access the Gantry Menu Editor by navigating to **Admin > Akuatik Theme > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
 
 ![](assets/assignments_1.png)
 
-Assignments are also managed in the Gantry Admin. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Ambrosia Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, we used the **Front Page** page, which is a blank page we created.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Admin > Akuatik Theme** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

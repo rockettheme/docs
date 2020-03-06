@@ -5,6 +5,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/ambrosia:Ambrosia
 
 ---
 
+
 What is Gantry?
 -----
 
@@ -21,4 +22,3 @@ I installed Ambrosia RocketLauncher but the images are different with the demo s
 To avoid image license copyright issues, all sample content images shown in our demo site will be replaced with blank versions in the RocketLauncher version.
 
 [gantry]: http://gantry.org/
-[forum]: http://www.rockettheme.com/forum/wordpress-theme-ambrosia
