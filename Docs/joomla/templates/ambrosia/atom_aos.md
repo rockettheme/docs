@@ -31,7 +31,7 @@ AOS Attributes
 Once the atom is in place, you can now use the data-aos attributes within any of your HTML tags as shown here:
 
 ~~~ .html
-<div data-aos="fade-up">Photo Centric Theme</div>
+<div data-aos="fade-up">Photo Centric Template</div>
 ~~~
 
 You can also set each elements duration and delay as shown here:

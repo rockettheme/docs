@@ -10,7 +10,7 @@ Introduction
 
 Ambrosia is a contemporary, flat design, ideal for a content-centric site that features high text volumes, such as for a Magazine or Newspaper. There is a collection of complementary typography to enhance and add sharpness to content elements.
 
-![](assets/ambrosia.jpeg)
+![](assets/ambrosia.png)
 
 New to Gantry 5?
 -----
@@ -24,15 +24,39 @@ To understand more how the Layout manager works, please [click here](http://docs
 
 Requirements
 -----
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 7.1+
-* MySQL 5.1+
-* Joomla 3.4+
 
->> NOTE: Gantry v5.0.0+ is required for Ambrosia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+* Apache 2.2+ or Microsoft IIS 7
+* PHP 7.1+ 
+* MySQL 5.1+
+* Joomla 3.8+
+
+>> NOTE: Gantry v5.4.26+ is required for Ambrosia to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
+
+### Included Particles
+
+* Branding
+* Contact
+* Content List
+* Content Tabs
+* Custom HTML
+* Feature Slider
+* Joomla Content
+* Headlines
+* Horizontal Menu
+* Image Grid
+* Info List
+* Lists
+* Mobile Menu
+* Newsletter
+* Promo Image
+* Simple Counter
+* Strips Slider
+* Tab Image 
+
+### Template Features
 
 * Responsive Layout
 * 6 Preset Styles
@@ -41,12 +65,14 @@ Key Features
 * Unlimited Positions
 * Custom Particles
 * Dropdown Menu
-* RokSprocket Styling
 * Social Icons
 * Mobile Menu
 * Coming Soon Page
 * Offline Page
-* Font Awesome Icons
+* Font Awesome Icons 
+
+### Gantry Core Features
+
 * YAML-based Configuration
 * Twig Templating
 * Powerful Particle System
@@ -55,7 +81,7 @@ Key Features
 * Off-Canvas Panel
 * Ajax Admin
 * Layout Manager
-* Theme Inheritance
+* Template Inheritance
 * SCSS Support
 * Sophisticated Fields
 * Unlimited Undo/Redo
