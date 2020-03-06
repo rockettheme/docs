@@ -79,7 +79,6 @@ more:
 	- [Kraken](templates/kraken)
 	- [Requiem](templates/requiem)
 	- [Salient](templates/salient)
-	- [Ambrosia (Gantry 4)](templates/g4ambrosia)
 	- [Ethereal](templates/ethereal)
 	- [Callisto](templates/callisto)
 	- [Cygnet](templates/cygnet)
