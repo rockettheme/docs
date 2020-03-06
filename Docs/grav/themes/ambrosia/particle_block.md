@@ -7,15 +7,14 @@ breadcrumb: /grav:Grav/!themes:Themes/ambrosia:Ambrosia
 
 ## Introduction
 
-![](assets/particle_block1.png)
-
 The **Block Content** particle is a great way to create a clean and simple content block with images and text. 
 
 Here are the topics covered in this guide:
 
-* [Configuration](#configuration)
-    - [Main Options](#main-options)
-    - [Item Options](#item-options)
+- [Introduction](#introduction)
+- [Configuration](#configuration)
+  - [Main Options](#main-options)
+  - [Item Options](#item-options)
 
 ## Configuration
 
@@ -25,14 +24,16 @@ These options affect the main area of the particle, and not the individual items
 
 ![](assets/particle_block2.png)
 
-| Option             | Description                                                                                                                 |
-| :-----             | :-----                                                                                                                      |
-| Image              | Set a main image that appears separate from any Block Item images.                                                          |
-| Headline           | Enter a headline you want to appear on the front end.                                                                       |
-| Description        | Enter the text you wish to have appear as the description for the particle. This text appears below the title and headline. |
-| Headline Link      | Customize the link you want the link to go to.                                                                              |
-| Headline Link Text | Customize the text you want to have appear in the link.                                                                     |
-| Target             | Enter the target window for the link.                                                                                       |
+| Option         | Description                                                                                                                 |
+| :------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| Image          | Set a main image that appears separate from any Block Item images.                                                          |
+| Headline       | Enter a headline you want to appear on the front end.                                                                       |
+| Description    | Enter the text you wish to have appear as the description for the particle. This text appears below the title and headline. |
+|                |
+| Button Label   | Enter a label to appear in the button.                                                                                      |
+| Button Link    | The URL you want the item to link to.                                                                                       |
+| Button Classes | Enter any CSS class(es) you want to have apply to the button.                                                               |
+| Target         | Select the target window the button link will open in.                                                                      |
 
 ### Item Options
 
@@ -40,15 +41,18 @@ These items make up the individual featured items in the particle. They sit apar
 
 ![](assets/particle_block3.png)
 
-| Option           | Description                                                                          |
-| :-----           | :-----                                                                               |
-| Title            | Enter the title for the block item.                                                  |
-| Icon             | Select the icon you would like to have appear with the title area in the block item. |
-| Image            | Select the image you would like to have displayed with the item.                     |
-| Subtitle         | Add a subtitle for the item here.                                                    |
-| Description      | Enter a description for the item here, appears as paragraphed text.                  |
-| CSS Classes      | Enter any CSS classes you would like to have apply just to this item.                |
-| Item Link        | The URL you want the item to link to.                                                |
-| Item Link Target | The target window for the URL.                                                       |
-| Variations       | Any variations you'd like to apply specifically to the item.                         |
-
+| Option          | Description                                                                          |
+| :-------------- | :----------------------------------------------------------------------------------- |
+| Title           | Enter the title for the block item.                                                  |
+| Accent          | Select an accent color to appear in the item.                                        |
+| Icon            | Select the icon you would like to have appear with the title area in the block item. |
+| Image           | Select the image you would like to have displayed with the item.                     |
+| Lightcase Image | Choose an image to appear when expanded into a lightcase.                            |
+| Caption         | Caption the image here.                                                              |
+| Subtitle        | Add a subtitle for the item here.                                                    |
+| Description     | Enter a description for the item here, appears as paragraphed text.                  |
+| CSS Classes     | Enter any CSS classes you would like to have apply just to this item.                |
+| Button Label    | Enter a label to appear in the button.                                               |
+| Button Link     | The URL you want the item to link to.                                                |
+| Button Classes  | Enter any CSS class(es) you want to have apply to the button.                        |
+| Target          | Select the target window the button link will open in.                               |

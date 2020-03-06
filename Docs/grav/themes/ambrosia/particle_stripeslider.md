@@ -13,9 +13,10 @@ The **Stripes Slider** particle makes it easy to create smooth, modern sliders f
 
 Here are the topics covered in this guide:
 
-* [Configuration](#configuration)
-    - [Main Options](#main-options)
-    - [Item Options](#item-options)
+- [Introduction](#introduction)
+- [Configuration](#configuration)
+  - [Main Options](#main-options)
+  - [Item Options](#item-options)
 
 ## Configuration
 
@@ -26,7 +27,7 @@ These options affect the main area of the particle, and not the individual items
 ![](assets/particle_stripesslider2.jpeg)
 
 | Option         | Setting                                                               |
-| :-----         | :-----                                                                |
+| :------------- | :-------------------------------------------------------------------- |
 | Particle Name  | The name of the particle for organizational use in the backend.       |
 | CSS Classes    | CSS Class(es) you would like to have apply to the particle's content. |
 | Title          | Title of the particle as it will appear on the front end.             |
@@ -48,12 +49,12 @@ These items make up the individual featured items in the particle.
 
 ![](assets/particle_stripesslider3.jpeg)
 
-| Option       | Description                                                       |
-| :-----       | :-----                                                            |
-| Name         | Enter a name for your item. This only appears on the back end.    |
-| Image        | Set an image for the item.                                        |
-| Title        | Enter a title for the item.                                       |
-| Description  | Enter a description for the item.                                 |
-| Link         | Enter a link for the item.                                        |
-| Link Text    | Enter text that appears as the link for the item.                 |
-| Target       | Select between **Self** and **New Window** for the link's target. |
+| Option      | Description                                                       |
+| :---------- | :---------------------------------------------------------------- |
+| Name        | Enter a name for your item. This only appears on the back end.    |
+| Image       | Set an image for the item.                                        |
+| Title       | Enter a title for the item.                                       |
+| Description | Enter a description for the item.                                 |
+| Link        | Enter a link for the item.                                        |
+| Link Text   | Enter text that appears as the link for the item.                 |
+| Target      | Select between **Self** and **New Window** for the link's target. |

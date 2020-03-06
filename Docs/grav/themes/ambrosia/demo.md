@@ -17,34 +17,42 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
 Particles
------ 
+----* 
 
 ### Theme Particles
 
-+ [Content List](particle_contentlist.md)
-+ [Content Tabs](particle_tabs.md)
-+ [Features Slider](particle_featureslider.md)
-+ [Grav Content](particle_grav.md)
-+ [Headlines](particle_headlines.md)
-+ [Image Grid](particle_image.md)
-+ [Info List](particle_info.md)
-+ [Lists](particle_list.md)
-+ [Newsletter](particle_newsletter.md)
-+ [Simple Counter](particle_simplecounter.md)
-+ [Stripes Slider](particle_stripeslider.md)
+* [Audio Player](particle_audio.md)
+* [Block Content](particle_block.md)
+* [Calendar](particle_calendar.md)
+* [Contact](particle_contact.md)
+* [Content List](particle_contentlist.md)
+* [Content Tabs](particle_tabs.md)
+* [Features Slider](particle_featureslider.md)
+* [Grav Content](particle_grav.md)
+* [Headlines](particle_headlines.md)
+* [Image Grid](particle_image.md)
+* [Info List](particle_info.md)
+* [Lists](particle_list.md)
+* [Newsletter](particle_newsletter.md)
+* [Promo Image](particle_promoimage.md)
+* [Search](particle_search.md)
+* [Simple Counter](particle_simplecounter.md)
+* [Social](particle_social.md)
+* [Stripes Slider](particle_stripeslider.md)
+* [Tab Image](particle_tabimage.md)
 
 ### Core Particles
  
-+ [Logo](http://docs.gantry.org/gantry5/particles/logo)
-+ [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
-+ [To Top](http://docs.gantry.org/gantry5/particles/to-top)
-+ [Social](http://docs.gantry.org/gantry5/particles/social)
-+ [Positions](http://docs.gantry.org/gantry5/particles/position)
-+ [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
-+ [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
-+ [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
-+ [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
-+ [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
+* [Logo](http://docs.gantry.org/gantry5/particles/logo)
+* [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
+* [To Top](http://docs.gantry.org/gantry5/particles/to-top)
+* [Social](http://docs.gantry.org/gantry5/particles/social)
+* [Positions](http://docs.gantry.org/gantry5/particles/position)
+* [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
+* [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
+* [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+* [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
+* [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
 
 Recommended Plugins
 -----

@@ -22,6 +22,10 @@ support: http://www.rockettheme.com/forum/grav-theme-ambrosia/
         * [Style Settings](demo_settings.md)
         * [Contact Form](../../start/contact.md)
     - Theme Particles
+        - [Audio Player](particle_audio.md)
+        - [Block Content](particle_block.md)
+        - [Calendar](particle_calendar.md)
+        - [Contact](particle_contact.md)
         + [Content List](particle_contentlist.md)
         + [Content Tabs](particle_tabs.md)
         + [Features Slider](particle_featureslider.md)
@@ -31,8 +35,12 @@ support: http://www.rockettheme.com/forum/grav-theme-ambrosia/
         + [Info List](particle_info.md)
         + [Lists](particle_list.md)
         + [Newsletter](particle_newsletter.md)
+        + [Promo Image](particle_promoimage.md)
+        + [Search](particle_search.md)
         + [Simple Counter](particle_simplecounter.md)
+        + [Social](particle_social.md)
         + [Stripes Slider](particle_stripeslider.md)
+        + [Tab Image](particle_tabimage.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)
