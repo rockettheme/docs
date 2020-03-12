@@ -54,6 +54,7 @@ Here is a list of particles that are available in Acronym, as well as links to d
 - Theme Particles
     - [Particles](particle_particles.md)
     - [Headerlicious](particle_headerlicious.md)
+    - [Audio Player](particle_audio.md)
     - [Flipping Cards](particle_flippingcards.md)
     - [Owl Cards](particle_owlcards.md)
     - [Owl Showcase](particle_owl.md)

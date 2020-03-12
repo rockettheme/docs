@@ -23,6 +23,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-acronym/
         + [Front Page Layout](layout.md)
     - Theme Particles
         + [Particles](particle_particles.md)
+        + [Audio Player](particle_audio.md)
         + [Headerlicious](particle_headerlicious.md)
         + [Flipping Cards](particle_flippingcards.md)
         + [Owl Cards](particle_owlcards.md)
