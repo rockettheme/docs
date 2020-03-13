@@ -20,12 +20,15 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         * [Particles](demo.md#particles)
         * [Style Settings](demo_settings.md)       
         * [Contact Form](../../start/contact.md)
-    * Theme Particles 
+    * Theme Particles
+        * [Audio Player](particle_audio.md)
+        * [Calendar](particle_calendar.md)
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
         - [Features Slider](particle_featuresslider.md)       
         - [Grav Content](particle_grav.md)
+        - [Headlines](particle_headlines.md)
         - [Image Grid](particle_image.md)
         - [Lists](particle_lists.md)
         - [Newsletter](particle_newsletter.md)
