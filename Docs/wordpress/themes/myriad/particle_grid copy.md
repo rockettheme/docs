@@ -1,6 +1,6 @@
 ---
 title: Myriad: Grid Statistic Particle
-description: Your Guide to Using Particles in Myriad (Gantry 5 Edition) for WordPress
+description: Your Guide to Using Particles in Myriad for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/myriad:Myriad
 
 ---

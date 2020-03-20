@@ -1,21 +1,22 @@
 ---
 title: Myriad: Block Content Particle
-description: Your Guide to Using Particles in Myriad (Gantry 5 Edition) for WordPress
+description: Your Guide to Using Particles in Myriad for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/myriad:Myriad
 
 ---
 
 ## Introduction
 
-![](assets/particle_block1.png)
+![](assets/particle_block1.jpg)
 
 The **Block Content** particle is a great way to create a clean and simple content block with images and text. 
 
 Here are the topics covered in this guide:
 
-* [Configuration](#configuration)
-    - [Main Options](#main-options)
-    - [Item Options](#item-options)
+- [Introduction](#introduction)
+- [Configuration](#configuration)
+  - [Main Options](#main-options)
+  - [Item Options](#item-options)
 
 ## Configuration
 

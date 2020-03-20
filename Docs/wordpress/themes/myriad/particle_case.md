@@ -1,6 +1,6 @@
 ---
 title: Myriad: Case Studies Particle
-description: Your Guide to Recreating Elements of the Myriad (Gantry 5 Edition) Demo for WordPress
+description: Your Guide to Recreating Elements of the Myriad Demo for WordPress
 breadcrumb: /wordpress:WordPress/!themes:Themes/myriad:Myriad
 
 ---
