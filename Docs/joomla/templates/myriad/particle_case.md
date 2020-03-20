@@ -1,6 +1,6 @@
 ---
 title: Myriad: Case Studies Particle
-description: Your Guide to Recreating Elements of the Myriad (Gantry 5 Edition) Demo for Joomla
+description: Your Guide to Recreating Elements of the Myriad Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---

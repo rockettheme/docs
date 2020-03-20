@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!myriad:Myriad
 
-details: http://www.rockettheme.com/joomla/templates/myriad/
-demo: http://demo.rockettheme.com/joomla-templates/myriad/
-download: http://www.rockettheme.com/joomla/templates/myriad/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-myriad/
+details: http://www.rockettemplate.com/joomla/templates/myriad/
+demo: http://demo.rockettemplate.com/joomla-templates/myriad/
+download: http://www.rockettemplate.com/joomla/templates/myriad/modal/downloads
+support: http://www.rockettemplate.com/forum/joomla-template-myriad/
 
 ---
 
@@ -21,11 +21,14 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
         * [Style Settings](demo_settings.md)
         * [Animation on Scroll](aos.md)
     * Template Particles
+        - [Audio Player](particle_audio.md)
+        * [Calendar](particle_calendar.md)
         - [Case Studies](particle_case.md)
         - [Contact](particle_contact.md)
         - [Content List](particle_contentlist.md)
-        - [Features Slider](particle_featuresslider.md)
+        - [Features Slider](particle_featuresslider.md)       
         - [Joomla Articles](particle_joomla.md)
+        - [Headlines](particle_headlines.md)
         - [Image Grid](particle_image.md)
         - [Lists](particle_lists.md)
         - [Newsletter](particle_newsletter.md)
@@ -60,7 +63,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
     - [Using the Icon Picker](http://docs.gantry.org/gantry5/tutorials/using-the-icon-picker)
     - [Creating a New Particle](http://docs.gantry.org/gantry5/advanced/creating-a-new-particle)
     - [Particle YAML Field Types](http://docs.gantry.org/gantry5/advanced/particle-yaml-field-types)
-    - [Customizing Template Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
+    - [Customizing Template Files](http://docs.gantry.org/gantry5/advanced/customizing-template-files)
     - [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
     - [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
     - [Template Font Index](../../../technical_tips/general/font_index.md)

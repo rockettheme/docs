@@ -1,12 +1,11 @@
 ---
 title: Myriad: Testimonial Particle
-description: Your Guide to Using Particles in Myriad (Gantry 5 Edition) for Joomla
+description: Your Guide to Using Particles in Myriad for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
 
 ## Introduction
-
 
 The **Testimonial** particle gives you the ability to display testimonials for your brand in a clean, modern way. This includes an author, title, image, and quote.
 
@@ -22,7 +21,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within.
 
-![](assets/particle_testimonial2.jpeg)
+![](assets/particle_testimonial2.png)
 
 | Option         | Description                                                                                 |
 | :-----         | :-----                                                                                      |
@@ -45,7 +44,7 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle.
 
-![](assets/particle_testimonial3.jpeg)
+![](assets/particle_testimonial3.png)
 
 | Option            | Description                                                                                       |
 | :-----            | :-----                                                                                            |

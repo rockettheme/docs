@@ -53,20 +53,23 @@ Here is a list of particles that are available in Myriad, as well as links to do
 >> All Home Particles can be edited via Templates > Myriad - Home - Particles > Layout. Any additional particles that are found in the Subpages of our Myriad RocketLauncher can be located via your Joomla Administrator > Extensions > Modules. Joomla allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
 
 * Template Particles
+    - [Audio Player](particle_audio.md)
+    * [Calendar](particle_calendar.md)
     - [Case Studies](particle_case.md)
-    * [Contact](particle_contact.md)
-    * [Content List](particle_contentlist.md)
-    * [Features Slider](particle_featuresslider.md)
-    * [Joomla Articles](particle_joomla.md)
-    * [Headlines](particle_headlines.md)
-    * [Image Grid](particle_image.md)
-    * [Lists](particle_lists.md)
-    * [Newsletter](particle_newsletter.md)
-    * [Promo Image](particle_promoimage.md)
-    * [Simple Counter](particle_simplecounter.md)
-    * [Strips Slider](particle_stripsslider.md)
-    * [Tab Image](particle_tabimage.md)
-    * [Testimonial](particle_testimonial.md)
+    - [Contact](particle_contact.md)
+    - [Content List](particle_contentlist.md)
+    - [Features Slider](particle_featuresslider.md)       
+    - [Joomla Articles](particle_joomla.md)
+    - [Headlines](particle_headlines.md)
+    - [Image Grid](particle_image.md)
+    - [Lists](particle_lists.md)
+    - [Newsletter](particle_newsletter.md)
+    - [Promo Image](particle_promoimage.md)
+    - [Simple Counter](particle_simplecounter.md)
+    - [Strips Slider](particle_stripsslider.md)
+    - [Tab Image](particle_tabimage.md)
+    - [Testimonial](particle_testimonial.md)
+    - [Video](particle_video.md)
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
@@ -89,7 +92,7 @@ Home Page Layout Presets
 
 ![Layout Presets](assets/layout_presets.jpeg)
 
-If you did not choose to 'Install Sample Data' upon installing the Myriad theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+If you did not choose to 'Install Sample Data' upon installing the Myriad template, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 
 You can access this preset by selecting **Load** in the **Layout Manager**.
 
@@ -102,11 +105,11 @@ Menu Editor
 
 Myriad has its own built-in Menu Editor which takes full advantage of Joomla's menu system, taking your Joomla menus and enhancing them before passing them to visitors on the front end. Any changes made in the Menu Editor will only affect the way it appears to the visitor, and not the way Joomla sees or uses it.
 
-You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Themes > Myriad > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
+You can access the Gantry Menu Editor by navigating to **Administrator > Components > Gantry 5 Templates > Myriad > Menu**. You can find out more about navigating and using the Gantry Menu Editor [in our documentation](http://docs.gantry.org/gantry5/configure/menu-editor).
 
 Assignments
 -----
 
 ![](assets/assignments_1.jpeg)
 
-Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign theme outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Themes > Myriad** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.
+Assignments are also managed in the Gantry Administrator. This administrative panel enables you to assign template outlines to specific menu items, pages, and other areas of your site. By navigating to **Administrator > Components > Gantry 5 Templates > Myriad** and selecting an outline other than the **Base Outline**, you will be able to assign that outline by navigating to the **Assignments** panel. Simply switch any menu items to on (green) that you want to assign that outline to. In the case of the Home page, this would be your default Home page in your default (main) menu.

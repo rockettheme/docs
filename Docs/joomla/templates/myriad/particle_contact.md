@@ -1,6 +1,6 @@
 ---
 title: Myriad: Contact Particle
-description: Your Guide to Using Particles in Myriad (Gantry 5 Edition) for Joomla
+description: Your Guide to Using Particles in Myriad for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/myriad:Myriad
 
 ---
