@@ -104,7 +104,7 @@ The front page of the Acronym demo sits apart from the rest of the page layouts 
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.jpeg)
+![Layout Presets](assets/layout_presets.png)
 
 If you did not choose to 'Install Sample Data' upon installing the Acronym theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
 

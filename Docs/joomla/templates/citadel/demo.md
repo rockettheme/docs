@@ -93,7 +93,7 @@ The front page of the Citadel demo sits apart from the rest of the page layouts 
 Home Page Layout Presets
 -----
 
-![Layout Presets](assets/layout_presets.jpeg)
+![Layout Presets](assets/layout_presets.png)
 
 In order to make it really easy to replicate the home page, we included two layout presets for the home page with the theme. The first, **Home - Particles** (included in the standalone package) includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout. If you downloaded the theme and not a RocketLauncher, this is the best option for you if you want a copy of the front page with minimal effort.
 

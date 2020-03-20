@@ -66,6 +66,17 @@ Recreating the Front Page
 
 The front page of the Callisto demo sits apart from the rest of the page layouts in that it features the latest and greatest features of the template. It is because of this that several module and layout overrides were done. In this section, we will break down the settings you will need to recreate elements present in the front page of the Callisto demo.
 
+Home Page Layout
+-----
+
+![Layout Presets](assets/layout_presets.png)
+
+If you did not choose to 'Install Sample Data' upon installing the Callisto theme, we have included a convenient layout preset that enables you to load the home page as seen in our demo. This preset is called **Home - Particles** and it includes all of the particle-based home page demo content so you can hit the ground running with a copy of our demo to work from loaded directly into the layout.
+
+You can access this preset by selecting **Load** in the **Layout Manager**. Make sure to uncheck the "Keep the current Particles while changing Preset" checkbox to start fresh with any of our presets.
+
+>> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
+
 Menu Editor
 -----
 
