@@ -93,7 +93,7 @@ The **Popup Module** particle is a **Gantry 5 Particle** module placed within th
 
 #### Particle Settings
 
-![Demo Navigation](demo_navigation_5.jpeg)
+![Demo Navigation](demo_navigation_5.png)
 
 | Option            | Setting              |
 | :-----            | :-----               |

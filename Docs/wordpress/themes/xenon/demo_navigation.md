@@ -25,11 +25,11 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ![](assets/demo_navigation_settings.jpeg)
 
-| Option           | Setting     |
-| :--------------- | :---------- |
-| Layout           | Boxed       |
-| CSS Classes      | Blank       |
-| Tag Attributes   | Blank       |
+| Option         | Setting |
+| :------------- | :------ |
+| Layout         | Boxed   |
+| CSS Classes    | Blank   |
+| Tag Attributes | Blank   |
 
 ## Menu (Particle)
 
@@ -38,7 +38,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 ![Demo Navigation](demo_navigation_1.jpeg)
 
 | Option        | Setting   |
-| :-----        | :-----    |
+| :------------ | :-------- |
 | Particle Name | `Menu`    |
 | Menu          | Main-menu |
 | Base Item     | Blank     |
@@ -52,7 +52,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 ![Demo Navigation](demo_navigation_2.jpeg)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+| :------------- | :-------- |
 | CSS ID         | Blank     |
 | CSS Classes    | Blank     |
 | Variations     | Blank     |
@@ -64,17 +64,17 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 
 ### Particle Settings
 
-![Demo Navigation](demo_navigation_3.jpeg)
+![Demo Navigation](demo_navigation_3.png)
 
 | Option            | Setting        |
-| :-----            | :-----         |
+| :---------------- | :------------- |
 | Particle Name     | `Popup Widget` |
 | CSS Classes       | Blank          |
 | Title             | Blank          |
 | Widget            | `Meta`         |
 | Guest Button Icon | `fa fa-unlock` |
 | Guest Text        | `Site Meta`    |
-| User Button Icon | `fa fa-lock`   |
+| User Button Icon  | `fa fa-lock`   |
 | User Text         | `Site Meta`    |
 | Button Classes    | `button-2`     |
 
@@ -83,7 +83,7 @@ Here is a breakdown of the widget(s) and particle(s) that appear in this section
 ![Demo Navigation](demo_navigation_4.jpeg)
 
 | Option         | Setting   |
-| :-----         | :-----    |
+| :------------- | :-------- |
 | CSS ID         | Blank     |
 | CSS Classes    | Blank     |
 | Variations     | Blank     |
