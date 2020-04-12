@@ -1,11 +1,11 @@
 ---
 
-breadcrumb: /joomla:Joomla/!templates:Templates/!elixir:Elixir
+breadcrumb: /wordpress:WordPress/!themes:Themes/!elixir:Elixir
 
-details: http://www.rockettheme.com/joomla/templates/elixir/
-demo: http://demo.rockettheme.com/joomla-templates/elixir/
-download: http://www.rockettheme.com/joomla/templates/elixir/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-template-elixir/
+details: http://www.rockettheme.com/wordpress/themes/elixir/
+demo: http://demo.rockettheme.com/wordpress-themes/elixir/
+download: http://www.rockettheme.com/wordpress/themes/elixir/modal/downloads
+support: http://www.rockettheme.com/forum/wordpress-theme-elixir/
 
 ---
 
@@ -13,16 +13,16 @@ support: http://www.rockettheme.com/forum/joomla-template-elixir/
     - [Introduction]()
     - [Key Features](INDEX.md#key-features)
     - [Requirements](INDEX.md#requirements)
-    - [How to Install](../../platform/templates.md#how-to-install)
-        + [Installing the Template](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
-        + [RocketLauncher (3.x)](../../platform/rocketlauncher_3x.md)
-        + [Installing Extensions](../../platform/extensions.md#how-to-install-an-extension)
+    - [How to Install](../../start/themes.md#how-to-install)
+        + [Installing the Theme](http://docs.gantry.org/gantry5/basics/installation#installing-a-gantry-theme)
+        + [RocketLauncher](../../start/rocketlauncher.md)
     - [Recreate the Demo](demo.md)
         - [Home Particles](demo.md#home-particles)
-        - [Particles](demo.md#particles)
-        + [Extensions](demo.md#recommended-extensions)
+        - [Particles](demo.md(#particles)
+        + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
-    - Template Particles
+        + [Particle Settings](demo.md#particles)
+    - Theme Particles
         - [Slideshow](particle_slideshow.md)
         - [Quick Menu](particle_quickmenu.md)
         - [Location Pins](particle_location.md)
@@ -38,7 +38,7 @@ support: http://www.rockettheme.com/forum/joomla-template-elixir/
         - [Info List](particle_info.md)
         - [Pricing Table](particle_pricing.md)
         - [Grid Statistic](particle_grid.md)
-        - [Joomla Articles](particle_joomla.md)
+        - [WordPress Posts](particle_wordpress.md)
         - [Heading](particle_heading.md)
         - [Promo](particle_promo.md)
         - [Logos](particle_logos.md)
@@ -47,7 +47,7 @@ support: http://www.rockettheme.com/forum/joomla-template-elixir/
         - [Social](particle_social.md)
         - [Social Feed](particle_socialfeed.md)
         - [Video](particle_video.md)
-    - Template Atoms
+    - Theme Atoms
         + [Animation on Scroll](atom_aos.md)
         + [Fixed Header](atom_fixedheader.md)
     - Core Particles
@@ -64,7 +64,7 @@ support: http://www.rockettheme.com/forum/joomla-template-elixir/
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
     - [CSS Classes](css.md)
     - [FAQ](faq.md)
-    - Template Tutorials
+    - Theme Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
         + [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
         + [Adding a Custom Font](http://docs.gantry.org/gantry5/tutorials/fonts)
@@ -77,4 +77,4 @@ support: http://www.rockettheme.com/forum/joomla-template-elixir/
         + [Customizing Theme Files](http://docs.gantry.org/gantry5/advanced/customizing-theme-files)
         + [Creating Layout Presets](http://docs.gantry.org/gantry5/advanced/creating-layout-presets)
         + [Creating Custom File Overrides](http://docs.gantry.org/gantry5/advanced/file-overrides)
-        + [Template Font Index](../../../technical_tips/general/font_index.md)
+        + [Theme Font Index](../../../technical_tips/general/font_index.md)

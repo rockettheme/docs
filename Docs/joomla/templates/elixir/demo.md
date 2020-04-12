@@ -16,32 +16,29 @@ Keep in mind that a lot of the detail that makes our demos look so good is the r
 
 >> NOTE: We recommend downloading a copy of the RocketLauncher whenever you are attempting to replicate demo content. This allows easy referencing, whether on your site in a subdirectory, development server, or on a localhost. This will allow you to see all of our demo content in context, making it easier to replicate.
 
-<!-- Home Particles
+Home Particles
 -----
 
 Below, you will find the particle placement and settings for the various positions as they appear on the front page of our demo. Not all of these position assignments are unique to the front page.
 
-![](assets/elixir2.png)
+![](assets/elixir2.jpg)
 
-:   1. **Navigation** Logo (Particle) [1%, 1%, se]
-    2. **Navigation** Menu (Particle) [1%, 26%, se]
-    3. **Slideshow** Slideshow (Particle) [3%, 50%, se]
-    4. **Header** Logo/Image (Particle) [13%, 8%, se]
-    5. **Header** Simple Content (Particle) [13%, 55%, se]    
-    6. **Above** Simple Content (Particle) [22%, 50% se]
-    7. **Above** Simple Content (Particle) [25%, 25%, se]
-    8. **Above** Logo/Image (Particle) [25%, 50% se]
-    9. **Above** Simple Content (Particle) [25%, 75%, se]
-    10. **Feature** Simple Content (Particle) [35%, 12%, se]
-    11. **Feature** Vertical Slideshow (Particle) [35%, 82%, se]
-    12. **Showcase** Latest News (Particle) [47%, 50%, se]
-    13. **Utility** Testimonials (Particle) [71%, 12%, se]
-    14. **Expanded** Social Feed (Particle) [80%, 50%, se]
-    15. **Footer** Newsletter (Particle) [88%, 50%, se]
-    16. **Footer** Simple Menu (Particle) [94%, 50%, se]
-    17. **Copyright** Copyright (Particle) [99%, 50%, se]
+1. **Navigation** Logo / Image (Particle)
+2. **Navigation** Menu (Particle)
+3. **Slideshow** Slideshow (Particle)
+4. **Header** Quick Menu (Particle)
+5. **Header** Image (Particle)
+6. **Above** Location Pins (Particle)
+7. **Feature** Simple Content (Particle)
+8. **Showcase** Latest News (Particle)
+9. **Utility** Latest Blogs (Particle)
+10. **Expanded** Block Content (Particle)
+11. **Extension** Flipster Cover Flow (Particle)
+12. **Footer** Newsletter (Particle)
+13. **Footer** Simple Menu (Particle)
+14. **Copyright** Copyright (Particle)
 
-Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section). -->
+Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 
 Particles
 -----
