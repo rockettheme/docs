@@ -16,21 +16,15 @@ New to Gantry 5?
 -----
 If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
 
-As a WordPress user, you are most likely accustomed to editing modules when working with our Gantry 4 themes. While our RocketLauncher package contains modules for our subpages, the Home page content is specifically found in the theme's Layout. This can be found via your **WordPress administrator -> Extensions -> Themes - > Home -> Layout**. Click on any of the cog icons on the Particles to edit the content.
-
-![Home](home.jpg)
-
-To understand more how the Layout manager works, please [click here](http://docs.gantry.org/gantry5/configure/layout-manager).
-
 Requirements
 -----
 
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 7.1+ 
 * MySQL 5.1+
-* WordPress 3.8+
+* WordPress 5.4
 
->> NOTE: Gantry v5.4.26+ is required for Elixir to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.32+ is required for Elixir to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

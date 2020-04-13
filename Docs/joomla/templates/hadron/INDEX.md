@@ -30,7 +30,7 @@ Requirements
 * Multibyte String Support
 * MySQL
 
->> NOTE: Gantry v5.4.26+ is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.32+ is required for Hadron to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

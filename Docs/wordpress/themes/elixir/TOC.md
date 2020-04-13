@@ -18,7 +18,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-elixir/
         + [RocketLauncher](../../start/rocketlauncher.md)
     - [Recreate the Demo](demo.md)
         - [Home Particles](demo.md#home-particles)
-        - [Particles](demo.md(#particles)
+        - [Particles](demo.md#particles)
         + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)

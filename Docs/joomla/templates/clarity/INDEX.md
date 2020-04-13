@@ -30,7 +30,7 @@ Requirements
 * MySQL 5.1+
 * Joomla 3.8+
 
->> NOTE: Gantry v5.4.26+ is required for Clarity to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry v5.4.32+ is required for Clarity to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----

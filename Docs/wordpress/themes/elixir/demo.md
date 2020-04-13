@@ -45,7 +45,7 @@ Particles
 
 Here is a list of particles that are available in Elixir, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Elixir - Home > Layout. Any additional particles that are found in the Subpages of our Elixir RocketLauncher can be located via your WordPress Administrator > Extensions > Modules. WordPress allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
+>> All Home Particles can be edited via Clarity Theme > Home > Layout.
 
 Theme Particles
 
