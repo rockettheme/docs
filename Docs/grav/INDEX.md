@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Elixir](themes/elixir)
 	- [Clarity](themes/clarity)
 	- [Audacity](themes/audacity)
 	- [Akuatik](themes/akuatik)
