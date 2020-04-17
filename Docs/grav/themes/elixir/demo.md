@@ -45,7 +45,7 @@ Particles
 
 Here is a list of particles that are available in Elixir, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Elixir Theme > Home > Layout.
+>> All Home Particles can be edited via the Grav admin > Gantry 5 > Home > Layout.
 
 Theme Particles
 

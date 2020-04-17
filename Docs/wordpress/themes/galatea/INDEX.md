@@ -22,7 +22,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 7.1+ 
 * MySQL 5.1+
-* WordPress 3.4+
+* WordPress 5.x
 
 >> NOTE: Gantry v5.2.6+ is required for Galatea to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
