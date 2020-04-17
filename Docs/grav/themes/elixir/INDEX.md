@@ -22,7 +22,7 @@ Requirements
 * Apache 2.2+ or Microsoft IIS 7
 * PHP 7.1+ 
 * MySQL 5.1+
-* Grav 5.4
+* Grav 1.6+
 
 >> NOTE: Gantry v5.4.32+ is required for Elixir to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
