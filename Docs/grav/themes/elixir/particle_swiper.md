@@ -33,7 +33,7 @@ These options affect the main area of the particle, and not the individual items
 | Option                | Description                                                                                         |
 | :-------------------- | :-------------------------------------------------------------------------------------------------- |
 | Particle Name         | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Content Source        | Choose between **Particle** and **Grav** as the content source for the particle.               |
+| Content Source        | Choose between **Particle** and **Grav** as the content source for the particle.                    |
 | Slide Height          | Set the minimal height of each slide.                                                               |
 | Slide Height (Mobile) | Set the minimal height of each slide on mobile devices.                                             |
 | Prev/ Next            | **Enable** or **Disable** arrows navigation.                                                        |
