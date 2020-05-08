@@ -9,7 +9,7 @@ breadcrumb: /grav:Grav/!themes:Themes/clarity:Clarity
 
 ![](assets/particle_latestnews1.png)
 
-The **Latest News** particle displays your latest pages or featured content, along with images and text. You can vary the way these items appear, making them more appealing to the eye and magazine-like.
+The **Latest News** particle displays your featured content, along with images and text. You can vary the way these items appear, making them more appealing to the eye and magazine-like.
 
 Here are the topics covered in this guide:
 
