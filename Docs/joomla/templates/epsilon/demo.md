@@ -73,6 +73,8 @@ Here is a list of particles that are available in Epsilon, as well as links to d
     * [Content Tabs](particle_contenttabs.md)
     * [Lists](particle_lists.md)
     * [Mosaic](particle_mosaid.md)
+    * [Swiper](particle_swiper.md)
+
 * Core Particles
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

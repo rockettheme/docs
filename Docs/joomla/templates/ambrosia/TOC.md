@@ -41,6 +41,7 @@ support: http://www.rockettemplate.com/forum/joomla-template-ambrosia/
         + [Social](particle_social.md)
         + [Stripes Slider](particle_stripeslider.md)
         + [Tab Image](particle_tabimage.md)
+        + [Swiper](particle_swiper.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)

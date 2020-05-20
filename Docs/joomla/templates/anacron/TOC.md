@@ -39,6 +39,7 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
         - [Tab Image](particle_tabimage.md)
         - [Testimonials](particle_testimonial.md)
         - [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     * Template Atoms
         - [Animation on Scroll](atom_aos.md) 
         - [Fixed Header](atom_fixedheader.md)

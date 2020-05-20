@@ -74,6 +74,7 @@ Here is a list of particles that are available in Flux, as well as links to docu
     - [Slider](particle_slider.md)
     - [Testimonials](particle_testimonials.md)
     - [Video](particle_video.md)
+    - [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

@@ -37,6 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-protean/
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
         * [Simple Weather](particle_weather.md)
+        * [Swiper](particle_swiper.md)
     * Core Particles 
         * [Logo](http://docs.gantry.org/gantry5/particles/logo)
         * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

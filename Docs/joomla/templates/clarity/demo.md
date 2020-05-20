@@ -69,6 +69,7 @@ Template Particles
 * [Heading](particle_heading.md)
 * [Promo](particle_promo.md)
 * [Video](particle_video.md)
+- [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

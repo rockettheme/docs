@@ -47,6 +47,7 @@ support: http://www.rockettheme.com/forum/joomla-template-lexicon/
       * [Testimonial](particle_testimonial.md)      
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)
+      + [Swiper](particle_swiper.md)
     * Template Atoms
       * [Animation on Scroll](atom_aos.md)
       * [Parallax](atom_parallax.md)

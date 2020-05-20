@@ -35,6 +35,7 @@ Below, you will find the module placement and settings for the various module po
 - [Lists](particle_lists.md)
 - [Newsletter](particle_newsletter.md)
 - [Promo Image](particle_promoimage.md)
+- [Swiper](particle_swiper.md)
 
 ### Core Particles 
 

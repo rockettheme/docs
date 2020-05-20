@@ -36,6 +36,7 @@ support: http://www.rockettheme.com/forum/joomla-template-remnant/
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
         * [Simple Weather](particle_weather.md)
+        + [Swiper](particle_swiper.md)
     * Template Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)

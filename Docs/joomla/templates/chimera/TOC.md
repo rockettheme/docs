@@ -42,6 +42,7 @@ support: http://www.rockettheme.com/forum/joomla-template-chimera/
         + [Strips Slider](particle_stripsslider.md)
         + [Tab Image](particle_tabimage.md)
         + [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     + Template Atoms
         + [Animation on Scroll](atom_aos.md)
         + [Fixed Header](atom_fixedheader.md)

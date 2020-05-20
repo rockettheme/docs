@@ -64,6 +64,7 @@ Template Particles
 - [Testimonials](particle_testimonials.md)
 - [Vertical Slider](particle_vertical.md)
 - [Video](particle_video.md)
+- [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

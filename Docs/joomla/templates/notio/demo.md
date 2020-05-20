@@ -73,6 +73,7 @@ Template Particles
 + [Simple Counter](particle_simplecounter.md)
 + [Video](particle_video.md)
 + [Video Carousel](particle_videocarousel.md)
+- [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

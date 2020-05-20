@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/joomla-template-hadron/
       * [Simple Counter](particle_simplecounter.md)
       * [Slider](particle_slider.md)
       * [Strips Slider](particle_stripsslider.md)      
+      * [Swiper](particle_swiper.md)
       * [Tab Image](particle_tabimage.md)
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)

@@ -33,7 +33,8 @@ support: http://www.rockettheme.com/forum/joomla-template-salient/
             * [Bottom](demo_bottom.md)
             * [Footer / Footside](demo_footer.md)
             * [Copyright](demo_copyright.md)
-        * Template Atoms
+            + [Swiper](particle_swiper.md)
+    * Template Atoms
             * [Animation on Scroll](atom_aos.md)
             * [Fixed Header](atom_fixedheader.md)
         * [Front Page Layout](layout.md)

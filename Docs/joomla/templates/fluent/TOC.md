@@ -37,6 +37,7 @@ support: http://www.rockettheme.com/forum/joomla-template-fluent/
         * [Testimonial Slider](particle_testimonialslider.md)
         * [Vertical Slider](particle_vertical.md)
         * [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)
     - Core Particles 

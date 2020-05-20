@@ -32,6 +32,7 @@ support: http://www.rockettheme.com/forum/joomla-template-citadel/
         * [Grid Statistic](particle_grid.md)
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
+        + [Swiper](particle_swiper.md)
     * Template Atoms
         * [Animation on Scroll](atom_aos.md)
     * Core Particles 

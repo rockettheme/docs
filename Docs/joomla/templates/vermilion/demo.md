@@ -75,6 +75,8 @@ Here is a list of particles that are available in Vermilion, as well as links to
     * [Slider](particle_slider.md)
     * [Tab Image](particle_tabimage.md)
     * [Video](particle_video.md)
+    * [Swiper](particle_swiper.md)
+
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

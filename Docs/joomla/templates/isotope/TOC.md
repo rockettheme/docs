@@ -33,7 +33,8 @@ support: http://www.rockettheme.com/forum/joomla-template-isotope/
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
             * [Overlay](demo_overlay.md)
-        * Template Atoms
+            + [Swiper](particle_swiper.md)
+    * Template Atoms
             * [Animation on Scroll](atom_aos.md)
             * [Fixed Header](atom_fixedheader.md)
         * [Front Page Layout](layout.md)

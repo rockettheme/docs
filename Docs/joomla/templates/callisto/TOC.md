@@ -45,6 +45,7 @@ support: http://www.rockettheme.com/forum/joomla-template-callisto/
         - [Lists](particle_lists.md)
         - [Newsletter](particle_newsletter.md)
         - [Promo Image](particle_promoimage.md)
+        + [Swiper](particle_swiper.md)
     * Template Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)

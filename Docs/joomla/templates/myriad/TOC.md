@@ -38,6 +38,7 @@ support: http://www.rockettemplate.com/forum/joomla-template-myriad/
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
         - [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     * Template Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)
