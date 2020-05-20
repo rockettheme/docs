@@ -1,7 +1,7 @@
 ---
-title: Koleti: Swiper Particle
-description: Your Guide to Recreating Elements of the Koleti Demo for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
+title: Reiko: Swiper Particle
+description: Your Guide to Recreating Elements of the Reiko Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/reiko:Reiko
 
 ---
 
@@ -9,7 +9,7 @@ breadcrumb: /wordpress:WordPress/!themes:Themes/koleti:Koleti
 
 ![](assets/swiper1.jpg)
 
-The **Swiper** particle is an incredibly versatile and modern touch slider available with the Koleti theme!
+The **Swiper** particle is an incredibly versatile and modern touch slider available with the Reiko theme!
 
 Here are the topics covered in this guide:
 
