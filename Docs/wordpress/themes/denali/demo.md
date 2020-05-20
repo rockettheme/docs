@@ -68,6 +68,7 @@ Here is a list of particles that are available in Denali, as well as links to do
     + [Simple Menu](particle_simplemenu.md)
     + [Slider](particle_slider.md)
     + [Social](particle_social.md)
+    + [Swiper](particle_swiper.md)
     + [Video](particle_video.md)
 - Theme Atoms
     + [Fixed Header](atom_fixedheader.md)

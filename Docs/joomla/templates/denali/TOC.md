@@ -39,6 +39,7 @@ support: http://www.rockettheme.com/forum/joomla-template-denali/
         * [Simple Menu](particle_simplemenu.md)
         * [Slider](particle_slider.md)
         * [Social](particle_social.md)
+        * [Swiper](particle_swiper.md)
         * [Video](particle_video.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)

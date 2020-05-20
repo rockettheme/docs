@@ -69,6 +69,7 @@ Template Particles
 + [Simple Menu](particle_simplemenu.md)
 + [Slider](particle_slider.md)
 + [Social](particle_social.md)
++ [Swiper](particle_swiper.md)
 + [Video](particle_video.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
