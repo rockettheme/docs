@@ -58,6 +58,7 @@ Here is a list of particles that are available in Topaz, as well as links to doc
     * [Grid Statistic](particle_grid.md)
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
+    * [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

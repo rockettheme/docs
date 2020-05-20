@@ -32,6 +32,7 @@ support: http://www.rockettheme.com/forum/grav-theme-interstellar/
             * [Block Content](particle_block.md)
             * [Mosaic Grid](particle_mosaic.md)
             * [Grid Statistic](particle_grid.md)
+            * [Swiper](particle_swiper.md)
         + [Demo Home Page Content](demo.md#home-particles)
             * [Navigation](demo_navigation.md)
             * [Header](demo_header.md)

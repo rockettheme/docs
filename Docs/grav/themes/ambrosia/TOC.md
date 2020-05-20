@@ -39,7 +39,8 @@ support: http://www.rockettheme.com/forum/grav-theme-ambrosia/
         + [Search](particle_search.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Social](particle_social.md)
-        + [Stripes Slider](particle_stripeslider.md)
+        + [Strips Slider](particle_stripeslider.md)
+        + [Swiper](particle_swiper.md)
         + [Tab Image](particle_tabimage.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)

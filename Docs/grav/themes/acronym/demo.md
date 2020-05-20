@@ -72,6 +72,7 @@ Here is a list of particles that are available in Acronym, as well as links to d
     - [Video](particle_video.md)
     - [Pricing Table](particle_pricing.md)
     - [Simple Menu](particle_simplemenu.md)
+    - [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

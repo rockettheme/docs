@@ -66,6 +66,7 @@ Particles
     * [Slider](particle_slider.md)
     * [Slideshow](particle_slideshow.md)
     * [Strips Slider](particle_stripsslider.md)
+    * [Swiper](particle_swiper.md)
     * [Content Tabs](particle_contenttabs.md)
     * [Lists](particle_lists.md)
     * [Mosaic](particle_mosaid.md)

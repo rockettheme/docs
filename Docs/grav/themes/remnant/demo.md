@@ -71,6 +71,7 @@ Here is a list of particles that are available in Remnant, as well as links to d
     * [Simple Content](particle_simple.md)
     * [Image Grid](particle_image.md)
     * [Simple Weather](particle_weather.md)
+    * [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

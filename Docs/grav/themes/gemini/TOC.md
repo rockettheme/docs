@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/grav-theme-gemini/
         + [Simple Counter](particle_simplecounter.md)
         + [Simple Menu](particle_simplemenu.md)
         + [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
     - Core Particles 

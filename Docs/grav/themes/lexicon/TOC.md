@@ -46,6 +46,7 @@ support: http://www.rockettheme.com/forum/grav-theme-lexicon/
       * [Testimonial](particle_testimonial.md)
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)
+      + [Swiper](particle_swiper.md)
     * Theme Atoms
       * [Animation on Scroll](atom_aos.md)
       * [Parallax](atom_parallax.md)

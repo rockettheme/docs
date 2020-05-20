@@ -46,6 +46,7 @@ support: http://www.rockettheme.com/forum/grav-theme-notio/
         + [Simple Counter](particle_simplecounter.md)
         + [Video](particle_video.md)
         + [Video Carousel](particle_videocarousel.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)

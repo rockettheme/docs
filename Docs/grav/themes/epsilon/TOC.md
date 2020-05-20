@@ -45,6 +45,7 @@ support: http://www.rockettheme.com/forum/grav-theme-epsilon/
       * [Tab Image](particle_tabimage.md)      
       * [Vertical Menu](particle_verticalmenu.md)      
       * [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     * Theme Atoms
       * [Animation on Scroll](atom_aos.md)
       * [Fixed Header](atom_fixedheader.md)

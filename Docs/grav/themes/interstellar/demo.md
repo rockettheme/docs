@@ -54,6 +54,7 @@ We have detailed how to recreate the individual particles pictured above in the 
 8. [Bottom](demo_bottom.md)
 9. [Footer](demo_footer.md)
 10. [Copyright](demo_copyright.md)
+11. [Swiper](demo_swiper.md)
 
 Not pictured here is an **Offcanvas** position which hosts the mobile menu. You can find out more about the Offcanvas position in the [Gantry 5 documentation](http://docs.gantry.org/gantry5/configure/layout-manager#offcanvas-section).
 

@@ -39,6 +39,7 @@ support: http://www.rockettheme.com/forum/grav-theme-requiem/
         + [Promo Image](particle_promoimage.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Testimonial](particle_testimonial.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
     - Core Particles 

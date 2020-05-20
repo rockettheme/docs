@@ -83,6 +83,7 @@ Here is a list of particles that are available in Antares, as well as links to d
     - [Grid Content](particle_gridcontent.md)
     - [Promo Image](particle_promoimage.md)
     - [Simple Counter](particle_simplecounter.md)
+    - [Swiper](particle_swiper.md)
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

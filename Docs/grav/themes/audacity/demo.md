@@ -80,6 +80,7 @@ Particles
     - [Testimonial](particle_testimonial.md)
     - [Video](particle_video.md)
     - [Vertical Menu](particle_verticalmenu.md)
+    - [Swiper](particle_swiper.md)
 * Core Particles
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

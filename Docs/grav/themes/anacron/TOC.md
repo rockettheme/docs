@@ -36,6 +36,7 @@ support: http://www.rockettheme.com/forum/grav-theme-anacron/
         - [Showcase](particle_showcase.md)
         - [Simple Counter](particle_simplecounter.md)
         - [Strips Slider](particle_stripsslider.md)
+        - [Swiper](particle_swiper.md)
         - [Tab Image](particle_tabimage.md)
         - [Testimonials](particle_testimonial.md)
         - [Video](particle_video.md)

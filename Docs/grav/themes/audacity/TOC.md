@@ -50,6 +50,7 @@ support: http://www.rockettheme.com/forum/grav-theme-audacity/
       * [Video](particle_video.md)
       * [Showcase](particle_showcase.md)
       * [Strips Slider](particle_stripsslider.md)
+        + [Swiper](particle_swiper.md)
     * Theme Atoms
       * [Animation on Scroll](atom_aos.md)
     * Core Particles

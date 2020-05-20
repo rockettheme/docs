@@ -36,6 +36,7 @@ support: http://www.rockettheme.com/forum/grav-theme-protean/
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
         * [Simple Weather](particle_weather.md)
+        + [Swiper](particle_swiper.md)
     * Theme Atoms
         * [Animation on Scroll](atom_aos.md)
     * Core Particles 

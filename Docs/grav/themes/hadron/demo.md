@@ -67,6 +67,7 @@ Particles
     * [Pricing Table](particle_pricing.md)
     * [Promo Image](particle_promoimage.md)
     * [Simple Counter](particle_simplecounter.md)
+    - [Swiper](particle_swiper.md)
     * [Video](particle_video.md)
 * Core Particles
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)

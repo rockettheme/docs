@@ -64,6 +64,7 @@ Particles
     * [Promo Image](particle_promoimage.md)
     * [Simple Counter](particle_simplecounter.md)
     * [Strips Slider](particle_stripsslider.md)
+    * [Swiper](particle_swiper.md)
     * [Tab Image](particle_tabimage.md)
     * [Testimonial](particle_testimonial.md)
 * Core Particles 

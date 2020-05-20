@@ -72,7 +72,8 @@ Here is a list of particles that are available in Notio, as well as links to doc
     + [Simple Counter](particle_simplecounter.md)
     + [Video](particle_video.md)
     + [Video Carousel](particle_videocarousel.md)
-- Theme Atoms
+    - [Swiper](particle_swiper.md)
+- Theme Atoms 
     + [Fixed Header](atom_fixedheader.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):

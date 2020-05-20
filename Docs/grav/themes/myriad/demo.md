@@ -66,6 +66,7 @@ Particles
     - [Tab Image](particle_tabimage.md)
     - [Testimonial](particle_testimonial.md)
     - [Video](particle_video.md) 
+    - [Swiper](particle_swiper.md)
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

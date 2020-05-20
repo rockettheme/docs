@@ -44,6 +44,7 @@ support: http://www.rockettheme.com/forum/grav-theme-galatea/
             * [Blog](blog.md)
             * [Coming Soon](comingsoon.md)
     * [FAQ](faq.md)
+    * [Swiper](particle_swiper.md)
     * [Animation on Scroll](atom_aos.md)
     * [Fixed Header](atom_fixedheader.md)
 * Theme Tutorials

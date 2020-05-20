@@ -41,7 +41,8 @@ Here is a list of particles that are available in Supra, as well as links to doc
     + [Slider](particle_slider.md)
     + [Slideshow](particle_slideshow.md)
     + [Video](particle_video.md)
-- Theme Atoms
+    - [Swiper](particle_swiper.md)
+- Theme Atoms 
     + [Full Page Scrolling](atom_fullpage.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):

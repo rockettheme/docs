@@ -72,6 +72,7 @@ Theme Particles
 * [Table Tabs](particle_tabletabs.md)
 * [Team](particle_team.md)
 * [Video](particle_video.md)
+* [Swiper](particle_swiper.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

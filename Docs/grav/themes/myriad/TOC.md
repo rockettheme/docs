@@ -38,6 +38,7 @@ support: http://www.rockettheme.com/forum/grav-theme-myriad/
         - [Tab Image](particle_tabimage.md)
         - [Testimonial](particle_testimonial.md)
         - [Video](particle_video.md) 
+        + [Swiper](particle_swiper.md)
     * Theme Atoms
         * [Animation on Scroll](aos.md)     
         * [Fixed Header](atom_fixedheader.md)  

@@ -34,6 +34,7 @@ support: http://www.rockettheme.com/forum/grav-theme-photon/
             * [Block Content](particle_block.md)
             * [Mosaic Grid](particle_mosaic.md)
             * [Grid Statistic](particle_grid.md)
+            * [Swiper](particle_swiper.md)
         * [Front Page Layout](layout.md)
         * [Particle Settings](demo.md#particle-settings)
             * [Navigation](demo_navigation.md)
