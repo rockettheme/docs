@@ -38,6 +38,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-calla/
         * [Slideshow](particle_slideshow.md)
         * [Social](particle_social.md)
         * [Springboard](particle_springboard.md)
+        * [Swiper](particle_swiper.md)
         * [Video](particle_video.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
