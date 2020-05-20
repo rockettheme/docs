@@ -33,7 +33,7 @@ These options affect the main area of the particle, and not the individual items
 | :----------------     | :-------------------------------------------------------------------------------------------------------- |
 | Particle Name         | This is the name of the particle used for back end management. It does not appear on the front end.       |
 | Content Source        | Choose between **Particle** and **Joomla** as the content source for the particle.                        |
-| Image                 | Choose if the image used should be a background or img tag.                                               |
+| Image                 | Choose if the image used should display as a **Background** or **IMG** tag.                               |
 | Slide Height          | Set the height of each slide.                                                                             |
 | Mobile Height         | Set the height of each slide on mobile devices.                                                           |
 | Prev/ Next            | **Enable** or **Disable** arrows navigation.                                                              |
@@ -47,7 +47,7 @@ These options affect the main area of the particle, and not the individual items
 | Direction      		| Choose between a **Vertical** and **Horizontal** slider animation.                                        |
 | Effect                | Choose an effect. Options include: **Slide**, **Fade**, **Flip**, or **Cover Flow**.                      |
 
->> NOTE: For best results when selecting IMG for Image option, set Slide and Mobile Height to 100%.
+>> NOTE: For best results when selecting **IMG** in Image option, set Slide and Mobile Height to 100%.
 
 ### Particle Item Options
 
