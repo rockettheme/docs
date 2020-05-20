@@ -62,7 +62,7 @@ These items make up the individual featured items in the particle. Items in this
 | Item Name                           | This is the name of the item. It is used only for backend management.                            |
 | CSS Classes                         | Enter any CSS class(es) you wish to have apply to the item.                                      |
 | Image                               | Select an image to appear in the particle.                                                       |
-| Mobile Image                        | Select animage to appear in the particle on mobile devices.                                      |
+| Mobile Image                        | Select an image to appear in the particle on mobile devices.                                      |
 | BG Color                            | Select the color of the background for each item if image is not used.                           |
 | Animation                           | Select the animation applied to the image as it is displayed.                                    |
 | Duration                            | Enter the duration (in milliseconds) of the animation.                                           |
