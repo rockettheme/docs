@@ -47,6 +47,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-lexicon/
       * [Vertical Menu](particle_verticalmenu.md)
       * [Video](particle_video.md)
       * [WordPress Posts](particle_wordpress.md)      
+      * [Swiper](particle_swiper.md)
     * Theme Atoms
       * [Animation on Scroll](atom_aos.md)
       * [Parallax](atom_parallax.md)

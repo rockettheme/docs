@@ -30,6 +30,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-topaz/
         * [Grid Statistic](particle_grid.md)
         * [Simple Content](particle_simple.md)
         * [Image Grid](particle_image.md)
+        * [Swiper](particle_swiper.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
     * Core Particles 

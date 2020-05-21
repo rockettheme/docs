@@ -65,6 +65,7 @@ Not pictured here is an **Offcanvas** position which hosts the mobile menu. You 
     * [Strips Slider](particle_stripsslider.md)
     * [Tab Image](particle_tabimage.md)
     * [Testimonial](particle_testimonial.md)
+    * [Swiper](particle_swiper.md)
 * Core Particles 
     - [Logo](http://docs.gantry.org/gantry5/particles/logo)
     - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

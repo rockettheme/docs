@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-aurora/
         + [Testimonials](particle_testimonials.md)
         + [Vertical Slider](particle_vertical.md)
         + [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md)
         - [Fixed Header](atom_fixedheader.md) 

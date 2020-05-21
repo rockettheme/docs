@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-supra/
         + [Slider](particle_slider.md)
         + [Slideshow](particle_slideshow.md)
         + [Video](particle_video.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
         - [Full Page Scrolling](atom_fullpage.md)

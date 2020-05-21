@@ -40,6 +40,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-ambrosia/
         + [Social](particle_social.md)
         + [Stripes Slider](particle_stripeslider.md)
         + [Tab Image](particle_tabimage.md)
+        + [Swiper](particle_swiper.md)
     - Theme Atoms
         * [Animation on Scroll](atom_aos.md)
         * [Fixed Header](atom_fixedheader.md)

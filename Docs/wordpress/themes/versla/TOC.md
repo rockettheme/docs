@@ -34,6 +34,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-versla/
         * [Simple Content](particle_simple.md)
         * [Simple Menu](particle_simplemenu.md)
         * [Image Grid](particle_image.md)
+        * [Swiper](particle_swiper.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
         - [Fixed Header](atom_fixedheader.md)

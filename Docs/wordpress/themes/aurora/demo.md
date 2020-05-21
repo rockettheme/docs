@@ -74,6 +74,7 @@ Here is a list of particles that are available in Aurora, as well as links to do
     - [Testimonials](particle_testimonials.md)
     - [Vertical Slider](particle_vertical.md)
     - [Video](particle_video.md)
+    + [Swiper](particle_swiper.md)
 - Theme Atoms
     + [Fixed Header](atom_fixedheader.md)
 

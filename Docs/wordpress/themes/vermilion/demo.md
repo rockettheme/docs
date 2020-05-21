@@ -75,6 +75,7 @@ Here is a list of particles that are available in Vermilion, as well as links to
     * [Slider](particle_slider.md)
     * [Tab Image](particle_tabimage.md)
     * [Video](particle_video.md)
+    - [Swiper](particle_swiper.md)
 * Theme Atoms
     + [Animation on Scroll](atom_aos.md)
 * Core Particles 

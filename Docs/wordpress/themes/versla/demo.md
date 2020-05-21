@@ -58,6 +58,7 @@ Here is a list of particles that are available in Versla, as well as links to do
     * [Simple Content](particle_simple.md)
     * [Simple Menu](particle_simplemenu.md)
     * [Image Grid](particle_image.md)
+    * [Swiper](particle_swiper.md)
 * Core Particles (Documented on [Gantry's Website](http://gantry.org)):
     * [Logo](http://docs.gantry.org/gantry5/particles/logo)
     * [Menu](http://docs.gantry.org/gantry5/particles/menu-control)
