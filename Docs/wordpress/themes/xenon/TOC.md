@@ -33,6 +33,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-xenon/
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
             * [Overlay](demo_overlay.md)
+            * [Swiper](particle_swiper.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Contact](contact.md)
@@ -44,7 +45,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-xenon/
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
     * [FAQ](faq.md)
-    * [Swiper](particle_swiper.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)

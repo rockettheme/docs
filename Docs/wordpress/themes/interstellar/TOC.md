@@ -30,6 +30,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-interstellar/
             * [Bottom](demo_bottom.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
+            * [Swiper](particle_swiper.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)
@@ -43,7 +44,6 @@ support: http://www.rockettheme.com/forum/wordpress-theme-interstellar/
         - [Animation on Scroll](atom_aos.md) 
         - [Fixed Header](atom_fixedheader.md)
     * [FAQ](faq.md)
-    * [Swiper](particle_swiper.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)
