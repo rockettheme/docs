@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!myriad:Myriad
 
-details: http://www.rockettemplate.com/joomla/templates/myriad/
-demo: http://demo.rockettemplate.com/joomla-templates/myriad/
-download: http://www.rockettemplate.com/joomla/templates/myriad/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-myriad/
+details: http://www.rockettheme.com/joomla/templates/myriad/
+demo: http://demo.rockettheme.com/joomla-templates/myriad/
+download: http://www.rockettheme.com/joomla/templates/myriad/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-myriad/
 
 ---
 

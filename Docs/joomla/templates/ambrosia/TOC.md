@@ -2,10 +2,10 @@
 
 breadcrumb: /joomla:Joomla/!templates:Templates/!ambrosia:Ambrosia
 
-details: http://www.rockettemplate.com/joomla/templates/ambrosia/
-demo: http://demo.rockettemplate.com/joomla-templates/ambrosia/
-download: http://www.rockettemplate.com/joomla/templates/ambrosia/modal/downloads
-support: http://www.rockettemplate.com/forum/joomla-template-ambrosia/
+details: http://www.rockettheme.com/joomla/templates/ambrosia/
+demo: http://demo.rockettheme.com/joomla-templates/ambrosia/
+download: http://www.rockettheme.com/joomla/templates/ambrosia/modal/downloads
+support: http://www.rockettheme.com/forum/joomla-template-ambrosia/
 
 ---
 
