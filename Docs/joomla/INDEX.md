@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Phoenix](templates/phoenix)
 	- [Elixir](templates/elixir)
 	- [Clarity](templates/clarity)
 	- [Audacity (Gantry 5)](templates/audacity)
