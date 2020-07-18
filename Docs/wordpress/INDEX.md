@@ -69,6 +69,7 @@ more:
 
 * Club Themes
 
+	* [Phoenix](themes/phoenix)
 	* [Elixir](themes/elixir)
 	* [Clarity](themes/clarity)
 	* [Audacity (Gantry 5)](themes/audacity)
