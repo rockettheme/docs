@@ -1,7 +1,7 @@
 ---
 title: Phoenix: Animation on Scroll
 description: Your Guide to Using Animation on Scroll
-breadcrumb: /wordpress:WordPress/!templates:Templates/phoenix:Phoenix
+breadcrumb: /wordpress:WordPress/!themes:Themes/phoenix:Phoenix
 
 ---
 

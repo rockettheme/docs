@@ -1,7 +1,7 @@
 ---
 title: Phoenix: Fixed Header Atom
 description: Your Guide to Using the Fixed Header Atom
-breadcrumb: /wordpress:WordPress/!templates:Templates/phoenix:Phoenix
+breadcrumb: /wordpress:WordPress/!themes:Themes/phoenix:Phoenix
 
 ---
 

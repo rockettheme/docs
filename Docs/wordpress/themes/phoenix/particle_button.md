@@ -1,7 +1,7 @@
 ---
 title: Phoenix: Button Particle
 description: Your Guide to Recreating Elements of the Phoenix Demo for WordPress
-breadcrumb: /wordpress:WordPress/!templates:Templates/phoenix:Phoenix
+breadcrumb: /wordpress:WordPress/!themes:Themes/phoenix:Phoenix
 
 ---
 
