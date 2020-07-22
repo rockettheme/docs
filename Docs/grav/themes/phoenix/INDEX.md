@@ -1,7 +1,7 @@
 ---
 title: Phoenix
-description: Your Guide to Using the Phoenix Theme for WordPress
-breadcrumb: /wordpress:WordPress/!themes:Themes/!phoenix:Phoenix
+description: Your Guide to Using the Phoenix Theme for Grav
+breadcrumb: /grav:Grav/!themes:Themes/!phoenix:Phoenix
 
 ---
 
@@ -14,15 +14,16 @@ Phoenix is a fitness driven theme built from the ground up designed to showcase 
 
 New to Gantry 5?
 -----
+
 If you are new to Gantry 5, a good place to start would be our [dedicated Gantry documentation](http://docs.gantry.org).
 
 Requirements
 -----
 
-* Apache 2.2+ or Microsoft IIS 7
-* PHP 7.1+ 
-* MySQL 5.1+
-* WordPress 5.x
+* PHP 7.1+
+* Curl
+* OpenSSL Libraries
+* Multibyte String Support
 
 >> NOTE: Gantry v5.4.34+ is required for Calla to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
@@ -45,7 +46,7 @@ Key Features
 * Image
 * Image Grid
 * Info List
-* WordPress Articles
+* Grav Articles
 * Latest News
 * Logo / Image
 * Logos
