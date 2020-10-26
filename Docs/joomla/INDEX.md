@@ -40,6 +40,7 @@ more:
 
 * Club Templates
 
+	- [Orion](templates/orion)
 	- [Phoenix](templates/phoenix)
 	- [Elixir](templates/elixir)
 	- [Clarity](templates/clarity)
