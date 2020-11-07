@@ -69,6 +69,7 @@ more:
 
 * Club Themes
 
+	* [Orion](themes/orion)
 	* [Phoenix](themes/phoenix)
 	* [Elixir](themes/elixir)
 	* [Clarity](themes/clarity)
