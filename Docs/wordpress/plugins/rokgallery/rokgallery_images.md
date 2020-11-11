@@ -99,7 +99,7 @@ The Slice Editor gives you the ability to edit (or create) individual slices use
 [rokgallery_slice_editor]: assets/rokgallery_slice_editor.jpeg
 [rokgallery_slice_editor_2]: assets/rokgallery_slice_editor_2.jpeg
 [featured]: assets/wp_rokgallery.jpeg
-[rokgallery_download]: http://www.rockettheme.com/wordpress/plugins/rokgallery
+[rokgallery_download]: https://rockettheme.com/wordpress/plugins/rokgallery
 [rokbox]: ../rokbox/
 [admin1]: assets/wp_rokgallery_admin_1.jpeg
 [admin2]: assets/wp_rokgallery_admin_2.jpeg

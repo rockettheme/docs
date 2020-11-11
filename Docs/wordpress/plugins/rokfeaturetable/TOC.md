@@ -2,9 +2,9 @@
 
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
-details: http://www.rockettheme.com/wordpress/plugins/roklegacy
+details: https://rockettheme.com/wordpress/plugins/roklegacy
 download: https://rockettheme.com/wordpress/plugins/roklegacy/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-plugin-rokfeaturetable/
+support: https://rockettheme.com/forum/wordpress-plugin-rokfeaturetable/
 
 ---
 

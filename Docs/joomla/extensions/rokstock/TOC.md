@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/plugins:Plugins/!rokstock:RokStock
 
-details: http://www.rockettheme.com/joomla/extensions/roklegacy
-download: http://www.rockettheme.com/joomla/extensions/roklegacy/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-rokstock/
+details: https://rockettheme.com/joomla/extensions/roklegacy
+download: https://rockettheme.com/joomla/extensions/roklegacy/modal/downloads
+support: https://rockettheme.com/forum/joomla-extension-rokstock/
 
 ---
 

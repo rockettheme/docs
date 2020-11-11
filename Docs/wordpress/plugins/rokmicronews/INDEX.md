@@ -49,5 +49,5 @@ Once installation is complete, you will receive a message indicating that the pl
 [widget1]: assets/wp_rokmicronews_widget_1.png
 [widget2]: assets/wp_rokmicronews_widget_2.png
 [widget3]: assets/wp_rokmicronews_widget_3.png
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2618-rokmicronews
+[download]: https://rockettheme.com/wordpress-downloads/plugins/club/2618-rokmicronews
 [feature]: assets/rokmicronews.jpg

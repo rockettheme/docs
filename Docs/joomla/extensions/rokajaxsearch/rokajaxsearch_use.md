@@ -91,7 +91,7 @@ the oldest item will be loaded in the search result. There are a variety of opti
 5. **Show Read More**: Set whether the Read More link should be display.
 
 [featured]: assets/rokajaxsearch.jpeg
-[rokajaxsearch-download]: http://www.rockettheme.com/extensions-downloads/free/1004-rokajaxsearch
+[rokajaxsearch-download]: https://rockettheme.com/extensions-downloads/free/1004-rokajaxsearch
 [settings1]: assets/rokajaxsearch_settings_1.jpeg
 [settings2]: assets/rokajaxsearch_settings_2.jpeg
 [settings3]: assets/rokajaxsearch_settings_3.jpeg

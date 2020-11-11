@@ -55,5 +55,5 @@ From Joomla 3.x:
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/rokfeaturetable.jpeg
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2616-rokfeaturetable
+[download]: https://rockettheme.com/wordpress-downloads/plugins/club/2616-rokfeaturetable
 [install]: ../../platform/extensions.md#how-to-install-an-extension

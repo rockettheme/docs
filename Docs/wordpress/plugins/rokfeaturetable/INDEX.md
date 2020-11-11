@@ -55,4 +55,4 @@ Once installation is complete, you will receive a message indicating that the pl
 >> NOTE: RocketTheme packages can be updated by uploading the new plugin and/or theme files via FTP, replacing the ones that currently exist on the server. Alternatively, you can remove the existing plugin directory you would like to update via FTP and upload the new package through the backend Installation tool. Deleting a plugin and replacing it using only the Plugin Manager can cause plugin settings to be lost. In either case, we recommend deactivating the plugin or theme prior to replacing its files.
 
 [featured]: assets/rokfeaturetable.jpeg
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2616-rokfeaturetable
+[download]: https://rockettheme.com/wordpress-downloads/plugins/club/2616-rokfeaturetable

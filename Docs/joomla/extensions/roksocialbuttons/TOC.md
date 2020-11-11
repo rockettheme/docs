@@ -2,8 +2,8 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!roksocialbuttons:RokSocialButtons
 
-details: http://www.rockettheme.com/joomla/extensions/rokutilities
-download: http://www.rockettheme.com/joomla/extensions/rokutilities/modal/downloads
+details: https://rockettheme.com/joomla/extensions/rokutilities
+download: https://rockettheme.com/joomla/extensions/rokutilities/modal/downloads
 
 ---
 

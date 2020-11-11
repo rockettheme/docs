@@ -56,7 +56,7 @@ Once installation is complete, a message highlighted in green should indicate it
 
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
-[download]: http://www.rockettheme.com/extensions-downloads/free/1048-roknavmenu
+[download]: https://rockettheme.com/extensions-downloads/free/1048-roknavmenu
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [extension]: assets/roknavmenu.jpeg
 [details]: assets/RokNavMenu_details.jpeg

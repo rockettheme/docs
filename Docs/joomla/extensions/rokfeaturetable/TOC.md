@@ -4,7 +4,7 @@ breadcrumb: /joomla:Joomla/plugins:Plugins/!rokfeaturetable:RokFeatureTable
 
 details: https://rockettheme.com/joomla/extensions/roklegacy
 download: https://rockettheme.com/joomla/extensions/roklegacy/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-rokfeaturetable/
+support: https://rockettheme.com/forum/joomla-extension-rokfeaturetable/
 
 ---
 

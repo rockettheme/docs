@@ -53,4 +53,4 @@ Once installation is complete, you will receive a message (shown above) indicati
 
 [featured]: assets/rokintroscroller.jpeg
 [settings]: assets/wp_rokintroscroller_widget.jpeg
-[download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2617-rokintroscroller
+[download]: https://rockettheme.com/wordpress-downloads/plugins/club/2617-rokintroscroller

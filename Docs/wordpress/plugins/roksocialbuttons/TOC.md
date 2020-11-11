@@ -2,8 +2,8 @@
 
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!roksocialbuttons:RokSocialButtons
 
-details: http://www.rockettheme.com/wordpress/plugins/rokutilities
-download: http://www.rockettheme.com/wordpress/plugins/rokutilities/modal/downloads
+details: https://rockettheme.com/wordpress/plugins/rokutilities
+download: https://rockettheme.com/wordpress/plugins/rokutilities/modal/downloads
 
 ---
 

@@ -2,10 +2,9 @@
 
 breadcrumb: /joomla:Joomla/plugins:Plugins/!rokajaxsearch:RokAjaxSearch
 
-details: http://www.rockettheme.com/joomla/extensions/rokajaxsearch
-demo: http://demo.rockettheme.com/joomla-extensions/rokajaxsearch/
-download: http://www.rockettheme.com/joomla/extensions/rokajaxsearch/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-rokajaxsearch/
+details: https://rockettheme.com/joomla/extensions/rokajaxsearch
+download: https://rockettheme.com/joomla/extensions/rokajaxsearch/modal/downloads
+support: https://rockettheme.com/forum/joomla-extension-rokajaxsearch/
 
 ---
 

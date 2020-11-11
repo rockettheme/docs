@@ -33,7 +33,7 @@ Installing RokCheck takes just a matter of few minutes.
 
 ![RokCheck](assets/rokcheck_1.png)
 
-The first thing you will need to do is [download](http://www.rockettheme.com/joomla/extensions/rokutilities/) the latest version of RokCheck. The package you will download contains all the files you need to get RokCheck up and running. It is compatible with Joomla 3.x, and does not need to be uncompressed. 
+The first thing you will need to do is [download](https://rockettheme.com/joomla/extensions/rokutilities/) the latest version of RokCheck. The package you will download contains all the files you need to get RokCheck up and running. It is compatible with Joomla 3.x, and does not need to be uncompressed. 
 
 Once you have downloaded the package, go into the Joomla Administrator and:
 

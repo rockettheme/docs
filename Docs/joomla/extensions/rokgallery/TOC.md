@@ -2,10 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokgallery:RokGallery
 
-details: http://www.rockettheme.com/joomla/extensions/rokgallery
-demo: http://demo.rockettheme.com/joomla-extensions/rokgallery/
-download: http://www.rockettheme.com/joomla/extensions/rokgallery/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-rokgallery/
+details: https://rockettheme.com/joomla/extensions/rokgallery
+download: https://rockettheme.com/joomla/extensions/rokgallery/modal/downloads
+support: https://rockettheme.com/forum/joomla-extension-rokgallery/
 
 ---
 
@@ -24,4 +23,4 @@ support: http://www.rockettheme.com/forum/joomla-extension-rokgallery/
     * [Create a RokGallery Module](rokgallery_module.md)
         * [Module Configuration](rokgallery_module.md#module-configuration)
 * Tips and Tutorials
-    * [Free Photo Editing Solutions](http://www.rockettheme.com/blog/reviews/124-five-free-photo-editing-solutions)
+    * [Free Photo Editing Solutions](https://rockettheme.com/blog/reviews/124-five-free-photo-editing-solutions)

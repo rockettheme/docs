@@ -59,7 +59,7 @@ Once installation is complete, a message highlighted in green should indicate it
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [featured]: assets/roksprocket-layout.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/club/1000-rokstock
+[download]: https://rockettheme.com/extensions-downloads/club/1000-rokstock
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokstock]: assets/rokstock.jpeg
 [details]: assets/RokStock_details.jpeg

@@ -74,5 +74,5 @@ Once installation is complete, you will receive a message indicating that the pl
 
 
 [featured]: assets/rokbox2-layout.png
-[download]: http://www.rockettheme.com/
+[download]: https://rockettheme.com/
 [install]: assets/install.jpeg

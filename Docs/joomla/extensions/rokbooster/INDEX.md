@@ -113,7 +113,7 @@ Once installation is complete, a message highlighted in green should indicate it
 You can access the RokBooster configuration page by navigating to **Extensions -> Plugin Manager**. In the list, you will find **System - RokBooster**. Click the name in order to enter RokBooster's Plugin Manager. The plugin needs to be set to **Enabled** to operate.
 
 [featured]: assets/roksprocket-layout.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster
+[download]: https://rockettheme.com/extensions-downloads/club/2937-rokbooster
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokbooster]: assets/rokbooster.jpeg
 [details]: assets/RokStock_details.jpeg

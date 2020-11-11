@@ -75,7 +75,7 @@ From Joomla 3.x:
 Once installation is complete, a message highlighted in green should indicate its successful completion.
 
 [featured]: assets/rokcomments.jpg
-[download]: http://www.rockettheme.com/extensions-downloads/free/1061-rokcomments
+[download]: https://rockettheme.com/extensions-downloads/free/1061-rokcomments
 [id]: http://www.intensedebate.com
 [fb]: http://developers.facebook.com
 [dq]: http://www.disqus.com

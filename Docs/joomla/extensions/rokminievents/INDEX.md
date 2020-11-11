@@ -57,5 +57,5 @@ From Joomla 3.x:
 >> NOTE: RocketTheme packages **do not** require you to uninstall them prior to updating or adding new associated extensions. You can simply install and the package will determine if it requires to update your currently installed RocketTheme extensions.
 
 [intro]: assets/rokminievents.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/club/1886-rokminievents
+[download]: https://rockettheme.com/extensions-downloads/club/1886-rokminievents
 [install]: ../../platform/extensions.md#how-to-install-an-extension

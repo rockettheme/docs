@@ -46,7 +46,7 @@ From Joomla 3.x:
 
 Once installation is complete, a message highlighted in green should indicate its successful completion.
 
-[download]: http://www.rockettheme.com/extensions-downloads/club/2937-rokbooster
+[download]: https://rockettheme.com/extensions-downloads/club/2937-rokbooster
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [rokcandy1]: assets/rokcandy_1.jpeg
 [rokcandy2]: assets/rokcandy_2.jpeg

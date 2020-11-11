@@ -83,4 +83,4 @@ If everything worked properly you will get a success message notification. You c
 
 
 [featured]: assets/rokbox2-layout.png
-[download]: http://www.rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download
+[download]: https://rockettheme.com/extensions-downloads/free/rokbox/3173-rokbox-plugin/download

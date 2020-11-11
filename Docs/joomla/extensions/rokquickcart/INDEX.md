@@ -64,7 +64,7 @@ To do this, navigate to **Administrator -> Menus -> Menu Manager** and select th
 
 You can find more information about menu management in Joomla [in our guide][guide].
 
-[download]: http://www.rockettheme.com/extensions-downloads/free/1112-rokquickcart
+[download]: https://rockettheme.com/extensions-downloads/free/1112-rokquickcart
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [extension]: assets/rokquickcart.jpg
 [guide]: ../../basic/menu_manager.md

@@ -90,5 +90,5 @@ A Gantry theme may offer additional customization options based on the theme.
 [widget1]: assets/wp_rokmicronews_widget_1.png
 [widget2]: assets/wp_rokmicronews_widget_2.png
 [widget3]: assets/wp_rokmicronews_widget_3.png
-[rokmicronews-download]: http://www.rockettheme.com/wordpress-downloads/plugins/club/2618-rokmicronews
+[rokmicronews-download]: https://rockettheme.com/wordpress-downloads/plugins/club/2618-rokmicronews
 [feature]: assets/rokmicronews.jpg

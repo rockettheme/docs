@@ -62,5 +62,5 @@ If everything worked properly, you will get a notification indicating as much. Y
 >> NOTE: [RokCommon](https://rockettheme.com/joomla/extensions/rokutilities) is no longer included with RokSprocket's package. You will need to download it individually in order to have it available to support RokSprocket.
 
 [featured]: assets/features.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/free/2841-roksprocket
+[download]: https://rockettheme.com/extensions-downloads/free/2841-roksprocket
 [install]: ../../platform/extensions.md#how-to-install-an-extension

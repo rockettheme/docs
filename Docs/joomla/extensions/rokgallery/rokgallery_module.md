@@ -53,7 +53,7 @@ Once there, you will be asked which type of module you wish to create. RokGaller
 ![][rokgallery_module_basic_1]
 
 :   1. **Gallery** This option allows you to assign a RokGallery tag gallery to the module. Images with tags matching that of this gallery are displayed with the gallery's image preferences. [30%, 72%, sw]
-    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox or RokBox2](http://www.rockettheme.com/joomla/extensions/rokbox), a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
+    2. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox or RokBox2](https://rockettheme.com/joomla/extensions/rokbox), a link determined by the slice settings of the image, the full image, or do nothing at all. [34%, 32%, se]
     3. **Default Linked Item** If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to. [39%, 60%, sw]
     4. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [44%, 32%, se]
     5. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [49%, 60%, sw]

@@ -105,7 +105,7 @@ All other options listed in the above image are added via Gantry. If you are usi
 
 
 [featured]: assets/rokajaxsearch.jpeg
-[rokajaxsearch-download]: http://www.rockettheme.com/wordpress/plugins/rokajaxsearch/modal/downloads
+[rokajaxsearch-download]: https://rockettheme.com/wordpress/plugins/rokajaxsearch/modal/downloads
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg

@@ -55,5 +55,5 @@ Once installation is complete, a message highlighted in green should indicate it
 [plugin1]: assets/wp_rokajaxsearch_plugin_1.jpeg
 [plugin2]: assets/wp_rokajaxsearch_plugin_2.jpeg
 [gantrywidget]: assets/wp_rokajaxsearch_gantrywidget.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/club/1004-rokajaxsearch
+[download]: https://rockettheme.com/extensions-downloads/club/1004-rokajaxsearch
 [install]: ../../platform/extensions.md

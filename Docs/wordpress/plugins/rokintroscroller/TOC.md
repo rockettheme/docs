@@ -2,8 +2,8 @@
 
 breadcrumb: /wordpress:WordPress/!plugins:Plugins/!rokintroscroller:RokIntroScroller
 
-details: http://www.rockettheme.com/wordpress/plugins/roklegacy
-download: http://www.rockettheme.com/wordpress/plugins/roklegacy/modal/downloads
+details: https://rockettheme.com/wordpress/plugins/roklegacy
+download: https://rockettheme.com/wordpress/plugins/roklegacy/modal/downloads
 
 ---
 

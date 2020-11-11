@@ -3,9 +3,9 @@ title: RokMiniEvents
 description: Your Guide to Using RokMiniEvents for Joomla
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokminievents:RokMiniEvents
 
-details: http://www.rockettheme.com/joomla/extensions/roklegacy
-download: http://www.rockettheme.com/joomla/extensions/roklegacy/modal/downloads
-support: http://www.rockettheme.com/forum/joomla-extension-rokminievents/
+details: https://rockettheme.com/joomla/extensions/roklegacy
+download: https://rockettheme.com/joomla/extensions/roklegacy/modal/downloads
+support: https://rockettheme.com/forum/joomla-extension-rokminievents/
 
 ---
 

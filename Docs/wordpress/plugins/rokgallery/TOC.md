@@ -2,10 +2,9 @@
 
 breadcrumb: /wordpess:WordPress/!plugins:Plugins/!rokgallery:RokGallery
 
-details: http://www.rockettheme.com/wordpress/plugins/rokgallery
-demo: http://demo.rockettheme.com/wordpress-plugins/rokgallery/
-download: http://www.rockettheme.com/wordpress/plugins/rokgallery/modal/downloads
-support: http://www.rockettheme.com/forum/wordpress-plugin-rokgallery/
+details: https://rockettheme.com/wordpress/plugins/rokgallery
+download: https://rockettheme.com/wordpress/plugins/rokgallery/modal/downloads
+support: https://rockettheme.com/forum/wordpress-plugin-rokgallery/
 
 ---
 

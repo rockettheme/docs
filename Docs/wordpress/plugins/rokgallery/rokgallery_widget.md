@@ -20,7 +20,7 @@ For the purpose of this documentation, we will split the widget settings into mu
 
 :   1. **Show Title** This is where you can insert title of your widget. If anything is written in this field, it will appear as a title for the widget. If left blank, no title will appear. [25%, 28%]
     2. **Gallery** This option allows you to assign a RokGallery tag gallery to the widget. Simply hit **Select** and choose the gallery you wish to assign to the widget. You can also assign gallery slice settings to the widget through this option. [32%, 28%]
-    3. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox) or one determined by the slice settings of the image, the full image, or do nothing at all. [38%, 28%]
+    3. **Link Type** This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox](https://rockettheme.com/wordpress/plugins/rokbox) or one determined by the slice settings of the image, the full image, or do nothing at all. [38%, 28%]
     4. **Default Linked Item** If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to. [45%, 28%]
     5. **Show Title** This option sets whether or not the title of a slice is shown in the gallery. [52%, 28%]
     6. **Show Caption** This option sets whether or not the caption of a slice appears in the gallery. [58%, 28%]
@@ -33,7 +33,7 @@ For the purpose of this documentation, we will split the widget settings into mu
 
 2. **Gallery**: This option allows you to assign a RokGallery tag gallery to the widget. Simply hit **Select** and choose the gallery you wish to assign to the widget. You can also assign gallery slice settings to the widget through this option.
 
-3. **Link Type**: This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox](http://www.rockettheme.com/wordpress/plugins/rokbox) or one determined by the slice settings of the image, the full image, or do nothing at all.
+3. **Link Type**: This option sets the action resulting from clicking the image in the gallery. You can set it to work with [RokBox](https://rockettheme.com/wordpress/plugins/rokbox) or one determined by the slice settings of the image, the full image, or do nothing at all.
 
 4. **Default Linked Item**: If you have selected **Link in Slice** and you have not set a link within the slice, this will be the link the gallery defaults to.
 
@@ -186,7 +186,7 @@ The Showcase layout works very similarly. You have the option to choose whether 
 [showcase]: assets/rokgallery_showcase.jpeg
 [details]: assets/rokgallery_widget_2.jpeg
 [featured]: assets/wp_rokgallery.jpeg
-[rokgallery_download]: http://www.rockettheme.com/wordpress/plugins/rokgallery
+[rokgallery_download]: https://rockettheme.com/wordpress/plugins/rokgallery
 [rokbox]: ../rokbox/
 [admin1]: assets/wp_rokgallery_admin_1.jpeg
 [admin2]: assets/wp_rokgallery_admin_2.jpeg

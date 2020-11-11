@@ -77,7 +77,7 @@ If everything worked properly, you will get a notification indicating as much. Y
 Go to **System -> Global Configuration**. On the left, find **Default Editor** and set the dropdown to **Editor - RokPad**. The same applies to individual users settings.
 
 [featured]: assets/rokpad-layout.jpeg
-[download]: http://www.rockettheme.com/extensions-downloads/free/1091-rokpad
+[download]: https://rockettheme.com/extensions-downloads/free/1091-rokpad
 [install]: ../../platform/extensions.md#how-to-install-an-extension
 [core]: assets/rokpad_core.jpeg
 [details]: assets/rokpad_details.jpeg
