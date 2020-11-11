@@ -9,7 +9,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/clarity:Clarity
 
 ![](assets/particle_simple1.png)
 
-The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page. The image above shows four Simple Content particles. One sitting in a row above the other three.
+The **Simple Content** particle enables you to quickly and easily add one or more simple blocks of content to your page. 
 
 Here are the topics covered in this guide:
 
