@@ -1,7 +1,7 @@
 ---
-title: Phoenix: Grav Content Particle
-description: Your Guide to Recreating Elements of the Phoenix Demo for Grav
-breadcrumb: /grav:Grav/!themes:Themes/phoenix:Phoenix
+title: Orion: Grav Content Particle
+description: Your Guide to Recreating Elements of the Orion Demo for Grav
+breadcrumb: /grav:Grav/!themes:Themes/orion:Orion
 
 ---
 
