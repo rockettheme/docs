@@ -50,7 +50,7 @@ Particles
 
 Here is a list of particles that are available in Orion, as well as links to documentation to help you get started:
 
->> All Home Particles can be edited via Themes > Orion - Home > Layout. Any additional particles that are found in the Subpages of our Orion RocketLauncher can be located via your Grav Administrator > Extensions > Modules. Grav allows you to search for Modules by Page (see Search Tools > Select Page in Module Manager), so finding these modules should prove to be simple.
+>> All Home Particles can be edited via Grav admin > Gantry 5 > Home > Layout.
 
 Theme Particles
 
