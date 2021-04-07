@@ -44,7 +44,7 @@ support: http://www.rockettheme.com/forum/joomla-template-horizon/
         + [Latest News](particle_latestnews.md)
         + [Quote](particle_quote.md)
         + [Icon Promo](particle_iconpromo.md)
-        + [Comparison Table](particle_comparisontable.md)
+        + [Comparison Table](particle_comparison.md)
         + [Grid Statistic](particle_gridstatistic.md)
         + [Search](particle_search.md)
         + [Social](particle_social.md)

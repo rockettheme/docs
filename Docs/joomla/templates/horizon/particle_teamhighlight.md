@@ -1,5 +1,5 @@
 ---
-title: Horizon: Team Higlight Particle
+title: Horizon: Team Highlight Particle
 description: Your Guide to Recreating Elements of the Horizon Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/horizon:Horizon
 
