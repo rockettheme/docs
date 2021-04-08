@@ -115,7 +115,7 @@ If you did not choose to 'Install Sample Data' upon installing the Flux theme, w
 
 You can access this preset by selecting **Load** in the **Layout Manager**.
 
->> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
+
 
 Menu Editor
 -----

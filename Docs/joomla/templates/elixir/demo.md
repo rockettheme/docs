@@ -112,7 +112,7 @@ If you did not choose to 'Install Sample Data' upon installing the Elixir theme,
 
 You can access this preset by selecting **Load** in the **Layout Manager**. Make sure to uncheck the "Keep the current Particles while changing Preset" checkbox to start fresh with any of our presets.
 
->> Note: We have made presets available for several of our additional demo pages, including: **About Us**, **Portfolio**, and **Pricing**.
+
 
 Menu Editor
 -----
