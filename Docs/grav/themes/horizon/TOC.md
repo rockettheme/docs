@@ -1,15 +1,15 @@
 ---
 
-breadcrumb: /grav:Grav/!themes:Themes/!orion:Orion
+breadcrumb: /grav:Grav/!themes:Themes/!horizon:Horizon
 
-details: http://www.rockettheme.com/grav/themes/orion/
-demo: http://demo.rockettheme.com/grav-themes/orion/
-download: http://www.rockettheme.com/grav/themes/orion/modal/downloads
-support: http://www.rockettheme.com/forum/grav-theme-orion/
+details: http://www.rockettheme.com/grav/themes/horizon/
+demo: http://demo.rockettheme.com/grav-themes/horizon/
+download: http://www.rockettheme.com/grav/themes/horizon/modal/downloads
+support: http://www.rockettheme.com/forum/grav-theme-horizon/
 
 ---
 
-* Orion
+* Horizon
     - [Introduction]()
     - [Key Features](INDEX.md#key-features)
     - [Requirements](INDEX.md#requirements)
@@ -22,28 +22,29 @@ support: http://www.rockettheme.com/forum/grav-theme-orion/
         + [Particle Settings](demo.md#particles)
         + [Front Page Layout](demo.md#home-page-layout-presets)
     - Theme Particles
-        + [Promo](particle_promo.md)
-        + [Slider](particle_slider.md)
-        + [Logos](particle_logos.md)
-        + [Info List](particle_info.md)
-        + [Showcase](particle_showcase.md)
-        + [Icon Promo](particle_iconpromo.md)
-        + [Testimonials](particle_testimonials.md)
-        + [Pricing Table](particle_pricing.md)
-        + [Comparison Table](particle_comparison.md)
-        + [Video](particle_video.md)
-        + [Simple Content](particle_simple.md)
+        + [Simple Contact](particle_simplecontact.md)
         + [Button](particle_button.md)
-        + [User Stories](particle_userstories.md)
-        + [Grid Statistic](particle_grid.md)
-        + [Simple Menu](particle_simplemenu.md)
-        + [Grav Posts](particle_grav.md)
+        + [Slider](particle_slider.md)
+        + [Testimonials](particle_testimonials.md)
+        + [Team Highlight](particle_teamhighlight.md)
+        + [Simple Content](particle_simple.md)
+        + [Feature Slider](particle_featureslider.md)
+        + [Simple CTA](particle_simplecta.md)
+        + [Team](particle_team.md)
+        + [Promo](particle_promo.md)
+        + [Grav Content](particle_grav.md)
+        + [Logos](particle_logos.md)
+        + [Video](particle_video.md)
         + [Newsletter](particle_newsletter.md)
+        + [Simple Menu](particle_simplemenu.md)
         + [Block Content](particle_block.md)
         + [Heading](particle_heading.md)
         + [Image Grid](particle_image.md)
         + [Latest News](particle_latestnews.md)
         + [Quote](particle_quote.md)
+        + [Icon Promo](particle_iconpromo.md)
+        + [Comparison Table](particle_comparison.md)
+        + [Grid Statistic](particle_grid.md)
         + [Search](particle_search.md)
         + [Social](particle_social.md)
         + [Simple Counter](particle_simplecounter.md)
@@ -60,9 +61,9 @@ support: http://www.rockettheme.com/forum/grav-theme-orion/
         + [Spacer](http://docs.gantry.org/gantry5/particles/spacer)
         + [Mobile Menu](http://docs.gantry.org/gantry5/particles/mobile-menu)
         + [Custom HTML](http://docs.gantry.org/gantry5/particles/custom-html)
+        + [Widget Instance](http://docs.gantry.org/gantry5/particles/module-instance)
         + [Page Content](http://docs.gantry.org/gantry5/particles/page-content)
         + [System Messages](http://docs.gantry.org/gantry5/particles/system-messages)
-    - [CSS Classes](css.md)
     - [FAQ](faq.md)
     - Theme Tutorials
         + [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
