@@ -34,6 +34,7 @@ more:
 
 * Club Themes
 
+	- [Horizon](themes/horizon)
 	- [Orion](themes/orion)
 	- [Phoenix](themes/phoenix)
 	- [Elixir](themes/elixir)
