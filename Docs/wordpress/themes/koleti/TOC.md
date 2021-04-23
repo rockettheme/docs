@@ -20,7 +20,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-koleti/
         + [Plugins](demo.md#recommended-plugins)
         + [Style Settings](demo_settings.md)
         + [Particle Settings](demo.md#particles)
-        + [Front Page Layout](layout.md)
+        + [Front Page Layout](demo.md#home-page-layout-presets)
     - Theme Particles
         * [Audio Player](particle_audio.md)
         * [Block Content](particle_block.md)
