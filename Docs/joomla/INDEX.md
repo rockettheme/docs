@@ -156,8 +156,6 @@ more:
 
 	- [RokCheck](extensions/rokcheck/)
 	- [RokBox](extensions/rokbox/)
-	- [RokFeatureTable](extensions/rokfeaturetable/)
-	- [RokGallery](extensions/rokgallery/)
 	- [RokPad](extensions/rokpad/)
 	- [RokSprocket](extensions/roksprocket/)
 	- [RokNavMenu](extensions/roknavmenu/)
@@ -231,6 +229,8 @@ more:
 
 * Legacy Extensions
 
+	- [RokFeatureTable](extensions/rokfeaturetable/)
+	- [RokGallery](extensions/rokgallery/)
 	- [RokWeather](extensions/rokweather/)
 	- [RokStock](extensions/rokstock/)
 	- [RokQuickCart](extensions/rokquickcart/)

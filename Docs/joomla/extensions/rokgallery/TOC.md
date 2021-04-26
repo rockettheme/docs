@@ -2,9 +2,9 @@
 
 breadcrumb: /joomla:Joomla/!extensions:Extensions/!rokgallery:RokGallery
 
-details: https://rockettheme.com/joomla/extensions/rokgallery
-download: https://rockettheme.com/joomla/extensions/rokgallery/modal/downloads
-support: https://rockettheme.com/forum/joomla-extension-rokgallery/
+details: https://rockettheme.com/joomla/extensions/roklegacy
+download: https://rockettheme.com/joomla/extensions/roklegacy/modal/downloads
+support: https://rockettheme.com/forum/joomla-extension-rokquickcart/
 
 ---
 
