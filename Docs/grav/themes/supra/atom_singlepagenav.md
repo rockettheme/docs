@@ -20,7 +20,7 @@ To initialize the library, go to your Base Outline > Page Settings and drag the 
 
 >> NOTE: This atom works best with the Fixed Header atom so as to allow the user to visit additional sections on the page by clicking on each menu item.
 
-By clicking on the atom, you will find the Global settings to be used for your Single Page Nav elements:
+By clicking on the atom's cog icon, you will find the Global settings to be used for the Single Page Nav atom:
 
 ![](assets/spn2.jpg)
 
@@ -41,9 +41,13 @@ In this case in Grav, I've set the logo to the **#g-slideshow** section:
 
 ![](assets/spn3.jpg)
 
-And I've set all the Pages for the menu to external_url as shown (via default.md):
+And I've set all the Pages for the menu to **external_url** as shown (via default.md):
 
 ![](assets/spn4.jpg)
+
+Try to ensure that the menu items associated with the sections on the page are in the correct order (sections from top to bottom correspond with menu items left to right), otherwise unwanted results may occur.
+
+Once everything is set up accordingly, you should see the menu function as shown from the GIF at the beginning of this doc.
 
 Filter Class
 ---------
