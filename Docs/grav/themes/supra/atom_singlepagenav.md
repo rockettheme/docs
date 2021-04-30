@@ -33,11 +33,15 @@ By clicking on the atom's cog icon, you will find the Global settings to be used
 | Speed            | Speed of the scroll on click (ms).                                                                      |
 | Filter Class(es) | Name of selector in section or menu that should NOT use the Single Page Nav atom (separate multiple selectors by commas).     |
 
+For this atom to work properly, please ensure that the JavaScript Frameworks atom is loaded and the jQuery Framework and UI Core are enabled within that atom as shown:
+
+![](assets/spn8.jpg)
+
 Setting Up
 ---------
 Once the atom is in place, and you have decided what section you want to use (in this case we use the navigation section), then you can start setting up the menu items (or logo) with the corresponding sections on the page.
 
-In this case in Grav, I've set the logo to the **#g-slideshow** section:
+In this case, I've set the logo to the **#g-slideshow** section:
 
 ![](assets/spn3.jpg)
 
@@ -49,6 +53,18 @@ Try to ensure that the menu items associated with the sections on the page are i
 
 Once everything is set up accordingly, you should see the menu function as shown from the GIF at the beginning of this doc.
 
+Mobile Setup
+-------------
+
+Since the Single Page Nav should also function in the mobile view, we would encourage you to remove the mobile menu particle from the Offcanvas section:
+
+![](assets/spn6.jpg)
+
+Then your menu will then display similarly in the mobile view:
+
+![](assets/spn7.jpg)
+
+
 Filter Class
 ---------
 
@@ -57,7 +73,7 @@ As shown in the settings screenshot, I've set `.g-social a` as one of the Filter
 Current Class
 ---------
 
-The Current Class setting will specifically add a class to the menu item link when you are currently visting that section:
+The Current Class setting will specifically add a class to the menu item link when you are currently visting that section. By default, we use the `current` class:
 
 ![](assets/spn5.jpg)
 
