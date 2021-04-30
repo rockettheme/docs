@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
 Single Page Nav Atom
 ---------
 
-![](assets/singlepagenav.gif)
+![](assets/spn.mp4)
 
 <a href="https://github.com/ChrisWojcik/single-page-nav">Single Page Nav</a> is a JS library that scrolls to a section on your one page website when you click on a menu item. 
 
@@ -51,7 +51,7 @@ And I've set all the Pages for the menu to **external_url** as shown (via defaul
 
 Try to ensure that the menu items associated with the sections on the page are in the correct order (sections from top to bottom correspond with menu items left to right), otherwise unwanted results may occur.
 
-Once everything is set up accordingly, you should see the menu function as shown from the GIF at the beginning of this doc.
+Once everything is set up accordingly, you should see the menu function as shown from the video at the beginning of this doc.
 
 Mobile Setup
 -------------
