@@ -45,7 +45,7 @@ In this case, I've set the logo to the **#g-slideshow** section:
 
 ![](assets/spn3.jpg)
 
-And I've set all the Menu Items to **System Links -> URL** as shown:
+And I've set all the Menu Items to **System Links -> URL** with the appropriate section as shown:
 
 ![](assets/spn4.jpg)
 
