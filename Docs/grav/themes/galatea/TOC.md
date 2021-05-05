@@ -47,6 +47,7 @@ support: http://www.rockettheme.com/forum/grav-theme-galatea/
     * [Swiper](particle_swiper.md)
     * [Animation on Scroll](atom_aos.md)
     * [Fixed Header](atom_fixedheader.md)
+    * [Single Page Nav](atom_singlepagenav.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
     - [Adding a Custom Style Sheet](http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet)

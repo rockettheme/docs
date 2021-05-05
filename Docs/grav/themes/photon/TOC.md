@@ -22,6 +22,7 @@ support: http://www.rockettheme.com/forum/grav-theme-photon/
         * [Contact Form](../../start/contact.md)
         * Particle / Atom Settings
             * [Animation on Scroll](atom_aos.md)
+        * [Single Page Nav](atom_singlepagenav.md)
             * [Grav Content](particle_grav.md)
             * [Accordion](particle_accordion.md)
             * [Owl Carousel](particle_owl.md)

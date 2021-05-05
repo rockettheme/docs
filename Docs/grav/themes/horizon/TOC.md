@@ -51,6 +51,7 @@ support: http://www.rockettheme.com/forum/grav-theme-horizon/
         + [Swiper](particle_swiper.md)
     - Theme Atoms
         + [Animation on Scroll](atom_aos.md)
+        * [Single Page Nav](atom_singlepagenav.md)
         + [Fixed Header](atom_fixedheader.md)
     - Core Particles
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
