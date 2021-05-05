@@ -1,7 +1,7 @@
 ---
-title: Supra: Single Page Nav
+title: Flux: Single Page Nav
 description: Your Guide to Using Single Page Nav
-breadcrumb: /joomla:Joomla/!templates:Templates/supra:Supra
+breadcrumb: /grav:Grav/!themes:Themes/flux:Flux
 
 ---
 
