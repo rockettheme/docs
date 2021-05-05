@@ -1,7 +1,7 @@
 ---
-title: Akuatik: Single Page Nav
+title: Citadel: Single Page Nav
 description: Your Guide to Using Single Page Nav
-breadcrumb: /wordpress:WordPress/!themes:Themes/akuatik:Akuatik
+breadcrumb: /wordpress:WordPress/!themes:Themes/citadel:Citadel
 
 ---
 
