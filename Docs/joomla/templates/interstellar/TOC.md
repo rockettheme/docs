@@ -33,16 +33,16 @@ support: http://www.rockettheme.com/forum/joomla-template-interstellar/
             * [Copyright](demo_copyright.md)
             + [Swiper](particle_swiper.md)
     * Template Atoms
-            * [Animation on Scroll](atom_aos.md)
-            * [Fixed Header](atom_fixedheader.md)
-        * [Front Page Layout](layout.md)
-        * Sample Pages
-            * [Sample Page Layout](default_layout.md)
-            * [Contact](contact.md)
-            * [Portfolio](portfolio.md)
-            * [About Us](aboutus.md)
-            * [Pricing](pricing.md)
-            * [Blog](blog.md)
+        * [Animation on Scroll](atom_aos.md)
+        * [Fixed Header](atom_fixedheader.md)
+    * [Front Page Layout](layout.md)
+    * Sample Pages
+        * [Sample Page Layout](default_layout.md)
+        * [Contact](contact.md)
+        * [Portfolio](portfolio.md)
+        * [About Us](aboutus.md)
+        * [Pricing](pricing.md)
+        * [Blog](blog.md)
     * [FAQ](faq.md)
 * Template Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)
