@@ -41,6 +41,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-galatea/
             * [Coming Soon](comingsoon.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Single Page Nav](atom_singlepagenav.md)
         - [Fixed Header](atom_fixedheader.md)
     * [FAQ](faq.md)
 * Theme Tutorials

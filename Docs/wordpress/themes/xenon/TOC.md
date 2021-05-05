@@ -44,6 +44,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-xenon/
             * [Coming Soon](comingsoon.md)
     * Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Single Page Nav](atom_singlepagenav.md)
     * [FAQ](faq.md)
 * Theme Tutorials
     - [Overriding Particle Settings](http://docs.gantry.org/gantry5/tutorials/overriding-particle-settings)

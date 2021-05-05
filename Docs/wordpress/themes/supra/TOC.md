@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-supra/
         + [Swiper](particle_swiper.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Single Page Nav](atom_singlepagenav.md)
         - [Full Page Scrolling](atom_fullpage.md)
         - [Fixed Header](atom_fixedheader.md)
     - Core Particles 

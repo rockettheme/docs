@@ -52,6 +52,7 @@ support: http://www.rockettheme.com/forum/wordpress-theme-kraken/
         + [Simple Counter](particle_simplecounter.md)
     - Theme Atoms
         - [Animation on Scroll](atom_aos.md) 
+        - [Single Page Nav](atom_singlepagenav.md)
     - Core Particles 
         + [Logo](http://docs.gantry.org/gantry5/particles/logo)
         + [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

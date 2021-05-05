@@ -40,7 +40,7 @@ support: http://www.rockettheme.com/forum/joomla-template-myriad/
         - [Video](particle_video.md)
         + [Swiper](particle_swiper.md)
     * Template Atoms
-        * [Animation on Scroll](atom_aos.md)
+        * [Animation on Scroll](aos.md)
         * [Single Page Nav](atom_singlepagenav.md)
         * [Fixed Header](atom_fixedheader.md)
     * Core Particles 
