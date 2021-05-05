@@ -1,7 +1,7 @@
 ---
-title: Akuatik: Single Page Nav
+title: Orion: Single Page Nav
 description: Your Guide to Using Single Page Nav
-breadcrumb: /joomla:Joomla/!templates:Templates/akuatik:Akuatik
+breadcrumb: /joomla:Joomla/!templates:Templates/orion:Orion
 
 ---
 
