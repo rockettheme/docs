@@ -30,6 +30,7 @@ support: http://www.rockettheme.com/forum/joomla-template-kraken/
             * [Extension](demo_extension.md)
             * [Footer](demo_footer.md)
             * [Copyright](demo_copyright.md)
+            * [Single Page Nav](atom_singlepagenav.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)

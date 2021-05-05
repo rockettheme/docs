@@ -29,8 +29,9 @@ support: http://www.rockettheme.com/forum/joomla-template-photon/
             * [Extension](demo_extension.md)
             * [Copyright](demo_copyright.md)
             + [Swiper](particle_swiper.md)
-    * Template Atoms
+        * Template Atoms
             * [Animation on Scroll](atom_aos.md)
+            * [Single Page Nav](atom_singlepagenav.md)
         * [Front Page Layout](layout.md)
         * Sample Pages
             * [Sample Page Layout](default_layout.md)

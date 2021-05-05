@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/joomla-template-anacron/
     * Template Atoms
         - [Animation on Scroll](atom_aos.md) 
         - [Fixed Header](atom_fixedheader.md)
+        - [Single Page Nav](atom_singlepagenav.md)
     * Core Particles 
         - [Logo](http://docs.gantry.org/gantry5/particles/logo)
         - [Menu](http://docs.gantry.org/gantry5/particles/menu-control)

@@ -43,6 +43,7 @@ support: http://www.rockettheme.com/forum/joomla-template-supra/
         + [Swiper](particle_swiper.md)
     - Template Atoms
         * [Animation on Scroll](atom_aos.md)
+        * [Single Page Nav](atom_singlepagenav.md)
         * [Full Page Scrolling](atom_fullpage.md)
         * [Fixed Header](atom_fixedheader.md)
     - Core Particles 

@@ -50,6 +50,7 @@ support: http://www.rockettheme.com/forum/joomla-template-lexicon/
       + [Swiper](particle_swiper.md)
     * Template Atoms
       * [Animation on Scroll](atom_aos.md)
+      * [Single Page Nav](atom_singlepagenav.md)
       * [Parallax](atom_parallax.md)
     * Core Particles
       * [Logo](http://docs.gantry.org/gantry5/particles/logo)
