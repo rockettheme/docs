@@ -28,8 +28,8 @@ These options affect the main area of the particle, and not the individual items
 | Option           | Description                                                                                         |
 | :-----           | :-----                                                                                              |
 | Particle Name    | This is the name of the particle used for back end management. It does not appear on the front end. |
-| Title            | **Enable** or **Disable** the prev / next navigation.                                               
-| CSS Classes      | **Enable** or **Disable** the prev / next navigation.                                               |
+| Title            | Sets the title for the particle that appears on the front end.                                               
+| CSS Classes      | Set the CSS class(es) you would like to have apply at the particle level.                                               
 
 ### Particle Item Options
 
