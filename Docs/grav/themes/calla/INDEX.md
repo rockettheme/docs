@@ -24,7 +24,7 @@ Requirements
 * OpenSSL Libraries
 * Multibyte String Support
 
->> NOTE: Gantry 5.4.22+ is required for Denali to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
+>> NOTE: Gantry 5.4.22+ is required for Calla to work correctly. For more details on the Gantry Framework, please visit its [Dedicated Website](http://gantry.org).
 
 Key Features
 -----
