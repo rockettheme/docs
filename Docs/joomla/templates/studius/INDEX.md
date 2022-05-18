@@ -40,13 +40,14 @@ Key Features
 * Block Content
 * Branding
 * Button
+* Comments Slider
 * Comparison Table
 * Copyright
 * Custom HTML
 * Date
-* Feature Slider
 * Grid Statistic
 * Heading
+* Horizontal Menu
 * Icon Promo
 * Image
 * Image Grid
@@ -63,18 +64,15 @@ Key Features
 * Promo
 * Quote
 * Search
-* Simple Contact
+* Showcase
 * Simple Content
 * Simple Counter
 * Simple Menu
-* Simple CTA
 * Slider
 * Social
 * Swiper
-* Team
-* Team Highlight
-* Testimonials
 * To Top
+* User Stories
 * Video
 
 ### Template Features

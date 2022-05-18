@@ -1,5 +1,5 @@
 ---
-title: Studius: Testimonials Particle
+title: Studius: Comments Slider
 description: Your Guide to Recreating Elements of the Studius Demo for Joomla
 breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
 
@@ -7,9 +7,9 @@ breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
 
 ## Introduction
 
-![](assets/particle_testimonials1.png)
+![](assets/particle_commentsslider1.png)
 
-The **Testimonials** particle creates a grid of testimonials, including text content, logo, and alt text.
+The **Testimonials** particle creates a grid of testimonials, including text content, avatar, name and position.
 
 Here are the topics covered in this guide:
 
@@ -25,7 +25,7 @@ Here are the topics covered in this guide:
 
 These options affect the main area of the particle, and not the individual items within. You can set the title of the particle, as well as give it an introductory paragraph here.
 
-![](assets/particle_testimonials2.png)
+![](assets/particle_commentsslider2.png)
 
 | Option        | Description                                                                     |
 | :-----        | :-----                                                                          |
@@ -45,9 +45,9 @@ These options affect the main area of the particle, and not the individual items
 
 These items make up the individual featured items in the particle. They sit apart from the particle's title and introduction. Each item can have its own properties, including icons and written content.
 
-![](assets/particle_testimonials3.png)
+![](assets/particle_commentsslider3.png)
 
-![](assets/particle_testimonials4.png)
+![](assets/particle_commentsslider4.png)
 
 | Option              | Description                                                            |
 | :-----              | :-----                                                                 |
@@ -57,7 +57,7 @@ These items make up the individual featured items in the particle. They sit apar
 
 ### Articles
 
-![](assets/particle_testimonials5.png)
+![](assets/particle_commentsslider5.png)
 
 | Option             | Description                                                                                                     |
 | :----------------- | :-------------------------------------------------------------------------------------------------------------- |
@@ -73,7 +73,7 @@ These items make up the individual featured items in the particle. They sit apar
 
 This section configures how articles are displayed.
 
-![](assets/particle_testimonials6.png)
+![](assets/particle_commentsslider6.png)
 
 | Option          | Description                                                                                        |
 | :-----------    | :------------------------------------------------------------------------------------------------- |
