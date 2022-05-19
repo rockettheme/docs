@@ -40,7 +40,7 @@ more:
 
 * Club Templates
 
-	- [Studius](themes/studius)
+	- [Studius](templates/studius)
 	- [Horizon](templates/horizon)
 	- [Orion](templates/orion)
 	- [Phoenix](templates/phoenix)
