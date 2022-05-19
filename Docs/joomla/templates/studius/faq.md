@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
 
 ## Is Studius compatible for Joomla 1.5 or 2.5?
 
-No, Studius is only compatible with Joomla 3.4+.
+No, Studius is only compatible with Joomla 3.4+ and Joomla 4+.
 
 ## What is Gantry?
 

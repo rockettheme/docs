@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
 
 ## Introduction
 
-![](assets/particle_logos1.png)
-
 The **Logos** particle displays images in a beautiful grid, complete with URL links.
 
 Here are the topics covered in this guide:

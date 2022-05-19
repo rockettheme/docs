@@ -7,8 +7,6 @@ breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
 
 ## Introduction
 
-![](assets/particle_newsletter1.png)
-
 The **Newsletter** particle enables users to sign up for your newsletter. This particle is powered by [MailChimp](http://mailchimp.com/).
 
 Here are the topics covered in this guide:

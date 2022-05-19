@@ -8,7 +8,7 @@ breadcrumb: /joomla:Joomla/!templates:Templates/!studius:Studius
 Introduction
 -----
 
-Studius provides exceptional background elements, exclusive new particles, and a content friendly layout that bring new life to business and corporate websites. A breathtaking, beautiful design for the next generation.
+Studius provides exceptional background elements, exclusive new particles, and a content friendly layout that bring new life to educational projects. Simple but solid design for the next generation school or university.
 
 ![](assets/studius.png)
 
@@ -78,7 +78,7 @@ Key Features
 ### Template Features
 
 * Responsive Layout
-* 6 Preset Styles
+* 4 Preset Styles
 * Block Variations
 * Custom Typography
 * Unlimited Positions
