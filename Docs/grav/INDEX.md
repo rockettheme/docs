@@ -33,7 +33,6 @@ more:
 <!-- -->
 
 * Club Themes
-	- [Studius](themes/studius)
 	- [Horizon](themes/horizon)
 	- [Orion](themes/orion)
 	- [Phoenix](themes/phoenix)

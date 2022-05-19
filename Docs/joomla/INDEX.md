@@ -39,7 +39,7 @@ more:
 <!-- -->
 
 * Club Templates
-
+	- [Studius](themes/studius)
 	- [Horizon](templates/horizon)
 	- [Orion](templates/orion)
 	- [Phoenix](templates/phoenix)
