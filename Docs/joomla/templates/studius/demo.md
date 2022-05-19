@@ -74,6 +74,7 @@ Template Particles
 + [Grid Statistic](particle_grid.md)
 + [Simple Menu](particle_simplemenu.md)
 + [Joomla Articles](particle_joomla.md)
++ [News](particle_news.md)
 + [Newsletter](particle_newsletter.md)
 + [Block Content](particle_block.md)
 + [Heading](particle_heading.md)
@@ -84,6 +85,7 @@ Template Particles
 + [Social](particle_social.md)
 + [Simple Counter](particle_simplecounter.md)
 + [Swiper](particle_swiper.md)
++ [User Stories](particle_userstories.md)
 
 Core Gantry Particles (Documented on [Gantry's Website](http://gantry.org)):
 

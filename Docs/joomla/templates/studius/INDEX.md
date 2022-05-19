@@ -58,6 +58,7 @@ Key Features
 * Logos
 * Menu
 * Mobile Menu
+* News
 * Newsletter
 * Popup Module
 * Pricing Table

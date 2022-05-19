@@ -31,6 +31,7 @@ support: http://www.rockettheme.com/forum/joomla-template-studius/
         + [Joomla Articles](particle_joomla.md)
         + [Logos](particle_logos.md)
         + [Video](particle_video.md)
+        + [News](particle_news.md)
         + [Newsletter](particle_newsletter.md)
         + [Simple Menu](particle_simplemenu.md)
         + [Block Content](particle_block.md)
@@ -45,6 +46,7 @@ support: http://www.rockettheme.com/forum/joomla-template-studius/
         + [Social](particle_social.md)
         + [Simple Counter](particle_simplecounter.md)
         + [Swiper](particle_swiper.md)
+        + [User Stories](particle_userstories.md)
     - Template Atoms
         + [Animation on Scroll](atom_aos.md)
         + [Single Page Nav](atom_singlepagenav.md)
