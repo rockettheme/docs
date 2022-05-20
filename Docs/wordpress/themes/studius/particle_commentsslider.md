@@ -1,7 +1,7 @@
 ---
 title: Studius: Comments Slider
-description: Your Guide to Recreating Elements of the Studius Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
+description: Your Guide to Recreating Elements of the Studius Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/studius:Studius
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Studius: User Stories
-description: Your Guide to Recreating Elements of the Studius Demo for Joomla
-breadcrumb: /joomla:Joomla/!templates:Templates/studius:Studius
+description: Your Guide to Recreating Elements of the Studius Demo for WordPress
+breadcrumb: /wordpress:WordPress/!themes:Themes/studius:Studius
 
 ---
 
@@ -30,7 +30,7 @@ These options affect the main area of the particle, and not the individual items
 | Option        | Description                                                                     |
 | :-----        | :-----                                                                          |
 | Particle Name | Give the particle a name. This only appears on the backend.                     |
-| Content Source | Choose between **Particle** and **Joomla** as the Content Source.   |
+| Content Source | Choose between **Particle** and **WordPress** as the Content Source.   |
 | CSS Classes    | Enter any CSS class(es) you wish to have apply to the particle.   |
 | Prev/Next         | **Enable** or **Disable** navigation buttons.                                                      |
 | Autoplay         | **Enable** or **Disable** autoplay.                                                                 |
